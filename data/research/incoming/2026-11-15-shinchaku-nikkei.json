@@ -1,0 +1,18 @@
+{
+  "people": [
+    {"id": "nakade", "name": "中出匠哉", "title": "株式会社マネーフォワード 取締役執行役員グループCTO", "tags": ["エンジニア", "経営者"], "affiliation": "マネーフォワード"}
+  ],
+  "sources": [
+    {"id": "nk-nakade-2", "type": "interview", "media": "日経BOOKプラス", "title": "マネーフォワードCTO 中出匠哉が推す3冊　成功企業の「普通じゃない」を学ぶ", "url": "https://bookplus.nikkei.com/atcl/column/070300541/103100005/", "publishedAt": "2025-11-19"}
+  ],
+  "recommendations": [
+    {"personId": "nakade", "sourceId": "nk-nakade-2", "book": {"title": "アマゾンの最強の働き方", "subtitle": "Working Backwards", "author": "コリン・ブライアー、ビル・カー", "publisher": "ダイヤモンド社"}},
+    {"personId": "nakade", "sourceId": "nk-nakade-2", "book": {"title": "NO RULES", "subtitle": "世界一「自由」な会社、NETFLIX", "author": "リード・ヘイスティングス、エリン・メイヤー", "publisher": "日本経済新聞出版"}},
+    {"personId": "nakade", "sourceId": "nk-nakade-2", "book": {"title": "マッキンゼー CEOエクセレンス", "subtitle": "一流経営者の要件", "author": "キャロリン・デュワー、スコット・ケラー、ヴィクラム・マルホトラ", "publisher": "早川書房"}}
+  ],
+  "checkedUrls": [
+    {"url": "https://bookplus.nikkei.com/atcl/column/091300565/", "result": "index", "reason": "社長たちの座右書の一覧。2026-11-15時点で第6回以降の新着なし（一覧の全記事が台帳に登録済み）", "person": ""},
+    {"url": "https://bookplus.nikkei.com/atcl/column/070300541/", "result": "index", "reason": "CTOの本棚の一覧。2026-11-15時点で全記事が台帳に登録済み（候補の中出匠哉・103100005を今回取得）", "person": ""},
+    {"url": "https://bookplus.nikkei.com/atcl/column/111500600/", "result": "index", "reason": "トップに聞く読書の軌跡の一覧。2026-11-15時点で新着なし", "person": ""}
+  ]
+}

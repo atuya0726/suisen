@@ -1,0 +1,366 @@
+{
+  "people": [
+    {
+      "id": "takahashi-hiroki",
+      "name": "高橋弘樹",
+      "kana": "たかはしひろき",
+      "title": "映像ディレクター",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "tonari"
+    },
+    {
+      "id": "yoshida-erika",
+      "name": "吉田恵里香",
+      "kana": "よしだえりか",
+      "title": "脚本家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "imamura-shogo",
+      "name": "今村翔吾",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "urino-kiko",
+      "name": "売野機子",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hirano-keiichiro",
+      "name": "平野啓一郎",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "rs-takahashi",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "ReHacQ代表 映像ディレクター・高橋弘樹、人生や仕事に影響を与えた本を聞く",
+      "url": "https://realsound.jp/book/2025/01/post-1883708.html",
+      "publishedAt": "2025-01-22"
+    },
+    {
+      "id": "rs-yoshida",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "脚本家・吉田恵里香、2024年に読んだおすすめ書籍3選　川上弘美の短編、小川公代の評論、もう一冊は？",
+      "url": "https://realsound.jp/book/2024/12/post-1869921.html",
+      "publishedAt": "2024-12-30"
+    },
+    {
+      "id": "rs-imamura",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "小説家・今村翔吾　2024年に読んだおすすめ書籍3選「資料として購入したけど面白すぎた本」の内容とは？",
+      "url": "https://realsound.jp/book/2025/01/post-1890818.html",
+      "publishedAt": "2025-01-15"
+    },
+    {
+      "id": "rs-urino",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "『ありす、宇宙までも』漫画家・売野機子のおすすめ書籍は？　千葉雅也の小説など気になる愛読書を紹介",
+      "url": "https://realsound.jp/book/2025/01/post-1893707.html",
+      "publishedAt": "2025-01-16"
+    },
+    {
+      "id": "po-hirano",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.1／平野啓一郎『文学は何の役に立つのか？』",
+      "url": "https://popeyemagazine.jp/post-267323/",
+      "publishedAt": "2025-12-06"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "takahashi-hiroki",
+      "sourceId": "rs-takahashi",
+      "book": {
+        "title": "青べか日記",
+        "author": "山本周五郎"
+      },
+      "context": "座右の書"
+    },
+    {
+      "personId": "takahashi-hiroki",
+      "sourceId": "rs-takahashi",
+      "book": {
+        "title": "まばたきで消えていく",
+        "author": "藤宮若菜",
+        "publisher": "書肆侃侃房"
+      }
+    },
+    {
+      "personId": "takahashi-hiroki",
+      "sourceId": "rs-takahashi",
+      "book": {
+        "title": "邪鬼の性",
+        "author": "水尾比呂志",
+        "publisher": "淡交新社"
+      }
+    },
+    {
+      "personId": "yoshida-erika",
+      "sourceId": "rs-yoshida",
+      "book": {
+        "title": "女の子に生まれたこと、後悔してほしくないから",
+        "author": "犬山紙子",
+        "publisher": "ディスカヴァー・トゥエンティワン"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "yoshida-erika",
+      "sourceId": "rs-yoshida",
+      "book": {
+        "title": "ぼくの死体をよろしくたのむ",
+        "author": "川上弘美",
+        "publisher": "新潮社"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "yoshida-erika",
+      "sourceId": "rs-yoshida",
+      "book": {
+        "title": "翔ぶ女たち",
+        "author": "小川公代",
+        "publisher": "講談社"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "imamura-shogo",
+      "sourceId": "rs-imamura",
+      "book": {
+        "title": "織豊期主要人物居所集成",
+        "author": "藤井讓治",
+        "publisher": "思文閣"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "imamura-shogo",
+      "sourceId": "rs-imamura",
+      "book": {
+        "title": "あの日の風を描く",
+        "author": "愛野史香",
+        "publisher": "角川春樹事務所"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "imamura-shogo",
+      "sourceId": "rs-imamura",
+      "book": {
+        "title": "小右記",
+        "author": "藤原実資",
+        "publisher": "KADOKAWA",
+        "edition": "現代語訳版（倉本一宏編）"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "urino-kiko",
+      "sourceId": "rs-urino",
+      "book": {
+        "title": "ジョヴァンニの部屋",
+        "author": "ジェームズ・ボールドウィン",
+        "publisher": "白水社",
+        "edition": "Uブックス"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "hirano-keiichiro",
+      "sourceId": "po-hirano",
+      "book": {
+        "title": "阿部一族",
+        "author": "森鷗外",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "hirano-keiichiro",
+      "sourceId": "po-hirano",
+      "book": {
+        "title": "白痴",
+        "author": "フョードル・ドストエフスキー",
+        "publisher": "光文社",
+        "edition": "光文社古典新訳文庫（亀山郁夫訳）"
+      }
+    },
+    {
+      "personId": "hirano-keiichiro",
+      "sourceId": "po-hirano",
+      "book": {
+        "title": "すべての、白いものたちの",
+        "author": "ハン・ガン",
+        "publisher": "河出書房新社",
+        "edition": "斎藤真理子訳"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.lifehacker.jp/feature/bbc/",
+      "result": "index",
+      "reason": "ライフハッカー「BLIND BOOK CLUB」特集。2019年の7記事のみ（宮坂学・篠田真貴子・西口一希・林千晶・松本大・横石崇・竹下隆一郎）で全件確認。いずれも書名を伏せる企画で、本文に書名が出ず推薦として使えない。更新も2019年末で止まっており今後見る価値は低い",
+      "person": ""
+    },
+    {
+      "url": "https://realsound.jp/book/category/interview/famous",
+      "result": "index",
+      "reason": "Real Sound ブックの識者・著名人インタビュー一覧。出版・著者宣伝インタビューが大半で、本人が愛読書を挙げる回は少数（『2024年に読んだおすすめ書籍3選』『人生や仕事に影響を与えた本を聞く』など年末・年始の企画）。1ページ目の約45件の題名を見て5件を読んだ。2ページ目以降は取得できず。今後は低頻度で見る価値あり（年末年始の読書企画）",
+      "person": ""
+    },
+    {
+      "url": "https://popeyemagazine.jp/category/monthly-side-books/",
+      "result": "index",
+      "reason": "POPEYE Web『今月の副読書。』。月1回、取り上げた本の著者が自らおすすめの副読書を3冊挙げる連載（2025年12月のVol.1から2026年11月のVol.11まで全11件）。1件（Vol.1）を読んで採用。残りは候補。毎月更新されるので今後も見る価値が高い（著者次第で有名人度は変わる）",
+      "person": ""
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_miyasaka-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）",
+      "person": "宮坂学"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_shinoda-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）",
+      "person": "篠田真貴子"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_nishiguchi-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+      "person": "西口一希"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_hayashi-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+      "person": "林千晶"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_monex-matsumoto-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+      "person": "松本大"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_yokoishi-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+      "person": "横石崇"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/bbc_takeshita-san/",
+      "result": "rejected",
+      "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+      "person": "竹下隆一郎"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/2303-blt-report-27-innamiatsushi/",
+      "result": "rejected",
+      "reason": "自著の刊行イベントのレポートで、紹介書は自著に収録した本が中心。冒頭のみ読み、他者の本を本人が薦めているか断定できず",
+      "person": "印南敦史"
+    },
+    {
+      "url": "https://realsound.jp/book/2026/11/post-2581627.html",
+      "result": "rejected",
+      "reason": "冒頭のみ確認。文章・孤独をめぐる著書関連のインタビューで、他者の本の推薦は確認できず",
+      "person": "ゆっきゅん"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-271326/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.2。自著の宣伝回。副読書の選者が本人で、芸人として検索される人物。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "濱田祐太郎"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-274492/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.3。副読書3冊を著者が推薦する回。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "水野太貴"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-277419/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.4。芥川賞候補の作家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "坂本湾"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-280509/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.5。シンガーソングライター・文筆家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "寺尾紗穂"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-283145/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.6。ゲームSF作家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "赤野工作"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-286050/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.7。批評家（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "パンス"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-292412/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.8。臨床社会学者（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "西井開"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-292402/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.9。劇作家・演出家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "山田由梨"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-296789/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.10。音楽ライター。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "磯部涼"
+    },
+    {
+      "url": "https://popeyemagazine.jp/post-300050/",
+      "result": "candidate",
+      "reason": "POPEYE『今月の副読書。』Vol.11。詩人（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+      "person": "西プネウマ"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/12/post-2246524.html",
+      "result": "candidate",
+      "reason": "環ROYがYA小説『杉森くんを殺すには』を語る回。本人の薦める本か未確認。未読",
+      "person": "環ROY"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/03/post-1955342.html",
+      "result": "rejected",
+      "reason": "出版社企画の推薦インタビューの可能性があり、宣伝対象の本と区別できない",
+      "person": "チャンカワイ"
+    }
+  ]
+}

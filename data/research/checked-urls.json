@@ -1249,8 +1249,8 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/it/matsunaga/",
-    "result": "candidate",
-    "reason": "取得して分量を確認したが今回は選ばなかった（短い）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-matsunaga",
     "checkedAt": "2026-11-15"
   },
   {
@@ -1645,8 +1645,8 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/law/nakanishi/",
-    "result": "candidate",
-    "reason": "取得して分量を確認したが今回は選ばなかった（短い）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-nakanishi",
     "checkedAt": "2026-11-15"
   },
   {
@@ -1903,8 +1903,8 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/mdl/azuma/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-azuma",
     "checkedAt": "2026-11-15"
   },
   {
@@ -2293,8 +2293,8 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/ph/kitazawa/",
-    "result": "candidate",
-    "reason": "取得して分量を確認したが今回は選ばなかった（短い）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-kitazawa",
     "checkedAt": "2026-11-15"
   },
   {
@@ -2324,15 +2324,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/ps/shigemori/",
-    "result": "candidate",
-    "reason": "取得して内容を確認済みだが今回は選ばなかった（本が多く有望）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-shigemori",
     "person": "重森臣広",
     "checkedAt": "2026-11-15"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/rp/fukumoto/",
-    "result": "candidate",
-    "reason": "取得して分量を確認したが今回は選ばなかった（短い）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-fukumoto",
     "checkedAt": "2026-11-15"
   },
   {
@@ -2391,8 +2391,8 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/sc/kawamura/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-kawamura-sc",
     "checkedAt": "2026-11-15"
   },
   {
@@ -2427,20 +2427,20 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/sci/kaneko/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-kaneko",
     "checkedAt": "2026-11-15"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/sh/kawai/",
-    "result": "candidate",
-    "reason": "取得済みだが今回は選ばなかった（有望）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-kawai",
     "checkedAt": "2026-11-15"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/ss/kashiwagi/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
+    "result": "adopted",
+    "reason": "sources.json の ritsumei-lib-kashiwagi",
     "checkedAt": "2026-11-15"
   },
   {
@@ -2628,8 +2628,8 @@
   },
   {
     "url": "https://bookplus.nikkei.com/atcl/column/070300541/103100005/",
-    "result": "candidate",
-    "reason": "別連載（070300541、エンジニア・CTO選書）。薦める本の記事だが上限と対象外の連載のため未取得",
+    "result": "adopted",
+    "reason": "sources.json の nk-nakade-2",
     "person": "中出匠哉",
     "checkedAt": "2026-11-15"
   },
@@ -7301,8 +7301,8 @@
   },
   {
     "url": "https://popeyemagazine.jp/post-180303/",
-    "result": "candidate",
-    "reason": "Vol.11 選書：はな（モデル・タレント）。『読むパンダ』（黒柳徹子/日本ペンクラブ編）『のらみみ』（原一雄）『日本の美 茶の美』（北見宗幸）『散歩のとき何か食べたくなって』（池波正太郎）。単名のため今回見送り",
+    "result": "adopted",
+    "reason": "sources.json の pop-180303",
     "person": "はな",
     "checkedAt": "2026-11-15"
   },
@@ -7361,15 +7361,15 @@
   },
   {
     "url": "https://croissant-online.jp/life/240312/",
-    "result": "candidate",
-    "reason": "山田詠美さんが今読みたい本 テーマ：人生（未開封）",
+    "result": "adopted",
+    "reason": "sources.json の cro-240312",
     "person": "山田詠美",
     "checkedAt": "2026-11-15"
   },
   {
     "url": "https://croissant-online.jp/life/240320/",
-    "result": "candidate",
-    "reason": "保坂和志さんが今読みたい本 テーマ「本の読み方」（未開封）",
+    "result": "adopted",
+    "reason": "sources.json の cro-240320",
     "person": "保坂和志",
     "checkedAt": "2026-11-15"
   },
@@ -7686,6 +7686,224 @@
     "url": "https://honcierge.jp/articles/shelf_story/11843",
     "result": "candidate",
     "reason": "個人の「今年の5冊」。1人の企画で他の選者がいないため対象外として未取得",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/page/3/",
+    "result": "unreachable",
+    "reason": "404（3ページ目は存在しない。2ページ目までで全件）",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://brutus.jp/post-489417/",
+    "result": "adopted",
+    "reason": "sources.json の bru-489417",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240301/",
+    "result": "adopted",
+    "reason": "sources.json の cro-240301",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://brutus.jp/post-295472/",
+    "result": "adopted",
+    "reason": "sources.json の bru-295472",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://brutus.jp/post-295444/",
+    "result": "adopted",
+    "reason": "sources.json の bru-295444",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://brutus.jp/post-295454/",
+    "result": "adopted",
+    "reason": "sources.json の bru-295454",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/3071",
+    "result": "adopted",
+    "reason": "sources.json の bun-3071",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240332/",
+    "result": "adopted",
+    "reason": "sources.json の cro-240332",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/01/post-1893707.html",
+    "result": "adopted",
+    "reason": "sources.json の rs-urino",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-267323/",
+    "result": "adopted",
+    "reason": "sources.json の po-hirano",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/12/post-1869921.html",
+    "result": "adopted",
+    "reason": "sources.json の rs-yoshida",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/01/post-1890818.html",
+    "result": "adopted",
+    "reason": "sources.json の rs-imamura",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/01/post-1883708.html",
+    "result": "adopted",
+    "reason": "sources.json の rs-takahashi",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_miyasaka-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）",
+    "person": "宮坂学",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_shinoda-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）",
+    "person": "篠田真貴子",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_nishiguchi-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+    "person": "西口一希",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_hayashi-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+    "person": "林千晶",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_monex-matsumoto-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+    "person": "松本大",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_yokoishi-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+    "person": "横石崇",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/bbc_takeshita-san/",
+    "result": "rejected",
+    "reason": "BLIND BOOK CLUB は書名・著者を伏せて届ける企画で、記事本文に推薦書の書名が出ない（確認できず）（冒頭と画像の代替テキストのみ確認。本文の全読はしていない）",
+    "person": "竹下隆一郎",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/11/post-2581627.html",
+    "result": "rejected",
+    "reason": "冒頭のみ確認。文章・孤独をめぐる著書関連のインタビューで、他者の本の推薦は確認できず",
+    "person": "ゆっきゅん",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-271326/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.2。自著の宣伝回。副読書の選者が本人で、芸人として検索される人物。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "濱田祐太郎",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-274492/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.3。副読書3冊を著者が推薦する回。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "水野太貴",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-277419/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.4。芥川賞候補の作家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "坂本湾",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-280509/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.5。シンガーソングライター・文筆家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "寺尾紗穂",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-283145/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.6。ゲームSF作家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "赤野工作",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-286050/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.7。批評家（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "パンス",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-292412/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.8。臨床社会学者（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "西井開",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-292402/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.9。劇作家・演出家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "山田由梨",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-296789/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.10。音楽ライター。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "磯部涼",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://popeyemagazine.jp/post-300050/",
+    "result": "candidate",
+    "reason": "POPEYE『今月の副読書。』Vol.11。詩人（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "person": "西プネウマ",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/12/post-2246524.html",
+    "result": "candidate",
+    "reason": "環ROYがYA小説『杉森くんを殺すには』を語る回。本人の薦める本か未確認。未読",
+    "person": "環ROY",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/03/post-1955342.html",
+    "result": "rejected",
+    "reason": "出版社企画の推薦インタビューの可能性があり、宣伝対象の本と区別できない",
+    "person": "チャンカワイ",
     "checkedAt": "2026-11-15"
   }
 ]

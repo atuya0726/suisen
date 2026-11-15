@@ -1,0 +1,146 @@
+{
+  "people": [
+    {
+      "id": "hagiwara",
+      "name": "萩原利久",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "hirose",
+      "name": "広瀬アリス",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "yamashita",
+      "name": "山下美月",
+      "title": "俳優・モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "matsushima",
+      "name": "松嶋菜々子",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "takasugi",
+      "name": "高杉真宙",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-hagiwara",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "萩原利久さんが選んだ一冊は魚豊の『チ。』「心が冷静でいられなくなるぐらいハマった」「自分の好奇心には嘘をつきたくない」",
+      "url": "https://ddnavi.com/article/1450604/a/",
+      "publishedAt": "2026-11-05"
+    },
+    {
+      "id": "s-hirose",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "広瀬アリスさんが選んだ一冊。「人生が『呪術廻戦』で彩られています」最も愛を注いでいるキャラはいったい誰？",
+      "url": "https://ddnavi.com/article/1437782/a/",
+      "publishedAt": "2026-09-23"
+    },
+    {
+      "id": "s-yamashita",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "山下美月さんが選んだ一冊は、吉高由里子さんの『しらふ』。「吉高さんの人間力が全開」「これまで以上に命を燃やすようなお芝居をされている」",
+      "url": "https://ddnavi.com/article/1422994/a/",
+      "publishedAt": "2026-07-28"
+    },
+    {
+      "id": "s-matsushima",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "松嶋菜々子さんが選んだ一冊とは？「やなせさんの言葉には、苦しくても頑張ろうという温かい強さがあります」",
+      "url": "https://ddnavi.com/article/1318209/a/",
+      "publishedAt": "2026-01-27"
+    },
+    {
+      "id": "s-takasugi",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "高杉真宙さんが選んだ一冊とは？「“継承”という言葉が大きくなっていて『チ。』のテーマに、これだ！と思いました」",
+      "url": "https://ddnavi.com/article/1318202/a/",
+      "publishedAt": "2026-01-27"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "hagiwara",
+      "sourceId": "s-hagiwara",
+      "book": {
+        "title": "チ。",
+        "author": "魚豊",
+        "subtitle": "地球の運動について",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "hirose",
+      "sourceId": "s-hirose",
+      "book": {
+        "title": "呪術廻戦",
+        "author": "芥見下々",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yamashita",
+      "sourceId": "s-yamashita",
+      "book": {
+        "title": "しらふ",
+        "author": "吉高由里子",
+        "publisher": "ワニブックス"
+      }
+    },
+    {
+      "personId": "matsushima",
+      "sourceId": "s-matsushima",
+      "book": {
+        "title": "愛・LOVE・優",
+        "author": "やなせたかし",
+        "publisher": "やなせスタジオ"
+      }
+    },
+    {
+      "personId": "takasugi",
+      "sourceId": "s-takasugi",
+      "book": {
+        "title": "チ。",
+        "author": "魚豊",
+        "subtitle": "地球の運動について",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/page/3/",
+      "result": "unreachable",
+      "reason": "404（3ページ目は存在しない。2ページ目までで全件）",
+      "person": ""
+    }
+  ]
+}

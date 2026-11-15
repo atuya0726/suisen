@@ -1,0 +1,483 @@
+{
+  "people": [
+    {
+      "id": "yamada-eimi",
+      "name": "山田詠美",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hosaka-kazushi",
+      "name": "保坂和志",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "konosu-yukiko",
+      "name": "鴻巣友季子",
+      "title": "翻訳家、文芸評論家",
+      "tags": []
+    },
+    {
+      "id": "ishida-hikari",
+      "name": "石田ひかり",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "nakae-yuri",
+      "name": "中江有里",
+      "title": "俳優、小説家",
+      "tags": [
+        "作家",
+        "芸能"
+      ]
+    },
+    {
+      "id": "nishida",
+      "name": "ニシダ",
+      "title": "お笑い芸人（ラランド）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ogawa-satoshi",
+      "name": "小川哲",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "okamoto-maho",
+      "name": "岡本真帆",
+      "title": "歌人",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "yamauchi-mariko",
+      "name": "山内マリコ",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hana-model",
+      "name": "はな",
+      "title": "モデル・タレント",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "noguchi-yukio",
+      "name": "野口悠紀雄",
+      "title": "経済学者",
+      "tags": [
+        "研究者"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "cro-240312",
+      "type": "article",
+      "media": "クロワッサンオンライン",
+      "title": "山田詠美さんが今読みたい本　テーマ：人生",
+      "url": "https://croissant-online.jp/life/240312/",
+      "publishedAt": "2025-03-12"
+    },
+    {
+      "id": "cro-240320",
+      "type": "article",
+      "media": "クロワッサンオンライン",
+      "title": "保坂和志さんが今読みたい本　テーマ「本の読み方」",
+      "url": "https://croissant-online.jp/life/240320/",
+      "publishedAt": "2025-03-13"
+    },
+    {
+      "id": "cro-240332",
+      "type": "article",
+      "media": "クロワッサンオンライン",
+      "title": "鴻巣友季子さんが今読みたい本　テーマ「小さな本の魅力」",
+      "url": "https://croissant-online.jp/life/240332/",
+      "publishedAt": "2025-03-14"
+    },
+    {
+      "id": "cro-240301",
+      "type": "article",
+      "media": "クロワッサンオンライン",
+      "title": "あなたに贈りたい本　石田ひかりさんと中江有里さんの「人生を充たす本」",
+      "url": "https://croissant-online.jp/life/240301/",
+      "publishedAt": "2025-03-11"
+    },
+    {
+      "id": "bru-295444",
+      "type": "article",
+      "media": "BRUTUS",
+      "title": "お笑い芸人・ニシダの、絶対に捨てられない1冊。小川洋子『密やかな結晶』",
+      "url": "https://brutus.jp/post-295444/",
+      "publishedAt": "2023-12-19"
+    },
+    {
+      "id": "bru-295454",
+      "type": "article",
+      "media": "BRUTUS",
+      "title": "歌人・岡本真帆の、絶対に捨てられない1冊。宮沢賢治『新編 銀河鉄道の夜』",
+      "url": "https://brutus.jp/post-295454/",
+      "publishedAt": "2023-12-20"
+    },
+    {
+      "id": "bru-295472",
+      "type": "article",
+      "media": "BRUTUS",
+      "title": "作家・小川哲の、絶対に捨てられない1冊。リチャード・パワーズ『舞踏会へ向かう三人の農夫』",
+      "url": "https://brutus.jp/post-295472/",
+      "publishedAt": "2023-12-21"
+    },
+    {
+      "id": "bru-489417",
+      "type": "article",
+      "media": "BRUTUS",
+      "title": "私の本棚の、主。作家・山内マリコ",
+      "url": "https://brutus.jp/post-489417/"
+    },
+    {
+      "id": "pop-180303",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "あの人のリーディングリスト。Vol.11 選書: はな",
+      "url": "https://popeyemagazine.jp/post-180303/",
+      "publishedAt": "2023-10-06"
+    },
+    {
+      "id": "bun-3071",
+      "type": "article",
+      "media": "文春オンライン",
+      "title": "達人10人が選ぶ教養力増強ブックガイド　野口悠紀雄の3冊　挑戦なしに成長はない",
+      "url": "https://bunshun.jp/articles/-/3071",
+      "publishedAt": "2015-06-09"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "yamada-eimi",
+      "sourceId": "cro-240312",
+      "book": {
+        "title": "料理と人生",
+        "author": "マリーズ・コンデ",
+        "publisher": "左右社"
+      }
+    },
+    {
+      "personId": "yamada-eimi",
+      "sourceId": "cro-240312",
+      "book": {
+        "title": "アワヨンベは大丈夫",
+        "author": "伊藤亜和",
+        "publisher": "晶文社"
+      }
+    },
+    {
+      "personId": "yamada-eimi",
+      "sourceId": "cro-240312",
+      "book": {
+        "title": "アウシュヴィッツの小さな厩番",
+        "author": "ヘンリー・オースター、デクスター・フォード",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "hosaka-kazushi",
+      "sourceId": "cro-240320",
+      "book": {
+        "title": "「百年の孤独」を代わりに読む",
+        "author": "友田とん",
+        "publisher": "早川書房",
+        "edition": "ハヤカワ文庫"
+      }
+    },
+    {
+      "personId": "hosaka-kazushi",
+      "sourceId": "cro-240320",
+      "book": {
+        "title": "プルーストを読む生活",
+        "author": "柿内正午",
+        "publisher": "H.A.B"
+      }
+    },
+    {
+      "personId": "hosaka-kazushi",
+      "sourceId": "cro-240320",
+      "book": {
+        "title": "読書の日記",
+        "author": "阿久津隆",
+        "subtitle": "皮算用/ストレッチ/屋上",
+        "publisher": "NUMABOOKS"
+      }
+    },
+    {
+      "personId": "konosu-yukiko",
+      "sourceId": "cro-240332",
+      "book": {
+        "title": "三部作",
+        "author": "ヨン・フォッセ",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "konosu-yukiko",
+      "sourceId": "cro-240332",
+      "book": {
+        "title": "川のある街",
+        "author": "江國香織",
+        "publisher": "朝日新聞出版"
+      }
+    },
+    {
+      "personId": "konosu-yukiko",
+      "sourceId": "cro-240332",
+      "book": {
+        "title": "救出の距離",
+        "author": "サマンタ・シュウェブリン",
+        "publisher": "国書刊行会"
+      }
+    },
+    {
+      "personId": "konosu-yukiko",
+      "sourceId": "cro-240332",
+      "book": {
+        "title": "とるに足りない細部",
+        "author": "アダニーヤ・シブリー",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "nakae-yuri",
+      "sourceId": "cro-240301",
+      "book": {
+        "title": "よっちぼっち",
+        "author": "齋藤陽道",
+        "publisher": "暮しの手帖社"
+      },
+      "note": "石田ひかりに贈りたい本として紹介"
+    },
+    {
+      "personId": "nakae-yuri",
+      "sourceId": "cro-240301",
+      "book": {
+        "title": "元気じゃないけど、悪くない",
+        "author": "青山ゆみこ",
+        "publisher": "ミシマ社"
+      },
+      "note": "石田ひかりに贈りたい本として紹介"
+    },
+    {
+      "personId": "nakae-yuri",
+      "sourceId": "cro-240301",
+      "book": {
+        "title": "富士山",
+        "author": "平野啓一郎",
+        "publisher": "新潮社"
+      },
+      "note": "石田ひかりに贈りたい本として紹介"
+    },
+    {
+      "personId": "ishida-hikari",
+      "sourceId": "cro-240301",
+      "book": {
+        "title": "無人島のふたり",
+        "author": "山本文緒",
+        "subtitle": "120日以上生きなくちゃ日記",
+        "publisher": "新潮社"
+      },
+      "note": "中江有里に贈りたい本として紹介"
+    },
+    {
+      "personId": "ishida-hikari",
+      "sourceId": "cro-240301",
+      "book": {
+        "title": "ちいさな島",
+        "author": "ゴールデン・マクドナルド（作）、レナード・ワイスガード（絵）",
+        "publisher": "童話館出版"
+      },
+      "note": "中江有里に贈りたい本として紹介"
+    },
+    {
+      "personId": "ishida-hikari",
+      "sourceId": "cro-240301",
+      "book": {
+        "title": "巨樹・巨木図鑑",
+        "author": "小山洋二",
+        "publisher": "日本文芸社"
+      },
+      "note": "中江有里に贈りたい本として紹介"
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "bru-295444",
+      "book": {
+        "title": "密やかな結晶",
+        "author": "小川洋子",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "okamoto-maho",
+      "sourceId": "bru-295454",
+      "book": {
+        "title": "新編 銀河鉄道の夜",
+        "author": "宮沢賢治",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "ogawa-satoshi",
+      "sourceId": "bru-295472",
+      "book": {
+        "title": "舞踏会へ向かう三人の農夫 上",
+        "author": "リチャード・パワーズ（著）、柴田元幸（訳）",
+        "publisher": "河出書房新社",
+        "edition": "河出文庫"
+      },
+      "note": "上下巻のうち上巻として登録"
+    },
+    {
+      "personId": "yamauchi-mariko",
+      "sourceId": "bru-489417",
+      "book": {
+        "title": "THE YEAR OF 2000 BOOK",
+        "author": "リテレール編集部（編）",
+        "subtitle": "20世紀カルチャー・アンソロジー",
+        "publisher": "メタローグ"
+      }
+    },
+    {
+      "personId": "hana-model",
+      "sourceId": "pop-180303",
+      "book": {
+        "title": "読むパンダ",
+        "author": "黒柳徹子（著）、日本ペンクラブ（編）"
+      }
+    },
+    {
+      "personId": "hana-model",
+      "sourceId": "pop-180303",
+      "book": {
+        "title": "のらみみ",
+        "author": "原一雄"
+      }
+    },
+    {
+      "personId": "hana-model",
+      "sourceId": "pop-180303",
+      "book": {
+        "title": "日本の美 茶の美",
+        "author": "北見宗幸（監修・執筆）"
+      }
+    },
+    {
+      "personId": "hana-model",
+      "sourceId": "pop-180303",
+      "book": {
+        "title": "散歩のとき何か食べたくなって",
+        "author": "池波正太郎"
+      }
+    },
+    {
+      "personId": "noguchi-yukio",
+      "sourceId": "bun-3071",
+      "book": {
+        "title": "マゼラン・アメリゴ",
+        "author": "シュテファン・ツヴァイク",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "noguchi-yukio",
+      "sourceId": "bun-3071",
+      "book": {
+        "title": "なぜ大国は衰退するのか",
+        "author": "グレン・ハバード、ティム・ケイン",
+        "publisher": "日本経済新聞出版社"
+      }
+    },
+    {
+      "personId": "noguchi-yukio",
+      "sourceId": "bun-3071",
+      "book": {
+        "title": "スターリン",
+        "author": "サイモン・セバーグ・モンテフィオーリ",
+        "publisher": "白水社"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://croissant-online.jp/life/238185/",
+      "result": "index",
+      "reason": "「人生を充たす本。」特集号の案内ページ。石田ひかり・中江有里の記事 /life/240301/ を採用",
+      "person": "石田ひかり・中江有里"
+    },
+    {
+      "url": "https://brutus.jp/daily-b/20231222-549/",
+      "result": "index",
+      "reason": "「私の本棚の、絶対に捨てられない1冊。」目次。ニシダ・小川哲・岡本真帆の3編 (post-295444/295454/295472) を採用",
+      "person": ""
+    },
+    {
+      "url": "https://brutus.jp/en/post-489417/",
+      "result": "rejected",
+      "reason": "英語版。日本語版 https://brutus.jp/post-489417/ を出典として採用",
+      "person": "山内マリコ"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/77315/",
+      "result": "rejected",
+      "reason": "B+LIBRARY ドラマCD特集のインタビュー。作品の宣伝で、本人が薦める本の記載なし",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/61586/",
+      "result": "rejected",
+      "reason": "自著『改訂版 お金の大学』のインタビュー。本人が薦める他の本の記載なし",
+      "person": "両＠リベ大学長"
+    },
+    {
+      "url": "https://book.asahi.com/article/16704796",
+      "result": "rejected",
+      "reason": "高城晶平インタビュー。薦める本は取り込み済みの5冊（16703626）と同じで、新しい本なし",
+      "person": "高城晶平"
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/3071",
+      "result": "index",
+      "reason": "写真ページ。元記事 https://bunshun.jp/articles/-/3071 を採用",
+      "person": "野口悠紀雄"
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/3724",
+      "result": "rejected",
+      "reason": "R-40本屋さん大賞（書店員の投票による選書）。名前で検索される個人の推薦ではない",
+      "person": ""
+    },
+    {
+      "url": "https://realsound.jp/book/2025/09/post-2173706.html",
+      "result": "rejected",
+      "reason": "番組での発言を記者が伝えるまとめ記事（本人の発言を直接確認できない）",
+      "person": "上白石萌音"
+    }
+  ]
+}
