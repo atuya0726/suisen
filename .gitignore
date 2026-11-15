@@ -7,3 +7,7 @@ dist/
 
 # 削除前の長い要約の退避（公開しない。リポジトリにも入れない）
 data/research/archive/
+
+# 取り込み時の検索結果の一時ファイル
+data/research/incoming/*.lookup.json
+data/research/incoming/*.queries.json

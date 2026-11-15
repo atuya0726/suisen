@@ -1,0 +1,74 @@
+# suisen 運用メモ
+
+定期実行（毎日の収集、週次の振り返り）が読み書きする状態。手順は `.claude/skills/collect/SKILL.md` と `.claude/skills/weekly-review/SKILL.md`、データの決まりは `CLAUDE.md` §3・§7 にある。
+
+## 現状
+
+- 2026-11-15 に https://suisen.page/ を公開。Cloudflare Workers の静的配信。デプロイは `pnpm build` のあと `pnpm deploy`。
+- 公開時点のデータ: 推薦者 499、本 1,852冊、推薦 1,943件。
+- 検索エンジンに載せているのは、人物ページ、2人以上が薦めた本のページ、ランキング、トップ、運営方針。推薦者が1人の本ページは noindex（`src/lib/indexing.json`）。
+- 数字の取り方: Search Console は `python3 ~/.claude/skills/search-console/gsc.py --key gsc-sqlrenshu query sc-domain:suisen.page`。アクセス解析は `python3 ~/.claude/skills/cloudflare-web-analytics/cfwa.py --key cf-analytics-sqlrenshu --host suisen.page`（`.env` の `CF_ACCOUNT_ID` を使う）。
+- 本の特定は `pnpm fetch-books`（楽天ブックス API。キーは macOS キーチェーンからスクリプトが読む）。取り込みは `python3 scripts/import-research.py`。
+
+## 狙い（ロングテールの軸）
+
+1. **人物名**: 「〇〇 おすすめ本」「〇〇 愛読書」。名前で検索される人（作家、芸能、スポーツ選手、著名な経営者・学者）を増やす。
+2. **所属**: 「〇〇大学 推薦図書」。大学ごとに教員の推薦をまとめる（所属別ページは未実装。データの `affiliation` だけ先に入れている）。
+3. **本**: 複数の人が薦めた本。同じ本を挙げる人が増えるほど、本ページとランキングが育つ。
+
+## 収集の優先順位
+
+毎日の収集は、上から順に、その日の上限まで進める。週次の振り返りで見直す。
+
+1. **著名人の新着**: 下の「継続して見る一覧」の連載に、新しい回が出ていないかを見る。
+2. **著名人の候補**: 台帳（`data/research/checked-urls.json`）で `result` が `candidate` の記事のうち、著名人のもの。
+3. **新しい連載・企画の発見**: 著名人が本を薦める無料の連載を、まだ調べていない媒体から探す（雑誌の Web 版、出版社の特集、新聞の無料連載など）。見つけた一覧は台帳に `index` として残す。
+4. **大学の教員**: 1つの大学は1日10人まで。大学が偏らないようにする。北海道大学は一覧ページから機械的に取れる（新着の確認だけでよい）。
+
+## 継続して見る一覧
+
+| 媒体・企画 | URL | メモ |
+|---|---|---|
+| ダ・ヴィンチWeb「私の愛読書」 | https://ddnavi.com/aidokusho/ | 全58回を取り込み済み（2026-08 まで）。新着だけ見る |
+| ダ・ヴィンチWeb「あの人と本の話 and more」 | https://ddnavi.com/genre/%e3%81%82%e3%81%ae%e4%ba%ba%e3%81%a8%e6%9c%ac%e3%81%ae%e8%a9%b1-and-more/ | 2ページ分を取り込み済み。著名人が「選んだ一冊」を挙げる |
+| 好書好日「気になる本 読みかえす本」 | https://book.asahi.com/series/11039124 | 不定期。著名人が3冊前後を紹介 |
+| 好書好日 朝日新聞書評委員「今年の3点」「夏に読みたい3点」 | サイト内検索 https://book.asahi.com/search/result/?word=今年の3点 | 12月下旬と7月下旬。2020〜2025年末、2024〜2026年夏は取り込み済み。朝日新聞社の記者・編集者は載せない |
+| 日経BOOKプラス「社長たちの座右書」 | https://bookplus.nikkei.com/atcl/column/091300565/ | 第5回まで取り込み済み。全9回の予定 |
+| 日経BOOKプラス「CTOの本棚」 | https://bookplus.nikkei.com/atcl/column/070300541/ | 取り込み済み。新着だけ見る |
+| 日経BOOKプラス「トップに聞く『読書の軌跡』」 | https://bookplus.nikkei.com/atcl/column/111500600/ | 取り込み済み。新着だけ見る |
+| 日経BOOKプラス「BOOK Selection」 | https://bookplus.nikkei.com/atcl/column/041500053/ | 自著の紹介が大半。他人の本を薦めている回だけ |
+| ほんのひきだし「ひと・インタビュー」 | https://hon-hikidashi.jp/book-person/book-interview/ | 読書歴を語る著名人は少ない。ISBN つき |
+| POPEYE Web「あの人のリーディングリスト。」 | 台帳を参照 | Vol.11 まで取り込み済み |
+| クロワッサンオンライン | 台帳を参照 | 「いま読みたい本」タグは完了。読書タグ（約500件）は未確認 |
+| 北海道大学「本は脳を育てる」 | https://www.lib.hokudai.ac.jp/book/ | 全540件を取り込み済み。1ページ目の新着だけ見る。ISBN つき |
+| 慶應義塾大学 日吉メディアセンター「教員のオススメ本」 | https://libguides.lib.keio.ac.jp/hys_recommend_books/ | 2015〜2026年度を取り込み済み。新年度の追加を見る |
+| 立命館大学図書館「教員お薦め本」 | https://www.ritsumei.ac.jp/lib/d05/010/ | 約260人中 44人を取り込み済み。残りは台帳に candidate |
+| 中央大学「教職員推薦図書」 | 台帳を参照 | 8学部を取り込み済み |
+| 立教大学図書館「読書ナビ」 | https://library.rikkyo.ac.jp/learning/books/ | 第68〜77回を取り込み済み。残り約67回 |
+
+使えないと分かっているもの: 有料・会員限定の記事（PRESIDENT Online、新聞の有料記事）、番組の公式ページ（書名が文字で載らない）、X、Instagram、Gates Notes（取得を拒否される）。
+
+## 週次の数字
+
+| 週（月曜） | 検索 表示回数（28日） | 検索 クリック（28日） | 平均掲載順位 | PV（7日） | 訪問（7日） | 推薦者 | 本 | 推薦 |
+|---|---|---|---|---|---|---|---|---|
+| 2026-11-15（公開時） | - | - | - | - | - | 499 | 1,852 | 1,943 |
+
+## ログ
+
+- 2026-11-15: 公開。初期データを収集して取り込み。人物 ID を連番に、推薦理由の要約を廃止、推薦者1人の本ページを noindex、ランキングを2人以上の本だけに、シリーズは第1巻で登録。
+
+## バックログ
+
+- 所属別ページ（「〇〇大学の教員が薦める本」）を作る。大学は北海道、中央、立命館、慶應、立教、早稲田の6校。仕様（URL、タイトルの型、何人以上で生成するか）をユーザーと決めてから。
+- Lighthouse（モバイル）の計測。受け入れ条件は各項目95以上。
+- 書影のない本（約340冊）の引き直し。現行の版がある本は ISBN を差し替える。
+- 人物のよみ（`kana`）の補完。Wikipedia で本人と確認できる人だけ。同姓同名の別人に注意。
+- YouTube の概要欄からの収集（YouTube Data API のキーが必要）。
+- 保留中のデータ（`data/research/pending/`）: Podcast 6人、海外2人。
+
+## ユーザーに依頼中
+
+- [ ] Search Console で sitemap（`https://suisen.page/sitemap-index.xml`）を送信する。
+- [ ] Cloudflare Web Analytics を suisen.page で有効にする（ダッシュボードの Analytics & Logs → Web Analytics）。有効にすると計測用の JavaScript が入る。CLAUDE.md の「クライアント JS は検索ページ以外ゼロ」の例外にするかも決める。未設定の間、PV は 0 のまま。
+- [ ] Amazon アソシエイトと楽天アフィリエイトに、サイト（suisen.page）を登録する。

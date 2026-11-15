@@ -57,7 +57,9 @@ UI を作るときは必ずリポジトリ直下の `DESIGN.md` に従うこと�
 ├─ scripts/
 │  ├─ validate-data.ts     # スキーマ検証＋参照整合性チェック
 │  ├─ fetch-books.ts       # ISBN から書誌・書影URLを楽天ブックスAPIで補完
-│  └─ count-dist.ts        # dist のファイル数チェック
+│  ├─ count-dist.ts        # dist のファイル数チェック
+│  ├─ import-research.py   # 調査結果（JSON）を data/ に取り込む（本の特定、ID の採番、台帳の更新）
+│  └─ routine.py           # 定期実行（日次の収集・週次の振り返り）を Claude Code の非対話モードで回す
 ├─ src/
 │  ├─ lib/
 │  │  ├─ schema.ts         # zod スキーマ
@@ -259,4 +261,4 @@ ID は URL にそのまま使う。変更しない前提で付ける。
 - DB（D1 等）・SSR
 - 記事・ブログ機能
 - 多言語対応、ダークモード
-- データ収集（記事からの抽出）の自動化 — これは別リポジトリ／別タスクで行う
+- （変更）データ収集はこのリポジトリで行う。日次の収集と週次の振り返りを launchd から無人実行する（`scripts/routine.py`、手順は `.claude/skills/collect/` と `.claude/skills/weekly-review/`、状態は `docs/operations.md`）
