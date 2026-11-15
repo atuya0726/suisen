@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "suisen",
+  "compatibility_date": "2026-11-01",
+  // 独自ドメインだけで配信する（*.workers.dev とプレビューURLに同じ内容を出さない＝重複コンテンツ防止）
+  "workers_dev": false,
+  "preview_urls": false,
+  // 独自ドメイン（Cloudflare で管理しているドメイン）。デプロイ時に DNS と証明書が自動で設定される
+  "routes": [{ "pattern": "suisen.page", "custom_domain": true }],
+  // 静的ファイルだけを配信する（Worker スクリプトなし・SSR なし）
+  "assets": {
+    "directory": "./dist",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

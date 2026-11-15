@@ -1,0 +1,371 @@
+[
+  {
+    "isbn13": "9784478025819",
+    "title": "嫌われる勇気",
+    "authors": [
+      "岸見 一郎",
+      "古賀 史健"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2013-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12570589/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5819/9784478025819.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309226712",
+    "title": "サピエンス全史",
+    "authors": [
+      "Yuval N. Harari",
+      "柴田 裕之"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2016-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14385169/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6712/9784309226712_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309227368",
+    "title": "ホモ・デウス",
+    "authors": [
+      "Yuval N. Harari",
+      "柴田 裕之"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2018-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15546610/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7368/9784309227368_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101010014",
+    "title": "吾輩は猫である",
+    "authors": [
+      "夏目 漱石"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2003-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1656073/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0014/9784101010014.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101006055",
+    "title": "人間失格",
+    "authors": [
+      "太宰 治"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2006-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/137366/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6055/9784101006055.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101010137",
+    "title": "こころ",
+    "authors": [
+      "夏目 漱石"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2004-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1706622/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0137/9784101010137.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101010038",
+    "title": "坊っちゃん",
+    "authors": [
+      "夏目 漱石"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2003-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1652891/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0038/9784101010038.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784048930598",
+    "title": "Clean Code",
+    "authors": [
+      "Robert C. Martin",
+      "花井 志生"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2017-12"
+  },
+  {
+    "isbn13": "9784873115658",
+    "title": "リーダブルコード",
+    "authors": [
+      "Dustin Boswell",
+      "Trevor Foucher",
+      "角 征典"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2012-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11753651/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5658/9784873115658_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274226298",
+    "title": "達人プログラマー",
+    "authors": [
+      "David Thomas",
+      "Andrew Hunt",
+      "村上 雅章"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2020-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16481114/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6298/9784274226298.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798131610",
+    "title": "実践ドメイン駆動設計",
+    "authors": [
+      "Vaughn Vernon",
+      "高木 正弘"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2015-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13138730/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1610/9784798131610.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798121963",
+    "title": "エリック・エヴァンスのドメイン駆動設計",
+    "authors": [
+      "Eric Evans",
+      "今関 剛",
+      "和智 右桂",
+      "牧野 祐子"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2011-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11146351/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1963/9784798121963.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784297100339",
+    "title": "Docker/Kubernetes実践コンテナ開発入門",
+    "authors": [
+      "山田 明憲"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2018-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15570632/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0339/9784297100339.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774142043",
+    "title": "Webを支える技術",
+    "authors": [
+      "山本 陽平"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2010-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6385779/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2043/9784774142043.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822289607",
+    "title": "FACTFULNESS",
+    "authors": [
+      "Hans Rosling",
+      "Ola Rosling",
+      "Anna Rosling Rönnlund"
+    ],
+    "publisher": "日経BPマーケティング",
+    "publishedAt": "2019-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15747423/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9607/9784822289607.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784873116303",
+    "title": "Team Geek",
+    "authors": [
+      "Brian W Fitzpatrick",
+      "Ben Collins-Sussman",
+      "角 征典"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2013-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12403745/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6303/9784873116303.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062748681",
+    "title": "ノルウェイの森",
+    "authors": [
+      "村上 春樹"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2004-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1709070/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8681/9784062748681.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101001340",
+    "title": "世界の終りとハードボイルド・ワンダーランド",
+    "authors": [
+      "村上 春樹"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "1988-10"
+  },
+  {
+    "isbn13": "9784103534228",
+    "title": "1Q84",
+    "authors": [
+      "村上 春樹"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2009-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6047814/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4228/9784103534228_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784163902302",
+    "title": "火花",
+    "authors": [
+      "又吉 直樹"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "2015-03"
+  },
+  {
+    "isbn13": "9784150504106",
+    "title": "ファスト&スロー",
+    "authors": [
+      "Daniel Kahneman",
+      "村井 章子"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2014-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12788225/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4106/9784150504106.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784569534077",
+    "title": "道をひらく",
+    "authors": [
+      "松下 幸之助"
+    ],
+    "publisher": "PHP研究所",
+    "publishedAt": "1968-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/138374/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4077/9784569534077.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101092041",
+    "title": "新編風の又三郎",
+    "authors": [
+      "宮沢 賢治"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "1989-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/341138/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2041/9784101092041_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784863940246",
+    "title": "完訳7つの習慣",
+    "authors": [
+      "Stephen R. Covey",
+      "フランクリンコヴィージャパン株式会社"
+    ],
+    "publisher": "キングベアー出版",
+    "publishedAt": "2013-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12453629/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0246/9784863940246.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478106334",
+    "title": "イノベーションの教科書",
+    "authors": [
+      "ハーバードビジネススクール",
+      "ダイヤモンド社"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2018-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15590555/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6334/9784478106334.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101235011",
+    "title": "人の砂漠",
+    "authors": [
+      "沢木 耕太郎"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2002-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/78089/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1012/10123501.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784314010740",
+    "title": "正義論",
+    "authors": [
+      "John Rawls",
+      "川本 隆史",
+      "福間 聡",
+      "神島 裕子"
+    ],
+    "publisher": "紀伊國屋書店",
+    "publishedAt": "2010-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6862634/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0740/9784314010740_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784797341379",
+    "title": "数学ガール",
+    "authors": [
+      "結城 浩"
+    ],
+    "publisher": "ソフトバンククリエイティブ",
+    "publishedAt": "2007-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/4437798/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1379/9784797341379.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784122018334",
+    "title": "失敗の本質",
+    "authors": [
+      "戸部 良一"
+    ],
+    "publisher": "中央公論社",
+    "publishedAt": "1991-08"
+  },
+  {
+    "isbn13": "9784150502386",
+    "title": "DNAとの対話",
+    "authors": [
+      "Robert Pollack",
+      "中村 桂子",
+      "中村 友子"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2000-05"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "suisen",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "validate-data": "tsx scripts/validate-data.ts",
+    "fetch-books": "tsx scripts/fetch-books.ts",
+    "count-dist": "tsx scripts/count-dist.ts",
+    "build": "tsx scripts/validate-data.ts && astro build && pagefind --site dist && tsx scripts/count-dist.ts",
+    "preview": "astro preview",
+    "check": "astro check",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.5",
+    "astro": "^6.4.8",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "@types/node": "^26.6.6",
+    "pagefind": "^1.6.0",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.162.0"
+  }
+}

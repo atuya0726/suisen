@@ -1,0 +1,131 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import PersonRow from "../../components/PersonRow.astro";
+import Recommendation from "../../components/Recommendation.astro";
+import {
+  bookCountOfPerson,
+  groupRecs,
+  groupRecsBySource,
+  people,
+  recsOfPerson,
+  similarPeople,
+  tagRankingSlug,
+} from "../../lib/data";
+import { formatDate, titles, truncate } from "../../lib/site";
+
+export const getStaticPaths = (() =>
+  people.map((person) => ({ params: { id: person.id }, props: { person } }))) satisfies GetStaticPaths;
+
+const { person } = Astro.props;
+const groups = groupRecs(recsOfPerson(person.id), "book");
+// 画面では出典ごとにまとめる（同じ記事から何冊も紹介している人が多く、出典の説明の繰り返しを避けるため）
+const bySource = groupRecsBySource(recsOfPerson(person.id));
+const typeLabel = { article: "記事", interview: "インタビュー", podcast: "音声", video: "動画", book: "書籍", sns: "SNS" };
+const n = bookCountOfPerson(person.id);
+const similar = similarPeople(person.id);
+
+const isOrg = person.kind === "organization";
+const description = truncate(
+  isOrg
+    ? `${person.name}（${person.title}）が推薦した本${n}冊を、出典つきでまとめました。`
+    : `${person.name}（${person.title}）が記事やインタビューで紹介した本${n}冊を、出典つきでまとめました。`,
+  120,
+);
+
+const personLd = {
+  "@context": "https://schema.org",
+  "@type": isOrg ? "Organization" : "Person",
+  name: person.name,
+  url: new URL(`/people/${person.id}/`, Astro.site).href,
+  ...(person.sameAs ? { sameAs: person.sameAs } : {}),
+};
+
+const itemListLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: `${person.name}が紹介した本`,
+  numberOfItems: groups.length,
+  itemListElement: groups.map((g, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: g[0]!.book.title,
+    url: new URL(`/books/${g[0]!.book.isbn13}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title={isOrg ? titles.organization(person.name, n) : titles.person(person.name, n)}
+  description={description}
+  breadcrumbs={[{ name: "人物一覧", href: "/people/" }, { name: person.name }]}
+  jsonLd={[personLd, itemListLd]}
+>
+  <div class="container">
+    <header class="page-head person-head" data-pagefind-body data-pagefind-meta="kind:人物">
+      <h1 class="h1">{person.name}</h1>
+      <p class="person-title secondary" data-pagefind-meta="sub">{person.title}</p>
+      {
+        person.tags.length > 0 && (
+          <ul class="tags" data-pagefind-ignore>
+            {person.tags.slice(0, 5).map((tag) => {
+              const slug = tagRankingSlug(tag);
+              return (
+                <li>
+                  {slug ? (
+                    <a class="tag" href={`/ranking/${slug}/`}>
+                      {tag}
+                    </a>
+                  ) : (
+                    <span class="tag">{tag}</span>
+                  )}
+                </li>
+              );
+            })}
+          </ul>
+        )
+      }
+    </header>
+
+    <section class="section" aria-labelledby="h-books">
+      <div class="section-head">
+        <h2 class="h2" id="h-books">紹介した本 <span class="num">{n}</span>冊</h2>
+      </div>
+      <div class="src-groups prose">
+        {
+          bySource.map((g) => {
+            const source = g[0]!.source;
+            return (
+              <div class="src-group">
+                <p class="src-head small secondary">
+                  出典: {source.media}（{typeLabel[source.type]}、{source.publishedAt ? <time datetime={source.publishedAt}>{formatDate(source.publishedAt)}</time> : "掲載日不明"}）
+                  <a href={source.url} target="_blank" rel="noopener">{source.title}<span aria-hidden="true"> ↗</span></a>
+                </p>
+                <ul class="rec-list">
+                  {g.map((rec) => (
+                    <Recommendation recs={[rec]} show="book" hideSource />
+                  ))}
+                </ul>
+              </div>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    {
+      similar.length > 0 && (
+        <section class="section" aria-labelledby="h-similar">
+          <div class="section-head">
+            <h2 class="h2" id="h-similar">同じ本を紹介している人</h2>
+          </div>
+          <ul class="person-list">
+            {similar.map((s) => (
+              <PersonRow person={s.person} count={bookCountOfPerson(s.person.id)} shared={s.shared} />
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </div>
+</Base>

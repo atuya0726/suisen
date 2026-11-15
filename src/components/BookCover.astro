@@ -1,0 +1,32 @@
+---
+import type { Book } from "../lib/schema";
+
+interface Props {
+  book: Pick<Book, "title" | "coverUrl">;
+  /** 表示幅の目安（px）。width/height 属性に使う（比率 2:3） */
+  width?: number;
+  /** ファーストビューの1枚だけ true */
+  eager?: boolean;
+}
+const { book, width = 200, eager = false } = Astro.props;
+---
+
+<span class="cover">
+  {
+    book.coverUrl ? (
+      <img
+        src={book.coverUrl}
+        alt={`${book.title}の書影`}
+        width={width}
+        height={Math.round(width * 1.5)}
+        loading={eager ? "eager" : "lazy"}
+        decoding="async"
+        referrerpolicy="no-referrer"
+      />
+    ) : (
+      <span class="cover-placeholder" role="img" aria-label={`${book.title}の書影（画像なし）`}>
+        {book.title}
+      </span>
+    )
+  }
+</span>

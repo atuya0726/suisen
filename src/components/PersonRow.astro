@@ -1,0 +1,20 @@
+---
+import type { Person } from "../lib/schema";
+
+interface Props {
+  person: Person;
+  /** 紹介した本の冊数 */
+  count: number;
+  /** 「似た人」での重なり冊数 */
+  shared?: number;
+  /** 見出しレベル（見出し階層を飛ばさないため） */
+  as?: "h2" | "h3";
+}
+const { person, count, shared, as: Heading = "h3" } = Astro.props;
+---
+
+<li class="person-row">
+  <Heading class="h3"><a href={`/people/${person.id}/`}>{person.name}</a></Heading>
+  <p class="person-title small secondary">{person.title}</p>
+  <p class="caption tertiary num">{shared ? `共通 ${shared}冊 / 推薦 ${count}冊` : `推薦 ${count}冊`}</p>
+</li>

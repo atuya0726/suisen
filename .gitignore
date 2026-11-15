@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+.env
+.DS_Store
+
+# 削除前の長い要約の退避（公開しない。リポジトリにも入れない）
+data/research/archive/

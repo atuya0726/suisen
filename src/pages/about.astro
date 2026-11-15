@@ -1,0 +1,66 @@
+---
+import Base from "../layouts/Base.astro";
+import { usesRakutenCovers } from "../lib/data";
+import { CONTACT_EMAIL, OPERATOR_NAME, SITE_NAME } from "../lib/site";
+---
+
+<Base
+  title={`このサイトについて｜${SITE_NAME}`}
+  description="suisen の説明、データの集め方と掲載基準、訂正依頼の連絡先、運営者情報、アフィリエイトプログラムへの参加について。"
+  breadcrumbs={[{ name: "このサイトについて" }]}
+>
+  <div class="container">
+    <header class="page-head">
+      <span class="label">about</span>
+      <h1 class="h1">このサイトについて</h1>
+    </header>
+
+    <div class="prose prose-body">
+      <h2 class="h2">suisen とは</h2>
+      <p>
+        suisen は、経営者・作家・研究者などが、記事やインタビュー、番組のなかで紹介した本を集めたサイトです。誰が、どの本を、いつ、どこで紹介したのかを、出典と一緒に掲載しています。
+      </p>
+
+      <h2 class="h2">データの集め方と掲載基準</h2>
+      <ul>
+        <li>公開されている記事・インタビュー・音声・動画・書籍・SNS の投稿のうち、本人が本を紹介していることを確認できたものだけを掲載しています。</li>
+        <li>すべての推薦に、出典（媒体名・日付・リンク）を付けています。出典を確認できないものは掲載しません。</li>
+        <li>掲載するのは、誰が、どの本を、いつ、どこで紹介したかという事実です。紹介の理由や内容は要約せず、出典へのリンクから元の記事で読めるようにしています。本人の発言を引用する場合は、短い一節にとどめています。</li>
+        <li>人物の肩書きは、出典の時点のものを含みます。</li>
+        <li>ランキングは、出典を確認できた推薦をもとに、その本を紹介した人数で並べています。本の評価や売上を示すものではありません。</li>
+      </ul>
+
+      <h2 class="h2">訂正・削除のご依頼</h2>
+      <p>
+        掲載内容に誤りがある場合や、掲載の取り下げをご希望の場合は、該当ページの URL を添えて下記までご連絡ください。内容を確認のうえ、すみやかに対応します。
+      </p>
+      <p><a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a></p>
+
+      <h2 class="h2">アフィリエイトについて</h2>
+      <p>
+        本サイトはプロモーションを含みます。Amazonのアソシエイトとして、suisen は適格販売により収入を得ています。また、楽天アフィリエイトに参加しています。本のページにある購入リンクから商品が購入されると、suisen に紹介料が支払われることがあります。
+      </p>
+      <p>紹介料の有無によって、掲載する本や並び順を変えることはありません。</p>
+
+      <h2 class="h2">書影・書誌情報について</h2>
+      <p>
+        書影は、楽天ブックスまたは Amazon が提供する画像を、そのまま表示しています。
+        {
+          usesRakutenCovers && (
+            <>
+              書誌情報・書影の一部は楽天ブックス書籍検索API で取得しています（
+              <a href="https://developers.rakuten.com/" target="_blank" rel="noopener">
+                Supported by Rakuten Developers
+              </a>
+              ）。
+            </>
+          )
+        }
+      </p>
+
+      <h2 class="h2">運営者情報</h2>
+      <p>運営: {OPERATOR_NAME}</p>
+      <p>連絡先: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a></p>
+    </div>
+  </div>
+</Base>

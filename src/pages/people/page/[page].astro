@@ -1,0 +1,17 @@
+---
+// 人物一覧の2ページ目以降（/people/page/2/）。/people/[id]/ と取り合わないよう page/ 配下に置く
+import type { GetStaticPaths } from "astro";
+import PeoplePage from "../../../components/PeoplePage.astro";
+import { paginate, people } from "../../../lib/data";
+import { PEOPLE_PAGE_SIZE } from "../../../lib/site";
+
+export const getStaticPaths = (() =>
+  paginate(people, PEOPLE_PAGE_SIZE)
+    .map((_, i) => i + 1)
+    .filter((page) => page > 1)
+    .map((page) => ({ params: { page: String(page) }, props: { page } }))) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+---
+
+<PeoplePage page={page} />

@@ -1,0 +1,24 @@
+---
+import BookCover from "./BookCover.astro";
+import type { Book } from "../lib/schema";
+import { authorsLabel } from "../lib/site";
+
+interface Props {
+  book: Book;
+  /** 推薦者数 */
+  count: number;
+  rank?: number;
+  eager?: boolean;
+}
+const { book, count, rank, eager } = Astro.props;
+---
+
+<li class="book-card">
+  <a href={`/books/${book.isbn13}/`}>
+    {rank && <span class="rank"><span class="visually-hidden">第</span>{rank}<span class="visually-hidden">位</span></span>}
+    <BookCover book={book} eager={eager} />
+    <h3 class="h3">{book.title}</h3>
+    <p class="authors small secondary">{authorsLabel(book.authors)}</p>
+    <p class="caption tertiary num">推薦 {count}人</p>
+  </a>
+</li>

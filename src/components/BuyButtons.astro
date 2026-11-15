@@ -1,0 +1,18 @@
+---
+import type { Book } from "../lib/schema";
+import { amazonUrl, rakutenUrl } from "../lib/links";
+
+interface Props {
+  book: Book;
+}
+const { book } = Astro.props;
+---
+
+<div class="buy-buttons">
+  <a class="button" href={amazonUrl(book)} target="_blank" rel="sponsored noopener">
+    Amazonで見る<span aria-hidden="true">↗</span>
+  </a>
+  <a class="button button-secondary" href={rakutenUrl(book)} target="_blank" rel="sponsored noopener">
+    楽天ブックスで見る<span aria-hidden="true">↗</span>
+  </a>
+</div>

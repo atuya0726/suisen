@@ -1,0 +1,94 @@
+---
+import Base from "../layouts/Base.astro";
+import { SITE_NAME } from "../lib/site";
+---
+
+<Base
+  title={`検索｜${SITE_NAME}`}
+  description="人物名・書名・著者名から、紹介された本と紹介した人を探せます。"
+  breadcrumbs={[{ name: "検索" }]}
+>
+  <div class="container">
+    <header class="page-head">
+      <h1 class="h1">検索</h1>
+    </header>
+    <div class="page-body prose">
+      <form class="search-form" id="search-form" action="/search/" method="get" role="search">
+        <label class="visually-hidden" for="q">人物名・書名・著者名で探す</label>
+        <input class="input" id="q" name="q" type="search" placeholder="人物名・書名・著者名" autocomplete="off" />
+        <button class="button" type="submit">探す</button>
+      </form>
+      <p class="search-status small secondary" id="search-status" role="status" aria-live="polite"></p>
+      <ul class="search-results" id="search-results"></ul>
+      <noscript><p class="small secondary">検索には JavaScript が必要です。<a href="/people/">人物一覧</a>や<a href="/ranking/">ランキング</a>からも探せます。</p></noscript>
+    </div>
+  </div>
+</Base>
+
+<script is:inline type="module">
+  // このサイトで唯一のクライアント JS。Pagefind のインデックスはビルド後に /pagefind/ へ生成される
+  const form = document.getElementById("search-form");
+  const input = document.getElementById("q");
+  const status = document.getElementById("search-status");
+  const list = document.getElementById("search-results");
+  let pagefind;
+  let seq = 0;
+
+  function el(tag, className, text) {
+    const node = document.createElement(tag);
+    if (className) node.className = className;
+    if (text) node.textContent = text;
+    return node;
+  }
+
+  async function run(query) {
+    const id = ++seq;
+    const q = query.trim();
+    const url = new URL(location.href);
+    if (q) url.searchParams.set("q", q);
+    else url.searchParams.delete("q");
+    history.replaceState(null, "", url);
+
+    if (!q) {
+      list.replaceChildren();
+      status.textContent = "";
+      return;
+    }
+    try {
+      pagefind ??= await import("/pagefind/pagefind.js");
+      const search = await pagefind.debouncedSearch(q, {}, 200);
+      if (search === null || id !== seq) return;
+      const results = await Promise.all(search.results.slice(0, 30).map((r) => r.data()));
+      if (id !== seq) return;
+      status.className = "search-status small secondary";
+      status.textContent =
+        results.length === 0 ? `「${q}」に一致する人物・本は見つかりませんでした。` : `${search.results.length}件`;
+      list.replaceChildren(
+        ...results.map((r) => {
+          const li = el("li");
+          if (r.meta.kind) li.append(el("span", "label", r.meta.kind));
+          const link = el("a", "h3", r.meta.title);
+          link.href = r.url;
+          li.append(link);
+          if (r.meta.sub) li.append(el("p", "small secondary", r.meta.sub));
+          return li;
+        }),
+      );
+    } catch {
+      status.className = "search-status small error";
+      status.textContent = "検索を読み込めませんでした。時間をおいて、もう一度お試しください。";
+    }
+  }
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    run(input.value);
+  });
+  input.addEventListener("input", () => run(input.value));
+
+  const initial = new URLSearchParams(location.search).get("q");
+  if (initial) {
+    input.value = initial;
+    run(initial);
+  }
+</script>

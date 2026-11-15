@@ -1,0 +1,19 @@
+---
+import Base from "../layouts/Base.astro";
+import { SITE_NAME } from "../lib/site";
+---
+
+<Base
+  title={`ページが見つかりません｜${SITE_NAME}`}
+  description="お探しのページは見つかりませんでした。"
+  breadcrumbs={[{ name: "ページが見つかりません" }]}
+  noindex
+>
+  <div class="container">
+    <header class="page-head">
+      <h1 class="h1">ページが見つかりません</h1>
+      <p class="lead prose">お探しのページは、移動または削除された可能性があります。</p>
+      <p class="lead"><a href="/">トップへ戻る</a></p>
+    </header>
+  </div>
+</Base>

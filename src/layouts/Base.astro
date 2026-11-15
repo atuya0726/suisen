@@ -1,0 +1,110 @@
+---
+import "../styles/global.css";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import PrNotice from "../components/PrNotice.astro";
+import { usesRakutenCovers } from "../lib/data";
+import { SITE_NAME, type Crumb } from "../lib/site";
+
+interface Props {
+  title: string;
+  description: string;
+  /** トップ以外は必須。先頭の「トップ」は自動で付く */
+  breadcrumbs?: Crumb[];
+  jsonLd?: object[];
+  ogType?: "website" | "article" | "book";
+  noindex?: boolean;
+  /** パンくず・PR表記を自前で置くページ（トップのヒーロー）用 */
+  bare?: boolean;
+}
+
+const { title, description, breadcrumbs, jsonLd = [], ogType = "website", noindex = false, bare = false } = Astro.props;
+
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const ogImage = new URL("/og-default.png", Astro.site).href;
+const crumbs: Crumb[] | undefined = breadcrumbs && [{ name: "トップ", href: "/" }, ...breadcrumbs];
+
+const breadcrumbLd = crumbs && {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: crumbs.map((c, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: c.name,
+    item: new URL(c.href ?? Astro.url.pathname, Astro.site).href,
+  })),
+};
+const allLd = [...(breadcrumbLd ? [breadcrumbLd] : []), ...jsonLd];
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:locale" content="ja_JP" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    {allLd.map((ld) => <script type="application/ld+json" set:html={JSON.stringify(ld).replaceAll("<", "\\u003c")} />)}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="logo" href="/" aria-label="suisen トップへ">suisen</a>
+        <a class="header-search" href="/search/" aria-label="検索">
+          <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <circle cx="8.5" cy="8.5" r="6"></circle>
+            <path d="m13 13 5 5"></path>
+          </svg>
+        </a>
+      </div>
+    </header>
+
+    <main>
+      {
+        !bare && (
+          <div class="container page-top">
+            {crumbs && <Breadcrumbs items={crumbs} />}
+            <PrNotice />
+          </div>
+        )
+      }
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <a class="logo" href="/">suisen</a>
+        <nav class="footer-nav" aria-label="フッター">
+          <a href="/ranking/">ランキング</a>
+          <a href="/people/">人物一覧</a>
+          <a href="/search/">検索</a>
+          <a href="/about/">このサイトについて</a>
+        </nav>
+        <p class="caption secondary">
+          Amazonのアソシエイトとして、suisen は適格販売により収入を得ています。楽天アフィリエイトにも参加しています。
+        </p>
+        {
+          usesRakutenCovers && (
+            <p class="caption secondary">
+              書誌情報・書影の一部は楽天ブックスから取得しています。
+              <a href="https://developers.rakuten.com/" target="_blank" rel="noopener">
+                Supported by Rakuten Developers
+              </a>
+            </p>
+          )
+        }
+      </div>
+    </footer>
+  </body>
+</html>

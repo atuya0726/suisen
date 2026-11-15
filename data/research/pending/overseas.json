@@ -1,0 +1,329 @@
+{
+ "people": [
+  {
+   "id": "derek-sivers",
+   "name": "デレク・シヴァーズ",
+   "kana": "でれく・しばーず",
+   "title": "起業家・作家（CD Baby 創業者）",
+   "tags": [
+    "経営者",
+    "作家"
+   ],
+   "sameAs": [
+    "https://sive.rs/"
+   ]
+  },
+  {
+   "id": "ryan-holiday",
+   "name": "ライアン・ホリデイ",
+   "kana": "らいあん・ほりでい",
+   "title": "作家（『ストイック・チャレンジ』等）・書店 The Painted Porch 経営",
+   "tags": [
+    "作家"
+   ],
+   "sameAs": [
+    "https://ja.wikipedia.org/wiki/ライアン・ホリデイ",
+    "https://ryanholiday.net/"
+   ]
+  }
+ ],
+ "books": [
+  {
+   "isbn13": "9784532197513",
+   "title": "FBIアカデミーで教える心理交渉術 どこでも使える究極の技法",
+   "authors": [
+    "ハーブ・コーエン"
+   ],
+   "publisher": "日本経済新聞出版社"
+  },
+  {
+   "isbn13": "9784480878274",
+   "title": "脳神経学者の語る40の死後のものがたり",
+   "authors": [
+    "デイヴィッド・イーグルマン"
+   ],
+   "publisher": "筑摩書房"
+  },
+  {
+   "isbn13": "9784627854314",
+   "title": "思いどおりになんて育たない 反ペアレンティングの科学",
+   "authors": [
+    "アリソン・ゴプニック"
+   ],
+   "publisher": "森北出版"
+  },
+  {
+   "isbn13": "9784766427745",
+   "title": "誰よりも、うまく書く 心をつかむプロの文章術",
+   "authors": [
+    "ウィリアム・ジンサー"
+   ],
+   "publisher": "慶應義塾大学出版会"
+  },
+  {
+   "isbn13": "9784480863829",
+   "title": "やりとげる力",
+   "authors": [
+    "スティーヴン・プレスフィールド"
+   ],
+   "publisher": "筑摩書房"
+  },
+  {
+   "isbn13": "9784150503994",
+   "title": "明日の幸せを科学する",
+   "authors": [
+    "ダニエル・ギルバート"
+   ],
+   "publisher": "早川書房"
+  },
+  {
+   "isbn13": "9784418036011",
+   "title": "はじめの一歩を踏み出そう 成功する人たちの起業術",
+   "authors": [
+    "マイケル・E・ガーバー"
+   ],
+   "publisher": "世界文化社"
+  },
+  {
+   "isbn13": "9784478114131",
+   "title": "サイコロジー・オブ・マネー 一生お金に困らない「富」のマインドセット",
+   "authors": [
+    "モーガン・ハウゼル"
+   ],
+   "publisher": "ダイヤモンド社"
+  },
+  {
+   "isbn13": "9784393333648",
+   "title": "ノマド 漂流する高齢労働者たち",
+   "authors": [
+    "ジェシカ・ブルーダー"
+   ],
+   "publisher": "春秋社"
+  },
+  {
+   "isbn13": "9784000615563",
+   "title": "カースト アメリカに渦巻く不満の根源",
+   "authors": [
+    "イザベル・ウィルカーソン"
+   ],
+   "publisher": "岩波書店"
+  },
+  {
+   "isbn13": "9784309228679",
+   "title": "亡命トンネル29 ベルリンの壁をくぐり抜けた者たち",
+   "authors": [
+    "ヘレナ・メリマン"
+   ],
+   "publisher": "河出書房新社"
+  }
+ ],
+ "sources": [
+  {
+   "id": "derek-sivers-book-negotiate-anything",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "You Can Negotiate Anything - by Herb Cohen | Derek Sivers",
+   "url": "https://sive.rs/book/NegotiateAnything",
+   "publishedAt": "2023-08-02"
+  },
+  {
+   "id": "derek-sivers-book-sum",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "Sum: Forty Tales from the Afterlives - by David Eagleman | Derek Sivers",
+   "url": "https://sive.rs/book/Sum",
+   "publishedAt": "2017-09-27"
+  },
+  {
+   "id": "derek-sivers-book-gardener",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "The Gardener and the Carpenter - by Alison Gopnik | Derek Sivers",
+   "url": "https://sive.rs/book/GardenerCarpenter",
+   "publishedAt": "2016-08-10"
+  },
+  {
+   "id": "derek-sivers-book-writing-well",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "On Writing Well - by William Zinsser | Derek Sivers",
+   "url": "https://sive.rs/book/OnWritingWell",
+   "publishedAt": "2015-08-01"
+  },
+  {
+   "id": "derek-sivers-book-war-of-art",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "The War of Art - by Steven Pressfield | Derek Sivers",
+   "url": "https://sive.rs/book/WarOfArt",
+   "publishedAt": "2012-01-05"
+  },
+  {
+   "id": "derek-sivers-book-stumbling",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "Stumbling on Happiness - by Daniel Gilbert | Derek Sivers",
+   "url": "https://sive.rs/book/StumblingOnHappiness",
+   "publishedAt": "2007-07-11"
+  },
+  {
+   "id": "derek-sivers-book-emyth",
+   "type": "article",
+   "media": "Derek Sivers（公式サイト sive.rs・Book Notes）",
+   "title": "E-Myth Revisited - by Michael Gerber | Derek Sivers",
+   "url": "https://sive.rs/book/EMythRevisited",
+   "publishedAt": "2004-02-26"
+  },
+  {
+   "id": "ryan-holiday-best-books-2022",
+   "type": "article",
+   "media": "RyanHoliday.net",
+   "title": "The (Very) Best Books I Read In 2022 - RyanHoliday.net",
+   "url": "https://ryanholiday.net/the-very-best-books-i-read-in-2022/",
+   "publishedAt": "2022-12-10"
+  },
+  {
+   "id": "ryan-holiday-best-books-2024",
+   "type": "article",
+   "media": "RyanHoliday.net",
+   "title": "The (Very) Best Books I Read In 2024 - RyanHoliday.net",
+   "url": "https://ryanholiday.net/the-very-best-books-of-2024/",
+   "publishedAt": "2024-12-08"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784532197513",
+   "sourceId": "derek-sivers-book-negotiate-anything",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『You Can Negotiate Anything』に10点満点の10点（最高評価）をつけ、2023年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784480878274",
+   "sourceId": "derek-sivers-book-sum",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『Sum: Forty Tales from the Afterlives』に10点満点の10点（最高評価）をつけ、2017年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784627854314",
+   "sourceId": "derek-sivers-book-gardener",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『The Gardener and the Carpenter』に10点満点の10点（最高評価）をつけ、2016年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784766427745",
+   "sourceId": "derek-sivers-book-writing-well",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『On Writing Well』に10点満点の10点（最高評価）をつけ、2015年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784480863829",
+   "sourceId": "derek-sivers-book-war-of-art",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『The War of Art』に10点満点の10点（最高評価）をつけ、2012年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784150503994",
+   "sourceId": "derek-sivers-book-stumbling",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『Stumbling on Happiness』に10点満点の10点（最高評価）をつけ、2007年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "derek-sivers",
+   "isbn13": "9784418036011",
+   "sourceId": "derek-sivers-book-emyth",
+   "reason": "デレク・シヴァーズは自身の公式サイトの読書メモ集「Book Notes」で、『E-Myth Revisited』に10点満点の10点（最高評価）をつけ、2004年に読書メモを公開している。",
+   "verified": true
+  },
+  {
+   "personId": "ryan-holiday",
+   "isbn13": "9784309228679",
+   "sourceId": "ryan-holiday-best-books-2024",
+   "reason": "ライアン・ホリデイは自身のブログ RyanHoliday.net の年末記事「The (Very) Best Books I Read In 2024」で、その年に読んだ中のベスト作品の一つとして『Tunnel 29』を取り上げた。",
+   "verified": true
+  },
+  {
+   "personId": "ryan-holiday",
+   "isbn13": "9784000615563",
+   "sourceId": "ryan-holiday-best-books-2022",
+   "reason": "ライアン・ホリデイは自身のブログ RyanHoliday.net の年末記事「The (Very) Best Books I Read In 2022」で、その年に読んだ中のベスト作品の一つとして『Caste』を取り上げた。",
+   "verified": true
+  },
+  {
+   "personId": "ryan-holiday",
+   "isbn13": "9784478114131",
+   "sourceId": "ryan-holiday-best-books-2022",
+   "reason": "ライアン・ホリデイは自身のブログ RyanHoliday.net の年末記事「The (Very) Best Books I Read In 2022」で、その年に読んだ中のベスト作品の一つとして『The Psychology of Money』を取り上げた。",
+   "verified": true
+  },
+  {
+   "personId": "ryan-holiday",
+   "isbn13": "9784393333648",
+   "sourceId": "ryan-holiday-best-books-2022",
+   "reason": "ライアン・ホリデイは自身のブログ RyanHoliday.net の年末記事「The (Very) Best Books I Read In 2022」で、その年に読んだ中のベスト作品の一つとして『Nomadland』を取り上げた。",
+   "verified": true
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://ryanholiday.net/reading-list/",
+   "result": "rejected",
+   "reason": "メール購読の案内ページで書名リストなし",
+   "person": "ライアン・ホリデイ"
+  },
+  {
+   "url": "https://www.oprah.com/app/books.html",
+   "result": "rejected",
+   "reason": "取得できず（403）",
+   "person": "オプラ・ウィンフリー"
+  },
+  {
+   "url": "https://www.obama.org/",
+   "result": "rejected",
+   "reason": "トップのみ確認、おすすめ本リストは見つからず",
+   "person": "バラク・オバマ"
+  },
+  {
+   "url": "https://patrickcollison.com/bookshelf",
+   "result": "rejected",
+   "reason": "日付不明（蔵書カタログ、約10年更新なし）",
+   "person": "パトリック・コリソン"
+  },
+  {
+   "url": "https://jamesclear.com/books",
+   "result": "rejected",
+   "reason": "本人の著書の紹介のみ",
+   "person": "ジェームズ・クリア"
+  },
+  {
+   "url": "https://www.gatesnotes.com/",
+   "result": "rejected",
+   "reason": "取得できず（403）／別担当",
+   "person": "ビル・ゲイツ"
+  },
+  {
+   "url": "https://tim.blog/2020/01/08/reading-recommendations/",
+   "result": "rejected",
+   "reason": "出典は読めたが記事は書名・記事の混在で、日本語版を確認できた本がなく未採用",
+   "person": "ティム・フェリス"
+  },
+  {
+   "url": "https://ryanholiday.net/the-very-best-books-i-read-in-2023/",
+   "result": "rejected",
+   "reason": "日本語版を確認できた本なし（確認した書名のみ。全書名の邦訳照会はしていない）",
+   "person": "ライアン・ホリデイ"
+  },
+  {
+   "url": "https://ryanholiday.net/the-very-best-books-i-read-in-2021/",
+   "result": "rejected",
+   "reason": "邦訳照会が未了のため未採用（Meditations等は版の同定が難しく見送り）",
+   "person": "ライアン・ホリデイ"
+  }
+ ]
+}

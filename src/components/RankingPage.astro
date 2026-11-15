@@ -1,0 +1,90 @@
+---
+import Base from "../layouts/Base.astro";
+import Pagination from "./Pagination.astro";
+import RankList from "./RankList.astro";
+import { paginate, ranking, tagRankings } from "../lib/data";
+import { RANKING_PAGE_SIZE, SITE_NAME, titles, truncate } from "../lib/site";
+
+interface Props {
+  page: number;
+  /** 属性別ランキングのときだけ */
+  tagSlug?: string;
+}
+const { page, tagSlug } = Astro.props;
+const tagRanking = tagSlug ? tagRankings.find((t) => t.slug === tagSlug) : undefined;
+
+// 属性別は上位 50 冊まで（ページ送りなし）
+const all = tagRanking ? tagRanking.items.slice(0, RANKING_PAGE_SIZE) : ranking;
+const pages = paginate(all, RANKING_PAGE_SIZE);
+const items = pages[page - 1] ?? [];
+
+const heading = tagRanking ? `${tagRanking.tag}が推薦する本ランキング` : "推薦された本ランキング";
+const title = tagRanking
+  ? titles.tagRanking(tagRanking.tag)
+  : `推薦された本ランキング${page > 1 ? `（${page}ページ目）` : ""}｜${SITE_NAME}`;
+const description = truncate(
+  tagRanking
+    ? `${tagRanking.tag}${tagRanking.peopleCount}人が記事やインタビューで紹介した本を、推薦した人数の多い順に並べたランキングです。出典は各ページで確認できます。`
+    : `経営者・作家・研究者などが記事やインタビューで紹介した本を、2人以上が紹介した本を、推薦した人数の多い順に並べたランキングです。全${ranking.length}冊。`,
+  120,
+);
+
+const itemListLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: heading,
+  numberOfItems: all.length,
+  itemListElement: items.map((item) => ({
+    "@type": "ListItem",
+    position: item.rank,
+    name: item.book.title,
+    url: new URL(`/books/${item.book.isbn13}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title={title}
+  description={description}
+  breadcrumbs={tagRanking
+    ? [{ name: "ランキング", href: "/ranking/" }, { name: `${tagRanking.tag}が推薦する本` }]
+    : page > 1
+      ? [{ name: "ランキング", href: "/ranking/" }, { name: `${page}ページ目` }]
+      : [{ name: "ランキング" }]}
+  jsonLd={[itemListLd]}
+>
+  <div class="container">
+    <header class="page-head">
+      <span class="label">ranking</span>
+      <h1 class="h1">{heading}</h1>
+      <p class="lead secondary prose">
+        {
+          tagRanking
+            ? `${tagRanking.tag}として掲載している${tagRanking.peopleCount}人が紹介した本を、推薦した人数の多い順に並べています。`
+            : "2人以上が紹介した本を、推薦した人数の多い順に並べています。同数の場合は、最近紹介された本が上になります。"
+        }
+      </p>
+      <ul class="tags lead">
+        <li>
+          {tagRanking ? <a class="tag" href="/ranking/">総合</a> : <span class="tag" aria-current="page">総合</span>}
+        </li>
+        {
+          tagRankings.slice(0, 4).map((t) => (
+            <li>
+              {t.slug === tagSlug ? (
+                <span class="tag" aria-current="page">{t.tag}</span>
+              ) : (
+                <a class="tag" href={`/ranking/${t.slug}/`}>{t.tag}</a>
+              )}
+            </li>
+          ))
+        }
+      </ul>
+    </header>
+
+    <div class="page-body prose">
+      <RankList items={items} />
+      <Pagination current={page} total={pages.length} href={(p) => (p === 1 ? "/ranking/" : `/ranking/${p}/`)} />
+    </div>
+  </div>
+</Base>

@@ -1,0 +1,487 @@
+[
+  {
+    "personId": "p0001",
+    "isbn13": "9784478025819",
+    "sourceId": "sample-shimbun-2023-01-01",
+    "quote": "他人の課題に踏み込まない。それだけで楽になる",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784478025819",
+    "sourceId": "kasou-sns-2026-06-10",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784478025819",
+    "sourceId": "shisaku-shuppan-2025-12-12",
+    "quote": "他人の課題に踏み込まない。それだけで楽になる",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784478025819",
+    "sourceId": "dummy-channel-2025-06-16",
+    "quote": "他人の課題に踏み込まない。それだけで楽になる",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784478025819",
+    "sourceId": "kakuu-radio-2024-12-18",
+    "timestamp": "31:52",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784309226712",
+    "sourceId": "mihon-business-2024-06-22",
+    "quote": "人類は虚構を信じることで協力できた",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784309226712",
+    "sourceId": "sample-shimbun-2023-12-26",
+    "quote": "人類は虚構を信じることで協力できた",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784309226712",
+    "sourceId": "kasou-sns-2023-06-29",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784309226712",
+    "sourceId": "sample-shimbun-2023-01-01",
+    "quote": "人類は虚構を信じることで協力できた",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784309227368",
+    "sourceId": "kasou-sns-2026-06-10",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784309227368",
+    "sourceId": "shisaku-shuppan-2025-12-12",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784309227368",
+    "sourceId": "dummy-channel-2025-06-16",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784309227368",
+    "sourceId": "kakuu-radio-2024-12-18",
+    "timestamp": "37:36",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784101010014",
+    "sourceId": "mihon-business-2024-06-22",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784101010014",
+    "sourceId": "sample-shimbun-2023-12-26",
+    "quote": "笑いながら読めるのに、読後に残るものが深い",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784101010014",
+    "sourceId": "kasou-sns-2023-06-29",
+    "quote": "笑いながら読めるのに、読後に残るものが深い",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784101006055",
+    "sourceId": "mihon-business-2023-09-09",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784101006055",
+    "sourceId": "sample-shimbun-2023-03-14",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784101006055",
+    "sourceId": "kasou-sns-2026-08-20",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784101010137",
+    "sourceId": "shisaku-shuppan-2026-02-22",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784101010137",
+    "sourceId": "dummy-channel-2025-08-27",
+    "timestamp": "43:20",
+    "quote": "読む年齢で、全く違う小説になる",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784101010137",
+    "sourceId": "kakuu-radio-2025-02-28",
+    "quote": "読む年齢で、全く違う小説になる",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784101010038",
+    "sourceId": "mihon-business-2024-09-02",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784101010038",
+    "sourceId": "sample-shimbun-2024-03-06",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784101010038",
+    "sourceId": "mihon-business-2023-09-09",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784048930598",
+    "sourceId": "sample-shimbun-2023-03-14",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784048930598",
+    "sourceId": "sample-shimbun-2023-05-24",
+    "quote": "コードは書く時間より読まれる時間が長い",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784873115658",
+    "sourceId": "kasou-sns-2026-10-31",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784873115658",
+    "sourceId": "shisaku-shuppan-2026-05-05",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784274226298",
+    "sourceId": "dummy-channel-2025-11-06",
+    "quote": "道具より先に、学び続ける姿勢が問われる",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784274226298",
+    "sourceId": "kakuu-radio-2025-05-11",
+    "timestamp": "13:30",
+    "quote": "道具より先に、学び続ける姿勢が問われる",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784798131610",
+    "sourceId": "mihon-business-2024-11-13",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784798131610",
+    "sourceId": "kakuu-radio-2024-05-17",
+    "timestamp": "27:56",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784798121963",
+    "sourceId": "mihon-business-2023-11-20",
+    "quote": "モデルを育てることが設計の中心にある",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784798121963",
+    "sourceId": "sample-shimbun-2023-05-24",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784297100339",
+    "sourceId": "kasou-sns-2026-10-31",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784297100339",
+    "sourceId": "shisaku-shuppan-2026-05-05",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784774142043",
+    "sourceId": "dummy-channel-2025-11-06",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784774142043",
+    "sourceId": "kakuu-radio-2025-05-11",
+    "timestamp": "19:14",
+    "quote": "流行より、仕組みを知っておくことが強い",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784822289607",
+    "sourceId": "mihon-business-2024-11-13",
+    "quote": "世界は思っているよりずっと良くなっている",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784822289607",
+    "sourceId": "dummy-channel-2025-01-23",
+    "timestamp": "33:40",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784873116303",
+    "sourceId": "kakuu-radio-2024-07-28",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784873116303",
+    "sourceId": "mihon-business-2024-01-31",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784062748681",
+    "sourceId": "sample-shimbun-2023-08-04",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784062748681",
+    "sourceId": "kasou-sns-2023-02-06",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784101001340",
+    "sourceId": "shisaku-shuppan-2026-07-15",
+    "quote": "二つの物語が重なる瞬間の快感は忘れがたい",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784103534228",
+    "sourceId": "dummy-channel-2026-01-17",
+    "timestamp": "25:58",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784163902302",
+    "sourceId": "kakuu-radio-2025-07-22",
+    "quote": "好きなことを続ける苦しさが、まっすぐ書かれている",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784150504106",
+    "sourceId": "dummy-channel-2025-01-23",
+    "timestamp": "39:24",
+    "quote": "直感は、よく間違うことを前提に使う",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784569534077",
+    "sourceId": "kakuu-radio-2024-07-28",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784101092041",
+    "sourceId": "kakuu-radio-2024-10-08",
+    "timestamp": "03:50",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0004",
+    "isbn13": "9784863940246",
+    "sourceId": "mihon-business-2024-04-11",
+    "quote": "成果は、日々の習慣の積み重ねで決まる",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784478106334",
+    "sourceId": "sample-shimbun-2023-10-15",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0006",
+    "isbn13": "9784101235011",
+    "sourceId": "kasou-sns-2023-04-19",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0007",
+    "isbn13": "9784314010740",
+    "sourceId": "shisaku-shuppan-2026-09-25",
+    "quote": "無知のヴェール。ルールを公平に考える道具だ",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784797341379",
+    "sourceId": "dummy-channel-2026-03-30",
+    "context": "社員に薦めたい",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784122018334",
+    "sourceId": "shisaku-shuppan-2025-10-01",
+    "quote": "失敗は個人ではなく組織の構造に宿る",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0002",
+    "isbn13": "9784150502386",
+    "sourceId": "dummy-channel-2025-04-05",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784478025819",
+    "sourceId": "shisaku-shuppan-2025-10-01",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784101010137",
+    "sourceId": "sample-shimbun-2023-10-15",
+    "quote": "読む年齢で、全く違う小説になる",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784309226712",
+    "sourceId": "kakuu-radio-2024-12-18",
+    "timestamp": "23:00",
+    "quote": "人類は虚構を信じることで協力できた",
+    "context": "人生を変えた一冊",
+    "verified": false
+  },
+  {
+    "personId": "p0008",
+    "isbn13": "9784309227368",
+    "sourceId": "sample-shimbun-2024-03-06",
+    "context": "最近読んだ",
+    "verified": false
+  },
+  {
+    "personId": "p0003",
+    "isbn13": "9784101010014",
+    "sourceId": "sample-shimbun-2023-05-24",
+    "quote": "笑いながら読めるのに、読後に残るものが深い",
+    "context": "座右の書",
+    "verified": false
+  },
+  {
+    "personId": "p0001",
+    "isbn13": "9784822289607",
+    "sourceId": "sample-shimbun-2023-01-01",
+    "quote": "世界は思っているよりずっと良くなっている",
+    "context": "社員に薦めたい",
+    "verified": false
+  }
+]

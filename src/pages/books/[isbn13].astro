@@ -1,0 +1,107 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import BookCard from "../../components/BookCard.astro";
+import BookCover from "../../components/BookCover.astro";
+import BuyButtons from "../../components/BuyButtons.astro";
+import Recommendation from "../../components/Recommendation.astro";
+import { alsoRecommended, books, groupRecs, recommenderCount, recsOfBook } from "../../lib/data";
+import { authorsLabel, formatDate, titles, truncate } from "../../lib/site";
+import indexing from "../../lib/indexing.json";
+
+export const getStaticPaths = (() =>
+  books.map((book) => ({ params: { isbn13: book.isbn13 }, props: { book } }))) satisfies GetStaticPaths;
+
+const { book } = Astro.props;
+const groups = groupRecs(recsOfBook(book.isbn13), "person");
+const n = recommenderCount(book.isbn13);
+// 推薦者が少ない本ページは中身が薄いので、検索エンジンの対象から外す（ページは残すのでリンクは切れない）。
+// sitemap からも外している（astro.config.mjs）。しきい値は src/lib/indexing.json
+const noindex = n < indexing.minRecommendersToIndexBook;
+const also = alsoRecommended(book.isbn13);
+
+const names = groups.slice(0, 3).map((g) => g[0]!.person.name);
+const description = truncate(
+  `『${book.title}』（${authorsLabel(book.authors)}）を紹介した${n}人と、その出典の一覧。${names.join("、")}${n > names.length ? "など" : ""}が記事やインタビューで紹介しています。`,
+  120,
+);
+
+const bookLd = {
+  "@context": "https://schema.org",
+  "@type": "Book",
+  name: book.title,
+  author: book.authors.map((name) => ({ "@type": "Person", name })),
+  isbn: book.isbn13,
+  ...(book.coverUrl ? { image: book.coverUrl } : {}),
+  ...(book.publisher ? { publisher: { "@type": "Organization", name: book.publisher } } : {}),
+  ...(book.publishedAt ? { datePublished: book.publishedAt } : {}),
+  url: new URL(`/books/${book.isbn13}/`, Astro.site).href,
+};
+---
+
+<Base
+  title={titles.book(book.title, book.authors, n)}
+  description={description}
+  breadcrumbs={[{ name: "ランキング", href: "/ranking/" }, { name: book.title }]}
+  jsonLd={[bookLd]}
+  ogType="book"
+  noindex={noindex}
+>
+  <div class="container">
+    <header class="book-head">
+      <BookCover book={book} width={200} eager />
+      <div data-pagefind-body data-pagefind-meta="kind:本">
+        <h1 class="h1">{book.title}</h1>
+        <p class="authors secondary" data-pagefind-meta="sub">{book.authors.join("、")}</p>
+        <dl class="book-meta small" data-pagefind-ignore>
+          {
+            book.publisher && (
+              <>
+                <dt>出版社</dt>
+                <dd>{book.publisher}</dd>
+              </>
+            )
+          }
+          {
+            book.publishedAt && (
+              <>
+                <dt>発売</dt>
+                <dd class="num">{formatDate(book.publishedAt)}</dd>
+              </>
+            )
+          }
+          <dt>ISBN</dt>
+          <dd class="num">{book.isbn13}</dd>
+        </dl>
+      </div>
+      <div class="book-buy">
+        <BuyButtons book={book} />
+        <p class="caption tertiary">リンク先で購入されると、suisen に紹介料が入ることがあります。</p>
+      </div>
+    </header>
+
+    <section class="section" aria-labelledby="h-people">
+      <div class="section-head">
+        <h2 class="h2" id="h-people">この本を紹介した人 <span class="num">{n}</span>人</h2>
+      </div>
+      <ul class="rec-list prose">
+        {groups.map((g) => <Recommendation recs={g} show="person" />)}
+      </ul>
+    </section>
+
+    {
+      also.length > 0 && (
+        <section class="section" aria-labelledby="h-also">
+          <div class="section-head">
+            <h2 class="h2" id="h-also">この本を推薦した人は、こんな本も推薦</h2>
+          </div>
+          <ul class="book-grid">
+            {also.map((a) => (
+              <BookCard book={a.book} count={recommenderCount(a.book.isbn13)} />
+            ))}
+          </ul>
+        </section>
+      )
+    }
+  </div>
+</Base>

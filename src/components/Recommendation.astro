@@ -1,0 +1,74 @@
+---
+import BookCover from "./BookCover.astro";
+import type { Rec } from "../lib/data";
+import { authorsLabel, formatDate } from "../lib/site";
+
+interface Props {
+  /** 同じ人×同じ本の推薦（出典ごとに1件）。1件以上 */
+  recs: Rec[];
+  /** 見出しに何を出すか。book: 人物ページ用 / person: 本ページ用 / both: トップの新着用 */
+  show: "book" | "person" | "both";
+  /** 出典の行を出さない（出典ごとにまとめて、見出しで1回だけ出すとき） */
+  hideSource?: boolean;
+}
+const { recs, show, hideSource = false } = Astro.props;
+const { person, book } = recs[0]!;
+const bookHref = `/books/${book.isbn13}/`;
+const personHref = `/people/${person.id}/`;
+const typeLabel = { article: "記事", interview: "インタビュー", podcast: "音声", video: "動画", book: "書籍", sns: "SNS" };
+---
+
+<li class:list={["rec", { "has-cover": show !== "person" }]}>
+  {
+    show !== "person" && (
+      <a class="cover-link" href={bookHref} tabindex="-1" aria-hidden="true">
+        <BookCover book={book} width={96} />
+      </a>
+    )
+  }
+  <div>
+    {
+      show === "person" ? (
+        <>
+          <h3 class="h3">
+            <a href={personHref}>{person.name}</a>
+          </h3>
+          <p class="small secondary">{person.title}</p>
+        </>
+      ) : (
+        <>
+          <h3 class="h3">
+            <a href={bookHref}>{book.title}</a>
+          </h3>
+          <p class="small secondary">
+            {authorsLabel(book.authors)}
+            {show === "both" && (
+              <>
+                {" ／ 紹介した人: "}
+                <a href={personHref}>{person.name}</a>
+              </>
+            )}
+          </p>
+        </>
+      )
+    }
+    {
+      recs.map((rec) => (
+        <div class="rec-entry">
+          {rec.context && rec.context !== "その他" && <span class="tag">{rec.context}</span>}
+          {rec.note && <p>{rec.note}</p>}
+          {rec.quote && (
+            <blockquote>
+              <p>「{rec.quote}」</p>
+            </blockquote>
+          )}
+          {hideSource && rec.timestamp && <p class="caption tertiary">{rec.timestamp} ごろ</p>}
+          {!hideSource && <p class="rec-source caption tertiary">
+            出典: {rec.source.media}（{typeLabel[rec.source.type]}、{rec.source.publishedAt ? <time datetime={rec.source.publishedAt}>{formatDate(rec.source.publishedAt)}</time> : "掲載日不明"}{rec.timestamp ? `、${rec.timestamp} ごろ` : ""}）で紹介
+            <a href={rec.source.url} target="_blank" rel="noopener">{rec.source.title}<span aria-hidden="true"> ↗</span></a>
+          </p>}
+        </div>
+      ))
+    }
+  </div>
+</li>

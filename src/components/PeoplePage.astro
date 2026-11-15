@@ -1,0 +1,52 @@
+---
+import Base from "../layouts/Base.astro";
+import Pagination from "./Pagination.astro";
+import PersonRow from "./PersonRow.astro";
+import { bookCountOfPerson, paginate, people } from "../lib/data";
+import { PEOPLE_PAGE_SIZE, SITE_NAME, truncate } from "../lib/site";
+
+interface Props {
+  page: number;
+}
+const { page } = Astro.props;
+const pages = paginate(people, PEOPLE_PAGE_SIZE);
+const items = pages[page - 1] ?? [];
+
+const itemListLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "人物一覧",
+  numberOfItems: people.length,
+  itemListElement: items.map((person, i) => ({
+    "@type": "ListItem",
+    position: (page - 1) * PEOPLE_PAGE_SIZE + i + 1,
+    name: person.name,
+    url: new URL(`/people/${person.id}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title={`人物一覧${page > 1 ? `（${page}ページ目）` : ""}｜${SITE_NAME}`}
+  description={truncate(
+    `本を紹介した経営者・作家・研究者など${people.length}人の一覧です。人物ごとに、紹介した本と出典を確認できます。`,
+    120,
+  )}
+  breadcrumbs={page > 1 ? [{ name: "人物一覧", href: "/people/" }, { name: `${page}ページ目` }] : [{ name: "人物一覧" }]}
+  jsonLd={[itemListLd]}
+>
+  <div class="container">
+    <header class="page-head">
+      <span class="label">people</span>
+      <h1 class="h1">人物一覧</h1>
+      <p class="lead secondary prose">本を紹介した人を、よみの五十音順に並べています。全<span class="num">{people.length}</span>人。</p>
+    </header>
+
+    <div class="page-body">
+      <ul class="person-list">
+        {items.map((person) => <PersonRow person={person} count={bookCountOfPerson(person.id)} as="h2" />)}
+      </ul>
+      <Pagination current={page} total={pages.length} href={(p) => (p === 1 ? "/people/" : `/people/page/${p}/`)} />
+    </div>
+  </div>
+</Base>

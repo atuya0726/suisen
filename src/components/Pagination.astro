@@ -1,0 +1,33 @@
+---
+interface Props {
+  current: number;
+  total: number;
+  /** ページ番号から URL を作る */
+  href: (page: number) => string;
+}
+const { current, total, href } = Astro.props;
+---
+
+{
+  total > 1 && (
+    <nav class="pagination" aria-label="ページ送り">
+      {current > 1 ? (
+        <a href={href(current - 1)} rel="prev">
+          前のページ
+        </a>
+      ) : (
+        <span class="disabled">前のページ</span>
+      )}
+      <span class="secondary num">
+        {current} / {total}
+      </span>
+      {current < total ? (
+        <a href={href(current + 1)} rel="next">
+          次のページ
+        </a>
+      ) : (
+        <span class="disabled">次のページ</span>
+      )}
+    </nav>
+  )
+}

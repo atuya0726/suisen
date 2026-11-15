@@ -1,0 +1,322 @@
+[
+  {
+    "id": "sample-shimbun-2023-01-01",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "サンプル 一郎さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2023-01-01/1",
+    "publishedAt": "2023-01-01"
+  },
+  {
+    "id": "mihon-business-2023-09-09",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "サンプル 一郎さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2023-09-09/1",
+    "publishedAt": "2023-09-09"
+  },
+  {
+    "id": "kakuu-radio-2024-05-17",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "サンプル 一郎さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2024-05-17/1",
+    "publishedAt": "2024-05-17"
+  },
+  {
+    "id": "dummy-channel-2025-01-23",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "サンプル 一郎さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2025-01-23/1",
+    "publishedAt": "2025-01-23"
+  },
+  {
+    "id": "shisaku-shuppan-2025-10-01",
+    "type": "book",
+    "media": "試作出版",
+    "title": "サンプル 一郎さんエッセイ集　本のある暮らし",
+    "url": "https://example.com/shisaku-shuppan/2025-10-01/1",
+    "publishedAt": "2025-10-01"
+  },
+  {
+    "id": "kasou-sns-2026-06-10",
+    "type": "sns",
+    "media": "仮想SNS",
+    "title": "架空 花子さん本の紹介投稿まとめ",
+    "url": "https://example.com/kasou-sns/2026-06-10/2",
+    "publishedAt": "2026-06-10"
+  },
+  {
+    "id": "sample-shimbun-2023-03-14",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "架空 花子さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2023-03-14/2",
+    "publishedAt": "2023-03-14"
+  },
+  {
+    "id": "mihon-business-2023-11-20",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "架空 花子さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2023-11-20/2",
+    "publishedAt": "2023-11-20"
+  },
+  {
+    "id": "kakuu-radio-2024-07-28",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "架空 花子さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2024-07-28/2",
+    "publishedAt": "2024-07-28"
+  },
+  {
+    "id": "dummy-channel-2025-04-05",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "架空 花子さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2025-04-05/2",
+    "publishedAt": "2025-04-05"
+  },
+  {
+    "id": "shisaku-shuppan-2025-12-12",
+    "type": "book",
+    "media": "試作出版",
+    "title": "見本 次郎さんエッセイ集　本のある暮らし",
+    "url": "https://example.com/shisaku-shuppan/2025-12-12/3",
+    "publishedAt": "2025-12-12"
+  },
+  {
+    "id": "kasou-sns-2026-08-20",
+    "type": "sns",
+    "media": "仮想SNS",
+    "title": "見本 次郎さん本の紹介投稿まとめ",
+    "url": "https://example.com/kasou-sns/2026-08-20/3",
+    "publishedAt": "2026-08-20"
+  },
+  {
+    "id": "sample-shimbun-2023-05-24",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "見本 次郎さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2023-05-24/3",
+    "publishedAt": "2023-05-24"
+  },
+  {
+    "id": "mihon-business-2024-01-31",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "見本 次郎さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2024-01-31/3",
+    "publishedAt": "2024-01-31"
+  },
+  {
+    "id": "kakuu-radio-2024-10-08",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "見本 次郎さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2024-10-08/3",
+    "publishedAt": "2024-10-08"
+  },
+  {
+    "id": "dummy-channel-2025-06-16",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "ダミー 三郎さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2025-06-16/4",
+    "publishedAt": "2025-06-16"
+  },
+  {
+    "id": "shisaku-shuppan-2026-02-22",
+    "type": "book",
+    "media": "試作出版",
+    "title": "ダミー 三郎さんエッセイ集　本のある暮らし",
+    "url": "https://example.com/shisaku-shuppan/2026-02-22/4",
+    "publishedAt": "2026-02-22"
+  },
+  {
+    "id": "kasou-sns-2026-10-31",
+    "type": "sns",
+    "media": "仮想SNS",
+    "title": "ダミー 三郎さん本の紹介投稿まとめ",
+    "url": "https://example.com/kasou-sns/2026-10-31/4",
+    "publishedAt": "2026-10-31"
+  },
+  {
+    "id": "sample-shimbun-2023-08-04",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "ダミー 三郎さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2023-08-04/4",
+    "publishedAt": "2023-08-04"
+  },
+  {
+    "id": "mihon-business-2024-04-11",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "ダミー 三郎さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2024-04-11/4",
+    "publishedAt": "2024-04-11"
+  },
+  {
+    "id": "kakuu-radio-2024-12-18",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "試作 四郎さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2024-12-18/5",
+    "publishedAt": "2024-12-18"
+  },
+  {
+    "id": "dummy-channel-2025-08-27",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "試作 四郎さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2025-08-27/5",
+    "publishedAt": "2025-08-27"
+  },
+  {
+    "id": "shisaku-shuppan-2026-05-05",
+    "type": "book",
+    "media": "試作出版",
+    "title": "試作 四郎さんエッセイ集　本のある暮らし",
+    "url": "https://example.com/shisaku-shuppan/2026-05-05/5",
+    "publishedAt": "2026-05-05"
+  },
+  {
+    "id": "kasou-sns-2023-02-06",
+    "type": "sns",
+    "media": "仮想SNS",
+    "title": "試作 四郎さん本の紹介投稿まとめ",
+    "url": "https://example.com/kasou-sns/2023-02-06/5",
+    "publishedAt": "2023-02-06"
+  },
+  {
+    "id": "sample-shimbun-2023-10-15",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "試作 四郎さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2023-10-15/5",
+    "publishedAt": "2023-10-15"
+  },
+  {
+    "id": "mihon-business-2024-06-22",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "テスト 五郎さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2024-06-22/6",
+    "publishedAt": "2024-06-22"
+  },
+  {
+    "id": "kakuu-radio-2025-02-28",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "テスト 五郎さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2025-02-28/6",
+    "publishedAt": "2025-02-28"
+  },
+  {
+    "id": "dummy-channel-2025-11-06",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "テスト 五郎さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2025-11-06/6",
+    "publishedAt": "2025-11-06"
+  },
+  {
+    "id": "shisaku-shuppan-2026-07-15",
+    "type": "book",
+    "media": "試作出版",
+    "title": "テスト 五郎さんエッセイ集　本のある暮らし",
+    "url": "https://example.com/shisaku-shuppan/2026-07-15/6",
+    "publishedAt": "2026-07-15"
+  },
+  {
+    "id": "kasou-sns-2023-04-19",
+    "type": "sns",
+    "media": "仮想SNS",
+    "title": "テスト 五郎さん本の紹介投稿まとめ",
+    "url": "https://example.com/kasou-sns/2023-04-19/6",
+    "publishedAt": "2023-04-19"
+  },
+  {
+    "id": "sample-shimbun-2023-12-26",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "架空 六子さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2023-12-26/7",
+    "publishedAt": "2023-12-26"
+  },
+  {
+    "id": "mihon-business-2024-09-02",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "架空 六子さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2024-09-02/7",
+    "publishedAt": "2024-09-02"
+  },
+  {
+    "id": "kakuu-radio-2025-05-11",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "架空 六子さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2025-05-11/7",
+    "publishedAt": "2025-05-11"
+  },
+  {
+    "id": "dummy-channel-2026-01-17",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "架空 六子さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2026-01-17/7",
+    "publishedAt": "2026-01-17"
+  },
+  {
+    "id": "shisaku-shuppan-2026-09-25",
+    "type": "book",
+    "media": "試作出版",
+    "title": "架空 六子さんエッセイ集　本のある暮らし",
+    "url": "https://example.com/shisaku-shuppan/2026-09-25/7",
+    "publishedAt": "2026-09-25"
+  },
+  {
+    "id": "kasou-sns-2023-06-29",
+    "type": "sns",
+    "media": "仮想SNS",
+    "title": "見本 七子さん本の紹介投稿まとめ",
+    "url": "https://example.com/kasou-sns/2023-06-29/8",
+    "publishedAt": "2023-06-29"
+  },
+  {
+    "id": "sample-shimbun-2024-03-06",
+    "type": "article",
+    "media": "サンプル新聞",
+    "title": "見本 七子さんで読む、愛読書と仕事の流儀",
+    "url": "https://example.com/sample-shimbun/2024-03-06/8",
+    "publishedAt": "2024-03-06"
+  },
+  {
+    "id": "mihon-business-2024-11-13",
+    "type": "interview",
+    "media": "見本ビジネスオンライン",
+    "title": "見本 七子さんインタビュー　私を支えた本",
+    "url": "https://example.com/mihon-business/2024-11-13/8",
+    "publishedAt": "2024-11-13"
+  },
+  {
+    "id": "kakuu-radio-2025-07-22",
+    "type": "podcast",
+    "media": "架空ラジオ",
+    "title": "見本 七子さんゲスト回　本棚を語る",
+    "url": "https://example.com/kakuu-radio/2025-07-22/8",
+    "publishedAt": "2025-07-22"
+  },
+  {
+    "id": "dummy-channel-2026-03-30",
+    "type": "video",
+    "media": "ダミーチャンネル",
+    "title": "見本 七子さん対談　おすすめの一冊",
+    "url": "https://example.com/dummy-channel/2026-03-30/8",
+    "publishedAt": "2026-03-30"
+  }
+]

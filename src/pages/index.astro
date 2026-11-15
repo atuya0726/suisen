@@ -1,0 +1,88 @@
+---
+import Base from "../layouts/Base.astro";
+import BookCard from "../components/BookCard.astro";
+import PrNotice from "../components/PrNotice.astro";
+import Recommendation from "../components/Recommendation.astro";
+import { people, ranking, recs, tagRankings } from "../lib/data";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE } from "../lib/site";
+
+const top = ranking.slice(0, 12);
+const latest = recs.slice(0, 10);
+
+const websiteLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: SITE_NAME,
+  url: new URL("/", Astro.site).href,
+};
+---
+
+<Base title={`${SITE_NAME}｜${SITE_TAGLINE}`} description={SITE_DESCRIPTION} jsonLd={[websiteLd]} bare>
+  <div class="hero">
+    <div class="container">
+      <PrNotice />
+      <h1 class="display">あの人が薦めた本を、<br />出典つきで。</h1>
+      <p class="lead prose">
+        経営者・作家・研究者などが、記事やインタビューで紹介した本を集めました。いつ、どこで薦めたのかを、出典と一緒に確かめられます。
+      </p>
+      <form class="search-form" action="/search/" method="get" role="search">
+        <label class="visually-hidden" for="q">人物名・書名・著者名で探す</label>
+        <input class="input" id="q" name="q" type="search" placeholder="人物名・書名・著者名" autocomplete="off" />
+        <button class="button" type="submit">探す</button>
+      </form>
+    </div>
+  </div>
+
+  <section class="section container" aria-labelledby="h-ranking">
+    <div class="section-head">
+      <div>
+        <span class="label">ranking</span>
+        <h2 class="h2" id="h-ranking">多くの人が薦めた本</h2>
+      </div>
+      <a class="more" href="/ranking/">ランキングを見る</a>
+    </div>
+    <ol class="book-grid">
+      {top.map((item, i) => <BookCard book={item.book} count={item.count} rank={item.rank} eager={i < 3} />)}
+    </ol>
+  </section>
+
+  <section class="section container" aria-labelledby="h-latest">
+    <div class="section-head">
+      <div>
+        <span class="label">new</span>
+        <h2 class="h2" id="h-latest">新着の推薦</h2>
+      </div>
+    </div>
+    <ul class="rec-list prose">
+      {latest.map((rec) => <Recommendation recs={[rec]} show="both" />)}
+    </ul>
+  </section>
+
+  <section class="section container" aria-labelledby="h-tags">
+    <div class="section-head">
+      <div>
+        <span class="label">people</span>
+        <h2 class="h2" id="h-tags">属性から探す</h2>
+      </div>
+      <a class="more" href="/people/">人物一覧を見る</a>
+    </div>
+    <ul class="entrance-list prose">
+      {
+        tagRankings.map((t) => (
+          <li>
+            <a href={`/ranking/${t.slug}/`}>
+              <span>{t.tag}が推薦する本</span>
+              <span class="caption tertiary num">{t.peopleCount}人 / {t.items.length}冊</span>
+            </a>
+          </li>
+        ))
+      }
+      <li>
+        <a href="/people/">
+          <span>すべての人物</span>
+          <span class="caption tertiary num">{people.length}人</span>
+        </a>
+      </li>
+    </ul>
+  </section>
+</Base>

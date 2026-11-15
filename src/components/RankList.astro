@@ -1,0 +1,30 @@
+---
+import BookCover from "./BookCover.astro";
+import type { RankedBook } from "../lib/data";
+import { authorsLabel } from "../lib/site";
+
+interface Props {
+  items: RankedBook[];
+}
+const { items } = Astro.props;
+---
+
+<ol class="rank-list">
+  {
+    items.map(({ rank, book, count }, i) => (
+      <li class="rank-row">
+        <span class="rank"><span class="visually-hidden">第</span>{rank}<span class="visually-hidden">位</span></span>
+        <a class="cover-link" href={`/books/${book.isbn13}/`} tabindex="-1" aria-hidden="true">
+          <BookCover book={book} width={64} eager={i === 0} />
+        </a>
+        <div>
+          <h2 class="h3">
+            <a href={`/books/${book.isbn13}/`}>{book.title}</a>
+          </h2>
+          <p class="small secondary">{authorsLabel(book.authors)}</p>
+          <p class="caption tertiary num">推薦 {count}人</p>
+        </div>
+      </li>
+    ))
+  }
+</ol>

@@ -1,0 +1,456 @@
+{
+ "people": [
+  {
+   "id": "hayakawa-gomi",
+   "name": "ハヤカワ五味",
+   "kana": "はやかわごみ",
+   "title": "起業家（番組紹介文による）",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "fukuda-eri",
+   "name": "福田恵里",
+   "kana": "ふくだえり",
+   "title": "SHE株式会社 CEO・CCO（2020年時点、番組紹介文による）",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "kobakana",
+   "name": "こばかな",
+   "kana": "こばかな",
+   "title": "株式会社THE COACH 代表（2020年時点、番組紹介文による）",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "endo-yukako",
+   "name": "遠藤優華子",
+   "kana": "えんどうゆかこ",
+   "title": "オンラインサロン Share it 代表（2020年時点、番組紹介文による）",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "kashima-yui",
+   "name": "嘉島唯",
+   "kana": "かしまゆい",
+   "title": "ライター（番組紹介文による）",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "takada-shoji",
+   "name": "高田祥司",
+   "kana": "たかだしょうじ",
+   "title": "日本語学者（番組内の呼称。所属は未確認）",
+   "tags": [
+    "研究者"
+   ]
+  }
+ ],
+ "books": [
+  {
+   "isbn13": "9784163910178",
+   "title": "世にも危険な医療の世界史",
+   "authors": [
+    "リディア・ケイン",
+    "ネイト・ペダーセン"
+   ],
+   "publisher": "文藝春秋"
+  },
+  {
+   "isbn13": "9784594084752",
+   "title": "年収100万円で生きる 格差都市・東京の肉声",
+   "authors": [
+    "吉川ばんび"
+   ],
+   "publisher": "扶桑社"
+  },
+  {
+   "isbn13": "9784532318956",
+   "title": "不格好経営 チームDeNAの挑戦",
+   "authors": [
+    "南場智子"
+   ],
+   "publisher": "日本経済新聞出版社"
+  },
+  {
+   "isbn13": "9784478108703",
+   "title": "僕は君の「熱」に投資しよう ベンチャーキャピタリストが挑発する7日間の特別講義",
+   "authors": [
+    "佐俣アンリ"
+   ],
+   "publisher": "ダイヤモンド社"
+  },
+  {
+   "isbn13": "9784062816168",
+   "title": "裸でも生きる 25歳女性起業家の号泣戦記",
+   "authors": [
+    "山口絵理子"
+   ],
+   "publisher": "講談社"
+  },
+  {
+   "isbn13": "9784492557150",
+   "title": "コーチング・バイブル 本質的な変化を呼び起こすコミュニケーション",
+   "authors": [
+    "ヘンリー・キムジーハウス",
+    "カレン・キムジーハウス",
+    "フィル・サンダール",
+    "ローラ・ウィットワース"
+   ],
+   "publisher": "東洋経済新報社"
+  },
+  {
+   "isbn13": "9784040693163",
+   "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+   "authors": [
+    "若林正恭"
+   ],
+   "publisher": "KADOKAWA"
+  },
+  {
+   "isbn13": "9784909483300",
+   "title": "美容は自尊心の筋トレ",
+   "authors": [
+    "長田杏奈"
+   ],
+   "publisher": "Pヴァイン"
+  },
+  {
+   "isbn13": "9784495540340",
+   "title": "インスタグラムの新しい発信メソッド 「こだわり」が収入になる!",
+   "authors": [
+    "艸谷真由"
+   ],
+   "publisher": "同文舘出版"
+  },
+  {
+   "isbn13": "9784101183015",
+   "title": "二十歳の原点",
+   "authors": [
+    "高野悦子"
+   ],
+   "publisher": "新潮社"
+  },
+  {
+   "isbn13": "9784043260027",
+   "title": "古典文法質問箱",
+   "authors": [
+    "大野晋"
+   ],
+   "publisher": "角川書店"
+  },
+  {
+   "isbn13": "9784480099792",
+   "title": "古代日本語文法",
+   "authors": [
+    "小田勝"
+   ],
+   "publisher": "筑摩書房"
+  },
+  {
+   "isbn13": "9784480099402",
+   "title": "改訂増補 古文解釈のための国文法入門",
+   "authors": [
+    "松尾聰"
+   ],
+   "publisher": "筑摩書房"
+  },
+  {
+   "isbn13": "9784480069573",
+   "title": "日本語全史",
+   "authors": [
+    "沖森卓也"
+   ],
+   "publisher": "筑摩書房"
+  },
+  {
+   "isbn13": "9784894764897",
+   "title": "ガイドブック日本語文法史",
+   "authors": [
+    "高山善行",
+    "青木博史"
+   ],
+   "publisher": "ひつじ書房"
+  }
+ ],
+ "sources": [
+  {
+   "id": "mbb-001",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#1『世にも危険な医療の世界史／リディア・ケイン』 ゲスト：ハヤカワ五味",
+   "url": "https://art19.com/shows/mybestbooks/episodes/1ce6ca4c-6921-4174-96e9-f6efe6b3ec16",
+   "publishedAt": "2020-11-01"
+  },
+  {
+   "id": "mbb-003",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#3 年収100万円で生きる ゲスト：ハヤカワ五味",
+   "url": "https://art19.com/shows/mybestbooks/episodes/780949bf-3e97-443c-9718-688238d27836",
+   "publishedAt": "2020-11-06"
+  },
+  {
+   "id": "mbb-010",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#10 僕は君の「熱」に投資しよう ゲスト: 福田恵里",
+   "url": "https://art19.com/shows/mybestbooks/episodes/5f2f5f0a-0ccd-4d0a-83f9-c0cad0d1b54a",
+   "publishedAt": "2020-11-23"
+  },
+  {
+   "id": "mbb-012",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#12 不格好経営 ゲスト: 福田恵里",
+   "url": "https://art19.com/shows/mybestbooks/episodes/dc65e985-7fae-4425-91c1-2aaa7552461b",
+   "publishedAt": "2020-11-27"
+  },
+  {
+   "id": "mbb-019",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#19 裸でも生きる: 25歳女性起業家の号泣戦記 ゲスト:こばかな",
+   "url": "https://art19.com/shows/mybestbooks/episodes/de4196c0-3c4c-4da4-9bf8-8ff42ed41dd1",
+   "publishedAt": "2020-12-14"
+  },
+  {
+   "id": "mbb-020",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#20 コーチング・バイブル: 本質的な変化を呼び起こすコミュニケーション ゲスト:こばかな",
+   "url": "https://art19.com/shows/mybestbooks/episodes/bda34a42-b103-436e-96db-233fc6f01777",
+   "publishedAt": "2020-12-16"
+  },
+  {
+   "id": "mbb-022",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#22 美容は自尊心の筋トレ ゲスト:遠藤優華子",
+   "url": "https://art19.com/shows/mybestbooks/episodes/8d46e96a-dd6b-46f9-9dd0-4f606ac5739c",
+   "publishedAt": "2020-12-21"
+  },
+  {
+   "id": "mbb-023",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#23 表参道のセレブ犬とカバーニャ要塞の野良犬 ゲスト:遠藤優華子",
+   "url": "https://art19.com/shows/mybestbooks/episodes/4e52e669-535d-4e9c-a97d-8599c7001448",
+   "publishedAt": "2020-12-23"
+  },
+  {
+   "id": "mbb-024",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#24 「こだわり」が収入になる!インスタグラムの新しい発信メソッド ゲスト:遠藤優華子",
+   "url": "https://art19.com/shows/mybestbooks/episodes/0d80509e-0edd-4682-8dc8-6d0a32fb8504",
+   "publishedAt": "2020-12-25"
+  },
+  {
+   "id": "mbb-033",
+   "type": "podcast",
+   "media": "My Best Books",
+   "title": "#33 二十歳の原点 ゲスト:嘉島唯",
+   "url": "https://art19.com/shows/mybestbooks/episodes/b92b0465-bc1b-471e-942b-2605b8f3f8d2",
+   "publishedAt": "2021-01-22"
+  },
+  {
+   "id": "yurugengo-259",
+   "type": "podcast",
+   "media": "ゆる言語学ラジオ",
+   "title": "丸暗記した古文の知識、整理すると気持ちいい【カタルシス古典文法】＃259",
+   "url": "https://podcasters.spotify.com/pod/show/yurugengo/episodes/259-e28faem",
+   "publishedAt": "2023-08-29"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hayakawa-gomi",
+   "isbn13": "9784163910178",
+   "sourceId": "mbb-001",
+   "reason": "ハヤカワ五味はポッドキャスト「My Best Books」の第1回で、医療の歴史を失敗や危険な事例とともに紹介する『世にも危険な医療の世界史』を取り上げた。番組は、ビジネス本以外を読む効能も語られたと説明している。",
+   "verified": true
+  },
+  {
+   "personId": "hayakawa-gomi",
+   "isbn13": "9784594084752",
+   "sourceId": "mbb-003",
+   "reason": "ハヤカワ五味は「My Best Books」の第3回で、東京で年収100万円で暮らす人々への取材をまとめた『年収100万円で生きる』を紹介した。貧困問題を知らないことに危機感を覚えたと語り、現代の教養としての知識の重要性を話したという。",
+   "verified": true
+  },
+  {
+   "personId": "fukuda-eri",
+   "isbn13": "9784478108703",
+   "sourceId": "mbb-010",
+   "reason": "福田恵里は「My Best Books」の第10回で、ベンチャーキャピタリストが学生に講義する形式の『僕は君の「熱」に投資しよう』を紹介した。挑戦し続けてこそ真の成功を手にできるという言葉に深く共感したと、番組は説明している。",
+   "verified": true
+  },
+  {
+   "personId": "fukuda-eri",
+   "isbn13": "9784532318956",
+   "sourceId": "mbb-012",
+   "reason": "福田恵里は「My Best Books」の第12回で、DeNA創業者・南場智子の自伝『不格好経営』を紹介した。その熱量あふれるストーリーに触れたことが起業を決意するきっかけになったと、番組紹介文は伝えている。",
+   "verified": true
+  },
+  {
+   "personId": "kobakana",
+   "isbn13": "9784062816168",
+   "sourceId": "mbb-019",
+   "reason": "こばかなは「My Best Books」の第19回で、マザーハウス創業者の企業ストーリー『裸でも生きる』を紹介した。自分が「おすすめの本として毎回語っている」一冊で、行動力や強い気持ちに自分の可能性を気づかされる本だと番組は説明している。",
+   "verified": true
+  },
+  {
+   "personId": "kobakana",
+   "isbn13": "9784492557150",
+   "sourceId": "mbb-020",
+   "reason": "こばかなは「My Best Books」の第20回で、コーチングのバイブルとされる『コーチング・バイブル』を紹介した。自身もコーチング事業を運営する立場から、コーチングが人生に与える影響と、この一冊を選んだ理由を語ったという。",
+   "verified": true
+  },
+  {
+   "personId": "endo-yukako",
+   "isbn13": "9784909483300",
+   "sourceId": "mbb-022",
+   "reason": "遠藤優華子は「My Best Books」の第22回で、美容ライター長田杏奈による『美容は自尊心の筋トレ』を紹介した。自尊心が高まることで他人にも優しくなれると語ったと、番組紹介文は伝えている。",
+   "verified": true
+  },
+  {
+   "personId": "endo-yukako",
+   "isbn13": "9784040693163",
+   "sourceId": "mbb-023",
+   "reason": "遠藤優華子は「My Best Books」の第23回で、若林正恭がキューバを訪れた日々を綴った紀行エッセイ『表参道のセレブ犬とカバーニャ要塞の野良犬』を紹介した。唯一無二の視点で読める楽しさを語ったと番組は説明している。",
+   "verified": true
+  },
+  {
+   "personId": "endo-yukako",
+   "isbn13": "9784495540340",
+   "sourceId": "mbb-024",
+   "reason": "遠藤優華子は「My Best Books」の第24回で、『インスタグラムの新しい発信メソッド「こだわり」が収入になる!』を「Instagramの教科書」と語って紹介した。SNSで発信する際に重要なマインドについても話したという。",
+   "verified": true
+  },
+  {
+   "personId": "kashima-yui",
+   "isbn13": "9784101183015",
+   "sourceId": "mbb-033",
+   "reason": "嘉島唯は「My Best Books」の第33回で、ある女性の日記をまとめた『二十歳の原点』を、自身にとっての「原点」だと語って紹介した。前向きではない表現を発信することの重要性についても話したと、番組は説明している。",
+   "verified": true
+  },
+  {
+   "personId": "takada-shoji",
+   "isbn13": "9784043260027",
+   "sourceId": "yurugengo-259",
+   "reason": "高田祥司は「ゆる言語学ラジオ」#259（2023-08-29）の概要欄の「高田先生のおすすめ書籍」で、大野晋『古典文法質問箱』を挙げた。古典文法の疑問に用例で答える、高校生にも読みやすい良書だと説明されている。",
+   "verified": true
+  },
+  {
+   "personId": "takada-shoji",
+   "isbn13": "9784480099792",
+   "sourceId": "yurugengo-259",
+   "reason": "高田祥司は「ゆる言語学ラジオ」#259（2023-08-29）の「おすすめ書籍」で、小田勝『古代日本語文法』を紹介した。現代語の文法の枠組みで古典文法を体系的に記述した、従来の概説書と構成や視点が異なる意欲的な一冊だという。",
+   "verified": true
+  },
+  {
+   "personId": "takada-shoji",
+   "isbn13": "9784480099402",
+   "sourceId": "yurugengo-259",
+   "reason": "高田祥司は「ゆる言語学ラジオ」#259（2023-08-29）の「おすすめ書籍」で、松尾聰『古文解釈のための国文法入門』を挙げた。助詞・助動詞・敬語などの意味を豊富な用例で記述した、定評ある古典文法の解説書の改訂版とされている。",
+   "verified": true
+  },
+  {
+   "personId": "takada-shoji",
+   "isbn13": "9784480069573",
+   "sourceId": "yurugengo-259",
+   "reason": "高田祥司は「ゆる言語学ラジオ」#259（2023-08-29）の「おすすめ書籍」で、沖森卓也『日本語全史』を紹介した。古代から近代までの日本語の変遷を、文字表記・音韻・語彙・文法などの項目別にコンパクトにまとめた一冊だという。",
+   "verified": true
+  },
+  {
+   "personId": "takada-shoji",
+   "isbn13": "9784894764897",
+   "sourceId": "yurugengo-259",
+   "reason": "高田祥司は「ゆる言語学ラジオ」#259（2023-08-29）の「おすすめ書籍」で、『ガイドブック日本語文法史』を挙げた。ヴォイスやアスペクト・テンス、モダリティなど日本語文法史の基本事項をテーマ別に解説した教科書だという。",
+   "verified": true
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://rebuild.fm/feed.xml",
+   "result": "rejected",
+   "reason": "全560回のタイトルを確認。書籍の推薦を主題とする回がほぼなく、推薦の帰属が判断できない",
+   "person": ""
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFo4kqllbcQ4nV83WCyraiw",
+   "result": "rejected",
+   "reason": "取得できず（404）",
+   "person": "中田敦彦"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC67Wr_9pA4I0glIxDt_Cpyw",
+   "result": "rejected",
+   "reason": "取得できず（404）",
+   "person": "両@リベ大学長"
+  },
+  {
+   "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpLu0KjNy616-E95gPx7LZg",
+   "result": "rejected",
+   "reason": "取得できず（404）。YouTube の RSS は curl では使えなかった",
+   "person": ""
+  },
+  {
+   "url": "https://api.robotstart.jp/api/v1/feeds/35d00481/get-feeds/podcast",
+   "result": "rejected",
+   "reason": "ゆる言語学ラジオの RSS。参考文献リストはあるが多くは司会者の資料で、誰が薦めたか不明。高田祥司の回のみ採用",
+   "person": "堀元見・水野太貴"
+  },
+  {
+   "url": "https://podcasters.spotify.com/pod/show/yurugengo/episodes/442-e3dkjtr",
+   "result": "rejected",
+   "reason": "『おすすめの本を紹介』の見出しはあるが、概要欄に推薦書名が特定できない",
+   "person": ""
+  },
+  {
+   "url": "https://anchor.fm/s/8c2088c/podcast/rss",
+   "result": "rejected",
+   "reason": "COTEN RADIO。概要欄に推薦書の記載が見つからず",
+   "person": "深井龍之介"
+  },
+  {
+   "url": "https://feeds.megaphone.fm/TBS4261995648",
+   "result": "rejected",
+   "reason": "関根麻里 気になるあの人と本の話。ゲスト自身の著書の紹介で自著のため対象外",
+   "person": "関根麻里"
+  },
+  {
+   "url": "https://feeds.megaphone.fm/TASC8310526194",
+   "result": "rejected",
+   "reason": "好書好日。新刊の書評・著者インタビューが中心で、人物による推薦ではない",
+   "person": ""
+  },
+  {
+   "url": "https://feeds.megaphone.fm/NCB3272912411",
+   "result": "rejected",
+   "reason": "夜ふかしの読み明かし。課題作品の読書回で、推薦ではない",
+   "person": ""
+  },
+  {
+   "url": "https://feeds.megaphone.fm/TBS6699678642",
+   "result": "rejected",
+   "reason": "ペーパードライブ。課題作品の読書回で、推薦ではない",
+   "person": ""
+  },
+  {
+   "url": "https://rss.art19.com/mybestbooks",
+   "result": "rejected",
+   "reason": "採用した回以外：ゲストが「ご紹介」としか書かれていない回、ゲスト自身の著書の回（#6, #9, #15, #35 等）、ゲスト記載のない回を除外",
+   "person": "田端信太郎・北野唯我・石倉秀明・設楽悠介・トイアンナ・大河内薫・こばかな(#21)"
+  }
+ ]
+}
