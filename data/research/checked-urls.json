@@ -7923,5 +7923,83 @@
     "result": "index",
     "reason": "Chapters Blog（書店主・森本萌乃の選書記事）。「オススメ本紹介」カテゴリ。2026-10-01 の「一生に一度は読むべき本22選」を取り込み。ほかの記事は未確認",
     "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_012.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-12",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_003.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-03",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_001.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-01",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_006.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-06",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_007.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-07",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_009.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-09",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_005.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-05",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_002.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-02",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_010.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-10",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_011.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-11",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_004.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-04",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen_008.html",
+    "result": "adopted",
+    "reason": "sources.json の saito-takashi-recommend-08",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://www.isc.meiji.ac.jp/~saito/recommen.html",
+    "result": "index",
+    "reason": "齋藤孝の公式ホームページ「おすすめ本」。分野別の12ページ（recommen_001〜012.html）に書名・著者・出版社の表がある。全ページを取り込み済み。掲載日の記載なし",
+    "checkedAt": "2026-11-15"
   }
 ]

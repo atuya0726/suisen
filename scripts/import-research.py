@@ -212,6 +212,22 @@ def main():
             return sorted(vol, key=lambda c: c.get("publishedAt") or "")[-1] if "文庫" in note else vol[0]
         return None
 
+    def same_work(book, title):
+        """同じ作品がすでにデータにあれば、その本を返す（版違いで推薦者数が分かれないようにする）。"""
+        if not book:
+            return book
+        key = strip_title(VOL1_NUM.sub("", book["title"]))
+        fam = lambda a: re.sub(r"[\s・=＝.．，,]", "", NFKC(a))[-3:]
+        mine = {fam(a) for a in book.get("authors", [])[:1]}
+        for b in books:
+            if b["isbn13"] == book["isbn13"]:
+                return b
+            if strip_title(VOL1_NUM.sub("", b["title"])) == key and mine & {fam(a) for a in b.get("authors", [])[:2]}:
+                # 上巻と下巻、第1巻と別の巻は同じ作品として寄せない
+                if bool(VOL1.search(NFKC(b["title"]))) == bool(VOL1.search(NFKC(book["title"]))):
+                    return b
+        return book
+
     def candidates(title):
         r = results.get(title) or {}
         # 英語学習者向けの版などを避ける
@@ -271,6 +287,8 @@ def main():
         if not book:
             skipped.append(title)
             continue
+        if title not in pick and title not in page_isbn:
+            book = same_work(book, title)
         book = dict(book)
         if is_series(title) or VOL1_NUM.search(book["title"]):
             stripped = VOL1_NUM.sub("", book["title"]).strip()

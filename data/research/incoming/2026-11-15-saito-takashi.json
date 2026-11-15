@@ -1,0 +1,1839 @@
+{
+ "people": [
+  {
+   "id": "saito",
+   "name": "齋藤孝",
+   "title": "明治大学文学部教授",
+   "tags": [
+    "研究者",
+    "作家"
+   ],
+   "affiliation": "明治大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "saito-takashi-recommend-01",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（感動もの）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_001.html"
+  },
+  {
+   "id": "saito-takashi-recommend-02",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（社会史）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_002.html"
+  },
+  {
+   "id": "saito-takashi-recommend-03",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（身体論関係）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_003.html"
+  },
+  {
+   "id": "saito-takashi-recommend-04",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（社会認識関係）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_004.html"
+  },
+  {
+   "id": "saito-takashi-recommend-05",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（人間学）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_005.html"
+  },
+  {
+   "id": "saito-takashi-recommend-06",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（映画関係）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_006.html"
+  },
+  {
+   "id": "saito-takashi-recommend-07",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（教育関係）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_007.html"
+  },
+  {
+   "id": "saito-takashi-recommend-08",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（心理学関係）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_008.html"
+  },
+  {
+   "id": "saito-takashi-recommend-09",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（小説）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_009.html"
+  },
+  {
+   "id": "saito-takashi-recommend-10",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（漫画関係）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_010.html"
+  },
+  {
+   "id": "saito-takashi-recommend-11",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（全体主義について）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_011.html"
+  },
+  {
+   "id": "saito-takashi-recommend-12",
+   "type": "article",
+   "media": "齋藤孝のホームページ",
+   "title": "おすすめ本（随筆他）",
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen_012.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "生きることの意味",
+    "author": "高史明",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "苦海浄土",
+    "author": "石牟礼道子",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "ドキュメント人間",
+    "author": "鎌田慧",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "ある明治人の記録 会津人柴五郎の遺書",
+    "author": "石光真人編著",
+    "publisher": "中公新書",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "開かれた小さな扉",
+    "author": "アクスライン",
+    "publisher": "日本エディタースクール出版部",
+    "edition": "日本エディタースクール出版部"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "わがいのち月明に燃ゆ",
+    "author": "林ただ夫",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "ことばが劈かれるとき",
+    "author": "竹内敏晴",
+    "publisher": "ちくま書房",
+    "edition": "ちくま書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "夜と霧",
+    "author": "フランクル",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "看護婦の現場から",
+    "author": "向井承子",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "葬式ごっこ 八年後の証言",
+    "author": "豊田充",
+    "publisher": "風雅書房",
+    "edition": "風雅書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-01",
+   "book": {
+    "title": "飛鳥へ、そしてまだ見ぬ子へ",
+    "author": "井村和清",
+    "publisher": "NONブックス",
+    "edition": "NONブックス"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-02",
+   "book": {
+    "title": "文明化の過程",
+    "author": "エリアス",
+    "publisher": "法政大学出版局",
+    "edition": "法政大学出版局"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-02",
+   "book": {
+    "title": "刑罰の社会史",
+    "author": "阿部謹也",
+    "publisher": "中公新書",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-02",
+   "book": {
+    "title": "フランソワ・ラブレーの作品と中世・ルネッサンスの民衆文化",
+    "author": "バフチーン",
+    "publisher": "せりか書房",
+    "edition": "せりか書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-02",
+   "book": {
+    "title": "楽園・味覚・理性",
+    "author": "シュベルブシュ",
+    "publisher": "法政大学出版局",
+    "edition": "法政大学出版局"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "整体法の基礎",
+    "author": "野口晴哉（はるちか）",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "精神としての身体",
+    "author": "市川浩",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "身の構造",
+    "author": "市川浩",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "身体と感情の現象学",
+    "author": "シュミッツ",
+    "publisher": "産業図書",
+    "edition": "産業図書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "胎児の世界",
+    "author": "三木成夫",
+    "publisher": "中公新書",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "身体の宇宙誌",
+    "author": "鎌田東二",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "五感",
+    "author": "セール",
+    "publisher": "法政大学出版局",
+    "edition": "法政大学出版局"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "精神のコスモロジーへ",
+    "author": "ミンコフスキー",
+    "publisher": "人文書院",
+    "edition": "人文書院"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "時間と自己",
+    "author": "木村敏",
+    "publisher": "中公新書",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "引き裂かれた自己",
+    "author": "レイン",
+    "publisher": "ー",
+    "edition": "ー"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "指圧療法",
+    "author": "増永静人",
+    "publisher": "創元医学新書",
+    "edition": "創元医学新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "フォーカシング",
+    "author": "ジェンドリン",
+    "publisher": "福村出版",
+    "edition": "福村出版"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "弓と禅",
+    "author": "ヘリゲル",
+    "publisher": "福村出版",
+    "edition": "福村出版"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "からだに貞（き）く",
+    "author": "野口三千三",
+    "publisher": "柏樹社",
+    "edition": "柏樹社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "武道とは何か",
+    "author": "南郷継正",
+    "publisher": "三一書房",
+    "edition": "三一書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "知覚の現象学",
+    "author": "メルロ＝ポンティ",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "眼と精神",
+    "author": "メルロ＝ポンティ",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-03",
+   "book": {
+    "title": "世界の散文",
+    "author": "メルロ＝ポンティ",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "ユダヤ人問題によせて",
+    "author": "マルクス",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "フォイエルバッハに関するテーゼ",
+    "author": "マルクス",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "プロテスタンティズムの倫理と資本主義の精神",
+    "author": "ウェーバー",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "日本の思想",
+    "author": "丸山真男",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "「文明論の概略」を読む",
+    "author": "丸山真男",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "現代政治の思想と行動",
+    "author": "丸山真男",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "日本政治思想史研究",
+    "author": "丸山真男",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "歴史とは何か",
+    "author": "カー",
+    "publisher": "岩波新書",
+    "edition": "岩波新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "戸坂潤全集第二巻",
+    "author": "戸坂潤",
+    "publisher": "勁草書房",
+    "edition": "勁草書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "史的システムとしての資本主義",
+    "author": "ウォーラーステイン",
+    "publisher": "岩波現代選書",
+    "edition": "岩波現代選書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "レギュラシオン理論",
+    "author": "山田鋭夫",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "伏（まつろ）わぬ人々アイヌ",
+    "author": "堀内光一",
+    "publisher": "新泉社",
+    "edition": "新泉社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "バナナと日本人",
+    "author": "鶴見良行",
+    "publisher": "岩波新書",
+    "edition": "岩波新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "現代日本の思想 五つの渦",
+    "author": "久野収・鶴見俊輔",
+    "publisher": "岩波新書",
+    "edition": "岩波新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "人間の条件",
+    "author": "アーレント",
+    "publisher": "ちくま文庫みすず",
+    "edition": "ちくま文庫みすず"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "全体主義の起原",
+    "author": "アーレント",
+    "publisher": "ちくま文庫みすず",
+    "edition": "ちくま文庫みすず"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "自己のテクノロジー",
+    "author": "フーコー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "同性愛と生存の美学",
+    "author": "フーコー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "監獄の誕生ー監視と処罰",
+    "author": "フーコー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "性の歴史",
+    "author": "フーコー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "狂気の歴史",
+    "author": "フーコー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "言葉と物",
+    "author": "フーコー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "ピエール・ブルデュー超領域の人間学",
+    "author": "ブルデュー",
+    "publisher": "ー",
+    "edition": "ー"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "シャドウ・ワーク",
+    "author": "イリイチ",
+    "publisher": "岩波",
+    "edition": "岩波"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "ー",
+    "author": "小田実",
+    "publisher": "岩波新書のどれか",
+    "edition": "岩波新書のどれか"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "共同幻想論",
+    "author": "吉本隆明",
+    "publisher": "角川文庫",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "人生のドラマトゥルギー",
+    "author": "栗原彬",
+    "publisher": "岩波",
+    "edition": "岩波"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "都市という廃墟",
+    "author": "松山巌",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "砦に拠る",
+    "author": "松下竜一",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "新東京漂流",
+    "author": "藤原新也",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "印度放浪",
+    "author": "藤原新也",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "豊かなアジア貧しい日本",
+    "author": "中村尚司",
+    "publisher": "学陽書房",
+    "edition": "学陽書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "明治大正史世相篇",
+    "author": "柳田國男",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "忘れられた日本人",
+    "author": "宮本常一",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "家郷の訓",
+    "author": "宮本常一",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-04",
+   "book": {
+    "title": "天皇制と被差別部落",
+    "author": "上杉聰",
+    "publisher": "三一新書",
+    "edition": "三一新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "この人を見よ",
+    "author": "ニーチェ",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "呪われた部分",
+    "author": "バタイユ",
+    "publisher": "二見書房",
+    "edition": "二見書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "沈黙の世界",
+    "author": "ピカート",
+    "publisher": "みすず",
+    "edition": "みすず"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "余暇と祝祭",
+    "author": "ピーパー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "十牛図 自己の現象学",
+    "author": "上田閑照・柳田聖山",
+    "publisher": "ちくま学術文庫",
+    "edition": "ちくま学術文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "ホモ・ルーデンス",
+    "author": "ホイジンガ",
+    "publisher": "中公文庫",
+    "edition": "中公文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "かたちと力",
+    "author": "ルネ・ユイグ",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "瞑想",
+    "author": "ラジニーシ",
+    "publisher": "めるくまーる社",
+    "edition": "めるくまーる社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "我と汝／対話",
+    "author": "ブーバー",
+    "publisher": "みすず書房岩波もある",
+    "edition": "みすず書房岩波もある"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "マゾッホとサド",
+    "author": "ドゥルーズ",
+    "publisher": "晶文社",
+    "edition": "晶文社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "イエスという男",
+    "author": "田川建三",
+    "publisher": "三一書房",
+    "edition": "三一書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "ソシュールの思想",
+    "author": "丸山圭三郎",
+    "publisher": "岩波",
+    "edition": "岩波"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "水と夢",
+    "author": "バシュラール",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "空と夢",
+    "author": "バシュラール",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "攻撃",
+    "author": "ローレンツ",
+    "publisher": "みすず",
+    "edition": "みすず"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "メビウス身体気流法",
+    "author": "坪井繁幸",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "私の人生観",
+    "author": "小林秀雄",
+    "publisher": "角川文庫",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "道元の読み方",
+    "author": "栗田勇",
+    "publisher": "祥伝社ノンブック",
+    "edition": "祥伝社ノンブック"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "「いき」の構造",
+    "author": "九鬼周造",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "中井正一評論集",
+    "author": "中井正一",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-05",
+   "book": {
+    "title": "心より心へ伝ふる花",
+    "author": "観世寿夫",
+    "publisher": "白水社",
+    "edition": "白水社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-06",
+   "book": {
+    "title": "友よ映画よ わがヌーヴェルヴァーグ誌",
+    "author": "山田宏一",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-06",
+   "book": {
+    "title": "映画に目が眩んで",
+    "author": "蓮實重彦",
+    "publisher": "中央公論社",
+    "edition": "中央公論社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "教育の窓をあけませんか",
+    "author": "室田明美",
+    "publisher": "国土社",
+    "edition": "国土社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "ミュンヘンの中学生",
+    "author": "子安美知子",
+    "publisher": "中公新書",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "教育芸術1，2",
+    "author": "シュタイナー",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "いかにして超感覚的世界の認識を得るか",
+    "author": "シュタイナー",
+    "publisher": "イザラ書房",
+    "edition": "イザラ書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "伝達か対話か",
+    "author": "フレイレ",
+    "publisher": "亜紀書房",
+    "edition": "亜紀書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "理解のおくれの本質",
+    "author": "村瀬学",
+    "publisher": "大和書房",
+    "edition": "大和書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "＜子供＞の誕生",
+    "author": "エリアス",
+    "publisher": "みすず",
+    "edition": "みすず"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "異文化としての子ども",
+    "author": "本田和子",
+    "publisher": "ちくま学術文庫",
+    "edition": "ちくま学術文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "新エミール",
+    "author": "毛利子来（たねき）",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "饗宴",
+    "author": "プラトン",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "パイドーン",
+    "author": "プラトン",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "シリーズ授業10 障害児教育",
+    "author": "稲垣他",
+    "publisher": "岩波",
+    "edition": "岩波 シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-07",
+   "book": {
+    "title": "太陽の子",
+    "author": "灰谷健次郎",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "精神分析入門",
+    "author": "フロイト",
+    "publisher": "中公文庫",
+    "edition": "中公文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "エロスとタナトス",
+    "author": "ブラウン",
+    "publisher": "竹内書店新社",
+    "edition": "竹内書店新社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "精神病",
+    "author": "ラカン",
+    "publisher": "岩波",
+    "edition": "岩波"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "幼児期と社会",
+    "author": "エリクソン",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "素足の心理療法",
+    "author": "霜山徳爾",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "精神科診断面接のコツ",
+    "author": "神田橋條治",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "自由からの逃走",
+    "author": "フロム",
+    "publisher": "東京創元社",
+    "edition": "東京創元社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "ものぐさ精神分析",
+    "author": "岸田秀",
+    "publisher": "中公文庫",
+    "edition": "中公文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "青年期",
+    "author": "笠原嘉",
+    "publisher": "中公新書",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-08",
+   "book": {
+    "title": "失われた私",
+    "author": "シュライバー",
+    "publisher": "ハヤカワ文庫",
+    "edition": "ハヤカワ文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "知られざる傑作",
+    "author": "バルザック",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "ドン・キホーテ",
+    "author": "セルバンテス",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "デミアン",
+    "author": "ヘッセ",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "ジャン・クリストフ",
+    "author": "ロマン・ロラン",
+    "publisher": "ー",
+    "edition": "ー"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "存在の耐えられない軽さ",
+    "author": "クンデラ",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "微笑を誘う愛の物語",
+    "author": "クンデラ",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "スタンド・バイ・ミー",
+    "author": "スティーブン・キング",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "山の音",
+    "author": "川端康成",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "千羽鶴",
+    "author": "川端康成",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "掌の小説",
+    "author": "川端康成",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "新しい人よ眼ざめよ",
+    "author": "大江健三郎",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "枯木灘",
+    "author": "中上健次",
+    "publisher": "河出文庫",
+    "edition": "河出文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "十九歳の地図",
+    "author": "中上健次",
+    "publisher": "河出文庫",
+    "edition": "河出文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "千年の愉楽",
+    "author": "中上健次",
+    "publisher": "河出文庫",
+    "edition": "河出文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "白痴",
+    "author": "ドストエフスキー",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "カラマーゾフの兄弟",
+    "author": "ドストエフスキー",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "長距離走者の孤独",
+    "author": "シリトー",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "フラニーとゾーイー",
+    "author": "サリンジャー",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "かもめ",
+    "author": "チェーホフ",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "デカメロン",
+    "author": "ボッカチオ",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "パンタグリュエル物語",
+    "author": "ラブレー",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "江戸川乱歩集",
+    "author": "江戸川乱歩",
+    "publisher": "創元推理文庫",
+    "edition": "創元推理文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "紫苑物語",
+    "author": "石川淳",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "O.ヘンリー短編集",
+    "author": "O.ヘンリー",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "百年の孤独",
+    "author": "マルケス",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "族長の秋",
+    "author": "マルケス",
+    "publisher": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "悪童日記",
+    "author": "クリストフ",
+    "publisher": "集英社？",
+    "edition": "集英社？"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "ゲド戦記",
+    "author": "ル・グウィン",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "プラトーノフ作品集",
+    "author": "プラトーノフ",
+    "publisher": "岩波文庫",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "春と修羅",
+    "author": "宮沢賢治",
+    "publisher": "ー",
+    "edition": "ー"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "タクシー狂躁曲",
+    "author": "梁石日",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-09",
+   "book": {
+    "title": "タクシードライバー日誌",
+    "author": "梁石日",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "カムイ伝",
+    "author": "白土三平",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "龍（ロン）",
+    "author": "村上もとか",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "BE FREE",
+    "author": "江川達也",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "風呂上がりの夜空に",
+    "author": "小林じん子",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "河よりも長くゆるやかに",
+    "author": "吉田秋生",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "イグアナの娘",
+    "author": "萩尾望都",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "サンクチュアリ",
+    "author": "史村翔・池上遼一",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "遥かなる甲子園",
+    "author": "山本おさむ",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "まんだら屋の良太",
+    "author": "畑中純",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "行け！稲中卓球部",
+    "author": "古谷実",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "マスターキートン",
+    "author": "浦沢直樹",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-10",
+   "book": {
+    "title": "ギャンブル・レーサー",
+    "author": "中崎タツヤ・喜国雅弘・原律子・ひさうちみちお・つげ義春・高野文子・山岸涼子・田中誠",
+    "publisher": "ー",
+    "edition": "ー シリーズ"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-11",
+   "book": {
+    "title": "一九八四年",
+    "author": "オーウェル",
+    "publisher": "ハヤカワ文庫",
+    "edition": "ハヤカワ文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-11",
+   "book": {
+    "title": "「近代」の意味」",
+    "author": "桜井哲夫",
+    "publisher": "ー",
+    "edition": "ー"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-11",
+   "book": {
+    "title": "ある憲兵の記録",
+    "author": "朝日新聞社山形支局",
+    "publisher": "朝日文庫",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-11",
+   "book": {
+    "title": "白バラは散らず",
+    "author": "ショル",
+    "publisher": "未来社",
+    "edition": "未来社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-11",
+   "book": {
+    "title": "全体主義の時代経験",
+    "author": "藤田省三",
+    "publisher": "みすず",
+    "edition": "みすず"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "内田百けんの随筆",
+    "author": "内田百けん",
+    "publisher": "ー",
+    "edition": "ー"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "人間的時間の研究",
+    "author": "プーレ",
+    "publisher": "筑摩",
+    "edition": "筑摩"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "物語／破局論",
+    "author": "井口時男",
+    "publisher": "評論社",
+    "edition": "評論社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "グルダの真実",
+    "author": "グルダ",
+    "publisher": "洋泉社",
+    "edition": "洋泉社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "セザンヌ",
+    "author": "ペリュショ",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "侯孝賢",
+    "author": "朝日ワンテーママガジン",
+    "publisher": "朝日新聞社",
+    "edition": "朝日新聞社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "俺様の宝石さ",
+    "author": "浮谷東次郎",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "若き数学者のアメリカ",
+    "author": "藤原正彦",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito-takashi-recommend-12",
+   "book": {
+    "title": "堕落論",
+    "author": "坂口安吾",
+    "publisher": "角川文庫",
+    "edition": "角川文庫"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.isc.meiji.ac.jp/~saito/recommen.html",
+   "result": "index",
+   "reason": "齋藤孝の公式ホームページ「おすすめ本」。分野別の12ページ（recommen_001〜012.html）に書名・著者・出版社の表がある。全ページを取り込み済み。掲載日の記載なし"
+  }
+ ]
+}
