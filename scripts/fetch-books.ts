@@ -6,6 +6,7 @@
 //   pnpm fetch-books --search in.json --out out.json … 書名（＋著者）から ISBN と書誌をまとめて引く
 //
 // --search の入力は [{ "title": "書名", "author": "著者（任意）", "publisher": "出版社（任意）" }, ...]。
+// シリーズの第1巻を引きたいときは "sort": "+releaseDate"（発売の古い順）を付ける。
 // 楽天ブックスで探し、見つからない本だけ国立国会図書館サーチで補う。結果は --out のファイル（省略時は標準出力）に
 // 書くだけで、books.json は変更しない。候補が複数ある本は alternatives に並ぶので、人が見て版を選ぶ。
 //
@@ -158,6 +159,11 @@ interface Query {
   title: string;
   author?: string;
   publisher?: string;
+  /**
+   * 楽天の並び順。既定は "sales"（売れている順）。漫画などのシリーズで第1巻を引きたいときは
+   * "+releaseDate"（発売の古い順）にする。同点の候補は並び順の先頭が選ばれる。
+   */
+  sort?: string;
 }
 interface Candidate {
   isbn13: string;
@@ -330,7 +336,7 @@ async function runSearch(inputPath: string): Promise<void> {
     try {
       // 著者は API に渡さず手元で照合する（「姓 名」の空白や共著者の表記ゆれで取りこぼさないため）
       const search = async (title: string) =>
-        (await rakutenSearch({ title, hits: "30", sort: "sales", outOfStockFlag: "1" }))
+        (await rakutenSearch({ title, hits: "30", sort: q.sort ?? "sales", outOfStockFlag: "1" }))
           .map(toCandidate)
           .filter((c) => c !== null);
       result = choose(q, await search(q.title), "rakuten");

@@ -398,7 +398,7 @@
   },
   {
     "isbn13": "9784047381070",
-    "title": "本なら売るほど 1",
+    "title": "本なら売るほど",
     "authors": [
       "児島青"
     ],
@@ -1607,7 +1607,7 @@
   },
   {
     "isbn13": "9784101154619",
-    "title": "宮本武蔵（一）",
+    "title": "宮本武蔵",
     "authors": [
       "吉川 英治"
     ],
@@ -1644,7 +1644,7 @@
   },
   {
     "isbn13": "9784088716114",
-    "title": "SLAM DUNK 1",
+    "title": "SLAM DUNK",
     "authors": [
       "井上 雄彦"
     ],
@@ -1656,7 +1656,7 @@
   },
   {
     "isbn13": "9784065134009",
-    "title": "ブルーロック（1）",
+    "title": "ブルーロック",
     "authors": [
       "金城 宗幸",
       "ノ村 優介"
@@ -1775,7 +1775,7 @@
   },
   {
     "isbn13": "9784101181325",
-    "title": "海の都の物語 ヴェネツィア共和国の一千年 1",
+    "title": "海の都の物語 ヴェネツィア共和国の一千年",
     "authors": [
       "塩野 七生"
     ],
@@ -1835,7 +1835,7 @@
   },
   {
     "isbn13": "9784086170611",
-    "title": "キャプテン（1）",
+    "title": "キャプテン",
     "authors": [
       "ちばあきお"
     ],
@@ -1847,7 +1847,7 @@
   },
   {
     "isbn13": "9784098501809",
-    "title": "葬送のフリーレン（1）",
+    "title": "葬送のフリーレン",
     "authors": [
       "山田 鐘人",
       "アベツカサ"
@@ -1860,7 +1860,7 @@
   },
   {
     "isbn13": "9784253031608",
-    "title": "ブラック・ジャック　1",
+    "title": "ブラック・ジャック",
     "authors": [
       "手塚 治虫"
     ],
@@ -2100,7 +2100,7 @@
   },
   {
     "isbn13": "9784272802517",
-    "title": "資本論（1）",
+    "title": "資本論",
     "authors": [
       "カール・ハインリヒ・マルクス",
       "岡崎次郎"
@@ -4807,7 +4807,7 @@
   },
   {
     "isbn13": "9784041205570",
-    "title": "僕だけがいない街（1）",
+    "title": "僕だけがいない街",
     "authors": [
       "三部 けい"
     ],
@@ -5068,7 +5068,7 @@
   },
   {
     "isbn13": "9784253156370",
-    "title": "凪のお暇（1）",
+    "title": "凪のお暇",
     "authors": [
       "コナリミサト"
     ],
@@ -5205,7 +5205,7 @@
   },
   {
     "isbn13": "9784063725704",
-    "title": "ムーたち（1）",
+    "title": "ムーたち",
     "authors": [
       "榎本俊二"
     ],
@@ -5240,20 +5240,8 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784091971319",
-    "title": "寄席芸人伝（1）",
-    "authors": [
-      "古谷三敏"
-    ],
-    "publisher": "小学館",
-    "publishedAt": "1989-05-22",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/353713/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1319/9784091971319.gif?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
     "isbn13": "9784592217268",
-    "title": "かげきしょうじょ!! 1",
+    "title": "かげきしょうじょ!!",
     "authors": [
       "斉木久美子"
     ],
@@ -5662,7 +5650,7 @@
   },
   {
     "isbn13": "9784163910932",
-    "title": "裸一貫！ つづ井さん 1",
+    "title": "裸一貫！ つづ井さん",
     "authors": [
       "つづ井"
     ],
@@ -6366,7 +6354,7 @@
   },
   {
     "isbn13": "9784003261811",
-    "title": "戦争と平和　1",
+    "title": "戦争と平和",
     "authors": [
       "トルストイ",
       "藤沼 貴"
@@ -6779,7 +6767,7 @@
   },
   {
     "isbn13": "9784003253113",
-    "title": "レ・ミゼラブル　1",
+    "title": "レ・ミゼラブル",
     "authors": [
       "ユーゴー，V．（ヴィクトル）",
       "豊島 与志雄"
@@ -7350,7 +7338,7 @@
   },
   {
     "isbn13": "9784783723714",
-    "title": "北川透現代詩論集成（1）",
+    "title": "北川透現代詩論集成",
     "authors": [
       "北川透"
     ],
@@ -7470,7 +7458,7 @@
   },
   {
     "isbn13": "9784003810712",
-    "title": "田中正造文集（1）",
+    "title": "田中正造文集",
     "authors": [
       "田中正造",
       "由井正臣"
@@ -7495,7 +7483,7 @@
   },
   {
     "isbn13": "9784103096108",
-    "title": "ローマ人の物語（1）",
+    "title": "ローマ人の物語",
     "authors": [
       "塩野七生"
     ],
@@ -8372,7 +8360,7 @@
   },
   {
     "isbn13": "9784122022393",
-    "title": "地球（テラ）へ…　1",
+    "title": "地球（テラ）へ…",
     "authors": [
       "竹宮 惠子"
     ],
@@ -8873,7 +8861,7 @@
   },
   {
     "isbn13": "9784582807677",
-    "title": "馮友蘭自伝（1）",
+    "title": "馮友蘭自伝",
     "authors": [
       "馮友蘭",
       "吾妻重二"
@@ -8935,7 +8923,7 @@
   },
   {
     "isbn13": "9784622080312",
-    "title": "磁力と重力の発見　1",
+    "title": "磁力と重力の発見",
     "authors": [
       "山本 義隆"
     ],
@@ -11022,7 +11010,7 @@
   },
   {
     "isbn13": "9784320012714",
-    "title": "数学の歴史（1）",
+    "title": "数学の歴史",
     "authors": [
       "伊東俊太郎"
     ],
@@ -11854,7 +11842,7 @@
   },
   {
     "isbn13": "9784088582016",
-    "title": "コブラ（1）",
+    "title": "コブラ",
     "authors": [
       "寺沢武一"
     ],
@@ -11866,7 +11854,7 @@
   },
   {
     "isbn13": "9784396767976",
-    "title": "女の園の星 1",
+    "title": "女の園の星",
     "authors": [
       "和山やま"
     ],
@@ -11984,16 +11972,6 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784267014413",
-    "title": "三国志（第1巻）",
-    "authors": [
-      "横山光輝"
-    ],
-    "publisher": "潮出版社",
-    "publishedAt": "1997-11",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/932469/"
-  },
-  {
     "isbn13": "9784394301523",
     "title": "パノラマ島奇談",
     "authors": [
@@ -12032,7 +12010,7 @@
   },
   {
     "isbn13": "9784041120972",
-    "title": "鍋に弾丸を受けながら　1",
+    "title": "鍋に弾丸を受けながら",
     "authors": [
       "青木 潤太朗",
       "森山 慎"
@@ -12045,7 +12023,7 @@
   },
   {
     "isbn13": "9784107717443",
-    "title": "働かないふたり（1）",
+    "title": "働かないふたり",
     "authors": [
       "吉田覚"
     ],
@@ -12170,7 +12148,7 @@
   },
   {
     "isbn13": "9784088512815",
-    "title": "キャプテン翼 1",
+    "title": "キャプテン翼",
     "authors": [
       "高橋 陽一"
     ],
@@ -12181,21 +12159,8 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784087030280",
-    "title": "SLAM DUNK",
-    "authors": [
-      "井上 雄彦",
-      "菅 良幸"
-    ],
-    "publisher": "集英社",
-    "publishedAt": "1994-12-02",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/694979/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0280/9784087030280.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
     "isbn13": "9784088728155",
-    "title": "テニスの王子様 1",
+    "title": "テニスの王子様",
     "authors": [
       "許斐 剛"
     ],
@@ -12207,7 +12172,7 @@
   },
   {
     "isbn13": "9784088727172",
-    "title": "ヒカルの碁（1）",
+    "title": "ヒカルの碁",
     "authors": [
       "小畑 健",
       "ほった ゆみ"
@@ -12280,18 +12245,6 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784086171014",
-    "title": "こちら葛飾区亀有公園前派出所 1",
-    "authors": [
-      "秋本 治"
-    ],
-    "publisher": "集英社",
-    "publishedAt": "1995-08-18",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/745864/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1014/9784086171014_1_2.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
     "isbn13": "9784088524962",
     "title": "魁!!男塾",
     "authors": [
@@ -12338,7 +12291,7 @@
   },
   {
     "isbn13": "9784065241868",
-    "title": "るなしい（1）",
+    "title": "るなしい",
     "authors": [
       "意志強 ナツ子"
     ],
@@ -12387,7 +12340,7 @@
   },
   {
     "isbn13": "9784061025431",
-    "title": "課長島耕作（1）",
+    "title": "課長島耕作",
     "authors": [
       "弘兼憲史"
     ],
@@ -12479,7 +12432,7 @@
   },
   {
     "isbn13": "9784063286199",
-    "title": "バガボンド（1）",
+    "title": "バガボンド",
     "authors": [
       "井上雄彦",
       "吉川英治"
@@ -12488,19 +12441,6 @@
     "publishedAt": "1999-03-22",
     "rakutenUrl": "https://books.rakuten.co.jp/rb/1048909/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6199/9784063286199_1_9.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
-    "isbn13": "9784253021548",
-    "title": "信長を殺した男　〜日輪のデマルカシオン〜　11",
-    "authors": [
-      "藤堂裕",
-      "明智憲三郎"
-    ],
-    "publisher": "秋田書店",
-    "publishedAt": "2026-12-18",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/18846183/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1548/9784253021548.gif?_ex=400x400",
     "coverSource": "rakuten"
   },
   {
@@ -12764,7 +12704,7 @@
   },
   {
     "isbn13": "9784065223963",
-    "title": "ちいかわ　なんか小さくてかわいいやつ（1）",
+    "title": "ちいかわ　なんか小さくてかわいいやつ",
     "authors": [
       "ナガノ"
     ],
@@ -13022,7 +12962,7 @@
   },
   {
     "isbn13": "9784063522594",
-    "title": "モテキ（1）",
+    "title": "モテキ",
     "authors": [
       "久保ミツロウ"
     ],
@@ -13411,18 +13351,6 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784088944494",
-    "title": "キングダム 81",
-    "authors": [
-      "原 泰久"
-    ],
-    "publisher": "集英社",
-    "publishedAt": "2026-11-18",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/18823070/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4494/9784088944494_1_19.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
     "isbn13": "9784796617857",
     "title": "クジラは食べていい！",
     "authors": [
@@ -13598,7 +13526,7 @@
   },
   {
     "isbn13": "9784061965331",
-    "title": "三国志（一）",
+    "title": "三国志",
     "authors": [
       "吉川 英治"
     ],
@@ -13809,7 +13737,7 @@
   },
   {
     "isbn13": "9784334751067",
-    "title": "カラマーゾフの兄弟（1）",
+    "title": "カラマーゾフの兄弟",
     "authors": [
       "フョードル・ミハイロヴィチ・ドストエフス",
       "亀山郁夫"
@@ -14478,7 +14406,7 @@
   },
   {
     "isbn13": "9784560018019",
-    "title": "希望の原理（第1巻）",
+    "title": "希望の原理",
     "authors": [
       "エルンスト・ブロッホ",
       "山下肇"
@@ -14584,7 +14512,7 @@
   },
   {
     "isbn13": "9784883091058",
-    "title": "小松左京コレクション　1",
+    "title": "小松左京コレクション",
     "authors": [
       "小松 左京"
     ],
@@ -14627,7 +14555,7 @@
   },
   {
     "isbn13": "9784063287356",
-    "title": "プラネテス（1）",
+    "title": "プラネテス",
     "authors": [
       "幸村誠"
     ],
@@ -15434,7 +15362,7 @@
   },
   {
     "isbn13": "9784122076709",
-    "title": "カラマーゾフの兄弟　1",
+    "title": "カラマーゾフの兄弟",
     "authors": [
       "ドストエフスキー",
       "江川卓"
@@ -15676,7 +15604,7 @@
   },
   {
     "isbn13": "9784003412510",
-    "title": "資本論（マルクス）　1",
+    "title": "資本論",
     "authors": [
       "マルクス，K．",
       "エンゲルス，F．（フリードリヒ）",
@@ -15702,7 +15630,7 @@
   },
   {
     "isbn13": "9784047157668",
-    "title": "まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」　（1）",
+    "title": "まおゆう魔王勇者　「この我のものとなれ、勇者よ」「断る！」",
     "authors": [
       "石田 あきら",
       "橙乃 ままれ",
@@ -16131,28 +16059,6 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784088736617",
-    "title": "HUNTER×HUNTER 21",
-    "authors": [
-      "冨樫 義博"
-    ],
-    "publisher": "集英社",
-    "publishedAt": "2005-02-04",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/1760116/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873661.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
-    "isbn13": "9784063174021",
-    "title": "悪女（わる）（1）",
-    "authors": [
-      "深見じゅん"
-    ],
-    "publisher": "講談社",
-    "publishedAt": "1989-10-14",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/382561/"
-  },
-  {
     "isbn13": "9784757536319",
     "title": "妖狐×僕SS",
     "authors": [
@@ -16162,18 +16068,6 @@
     "publishedAt": "2012-06",
     "rakutenUrl": "https://books.rakuten.co.jp/rb/11684739/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6319/9784757536319.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
-    "isbn13": "9784088731940",
-    "title": "ONE PIECE 21",
-    "authors": [
-      "尾田 栄一郎"
-    ],
-    "publisher": "集英社",
-    "publishedAt": "2001-12-04",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/1398109/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1940/9784088731940_1_3.jpg?_ex=400x400",
     "coverSource": "rakuten"
   },
   {
@@ -16327,7 +16221,7 @@
   },
   {
     "isbn13": "9784088802640",
-    "title": "僕のヒーローアカデミア 1",
+    "title": "僕のヒーローアカデミア",
     "authors": [
       "堀越 耕平"
     ],
@@ -16377,7 +16271,7 @@
   },
   {
     "isbn13": "9784091308375",
-    "title": "BLACK BIRD（1）",
+    "title": "BLACK BIRD",
     "authors": [
       "桜小路 かのこ"
     ],
@@ -16790,7 +16684,7 @@
   },
   {
     "isbn13": "9784091523112",
-    "title": "同じ月を見ている（1）",
+    "title": "同じ月を見ている",
     "authors": [
       "土田 世紀"
     ],
@@ -17924,18 +17818,6 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784098641963",
-    "title": "ひらやすみ（11）",
-    "authors": [
-      "真造 圭伍"
-    ],
-    "publisher": "小学館",
-    "publishedAt": "2026-12-28",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/18885114/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1963/9784098641963.gif?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
     "isbn13": "9784620326962",
     "title": "権力は腐敗する",
     "authors": [
@@ -17974,7 +17856,7 @@
   },
   {
     "isbn13": "9784835083285",
-    "title": "藤井忠俊著作集（第1巻）",
+    "title": "藤井忠俊著作集",
     "authors": [
       "藤井忠俊研究会"
     ],
@@ -18806,7 +18688,7 @@
   },
   {
     "isbn13": "9784642018166",
-    "title": "現代語訳小右記（1）",
+    "title": "現代語訳小右記",
     "authors": [
       "藤原実資",
       "倉本一宏"
@@ -19473,7 +19355,7 @@
   },
   {
     "isbn13": "9784575860917",
-    "title": "東天の獅子（1）",
+    "title": "東天の獅子",
     "authors": [
       "夢枕獏",
       "青野てる坊"
@@ -20543,7 +20425,7 @@
   },
   {
     "isbn13": "9784101104454",
-    "title": "二つの祖国（一）",
+    "title": "二つの祖国",
     "authors": [
       "山崎 豊子"
     ],
@@ -20943,7 +20825,7 @@
   },
   {
     "isbn13": "9784845867875",
-    "title": "半分姉弟（1巻）",
+    "title": "半分姉弟",
     "authors": [
       "藤見 よいこ"
     ],
@@ -21310,7 +21192,7 @@
   },
   {
     "isbn13": "9784152089847",
-    "title": "ミレニアム（1）",
+    "title": "ミレニアム",
     "authors": [
       "スティーグ・ラーソン",
       "ヘレンハルメ美穂"
@@ -21861,7 +21743,7 @@
   },
   {
     "isbn13": "9784102091067",
-    "title": "風と共に去りぬ 第1巻",
+    "title": "風と共に去りぬ",
     "authors": [
       "マーガレット・ミッチェル",
       "鴻巣 友季子"
@@ -21870,6 +21752,208 @@
     "publishedAt": "2015-03-28",
     "rakutenUrl": "https://books.rakuten.co.jp/rb/13158414/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1067/9784102091067.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088725710",
+    "title": "HUNTER×HUNTER",
+    "authors": [
+      "冨樫 義博"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1998-06-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/977831/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5710/9784088725710_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088725093",
+    "title": "ONE PIECE",
+    "authors": [
+      "尾田 栄一郎"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1997-12-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/941204/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5093/9784088725093_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088770796",
+    "title": "キングダム",
+    "authors": [
+      "原 泰久"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2006-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/4043306/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0796/9784088770796.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784098607785",
+    "title": "チ。-地球の運動についてー",
+    "authors": [
+      "魚豊"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2020-12-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16504685/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7785/9784098607785_1_11.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784267902352",
+    "title": "虹色のトロツキー",
+    "authors": [
+      "安彦良和"
+    ],
+    "publisher": "潮出版社",
+    "publishedAt": "1992-06-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/917753/"
+  },
+  {
+    "isbn13": "9784091804310",
+    "title": "寄席芸人伝",
+    "authors": [
+      "古谷三敏"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "1982-01-29",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/376957/"
+  },
+  {
+    "isbn13": "9784267901010",
+    "title": "三国志",
+    "authors": [
+      "横山光輝"
+    ],
+    "publisher": "潮出版社",
+    "publishedAt": "1974-04-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1529718/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2679/26790101.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088736211",
+    "title": "DEATH NOTE",
+    "authors": [
+      "小畑 健",
+      "大場 つぐみ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2004-04-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1659840/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873621.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088817804",
+    "title": "チェンソーマン",
+    "authors": [
+      "藤本 タツキ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2019-03-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15793617/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7804/9784088817804_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088528113",
+    "title": "こちら葛飾区亀有公園前派出所",
+    "authors": [
+      "秋本 治"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1977-07-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1081462/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0885/08852811.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784757729209",
+    "title": "真説　ザ・ワールド・イズ・マイン",
+    "authors": [
+      "新井 英樹"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2006-08-31",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/4119183/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7577/75772920.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784253141918",
+    "title": "信長を殺した男",
+    "authors": [
+      "藤堂裕",
+      "明智憲三郎"
+    ],
+    "publisher": "秋田書店",
+    "publishedAt": "2017-05-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14895151/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1918/9784253141918.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088815169",
+    "title": "呪術廻戦",
+    "authors": [
+      "芥見 下々"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2018-07-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15510301/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5169/9784088815169_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784063173079",
+    "title": "悪女（わる）",
+    "authors": [
+      "深見じゅん"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1989-07-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/518499/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0631/06317307.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784098611188",
+    "title": "ひらやすみ",
+    "authors": [
+      "真造 圭伍"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2021-09-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16827733/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1188/9784098611188_1_19.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784642068741",
+    "title": "人物で学ぶ日本古代史",
+    "authors": [
+      "新古代史の会"
+    ],
+    "publisher": "吉川弘文館",
+    "publishedAt": "2022-08-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17177010/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8741/9784642068741_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784091823311",
+    "title": "14歳",
+    "authors": [
+      "楳図かずお"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "1990-07-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/424453/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3311/9784091823311.jpg?_ex=400x400",
     "coverSource": "rakuten"
   }
 ]

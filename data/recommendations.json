@@ -2745,7 +2745,7 @@
   },
   {
     "personId": "p0110",
-    "isbn13": "9784091971319",
+    "isbn13": "9784091804310",
     "sourceId": "asahi-2026-01-27-tanihara",
     "verified": true
   },
@@ -6630,7 +6630,7 @@
   },
   {
     "personId": "p0267",
-    "isbn13": "9784267014413",
+    "isbn13": "9784267901010",
     "sourceId": "dv-2023-02-08-uesaka-sumire",
     "verified": true
   },
@@ -6726,7 +6726,7 @@
   },
   {
     "personId": "p0275",
-    "isbn13": "9784087030280",
+    "isbn13": "9784088716114",
     "sourceId": "dv-2023-04-01-kunisaki-kazuya",
     "verified": true
   },
@@ -6780,7 +6780,7 @@
   },
   {
     "personId": "p0280",
-    "isbn13": "9784086171014",
+    "isbn13": "9784088528113",
     "sourceId": "dv-2023-06-17-hanawa-nobuyuki",
     "verified": true
   },
@@ -6888,7 +6888,7 @@
   },
   {
     "personId": "p0288",
-    "isbn13": "9784253021548",
+    "isbn13": "9784253141918",
     "sourceId": "dv-2023-08-05-kanda-hakuzan",
     "verified": true
   },
@@ -7332,7 +7332,7 @@
   },
   {
     "personId": "p0333",
-    "isbn13": "9784088944494",
+    "isbn13": "9784088770796",
     "sourceId": "hhd-2025-12-22-dozle",
     "verified": true
   },
@@ -8803,13 +8803,13 @@
   },
   {
     "personId": "p0408",
-    "isbn13": "9784088736617",
+    "isbn13": "9784088725710",
     "sourceId": "dv-2026-08-25-deguchi-natsuki",
     "verified": true
   },
   {
     "personId": "p0409",
-    "isbn13": "9784063174021",
+    "isbn13": "9784063173079",
     "sourceId": "dv-2026-07-25-imada-mio",
     "verified": true
   },
@@ -8821,7 +8821,7 @@
   },
   {
     "personId": "p0412",
-    "isbn13": "9784088731940",
+    "isbn13": "9784088725093",
     "sourceId": "dv-2026-07-01-kamiyama-tomohiro",
     "verified": true
   },
@@ -8863,7 +8863,7 @@
   },
   {
     "personId": "p0420",
-    "isbn13": "9784088731940",
+    "isbn13": "9784088725093",
     "sourceId": "dv-2025-09-16-sakurai-kaito",
     "verified": true
   },
@@ -8887,7 +8887,7 @@
   },
   {
     "personId": "p0424",
-    "isbn13": "9784088944494",
+    "isbn13": "9784088770796",
     "sourceId": "dv-2025-07-20-iwata-takanori",
     "verified": true
   },
@@ -8959,7 +8959,7 @@
   },
   {
     "personId": "p0435",
-    "isbn13": "9784088736617",
+    "isbn13": "9784088725710",
     "sourceId": "dv-2025-02-14-onishi-fuga",
     "verified": true
   },
@@ -8971,7 +8971,7 @@
   },
   {
     "personId": "p0437",
-    "isbn13": "9784086171014",
+    "isbn13": "9784088528113",
     "sourceId": "dv-2025-01-15-uesugi-shuhei",
     "verified": true
   },
@@ -9763,7 +9763,7 @@
   },
   {
     "personId": "p0473",
-    "isbn13": "9784098641963",
+    "isbn13": "9784098611188",
     "sourceId": "asahi-2021-2",
     "verified": true
   },
@@ -11739,6 +11739,66 @@
     "personId": "p0506",
     "isbn13": "9784061962415",
     "sourceId": "asahi-2026s-2",
+    "verified": true
+  },
+  {
+    "personId": "p0103",
+    "isbn13": "9784267902352",
+    "sourceId": "nikkei-bookplus-2022-06-14-tanimoto",
+    "verified": true
+  },
+  {
+    "personId": "p0514",
+    "isbn13": "9784088736211",
+    "sourceId": "ddnavi-2023-06-23-kamiki-ryunosuke",
+    "verified": true
+  },
+  {
+    "personId": "p0260",
+    "isbn13": "9784088817804",
+    "sourceId": "dv-2025-12-06-matsuyama-ika",
+    "verified": true
+  },
+  {
+    "personId": "p0284",
+    "isbn13": "9784757729209",
+    "sourceId": "dv-2023-07-24-sato-jiro",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784088815169",
+    "sourceId": "dv-2026-09-23-hirose-alice",
+    "verified": true
+  },
+  {
+    "personId": "p0485",
+    "isbn13": "9784642068741",
+    "sourceId": "asahi-2022-2",
+    "verified": true
+  },
+  {
+    "personId": "p0486",
+    "isbn13": "9784091823311",
+    "sourceId": "asahi-2024s-1",
+    "verified": true
+  },
+  {
+    "personId": "p0106",
+    "isbn13": "9784088770796",
+    "sourceId": "nikkei-bookplus-2023-02-21-chikamoto",
+    "verified": true
+  },
+  {
+    "personId": "p0516",
+    "isbn13": "9784098607785",
+    "sourceId": "dv-2026-11-05-hagiwara-riku",
+    "verified": true
+  },
+  {
+    "personId": "p0517",
+    "isbn13": "9784098607785",
+    "sourceId": "dv-2026-01-27-takasugi-mahiro",
     "verified": true
   }
 ]
