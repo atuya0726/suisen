@@ -23,6 +23,7 @@
 同じ場所に NAME.pick.json（{"書名": "ISBN13" または null}）を置くと、版を手で指定できる（null は取り込まない）。
 """
 import datetime as dt
+import hashlib
 import json
 import os
 import re
@@ -269,10 +270,16 @@ def main():
         if url in by_url:
             src_map[sid] = by_url[url]
         else:
+            # 出典の ID は英小文字・数字・ハイフンだけ（検証の決まり）。YouTube の動画 ID のように大文字や記号を含むものは、
+            # 小文字にそろえたうえで、元の ID のハッシュを付けてぶつからないようにする
             new_id = sid
+            if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", sid):
+                base = re.sub(r"[^a-z0-9]+", "-", sid.lower()).strip("-") or "source"
+                new_id = f"{base}-{hashlib.sha1(sid.encode()).hexdigest()[:6]}"
             while new_id in source_ids:
                 new_id += "-b"
             src_map[sid] = new_id
+            source_ids.add(new_id)
 
     # ---- 推薦を足す
     keys = {(r["personId"], r["isbn13"], r["sourceId"]) for r in recs}
@@ -322,12 +329,13 @@ def main():
         used_people.add(pid)
 
     people += [p for p in new_people if p["id"] in used_people]
+    existing_source_ids = {s["id"] for s in sources}
     for sid in used_sources:
-        if src_map[sid] not in source_ids:
+        if src_map[sid] not in existing_source_ids:
             s = {k: v for k, v in src_in[sid].items() if v}
             s["id"] = src_map[sid]
             sources.append(s)
-            source_ids.add(s["id"])
+            existing_source_ids.add(s["id"])
     used_isbn = {r["isbn13"] for r in recs}
     books = [b for b in books if b["isbn13"] in used_isbn]
 
