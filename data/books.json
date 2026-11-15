@@ -17003,19 +17003,6 @@
     "coverSource": "rakuten"
   },
   {
-    "isbn13": "9784794600448",
-    "title": "風と共に去りぬ",
-    "authors": [
-      "マーガレット・ミッチェル",
-      "寺沢美紀"
-    ],
-    "publisher": "IBCパブリッシング",
-    "publishedAt": "2010-08",
-    "rakutenUrl": "https://books.rakuten.co.jp/rb/6639873/",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0448/9784794600448.jpg?_ex=400x400",
-    "coverSource": "rakuten"
-  },
-  {
     "isbn13": "9784124035049",
     "title": "グレート・ギャツビー",
     "authors": [
@@ -21870,6 +21857,19 @@
     "publishedAt": "1993-09-02",
     "rakutenUrl": "https://books.rakuten.co.jp/rb/612819/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2415/9784061962415.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784102091067",
+    "title": "風と共に去りぬ 第1巻",
+    "authors": [
+      "マーガレット・ミッチェル",
+      "鴻巣 友季子"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2015-03-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13158414/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1067/9784102091067.jpg?_ex=400x400",
     "coverSource": "rakuten"
   }
 ]
