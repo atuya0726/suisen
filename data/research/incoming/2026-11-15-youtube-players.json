@@ -1,0 +1,405 @@
+{
+ "people": [
+  {
+   "id": "pl-宇垣美里",
+   "name": "宇垣美里",
+   "title": "フリーアナウンサー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "pl-石田健",
+   "name": "石田健",
+   "title": "ニュース解説者",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "pl-みなみかわ",
+   "name": "みなみかわ",
+   "title": "お笑い芸人",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "pl-永野",
+   "name": "永野",
+   "title": "お笑い芸人",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "youtube-RfWgE2Cushk",
+   "type": "video",
+   "media": "夜明け前のPLAYERS（PLAYERS公式・YouTube）",
+   "title": "【本気で刺さる】魂を揺さぶる漫画と小説…オタク4人の偏愛ブックリスト 永野×宇垣×石田×みなみかわ【夜明け前のPLAYERS特別編 小説・漫画編】",
+   "url": "https://www.youtube.com/watch?v=RfWgE2Cushk",
+   "publishedAt": "2025-04-25"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "プロジェクト・ヘイル・メアリー",
+    "author": "アンディ・ウィアー",
+    "publisher": "早川書房",
+    "edition": "早川書房"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "熊の場所",
+    "author": "舞城 王太郎",
+    "publisher": "講談社",
+    "edition": "講談社"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "世界99",
+    "author": "村田 沙耶香",
+    "publisher": "集英社",
+    "edition": "集英社"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "この世界からは出ていくけれど",
+    "author": "キム・チョヨプ",
+    "publisher": "早川書房",
+    "edition": "早川書房"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "春にして君を離れ",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "早川書房"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "８２年生まれ、キム・ジヨン",
+    "author": "チョ・ナムジュ",
+    "publisher": "筑摩書房",
+    "edition": "筑摩書房"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "パチンコ",
+    "author": "ミン・ジン・リー",
+    "publisher": "文藝春秋",
+    "edition": "文藝春秋"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "三体",
+    "author": "劉 慈欣",
+    "publisher": "早川書房",
+    "edition": "早川書房"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ヒルビリー・エレジー",
+    "author": "J.D.ヴァンス",
+    "publisher": "光文社",
+    "edition": "光文社"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "約束",
+    "author": "デイモン・ガルガット",
+    "publisher": "早川書房",
+    "edition": "早川書房"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "爆弾",
+    "author": "呉 勝浩",
+    "publisher": "講談社",
+    "edition": "講談社"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "デス・ゾーン",
+    "author": "河野 啓",
+    "publisher": "集英社",
+    "edition": "集英社"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "漫才過剰考察",
+    "author": "令和ロマン・髙比良くるま",
+    "publisher": "辰巳出版",
+    "edition": "辰巳出版"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "粘膜兄弟",
+    "author": "飴村 行",
+    "publisher": "角川",
+    "edition": "角川"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ワイルド・ソウル",
+    "author": "垣根 涼介",
+    "publisher": "新潮社",
+    "edition": "新潮社"
+   }
+  },
+  {
+   "personId": "pl-永野",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "人間の屑",
+    "author": "町田 康",
+    "publisher": "新潮社",
+    "edition": "新潮社"
+   }
+  },
+  {
+   "personId": "pl-永野",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "きれぎれ",
+    "author": "町田 康",
+    "publisher": "文藝春秋",
+    "edition": "文藝春秋"
+   }
+  },
+  {
+   "personId": "pl-永野",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "けものがれ、俺らの猿と",
+    "author": "町田 康",
+    "publisher": "文藝春秋",
+    "edition": "文藝春秋"
+   }
+  },
+  {
+   "personId": "pl-永野",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "パルプ",
+    "author": "チャールズ・ブコウスキー",
+    "publisher": "筑摩書房",
+    "edition": "筑摩書房"
+   }
+  },
+  {
+   "personId": "pl-永野",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "マリ＆フィフィの虐殺ソングブック",
+    "author": "中原 昌也",
+    "publisher": "河出書房",
+    "edition": "河出書房"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "セシルの女王",
+    "author": "",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "悪役令嬢の中の人～断罪された転生者のため嘘つきヒロインに復讐いたします～",
+    "author": "",
+    "publisher": "一迅社",
+    "edition": "一迅社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ありす、宇宙までも",
+    "author": "",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ふつうの軽音部",
+    "author": "",
+    "publisher": "集英社",
+    "edition": "集英社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-宇垣美里",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "あくたの死に際",
+    "author": "",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ヴィンランド・サガ",
+    "author": "",
+    "publisher": "講談社",
+    "edition": "講談社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "日本三國",
+    "author": "",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "センゴク",
+    "author": "",
+    "publisher": "講談社",
+    "edition": "講談社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "満州アヘンスクワッド",
+    "author": "",
+    "publisher": "講談社",
+    "edition": "講談社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-石田健",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ＧＩＡＮＴ　ＫＩＬＬＩＮＧ",
+    "author": "",
+    "publisher": "講談社",
+    "edition": "講談社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ルーザーズ ～日本初の週刊青年漫画誌の誕生～",
+    "author": "",
+    "publisher": "双葉社",
+    "edition": "双葉社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "平和の国の島崎へ",
+    "author": "",
+    "publisher": "講談社",
+    "edition": "講談社 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "路傍のフジイ",
+    "author": "",
+    "publisher": "小学館",
+    "edition": "小学館 シリーズ"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "ファッション!!",
+    "author": "",
+    "publisher": "シュークリーム",
+    "edition": "シュークリーム シリーズ"
+   }
+  },
+  {
+   "personId": "pl-みなみかわ",
+   "sourceId": "youtube-RfWgE2Cushk",
+   "book": {
+    "title": "軍鶏",
+    "author": "",
+    "publisher": "講談社",
+    "edition": "講談社 シリーズ"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.youtube.com/channel/UCb9iWTA-E94gXx6VfHry8Aw",
+   "result": "index",
+   "reason": "PLAYERS公式（YouTube）。番組「夜明け前のPLAYERS」の概要欄に、出演者ごとの小説・マンガの紹介リストがある。332本（2026-11-15 まで）を確認し、該当の動画を取り込み"
+  }
+ ]
+}

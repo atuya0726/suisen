@@ -101,7 +101,9 @@ def main():
     for r in research.get("recommendations", []):
         b = r.get("book") or {}
         title = (b.get("title") or "").strip()
-        if not title or not (b.get("author") or isbn13(b.get("isbn"))):
+        # 著者が分からなくても、出版社が分かっているシリーズ（漫画など）は、書名と出版社で第1巻を探せる
+        series_with_publisher = b.get("publisher") and "シリーズ" in " ".join(x for x in (b.get("note"), b.get("edition")) if x)
+        if not title or not (b.get("author") or isbn13(b.get("isbn")) or series_with_publisher):
             dropped.append(title or "(書名なし)")
             continue
         b["title"] = title
