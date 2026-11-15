@@ -7911,5 +7911,17 @@
     "result": "adopted",
     "reason": "sources.json の s-yamashita",
     "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://chapters.jp/blogs/?p=2331",
+    "result": "adopted",
+    "reason": "sources.json の chapters-2331",
+    "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://chapters.jp/blogs/",
+    "result": "index",
+    "reason": "Chapters Blog（書店主・森本萌乃の選書記事）。「オススメ本紹介」カテゴリ。2026-10-01 の「一生に一度は読むべき本22選」を取り込み。ほかの記事は未確認",
+    "checkedAt": "2026-11-15"
   }
 ]

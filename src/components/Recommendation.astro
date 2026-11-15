@@ -31,7 +31,7 @@ const typeLabel = { article: "記事", interview: "インタビュー", podcast:
       show === "person" ? (
         <>
           <h3 class="h3">
-            <a href={personHref}>{person.name}</a>
+            {person.noPage ? person.name : <a href={personHref}>{person.name}</a>}
           </h3>
           <p class="small secondary">{person.title}</p>
         </>
@@ -45,7 +45,7 @@ const typeLabel = { article: "記事", interview: "インタビュー", podcast:
             {show === "both" && (
               <>
                 {" ／ 紹介した人: "}
-                <a href={personHref}>{person.name}</a>
+                {person.noPage ? person.name : <a href={personHref}>{person.name}</a>}
               </>
             )}
           </p>

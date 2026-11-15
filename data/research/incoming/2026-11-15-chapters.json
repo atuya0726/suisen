@@ -1,0 +1,252 @@
+{
+ "people": [
+  {
+   "id": "morimoto",
+   "name": "森本萌乃",
+   "title": "書店主・選書家（オンライン書店「チャプターズ」運営）",
+   "tags": [
+    "選書家"
+   ],
+   "noPage": true
+  }
+ ],
+ "sources": [
+  {
+   "id": "chapters-2331",
+   "type": "article",
+   "media": "Chapters Blog",
+   "title": "一生に一度は読むべき本22選｜おすすめの名作小説と、大学生・20代・30代・40代で読んでおきたい本を書店主が厳選",
+   "url": "https://chapters.jp/blogs/?p=2331",
+   "publishedAt": "2026-10-01"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "アルケミスト 夢を旅した少年",
+    "author": "パウロ・コエーリョ",
+    "publisher": "角川文庫",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "夜と霧 新版",
+    "author": "ヴィクトール・E・フランクル",
+    "publisher": "みすず書房",
+    "edition": "みすず書房"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "異邦人",
+    "author": "カミュ",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "存在の耐えられない軽さ",
+    "author": "ミラン・クンデラ",
+    "publisher": "集英社文庫",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "命売ります",
+    "author": "三島由紀夫",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "博士の愛した数式",
+    "author": "小川洋子",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "旅をする木",
+    "author": "星野道夫",
+    "publisher": "文春文庫",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上春樹",
+    "publisher": "講談社文庫",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "新編 銀河鉄道の夜",
+    "author": "宮沢賢治",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "春琴抄",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "砂漠",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "スロウハイツの神様 上",
+    "author": "辻村深月",
+    "publisher": "講談社文庫",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "しろいろの街の、その骨の体温の",
+    "author": "村田沙耶香",
+    "publisher": "朝日文庫",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "その手をにぎりたい",
+    "author": "柚木麻子",
+    "publisher": "小学館文庫",
+    "edition": "小学館文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "太陽のパスタ、豆のスープ",
+    "author": "宮下奈都",
+    "publisher": "集英社文庫",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "傲慢と善良",
+    "author": "辻村深月",
+    "publisher": "朝日文庫",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "この世にたやすい仕事はない",
+    "author": "津村記久子",
+    "publisher": "新潮文庫",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "傷を愛せるか 増補新版",
+    "author": "宮地尚子",
+    "publisher": "ちくま文庫",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "本日は、お日柄もよく",
+    "author": "原田マハ",
+    "publisher": "徳間文庫",
+    "edition": "徳間文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "花桃実桃",
+    "author": "中島京子",
+    "publisher": "中公文庫",
+    "edition": "中公文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "永い言い訳",
+    "author": "西川美和",
+    "publisher": "文春文庫",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "morimoto",
+   "sourceId": "chapters-2331",
+   "book": {
+    "title": "ようこそ、ヒュナム洞書店へ",
+    "author": "ファン・ボルム",
+    "publisher": "集英社",
+    "edition": "集英社"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://chapters.jp/blogs/",
+   "result": "index",
+   "reason": "Chapters Blog（書店主・森本萌乃の選書記事）。「オススメ本紹介」カテゴリ。2026-10-01 の「一生に一度は読むべき本22選」を取り込み。ほかの記事は未確認"
+  }
+ ]
+}

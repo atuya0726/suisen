@@ -6,7 +6,7 @@
 
 入力の形（調査役が書く。ISBN と推薦理由は不要）:
   {
-    "people":  [{ "id": "仮の名前", "name": "表示名", "kana": "よみ（任意）", "title": "肩書き", "tags": ["作家"], "affiliation": "所属（任意）" }],
+    "people":  [{ "id": "仮の名前", "name": "表示名", "kana": "よみ（任意）", "title": "肩書き", "tags": ["作家"], "affiliation": "所属（任意）", "noPage": "個別ページを作らない推薦者は true（任意）" }],
     "sources": [{ "id": "仮の名前", "type": "article|interview|podcast|video|book|sns", "media": "媒体名", "title": "記事タイトル", "url": "https://…", "publishedAt": "YYYY-MM-DD（任意）" }],
     "recommendations": [{ "personId": "", "sourceId": "", "book": { "title": "本題", "author": "著者", "publisher": "出版社", "isbn": "ページにあれば", "edition": "版・刊行年・叢書名。漫画などシリーズで巻の指定がなければ「シリーズ」" }, "context": "任意", "note": "任意（40字以内の事実の補足）" }],
     "checkedUrls": [{ "url": "", "result": "rejected|unreachable|candidate|index", "reason": "", "person": "" }]
@@ -233,12 +233,12 @@ def main():
             continue
         np = {"id": f"p{next_no:04d}", "name": name}
         next_no += 1
-        for k in ("kana", "title", "tags", "affiliation", "kind", "sameAs"):
+        for k in ("kana", "title", "tags", "affiliation", "noPage", "kind", "sameAs"):
             if p.get(k) not in (None, "", []):
                 np[k] = p[k]
         np.setdefault("title", "")
         np.setdefault("tags", [])
-        np = {k: np[k] for k in ("id", "name", "kana", "title", "tags", "affiliation", "kind", "sameAs") if k in np}
+        np = {k: np[k] for k in ("id", "name", "kana", "title", "tags", "affiliation", "noPage", "kind", "sameAs") if k in np}
         idmap[p["id"]] = np["id"]
         by_name[name] = np
         new_people.append(np)

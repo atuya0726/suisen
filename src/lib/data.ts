@@ -60,9 +60,9 @@ function groupBy<T>(items: T[], key: (t: T) => string): Map<string, T[]> {
 const recsByPersonId = groupBy(recs, (r) => r.personId);
 const recsByIsbn = groupBy(recs, (r) => r.isbn13);
 
-/** 推薦が1件以上ある人物（よみ順） */
+/** 推薦が1件以上あり、個別ページを作る人物（よみ順）。noPage の推薦者は含めない */
 export const people: Person[] = data.people
-  .filter((p) => recsByPersonId.has(p.id))
+  .filter((p) => recsByPersonId.has(p.id) && !p.noPage)
   .sort((a, b) => (a.kana ?? a.name).localeCompare(b.kana ?? b.name, "ja") || a.id.localeCompare(b.id));
 
 /** 推薦が1件以上ある本 */
@@ -148,7 +148,7 @@ export function similarPeople(id: string): { person: Person; shared: number }[] 
   const tally = new Map<string, number>();
   for (const isbn of isbnsByPersonId.get(id) ?? []) {
     for (const other of personIdsByIsbn.get(isbn) ?? []) {
-      if (other !== id) tally.set(other, (tally.get(other) ?? 0) + 1);
+      if (other !== id && !personById.get(other)?.noPage) tally.set(other, (tally.get(other) ?? 0) + 1);
     }
   }
   return [...tally]

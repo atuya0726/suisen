@@ -14,6 +14,7 @@ export const TAG_SLUGS = {
   エンジニア: "engineer",
   大学: "university",
   書店: "bookstore",
+  選書家: "book-curator",
 } as const satisfies Record<string, string>;
 
 export type Tag = keyof typeof TAG_SLUGS;
@@ -46,6 +47,11 @@ export const personSchema = z.strictObject({
   tags: z.array(z.enum(TAGS)),
   /** 所属する大学・会社などの名前（例 "立命館大学"）。学部や役職は含めない。所属ごとの集計に使う */
   affiliation: z.string().min(1).optional(),
+  /**
+   * true なら個別ページ（/people/pNNNN/）を作らず、人物一覧にも載せない。推薦者数には数え、本ページには名前と出典を出す。
+   * 選書記事を書いた書店主・選書家など、その人のページが「元の選書リストの再現」になってしまう推薦者に使う
+   */
+  noPage: z.boolean().optional(),
   /** 大学・書店の賞など、個人ではない推薦者は "organization"。省略時は個人 */
   kind: z.enum(["person", "organization"]).optional(),
   /** 本人を特定できる外部ページ（Wikipedia・公式サイトなど）。JSON-LD の sameAs に出す */
