@@ -23,7 +23,7 @@ UI を作るときは必ずリポジトリ直下の `DESIGN.md` に従うこと�
 | フレームワーク | Astro 6（`output: "static"`、全ページをビルド時に生成） |
 | 言語 | TypeScript（strict） |
 | スタイル | 素の CSS（CSS custom properties）。Tailwind・UIライブラリは入れない |
-| クライアントJS | 原則ゼロ。例外は検索ページの Pagefind のみ |
+| クライアントJS | 原則ゼロ。例外は検索ページの Pagefind のみ（ソースコードに書くものの話。Cloudflare Web Analytics の計測スクリプトは、Cloudflare が配信時に自動で差し込む） |
 | 検索 | Pagefind（ビルド後にインデックス生成） |
 | サイトマップ | `@astrojs/sitemap` |
 | ホスティング | Cloudflare Workers の Static Assets（`wrangler.jsonc` の `assets.directory = "./dist"`）。SSRアダプターは使わない |

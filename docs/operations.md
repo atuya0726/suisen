@@ -7,6 +7,7 @@
 - 2026-11-15 に https://suisen.page/ を公開。Cloudflare Workers の静的配信。デプロイは `pnpm build` のあと `pnpm deploy`。
 - 公開時点のデータ: 推薦者 499、本 1,852冊、推薦 1,943件。
 - 検索エンジンに載せているのは、人物ページ、2人以上が薦めた本のページ、ランキング、トップ、運営方針。推薦者が1人の本ページは noindex（`src/lib/indexing.json`）。
+- アクセス解析（Cloudflare Web Analytics）は有効。計測用のスクリプトは Cloudflare が配信時に差し込む（ソースコードには入れていない）。2026-11-15 に最初の PV を確認。
 - 数字の取り方: Search Console は `python3 ~/.claude/skills/search-console/gsc.py --key gsc-sqlrenshu query sc-domain:suisen.page`。アクセス解析は `python3 ~/.claude/skills/cloudflare-web-analytics/cfwa.py --key cf-analytics-sqlrenshu --host suisen.page`（`.env` の `CF_ACCOUNT_ID` を使う）。
 - 本の特定は `pnpm fetch-books`（楽天ブックス API。キーは macOS キーチェーンからスクリプトが読む）。取り込みは `python3 scripts/import-research.py`。
 
@@ -77,5 +78,4 @@
 ## ユーザーに依頼中
 
 - [ ] Search Console で sitemap（`https://suisen.page/sitemap-index.xml`）を送信する。
-- [ ] Cloudflare Web Analytics を suisen.page で有効にする（ダッシュボードの Analytics & Logs → Web Analytics）。有効にすると計測用の JavaScript が入る。CLAUDE.md の「クライアント JS は検索ページ以外ゼロ」の例外にするかも決める。未設定の間、PV は 0 のまま。
 - [ ] Amazon アソシエイトと楽天アフィリエイトに、サイト（suisen.page）を登録する。
