@@ -335,8 +335,16 @@ async function runSearch(inputPath: string): Promise<void> {
     let result: SearchResult | null = null;
     try {
       // 著者は API に渡さず手元で照合する（「姓 名」の空白や共著者の表記ゆれで取りこぼさないため）
-      const search = async (title: string) =>
-        (await rakutenSearch({ title, hits: "30", sort: q.sort ?? "sales", outOfStockFlag: "1" }))
+      const search = async (title: string, author?: string) =>
+        (
+          await rakutenSearch({
+            title,
+            ...(author ? { author } : {}),
+            hits: "30",
+            sort: q.sort ?? "sales",
+            outOfStockFlag: "1",
+          })
+        )
           .map(toCandidate)
           .filter((c) => c !== null);
       result = choose(q, await search(q.title), "rakuten");
@@ -350,6 +358,23 @@ async function runSearch(inputPath: string): Promise<void> {
         await sleep(INTERVAL_MS);
         result = choose({ ...q, title: main }, await search(main), "rakuten", true);
         if (result) result.query = q;
+      }
+      // 「自由論」「DNA」のような短い書名は、同名の本が多くて上位30件に入らないことがある。
+      // 著者名（いちばん長い部分。多くは姓）も検索条件に入れて、もう一度探す
+      const authorKey = (q.author ?? "")
+        .split(/[・\s　,、／/]/)
+        .map((a) => a.trim())
+        .filter((a) => a.length >= 2)
+        .sort((a, b) => b.length - a.length)[0];
+      if (!result && authorKey) {
+        await sleep(INTERVAL_MS);
+        const wanted = main || q.title;
+        result = choose({ ...q, title: wanted }, await search(wanted, authorKey), "rakuten");
+        if (result) {
+          result.query = q;
+          // 書名が完全には一致しない本（「DNA」で探して「DNAの…」が出た等）は別の本のことがあるので、確定にしない
+          if (result.book && stripEdition(result.book.title) !== stripEdition(wanted)) result.status = "ambiguous";
+        }
       }
       if (!result) {
         // NDL は続けて叩くと拒否（429）されるので、間隔を空ける

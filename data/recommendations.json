@@ -12253,5 +12253,11 @@
     "isbn13": "9784621070734",
     "sourceId": "ritsumei-lib-azuma",
     "verified": true
+  },
+  {
+    "personId": "p0540",
+    "isbn13": "9784480098252",
+    "sourceId": "ritsumei-lib-kashiwagi",
+    "verified": true
   }
 ]

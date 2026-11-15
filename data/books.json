@@ -22787,5 +22787,18 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/1477927/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6210/62107073.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784480098252",
+    "title": "コミュニティ",
+    "authors": [
+      "ジグムント・バウマン",
+      "奥井 智之"
+    ],
+    "publisher": "筑摩書房",
+    "publishedAt": "2017-12-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15214207/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8252/9784480098252_1_102.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]
