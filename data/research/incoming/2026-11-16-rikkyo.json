@@ -1,0 +1,1063 @@
+{
+  "people": [
+    {
+      "id": "hasegawa",
+      "name": "長谷川修一",
+      "title": "立教大学 経済学部 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "noda",
+      "name": "野田健太郎",
+      "title": "立教大学 観光学部 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "nakamura",
+      "name": "中村百合子",
+      "title": "立教大学 学校・社会教育講座 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "kawahigashi",
+      "name": "河東仁",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "kimura",
+      "name": "木村自",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "shinno",
+      "name": "新野守広",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "kitajima",
+      "name": "北島健一",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "shoda",
+      "name": "正田備也",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "seki",
+      "name": "関未玲",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    },
+    {
+      "id": "kuzuno",
+      "name": "葛野浩昭",
+      "title": "立教大学 教員",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立教大学"
+    }
+  ],
+  "sources": [
+    {
+      "id": "rikkyo-lib-hasegawa",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 歴史に親しむ10冊",
+      "url": "https://library.rikkyo.ac.jp/learning/books/058/",
+      "publishedAt": "2018-07-10"
+    },
+    {
+      "id": "rikkyo-lib-noda",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 観光経営について考える",
+      "url": "https://library.rikkyo.ac.jp/learning/books/059/",
+      "publishedAt": "2018-12-07"
+    },
+    {
+      "id": "rikkyo-lib-nakamura",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 図書館について考える入り口の10冊",
+      "url": "https://library.rikkyo.ac.jp/learning/books/060/",
+      "publishedAt": "2019-04-01"
+    },
+    {
+      "id": "rikkyo-lib-kawahigashi",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 震災からの復興に 文化やアートが果たす役割",
+      "url": "https://library.rikkyo.ac.jp/learning/books/061/",
+      "publishedAt": "2019-07-12"
+    },
+    {
+      "id": "rikkyo-lib-kimura",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 人類学的民族誌（エスノグラフィー）を読み、新たな世界を創造する",
+      "url": "https://library.rikkyo.ac.jp/learning/books/062/",
+      "publishedAt": "2019-12-06"
+    },
+    {
+      "id": "rikkyo-lib-shinno",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 世界につながる演劇のための10冊",
+      "url": "https://library.rikkyo.ac.jp/learning/books/063/",
+      "publishedAt": "2020-04-01"
+    },
+    {
+      "id": "rikkyo-lib-kitajima",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 経済とコミュニティ",
+      "url": "https://library.rikkyo.ac.jp/learning/books/064/",
+      "publishedAt": "2020-12-11"
+    },
+    {
+      "id": "rikkyo-lib-shoda",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 機械に言葉を学習させようとする私達",
+      "url": "https://library.rikkyo.ac.jp/learning/books/065/",
+      "publishedAt": "2021-04-01"
+    },
+    {
+      "id": "rikkyo-lib-seki",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ まだまだあります、フランスの魅力・フランス語の魅力！",
+      "url": "https://library.rikkyo.ac.jp/learning/books/066/",
+      "publishedAt": "2021-09-20"
+    },
+    {
+      "id": "rikkyo-lib-kuzuno",
+      "type": "article",
+      "media": "立教大学図書館",
+      "title": "読書ナビ＜おすすめの10冊＞ 図書館で＜世界幸福度ランキング第1位の国＞を見てみよう、読んでみよう",
+      "url": "https://library.rikkyo.ac.jp/learning/books/067/",
+      "publishedAt": "2021-12-10"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "騎馬民族国家",
+        "author": "江上波夫",
+        "publisher": "中央公論社",
+        "edition": "1967"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "古墳の語る古代史",
+        "author": "白石太一郎",
+        "publisher": "岩波書店",
+        "edition": "2000"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "記紀の考古学",
+        "author": "森浩一",
+        "publisher": "朝日新聞社",
+        "edition": "2000"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "武士の家計簿",
+        "author": "磯田道史",
+        "subtitle": "「加賀藩御算用者」の幕末維新",
+        "publisher": "新潮社",
+        "edition": "2003"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "オデュッセウスの世界",
+        "author": "M.I.フィンリー",
+        "publisher": "岩波書店",
+        "edition": "1994"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "長安の都市計画",
+        "author": "妹尾達彦",
+        "publisher": "講談社",
+        "edition": "2001"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "稲作の起源を探る",
+        "author": "藤原宏志",
+        "publisher": "岩波書店",
+        "edition": "1998"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "砂糖の世界史",
+        "author": "川北稔",
+        "publisher": "岩波書店",
+        "edition": "1996"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "パスタでたどるイタリア史",
+        "author": "池上俊一",
+        "publisher": "岩波書店",
+        "edition": "2011"
+      }
+    },
+    {
+      "personId": "hasegawa",
+      "sourceId": "rikkyo-lib-hasegawa",
+      "book": {
+        "title": "ワインの世界史",
+        "author": "古賀守",
+        "publisher": "中央公論社",
+        "edition": "1975"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "証券アナリストのための企業分析",
+        "author": "北川哲雄・加藤直樹・貝増眞",
+        "publisher": "東洋経済新報",
+        "edition": "2013"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "経営戦略とコーポレートファイナンス",
+        "author": "砂川伸幸・川北英隆・杉浦秀徳・佐藤淑子",
+        "publisher": "日本経済新聞出版",
+        "edition": "2013"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "図解ビジネスファイナンス",
+        "author": "本合暁詩",
+        "publisher": "中央経済",
+        "edition": "2009"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "CSV経営戦略",
+        "author": "名和高司",
+        "publisher": "東洋経済新報",
+        "edition": "2015"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "インフォメーション・エコノミー",
+        "author": "篠﨑彰彦",
+        "publisher": "NTT出版",
+        "edition": "2014"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "レジリエント・カンパニー",
+        "author": "ピーター・D・ピーダーセン",
+        "publisher": "東洋経済新報社",
+        "edition": "2015"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "観光経済学の基礎講義",
+        "author": "中平千彦・薮田雅弘",
+        "publisher": "九州大学出版会",
+        "edition": "2017"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "観光DMO設計・運営のポイント",
+        "author": "日本政策投資銀行地域企画部",
+        "publisher": "ダイヤモンド社",
+        "edition": "2017"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "戦略的ホテル経営",
+        "author": "金振晩",
+        "publisher": "学文社",
+        "edition": "2013"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rikkyo-lib-noda",
+      "book": {
+        "title": "観光危機管理ハンドブック",
+        "author": "髙松正人",
+        "publisher": "朝倉書店",
+        "edition": "2018"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "薔薇の名前",
+        "author": "ウンベルト・エーコ",
+        "publisher": "東京創元社",
+        "edition": "1990"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "一九八四年",
+        "author": "ジョージ・オーウェル",
+        "publisher": "早川書房",
+        "edition": "2009"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "本が死ぬところ暴力が生まれる",
+        "author": "バリー・サンダース",
+        "publisher": "新曜社",
+        "edition": "1998"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "一四一七年、その一冊がすべてを変えた",
+        "author": "スティーヴン・グリーンブラット",
+        "publisher": "柏書房",
+        "edition": "2012"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "戦地の図書館",
+        "author": "モリー・グプティル・マニング",
+        "publisher": "東京創元社",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "刑務所図書館の人びと",
+        "author": "アヴィ・スタインバーグ",
+        "publisher": "柏書房",
+        "edition": "2011"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "未来をつくる図書館",
+        "author": "菅谷明子",
+        "publisher": "岩波書店",
+        "edition": "2003"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "rikkyo-lib-nakamura",
+      "book": {
+        "title": "世界の不思議な図書館",
+        "author": "アレックス・ジョンソン",
+        "publisher": "創元社",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "アートプロジェクト",
+        "author": "菊地拓児・長津結一郎",
+        "publisher": "水曜社",
+        "edition": "2014"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "地域を変えるソフトパワー",
+        "author": "藤浩志・AAFネットワーク",
+        "publisher": "青幻舎",
+        "edition": "2012"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "芸術文化の投資効果",
+        "author": "加藤種男",
+        "publisher": "水曜社",
+        "edition": "2018"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "震災と芸能",
+        "author": "橋本裕之",
+        "publisher": "追手門学院大学出版会",
+        "edition": "2015"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "文化からの復興",
+        "author": "ニッセイ基礎研究所・いわき芸術文化交流館アリオス",
+        "publisher": "水曜社",
+        "edition": "2012"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "震災後の地域文化と被災者の民俗誌",
+        "author": "高倉浩樹・山口睦",
+        "publisher": "新泉社",
+        "edition": "2018"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "震災と地域再生",
+        "author": "西城戸誠・宮内泰介・黒田暁",
+        "publisher": "法政大学出版局",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "無形民俗文化財が被災するということ",
+        "author": "高倉浩樹・滝澤克彦",
+        "publisher": "新泉社",
+        "edition": "2014"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "呼び覚まされる霊性の震災学",
+        "author": "東北学院大学震災の記録プロジェクト金菱清（ゼミナール）",
+        "publisher": "新曜社",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "kawahigashi",
+      "sourceId": "rikkyo-lib-kawahigashi",
+      "book": {
+        "title": "関係人口をつくる",
+        "author": "田中輝美",
+        "publisher": "木楽舎",
+        "edition": "2017"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "西太平洋の遠洋航海者",
+        "author": "ブロニスワフ・マリノフスキ",
+        "publisher": "講談社",
+        "edition": "2010"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "ヌアー族",
+        "author": "E. E. エヴァンズ＝プリチャード",
+        "publisher": "平凡社",
+        "edition": "1997"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "貧困の文化",
+        "author": "オスカー・ルイス",
+        "publisher": "筑摩書房",
+        "edition": "2003"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "民族紛争を生きる人びと",
+        "author": "栗本英世",
+        "publisher": "世界思想社",
+        "edition": "1996"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "山谷ブルース",
+        "author": "エドワード・ファウラー",
+        "publisher": "洋泉社",
+        "edition": "1998"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "クレイジー・イン・ジャパン",
+        "author": "中村かれん",
+        "publisher": "医学書院",
+        "edition": "2014"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "多としての身体",
+        "author": "アネマリー・モル",
+        "publisher": "水声社",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "現代フランスを生きるジプシー",
+        "author": "左地亮子",
+        "publisher": "世界思想社",
+        "edition": "2017"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "分解者たち",
+        "author": "猪瀬浩平",
+        "publisher": "生活書院",
+        "edition": "2019"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "rikkyo-lib-kimura",
+      "book": {
+        "title": "マツタケ",
+        "author": "アナ・チン",
+        "publisher": "みすず書房",
+        "edition": "2019"
+      }
+    },
+    {
+      "personId": "shinno",
+      "sourceId": "rikkyo-lib-shinno",
+      "book": {
+        "title": "ポストドラマ演劇",
+        "author": "ハンス＝ティース・レーマン",
+        "publisher": "同学社",
+        "edition": "2002"
+      }
+    },
+    {
+      "personId": "shinno",
+      "sourceId": "rikkyo-lib-shinno",
+      "book": {
+        "title": "紛争地域から生まれた演劇",
+        "author": "国際演劇協会日本センター",
+        "publisher": "ひつじ書房",
+        "edition": "2019"
+      }
+    },
+    {
+      "personId": "shinno",
+      "sourceId": "rikkyo-lib-shinno",
+      "book": {
+        "title": "「轟音の残響」から",
+        "author": "国際演劇評論家協会(AICT)日本センター",
+        "subtitle": "震災・原発と演劇",
+        "publisher": "晩成書房",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "shinno",
+      "sourceId": "rikkyo-lib-shinno",
+      "book": {
+        "title": "韓国現代戯曲集",
+        "author": "日韓演劇交流センター",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shinno",
+      "sourceId": "rikkyo-lib-shinno",
+      "book": {
+        "title": "コレクション 現代フランス語圏演劇",
+        "author": "日仏演劇協会",
+        "publisher": "れんが書房新社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "「新約」大転換",
+        "author": "カール・ポランニー",
+        "subtitle": "市場社会の形成と崩壊",
+        "publisher": "東洋経済新報社",
+        "edition": "2009"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "経済の文明史",
+        "author": "カール・ポランニー",
+        "publisher": "筑摩書房",
+        "edition": "ちくま学芸文庫 2003"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "共生の大地",
+        "author": "内橋克人",
+        "subtitle": "新しい経済がはじまる",
+        "publisher": "岩波書店",
+        "edition": "岩波新書 1995"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "農山村は消滅しない",
+        "author": "小田切徳美",
+        "publisher": "岩波書店",
+        "edition": "岩波新書 2014"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "地域に希望あり",
+        "author": "大江正章",
+        "subtitle": "まち・人・仕事を創る",
+        "publisher": "岩波書店",
+        "edition": "岩波新書 2015"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "承認をめぐる闘争",
+        "author": "アクセル・ホネット",
+        "subtitle": "社会的コンフリクトの道徳的文法",
+        "publisher": "法政大学出版局",
+        "edition": "2014"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "社会構成主義の理論と実践",
+        "author": "K・J・ガーゲン",
+        "subtitle": "関係性が現実をつくる",
+        "publisher": "ナカニシヤ出版",
+        "edition": "2004"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "コミュニケイション的行為の理論 上",
+        "author": "ユルゲン・ハーバーマス",
+        "publisher": "未來社",
+        "edition": "1985-1987"
+      }
+    },
+    {
+      "personId": "kitajima",
+      "sourceId": "rikkyo-lib-kitajima",
+      "book": {
+        "title": "ルイ・ボナパルトのブリュメール18日",
+        "author": "カール・マルクス",
+        "publisher": "講談社",
+        "edition": "2020"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "言語と行為",
+        "author": "ジョン・L・オースティン",
+        "publisher": "講談社",
+        "edition": "講談社学術文庫 2019"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "自然言語処理の基本と技術",
+        "author": "グラム・ニュービッグ他",
+        "publisher": "翔泳社",
+        "edition": "2016"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "トピックモデルによる統計的潜在意味解析",
+        "author": "佐藤一誠",
+        "publisher": "コロナ社",
+        "edition": "2015"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "ベイズ深層学習",
+        "author": "須山敦志",
+        "publisher": "講談社",
+        "edition": "機械学習プロフェッショナルシリーズ 2019"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "経済成長がすべてか?",
+        "author": "マーサ・C・ヌスバウム",
+        "publisher": "岩波書店",
+        "edition": "2013"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "ブルシット・ジョブ",
+        "author": "デヴィッド・グレーバー",
+        "publisher": "岩波書店",
+        "edition": "2020"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "フェミニズム",
+        "author": "竹村和子",
+        "publisher": "岩波書店",
+        "edition": "思考のフロンティア 2000"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "ジル・ドゥルーズの「アベセデール」",
+        "author": "國分功一郎監修",
+        "publisher": "角川学芸出版",
+        "edition": "2015"
+      }
+    },
+    {
+      "personId": "shoda",
+      "sourceId": "rikkyo-lib-shoda",
+      "book": {
+        "title": "生きる",
+        "author": "岡野八代",
+        "publisher": "風行社",
+        "edition": "政治の発見 第1巻 2010"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "フランス語を知る、ことばを考える",
+        "author": "石野好一",
+        "publisher": "朝日出版社",
+        "edition": "2007"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "消費社会の神話と構造",
+        "author": "ジャン・ボードリヤール",
+        "publisher": "紀伊國屋書店",
+        "edition": "1995"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "パリ 地下都市の歴史",
+        "author": "ギュンター・リアー・オリヴィエ・ファイ",
+        "publisher": "東洋書林",
+        "edition": "2009"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "帳簿の世界史",
+        "author": "ジェイコブ・ソール",
+        "publisher": "文藝春秋",
+        "edition": "2015"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "美食の歴史",
+        "author": "アントニー・ローリー",
+        "publisher": "創元社",
+        "edition": "1996"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "めす豚ものがたり",
+        "author": "マリー・ダリュセック",
+        "publisher": "河出書房新社",
+        "edition": "1997"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "警察調書",
+        "author": "マリー・ダリュセック",
+        "subtitle": "剽窃と世界文学",
+        "publisher": "藤原書店",
+        "edition": "2013"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "小川",
+        "author": "キム・チュイ",
+        "publisher": "彩流社",
+        "edition": "2012"
+      }
+    },
+    {
+      "personId": "seki",
+      "sourceId": "rikkyo-lib-seki",
+      "book": {
+        "title": "恋愛のディスクール・断章",
+        "author": "ロラン・バルト",
+        "publisher": "みすず書房",
+        "edition": "新装版 2020"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "かもめ食堂",
+        "author": "群ようこ",
+        "publisher": "幻冬舎",
+        "edition": "2006"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "受けてみたフィンランドの教育",
+        "author": "実川真由・実川元子",
+        "publisher": "文藝春秋",
+        "edition": "2007"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "青い光が見えたから 16歳のフィンランド留学記",
+        "author": "高橋絵里香",
+        "publisher": "講談社",
+        "edition": "2007"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "学力世界一を支えるフィンランドの図書館",
+        "author": "西川馨",
+        "publisher": "教育史料出版会",
+        "edition": "2008"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "フィンランド公共図書館 躍進の秘密",
+        "author": "吉田右子・小泉公乃・坂田ヘントネン亜希",
+        "publisher": "新評論",
+        "edition": "2019"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "フィンランド人はなぜ午後4時に仕事が終わるのか",
+        "author": "堀内都喜子",
+        "edition": "ポプラ新書 2020"
+      }
+    },
+    {
+      "personId": "kuzuno",
+      "sourceId": "rikkyo-lib-kuzuno",
+      "book": {
+        "title": "トーヴェ・ヤンソンとガルムの世界",
+        "author": "冨原眞弓",
+        "subtitle": "ムーミントロールの誕生",
+        "publisher": "青土社",
+        "edition": "2009"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://library.rikkyo.ac.jp/learning/books/",
+      "result": "index",
+      "reason": "読書ナビ。058〜067の10回を今回使用。残りは002〜057。061〜067は教員の学部の記載がないため肩書きは「立教大学 教員」。063ハヤカワ演劇文庫・ドイツ現代戯曲選は著者・編者の記載がなく除外",
+      "person": ""
+    }
+  ]
+}

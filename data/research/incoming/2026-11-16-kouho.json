@@ -1,0 +1,133 @@
+{
+  "people": [
+    {
+      "id": "kamishiraishi-mone",
+      "name": "上白石萌音",
+      "title": "俳優・歌手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "takagi-shohei",
+      "name": "高城晶平",
+      "title": "ミュージシャン",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "rs-kamishiraishi-2025-09",
+      "type": "article",
+      "media": "Real Sound ブック",
+      "title": "上白石萌音　“本のある暮らし”を語る　読書家としての横顔とおすすめの一冊とは？",
+      "url": "https://realsound.jp/book/2025/09/post-2173706.html",
+      "publishedAt": "2025-09-12"
+    },
+    {
+      "id": "asahi-2026-07-12-takagi-2",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "cero高城晶平さん、読書は「考えるためのブロック集め」いつか何かとつながる瞬間が面白い",
+      "url": "https://book.asahi.com/article/16704796",
+      "publishedAt": "2026-07-12"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "kamishiraishi-mone",
+      "sourceId": "rs-kamishiraishi-2025-09",
+      "book": {
+        "title": "ギリシャ語の時間",
+        "author": "ハン・ガン",
+        "publisher": "晶文社"
+      },
+      "context": "最近読んだ",
+      "note": "NHK「あさイチ」での紹介を報じた記事"
+    },
+    {
+      "personId": "takagi-shohei",
+      "sourceId": "asahi-2026-07-12-takagi-2",
+      "book": {
+        "title": "かみあわないノーマ",
+        "author": "アン・カーソン"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://brutus.jp/en/post-489417/",
+      "result": "rejected",
+      "reason": "日本語版 https://brutus.jp/post-489417/ が取り込み済み（bru-489417）",
+      "person": "山内マリコ"
+    },
+    {
+      "url": "https://croissant-online.jp/life/238185/",
+      "result": "rejected",
+      "reason": "号の案内ページで、石田ひかり・中江有里の記事への導線なし。本の書名も載っていない",
+      "person": "石田ひかり・中江有里"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/77315/",
+      "result": "rejected",
+      "reason": "BLドラマCD特集のインタビュー。挙がる本は本人の出演作の原作で、宣伝対象のため除く",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/61586/",
+      "result": "rejected",
+      "reason": "自著『お金の大学』の宣伝インタビュー。他の本を薦める記述なし",
+      "person": "両＠リベ大学長"
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/3071",
+      "result": "rejected",
+      "reason": "写真ページ。元記事 /articles/-/3071 は取り込み済み",
+      "person": ""
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/3724",
+      "result": "rejected",
+      "reason": "写真ページ。元記事 /articles/-/3724 は書店員選出の「R-40本屋さん大賞」（2017）で、著名人の推薦ではない",
+      "person": ""
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/3724",
+      "result": "rejected",
+      "reason": "2017年のR-40本屋さん大賞ノンフィクション部門。書店員の選出で、個人の推薦者を特定できない",
+      "person": ""
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/041700502/",
+      "result": "rejected",
+      "reason": "刊行記念トークイベントの対談。薦める本の記述なし（自著・漫画化作品の話）",
+      "person": "彬子女王, 三宅香帆"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/041400501/",
+      "result": "rejected",
+      "reason": "両氏の新刊（『The Giver』『話が長いエンジニア、答えを急ぐ営業』）の宣伝対談。薦める本の記述なし",
+      "person": "澤円, 水谷享平"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/041200285/",
+      "result": "rejected",
+      "reason": "両氏の自著（『投資の教科書』『きみのお金は誰のため』）の宣伝対談。薦める本の記述なし",
+      "person": "後藤達也, 田内学"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/102500070/",
+      "result": "rejected",
+      "reason": "『勉強法のベストセラー100冊』のまとめ記事。池上彰が薦める本の記述として読めない",
+      "person": "池上彰ほか"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/12/post-2246524.html",
+      "result": "rejected",
+      "reason": "出版社の企画で『杉森くんを殺すには』1冊の感想を語る回。宣伝対象で、本人が薦める本とは断定できない",
+      "person": "環ROY"
+    }
+  ]
+}

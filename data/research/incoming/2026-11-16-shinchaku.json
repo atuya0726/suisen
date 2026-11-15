@@ -1,0 +1,91 @@
+{
+  "people": [],
+  "sources": [],
+  "recommendations": [],
+  "checkedUrls": [
+    {
+      "url": "https://ddnavi.com/aidokusho/",
+      "result": "index",
+      "reason": "2026-11-16確認: 新着なし（既存58回のみ）",
+      "person": ""
+    },
+    {
+      "url": "https://ddnavi.com/genre/%e3%81%82%e3%81%ae%e4%ba%ba%e3%81%a8%e6%9c%ac%e3%81%ae%e8%a9%b1-and-more/",
+      "result": "index",
+      "reason": "2026-11-16確認: 萩原利久より新しい回なし",
+      "person": ""
+    },
+    {
+      "url": "https://book.asahi.com/series/11039124",
+      "result": "index",
+      "reason": "2026-11-16確認: 新着なし（最新は既存の17033972）",
+      "person": ""
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/091300565/",
+      "result": "index",
+      "reason": "2026-11-16確認: 新着なし",
+      "person": ""
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/070300541/",
+      "result": "index",
+      "reason": "2026-11-16確認: 藤本真樹・前編より新しい回なし",
+      "person": ""
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/111500600/",
+      "result": "index",
+      "reason": "2026-11-16確認: 新着なし",
+      "person": ""
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/book-interview/",
+      "result": "index",
+      "reason": "2026-11-16確認: 1ページ目のみ",
+      "person": ""
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/82116/",
+      "result": "rejected",
+      "reason": "DAIGOの絵本インタビュー。幼少期に好きだった絵本・子どもの好きな絵本に触れるが、本人が薦める本としては断定できず見送り",
+      "person": "DAIGO"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/145447/",
+      "result": "rejected",
+      "reason": "自著（すごい習慣大百科）のベストセラー宣伝インタビュー",
+      "person": "堀田秀吾"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/107395/",
+      "result": "rejected",
+      "reason": "作家の新作・創作インタビュー（読書歴・薦める本の話ではない。題名から判断、本文は未読）",
+      "person": "沖田有帆"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/176579/",
+      "result": "rejected",
+      "reason": "創作インタビュー（読書歴・薦める本の話ではない。題名から判断、本文は未読）",
+      "person": "ナツメカズキ"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/84060/",
+      "result": "rejected",
+      "reason": "作品宣伝インタビュー（題名から判断、本文は未読）",
+      "person": ""
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/112635/",
+      "result": "rejected",
+      "reason": "ゲーム関連のインタビューで本の推薦ではない（題名から判断、本文は未読）",
+      "person": ""
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/175487/",
+      "result": "rejected",
+      "reason": "訃報記事で本人が薦めた本の記事ではない",
+      "person": "東野圭吾"
+    }
+  ]
+}

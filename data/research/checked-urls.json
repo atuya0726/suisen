@@ -2755,10 +2755,10 @@
   },
   {
     "url": "https://book.asahi.com/article/16704796",
-    "result": "candidate",
-    "reason": "好書好日・cero高城晶平インタビュー前編（読書観）。後編で5冊は採用済み、前編は未開封",
+    "result": "adopted",
+    "reason": "sources.json の asahi-2026-07-12-takagi-2",
     "person": "高城晶平",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://book.asahi.com/article/13909514",
@@ -7401,10 +7401,10 @@
   },
   {
     "url": "https://realsound.jp/book/2025/09/post-2173706.html",
-    "result": "candidate",
-    "reason": "上白石萌音 “本のある暮らし”を語る（Real Sound ブック、未開封。人物は上白石萌音）",
+    "result": "adopted",
+    "reason": "sources.json の rs-kamishiraishi-2025-09",
     "person": "上白石萌音",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://realsound.jp/book/category/interview/famous",
@@ -7824,73 +7824,73 @@
   },
   {
     "url": "https://popeyemagazine.jp/post-271326/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.2。自著の宣伝回。副読書の選者が本人で、芸人として検索される人物。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "rejected",
+    "reason": "POPEYE『今月の副読書。』Vol.2。副読書3点は短編（作品単位）で、本としての推薦と断定できないため不採用（2026-11-16 本文確認）",
     "person": "濱田祐太郎",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-274492/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.3。副読書3冊を著者が推薦する回。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-02-06-mizuno-daiki",
     "person": "水野太貴",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-277419/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.4。芥川賞候補の作家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-03-06-sakamoto-wan",
     "person": "坂本湾",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-280509/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.5。シンガーソングライター・文筆家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-04-06-terao-sachio",
     "person": "寺尾紗穂",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-283145/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.6。ゲームSF作家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-05-08-akano-kosaku",
     "person": "赤野工作",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-286050/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.7。批評家（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-06-06-pansu",
     "person": "パンス",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-292412/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.8。臨床社会学者（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-08-06-nishii-kai",
     "person": "西井開",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-292402/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.9。劇作家・演出家。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-09-07-yamada-yuri",
     "person": "山田由梨",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-296789/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.10。音楽ライター。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-10-06-isobe-ryo",
     "person": "磯部涼",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://popeyemagazine.jp/post-300050/",
-    "result": "candidate",
-    "reason": "POPEYE『今月の副読書。』Vol.11。詩人（有名人度は低め）。副読書の推薦が載る見込み。今回は読む上限のため未読",
+    "result": "adopted",
+    "reason": "sources.json の pop-2026-11-06-nishi-pneuma",
     "person": "西プネウマ",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-16"
   },
   {
     "url": "https://realsound.jp/book/2025/12/post-2246524.html",
@@ -9417,5 +9417,151 @@
     "result": "candidate",
     "reason": "YouTube「うごめ紀」。「養老孟司」で検索して当たったが本人の公式チャンネルか未確認",
     "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/82116/",
+    "result": "rejected",
+    "reason": "DAIGOの絵本インタビュー。幼少期に好きだった絵本・子どもの好きな絵本に触れるが、本人が薦める本としては断定できず見送り",
+    "person": "DAIGO",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/145447/",
+    "result": "rejected",
+    "reason": "自著（すごい習慣大百科）のベストセラー宣伝インタビュー",
+    "person": "堀田秀吾",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/107395/",
+    "result": "rejected",
+    "reason": "作家の新作・創作インタビュー（読書歴・薦める本の話ではない。題名から判断、本文は未読）",
+    "person": "沖田有帆",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/176579/",
+    "result": "rejected",
+    "reason": "創作インタビュー（読書歴・薦める本の話ではない。題名から判断、本文は未読）",
+    "person": "ナツメカズキ",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/84060/",
+    "result": "rejected",
+    "reason": "作品宣伝インタビュー（題名から判断、本文は未読）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/112635/",
+    "result": "rejected",
+    "reason": "ゲーム関連のインタビューで本の推薦ではない（題名から判断、本文は未読）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/175487/",
+    "result": "rejected",
+    "reason": "訃報記事で本人が薦めた本の記事ではない",
+    "person": "東野圭吾",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/3724",
+    "result": "rejected",
+    "reason": "2017年のR-40本屋さん大賞ノンフィクション部門。書店員の選出で、個人の推薦者を特定できない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://chapters.jp/blogs/?p=2924",
+    "result": "adopted",
+    "reason": "sources.json の chapters-2924",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://chapters.jp/blogs/?p=2939",
+    "result": "adopted",
+    "reason": "sources.json の chapters-2939",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://chapters.jp/blogs/?p=3087",
+    "result": "candidate",
+    "reason": "本のプレゼントおすすめ34選｜クリスマス・誕生日に大切な人へギフトで贈る小説・エッセイ（2026-11-12）",
+    "person": "森本萌乃",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://chapters.jp/blogs/?p=3005",
+    "result": "candidate",
+    "reason": "本屋大賞の歴代受賞作一覧と、売れてる人気小説（受賞作の一覧が中心）",
+    "person": "森本萌乃",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://chapters.jp/blogs/?p=2143",
+    "result": "candidate",
+    "reason": "失恋した時に読む本30選",
+    "person": "森本萌乃",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/066/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-seki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/061/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-kawahigashi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/065/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-shoda",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/062/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-kimura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/060/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-nakamura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/063/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-shinno",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/064/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-kitajima",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/067/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-kuzuno",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/059/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-noda",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.rikkyo.ac.jp/learning/books/058/",
+    "result": "adopted",
+    "reason": "sources.json の rikkyo-lib-hasegawa",
+    "checkedAt": "2026-11-16"
   }
 ]

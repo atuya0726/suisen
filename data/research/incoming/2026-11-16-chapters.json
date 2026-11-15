@@ -1,0 +1,459 @@
+{
+  "people": [
+    {
+      "id": "morimoto",
+      "name": "森本萌乃",
+      "title": "書店主・選書家（オンライン書店「チャプターズ」運営）",
+      "tags": [
+        "選書家"
+      ],
+      "noPage": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "chapters-2939",
+      "type": "article",
+      "media": "Chapters Blog",
+      "title": "読み始めたら止まらない小説20選｜一気読みのミステリーから感動作まで",
+      "url": "https://chapters.jp/blogs/?p=2939",
+      "publishedAt": "2026-10-28"
+    },
+    {
+      "id": "chapters-2924",
+      "type": "article",
+      "media": "Chapters Blog",
+      "title": "恋愛小説のおすすめ20選【大人向け】ままならない恋の名作を書店主が厳選",
+      "url": "https://chapters.jp/blogs/?p=2924",
+      "publishedAt": "2026-10-28"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "ルパンの消息",
+        "author": "横山秀夫",
+        "publisher": "光文社文庫",
+        "edition": "光文社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "シャドウ",
+        "author": "道尾秀介",
+        "publisher": "創元推理文庫",
+        "edition": "創元推理文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "潔白",
+        "author": "青木俊",
+        "publisher": "幻冬舎文庫",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "99%の誘拐",
+        "author": "岡嶋二人",
+        "publisher": "講談社文庫",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "プロジェクト・インソムニア",
+        "author": "結城真一郎",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "地雷グリコ",
+        "author": "青崎有吾",
+        "publisher": "角川文庫",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "オーデュボンの祈り",
+        "author": "伊坂幸太郎",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "ペーパー・リリイ",
+        "author": "佐原ひかり",
+        "publisher": "集英社文庫",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "偶然屋",
+        "author": "七尾与史",
+        "publisher": "小学館文庫",
+        "edition": "小学館文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "本日は大安なり",
+        "author": "辻村深月",
+        "publisher": "角川文庫",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "風が強く吹いている",
+        "author": "三浦しをん",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "チョコレートコスモス",
+        "author": "恩田陸",
+        "publisher": "角川文庫",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "オルタネート",
+        "author": "加藤シゲアキ",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "ひゃっか！",
+        "author": "今村翔吾",
+        "publisher": "ハルキ文庫",
+        "edition": "ハルキ文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "路",
+        "author": "吉田修一",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "そして、バトンは渡された",
+        "author": "瀬尾まいこ",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "俺と師匠とブルーボーイとストリッパー",
+        "author": "桜木紫乃",
+        "publisher": "角川文庫",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "金の角持つ子どもたち",
+        "author": "藤岡陽子",
+        "publisher": "集英社文庫",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "ウズタマ",
+        "author": "額賀澪",
+        "publisher": "小学館文庫",
+        "edition": "小学館文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2939",
+      "book": {
+        "title": "平成大家族",
+        "author": "中島京子",
+        "publisher": "集英社文庫",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "私をくいとめて",
+        "author": "綿矢りさ",
+        "publisher": "朝日文庫",
+        "edition": "朝日文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "白いしるし",
+        "author": "西加奈子",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "すべて真夜中の恋人たち",
+        "author": "川上未映子",
+        "publisher": "講談社文庫",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "カソウスキの行方",
+        "author": "津村記久子",
+        "publisher": "講談社文庫",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "真夜中の果物",
+        "author": "加藤千恵",
+        "publisher": "幻冬舎文庫",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "薔薇の木 枇杷の木 檸檬の木",
+        "author": "江國香織",
+        "publisher": "集英社文庫",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "はつ恋",
+        "author": "村山由佳",
+        "publisher": "ポプラ文庫",
+        "edition": "ポプラ文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "ファーストクラッシュ",
+        "author": "山田詠美",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "愛じゃないならこれは何",
+        "author": "斜線堂有紀",
+        "publisher": "集英社文庫",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "かわいそうだね？",
+        "author": "綿矢りさ",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "恋愛の発酵と腐敗について",
+        "author": "錦見映理子",
+        "publisher": "小学館文庫",
+        "edition": "小学館文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "わたしたちは銀のフォークと薬を手にして",
+        "author": "島本理生",
+        "publisher": "幻冬舎文庫",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "ほかならぬ人へ",
+        "author": "白石一文",
+        "publisher": "祥伝社文庫",
+        "edition": "祥伝社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "傲慢と善良",
+        "author": "辻村深月",
+        "publisher": "朝日文庫",
+        "edition": "朝日文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "マリエ",
+        "author": "千早茜",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "メイド・イン京都",
+        "author": "藤岡陽子",
+        "publisher": "朝日文庫",
+        "edition": "朝日文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "ばかもの",
+        "author": "絲山秋子",
+        "publisher": "河出文庫",
+        "edition": "河出文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "水曜の朝、午前三時",
+        "author": "蓮見圭一",
+        "publisher": "河出文庫",
+        "edition": "河出文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "汝、星のごとく",
+        "author": "凪良ゆう",
+        "publisher": "講談社文庫",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "morimoto",
+      "sourceId": "chapters-2924",
+      "book": {
+        "title": "永い言い訳",
+        "author": "西川美和",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://chapters.jp/blogs/",
+      "result": "index",
+      "reason": "Chapters Blog 一覧（オススメ本紹介ほか）",
+      "person": "森本萌乃"
+    },
+    {
+      "url": "https://chapters.jp/blogs/?p=3087",
+      "result": "candidate",
+      "reason": "本のプレゼントおすすめ34選｜クリスマス・誕生日に大切な人へギフトで贈る小説・エッセイ（2026-11-12）",
+      "person": "森本萌乃"
+    },
+    {
+      "url": "https://chapters.jp/blogs/?p=3005",
+      "result": "candidate",
+      "reason": "本屋大賞の歴代受賞作一覧と、売れてる人気小説（受賞作の一覧が中心）",
+      "person": "森本萌乃"
+    },
+    {
+      "url": "https://chapters.jp/blogs/?p=2143",
+      "result": "candidate",
+      "reason": "失恋した時に読む本30選",
+      "person": "森本萌乃"
+    }
+  ]
+}

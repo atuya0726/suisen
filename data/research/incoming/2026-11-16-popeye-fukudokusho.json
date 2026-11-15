@@ -1,0 +1,453 @@
+{
+  "people": [
+    {
+      "id": "hamada-yutaro",
+      "name": "濱田祐太郎",
+      "title": "お笑い芸人",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mizuno-daiki",
+      "name": "水野太貴",
+      "title": "ポッドキャスター・編集者（ゆる言語学ラジオ）",
+      "tags": []
+    },
+    {
+      "id": "sakamoto-wan",
+      "name": "坂本湾",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "terao-sachio",
+      "name": "寺尾紗穂",
+      "title": "ミュージシャン・文筆家",
+      "tags": [
+        "作家",
+        "芸能"
+      ]
+    },
+    {
+      "id": "akano-kosaku",
+      "name": "赤野工作",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "pansu",
+      "name": "パンス",
+      "title": "文筆家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "nishii-kai",
+      "name": "西井開",
+      "title": "臨床心理士",
+      "tags": []
+    },
+    {
+      "id": "yamada-yuri",
+      "name": "山田由梨",
+      "title": "劇作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "isobe-ryo",
+      "name": "磯部涼",
+      "title": "音楽ライター",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "nishi-pneuma",
+      "name": "西プネウマ",
+      "title": "詩人",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "pop-2026-01-06-hamada-yutaro",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.2／濱田祐太郎『迷ったら笑っといてください』",
+      "url": "https://popeyemagazine.jp/post-271326/",
+      "publishedAt": "2026-01-06"
+    },
+    {
+      "id": "pop-2026-02-06-mizuno-daiki",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.3／水野太貴『会話の0.2秒を言語学する』",
+      "url": "https://popeyemagazine.jp/post-274492/",
+      "publishedAt": "2026-02-06"
+    },
+    {
+      "id": "pop-2026-03-06-sakamoto-wan",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.4／坂本湾『BOXBOXBOXBOX』",
+      "url": "https://popeyemagazine.jp/post-277419/",
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "pop-2026-04-06-terao-sachio",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.5／寺尾紗穂『戦前音楽探訪』",
+      "url": "https://popeyemagazine.jp/post-280509/",
+      "publishedAt": "2026-04-06"
+    },
+    {
+      "id": "pop-2026-05-08-akano-kosaku",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.6／赤野工作『遊戯と臨界　赤野工作 ゲームSF傑作選』",
+      "url": "https://popeyemagazine.jp/post-283145/",
+      "publishedAt": "2026-05-08"
+    },
+    {
+      "id": "pop-2026-06-06-pansu",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.7／パンス『「いまどきの若者」の150年史』",
+      "url": "https://popeyemagazine.jp/post-286050/",
+      "publishedAt": "2026-06-06"
+    },
+    {
+      "id": "pop-2026-08-06-nishii-kai",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.8／西井 開『転落男性論： 孤立、暴力、ホモソーシャル』",
+      "url": "https://popeyemagazine.jp/post-292412/",
+      "publishedAt": "2026-08-06"
+    },
+    {
+      "id": "pop-2026-09-07-yamada-yuri",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.9／山田由梨『ぜんぜんダメで  パーフェクトなわたしたち』",
+      "url": "https://popeyemagazine.jp/post-292402/",
+      "publishedAt": "2026-09-07"
+    },
+    {
+      "id": "pop-2026-10-06-isobe-ryo",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.10／磯部涼『脱法』",
+      "url": "https://popeyemagazine.jp/post-296789/",
+      "publishedAt": "2026-10-06"
+    },
+    {
+      "id": "pop-2026-11-06-nishi-pneuma",
+      "type": "article",
+      "media": "POPEYE Web",
+      "title": "今月の副読書。Vol.11／西プネウマ『ぜんいんでしゅくふくせよ』",
+      "url": "https://popeyemagazine.jp/post-300050/",
+      "publishedAt": "2026-11-06"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "hamada-yutaro",
+      "sourceId": "pop-2026-01-06-hamada-yutaro",
+      "book": {
+        "title": "謎の物語",
+        "author": "紀田順一郎（編）",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫"
+      },
+      "note": "「女か虎か」（ストックトン）を挙げた"
+    },
+    {
+      "personId": "hamada-yutaro",
+      "sourceId": "pop-2026-01-06-hamada-yutaro",
+      "book": {
+        "title": "二十一の短篇",
+        "author": "グレアム・グリーン",
+        "publisher": "早川書房",
+        "edition": "新訳版 ハヤカワepi文庫"
+      },
+      "note": "「廃物破壊者たち」を挙げた"
+    },
+    {
+      "personId": "hamada-yutaro",
+      "sourceId": "pop-2026-01-06-hamada-yutaro",
+      "book": {
+        "title": "シャーロック・ホームズの冒険",
+        "author": "コナン・ドイル",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      },
+      "note": "「ボヘミア王のスキャンダル」を挙げた"
+    },
+    {
+      "personId": "mizuno-daiki",
+      "sourceId": "pop-2026-02-06-mizuno-daiki",
+      "book": {
+        "title": "会話の科学",
+        "author": "ニック・エンフィールド",
+        "publisher": "文藝春秋",
+        "subtitle": "あなたはなぜ「え？」と言ってしまうのか"
+      }
+    },
+    {
+      "personId": "mizuno-daiki",
+      "sourceId": "pop-2026-02-06-mizuno-daiki",
+      "book": {
+        "title": "働きたくないイタチと言葉がわかるロボット",
+        "author": "川添愛",
+        "publisher": "朝日出版社",
+        "subtitle": "人工知能から考える「人と言葉」"
+      }
+    },
+    {
+      "personId": "mizuno-daiki",
+      "sourceId": "pop-2026-02-06-mizuno-daiki",
+      "book": {
+        "title": "どもる体",
+        "author": "伊藤亜紗",
+        "publisher": "医学書院"
+      }
+    },
+    {
+      "personId": "sakamoto-wan",
+      "sourceId": "pop-2026-03-06-sakamoto-wan",
+      "book": {
+        "title": "死者の奢り・飼育",
+        "author": "大江健三郎",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "sakamoto-wan",
+      "sourceId": "pop-2026-03-06-sakamoto-wan",
+      "book": {
+        "title": "銃",
+        "author": "中村文則",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "sakamoto-wan",
+      "sourceId": "pop-2026-03-06-sakamoto-wan",
+      "book": {
+        "title": "機械・春は馬車に乗って",
+        "author": "横光利一",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "terao-sachio",
+      "sourceId": "pop-2026-04-06-terao-sachio",
+      "book": {
+        "title": "定本 うたの思想",
+        "author": "松永伍一",
+        "publisher": "新人物往来社",
+        "subtitle": "唄の救い・歌への挑戦"
+      }
+    },
+    {
+      "personId": "terao-sachio",
+      "sourceId": "pop-2026-04-06-terao-sachio",
+      "book": {
+        "title": "武満徹 エッセイ選",
+        "author": "武満徹",
+        "publisher": "筑摩書房",
+        "subtitle": "言葉の海へ"
+      }
+    },
+    {
+      "personId": "terao-sachio",
+      "sourceId": "pop-2026-04-06-terao-sachio",
+      "book": {
+        "title": "鉛筆部隊と特攻隊",
+        "author": "きむらけん",
+        "publisher": "えにし書房",
+        "edition": "改訂新版"
+      }
+    },
+    {
+      "personId": "akano-kosaku",
+      "sourceId": "pop-2026-05-08-akano-kosaku",
+      "book": {
+        "title": "謎のチェス指し人形「ターク」",
+        "author": "トム・スタンデージ",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "akano-kosaku",
+      "sourceId": "pop-2026-05-08-akano-kosaku",
+      "book": {
+        "title": "スポンサーから一言",
+        "author": "フレドリック・ブラウン",
+        "publisher": "東京創元社"
+      }
+    },
+    {
+      "personId": "akano-kosaku",
+      "sourceId": "pop-2026-05-08-akano-kosaku",
+      "book": {
+        "title": "二階堂地獄ゴルフ",
+        "author": "福本伸行",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "pansu",
+      "sourceId": "pop-2026-06-06-pansu",
+      "book": {
+        "title": "群衆",
+        "author": "松山巖",
+        "publisher": "中公文庫",
+        "subtitle": "機械のなかの難民"
+      }
+    },
+    {
+      "personId": "pansu",
+      "sourceId": "pop-2026-06-06-pansu",
+      "book": {
+        "title": "1985年",
+        "author": "吉崎達彦",
+        "publisher": "新潮新書"
+      }
+    },
+    {
+      "personId": "pansu",
+      "sourceId": "pop-2026-06-06-pansu",
+      "book": {
+        "title": "京城のダダ、東京のダダ",
+        "author": "吉川凪",
+        "publisher": "平凡社",
+        "subtitle": "高漢容と仲間たち"
+      }
+    },
+    {
+      "personId": "nishii-kai",
+      "sourceId": "pop-2026-08-06-nishii-kai",
+      "book": {
+        "title": "男性学入門",
+        "author": "伊藤公雄",
+        "publisher": "作品社"
+      }
+    },
+    {
+      "personId": "nishii-kai",
+      "sourceId": "pop-2026-08-06-nishii-kai",
+      "book": {
+        "title": "あいたくてききたくて旅にでる",
+        "author": "小野和子",
+        "publisher": "PUMPQUAKES"
+      }
+    },
+    {
+      "personId": "nishii-kai",
+      "sourceId": "pop-2026-08-06-nishii-kai",
+      "book": {
+        "title": "羅生門・鼻",
+        "author": "芥川龍之介",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      },
+      "note": "「羅生門」を挙げた"
+    },
+    {
+      "personId": "yamada-yuri",
+      "sourceId": "pop-2026-09-07-yamada-yuri",
+      "book": {
+        "title": "鬱病日記",
+        "author": "杉田俊介",
+        "publisher": "晶文社"
+      }
+    },
+    {
+      "personId": "yamada-yuri",
+      "sourceId": "pop-2026-09-07-yamada-yuri",
+      "book": {
+        "title": "いちばんここに似合う人",
+        "author": "ミランダ・ジュライ",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "yamada-yuri",
+      "sourceId": "pop-2026-09-07-yamada-yuri",
+      "book": {
+        "title": "話し足りなかった日",
+        "author": "イ・ラン",
+        "publisher": "リトルモア"
+      }
+    },
+    {
+      "personId": "isobe-ryo",
+      "sourceId": "pop-2026-10-06-isobe-ryo",
+      "book": {
+        "title": "暮らしの手帖",
+        "author": "ECD",
+        "publisher": "扶桑社"
+      }
+    },
+    {
+      "personId": "isobe-ryo",
+      "sourceId": "pop-2026-10-06-isobe-ryo",
+      "book": {
+        "title": "漂白される社会",
+        "author": "開沼博",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "isobe-ryo",
+      "sourceId": "pop-2026-10-06-isobe-ryo",
+      "book": {
+        "title": "ヤニねこ",
+        "author": "にゃんにゃんファクトリー",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "nishi-pneuma",
+      "sourceId": "pop-2026-11-06-nishi-pneuma",
+      "book": {
+        "title": "響きと怒り",
+        "author": "ウィリアム・フォークナー",
+        "publisher": "岩波文庫"
+      }
+    },
+    {
+      "personId": "nishi-pneuma",
+      "sourceId": "pop-2026-11-06-nishi-pneuma",
+      "book": {
+        "title": "みんなの自伝",
+        "author": "ガートルード・スタイン",
+        "publisher": "マガジンハウス"
+      }
+    },
+    {
+      "personId": "nishi-pneuma",
+      "sourceId": "pop-2026-11-06-nishi-pneuma",
+      "book": {
+        "title": "崩れゆく絆",
+        "author": "チヌア・アチェベ",
+        "publisher": "光文社古典新訳文庫"
+      }
+    }
+  ],
+  "checkedUrls": []
+}
