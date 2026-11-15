@@ -12259,5 +12259,65 @@
     "isbn13": "9784480098252",
     "sourceId": "ritsumei-lib-kashiwagi",
     "verified": true
+  },
+  {
+    "personId": "p0518",
+    "isbn13": "9784794974525",
+    "sourceId": "cro-240312",
+    "verified": true
+  },
+  {
+    "personId": "p0520",
+    "isbn13": "9784152103598",
+    "sourceId": "cro-240332",
+    "verified": true
+  },
+  {
+    "personId": "p0527",
+    "isbn13": "9784560080450",
+    "sourceId": "bun-3071",
+    "verified": true
+  },
+  {
+    "personId": "p0532",
+    "isbn13": "9784003100561",
+    "sourceId": "po-hirano",
+    "verified": true
+  },
+  {
+    "personId": "p0536",
+    "isbn13": "9784805202562",
+    "sourceId": "ritsumei-lib-fukumoto",
+    "verified": true
+  },
+  {
+    "personId": "p0543",
+    "isbn13": "9784847075643",
+    "sourceId": "s-yamashita",
+    "verified": true
+  },
+  {
+    "personId": "p0038",
+    "isbn13": "9784296124350",
+    "sourceId": "nk-nakade-2",
+    "verified": true
+  },
+  {
+    "personId": "p0535",
+    "isbn13": "9784003900024",
+    "sourceId": "ritsumei-lib-shigemori",
+    "verified": true
+  },
+  {
+    "personId": "p0537",
+    "isbn13": "9784062574723",
+    "sourceId": "ritsumei-lib-kawamura-sc",
+    "verified": true
+  },
+  {
+    "personId": "p0539",
+    "isbn13": "9784537217360",
+    "sourceId": "ritsumei-lib-kawai",
+    "verified": true
   }
 ]

@@ -22800,5 +22800,127 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/15214207/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8252/9784480098252_1_102.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784794974525",
+    "title": "アワヨンベは大丈夫",
+    "authors": [
+      "伊藤亜和"
+    ],
+    "publisher": "晶文社",
+    "publishedAt": "2024-11-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18050332/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4525/9784794974525_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784152103598",
+    "title": "三部作",
+    "authors": [
+      "ヨン・フォッセ",
+      "岡本 健志",
+      "安藤 佳子"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2024-09-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17933728/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3598/9784152103598_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784560080450",
+    "title": "スターリン（上）",
+    "authors": [
+      "サイモン・シーバッグ・モンテフィオーレ",
+      "染谷徹"
+    ],
+    "publisher": "白水社",
+    "publishedAt": "2010-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6360932/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0450/9784560080450.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784003100561",
+    "title": "阿部一族　他二篇",
+    "authors": [
+      "森 鷗外"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "2007-12-14",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/133294/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0561/9784003100561_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784805202562",
+    "title": "量子と混沌",
+    "authors": [
+      "ポ-ル・Ｃ．Ｗ．デ-ヴィス",
+      "Ｊ．Ｒ．ブラウン"
+    ],
+    "publisher": "地人書館",
+    "publishedAt": "1987-10-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/280226/"
+  },
+  {
+    "isbn13": "9784847075643",
+    "title": "しらふ",
+    "authors": [
+      "吉高 由里子"
+    ],
+    "publisher": "ワニブックス",
+    "publishedAt": "2025-07-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18250117/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5643/9784847075643_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784296124350",
+    "title": "NO RULES（ノー・ルールズ）",
+    "authors": [
+      "リード・ヘイスティングス",
+      "エリン・メイヤー",
+      "土方奈美"
+    ],
+    "publisher": "日経BP　日本経済新聞出版",
+    "publishedAt": "2025-04-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18160367/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4350/9784296124350_1_26.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784003900024",
+    "title": "自由論",
+    "authors": [
+      "J．S．ミル",
+      "関口 正司"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "2020-03-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16221383/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0024/9784003900024.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062574723",
+    "title": "DNA 上",
+    "authors": [
+      "ジェームズ・D・ワトソン",
+      "アンドリュー・ベリー"
+    ],
+    "publisher": "講談社"
+  },
+  {
+    "isbn13": "9784537217360",
+    "title": "眠れなくなるほど面白い 図解 たんぱく質の話",
+    "authors": [
+      "藤田 聡"
+    ],
+    "publisher": "日本文芸社",
+    "publishedAt": "2019-10-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16009257/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7360/9784537217360.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

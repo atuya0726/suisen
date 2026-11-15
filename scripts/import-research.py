@@ -162,7 +162,17 @@ def main():
             for c in candidates(title):
                 if c["isbn13"] == want:
                     return c
-            return None
+            # 手で指定された ISBN: 楽天から書誌を取り、無ければ出典の書誌で登録する
+            if not isbn13(want):
+                return None
+            if not dry:
+                fetch_books(want)
+                fresh = {b["isbn13"]: b for b in load(DATA / "books.json")}
+                if want in fresh:
+                    return fresh[want]
+            b = next(r["book"] for r in wanted if r["book"]["title"] == title)
+            authors = [a.strip() for a in re.split(r"[,、;；／/]", b.get("author") or "") if a.strip()] or ["不明"]
+            return {"isbn13": want, "title": title, "authors": authors, **({"publisher": b["publisher"]} if b.get("publisher") else {})}
         if title in page_isbn:
             i = page_isbn[title]
             if i in have:

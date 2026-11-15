@@ -191,6 +191,8 @@ const norm = (s: string) =>
   s
     .normalize("NFKC")
     .toLowerCase()
+    // カタカナをひらがなにそろえる（「アワヨンベ」と「アワヨンべ」のような登録の揺れを吸収する）
+    .replace(/[\u30a1-\u30f6]/g, (ch) => String.fromCharCode(ch.charCodeAt(0) - 0x60))
     .replace(/[\s・:;\-‐―—–~〜!?、。,.'"“”‘’「」『』()[\]【】〔〕〈〉《》<>＝=／/]/g, "");
 
 function isbn10to13(isbn10: string): string {
@@ -201,7 +203,24 @@ function isbn10to13(isbn10: string): string {
 
 /** 「新版」「文庫版」など版を表す語を外した書名。版違いを同じ本として比べるために使う */
 const stripEdition = (s: string) =>
-  norm(s).replace(/(新装|新訳|改訂|増補|完全|決定|文庫|普及|愛蔵|特装)+版|新版|第\d+版|\d+周年記念版/g, "");
+  norm(
+    s
+      .normalize("NFKC")
+      // 書店が付ける飾り: 「三部作【トリロギーエン】」「NO RULES(ノー・ルールズ)」「スターリン(上)」
+      .replace(/[【〔\[][^】〕\]]*[】〕\]]/g, "")
+      .replace(/\s*\([^()]*\)\s*$/, ""),
+  )
+    .replace(/(新装|新訳|改訂|増補|完全|決定|文庫|普及|愛蔵|特装|通常|限定)+版|新版|第\d+版|\d+周年記念版/g, "")
+    .replace(/(上|下|上巻|下巻)$/, "");
+
+/** 2文字ずつに区切って比べた似かよい度（0〜1）。外国人名の表記ゆれ（モンテフィオーリ／モンテフィオーレ）を拾う */
+function similarity(a: string, b: string): number {
+  const grams = (x: string) => new Set([...x].slice(0, -1).map((_, i) => x.slice(i, i + 2)));
+  const [ga, gb] = [grams(a), grams(b)];
+  if (ga.size === 0 || gb.size === 0) return 0;
+  const common = [...ga].filter((g) => gb.has(g)).length;
+  return (2 * common) / (ga.size + gb.size);
+}
 
 /** 書名・著者・出版社の一致度。0 は「別の本」 */
 function score(q: Query, c: Candidate): number {
@@ -220,11 +239,18 @@ function score(q: Query, c: Candidate): number {
       .split(/[・\s　,、／/]/)
       .map(norm)
       .sort((a, b) => b.length - a.length)[0];
+    const samePublisher = Boolean(
+      q.publisher && c.publisher && norm(c.publisher).includes(norm(q.publisher).replace(/(文庫|新書|選書)$/, "")),
+    );
     if (ca.some((a) => a.includes(qa) || qa.includes(a))) s += 3;
     else if (key && key.length >= 3 && ca.some((a) => a.includes(key))) s += 2;
+    // 表記ゆれ: 名前のいちばん長い部分が、候補の著者のどれかとよく似ている
+    else if (key && key.length >= 4 && ca.some((a) => similarity(key, a.slice(-Math.max(key.length, 4))) >= 0.6 || similarity(qa, a) >= 0.6)) s += 2;
+    // 著者は合わないが、書名が一致して出版社も同じ（著者欄が訳者や編者だけの登録など）
+    else if (samePublisher && ct === qt) s += 1;
     else return 0;
   }
-  if (q.publisher && c.publisher && norm(c.publisher).includes(norm(q.publisher))) s += 1;
+  if (q.publisher && c.publisher && norm(c.publisher).includes(norm(q.publisher).replace(/(文庫|新書|選書)$/, ""))) s += 1;
   return s;
 }
 
@@ -374,6 +400,17 @@ async function runSearch(inputPath: string): Promise<void> {
           result.query = q;
           // 書名が完全には一致しない本（「DNA」で探して「DNAの…」が出た等）は別の本のことがあるので、確定にしない
           if (result.book && stripEdition(result.book.title) !== stripEdition(wanted)) result.status = "ambiguous";
+        }
+      }
+      if (!result && authorKey) {
+        // 書名の登録が出典と違う本（かなの違いなど）は書名検索に掛からないので、著者名だけで探して書名を照合する
+        for (const author of [...new Set([(q.author ?? "").split(/[,、／/]/)[0]!.trim(), authorKey])].filter(Boolean)) {
+          await sleep(INTERVAL_MS);
+          const byAuthor = (await rakutenSearch({ author, hits: "30", sort: "-releaseDate", outOfStockFlag: "1" }))
+            .map(toCandidate)
+            .filter((c) => c !== null);
+          result = choose(q, byAuthor, "rakuten");
+          if (result) break;
         }
       }
       if (!result) {

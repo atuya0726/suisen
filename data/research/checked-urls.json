@@ -7905,5 +7905,11 @@
     "reason": "出版社企画の推薦インタビューの可能性があり、宣伝対象の本と区別できない",
     "person": "チャンカワイ",
     "checkedAt": "2026-11-15"
+  },
+  {
+    "url": "https://ddnavi.com/article/1422994/a/",
+    "result": "adopted",
+    "reason": "sources.json の s-yamashita",
+    "checkedAt": "2026-11-15"
   }
 ]
