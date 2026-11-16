@@ -12857,5 +12857,827 @@
     "result": "candidate",
     "reason": "ドラフト指名されたデザイナーが選ぶ影響を受けた本8選。今回読めず",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi159_aono/",
+    "result": "adopted",
+    "reason": "sources.json の s159",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi184_asahina/",
+    "result": "adopted",
+    "reason": "sources.json の s184",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi175_nonaka/",
+    "result": "adopted",
+    "reason": "sources.json の s175",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi119_shoji/",
+    "result": "adopted",
+    "reason": "sources.json の s119",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi093_sato/",
+    "result": "adopted",
+    "reason": "sources.json の s93",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi137_ishii/",
+    "result": "adopted",
+    "reason": "sources.json の s137",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi102_yazuki/",
+    "result": "adopted",
+    "reason": "sources.json の s102",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi126_suga/",
+    "result": "adopted",
+    "reason": "sources.json の s126",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi103_maeda/",
+    "result": "adopted",
+    "reason": "sources.json の s103",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi138_hatano/",
+    "result": "adopted",
+    "reason": "sources.json の s138",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi086_masuno/",
+    "result": "adopted",
+    "reason": "sources.json の s086",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi104_hoshino/",
+    "result": "adopted",
+    "reason": "sources.json の s104",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi198_kubodera/",
+    "result": "adopted",
+    "reason": "sources.json の s198",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi181_okazaki/",
+    "result": "adopted",
+    "reason": "sources.json の s181",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi187_nitadori/",
+    "result": "adopted",
+    "reason": "sources.json の s187",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi158_nakayama/",
+    "result": "adopted",
+    "reason": "sources.json の snakayama",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi098_fujitani/",
+    "result": "adopted",
+    "reason": "sources.json の sfujitani",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi177_takemiya/",
+    "result": "adopted",
+    "reason": "sources.json の stakemiya",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi162_kinoshita/",
+    "result": "adopted",
+    "reason": "sources.json の skinoshita",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi196_shindo/",
+    "result": "adopted",
+    "reason": "sources.json の s196",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi189_aiba/",
+    "result": "adopted",
+    "reason": "sources.json の s189",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi194_ishii/",
+    "result": "adopted",
+    "reason": "sources.json の s194",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi141_ito/",
+    "result": "adopted",
+    "reason": "sources.json の s141",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi173_nishizaki/",
+    "result": "adopted",
+    "reason": "sources.json の snishizaki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi197_onodera/",
+    "result": "adopted",
+    "reason": "sources.json の sonodera",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi123_harada/",
+    "result": "adopted",
+    "reason": "sources.json の sharada",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi167_hatsuno/",
+    "result": "adopted",
+    "reason": "sources.json の shatsuno",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi147_oyamada/",
+    "result": "adopted",
+    "reason": "sources.json の s147",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi199_takiwa/",
+    "result": "adopted",
+    "reason": "sources.json の s199",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi105_hirayama/",
+    "result": "adopted",
+    "reason": "sources.json の s105",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi195_ibuki/",
+    "result": "adopted",
+    "reason": "sources.json の s195",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi114_higuchi/",
+    "result": "adopted",
+    "reason": "sources.json の shiguchi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi135_shinno/",
+    "result": "adopted",
+    "reason": "sources.json の sshinno",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi179_tamaru/",
+    "result": "adopted",
+    "reason": "sources.json の stamaru",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi108_inui/",
+    "result": "adopted",
+    "reason": "sources.json の sinui",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi190_takiguchi/",
+    "result": "adopted",
+    "reason": "sources.json の s190",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi193_okuda/",
+    "result": "adopted",
+    "reason": "sources.json の s193",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi154_ochi/",
+    "result": "adopted",
+    "reason": "sources.json の s154",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi156_sawamura/",
+    "result": "adopted",
+    "reason": "sources.json の s156",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi171_nakawaki/",
+    "result": "adopted",
+    "reason": "sources.json の s171",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi097_koshigaya/",
+    "result": "adopted",
+    "reason": "sources.json の s97",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi133_kato/",
+    "result": "adopted",
+    "reason": "sources.json の s133",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi109_miyashita/",
+    "result": "adopted",
+    "reason": "sources.json の s109",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi111_shizaki/",
+    "result": "adopted",
+    "reason": "sources.json の s-shizaki-c3660d",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi185_toda/",
+    "result": "adopted",
+    "reason": "sources.json の s-toda-0a18bb",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi094_kitayama/",
+    "result": "adopted",
+    "reason": "sources.json の s-kitayama-d8ebfa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi163_niki/",
+    "result": "adopted",
+    "reason": "sources.json の s-niki-050ee1",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi146_fujioka/",
+    "result": "adopted",
+    "reason": "sources.json の s-fujioka-3a2b73",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi085_sato/",
+    "result": "adopted",
+    "reason": "sources.json の s-sato-debbd8",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi172_honjo/",
+    "result": "adopted",
+    "reason": "sources.json の s-honjo-c46c64",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi106_ooshima/",
+    "result": "adopted",
+    "reason": "sources.json の s-ooshima-99b1f2",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi140_nagaoka/",
+    "result": "adopted",
+    "reason": "sources.json の s140",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi117_uchizawa/",
+    "result": "adopted",
+    "reason": "sources.json の s117",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi129_yamada/",
+    "result": "adopted",
+    "reason": "sources.json の s129",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi089_hirayama/",
+    "result": "adopted",
+    "reason": "sources.json の s089",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi127_aoki/",
+    "result": "adopted",
+    "reason": "sources.json の s127",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi110_hachiya/",
+    "result": "adopted",
+    "reason": "sources.json の s110",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi11.html",
+    "result": "adopted",
+    "reason": "sources.json の s11",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi07.html",
+    "result": "adopted",
+    "reason": "sources.json の s7",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi13.html",
+    "result": "adopted",
+    "reason": "sources.json の s13",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi14.html",
+    "result": "adopted",
+    "reason": "sources.json の s14",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi06.html",
+    "result": "adopted",
+    "reason": "sources.json の s6",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi10.html",
+    "result": "adopted",
+    "reason": "sources.json の s10",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi12.html",
+    "result": "adopted",
+    "reason": "sources.json の s12",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi16.html",
+    "result": "adopted",
+    "reason": "sources.json の s16",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi03.html",
+    "result": "adopted",
+    "reason": "sources.json の s3",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi15.html",
+    "result": "adopted",
+    "reason": "sources.json の s15",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi19.html",
+    "result": "adopted",
+    "reason": "sources.json の s19",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi18.html",
+    "result": "adopted",
+    "reason": "sources.json の s18",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi05.html",
+    "result": "adopted",
+    "reason": "sources.json の s5",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi09.html",
+    "result": "adopted",
+    "reason": "sources.json の s9",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi08.html",
+    "result": "adopted",
+    "reason": "sources.json の s8",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi33.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s33",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi26.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s26",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi27.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s27",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi32.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s32",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi21.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s21",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi29.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s29",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi34.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s34",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi30.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s30",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi22.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s22",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi23.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s23",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi24.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s24",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi20.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s20",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi28.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s28",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi25.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s25",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi31.html",
+    "result": "adopted",
+    "reason": "sources.json の g2s31",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi37.html",
+    "result": "adopted",
+    "reason": "sources.json の s37",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi41.html",
+    "result": "adopted",
+    "reason": "sources.json の s41",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi40.html",
+    "result": "adopted",
+    "reason": "sources.json の s40",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi35.html",
+    "result": "adopted",
+    "reason": "sources.json の s35",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi38.html",
+    "result": "adopted",
+    "reason": "sources.json の s38",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi43.html",
+    "result": "adopted",
+    "reason": "sources.json の s43",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi42.html",
+    "result": "adopted",
+    "reason": "sources.json の s42",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi39.html",
+    "result": "adopted",
+    "reason": "sources.json の s39",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi44.html",
+    "result": "adopted",
+    "reason": "sources.json の s44",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi36.html",
+    "result": "adopted",
+    "reason": "sources.json の s36",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi51.html",
+    "result": "adopted",
+    "reason": "sources.json の sikegami",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi49.html",
+    "result": "adopted",
+    "reason": "sources.json の sshimamoto",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi45.html",
+    "result": "adopted",
+    "reason": "sources.json の skashima",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi50.html",
+    "result": "adopted",
+    "reason": "sources.json の syamamoto",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi48.html",
+    "result": "adopted",
+    "reason": "sources.json の snonaka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi52.html",
+    "result": "adopted",
+    "reason": "sources.json の smachida",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi47.html",
+    "result": "adopted",
+    "reason": "sources.json の shase",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi53.html",
+    "result": "adopted",
+    "reason": "sources.json の snishi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi46.html",
+    "result": "adopted",
+    "reason": "sources.json の sfurukawa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi55.html",
+    "result": "adopted",
+    "reason": "sources.json の s55",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi58.html",
+    "result": "adopted",
+    "reason": "sources.json の s58",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi56.html",
+    "result": "adopted",
+    "reason": "sources.json の s56",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi54.html",
+    "result": "adopted",
+    "reason": "sources.json の s54",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi60.html",
+    "result": "adopted",
+    "reason": "sources.json の s60",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi59.html",
+    "result": "adopted",
+    "reason": "sources.json の s59",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi66.html",
+    "result": "adopted",
+    "reason": "sources.json の s66",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi67.html",
+    "result": "adopted",
+    "reason": "sources.json の s67",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi63.html",
+    "result": "adopted",
+    "reason": "sources.json の s63",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi61.html",
+    "result": "adopted",
+    "reason": "sources.json の s61",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi62.html",
+    "result": "adopted",
+    "reason": "sources.json の s62",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi64.html",
+    "result": "adopted",
+    "reason": "sources.json の s64",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi65.html",
+    "result": "adopted",
+    "reason": "sources.json の s65",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi71.html",
+    "result": "adopted",
+    "reason": "sources.json の s71",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi74.html",
+    "result": "adopted",
+    "reason": "sources.json の s74",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi73.html",
+    "result": "adopted",
+    "reason": "sources.json の s73",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi72.html",
+    "result": "adopted",
+    "reason": "sources.json の s72",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi70.html",
+    "result": "adopted",
+    "reason": "sources.json の s70",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi69.html",
+    "result": "adopted",
+    "reason": "sources.json の s69",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi68.html",
+    "result": "adopted",
+    "reason": "sources.json の s68",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi77.html",
+    "result": "adopted",
+    "reason": "sources.json の skishi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi80.html",
+    "result": "adopted",
+    "reason": "sources.json の shatakenaka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi79.html",
+    "result": "adopted",
+    "reason": "sources.json の snakajima",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi76.html",
+    "result": "adopted",
+    "reason": "sources.json の ssakaki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi78.html",
+    "result": "adopted",
+    "reason": "sources.json の smichio",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi75.html",
+    "result": "adopted",
+    "reason": "sources.json の shanamura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi81.html",
+    "result": "adopted",
+    "reason": "sources.json の suozumi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi84.html",
+    "result": "adopted",
+    "reason": "sources.json の sosaki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi82.html",
+    "result": "adopted",
+    "reason": "sources.json の syanagi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi83.html",
+    "result": "adopted",
+    "reason": "sources.json の shomura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi57.html",
+    "result": "adopted",
+    "reason": "sources.json の s57",
+    "checkedAt": "2026-11-16"
   }
 ]

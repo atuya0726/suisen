@@ -1,0 +1,223 @@
+{
+ "people": [
+  {
+   "id": "aoki",
+   "name": "青木淳悟",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hachiya",
+   "name": "蜂谷涼",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s127",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第127回：青木淳悟",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi127_aoki/",
+   "publishedAt": "2012-07-18"
+  },
+  {
+   "id": "s110",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第110回：蜂谷涼",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi110_hachiya/",
+   "publishedAt": "2010-12-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "個人的な体験",
+    "author": "大江健三郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "万延元年のフットボール",
+    "author": "大江健三郎",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上春樹",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "スーパーマーケットまでの旅",
+    "author": "上杉昌子",
+    "subtitle": "高級スーパー、デパート食料品売場ほど面白いところはない",
+    "publisher": "コスモの本",
+    "edition": "COSMO BOOKS"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "ピアノの音",
+    "author": "庄野潤三",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "アンネの日記 海外留学生受け入れ日誌",
+    "author": "大原敏行"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "ズッコケ恐怖体験",
+    "author": "那須正幹",
+    "publisher": "ポプラ社",
+    "edition": "ポプラ社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aoki",
+   "sourceId": "s127",
+   "book": {
+    "title": "神の子どもたちはみな踊る",
+    "author": "村上春樹",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "徳川家康",
+    "author": "山岡荘八",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "苺をつぶしながら",
+    "author": "田辺聖子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "お目にかかれて満足です",
+    "author": "田辺聖子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "五瓣の椿",
+    "author": "山本周五郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "おさん",
+    "author": "山本周五郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "いよよ華やぐ 上",
+    "author": "瀬戸内寂聴",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "花衣ぬぐやまつわる… 上",
+    "author": "田辺聖子",
+    "subtitle": "わが愛の杉田久女",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "女人源氏物語",
+    "author": "瀬戸内寂聴",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hachiya",
+   "sourceId": "s110",
+   "book": {
+    "title": "雷桜",
+    "author": "宇江佐真理",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

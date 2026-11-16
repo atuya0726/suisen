@@ -1,0 +1,754 @@
+{
+ "people": [
+  {
+   "id": "p68",
+   "name": "有川浩",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p69",
+   "name": "乙一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p70",
+   "name": "米澤穂信",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p71",
+   "name": "近藤史恵",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p72",
+   "name": "宮本昌孝",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p73",
+   "name": "宮田珠己",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p74",
+   "name": "万城目学",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s68",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第68回：有川浩",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi68.html"
+  },
+  {
+   "id": "s69",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第69回：乙一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi69.html"
+  },
+  {
+   "id": "s70",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第70回：米澤穂信",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi70.html"
+  },
+  {
+   "id": "s71",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第71回：近藤史恵",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi71.html"
+  },
+  {
+   "id": "s72",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第72回：宮本昌孝",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi72.html"
+  },
+  {
+   "id": "s73",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第73回：宮田珠己",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi73.html"
+  },
+  {
+   "id": "s74",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第74回：万城目学",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi74.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "星へ行く船",
+    "author": "新井素子",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "妖精作戦",
+    "author": "笹本祐一",
+    "publisher": "朝日ソノラマ",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "光の帝国 常野物語",
+    "author": "恩田陸",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "レベル7",
+    "author": "宮部みゆき",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "誰も知らない小さな国",
+    "author": "佐藤さとる",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "はなはなみんみ物語",
+    "author": "わたりむつこ",
+    "publisher": "リブリオ出版",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p68",
+   "sourceId": "s68",
+   "book": {
+    "title": "大草原の小さな家",
+    "author": "ローラ・インガルス・ワイルダー",
+    "publisher": "福音館書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "ザンヤルマの剣士",
+    "author": "麻生俊平",
+    "publisher": "富士見書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "シーラという子",
+    "author": "トリイ・ヘイデン",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "愛",
+    "author": "ウラジーミル・ソローキン",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "百年の孤独",
+    "author": "ガルシア=マルケス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "シナリオ入門",
+    "author": "",
+    "publisher": "宝島社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "盗賊たちの狂詩曲",
+    "author": "山本弘",
+    "publisher": "富士見書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "サイバーナイト 上",
+    "author": "山本弘",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "それいけズッコケ三人組",
+    "author": "那須正幹",
+    "publisher": "ポプラ社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "名たんていカメラちゃん",
+    "author": "ディビッド・アドラー",
+    "publisher": "国土社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p69",
+   "sourceId": "s69",
+   "book": {
+    "title": "はてしない物語 上",
+    "author": "ミヒャエル・エンデ",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "宇宙戦争",
+    "author": "H・G・ウェルズ",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "なぜ、エヴァンズに頼まなかったのか？",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "死のロングウォーク",
+    "author": "スティーヴン・キング",
+    "publisher": "扶桑社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "煙の殺意",
+    "author": "泡坂妻夫",
+    "publisher": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "妖女のねむり",
+    "author": "泡坂妻夫",
+    "publisher": "角川春樹事務所"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "蓬莱学園の犯罪！",
+    "author": "新城十馬"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "ペリペティアの福音 上",
+    "author": "秋山完",
+    "publisher": "ソノラマ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "向日葵の咲かない夏",
+    "author": "道尾秀介",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p70",
+   "sourceId": "s70",
+   "book": {
+    "title": "新釈 走れメロス 他四篇",
+    "author": "森見登美彦",
+    "publisher": "祥伝社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "虚無への供物 上",
+    "author": "中井英夫",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "戻り川心中",
+    "author": "連城三紀彦",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "日々の泡",
+    "author": "ボリス・ヴィアン",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "湖底のまつり",
+    "author": "泡坂妻夫",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "乱れからくり",
+    "author": "泡坂妻夫",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "子供にしてあげたお話してあげなかったお話",
+    "author": "岸田今日子",
+    "publisher": "大和書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "喰人鬼の噴水",
+    "author": "立原えりか",
+    "publisher": "思潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "生ける屍の死",
+    "author": "山口雅也",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "双頭の悪魔",
+    "author": "有栖川有栖",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p71",
+   "sourceId": "s71",
+   "book": {
+    "title": "バイバイ、エンジェル ラルース家殺人事件",
+    "author": "笠井潔",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p72",
+   "sourceId": "s72",
+   "book": {
+    "title": "罪と罰 上",
+    "author": "ドストエフスキー",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p72",
+   "sourceId": "s72",
+   "book": {
+    "title": "パルムの僧院 上",
+    "author": "スタンダール",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p72",
+   "sourceId": "s72",
+   "book": {
+    "title": "シャドー81",
+    "author": "ルシアン・ネイハム",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "高丘親王航海記",
+    "author": "澁澤龍彦",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "奇景の図像学",
+    "author": "中野美代子",
+    "publisher": "角川春樹事務所"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "〈エグゾティスム〉に関する試論/羈旅",
+    "author": "ヴィクトル・セガレン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "全東洋街道 上",
+    "author": "藤原新也",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "貧困旅行記",
+    "author": "つげ義春",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "第一阿房列車",
+    "author": "内田百閒",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "崩れ",
+    "author": "幸田文",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "園芸家12カ月",
+    "author": "カレル・チャペック",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "類推の山",
+    "author": "ルネ・ドーマル",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p73",
+   "sourceId": "s73",
+   "book": {
+    "title": "ボートの三人男",
+    "author": "ジェローム・K・ジェローム",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "徳川家康",
+    "author": "山岡荘八",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "花神 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "鹽壺の匙",
+    "author": "車谷長吉",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "夫婦茶碗",
+    "author": "町田康",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "壁",
+    "author": "安部公房",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "深夜特急",
+    "author": "沢木耕太郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "坊っちゃん",
+    "author": "夏目漱石",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "三国志",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "宮本武蔵",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p74",
+   "sourceId": "s74",
+   "book": {
+    "title": "車のいろは空のいろ",
+    "author": "あまんきみこ",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

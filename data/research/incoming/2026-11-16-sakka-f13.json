@@ -1,0 +1,355 @@
+{
+ "people": [
+  {
+   "id": "honjo",
+   "name": "本城雅人",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ooshima",
+   "name": "大島真寿美",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fujioka",
+   "name": "藤岡陽子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sato",
+   "name": "佐藤賢一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_honjo",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第172回：本城雅人",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi172_honjo/",
+   "publishedAt": "2016-05-18"
+  },
+  {
+   "id": "s_ooshima",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第106回：大島真寿美",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi106_ooshima/",
+   "publishedAt": "2010-08-25"
+  },
+  {
+   "id": "s_fujioka",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第146回：藤岡陽子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi146_fujioka/",
+   "publishedAt": "2014-03-19"
+  },
+  {
+   "id": "s_sato",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第85回：佐藤賢一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi085_sato/",
+   "publishedAt": "2008-11-26"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "敗れざる者たち",
+    "author": "沢木耕太郎",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "一瞬の夏 上",
+    "author": "沢木耕太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "テロリストのパラソル",
+    "author": "藤原伊織",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "顔に降りかかる雨",
+    "author": "桐野夏生",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "倒錯のロンド",
+    "author": "折原一",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "ワイルド・ソウル 上",
+    "author": "垣根涼介",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "パレード",
+    "author": "吉田修一",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "honjo",
+   "sourceId": "s_honjo",
+   "book": {
+    "title": "オリンピックの身代金 上",
+    "author": "奥田英朗",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ooshima",
+   "sourceId": "s_ooshima",
+   "book": {
+    "title": "桃尻娘",
+    "author": "橋本治",
+    "publisher": "ポプラ社",
+    "edition": "ポプラ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ooshima",
+   "sourceId": "s_ooshima",
+   "book": {
+    "title": "ビッチマグネット",
+    "author": "舞城王太郎",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ooshima",
+   "sourceId": "s_ooshima",
+   "book": {
+    "title": "モグラ原っぱのなかまたち",
+    "author": "古田足日",
+    "publisher": "あかね書房",
+    "edition": "日本の創作児童文学選"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ooshima",
+   "sourceId": "s_ooshima",
+   "book": {
+    "title": "ピカピカのぎろちょん",
+    "author": "佐野美津男",
+    "publisher": "復刊ドットコム"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "長くつ下のピッピ",
+    "author": "アストリッド・リンドグレーン",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "やかまし村の子どもたち",
+    "author": "アストリッド・リンドグレーン",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "本格小説 上",
+    "author": "水村美苗",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "深夜特急",
+    "author": "沢木耕太郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "グレートジャーニー",
+    "author": "関野吉晴",
+    "publisher": "筑摩書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "葡萄と郷愁",
+    "author": "宮本輝",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "青が散る 上",
+    "author": "宮本輝",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "トラッシュ",
+    "author": "山田詠美",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "何者",
+    "author": "朝井リョウ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujioka",
+   "sourceId": "s_fujioka",
+   "book": {
+    "title": "塩狩峠",
+    "author": "三浦綾子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sato",
+   "sourceId": "s_sato",
+   "book": {
+    "title": "若きウェルテルの悩み",
+    "author": "ゲーテ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sato",
+   "sourceId": "s_sato",
+   "book": {
+    "title": "三銃士 上",
+    "author": "アレクサンドル・デュマ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sato",
+   "sourceId": "s_sato",
+   "book": {
+    "title": "国盗り物語",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sato",
+   "sourceId": "s_sato",
+   "book": {
+    "title": "ガリア戦記",
+    "author": "カエサル",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

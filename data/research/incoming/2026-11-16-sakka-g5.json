@@ -1,0 +1,489 @@
+{
+ "people": [
+  {
+   "id": "p54",
+   "name": "桜庭一樹",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p55",
+   "name": "豊島ミホ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p56",
+   "name": "小池真理子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p57",
+   "name": "中村航",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p58",
+   "name": "小山薫堂",
+   "title": "放送作家・作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p59",
+   "name": "法月綸太郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p60",
+   "name": "中原昌也",
+   "title": "作家・ミュージシャン",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s54",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第54回：桜庭一樹",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi54.html"
+  },
+  {
+   "id": "s55",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第55回：豊島ミホ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi55.html"
+  },
+  {
+   "id": "s56",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第56回：小池真理子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi56.html"
+  },
+  {
+   "id": "s57",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第57回：中村航",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi57.html"
+  },
+  {
+   "id": "s58",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第58回：小山薫堂",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi58.html"
+  },
+  {
+   "id": "s59",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第59回：法月綸太郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi59.html"
+  },
+  {
+   "id": "s60",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第60回：中原昌也",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi60.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "デミアン",
+    "author": "ヘルマン・ヘッセ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "月と六ペンス",
+    "author": "サマセット・モーム",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "百年の孤独",
+    "author": "ガルシア・マルケス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "少年は荒野をめざす",
+    "author": "吉野朔実",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "パラレル・ワールド・ラブストーリー",
+    "author": "東野圭吾",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "むかし僕が死んだ家",
+    "author": "東野圭吾",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "パウラ",
+    "author": "イザベル・アジェンデ",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "半身",
+    "author": "サラ・ウォーターズ",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "火刑法廷",
+    "author": "ジョン・ディクスン・カー",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p54",
+   "sourceId": "s54",
+   "book": {
+    "title": "赤目四十八瀧心中未遂",
+    "author": "車谷長吉",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p55",
+   "sourceId": "s55",
+   "book": {
+    "title": "ももいろのきりん",
+    "author": "中川李枝子",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p55",
+   "sourceId": "s55",
+   "book": {
+    "title": "少女ケニヤ",
+    "author": "かわかみじゅんこ",
+    "publisher": "祥伝社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p55",
+   "sourceId": "s55",
+   "book": {
+    "title": "蹴りたい背中",
+    "author": "綿矢りさ",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p55",
+   "sourceId": "s55",
+   "book": {
+    "title": "gift",
+    "author": "古川日出男",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p55",
+   "sourceId": "s55",
+   "book": {
+    "title": "イルカ",
+    "author": "よしもとばなな",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p56",
+   "sourceId": "s56",
+   "book": {
+    "title": "赤毛のアン",
+    "author": "モンゴメリ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p56",
+   "sourceId": "s56",
+   "book": {
+    "title": "春の雪",
+    "author": "三島由紀夫",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p56",
+   "sourceId": "s56",
+   "book": {
+    "title": "天人五衰",
+    "author": "三島由紀夫",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p56",
+   "sourceId": "s56",
+   "book": {
+    "title": "獣の戯れ",
+    "author": "三島由紀夫",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p56",
+   "sourceId": "s56",
+   "book": {
+    "title": "愛の渇き",
+    "author": "三島由紀夫",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p56",
+   "sourceId": "s56",
+   "book": {
+    "title": "悲しみよこんにちは",
+    "author": "フランソワーズ・サガン",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p57",
+   "sourceId": "s57",
+   "book": {
+    "title": "次郎物語",
+    "author": "下村湖人",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p58",
+   "sourceId": "s58",
+   "book": {
+    "title": "小僧の神様",
+    "author": "志賀直哉",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p58",
+   "sourceId": "s58",
+   "book": {
+    "title": "中原中也詩集",
+    "author": "中原中也",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p58",
+   "sourceId": "s58",
+   "book": {
+    "title": "野口英世",
+    "author": "浜野卓也",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "エルマーのぼうけん",
+    "author": "ルース・スタイルス・ガネット",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "シャーロック・ホームズ氏の素敵な冒険",
+    "author": "ニコラス・メイヤー",
+    "publisher": "扶桑社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "アブナー伯父の事件簿",
+    "author": "M.D.ポースト",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "エラリー・クイーンの冒険",
+    "author": "エラリー・クイーン",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "占星術殺人事件",
+    "author": "島田荘司",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "亜愛一郎の狼狽",
+    "author": "泡坂妻夫",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "運命の八分休符",
+    "author": "連城三紀彦",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "存在論的、郵便的",
+    "author": "東浩紀",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p59",
+   "sourceId": "s59",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p60",
+   "sourceId": "s60",
+   "book": {
+    "title": "世界のオカルト文学幻想文学総解説",
+    "author": "由良君美",
+    "publisher": "自由国民社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p60",
+   "sourceId": "s60",
+   "book": {
+    "title": "超SF映画",
+    "author": "中子真治",
+    "publisher": "奇想天外社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p60",
+   "sourceId": "s60",
+   "book": {
+    "title": "エロチック街道",
+    "author": "筒井康隆",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

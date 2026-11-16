@@ -1,0 +1,451 @@
+{
+ "people": [
+  {
+   "id": "kubodera",
+   "name": "久保寺健彦",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nitadori",
+   "name": "似鳥鶏",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "okazaki",
+   "name": "岡崎琢磨",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hoshino",
+   "name": "星野智幸",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s198",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第198回：久保寺健彦",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi198_kubodera/",
+   "publishedAt": "2018-09-22"
+  },
+  {
+   "id": "s187",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第187回：似鳥鶏",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi187_nitadori/",
+   "publishedAt": "2017-10-18"
+  },
+  {
+   "id": "s181",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第181回：岡崎琢磨",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi181_okazaki/",
+   "publishedAt": "2017-03-15"
+  },
+  {
+   "id": "s104",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第104回：星野智幸",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi104_hoshino/",
+   "publishedAt": "2010-06-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "どくとるマンボウ青春記",
+    "author": "北杜夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "宮本武蔵",
+    "author": "吉川英治",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "ライ麦畑でつかまえて",
+    "author": "J.D.サリンジャー",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "アメリカの鳥",
+    "author": "メアリー・マッカーシー",
+    "publisher": "河出書房新社",
+    "edition": "池澤夏樹=個人編集 世界文学全集2"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "眠れるラプンツェル",
+    "author": "山本文緒",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "悪霊 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "書きあぐねている人のための小説入門",
+    "author": "保坂和志",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "ゲームデザイン脳",
+    "subtitle": "桝田省治の発想とワザ",
+    "author": "桝田省治",
+    "publisher": "技術評論社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "親指Pの修業時代",
+    "author": "松浦理英子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kubodera",
+   "sourceId": "s198",
+   "book": {
+    "title": "結婚式のメンバー",
+    "author": "カーソン・マッカラーズ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "どくとるマンボウ",
+    "author": "北杜夫",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "夢の木坂分岐点",
+    "author": "筒井康隆",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "朝のガスパール",
+    "author": "筒井康隆",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "残像に口紅を",
+    "author": "筒井康隆",
+    "publisher": "中央公論社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "虚人たち",
+    "author": "筒井康隆",
+    "publisher": "中央公論社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "夜と霧の隅で",
+    "author": "北杜夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "春琴抄",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "金田一少年の事件簿",
+    "author": "さとう ふみや",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "ぼくらの七日間戦争",
+    "author": "宗田理",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nitadori",
+   "sourceId": "s187",
+   "book": {
+    "title": "BUTTER",
+    "author": "柚木麻子",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "恋文",
+    "author": "連城三紀彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "さよなら妖精",
+    "author": "米澤穂信",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "秋の花",
+    "author": "北村薫",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "三四郎",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "ZOO 1",
+    "author": "乙一",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "王とサーカス",
+    "author": "米澤穂信",
+    "publisher": "東京創元社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "八月の六日間",
+    "author": "北村薫",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "遠い唇",
+    "author": "北村薫",
+    "publisher": "KADOKAWA"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "ソロモンの偽証",
+    "author": "宮部みゆき"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "s181",
+   "book": {
+    "title": "透明カメレオン",
+    "author": "道尾秀介",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshino",
+   "sourceId": "s104",
+   "book": {
+    "title": "白痴 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshino",
+   "sourceId": "s104",
+   "book": {
+    "title": "百年の孤独",
+    "author": "ガブリエル・ガルシア=マルケス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshino",
+   "sourceId": "s104",
+   "book": {
+    "title": "蜘蛛女のキス",
+    "author": "マヌエル・プイグ",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshino",
+   "sourceId": "s104",
+   "book": {
+    "title": "めくるめく世界",
+    "author": "レイナルド・アレナス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshino",
+   "sourceId": "s104",
+   "book": {
+    "title": "岬一郎の抵抗",
+    "author": "半村良"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshino",
+   "sourceId": "s104",
+   "book": {
+    "title": "高い城の男",
+    "author": "フィリップ・K・ディック",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

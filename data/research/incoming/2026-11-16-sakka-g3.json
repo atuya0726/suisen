@@ -1,0 +1,1031 @@
+{
+ "people": [
+  {
+   "id": "p35",
+   "name": "モブ・ノリオ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p36",
+   "name": "恩田陸",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p37",
+   "name": "角田光代",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p38",
+   "name": "平安寿子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p39",
+   "name": "辻内智貴",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p40",
+   "name": "絲山秋子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p41",
+   "name": "中場利一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p42",
+   "name": "垣根涼介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p43",
+   "name": "荻原浩",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p44",
+   "name": "吉村萬壱",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s35",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第35回：モブ・ノリオ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi35.html"
+  },
+  {
+   "id": "s36",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第36回：恩田陸",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi36.html"
+  },
+  {
+   "id": "s37",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第37回：角田光代",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi37.html"
+  },
+  {
+   "id": "s38",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第38回：平安寿子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi38.html"
+  },
+  {
+   "id": "s39",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第39回：辻内智貴",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi39.html"
+  },
+  {
+   "id": "s40",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第40回：絲山秋子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi40.html"
+  },
+  {
+   "id": "s41",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第41回：中場利一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi41.html"
+  },
+  {
+   "id": "s42",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第42回：垣根涼介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi42.html"
+  },
+  {
+   "id": "s43",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第43回：荻原浩",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi43.html"
+  },
+  {
+   "id": "s44",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第44回：吉村萬壱",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi44.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "車輪の下",
+    "author": "ヘッセ",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "坊ちゃん",
+    "author": "夏目漱石"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "頭の中がカユいんだ",
+    "author": "中島らも",
+    "publisher": "双葉社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "未確認尾行物体",
+    "author": "島田雅彦",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "ピンチランナー調書",
+    "author": "大江健三郎",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "くっすん大黒",
+    "author": "町田康",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p35",
+   "sourceId": "s35",
+   "book": {
+    "title": "ミヒャエル・コールハースの運命",
+    "author": "クライスト"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "チョコレート工場の秘密",
+    "author": "ロアルド・ダール",
+    "publisher": "評論社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "虚無への供物 上",
+    "author": "中井英夫",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "巴里の空の下オムレツのにおいは流れる",
+    "author": "石井好子",
+    "publisher": "暮しの手帖社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "宇宙からの帰還",
+    "author": "立花隆",
+    "publisher": "中央公論新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "アレクサンドリア四重奏 1 ジュスティーヌ",
+    "author": "ロレンス・ダレル",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "後宮小説",
+    "author": "酒見賢一",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "アルキメデスは手を汚さない",
+    "author": "小峰元",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "地獄の家",
+    "author": "リチャード・マシスン",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "ファイアスターター 上",
+    "author": "スティーブン・キング",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p36",
+   "sourceId": "s36",
+   "book": {
+    "title": "IT 1",
+    "author": "スティーブン・キング",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "ちいさいモモちゃん",
+    "author": "松谷みよ子",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "いやいやえん",
+    "author": "中川李枝子",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "冥途",
+    "author": "内田百閒",
+    "publisher": "パロル舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "サラサーテの盤",
+    "author": "内田百閒",
+    "publisher": "筑摩書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "輝ける闇",
+    "author": "開高健",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "カラフル",
+    "author": "森絵都",
+    "publisher": "理論社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "永遠の出口",
+    "author": "森絵都",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "火車",
+    "author": "宮部みゆき",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p37",
+   "sourceId": "s37",
+   "book": {
+    "title": "ガープの世界 上",
+    "author": "ジョン・アーヴィング",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "もしかして聖人",
+    "author": "アン・タイラー",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "白痴",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "罪と罰",
+    "author": "ドストエフスキー",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "桃尻娘",
+    "author": "橋本治",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "唐獅子株式会社",
+    "author": "小林信彦",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "オヨヨ大統領",
+    "author": "小林信彦",
+    "publisher": "筑摩書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "黒馬物語",
+    "author": "アンナ・シューエル",
+    "publisher": "文園社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "百年の誤読",
+    "author": "岡野宏文",
+    "publisher": "ぴあ"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p38",
+   "sourceId": "s38",
+   "book": {
+    "title": "のだめカンタービレ",
+    "author": "二ノ宮知子",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "坂の上の雲",
+    "author": "司馬遼太郎",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "三四郎",
+    "author": "夏目漱石",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "坊っちゃん",
+    "author": "夏目漱石"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "父の詫び状",
+    "author": "向田邦子",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "点と線",
+    "author": "松本清張",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "ザ・スタンド 1",
+    "author": "スティーブン・キング",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p39",
+   "sourceId": "s39",
+   "book": {
+    "title": "一瞬の光",
+    "author": "白石一文",
+    "publisher": "角川書店"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "夜の果ての旅 1",
+    "author": "ルイ・フェルディナン・セリーヌ",
+    "publisher": "中央公論新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "北回帰線",
+    "author": "ヘンリー・ミラー",
+    "publisher": "水声社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "心変わり",
+    "author": "ミシェル・ビュトール",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "アレクサンドリア四重奏 1",
+    "author": "ロレンス・ダレル",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "虫とけものと家族たち",
+    "author": "ジェラルド・ダレル",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "フリスビーおばさんとニムの家ねずみ",
+    "author": "ロバート C.オブライエン",
+    "publisher": "中央公論新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "巴里の空の下オムレツのにおいは流れる",
+    "author": "石井好子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "ジャスミン",
+    "author": "辻原登",
+    "publisher": "文藝春秋"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "黒い皮膚・白い仮面",
+    "author": "フランツ・ファノン",
+    "publisher": "みすず書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p40",
+   "sourceId": "s40",
+   "book": {
+    "title": "荻窪風土記",
+    "author": "井伏鱒二",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p41",
+   "sourceId": "s41",
+   "book": {
+    "title": "燃えよ剣",
+    "author": "司馬遼太郎",
+    "publisher": "文藝春秋"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p41",
+   "sourceId": "s41",
+   "book": {
+    "title": "竜馬がゆく",
+    "author": "司馬遼太郎",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p41",
+   "sourceId": "s41",
+   "book": {
+    "title": "新選組血風録",
+    "author": "司馬遼太郎",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p41",
+   "sourceId": "s41",
+   "book": {
+    "title": "鉄道員",
+    "author": "浅田次郎",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p41",
+   "sourceId": "s41",
+   "book": {
+    "title": "新宿 1965－97",
+    "author": "渡辺克巳",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p41",
+   "sourceId": "s41",
+   "book": {
+    "title": "バガボンド",
+    "author": "井上雄彦",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "月と六ペンス",
+    "author": "モーム",
+    "publisher": "岩波書店"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "スティル・ライフ",
+    "author": "池澤夏樹",
+    "publisher": "中央公論新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "イリュージョン",
+    "author": "リチャード・バック",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "さらば、山のカモメよ",
+    "author": "丸山健二"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "戦争の犬たち",
+    "author": "フレデリック・フォーサイス",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "悪党パーカー",
+    "author": "リチャード・スターク",
+    "publisher": "早川書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "ラブ・ストーリーを読む老人",
+    "author": "ルイス・セプルベダ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p42",
+   "sourceId": "s42",
+   "book": {
+    "title": "不夜城",
+    "author": "馳星周"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "ドグラ・マグラ",
+    "author": "夢野久作"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "アルジャーノンに花束を",
+    "author": "ダニエル・キイス",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "マイク・ハマーへ伝言",
+    "author": "矢作俊彦",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "スローターハウス5",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "ガープの世界",
+    "author": "ジョン・アーヴィング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "コインロッカー・ベイビーズ 上",
+    "author": "村上龍",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "愛と幻想のファシズム 上",
+    "author": "村上龍",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "ハピネス",
+    "author": "ウィル・ファーガソン",
+    "publisher": "アーティストハウス"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "空中ブランコ",
+    "author": "奥田英朗",
+    "publisher": "文藝春秋"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p43",
+   "sourceId": "s43",
+   "book": {
+    "title": "野ブタ。をプロデュース",
+    "author": "白岩玄",
+    "publisher": "河出書房新社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "砂の女",
+    "author": "安部公房",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "ガラス玉演戯",
+    "author": "ヘルマン・ヘッセ",
+    "publisher": "ブッキング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "罪と罰",
+    "author": "ドストエフスキー",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "戦争と平和",
+    "author": "トルストイ",
+    "publisher": "東海大学出版会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "砂の城",
+    "author": "アイリス・マードック"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "赤目四十八瀧心中未遂",
+    "author": "車谷長吉",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "最後の物たちの国で",
+    "author": "ポール・オースター",
+    "publisher": "白水社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "嘔吐",
+    "author": "サルトル",
+    "publisher": "人文書院"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "魔の山 上",
+    "author": "トーマス・マン",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p44",
+   "sourceId": "s44",
+   "book": {
+    "title": "ペスト",
+    "author": "カミュ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

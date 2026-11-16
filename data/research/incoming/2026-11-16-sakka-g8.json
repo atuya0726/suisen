@@ -1,0 +1,642 @@
+{
+ "people": [
+  {
+   "id": "hanamura",
+   "name": "花村萬月",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sakaki",
+   "name": "坂木司",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "kishi",
+   "name": "貴志祐介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "michio",
+   "name": "道尾秀介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nakajima",
+   "name": "中島京子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hatakenaka",
+   "name": "畠中恵",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "shanamura",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第75回：花村萬月",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi75.html"
+  },
+  {
+   "id": "ssakaki",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第76回：坂木司",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi76.html"
+  },
+  {
+   "id": "skishi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第77回：貴志祐介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi77.html"
+  },
+  {
+   "id": "smichio",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第78回：道尾秀介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi78.html"
+  },
+  {
+   "id": "snakajima",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第79回：中島京子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi79.html"
+  },
+  {
+   "id": "shatakenaka",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第80回：畠中恵",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi80.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hanamura",
+   "sourceId": "shanamura",
+   "book": {
+    "title": "北の海 上",
+    "author": "井上靖",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hanamura",
+   "sourceId": "shanamura",
+   "book": {
+    "title": "中央アジア探検記",
+    "author": "ヘディン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hanamura",
+   "sourceId": "shanamura",
+   "book": {
+    "title": "骨餓身峠死人葛",
+    "author": "野坂昭如",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hanamura",
+   "sourceId": "shanamura",
+   "book": {
+    "title": "亜空間要塞",
+    "author": "半村良",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hanamura",
+   "sourceId": "shanamura",
+   "book": {
+    "title": "くノ一忍法帖",
+    "author": "山田風太郎",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "あんず林のどろぼう",
+    "author": "立原えりか",
+    "publisher": "岩崎書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "ぼくの動物園日記",
+    "author": "飯森広一",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "三つ目がとおる",
+    "author": "手塚治虫",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "ナルニア国物語",
+    "author": "C.S.ルイス",
+    "publisher": "岩波書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "六の宮の姫君",
+    "author": "北村薫",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "ハイペリオン 上",
+    "author": "ダン・シモンズ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "マルドゥック・スクランブル",
+    "author": "冲方丁",
+    "edition": "ハヤカワ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "深夜特急",
+    "author": "沢木耕太郎",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "ぬいぐるみ団オドキンズ",
+    "author": "ディーン・R.クーンツ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakaki",
+   "sourceId": "ssakaki",
+   "book": {
+    "title": "からくりサーカス",
+    "author": "藤田和日郎",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "エルマーのぼうけん",
+    "author": "ルース・スタイルス・ガネット",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "ドリトル先生",
+    "author": "ヒュー・ロフティング",
+    "publisher": "岩波書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "デイヴィッド・コパフィールド",
+    "author": "ディケンズ",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "三国志",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "地球の長い午後",
+    "author": "ブライアン・W・オールディス",
+    "edition": "ハヤカワ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "渚にて",
+    "author": "ネビル・シュート",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "ジャッカルの日",
+    "author": "フレデリック・フォーサイス",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "利己的な遺伝子",
+    "author": "リチャード・ドーキンス",
+    "publisher": "紀伊国屋書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "虚航船団",
+    "author": "筒井康隆",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "skishi",
+   "book": {
+    "title": "世界の終りとハードボイルド・ワンダーランド 上",
+    "author": "村上春樹",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "雪国",
+    "author": "川端康成",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "怖い絵",
+    "author": "久世光彦",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "夏草の記憶",
+    "author": "トマス・H.クック",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "戻り川心中",
+    "author": "連城三紀彦",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "怪奇小説という題名の怪奇小説",
+    "author": "都筑道夫",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "エミール 上",
+    "author": "ルソー",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "ぶらんこ乗り",
+    "author": "いしいしんじ",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "michio",
+   "sourceId": "smichio",
+   "book": {
+    "title": "水の舳先",
+    "author": "玄侑宗久",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "あいうえお絵本",
+    "author": "まどみちお",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "鏡の国のアリス",
+    "author": "ルーイス・キャロル",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "段階",
+    "author": "ミシェル・ビュトール",
+    "publisher": "竹内書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "ぼさつ日記",
+    "author": "倉多江美",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "日の名残り",
+    "author": "カズオ・イシグロ",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "存在の耐えられない軽さ",
+    "author": "ミラン・クンデラ",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "タマや",
+    "author": "金井美恵子",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "小春日和",
+    "author": "金井美恵子",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "死刑執行人サンソン",
+    "author": "安達正勝",
+    "edition": "集英社新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakajima",
+   "sourceId": "snakajima",
+   "book": {
+    "title": "木のぼり男爵",
+    "author": "イタロ・カルヴィーノ",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "イルスの竪琴",
+    "author": "パトリシア・A・マキリップ",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "なめくじ長屋捕物さわぎ",
+    "author": "都筑道夫",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "IT",
+    "author": "スティーヴン・キング",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "ストリート・キッズ",
+    "author": "ドン・ウィンズロウ",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "ニッポニア・ニッポン",
+    "author": "杉浦日向子",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "黒後家蜘蛛の会",
+    "author": "アイザック・アシモフ",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "我らが隣人の犯罪",
+    "author": "宮部みゆき",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "半七捕物帳",
+    "author": "岡本綺堂"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatakenaka",
+   "sourceId": "shatakenaka",
+   "book": {
+    "title": "夜のピクニック",
+    "author": "恩田陸",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

@@ -1,0 +1,471 @@
+{
+ "people": [
+  {
+   "id": "hatano",
+   "name": "畑野智美",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "masuno",
+   "name": "枡野浩一",
+   "title": "歌人・作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "suga",
+   "name": "須賀しのぶ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "maeda",
+   "name": "前田司郎",
+   "title": "作家・劇作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s138",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第138回：畑野智美",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi138_hatano/",
+   "publishedAt": "2013-06-19"
+  },
+  {
+   "id": "s086",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第86回：枡野浩一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi086_masuno/",
+   "publishedAt": "2008-12-24"
+  },
+  {
+   "id": "s126",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第126回：須賀しのぶ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi126_suga/",
+   "publishedAt": "2012-06-20"
+  },
+  {
+   "id": "s103",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第103回：前田司郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi103_maeda/",
+   "publishedAt": "2010-05-26"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "うる星やつら",
+    "author": "高橋留美子",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "タッチ",
+    "author": "あだち充",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "車のいろは空のいろ 白いぼうし",
+    "author": "あまんきみこ",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "天使の卵",
+    "subtitle": "エンジェルス・エッグ",
+    "author": "村山由佳",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "きらきらひかる",
+    "author": "江國香織",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "方法序説・情念論",
+    "author": "デカルト",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "ハチミツとクローバー",
+    "author": "羽海野チカ",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "マイナス・ゼロ",
+    "author": "広瀬正",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "hatano",
+   "sourceId": "s138",
+   "book": {
+    "title": "時をかける少女",
+    "author": "筒井康隆",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "ウホッホ探険隊",
+    "author": "干刈あがた",
+    "publisher": "朝日新聞社",
+    "edition": "朝日文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "天国の水族館",
+    "author": "新井千裕"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "走れ,タカハシ!",
+    "author": "村上龍",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "ファニーフェイスの死",
+    "author": "林真理子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "サヤカ",
+    "author": "松野大介",
+    "publisher": "マガジンハウス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "パレード",
+    "author": "吉田修一",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "もうひとつの季節",
+    "author": "保坂和志",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "虚無への供物 上",
+    "author": "中井英夫",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "ママはテンパリスト",
+    "author": "東村アキコ",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "masuno",
+   "sourceId": "s086",
+   "book": {
+    "title": "800",
+    "author": "川島誠",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "ハンカチの上の花畑",
+    "author": "安房直子",
+    "publisher": "あかね書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "三国志",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "はいからさんが通る",
+    "author": "大和和紀",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "銀の海 金の大地",
+    "author": "氷室冴子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "トニオ・クレーゲル ヴェニスに死す",
+    "author": "トーマス・マン",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "第三帝国の興亡 1 アドルフ・ヒトラーの台頭",
+    "author": "ウィリアム・L・シャイラー",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "背教者ユリアヌス 上",
+    "author": "辻邦生",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "文明の衝突",
+    "author": "サミュエル・P・ハンチントン",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "悪童日記",
+    "author": "アゴタ・クリストフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suga",
+   "sourceId": "s126",
+   "book": {
+    "title": "ヴェネツィアの宿",
+    "author": "須賀敦子",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "赤毛のアン",
+    "author": "ルーシー・モード・モンゴメリ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "タッチ",
+    "author": "あだち充",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "ヒトは狩人だった",
+    "author": "福島章",
+    "publisher": "青土社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "あやしい探検隊 焚火発見伝",
+    "author": "椎名誠",
+    "publisher": "小学館",
+    "edition": "小学館文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "美食倶楽部",
+    "subtitle": "谷崎潤一郎大正作品集",
+    "author": "谷崎潤一郎",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "水滸伝",
+    "author": "北方謙三",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "s103",
+   "book": {
+    "title": "ねないこだれだ",
+    "author": "せなけいこ",
+    "publisher": "福音館書店"
+   },
+   "context": "最近読んだ"
+  }
+ ],
+ "checkedUrls": []
+}

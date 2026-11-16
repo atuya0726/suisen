@@ -1,0 +1,493 @@
+{
+ "people": [
+  {
+   "id": "p147",
+   "name": "小山田浩子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p195",
+   "name": "伊吹有喜",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p105",
+   "name": "平山瑞穂",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p199",
+   "name": "瀧羽麻子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s147",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第147回：小山田浩子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi147_oyamada/",
+   "publishedAt": "2014-04-16"
+  },
+  {
+   "id": "s195",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第195回：伊吹有喜",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi195_ibuki/",
+   "publishedAt": "2018-06-23"
+  },
+  {
+   "id": "s105",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第105回：平山瑞穂",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi105_hirayama/",
+   "publishedAt": "2010-07-28"
+  },
+  {
+   "id": "s199",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第199回：瀧羽麻子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi199_takiwa/",
+   "publishedAt": "2018-10-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "緑の家 上",
+    "author": "バルガス=リョサ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "剣客商売",
+    "author": "池波正太郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "古典落語",
+    "author": "興津要",
+    "publisher": "講談社",
+    "edition": "講談社学術文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "発作的座談会",
+    "author": "椎名誠"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "くだもの王国",
+    "author": "さとうち藍",
+    "publisher": "岩崎書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "吾輩は猫である 上",
+    "author": "夏目漱石",
+    "publisher": "講談社",
+    "edition": "講談社青い鳥文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "文芸漫談",
+    "author": "いとうせいこう"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "若い小説家に宛てた手紙",
+    "author": "バルガス=リョサ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "君は永遠にそいつらより若い",
+    "author": "津村記久子",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p147",
+   "sourceId": "s147",
+   "book": {
+    "title": "ミュージック・ブレス・ユー！！",
+    "author": "津村記久子",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "詩集 小さなユリと",
+    "author": "黒田三郎",
+    "publisher": "夏葉社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "掌の小説",
+    "author": "川端康成"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "軽蔑",
+    "author": "中上健次"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "一夢庵風流記",
+    "author": "隆慶一郎",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "花と火の帝 上",
+    "author": "隆慶一郎",
+    "publisher": "日本経済新聞出版",
+    "edition": "日経文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "眠狂四郎無頼控",
+    "author": "柴田錬三郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "古典落語",
+    "author": "興津要",
+    "publisher": "講談社",
+    "edition": "講談社学術文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "よみたい万葉集",
+    "author": "松岡文",
+    "publisher": "西日本出版社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "古文研究法",
+    "author": "小西甚一",
+    "publisher": "筑摩書房",
+    "edition": "ちくま学芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p195",
+   "sourceId": "s195",
+   "book": {
+    "title": "亡命ロシア料理",
+    "author": "ピョートル・ワイリ",
+    "publisher": "未知谷"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "ライ麦畑でつかまえて",
+    "author": "J.D.サリンジャー",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上春樹",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "杳子・妻隠",
+    "author": "古井由吉",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "カラマーゾフの兄弟",
+    "author": "ドストエフスキー",
+    "publisher": "光文社",
+    "edition": "光文社古典新訳文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "城",
+    "author": "カフカ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "ゲド戦記",
+    "author": "アーシュラ・K.ル=グウィン",
+    "publisher": "岩波書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "バーデンハイム1939",
+    "author": "アハロン・アッペルフェルド",
+    "publisher": "みすず書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "奇病連盟",
+    "author": "北杜夫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "レベッカ 上",
+    "author": "ダフネ・デュ・モーリア",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p105",
+   "sourceId": "s105",
+   "book": {
+    "title": "大いなる遺産 上",
+    "author": "ディケンズ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "ミーナの行進",
+    "author": "小川洋子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "神様",
+    "author": "川上弘美",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "人質の朗読会",
+    "author": "小川洋子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "不時着する流星たち",
+    "author": "小川洋子",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "ミュージック・ブレス・ユー！！",
+    "author": "津村記久子",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "有頂天家族",
+    "author": "森見登美彦",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "雪沼とその周辺",
+    "author": "堀江敏幸",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "鳩の撃退法 上",
+    "author": "佐藤正午",
+    "publisher": "小学館",
+    "edition": "小学館文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "それまでの明日",
+    "author": "原尞",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p199",
+   "sourceId": "s199",
+   "book": {
+    "title": "私が殺した少女",
+    "author": "原尞",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫JA"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

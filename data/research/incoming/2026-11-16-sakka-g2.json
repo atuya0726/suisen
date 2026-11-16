@@ -1,0 +1,1301 @@
+{
+ "people": [
+  {
+   "id": "g2p20",
+   "name": "片山恭一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p21",
+   "name": "山本一力",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p22",
+   "name": "本多孝好",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p23",
+   "name": "村山由佳",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p24",
+   "name": "横山秀夫",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p25",
+   "name": "大崎善生",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p26",
+   "name": "貫井徳郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p27",
+   "name": "歌野晶午",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p28",
+   "name": "吉田修一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p29",
+   "name": "小川洋子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p30",
+   "name": "金原ひとみ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p31",
+   "name": "伊坂幸太郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p32",
+   "name": "青木るえか",
+   "title": "エッセイスト・書評家",
+   "tags": []
+  },
+  {
+   "id": "g2p33",
+   "name": "三浦しをん",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "g2p34",
+   "name": "あさのあつこ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "g2s20",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第20回：片山恭一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi20.html"
+  },
+  {
+   "id": "g2s21",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第21回：山本一力",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi21.html"
+  },
+  {
+   "id": "g2s22",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第22回：本多孝好",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi22.html"
+  },
+  {
+   "id": "g2s23",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第23回：村山由佳",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi23.html"
+  },
+  {
+   "id": "g2s24",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第24回：横山秀夫",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi24.html"
+  },
+  {
+   "id": "g2s25",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第25回：大崎善生",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi25.html"
+  },
+  {
+   "id": "g2s26",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第26回：貫井徳郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi26.html"
+  },
+  {
+   "id": "g2s27",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第27回：歌野晶午",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi27.html"
+  },
+  {
+   "id": "g2s28",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第28回：吉田修一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi28.html"
+  },
+  {
+   "id": "g2s29",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第29回：小川洋子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi29.html"
+  },
+  {
+   "id": "g2s30",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第30回：金原ひとみ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi30.html"
+  },
+  {
+   "id": "g2s31",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第31回：伊坂幸太郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi31.html"
+  },
+  {
+   "id": "g2s32",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第32回：青木るえか",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi32.html"
+  },
+  {
+   "id": "g2s33",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第33回：三浦しをん",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi33.html"
+  },
+  {
+   "id": "g2s34",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第34回：あさのあつこ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi34.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "芽むしり仔撃ち",
+    "author": "大江健三郎",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "栖",
+    "author": "古井由吉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "親",
+    "author": "古井由吉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "槿",
+    "author": "古井由吉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "日はまた昇る",
+    "author": "ヘミングウェイ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "岬",
+    "author": "チャールズ・ダンブロジオ",
+    "publisher": "早川書房"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p20",
+   "sourceId": "g2s20",
+   "book": {
+    "title": "海辺の家",
+    "author": "メイ・サートン",
+    "publisher": "みすず書房"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p21",
+   "sourceId": "g2s21",
+   "book": {
+    "title": "かげろう絵図",
+    "author": "松本清張",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p21",
+   "sourceId": "g2s21",
+   "book": {
+    "title": "天保図録 上",
+    "author": "松本清張",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p21",
+   "sourceId": "g2s21",
+   "book": {
+    "title": "ジャッカルの日",
+    "author": "フレデリック・フォーサイス",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p21",
+   "sourceId": "g2s21",
+   "book": {
+    "title": "ケインとアベル",
+    "author": "ジェフリー・アーチャー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p21",
+   "sourceId": "g2s21",
+   "book": {
+    "title": "ホテル",
+    "author": "アーサー・ヘイリー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "ダンス・ダンス・ダンス",
+    "author": "村上春樹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "コインロッカー・ベイビーズ",
+    "author": "村上龍"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "69",
+    "author": "村上龍"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "愛と幻想のファシズム",
+    "author": "村上龍"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "怒りの葡萄 上",
+    "author": "ジョン・スタインベック",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "死ぬ時はひとりぼっち",
+    "author": "レイ・ブラッドベリ",
+    "edition": "扶桑社ミステリー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "長いお別れ",
+    "author": "レイモンド・チャンドラー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "さむけ",
+    "author": "ロス・マクドナルド"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p22",
+   "sourceId": "g2s22",
+   "book": {
+    "title": "エジプト十字架の謎",
+    "author": "エラリー・クイーン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p23",
+   "sourceId": "g2s23",
+   "book": {
+    "title": "ごんぎつね",
+    "author": "新美南吉",
+    "publisher": "偕成社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p23",
+   "sourceId": "g2s23",
+   "book": {
+    "title": "みどりのゆび",
+    "author": "モーリス・ドリュオン",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p23",
+   "sourceId": "g2s23",
+   "book": {
+    "title": "お月さんももいろ",
+    "author": "松谷みよ子",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p23",
+   "sourceId": "g2s23",
+   "book": {
+    "title": "豚の死なない日",
+    "author": "ロバート・ニュートン・ペック"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p24",
+   "sourceId": "g2s24",
+   "book": {
+    "title": "君たちはどう生きるか",
+    "author": "吉野源三郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p24",
+   "sourceId": "g2s24",
+   "book": {
+    "title": "二十四の瞳",
+    "author": "壷井栄"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p24",
+   "sourceId": "g2s24",
+   "book": {
+    "title": "支店長はなぜ死んだか",
+    "author": "上前淳一郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p24",
+   "sourceId": "g2s24",
+   "book": {
+    "title": "黄色い部屋の秘密",
+    "author": "ガストン・ルルー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p24",
+   "sourceId": "g2s24",
+   "book": {
+    "title": "鎮火報",
+    "author": "日明恩",
+    "publisher": "講談社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "坊っちゃん",
+    "author": "夏目漱石",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "異邦人",
+    "author": "カミュ",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "ユービック",
+    "author": "フィリップ・K・ディック",
+    "edition": "ハヤカワ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "アンドロイドは電気羊の夢を見るか?",
+    "author": "フィリップ・K・ディック",
+    "edition": "ハヤカワ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "母なる夜",
+    "author": "カート・ヴォネガット",
+    "publisher": "白水社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "猫のゆりかご",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "スローターハウス5",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "ガープの世界 上",
+    "author": "ジョン・アーヴィング",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上春樹",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p25",
+   "sourceId": "g2s25",
+   "book": {
+    "title": "ノルウェイの森 上",
+    "author": "村上春樹",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "813の謎",
+    "author": "モーリス・ルブラン",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "シャーロック・ホームズの冒険",
+    "author": "コナン・ドイル",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "死霊狩り",
+    "author": "平井和正",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "占星術殺人事件",
+    "author": "島田荘司",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "生ける屍の死",
+    "author": "山口雅也",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "魍魎の匣",
+    "author": "京極夏彦",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "群青の夜の羽毛布",
+    "author": "山本文緒"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "恋愛中毒",
+    "author": "山本文緒",
+    "publisher": "角川書店"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p26",
+   "sourceId": "g2s26",
+   "book": {
+    "title": "グロテスク",
+    "author": "桐野夏生",
+    "publisher": "講談社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p27",
+   "sourceId": "g2s27",
+   "book": {
+    "title": "ゆかいなヘンリーくん",
+    "author": "ベバリイ・クリアリー",
+    "publisher": "学習研究所",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p27",
+   "sourceId": "g2s27",
+   "book": {
+    "title": "幻の女",
+    "author": "ウィリアム・アイリッシュ",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p27",
+   "sourceId": "g2s27",
+   "book": {
+    "title": "あした天気にしておくれ",
+    "author": "岡嶋二人",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p27",
+   "sourceId": "g2s27",
+   "book": {
+    "title": "占星術殺人事件",
+    "author": "島田荘司",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p27",
+   "sourceId": "g2s27",
+   "book": {
+    "title": "GOTH",
+    "author": "乙一",
+    "publisher": "角川書店"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p28",
+   "sourceId": "g2s28",
+   "book": {
+    "title": "ボードレール詩集",
+    "author": "ボードレール",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p28",
+   "sourceId": "g2s28",
+   "book": {
+    "title": "ポルトガルの海",
+    "author": "フェルナンド・ペソア",
+    "publisher": "彩流社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p28",
+   "sourceId": "g2s28",
+   "book": {
+    "title": "不穏の書、断章",
+    "author": "フェルナンド・ペソア"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p28",
+   "sourceId": "g2s28",
+   "book": {
+    "title": "ヴェネツィア・水の迷宮の夢",
+    "author": "ヨシフ・ブロツキー",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p28",
+   "sourceId": "g2s28",
+   "book": {
+    "title": "オアシス",
+    "author": "生田紗代",
+    "publisher": "河出書房新社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "アンネの日記",
+    "author": "アンネ・フランク",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "愛の生活",
+    "author": "金井美恵子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "ムーン・パレス",
+    "author": "ポール・オースター"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "夜と霧 新版",
+    "author": "ヴィクトール・E・フランクル",
+    "publisher": "みすず書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "宮廷の道化師たち",
+    "author": "アヴィグドル・ダガン",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "思い出のアンネ・フランク",
+    "author": "ミープ・ヒース"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "灰色の輝ける贈り物",
+    "author": "アリステア・マクラウド",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "巡礼者たち",
+    "author": "エリザベス・ギルバート",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "停電の夜に",
+    "author": "ジュンパ・ラヒリ",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p29",
+   "sourceId": "g2s29",
+   "book": {
+    "title": "西瓜糖の日々",
+    "author": "リチャード・ブローティガン",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p30",
+   "sourceId": "g2s30",
+   "book": {
+    "title": "コインロッカー・ベイビーズ 上",
+    "author": "村上龍",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p30",
+   "sourceId": "g2s30",
+   "book": {
+    "title": "ベッドタイムアイズ・指の戯れ・ジェシーの背骨",
+    "author": "山田詠美",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p30",
+   "sourceId": "g2s30",
+   "book": {
+    "title": "血と骨 上",
+    "author": "梁石日",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p30",
+   "sourceId": "g2s30",
+   "book": {
+    "title": "闇の子供たち",
+    "author": "梁石日",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p30",
+   "sourceId": "g2s30",
+   "book": {
+    "title": "ファンキー!",
+    "author": "松尾スズキ",
+    "subtitle": "宇宙は見える所までしかない",
+    "publisher": "白水社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p30",
+   "sourceId": "g2s30",
+   "book": {
+    "title": "大人失格",
+    "author": "松尾スズキ",
+    "subtitle": "子供に生まれてスミマセン",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "北の夕鶴2/3の殺人",
+    "author": "島田荘司",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "上弦の月を喰べる獅子 上",
+    "author": "夢枕獏",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "叫び声",
+    "author": "大江健三郎",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "ホテル・ニューハンプシャー 上",
+    "author": "ジョン・アーヴィング",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "槿",
+    "author": "古井由吉",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "さすらう雨のかかし",
+    "author": "丸山健二",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "イラハイ",
+    "author": "佐藤哲也",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "戦争の法",
+    "author": "佐藤亜紀",
+    "publisher": "ブッキング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "殺しのリスト",
+    "author": "ローレンス・ブロック",
+    "publisher": "二見書房"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p31",
+   "sourceId": "g2s31",
+   "book": {
+    "title": "甘美なる来世へ",
+    "author": "T・R・ピアソン",
+    "publisher": "みすず書房"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "血族",
+    "author": "山口瞳",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "虚無への供物 上",
+    "author": "中井英夫",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "邪宗門",
+    "author": "高橋和巳"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "日日雑記",
+    "author": "武田百合子",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "遊覧日記",
+    "author": "武田百合子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "小説中華そば「江ぐち」",
+    "author": "久住昌之",
+    "edition": "新潮OH!文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "天才伝説横山やすし",
+    "author": "小林信彦",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "雪舞い",
+    "author": "芝木好子",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "宿命",
+    "author": "高沢皓司",
+    "subtitle": "「よど号」亡命者たちの秘密工作",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p32",
+   "sourceId": "g2s32",
+   "book": {
+    "title": "次郎物語 上",
+    "author": "下村湖人",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "長くつ下のピッピ",
+    "author": "アストリッド・リンドグレーン",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "飛ぶ教室",
+    "author": "エーリッヒ・ケストナー",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "光車よ、まわれ!",
+    "author": "天沢退二郎",
+    "publisher": "ブッキング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "水の家族",
+    "author": "丸山健二",
+    "publisher": "求龍堂"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "世界の終りとハードボイルド・ワンダーランド",
+    "author": "村上春樹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "虚無への供物 上",
+    "author": "中井英夫",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "絶叫城殺人事件",
+    "author": "有栖川有栖",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p33",
+   "sourceId": "g2s33",
+   "book": {
+    "title": "神聖喜劇",
+    "author": "大西巨人",
+    "publisher": "光文社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p34",
+   "sourceId": "g2s34",
+   "book": {
+    "title": "バスカヴィル家の犬",
+    "author": "コナン・ドイル",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p34",
+   "sourceId": "g2s34",
+   "book": {
+    "title": "誰も知らない小さな国",
+    "author": "佐藤さとる",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p34",
+   "sourceId": "g2s34",
+   "book": {
+    "title": "天使で大地はいっぱいだ",
+    "author": "後藤竜二",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p34",
+   "sourceId": "g2s34",
+   "book": {
+    "title": "花のあと",
+    "author": "藤沢周平",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "g2p34",
+   "sourceId": "g2s34",
+   "book": {
+    "title": "独航記",
+    "author": "辺見庸",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

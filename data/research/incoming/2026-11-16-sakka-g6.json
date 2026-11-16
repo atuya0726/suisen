@@ -1,0 +1,790 @@
+{
+ "people": [
+  {
+   "id": "p61",
+   "name": "折原みと",
+   "title": "漫画家・作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p62",
+   "name": "夏石鈴子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p63",
+   "name": "高野秀行",
+   "title": "ノンフィクション作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p64",
+   "name": "阿部和重",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p65",
+   "name": "森見登美彦",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p66",
+   "name": "柳美里",
+   "title": "作家・劇作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p67",
+   "name": "永井するみ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s61",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第61回：折原みと",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi61.html"
+  },
+  {
+   "id": "s62",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第62回：夏石鈴子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi62.html"
+  },
+  {
+   "id": "s63",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第63回：高野秀行",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi63.html"
+  },
+  {
+   "id": "s64",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第64回：阿部和重",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi64.html"
+  },
+  {
+   "id": "s65",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第65回：森見登美彦",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi65.html"
+  },
+  {
+   "id": "s66",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第66回：柳美里",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi66.html"
+  },
+  {
+   "id": "s67",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第67回：永井するみ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi67.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "泣いた赤おに",
+    "author": "浜田廣介",
+    "publisher": "偕成社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "ごんぎつね",
+    "author": "新美南吉",
+    "publisher": "偕成社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "ゲンのいた谷",
+    "author": "長崎源之助",
+    "publisher": "実業之日本社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "ふたりのイーダ",
+    "author": "松谷みよ子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "愛と死をみつめて",
+    "author": "大島みち子",
+    "publisher": "大和書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "夏への扉",
+    "author": "ロバート・A・ハインライン",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "ナルニア国ものがたり",
+    "author": "C.S.ルイス",
+    "publisher": "岩波書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "風神の門 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "梟の城",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p61",
+   "sourceId": "s61",
+   "book": {
+    "title": "明日の記憶",
+    "author": "荻原浩",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "赤い蝋燭と人魚",
+    "author": "小川未明",
+    "publisher": "偕成社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "赤毛のアン",
+    "author": "モンゴメリ",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上春樹",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "ブリージング・レッスン",
+    "author": "アン・タイラー",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "どれくらいの愛情",
+    "author": "白石一文",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "ナショナル・ストーリー・プロジェクト",
+    "author": "ポール・オースター",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "不細工な友情",
+    "author": "光浦靖子",
+    "publisher": "幻冬舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p62",
+   "sourceId": "s62",
+   "book": {
+    "title": "ピアノ・サンド",
+    "author": "平田俊子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "なぜなに世界の大怪獣",
+    "author": "",
+    "publisher": "小学館",
+    "edition": "なぜなに学習図鑑"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "ブンナよ、木からおりてこい",
+    "author": "水上勉",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "エルマーとりゅう",
+    "author": "ルース・スタイルス・ガネット",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "日本の伝説",
+    "author": "松谷みよ子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "隠し剣孤影抄",
+    "author": "藤沢周平",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "たそがれ清兵衛",
+    "author": "藤沢周平",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "青春を山に賭けて",
+    "author": "植村直己",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "東京漂流",
+    "author": "藤原新也",
+    "publisher": "朝日新聞社",
+    "edition": "朝日文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "百年の孤独",
+    "author": "ガブリエル・ガルシア=マルケス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p63",
+   "sourceId": "s63",
+   "book": {
+    "title": "均ちゃんの失踪",
+    "author": "中島京子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "ソウルファイティング 魂の武器",
+    "author": "ブルース・リー",
+    "publisher": "福昌堂"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "空の怪物アグイー",
+    "author": "大江健三郎",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "洪水はわが魂に及び 上",
+    "author": "大江健三郎",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "ヴァリス",
+    "author": "フィリップ・K・ディック",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "虎よ、虎よ！",
+    "author": "アルフレッド・ベスター",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "神聖喜劇 第1巻",
+    "author": "大西巨人",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "挟み撃ち",
+    "author": "後藤明生",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "ロビンソン・クルーソー 上",
+    "author": "ダニエル・デフォー",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "言葉と物",
+    "author": "ミシェル・フーコー",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p64",
+   "sourceId": "s64",
+   "book": {
+    "title": "奇蹟",
+    "author": "中上健次",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "ラ・タ・タ・タム",
+    "author": "ペーター・ニクル",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "ぼくはくまのままでいたかったのに",
+    "author": "イエルク・シュタイナー",
+    "publisher": "ほるぷ出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "海底二万海里 上",
+    "author": "ジュール・ベルヌ",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "冥途・旅順入城式",
+    "author": "内田百間",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "カラマーゾフの兄弟 1",
+    "author": "ドストエフスキー",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "ソラリスの陽のもとに",
+    "author": "スタニスワフ・レム",
+    "publisher": "ハヤカワ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "苦い林檎酒",
+    "author": "ピーター・ラヴゼイ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "たのしいムーミン一家",
+    "author": "トーベ・ヤンソン",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p65",
+   "sourceId": "s65",
+   "book": {
+    "title": "めぞん一刻",
+    "author": "高橋留美子",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "アラビアン・ナイト 1",
+    "author": "前嶋信次",
+    "publisher": "平凡社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "ナルニア国ものがたり",
+    "author": "C.S.ルイス",
+    "publisher": "岩波書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "雨月物語",
+    "author": "上田秋成",
+    "publisher": "角川学芸出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "罪と罰 上",
+    "author": "ドストエフスキー",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "車輪の下",
+    "author": "ヘッセ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "白河夜船",
+    "author": "吉本ばなな",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "指輪物語",
+    "author": "J.R.R.トールキン",
+    "publisher": "評論社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "ゲド戦記",
+    "author": "アーシュラ・K・ル=グウィン",
+    "publisher": "岩波書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p66",
+   "sourceId": "s66",
+   "book": {
+    "title": "世界の終りとハードボイルド・ワンダーランド 上",
+    "author": "村上春樹",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "ファニおばさんと動物たち",
+    "author": "ウィルトルート・ローザー",
+    "publisher": "偕成社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "群青の湖",
+    "author": "芝木好子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "雪舞い",
+    "author": "芝木好子",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "神鳥",
+    "author": "篠田節子",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "白い夏の墓標",
+    "author": "帚木蓬生",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "11の物語",
+    "author": "パトリシア・ハイスミス",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "ボーン・コレクター 上",
+    "author": "ジェフリー・ディーヴァー",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "女彫刻家",
+    "author": "ミネット・ウォルターズ",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "顔に降りかかる雨",
+    "author": "桐野夏生",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p67",
+   "sourceId": "s67",
+   "book": {
+    "title": "天使に見捨てられた夜",
+    "author": "桐野夏生",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

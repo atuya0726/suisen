@@ -1,0 +1,502 @@
+{
+ "people": [
+  {
+   "id": "miyashita",
+   "name": "宮下奈都",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nakawaki",
+   "name": "中脇初枝",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "kato",
+   "name": "加藤千恵",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "koshigaya",
+   "name": "越谷オサム",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s109",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第109回：宮下奈都",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi109_miyashita/",
+   "publishedAt": "2010-11-24"
+  },
+  {
+   "id": "s171",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第171回：中脇初枝",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi171_nakawaki/",
+   "publishedAt": "2016-04-20"
+  },
+  {
+   "id": "s133",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第133回：加藤千恵",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi133_kato/",
+   "publishedAt": "2013-01-16"
+  },
+  {
+   "id": "s97",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第97回：越谷オサム",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi097_koshigaya/",
+   "publishedAt": "2009-11-25"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "だれも知らない小さな国",
+    "subtitle": "コロボックル物語 1",
+    "author": "佐藤さとる",
+    "publisher": "講談社",
+    "edition": "講談社青い鳥文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "細雪",
+    "author": "谷崎潤一郎",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "柳橋物語・むかしも今も",
+    "author": "山本周五郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "伊豆の踊子",
+    "author": "川端康成",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "万延元年のフットボール",
+    "author": "大江健三郎",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "最後の息子",
+    "author": "吉田修一",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "阿修羅ガール",
+    "author": "舞城王太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "袋小路の男",
+    "author": "絲山秋子",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "遊動亭円木",
+    "author": "辻原登",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyashita",
+   "sourceId": "s109",
+   "book": {
+    "title": "魔王",
+    "author": "伊坂幸太郎",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "小さい魔女",
+    "author": "オトフリート・プロイスラー",
+    "publisher": "学研プラス",
+    "edition": "新しい世界の童話シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "ライオンと魔女",
+    "subtitle": "ナルニア国ものがたり 1",
+    "author": "C.S.ルイス",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "遠野物語",
+    "author": "柳田国男"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "古事記",
+    "author": "倉野憲司",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "坑夫",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "銃・病原菌・鉄 上",
+    "subtitle": "1万3000年にわたる人類史の謎",
+    "author": "ジャレド・ダイアモンド",
+    "publisher": "草思社",
+    "edition": "草思社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "赤い高粱",
+    "author": "莫言",
+    "publisher": "岩波書店",
+    "edition": "岩波現代文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "子どもへのまなざし",
+    "author": "佐々木正美",
+    "publisher": "福音館書店",
+    "edition": "福音館の単行本"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "幻の光",
+    "author": "宮本輝",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakawaki",
+   "sourceId": "s171",
+   "book": {
+    "title": "アップルソング",
+    "author": "小手鞠るい"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "宇宙のみなしご",
+    "author": "森絵都",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "落下する夕方",
+    "author": "江國香織",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "キッチン",
+    "author": "吉本ばなな",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "てのりくじら",
+    "subtitle": "枡野浩一短歌集 1",
+    "author": "枡野浩一",
+    "publisher": "実業之日本社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "いちばんここに似合う人",
+    "author": "ミランダ・ジュライ",
+    "publisher": "新潮社",
+    "edition": "新潮クレスト・ブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "エースをねらえ!",
+    "author": "山本鈴美香",
+    "publisher": "ホーム社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "天使なんかじゃない",
+    "author": "矢沢あい",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "ふくわらい",
+    "author": "西加奈子",
+    "publisher": "朝日新聞出版"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "ここは退屈迎えに来て",
+    "author": "山内マリコ",
+    "publisher": "幻冬舎"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s133",
+   "book": {
+    "title": "東京ガールズブラボー",
+    "author": "岡崎京子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "ぽっぺん先生と帰らずの沼",
+    "author": "舟崎克彦",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "悪魔のいる天国",
+    "author": "星新一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "冒険者たち",
+    "subtitle": "ガンバと十五ひきの仲間",
+    "author": "斎藤惇夫",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "岳物語",
+    "author": "椎名誠",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "からっぽ男の休暇",
+    "author": "いとうせいこう"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "青春デンデケデケデケ",
+    "author": "芦原すなお",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "深夜の弁明",
+    "author": "清水義範",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "鉄塔 武蔵野線",
+    "author": "銀林みのる",
+    "publisher": "ソフトバンククリエイティブ",
+    "edition": "ソフトバンク文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "クライマーズ・ハイ",
+    "author": "横山秀夫",
+    "publisher": "文藝春秋"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "koshigaya",
+   "sourceId": "s97",
+   "book": {
+    "title": "太陽の塔",
+    "author": "森見登美彦",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

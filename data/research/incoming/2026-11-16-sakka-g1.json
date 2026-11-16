@@ -1,0 +1,1163 @@
+{
+ "people": [
+  {
+   "id": "k3",
+   "name": "藤田宜永",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k4",
+   "name": "岩井志麻子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k5",
+   "name": "北方謙三",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k6",
+   "name": "金城一紀",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k7",
+   "name": "川上弘美",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k8",
+   "name": "綿矢りさ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k9",
+   "name": "長嶋有",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k10",
+   "name": "石田衣良",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k11",
+   "name": "唯川恵",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k12",
+   "name": "奥田英朗",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k13",
+   "name": "東野圭吾",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k14",
+   "name": "戸梶圭太",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k15",
+   "name": "目黒考二",
+   "title": "書評家（北上次郎）・「本の雑誌」顧問",
+   "tags": []
+  },
+  {
+   "id": "k16",
+   "name": "森絵都",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k17",
+   "name": "北村薫",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k18",
+   "name": "みうらじゅん",
+   "title": "イラストレーター・エッセイスト",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "k19",
+   "name": "椎名誠",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s3",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第3回：藤田宜永",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi03.html"
+  },
+  {
+   "id": "s4",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第4回：岩井志麻子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi04.html"
+  },
+  {
+   "id": "s5",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第5回：北方謙三",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi05.html"
+  },
+  {
+   "id": "s6",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第6回：金城一紀",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi06.html"
+  },
+  {
+   "id": "s7",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第7回：川上弘美",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi07.html"
+  },
+  {
+   "id": "s8",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第8回：綿矢りさ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi08.html"
+  },
+  {
+   "id": "s9",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第9回：長嶋有",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi09.html"
+  },
+  {
+   "id": "s10",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第10回：石田衣良",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi10.html"
+  },
+  {
+   "id": "s11",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第11回：唯川恵",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi11.html"
+  },
+  {
+   "id": "s12",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第12回：奥田英朗",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi12.html"
+  },
+  {
+   "id": "s13",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第13回：東野圭吾",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi13.html"
+  },
+  {
+   "id": "s14",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第14回：戸梶圭太",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi14.html"
+  },
+  {
+   "id": "s15",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第15回：目黒考二",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi15.html"
+  },
+  {
+   "id": "s16",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第16回：森絵都",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi16.html"
+  },
+  {
+   "id": "s17",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第17回：北村薫",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi17.html"
+  },
+  {
+   "id": "s18",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第18回：みうらじゅん",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi18.html"
+  },
+  {
+   "id": "s19",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第19回：椎名誠",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi19.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "k3",
+   "sourceId": "s3",
+   "book": {
+    "title": "プラトニック・セックス",
+    "author": "飯島愛",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k3",
+   "sourceId": "s3",
+   "book": {
+    "title": "北回帰線",
+    "author": "ヘンリー・ミラー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k3",
+   "sourceId": "s3",
+   "book": {
+    "title": "寝台の舟",
+    "author": "吉行淳之介",
+    "edition": "ロマンブックス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k4",
+   "sourceId": "s4",
+   "book": {
+    "title": "黒い報告書",
+    "author": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k5",
+   "sourceId": "s5",
+   "book": {
+    "title": "ヘンリ・ライクロフトの私記",
+    "author": "ギッシング",
+    "edition": "新潮文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k5",
+   "sourceId": "s5",
+   "book": {
+    "title": "岬",
+    "author": "中上健次",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k5",
+   "sourceId": "s5",
+   "book": {
+    "title": "モンテ・クリスト伯",
+    "author": "デュマ"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k5",
+   "sourceId": "s5",
+   "book": {
+    "title": "大菩薩峠",
+    "author": "中里介山"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "ブラックジャック",
+    "author": "手塚治虫",
+    "publisher": "秋田書店",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "郵便配達はいつも二度ベルを鳴らす",
+    "author": "ジェイムズ・M・ケイン",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "堕落論",
+    "author": "坂口安吾",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "麻雀放浪記",
+    "author": "阿佐田哲也",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "裸の王様・流亡記",
+    "author": "開高健",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "オーディン詩集",
+    "author": "オーデン",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "夏の約束",
+    "author": "藤野千夜"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k6",
+   "sourceId": "s6",
+   "book": {
+    "title": "バカとゴッホ",
+    "author": "加藤伸吉"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "中勘助・内田百閒集",
+    "author": "中勘助・内田百閒",
+    "publisher": "筑摩書房"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "路上の症候群",
+    "author": "松山巌"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "李白の月",
+    "author": "南伸坊"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "葉書でドナルド・エヴァンスに",
+    "author": "平出隆"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "バジル博士の優雅な生活",
+    "author": "坂田靖子",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "将太の寿司",
+    "author": "寺沢大介",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "特攻の拓",
+    "author": "佐木飛朗斗",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k7",
+   "sourceId": "s7",
+   "book": {
+    "title": "子供だけの町",
+    "author": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "風と共に去りぬ",
+    "author": "マーガレット・ミッチェル",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "レベッカ 上",
+    "author": "ダフネ・デュ・モーリア",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "言い寄る",
+    "author": "田辺聖子",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "キッチン",
+    "author": "吉本ばなな",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上春樹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "人間の屑",
+    "author": "町田康"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "クローディアの秘密",
+    "author": "カニグズバーグ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "はてしない物語",
+    "author": "ミヒャエル・エンデ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k8",
+   "sourceId": "s8",
+   "book": {
+    "title": "瞬きもせず",
+    "author": "紡木たく"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k9",
+   "sourceId": "s9",
+   "book": {
+    "title": "雪の峠・剣の舞",
+    "author": "岩明均",
+    "publisher": "講談社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k9",
+   "sourceId": "s9",
+   "book": {
+    "title": "路上の症候群",
+    "author": "松山巌",
+    "publisher": "中央公論新社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k9",
+   "sourceId": "s9",
+   "book": {
+    "title": "手塚治虫漫画40年",
+    "author": "",
+    "publisher": "秋田書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k9",
+   "sourceId": "s9",
+   "book": {
+    "title": "ハード・コア",
+    "author": "狩撫麻礼",
+    "publisher": "秋田書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k10",
+   "sourceId": "s10",
+   "book": {
+    "title": "地底世界ペルシダー",
+    "author": "エドガー・ライス・バロウズ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k10",
+   "sourceId": "s10",
+   "book": {
+    "title": "太陽の讃歌",
+    "author": "アルベール・カミュ",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k10",
+   "sourceId": "s10",
+   "book": {
+    "title": "要約すると",
+    "author": "サマセット・モーム",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k11",
+   "sourceId": "s11",
+   "book": {
+    "title": "初夜",
+    "author": "林真理子",
+    "publisher": "文藝春秋"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k11",
+   "sourceId": "s11",
+   "book": {
+    "title": "大阪の神々",
+    "author": "わかぎゑふ",
+    "publisher": "集英社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k11",
+   "sourceId": "s11",
+   "book": {
+    "title": "泳ぐのに、安全でも適切でもありません",
+    "author": "江國香織",
+    "publisher": "ホーム社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k11",
+   "sourceId": "s11",
+   "book": {
+    "title": "ぼくを探しに",
+    "author": "シェル・シルヴァスタイン",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k11",
+   "sourceId": "s11",
+   "book": {
+    "title": "フランダースの犬",
+    "author": "ウィーダ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k12",
+   "sourceId": "s12",
+   "book": {
+    "title": "どうでも良くないどうでもいいこと",
+    "author": "フラン・レボウィッツ",
+    "publisher": "晶文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k12",
+   "sourceId": "s12",
+   "book": {
+    "title": "嫌いなものは嫌い",
+    "author": "フラン・レボウィッツ",
+    "publisher": "晶文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k12",
+   "sourceId": "s12",
+   "book": {
+    "title": "永遠のジャック＆ベティ",
+    "author": "清水義範",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k12",
+   "sourceId": "s12",
+   "book": {
+    "title": "彌太郎さんの話",
+    "author": "山田太一",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k13",
+   "sourceId": "s13",
+   "book": {
+    "title": "あしたのジョー",
+    "author": "高森朝雄",
+    "edition": "シリーズ"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k13",
+   "sourceId": "s13",
+   "book": {
+    "title": "巨人の星",
+    "author": "梶原一騎",
+    "edition": "シリーズ"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k13",
+   "sourceId": "s13",
+   "book": {
+    "title": "アラビアの夜の種族",
+    "author": "古川日出男",
+    "publisher": "角川書店"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k13",
+   "sourceId": "s13",
+   "book": {
+    "title": "ダイスをころがせ！",
+    "author": "真保裕一",
+    "publisher": "毎日新聞社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "処刑軍団",
+    "author": "大藪春彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "Buried SPIRIT",
+    "author": "都築響一",
+    "publisher": "アスペクト"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "13のショック",
+    "author": "リチャード・マティスン",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "ダークサイド・オブ・ザ・ロック",
+    "author": "",
+    "publisher": "洋泉社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "別トータス松本",
+    "author": "トータス松本",
+    "publisher": "マガジンハウス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "ドリー・モートンの想い出",
+    "author": "アウタラー・マルダーン",
+    "publisher": "富士見書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k14",
+   "sourceId": "s14",
+   "book": {
+    "title": "ぼくのヴィヴィエ夫人",
+    "author": "ユーゴ・ソレンツァ",
+    "publisher": "富士見書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "刑事の誇り",
+    "author": "マイクル・Z・リューイン",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "底のない舟",
+    "author": "草森紳一"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "子どもの国からの挨拶",
+    "author": "今江祥智"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "未成年／行け帰ることなく",
+    "author": "春日井建"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "機械の中の幽霊",
+    "author": "アーサー・ケストラー",
+    "publisher": "筑摩書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "点と線",
+    "author": "松本清張"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "黄土の奔流",
+    "author": "生島治郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k15",
+   "sourceId": "s15",
+   "book": {
+    "title": "聖少女",
+    "author": "倉橋由美子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "ぶたぶたくんのおかいもの",
+    "author": "土方久功",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "コインロッカー・ベイビーズ",
+    "author": "村上龍"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "ぶらんこ乗り",
+    "author": "いしいしんじ",
+    "publisher": "理論社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "日の名残り",
+    "author": "カズオ・イシグロ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "穴 HOLES",
+    "author": "ルイス・サッカー",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "草のかんむり",
+    "author": "伊井直行"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "サマータイム",
+    "author": "佐藤多佳子",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "夏の庭",
+    "author": "湯本香樹実",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "象のダンス",
+    "author": "魚住直子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k16",
+   "sourceId": "s16",
+   "book": {
+    "title": "キッドナップ・ツアー",
+    "author": "角田光代",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k17",
+   "sourceId": "s17",
+   "book": {
+    "title": "トッパンの絵物語 イソップ 1",
+    "author": "イソップ",
+    "publisher": "トッパン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k17",
+   "sourceId": "s17",
+   "book": {
+    "title": "三国志物語",
+    "author": "園城寺健",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k17",
+   "sourceId": "s17",
+   "book": {
+    "title": "少年少女世界文学全集 ドイツ編 6",
+    "author": "ケストナー",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k18",
+   "sourceId": "s18",
+   "book": {
+    "title": "ゼロの焦点",
+    "author": "松本清張",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k18",
+   "sourceId": "s18",
+   "book": {
+    "title": "横尾忠則大全集",
+    "author": "横尾忠則"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k18",
+   "sourceId": "s18",
+   "book": {
+    "title": "プッシュ",
+    "author": "横尾忠則"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k18",
+   "sourceId": "s18",
+   "book": {
+    "title": "邪宗門",
+    "author": "高橋和己"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k18",
+   "sourceId": "s18",
+   "book": {
+    "title": "少年探偵団",
+    "author": "江戸川乱歩",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k18",
+   "sourceId": "s18",
+   "book": {
+    "title": "盲獣",
+    "author": "江戸川乱歩"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k19",
+   "sourceId": "s19",
+   "book": {
+    "title": "絵でみる比較の世界",
+    "author": "タイアグラム・グループ",
+    "publisher": "草思社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k19",
+   "sourceId": "s19",
+   "book": {
+    "title": "かくれた次元",
+    "author": "エドワード・ホール",
+    "publisher": "みすず書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "k19",
+   "sourceId": "s19",
+   "book": {
+    "title": "忘れられた島",
+    "author": "岩波映画製作所",
+    "publisher": "岩波書店",
+    "edition": "岩波写真文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k19",
+   "sourceId": "s19",
+   "book": {
+    "title": "スーホの白い馬",
+    "author": "大塚勇三",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "k19",
+   "sourceId": "s19",
+   "book": {
+    "title": "われらをめぐる海",
+    "author": "レーチェル・カースン"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "k19",
+   "sourceId": "s19",
+   "book": {
+    "title": "巨大生物図鑑",
+    "author": ""
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

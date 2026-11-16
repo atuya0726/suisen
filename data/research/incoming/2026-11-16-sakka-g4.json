@@ -1,0 +1,782 @@
+{
+ "people": [
+  {
+   "id": "kashima",
+   "name": "鹿島茂",
+   "title": "フランス文学者・作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "furukawa",
+   "name": "古川日出男",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hase",
+   "name": "馳星周",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nonaka",
+   "name": "野中ともそ",
+   "title": "作家・イラストレーター",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "shimamoto",
+   "name": "島本理生",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "yamamoto",
+   "name": "山本幸久",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ikegami",
+   "name": "池上永一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "machida",
+   "name": "町田康",
+   "title": "作家・ミュージシャン",
+   "tags": [
+    "作家",
+    "芸能"
+   ]
+  },
+  {
+   "id": "nishi",
+   "name": "西加奈子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "skashima",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第45回：鹿島茂",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi45.html"
+  },
+  {
+   "id": "sfurukawa",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第46回：古川日出男",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi46.html"
+  },
+  {
+   "id": "shase",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第47回：馳星周",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi47.html"
+  },
+  {
+   "id": "snonaka",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第48回：野中ともそ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi48.html"
+  },
+  {
+   "id": "sshimamoto",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第49回：島本理生",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi49.html"
+  },
+  {
+   "id": "syamamoto",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第50回：山本幸久",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi50.html"
+  },
+  {
+   "id": "sikegami",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第51回：池上永一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi51.html"
+  },
+  {
+   "id": "smachida",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第52回：町田康",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi52.html"
+  },
+  {
+   "id": "snishi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第53回：西加奈子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi53.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kashima",
+   "sourceId": "skashima",
+   "book": {
+    "title": "痴人の愛",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "ぼくらが非情の大河をくだる時",
+    "author": "清水邦夫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "百年の孤独",
+    "author": "マルケス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "真夜中の子供たち",
+    "author": "ラシュディ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "黒い時計の旅",
+    "author": "エリクソン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "悪魔祓い",
+    "author": "吉増剛造"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "象の消滅",
+    "author": "村上春樹",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "sfurukawa",
+   "book": {
+    "title": "遠い太鼓",
+    "author": "村上春樹",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "死霊狩り",
+    "author": "平井和正",
+    "publisher": "角川春樹事務所"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "さらば愛しき女よ",
+    "author": "チャンドラー",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "もっとも危険なゲーム",
+    "author": "ギャビン・ライアル"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "裂けて海峡",
+    "author": "志水辰夫",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "飢えて狼",
+    "author": "志水辰夫",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "暗殺者",
+    "author": "ロバート・ラドラム",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "ブルー・ベル",
+    "author": "アンドリュー・ヴァクス",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "ホワイト・ジャズ",
+    "author": "ジェイムズ・エルロイ",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "血の収穫",
+    "author": "ハメット",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hase",
+   "sourceId": "shase",
+   "book": {
+    "title": "琉球幻視行",
+    "author": "竹中労"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "小さなスプーンおばさん",
+    "author": "アルフ・プリョイセン",
+    "publisher": "学習研究社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "何かが道をやってくる",
+    "author": "レイ・ブラッドベリ",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "男おいどん",
+    "author": "松本零士",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "遠い声遠い部屋",
+    "author": "カポーティ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "夏の黄昏",
+    "author": "カーソン・マッカラーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "もうひとつの国",
+    "author": "ジェームズ・ボールドウィン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "限りなく透明に近いブルー",
+    "author": "村上龍",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "ムーン・パレス",
+    "author": "ポール・オースター",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nonaka",
+   "sourceId": "snonaka",
+   "book": {
+    "title": "西の魔女が死んだ",
+    "author": "梨木香歩",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "愛人(ラマン)",
+    "author": "マルグリット・デュラス",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "パンドラの匣",
+    "author": "太宰治",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "草の竪琴",
+    "author": "カポーティ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "遠い声遠い部屋",
+    "author": "カポーティ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "第四の手",
+    "author": "ジョン・アーヴィング",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "タイムクエイク",
+    "author": "カート・ヴォネガット",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "袋小路の男",
+    "author": "絲山秋子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "麦ふみクーツェ",
+    "author": "いしいしんじ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "薬指の標本",
+    "author": "小川洋子",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimamoto",
+   "sourceId": "sshimamoto",
+   "book": {
+    "title": "旅の終わりの音楽 上",
+    "author": "エリック・フォスネス・ハンセン",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "題未定",
+    "author": "小松左京",
+    "publisher": "角川春樹事務所"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "神獣聖戦",
+    "author": "山田正紀"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "夢の砦",
+    "author": "小林信彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "夢みるサイコ",
+    "author": "手塚真"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "小春日和",
+    "author": "金井美恵子",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "悪党たちのジャムセッション",
+    "author": "ドナルド・E・ウエストレイク",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "カエアンの聖衣",
+    "author": "バリントン・J・ベイリー",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "空獏",
+    "author": "北野勇作",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "本の雑誌血風録",
+    "author": "椎名誠",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "syamamoto",
+   "book": {
+    "title": "歌と饒舌の戦記",
+    "author": "筒井康隆"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikegami",
+   "sourceId": "sikegami",
+   "book": {
+    "title": "813の謎",
+    "author": "モーリス・ルブラン",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikegami",
+   "sourceId": "sikegami",
+   "book": {
+    "title": "伊波普猷全集",
+    "author": "伊波普猷",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikegami",
+   "sourceId": "sikegami",
+   "book": {
+    "title": "ベルカ、吠えないのか?",
+    "author": "古川日出男",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikegami",
+   "sourceId": "sikegami",
+   "book": {
+    "title": "アラビアの夜の種族",
+    "author": "古川日出男",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikegami",
+   "sourceId": "sikegami",
+   "book": {
+    "title": "未確認家族",
+    "author": "戸梶圭太",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "machida",
+   "sourceId": "smachida",
+   "book": {
+    "title": "わるいやつら 上",
+    "author": "松本清張",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "machida",
+   "sourceId": "smachida",
+   "book": {
+    "title": "骨肉の倫理",
+    "author": "石川達三"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "machida",
+   "sourceId": "smachida",
+   "book": {
+    "title": "ラブイユーズ",
+    "author": "バルザック",
+    "publisher": "藤原書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "machida",
+   "sourceId": "smachida",
+   "book": {
+    "title": "四十日と四十夜のメルヘン",
+    "author": "青木淳悟",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "machida",
+   "sourceId": "smachida",
+   "book": {
+    "title": "あやとりの記",
+    "author": "石牟礼道子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "青い眼がほしい",
+    "author": "トニ・モリスン",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "深い河",
+    "author": "遠藤周作",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "ムーン・パレス",
+    "author": "ポール・オースター",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "ホテル・ニューハンプシャー",
+    "author": "ジョン・アーヴィング",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "エドウィン・マルハウス",
+    "author": "スティーヴン・ミルハウザー",
+    "publisher": "白水社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "ホワイト・ティース",
+    "author": "ゼイディー・スミス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "東京タワー ~オカンとボクと、時々、オトン~",
+    "author": "リリー・フランキー",
+    "publisher": "扶桑社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishi",
+   "sourceId": "snishi",
+   "book": {
+    "title": "完訳 ファーブル昆虫記",
+    "author": "ジャン=アンリ・ファーブル",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}
