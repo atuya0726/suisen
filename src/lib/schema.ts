@@ -12,6 +12,7 @@ export const TAG_SLUGS = {
   スポーツ選手: "athlete",
   芸能: "entertainer",
   エンジニア: "engineer",
+  デザイナー: "designer",
   大学: "university",
   書店: "bookstore",
   選書家: "book-curator",

@@ -12185,8 +12185,8 @@
   },
   {
     "url": "https://zenn.dev/satoru_takeuchi/articles/b4d0b811874522",
-    "result": "rejected",
-    "reason": "本人の記事だが、本の著者名がページに無く、ハンドル名(sat)で実名の表記が無い",
+    "result": "adopted",
+    "reason": "sources.json の zenn",
     "person": "satoru takeuchi",
     "checkedAt": "2026-11-16"
   },
@@ -12236,8 +12236,8 @@
   },
   {
     "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
-    "result": "candidate",
-    "reason": "本人のスライドと思われるが今回は未読（テキスト取得に手数がかかる）",
+    "result": "adopted",
+    "reason": "sources.json の s-oohira",
     "person": "oohira",
     "checkedAt": "2026-11-16"
   },
@@ -12309,14 +12309,14 @@
   },
   {
     "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
-    "result": "unreachable",
-    "reason": "ハンドル名(yuki, sivchari)のため未読・対象外",
+    "result": "adopted",
+    "reason": "sources.json の fmy",
     "checkedAt": "2026-11-16"
   },
   {
     "url": "https://tech.findy.co.jp/entry/2024/09/13/090000",
-    "result": "rejected",
-    "reason": "Part1: 戸田・高橋・森の姓のみ・ハンドル併記で実名が確定しない",
+    "result": "adopted",
+    "reason": "sources.json の tb1",
     "checkedAt": "2026-11-16"
   },
   {
@@ -12427,8 +12427,8 @@
   },
   {
     "url": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
-    "result": "candidate",
-    "reason": "CTO眞鍋氏（名のみ未確認）。パタヘネ・蟻本・TAPL等。ページに著者名がなく今回は見送り",
+    "result": "adopted",
+    "reason": "sources.json の s-cureko",
     "person": "眞鍋",
     "checkedAt": "2026-11-16"
   },
@@ -12492,6 +12492,370 @@
     "url": "https://type.jp/et/feature/20727/",
     "result": "adopted",
     "reason": "sources.json の t2",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://azukiazusa.dev/blog/computer-it-books",
+    "result": "adopted",
+    "reason": "sources.json の s-azuki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://codezine.jp/news/detail/15157",
+    "result": "unreachable",
+    "reason": "取得時にbot対策のSecurity check画面が返り本文を読めない。和田卓人氏の4冊（モノリスからマイクロサービスへ、データ指向アプリケーションデザイン、LeanとDevOpsの科学、達人プログラマー第2版）は検索結果の要約のみで未確認",
+    "person": "和田卓人",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "MIXI 新卒研修の推薦図書リスト",
+    "result": "rejected",
+    "reason": "取得せず。会社としてのリスト想定で個人の推薦ではない（未検索）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/mesi/articles/671a08cabb4dfe",
+    "result": "rejected",
+    "reason": "書き手『MESI』は『よわよわエンジニア6年目』のみで素性不明",
+    "person": "MESI",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/dip_techblog/articles/dip-2022-07-28-engineer-recommended-books-2022",
+    "result": "rejected",
+    "reason": "書き手は『砂原』（姓のみ、dipテックリード）。名が分からず、冊数も技術書は3冊ほど",
+    "person": "砂原",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/cryptobox/articles/489a8985a7d7d1",
+    "result": "rejected",
+    "reason": "書き手cryptoboxの素性不明",
+    "person": "cryptobox",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://scrapbox.io/shimizukawa/%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E6%9B%B8%E7%B1%8D",
+    "result": "candidate",
+    "reason": "清水川氏のScrapbox『オススメ書籍』。ページがJS描画でAPIを使わず取得できなかった。内容未確認",
+    "person": "清水川貴之",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://gigazine.net/news/20211130-5-books-software-engineer",
+    "result": "rejected",
+    "reason": "海外掲示板の集計の紹介で個人の記事ではない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/3820",
+    "result": "adopted",
+    "reason": "sources.json の vis3820",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/2121",
+    "result": "adopted",
+    "reason": "sources.json の vis2121",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.evoworx.co.jp/blog/interview-book/",
+    "result": "adopted",
+    "reason": "sources.json の evo",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://brutus.jp/nagashimarikako_bookshelf/",
+    "result": "adopted",
+    "reason": "sources.json の brutus",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/3498",
+    "result": "adopted",
+    "reason": "sources.json の vis3498",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.wantedly.com/companies/add-more/post_articles/331463",
+    "result": "adopted",
+    "reason": "sources.json の addmore",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/5420",
+    "result": "adopted",
+    "reason": "sources.json の vis5420",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/2510",
+    "result": "adopted",
+    "reason": "sources.json の vis2510",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/4468",
+    "result": "candidate",
+    "reason": "クリエイティブ図書館 企画展『デザイン思考入門』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/4620",
+    "result": "candidate",
+    "reason": "クリエイティブ図書館 企画展『引き算デザイン』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/5059",
+    "result": "candidate",
+    "reason": "クリエイティブ図書館 企画展『スケッチからはじめるアイデア』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/4205",
+    "result": "candidate",
+    "reason": "クリエイティブ図書館 企画展『ユーザーのことを考えるデザイン』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/archives/4654",
+    "result": "candidate",
+    "reason": "クリエイティブ図書館 企画展『初心者向けフロントエンド』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://design.visional.inc/sitemap.xml",
+    "result": "candidate",
+    "reason": "「デザインの本棚」「クリエイティブ図書館」の他の月・回はサイトマップ経由で未取得(自動の一括取得は行わなかった)",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://newswitch.jp/p/27016",
+    "result": "rejected",
+    "reason": "robots.txt で ClaudeBot / Claude-Web / anthropic-ai を拒否。取得前に確認できておらず1ページ読んだが採用せず。連載「書窓」(安次富隆の回)は使わない",
+    "person": "安次富隆",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.advertimes.com/20250408/article494593/2/",
+    "result": "rejected",
+    "reason": "続きは無料会員登録が必要(会員限定)",
+    "person": "小杉幸一",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.advertimes.com/?p=480678",
+    "result": "rejected",
+    "reason": "『デザインの見方』紹介記事。本の推薦ではなく作品・作品集の紹介が主で、本人の推薦かが不明確",
+    "person": "粟辻美早",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.advertimes.com/?p=480303",
+    "result": "rejected",
+    "reason": "同上。『日本の文様』は西川圭の回の紹介で、推薦者が書き手(西岡ペンシル)の引用",
+    "person": "西川圭",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.advertimes.com/20260929/article556973",
+    "result": "rejected",
+    "reason": "宣伝会議の自社刊行書の宣伝コラム(伊藤博人が工藤青石『デザインをつくる…』を紹介)。出版社の販促企画のため見送り",
+    "person": "伊藤博人",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://oceans.tokyo.jp/article/detail/44946?page=2",
+    "result": "rejected",
+    "reason": "NOSIGNER 太刀川英輔の購入品紹介。買い物企画で、推薦・影響を語る形が弱く、書誌もはっきりしない",
+    "person": "太刀川英輔",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.fashionsnap.com/article/2022-01-13/bookreview-yushokobayashi/",
+    "result": "rejected",
+    "reason": "ファッションデザイナーで対象外(連載 Creator's Book Review は不定期)",
+    "person": "小林裕翔",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/214093",
+    "result": "rejected",
+    "reason": "ファッションデザイナーの連載『デザイナーたちから言葉の贈りもの』で対象外。本文は未精査",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/53",
+    "result": "rejected",
+    "reason": "デザイン事務所Ampersandsがコンシェルジュとして5冊を紹介する書評で、デザイナー個人の推薦リストではない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://sg.wantedly.com/companies/styleedge0619/post_articles/1077248",
+    "result": "rejected",
+    "reason": "推薦者がイニシャルのみ(M.I, T.K)",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/smartbankinc/n/nf5da7c7d5fb2",
+    "result": "rejected",
+    "reason": "ハンドル名のみ、AI生成文、本の推薦が不明確",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/canda4009/n/nf823ff15ffb2",
+    "result": "candidate",
+    "reason": "canda(フォーク)のデザイナーが3冊ずつ紹介する社内企画。未取得",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/daisuke0226/n/n890142b2a0f1",
+    "result": "adopted",
+    "reason": "sources.json の s-endo-1d8f09",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/kenichisuzuki/n/n69a7fefeef5e",
+    "result": "adopted",
+    "reason": "sources.json の s-suzuki-c1455e",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/hamasakitomoya/n/n0c75bacc31c0",
+    "result": "adopted",
+    "reason": "sources.json の s-hamasaki-de75dc",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/taiseimishima/n/n1d4856a603df",
+    "result": "adopted",
+    "reason": "sources.json の s-mishima-322440",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/ta9low/n/nb394538d3bb9",
+    "result": "adopted",
+    "reason": "sources.json の s-sakao-0d68bb",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/ksmr/n/n96e823adc9b9",
+    "result": "candidate",
+    "reason": "About Face・オブジェクト指向UIデザイン等。書き手kassyの実名・所属が確認できず保留",
+    "person": "kassy",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/taramek/n/n8ba362913e0c",
+    "result": "candidate",
+    "reason": "融けるデザイン・誰のためのデザイン？・About Face 3など定番だが、筆名Shinoの素性が確認できず保留",
+    "person": "Shino",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/akio_yoshihashi/n/n70602ddc58c6",
+    "result": "candidate",
+    "reason": "UIデザインのブックリスト（定番多数）。吉橋昭夫氏の肩書き未確認で保留",
+    "person": "yoshi_design",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/akio_yoshihashi/n/n1b75a065dcfc",
+    "result": "candidate",
+    "reason": "UXブックリスト。同上",
+    "person": "yoshi_design",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/licht_fkzw/n/nacc67dd2ba2f",
+    "result": "candidate",
+    "reason": "ノンデザイナーズ・デザインブック等。筆者りひとの所属が匿名で保留",
+    "person": "りひと",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/siksan_design/n/ndf0ac2ec72ae",
+    "result": "candidate",
+    "reason": "アートディレクターの流儀等。筆名シクの素性が確認できず保留",
+    "person": "シク",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/siksan_design/n/nd70b33d41302",
+    "result": "candidate",
+    "reason": "同上",
+    "person": "シク",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/iino_design/n/nc10802411790",
+    "result": "candidate",
+    "reason": "49冊。画集中心、匿名のフリーランスで保留",
+    "person": "いいの",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/tambo_inc/n/n0ea8f93e6ee2",
+    "result": "rejected",
+    "reason": "作品集・欧文書体中心で定番を含まない、素性不明",
+    "person": "田辺",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/ikutani41/n/nf50e3277cdea",
+    "result": "rejected",
+    "reason": "匿名ハンドル、2018年、書籍でないものを含む",
+    "person": "ikutani41",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/f4samurai/n/ndc4c82e8800e",
+    "result": "rejected",
+    "reason": "企業公式の記事で個人名義でない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/mixi_design/n/n0084cafcc5d7",
+    "result": "rejected",
+    "reason": "企業の部署名義でまとめた36冊、個人が特定できない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/smartcamp_design/n/n0406b2fb31be",
+    "result": "rejected",
+    "reason": "企業デザインブログの名義記事",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/natsuki_natsuki/n/n920aa457e5f0",
+    "result": "rejected",
+    "reason": "調査済み台帳に既出",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://designer.crowdworks.co.jp/entry/designbooks",
+    "result": "candidate",
+    "reason": "複数デザイナーに聞いた影響を受けた本。今回読めず",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://techblog.enechain.com/entry/designers-books",
+    "result": "candidate",
+    "reason": "enechainデザイナーの本棚。今回読めず",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://magazine.redesigner.jp/post/ReDesigner-OnlineTalk-vol1",
+    "result": "candidate",
+    "reason": "デザイナー人生に影響を与えた書籍9選。今回読めず",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://designer-draft.jp/articles/125",
+    "result": "candidate",
+    "reason": "ドラフト指名されたデザイナーが選ぶ影響を受けた本8選。今回読めず",
     "checkedAt": "2026-11-16"
   }
 ]

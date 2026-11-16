@@ -10675,5 +10675,157 @@
     "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第六弾】",
     "url": "https://findy-code.io/media/articles/influential-books-6",
     "publishedAt": "2025-06-06"
+  },
+  {
+    "id": "fmy",
+    "type": "interview",
+    "media": "Findy Media",
+    "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん",
+    "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+    "publishedAt": "2026-11-04"
+  },
+  {
+    "id": "tb1",
+    "type": "interview",
+    "media": "Findy Tech Blog",
+    "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part1",
+    "url": "https://tech.findy.co.jp/entry/2024/09/13/090000",
+    "publishedAt": "2024-09-13"
+  },
+  {
+    "id": "zenn",
+    "type": "article",
+    "media": "Zenn",
+    "title": "ソフトウェア開発者人生に影響を与えてきた本",
+    "url": "https://zenn.dev/satoru_takeuchi/articles/b4d0b811874522",
+    "publishedAt": "2021-01-10"
+  },
+  {
+    "id": "s-oohira",
+    "type": "article",
+    "media": "Speaker Deck",
+    "title": "私のエンジニア人生に影響を与えた技術書 / tech books that influenced my engineer life",
+    "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
+    "publishedAt": "2019-11-26"
+  },
+  {
+    "id": "s-cureko",
+    "type": "article",
+    "media": "Recustomer Tech Blog (Zenn)",
+    "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
+    "url": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
+    "publishedAt": "2025-12-03"
+  },
+  {
+    "id": "s-azuki",
+    "type": "article",
+    "media": "azukiazusa.dev",
+    "title": "私のキャリアに影響を与えたコンピューター・IT の定番書籍",
+    "url": "https://azukiazusa.dev/blog/computer-it-books",
+    "publishedAt": "2025-07-20"
+  },
+  {
+    "id": "vis3820",
+    "type": "article",
+    "media": "Visional Designer Blog",
+    "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の5冊 12月編",
+    "url": "https://design.visional.inc/archives/3820",
+    "publishedAt": "2018-12-21"
+  },
+  {
+    "id": "vis2121",
+    "type": "article",
+    "media": "Visional Designer Blog",
+    "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の8冊 11月編",
+    "url": "https://design.visional.inc/archives/2121",
+    "publishedAt": "2017-11-24"
+  },
+  {
+    "id": "evo",
+    "type": "interview",
+    "media": "エヴォワークス ブログ",
+    "title": "【インタビュー】デザイナーとして成長した、とっておきの一冊",
+    "url": "https://www.evoworx.co.jp/blog/interview-book/",
+    "publishedAt": "2020-11-13"
+  },
+  {
+    "id": "brutus",
+    "type": "interview",
+    "media": "BRUTUS.jp",
+    "title": "グラフィックデザイナー・長嶋りかこの本棚と、切実な日々を救ってくれる本",
+    "url": "https://brutus.jp/nagashimarikako_bookshelf/",
+    "publishedAt": "2025-09-02"
+  },
+  {
+    "id": "vis3498",
+    "type": "article",
+    "media": "Visional Designer Blog",
+    "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の5冊 10月編",
+    "url": "https://design.visional.inc/archives/3498",
+    "publishedAt": "2018-10-31"
+  },
+  {
+    "id": "addmore",
+    "type": "article",
+    "media": "Wantedly（add more）",
+    "title": "add more デザイナーのおすすめ「書籍編」",
+    "url": "https://www.wantedly.com/companies/add-more/post_articles/331463",
+    "publishedAt": "2021-06-18"
+  },
+  {
+    "id": "vis5420",
+    "type": "article",
+    "media": "Visional Designer Blog",
+    "title": "クリエイティブ図書館 企画展『新卒デザイナーが1年前の自分におすすめしたい本』",
+    "url": "https://design.visional.inc/archives/5420",
+    "publishedAt": "2020-04-06"
+  },
+  {
+    "id": "vis2510",
+    "type": "article",
+    "media": "Visional Designer Blog",
+    "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の5冊 2月編",
+    "url": "https://design.visional.inc/archives/2510",
+    "publishedAt": "2018-02-21"
+  },
+  {
+    "id": "s-endo-1d8f09",
+    "type": "article",
+    "media": "note",
+    "title": "デザインの教科書【デザインの「考え方」を学べる厳選５冊】",
+    "url": "https://note.com/daisuke0226/n/n890142b2a0f1",
+    "publishedAt": "2021-01-21"
+  },
+  {
+    "id": "s-suzuki-c1455e",
+    "type": "article",
+    "media": "note",
+    "title": "新規入社するデザイナー向けにおすすめしたい書籍11選をまとめてみた",
+    "url": "https://note.com/kenichisuzuki/n/n69a7fefeef5e",
+    "publishedAt": "2018-12-21"
+  },
+  {
+    "id": "s-hamasaki-de75dc",
+    "type": "article",
+    "media": "note",
+    "title": "UIデザイナーが読んで良かったと思うおすすめ書籍7選［2022年上半期］",
+    "url": "https://note.com/hamasakitomoya/n/n0c75bacc31c0",
+    "publishedAt": "2022-06-21"
+  },
+  {
+    "id": "s-mishima-322440",
+    "type": "article",
+    "media": "note",
+    "title": "プロダクトデザイナーが好きな本・影響を受けた本【7選】",
+    "url": "https://note.com/taiseimishima/n/n1d4856a603df",
+    "publishedAt": "2020-06-01"
+  },
+  {
+    "id": "s-sakao-0d68bb",
+    "type": "article",
+    "media": "note",
+    "title": "【厳選デザイン本32選】デザイナーとして、さらに活躍のフィールドを広げたい方におすすめの書籍集",
+    "url": "https://note.com/ta9low/n/nb394538d3bb9",
+    "publishedAt": "2020-04-22"
   }
 ]

@@ -1,0 +1,982 @@
+{
+ "people": [
+  {
+   "id": "vsasaki",
+   "name": "佐々木奈央",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vusukura",
+   "name": "臼倉すみれ",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vfujimatsu",
+   "name": "藤松裕士",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vtakagi",
+   "name": "高木晃",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vumebayashi",
+   "name": "梅林千恵",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vmurakami",
+   "name": "村上杏樹",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vkashima",
+   "name": "鹿島千尋",
+   "title": "ビズリーチ UIデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vfukuda",
+   "name": "福田佳世子",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vnagao",
+   "name": "長尾朋美",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vkawakami",
+   "name": "河上泰希",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vosawa",
+   "name": "大澤信哉",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vkageyama",
+   "name": "景山泰考",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vnishio",
+   "name": "西尾清香",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vsakurai",
+   "name": "櫻井あずみ",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vtooshima",
+   "name": "遠嶋伸昭",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vhattori",
+   "name": "服部愛",
+   "title": "ビズリーチ プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vsakagami",
+   "name": "阪上葵",
+   "title": "ビズリーチ プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vdoi",
+   "name": "土居若奈",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vtajima",
+   "name": "田島拓実",
+   "title": "ビズリーチ プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vmayuzumi",
+   "name": "黛友梨",
+   "title": "ビズリーチ プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vtagashira",
+   "name": "田頭菜々美",
+   "title": "ビズリーチ プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vtomokiyo",
+   "name": "友清実優",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vsumioka",
+   "name": "住岡梓",
+   "title": "ビズリーチ デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "vnoda",
+   "name": "野田美紗子",
+   "title": "ビズリーチ プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "ビズリーチ",
+   "noPage": true
+  },
+  {
+   "id": "eseki",
+   "name": "Teruhiko Seki",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "ebamba",
+   "name": "Haruka Bamba",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "eiwata",
+   "name": "Hakaru Iwata",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "emorimoto",
+   "name": "Koichi Morimoto",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "eatsuta",
+   "name": "Aya Atsuta",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "eushizawa",
+   "name": "Asumi Ushizawa",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "esaito",
+   "name": "Yu Saito",
+   "title": "デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "エヴォワークス",
+   "noPage": true
+  },
+  {
+   "id": "indo",
+   "name": "Mayumi Indo",
+   "title": "add more デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "add more",
+   "noPage": true
+  },
+  {
+   "id": "nagashima",
+   "name": "長嶋りかこ",
+   "title": "グラフィックデザイナー",
+   "tags": [
+    "デザイナー",
+    "経営者"
+   ],
+   "affiliation": "village"
+  }
+ ],
+ "sources": [
+  {
+   "id": "vis2121",
+   "type": "article",
+   "media": "Visional Designer Blog",
+   "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の8冊 11月編",
+   "url": "https://design.visional.inc/archives/2121",
+   "publishedAt": "2017-11-24"
+  },
+  {
+   "id": "vis2510",
+   "type": "article",
+   "media": "Visional Designer Blog",
+   "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の5冊 2月編",
+   "url": "https://design.visional.inc/archives/2510",
+   "publishedAt": "2018-02-21"
+  },
+  {
+   "id": "vis3498",
+   "type": "article",
+   "media": "Visional Designer Blog",
+   "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の5冊 10月編",
+   "url": "https://design.visional.inc/archives/3498",
+   "publishedAt": "2018-10-31"
+  },
+  {
+   "id": "vis3820",
+   "type": "article",
+   "media": "Visional Designer Blog",
+   "title": "デザインの本棚 - ビズリーチのデザイナーが選ぶ今月の5冊 12月編",
+   "url": "https://design.visional.inc/archives/3820",
+   "publishedAt": "2018-12-21"
+  },
+  {
+   "id": "vis5420",
+   "type": "article",
+   "media": "Visional Designer Blog",
+   "title": "クリエイティブ図書館 企画展『新卒デザイナーが1年前の自分におすすめしたい本』",
+   "url": "https://design.visional.inc/archives/5420",
+   "publishedAt": "2020-04-06"
+  },
+  {
+   "id": "evo",
+   "type": "interview",
+   "media": "エヴォワークス ブログ",
+   "title": "【インタビュー】デザイナーとして成長した、とっておきの一冊",
+   "url": "https://www.evoworx.co.jp/blog/interview-book/",
+   "publishedAt": "2020-11-13"
+  },
+  {
+   "id": "addmore",
+   "type": "article",
+   "media": "Wantedly（add more）",
+   "title": "add more デザイナーのおすすめ「書籍編」",
+   "url": "https://www.wantedly.com/companies/add-more/post_articles/331463",
+   "publishedAt": "2021-06-18"
+  },
+  {
+   "id": "brutus",
+   "type": "interview",
+   "media": "BRUTUS.jp",
+   "title": "グラフィックデザイナー・長嶋りかこの本棚と、切実な日々を救ってくれる本",
+   "url": "https://brutus.jp/nagashimarikako_bookshelf/",
+   "publishedAt": "2025-09-02"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "vsasaki",
+   "sourceId": "vis2121",
+   "book": {
+    "title": "デザインの次に来るもの",
+    "author": "安西洋之, 八重樫文",
+    "publisher": "クロスメディア・パブリッシング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vusukura",
+   "sourceId": "vis2121",
+   "book": {
+    "title": "佐藤オオキのボツ本",
+    "author": "佐藤オオキ",
+    "publisher": "日経BP"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vfujimatsu",
+   "sourceId": "vis2121",
+   "book": {
+    "title": "突破するデザイン",
+    "author": "ロベルト・ベルガンティ",
+    "subtitle": "あふれるビジョンから最高のヒットをつくる",
+    "publisher": "日経BP"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vtakagi",
+   "sourceId": "vis2121",
+   "book": {
+    "title": "たのしごとデザイン論",
+    "author": "カイシトモヤ",
+    "publisher": "エムディエヌコーポレーション"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vumebayashi",
+   "sourceId": "vis2121",
+   "book": {
+    "title": "バリュー・プロポジション・デザイン",
+    "author": "アレックス・オスターワルダー, イヴ・ピニュール, グレッグ・バーナーダ, アラン・スミス",
+    "subtitle": "顧客が欲しがる製品やサービスを創る",
+    "publisher": "翔泳社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vmurakami",
+   "sourceId": "vis2121",
+   "book": {
+    "title": "日本語の正しい表記と用語の辞典 第三版",
+    "author": "講談社校閲局",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vmurakami",
+   "sourceId": "vis2510",
+   "book": {
+    "title": "人間中心設計の基礎",
+    "author": "黒須正明",
+    "publisher": "近代科学社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vkashima",
+   "sourceId": "vis3498",
+   "book": {
+    "title": "広告コピーってこう書くんだ!読本",
+    "author": "谷山雅計",
+    "publisher": "宣伝会議"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vfukuda",
+   "sourceId": "vis3498",
+   "book": {
+    "title": "アップルデザイン",
+    "author": "ポール・クンケル",
+    "publisher": "アクシスパブリッシング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vnagao",
+   "sourceId": "vis3498",
+   "book": {
+    "title": "デザインが日本を変える",
+    "author": "前田育男",
+    "subtitle": "日本人の美意識を取り戻す",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vkawakami",
+   "sourceId": "vis2510",
+   "book": {
+    "title": "UX戦略",
+    "author": "Jaime Levy",
+    "publisher": "オライリージャパン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vosawa",
+   "sourceId": "vis2510",
+   "book": {
+    "title": "デザインマネジメント",
+    "author": "田子學, 田子裕子, 橋口寛",
+    "publisher": "日経BP"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vkageyama",
+   "sourceId": "vis2510",
+   "book": {
+    "title": "発想する会社!",
+    "author": "トム・ケリー, ジョナサン・リットマン",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vnishio",
+   "sourceId": "vis2510",
+   "book": {
+    "title": "ピクサー流創造するちから",
+    "author": "エド・キャットムル, エイミー・ワラス",
+    "subtitle": "小さな可能性から、大きな価値を生み出す方法",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vsakurai",
+   "sourceId": "vis3820",
+   "book": {
+    "title": "NETFLIXの最強人事戦略",
+    "author": "パティ・マッコード",
+    "subtitle": "自由と責任の文化を築く",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vtooshima",
+   "sourceId": "vis3820",
+   "book": {
+    "title": "the four GAFA",
+    "author": "スコット・ギャロウェイ",
+    "subtitle": "四騎士が創り変えた世界",
+    "publisher": "東洋経済新報社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vhattori",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "みんなではじめるデザイン批評",
+    "author": "アーロン・イリザリー, アダム・コナー",
+    "subtitle": "目的達成のためのコラボレーション＆コミュニケーション改善ガイド",
+    "publisher": "ビー・エヌ・エヌ新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vsakagami",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "センスは知識からはじまる",
+    "author": "水野学",
+    "publisher": "朝日新聞出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vdoi",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "たのしごとデザイン論",
+    "author": "カイシトモヤ",
+    "subtitle": "クリエイターが幸福に仕事をするための50の方法論。",
+    "publisher": "エムディエヌコーポレーション"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vtajima",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "IAシンキング",
+    "author": "坂本貴史, 宮崎綾子, 長谷川恭久",
+    "subtitle": "Web制作者・担当者のためのIA思考術",
+    "publisher": "ワークスコーポレーション"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vmayuzumi",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "Design Systems",
+    "author": "アラ・コルマトヴァ",
+    "subtitle": "デジタルプロダクトのためのデザインシステム実践ガイド",
+    "publisher": "ボーンデジタル"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vtagashira",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "ユーザーに「考えさせない」デザインの法則",
+    "author": "スティーブ・クルーグ",
+    "publisher": "ビー・エヌ・エヌ新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vtomokiyo",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "1分で話せ",
+    "author": "伊藤羊一",
+    "subtitle": "世界のトップが絶賛した大事なことだけシンプルに伝える技術",
+    "publisher": "SBクリエイティブ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vsumioka",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "広告コピーってこう書くんだ！読本",
+    "author": "谷山雅計",
+    "publisher": "宣伝会議"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vnoda",
+   "sourceId": "vis5420",
+   "book": {
+    "title": "論点思考",
+    "author": "内田和成",
+    "publisher": "東洋経済新報社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "eseki",
+   "sourceId": "evo",
+   "book": {
+    "title": "ノンデザイナーズ・デザインブック",
+    "author": "ロビン・ウィリアムズ",
+    "edition": "初版",
+    "isbn": "9784839955557"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ebamba",
+   "sourceId": "evo",
+   "book": {
+    "title": "「言葉にできる」は武器になる。",
+    "author": "梅田 悟司",
+    "isbn": "9784532320751"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "eiwata",
+   "sourceId": "evo",
+   "book": {
+    "title": "なるほどデザイン",
+    "author": "筒井 美希",
+    "isbn": "9784844365174"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "emorimoto",
+   "sourceId": "evo",
+   "book": {
+    "title": "ほんとに、フォント。",
+    "author": "ingectar-e",
+    "isbn": "9784802612081"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "eatsuta",
+   "sourceId": "evo",
+   "book": {
+    "title": "植物図鑑",
+    "author": "東信, 椎木俊介"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "eushizawa",
+   "sourceId": "evo",
+   "book": {
+    "title": "考具",
+    "author": "加藤昌治",
+    "isbn": "9784484032054"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "esaito",
+   "sourceId": "evo",
+   "book": {
+    "title": "欧文書体",
+    "author": "小林章",
+    "subtitle": "その背景と使い方",
+    "isbn": "9784568502770"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "indo",
+   "sourceId": "addmore",
+   "book": {
+    "title": "きれいな欧文書体とデザイン",
+    "author": "甲谷一"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "indo",
+   "sourceId": "addmore",
+   "book": {
+    "title": "イラストのこと、キャラクターデザインのこと",
+    "author": "坂崎千春"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "indo",
+   "sourceId": "addmore",
+   "book": {
+    "title": "シンプルの正体",
+    "author": "ブルーシープ",
+    "subtitle": "ディック・ブルーナのデザイン",
+    "isbn": "9784908356025"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "indo",
+   "sourceId": "addmore",
+   "book": {
+    "title": "差分",
+    "author": "佐藤雅彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "brutus",
+   "book": {
+    "title": "マザリング",
+    "author": "中村佑子",
+    "subtitle": "現代の母なる場所",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "brutus",
+   "book": {
+    "title": "愛するということ",
+    "author": "エーリッヒ・フロム",
+    "publisher": "紀伊國屋書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "brutus",
+   "book": {
+    "title": "母親になって後悔してる",
+    "author": "オルナ・ドーナト",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "brutus",
+   "book": {
+    "title": "女が死ぬ",
+    "author": "松田青子",
+    "publisher": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "brutus",
+   "book": {
+    "title": "穏やかなゴースト",
+    "author": "村岡俊也",
+    "subtitle": "画家・中園孔二を追って",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://design.visional.inc/archives/2121",
+   "result": "index",
+   "reason": "Visional(ビズリーチ)デザインブログ「デザインの本棚」月次連載。社員デザイナーが実名で1冊ずつ薦める。検索で確認できた回は2017-11, 2018-02, 2018-10, 2018-12(本回。全回数は不明)。読んだのは11月編(8冊中デザイナー6人、エンジニア1人、洋書1冊は除外)",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/2510",
+   "result": "index",
+   "reason": "「デザインの本棚」2月編。5人全員読了、5冊採用",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/3498",
+   "result": "index",
+   "reason": "「デザインの本棚」10月編。5冊中デザイナー3人採用、フロントエンドエンジニア2人は除外",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/3820",
+   "result": "index",
+   "reason": "「デザインの本棚」12月編。デザイナー2人採用。他は名前なし・エンジニアで除外",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/5420",
+   "result": "index",
+   "reason": "「クリエイティブ図書館 企画展」(司書企画の連載)の一回。新卒デザイナー9人が1冊ずつ。全員採用",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/4468",
+   "result": "candidate",
+   "reason": "クリエイティブ図書館 企画展『デザイン思考入門』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/4620",
+   "result": "candidate",
+   "reason": "クリエイティブ図書館 企画展『引き算デザイン』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/5059",
+   "result": "candidate",
+   "reason": "クリエイティブ図書館 企画展『スケッチからはじめるアイデア』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/4205",
+   "result": "candidate",
+   "reason": "クリエイティブ図書館 企画展『ユーザーのことを考えるデザイン』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/archives/4654",
+   "result": "candidate",
+   "reason": "クリエイティブ図書館 企画展『初心者向けフロントエンド』。取得したが今回は精査せず未採用。司書または複数人の選書で、人ごとの対応を未確認。次回読む",
+   "person": ""
+  },
+  {
+   "url": "https://design.visional.inc/sitemap.xml",
+   "result": "candidate",
+   "reason": "「デザインの本棚」「クリエイティブ図書館」の他の月・回はサイトマップ経由で未取得(自動の一括取得は行わなかった)",
+   "person": ""
+  },
+  {
+   "url": "https://www.evoworx.co.jp/blog/interview-book/",
+   "result": "index",
+   "reason": "エヴォワークス社内デザイナー9人が「成長した一冊」。8人採用、TRANSIT(雑誌)の1人は除外",
+   "person": ""
+  },
+  {
+   "url": "https://www.wantedly.com/companies/add-more/post_articles/331463",
+   "result": "candidate",
+   "reason": "add more デザイナー1人(Mayumi Indo)の書籍4冊を採用。1人の記事",
+   "person": ""
+  },
+  {
+   "url": "https://brutus.jp/nagashimarikako_bookshelf/",
+   "result": "index",
+   "reason": "BRUTUS No.999「理想の本棚。」の一記事。同特集には他にもデザイン関係者(graf 服部滋樹など)の本棚があるが今回は未取得",
+   "person": ""
+  },
+  {
+   "url": "https://newswitch.jp/p/27016",
+   "result": "rejected",
+   "reason": "robots.txt で ClaudeBot / Claude-Web / anthropic-ai を拒否。取得前に確認できておらず1ページ読んだが採用せず。連載「書窓」(安次富隆の回)は使わない",
+   "person": "安次富隆"
+  },
+  {
+   "url": "https://www.advertimes.com/20250408/article494593/2/",
+   "result": "rejected",
+   "reason": "続きは無料会員登録が必要(会員限定)",
+   "person": "小杉幸一"
+  },
+  {
+   "url": "https://www.advertimes.com/?p=480678",
+   "result": "rejected",
+   "reason": "『デザインの見方』紹介記事。本の推薦ではなく作品・作品集の紹介が主で、本人の推薦かが不明確",
+   "person": "粟辻美早"
+  },
+  {
+   "url": "https://www.advertimes.com/?p=480303",
+   "result": "rejected",
+   "reason": "同上。『日本の文様』は西川圭の回の紹介で、推薦者が書き手(西岡ペンシル)の引用",
+   "person": "西川圭"
+  },
+  {
+   "url": "https://www.advertimes.com/20260929/article556973",
+   "result": "rejected",
+   "reason": "宣伝会議の自社刊行書の宣伝コラム(伊藤博人が工藤青石『デザインをつくる…』を紹介)。出版社の販促企画のため見送り",
+   "person": "伊藤博人"
+  },
+  {
+   "url": "https://oceans.tokyo.jp/article/detail/44946?page=2",
+   "result": "rejected",
+   "reason": "NOSIGNER 太刀川英輔の購入品紹介。買い物企画で、推薦・影響を語る形が弱く、書誌もはっきりしない",
+   "person": "太刀川英輔"
+  },
+  {
+   "url": "https://www.fashionsnap.com/article/2022-01-13/bookreview-yushokobayashi/",
+   "result": "rejected",
+   "reason": "ファッションデザイナーで対象外(連載 Creator's Book Review は不定期)",
+   "person": "小林裕翔"
+  },
+  {
+   "url": "https://ginzamag.com/categories/culture/214093",
+   "result": "rejected",
+   "reason": "ファッションデザイナーの連載『デザイナーたちから言葉の贈りもの』で対象外。本文は未精査",
+   "person": ""
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/53",
+   "result": "rejected",
+   "reason": "デザイン事務所Ampersandsがコンシェルジュとして5冊を紹介する書評で、デザイナー個人の推薦リストではない",
+   "person": ""
+  },
+  {
+   "url": "https://sg.wantedly.com/companies/styleedge0619/post_articles/1077248",
+   "result": "rejected",
+   "reason": "推薦者がイニシャルのみ(M.I, T.K)",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/smartbankinc/n/nf5da7c7d5fb2",
+   "result": "rejected",
+   "reason": "ハンドル名のみ、AI生成文、本の推薦が不明確",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/canda4009/n/nf823ff15ffb2",
+   "result": "candidate",
+   "reason": "canda(フォーク)のデザイナーが3冊ずつ紹介する社内企画。未取得",
+   "person": ""
+  }
+ ]
+}

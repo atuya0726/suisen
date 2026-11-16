@@ -7305,5 +7305,597 @@
       "エンジニア"
     ],
     "affiliation": "フューチャースタンダード"
+  },
+  {
+    "id": "p0858",
+    "name": "きしだなおき",
+    "title": "LINE Fukuoka株式会社 ソフトウェアエンジニア",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "LINE Fukuoka"
+  },
+  {
+    "id": "p0859",
+    "name": "柴田博志",
+    "title": "株式会社アンドパッド 技術広報（Rubyコミッター）",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "アンドパッド"
+  },
+  {
+    "id": "p0860",
+    "name": "Shougo",
+    "title": "Vimプラグイン開発者",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0861",
+    "name": "ミノ駆動",
+    "title": "アプリケーションアーキテクト",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0862",
+    "name": "めもりー",
+    "title": "株式会社エンペイ エンジニアリングマネージャー",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "エンペイ"
+  },
+  {
+    "id": "p0863",
+    "name": "motemen",
+    "title": "株式会社はてな CTO",
+    "tags": [
+      "エンジニア",
+      "経営者"
+    ],
+    "affiliation": "はてな"
+  },
+  {
+    "id": "p0864",
+    "name": "あらたま",
+    "title": "株式会社LayerX ソフトウェアエンジニア",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "LayerX"
+  },
+  {
+    "id": "p0865",
+    "name": "hikalium",
+    "title": "ソフトウェアエンジニア（ChromeOS開発）",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0866",
+    "name": "aki.m",
+    "title": "デロイトトーマツコンサルティング合同会社 アジャイルコーチ",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "デロイトトーマツコンサルティング"
+  },
+  {
+    "id": "p0867",
+    "name": "川崎雄太",
+    "title": "株式会社ココナラ Dev Enabling室 室長",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "ココナラ"
+  },
+  {
+    "id": "p0868",
+    "name": "pospome",
+    "title": "株式会社カミナシ VP of Engineering",
+    "tags": [
+      "エンジニア",
+      "経営者"
+    ],
+    "affiliation": "カミナシ"
+  },
+  {
+    "id": "p0869",
+    "name": "uzulla",
+    "title": "フリーランスエンジニア",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0870",
+    "name": "frenchbread",
+    "title": "合同会社しろもふファクトリー 代表（フリーランスエンジニア）",
+    "tags": [
+      "エンジニア",
+      "経営者"
+    ],
+    "affiliation": "しろもふファクトリー"
+  },
+  {
+    "id": "p0871",
+    "name": "yuki",
+    "title": "ソフトウェアアーキテクト",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0872",
+    "name": "sivchari",
+    "title": "株式会社LayerX Software Engineer",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "LayerX"
+  },
+  {
+    "id": "p0873",
+    "name": "Taka_bow",
+    "title": "ファインディ株式会社 エンジニア兼プロセス改善コーチ",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "ファインディ"
+  },
+  {
+    "id": "p0874",
+    "name": "jiskanulo",
+    "title": "ファインディ株式会社 バックエンドエンジニア",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "ファインディ"
+  },
+  {
+    "id": "p0875",
+    "name": "shakemurasan",
+    "title": "ファインディ株式会社 キャリアプロダクト開発部 マネージャー",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "ファインディ"
+  },
+  {
+    "id": "p0876",
+    "name": "原トリ",
+    "title": "株式会社カミナシ 執行役員CTO",
+    "tags": [
+      "エンジニア",
+      "経営者"
+    ],
+    "affiliation": "カミナシ"
+  },
+  {
+    "id": "p0877",
+    "name": "ビタワン",
+    "title": "プログラマ兼漫画家（フリーランス）",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0878",
+    "name": "きゅんくん",
+    "title": "メカエンジニア",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0879",
+    "name": "mktakuya",
+    "title": "ノバセル エンジニア",
+    "tags": [
+      "エンジニア"
+    ],
+    "affiliation": "ノバセル"
+  },
+  {
+    "id": "p0880",
+    "name": "sat",
+    "title": "Rook（メンテナ）/Ceph/K8s/TopoLVM（メンテナ）",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0881",
+    "name": "azukiazusa",
+    "title": "ソフトウェアエンジニア",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0882",
+    "name": "大平直宏",
+    "title": "ソフトウェアエンジニア",
+    "tags": [
+      "エンジニア"
+    ]
+  },
+  {
+    "id": "p0883",
+    "name": "curekoshimizu",
+    "title": "Recustomer株式会社 CTO",
+    "tags": [
+      "エンジニア",
+      "経営者"
+    ],
+    "affiliation": "Recustomer"
+  },
+  {
+    "id": "p0884",
+    "name": "佐々木奈央",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0885",
+    "name": "臼倉すみれ",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0886",
+    "name": "藤松裕士",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0887",
+    "name": "高木晃",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0888",
+    "name": "梅林千恵",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0889",
+    "name": "村上杏樹",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0890",
+    "name": "鹿島千尋",
+    "title": "ビズリーチ UIデザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0891",
+    "name": "福田佳世子",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0892",
+    "name": "長尾朋美",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0893",
+    "name": "河上泰希",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0894",
+    "name": "大澤信哉",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0895",
+    "name": "景山泰考",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0896",
+    "name": "西尾清香",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0897",
+    "name": "櫻井あずみ",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0898",
+    "name": "遠嶋伸昭",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0899",
+    "name": "服部愛",
+    "title": "ビズリーチ プロダクトデザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0900",
+    "name": "阪上葵",
+    "title": "ビズリーチ プロダクトデザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0901",
+    "name": "土居若奈",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0902",
+    "name": "田島拓実",
+    "title": "ビズリーチ プロダクトデザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0903",
+    "name": "黛友梨",
+    "title": "ビズリーチ プロダクトデザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0905",
+    "name": "友清実優",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0906",
+    "name": "住岡梓",
+    "title": "ビズリーチ デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0907",
+    "name": "野田美紗子",
+    "title": "ビズリーチ プロダクトデザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "ビズリーチ",
+    "noPage": true
+  },
+  {
+    "id": "p0908",
+    "name": "TeruhikoSeki",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0909",
+    "name": "HarukaBamba",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0910",
+    "name": "HakaruIwata",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0911",
+    "name": "KoichiMorimoto",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0912",
+    "name": "AyaAtsuta",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0913",
+    "name": "AsumiUshizawa",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0914",
+    "name": "YuSaito",
+    "title": "デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "エヴォワークス",
+    "noPage": true
+  },
+  {
+    "id": "p0915",
+    "name": "MayumiIndo",
+    "title": "add more デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "add more",
+    "noPage": true
+  },
+  {
+    "id": "p0916",
+    "name": "長嶋りかこ",
+    "title": "グラフィックデザイナー",
+    "tags": [
+      "デザイナー",
+      "経営者"
+    ],
+    "affiliation": "village"
+  },
+  {
+    "id": "p0917",
+    "name": "遠藤大輔",
+    "title": "グラフィックデザイナー（プラット・インスティテュート講師）",
+    "tags": [
+      "デザイナー"
+    ]
+  },
+  {
+    "id": "p0918",
+    "name": "鈴木健一",
+    "title": "株式会社プレイド デザイナー",
+    "tags": [
+      "デザイナー"
+    ],
+    "affiliation": "プレイド"
+  },
+  {
+    "id": "p0919",
+    "name": "坂尾拓哉",
+    "title": "プラスニド・デザイン CEO",
+    "tags": [
+      "デザイナー",
+      "経営者"
+    ],
+    "affiliation": "プラスニド・デザイン"
+  },
+  {
+    "id": "p0920",
+    "name": "はまさきともや",
+    "title": "フリーランスUIデザイナー（th design studio）",
+    "tags": [
+      "デザイナー"
+    ]
+  },
+  {
+    "id": "p0921",
+    "name": "三島大世",
+    "title": "プロダクトデザイナー",
+    "tags": [
+      "デザイナー"
+    ]
   }
 ]

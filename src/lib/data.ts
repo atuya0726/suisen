@@ -117,7 +117,10 @@ export interface TagRanking {
 /** 属性別ランキング。推薦者が3人以上いて、載せられる本が3冊以上ある属性だけ */
 export const tagRankings: TagRanking[] = (Object.keys(TAG_SLUGS) as Tag[])
   .map((tag) => {
-    const ids = new Set(people.filter((p) => p.tags.includes(tag)).map((p) => p.id));
+    // noPage の推薦者も人数に数える（個別ページを作らないだけで、推薦者数には含める決まり）
+    const ids = new Set(
+      data.people.filter((p) => recsByPersonId.has(p.id) && p.tags.includes(tag)).map((p) => p.id),
+    );
     return {
       tag,
       slug: TAG_SLUGS[tag],

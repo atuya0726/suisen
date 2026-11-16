@@ -1,0 +1,379 @@
+{
+ "people": [
+  {
+   "id": "azuki",
+   "name": "azukiazusa",
+   "title": "ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "oohira",
+   "name": "大平直宏",
+   "title": "ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "cureko",
+   "name": "curekoshimizu",
+   "title": "Recustomer株式会社 CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "Recustomer"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s-azuki",
+   "type": "article",
+   "media": "azukiazusa.dev",
+   "title": "私のキャリアに影響を与えたコンピューター・IT の定番書籍",
+   "url": "https://azukiazusa.dev/blog/computer-it-books",
+   "publishedAt": "2025-07-20"
+  },
+  {
+   "id": "s-oohira",
+   "type": "article",
+   "media": "Speaker Deck",
+   "title": "私のエンジニア人生に影響を与えた技術書 / tech books that influenced my engineer life",
+   "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
+   "publishedAt": "2019-11-26"
+  },
+  {
+   "id": "s-cureko",
+   "type": "article",
+   "media": "Recustomer Tech Blog (Zenn)",
+   "title": "CTOとして会社に置くと決めた、ありがたい技術書5選",
+   "url": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
+   "publishedAt": "2025-12-03"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "達人プログラマー",
+    "author": "Andrew Hunt",
+    "isbn": "9784274226298"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "Clean Architecture",
+    "author": "Robert C．Martin",
+    "subtitle": "達人に学ぶソフトウェアの構造と設計",
+    "isbn": "9784049012033"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "SQLアンチパターン",
+    "author": "Bill Karwin",
+    "isbn": "9784814400744"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "リファクタリング",
+    "author": "Martin Fowler 著",
+    "isbn": "9784274224546"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "テスト駆動開発",
+    "author": "Kent Beck",
+    "isbn": "9784274217883"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "Clean Code",
+    "author": "ロバート・C．マーティン",
+    "subtitle": "達人に学ぶプログラミングの技術",
+    "isbn": "9784048676885"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "Clean Coder",
+    "author": "Robert C．Martin",
+    "subtitle": "プロフェッショナルプログラマへの道",
+    "isbn": "9784048860697"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "Webを支える技術",
+    "author": "山本陽平",
+    "subtitle": "HTTP，URI，HTML，そしてREST",
+    "isbn": "9784774142043"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "達人に学ぶDB設計徹底指南書",
+    "author": "ミック",
+    "isbn": "9784798186627"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "azuki",
+   "sourceId": "s-azuki",
+   "book": {
+    "title": "UNIXという考え方",
+    "author": "マイク・ギャンカーズ",
+    "subtitle": "その設計思想と哲学",
+    "isbn": "9784274064067"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oohira",
+   "sourceId": "s-oohira",
+   "book": {
+    "title": "達人プログラマー",
+    "author": "アンドリュー・ハント",
+    "subtitle": "職人から名匠への道",
+    "edition": "新装版",
+    "isbn": "9784274226298"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oohira",
+   "sourceId": "s-oohira",
+   "book": {
+    "title": "リファクタリング",
+    "author": "マーチン・ファウラー",
+    "subtitle": "既存のコードを安全に改善する",
+    "edition": "新装版",
+    "isbn": "9784274224546"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oohira",
+   "sourceId": "s-oohira",
+   "book": {
+    "title": "Java言語で学ぶデザインパターン入門",
+    "author": "結城浩",
+    "edition": "増補改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oohira",
+   "sourceId": "s-oohira",
+   "book": {
+    "title": "テスト駆動開発",
+    "author": "Kent Beck"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oohira",
+   "sourceId": "s-oohira",
+   "book": {
+    "title": "現場で役立つシステム設計の原則",
+    "author": "増田亨",
+    "subtitle": "変更を楽で安全にするオブジェクト指向の実践技法"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "cureko",
+   "sourceId": "s-cureko",
+   "book": {
+    "title": "コンピュータの構成と設計",
+    "author": "David Patterson",
+    "edition": "第6版",
+    "linkUrl": "https://amzn.asia/d/bJ4ndUO",
+    "isbn": "9784296070091"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "cureko",
+   "sourceId": "s-cureko",
+   "book": {
+    "title": "プログラミングコンテストチャレンジブック",
+    "author": "秋葉拓哉",
+    "subtitle": "問題解決のアルゴリズム活用力とコーディングテクニックを鍛える",
+    "edition": "第2版",
+    "linkUrl": "https://amzn.asia/d/gOMxxcd",
+    "isbn": "9784839941062"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "cureko",
+   "sourceId": "s-cureko",
+   "book": {
+    "title": "はじめて読む486",
+    "author": "蒲地輝尚",
+    "linkUrl": "https://amzn.asia/d/bzG2dP9",
+    "isbn": "9784756102133"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "cureko",
+   "sourceId": "s-cureko",
+   "book": {
+    "title": "プロフェショナルBSD",
+    "author": "砂原秀樹",
+    "edition": "改訂版",
+    "linkUrl": "https://amzn.asia/d/dS4L7PM",
+    "isbn": "9784756137500"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "cureko",
+   "sourceId": "s-cureko",
+   "book": {
+    "title": "型システム入門",
+    "author": "ベンジャミン・C．ピアス",
+    "subtitle": "プログラミング言語と型の理論",
+    "linkUrl": "https://amzn.asia/d/83iKNMm",
+    "isbn": "9784274069116"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "cureko",
+   "sourceId": "s-cureko",
+   "book": {
+    "title": "寿司 虚空編",
+    "author": "小林銅蟲",
+    "linkUrl": "https://amzn.asia/d/ibWkUaV",
+    "isbn": "9784861999895"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://dev.classmethod.jp/articles/bestbook-2019-summer/",
+   "result": "rejected",
+   "reason": "編集部（社内チャット募集）の一括リストで、本ごとの推薦者名が記事に無い",
+   "person": ""
+  },
+  {
+   "url": "https://codezine.jp/news/detail/15157",
+   "result": "unreachable",
+   "reason": "取得時にbot対策のSecurity check画面が返り本文を読めない。和田卓人氏の4冊（モノリスからマイクロサービスへ、データ指向アプリケーションデザイン、LeanとDevOpsの科学、達人プログラマー第2版）は検索結果の要約のみで未確認",
+   "person": "和田卓人"
+  },
+  {
+   "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
+   "result": "index",
+   "reason": "スライド画像を読んで5冊を採用（本文テキストは文字化けのため画像で確認）",
+   "person": "大平直宏"
+  },
+  {
+   "url": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
+   "result": "index",
+   "reason": "採用（5冊＋番外編1冊）。氏名は『眞鍋』のみ表記のためハンドル名curekoshimizuで記録",
+   "person": "curekoshimizu"
+  },
+  {
+   "url": "MIXI 新卒研修の推薦図書リスト",
+   "result": "rejected",
+   "reason": "取得せず。会社としてのリスト想定で個人の推薦ではない（未検索）",
+   "person": ""
+  },
+  {
+   "url": "https://zenn.dev/mugipan/articles/ddf63ae04b3a9f",
+   "result": "rejected",
+   "reason": "書き手『むぎ』は所属・実名の分からないフリーランス。知名度の根拠なし",
+   "person": "むぎ"
+  },
+  {
+   "url": "https://zenn.dev/mesi/articles/671a08cabb4dfe",
+   "result": "rejected",
+   "reason": "書き手『MESI』は『よわよわエンジニア6年目』のみで素性不明",
+   "person": "MESI"
+  },
+  {
+   "url": "https://zenn.dev/dip_techblog/articles/dip-2022-07-28-engineer-recommended-books-2022",
+   "result": "rejected",
+   "reason": "書き手は『砂原』（姓のみ、dipテックリード）。名が分からず、冊数も技術書は3冊ほど",
+   "person": "砂原"
+  },
+  {
+   "url": "https://zenn.dev/cryptobox/articles/489a8985a7d7d1",
+   "result": "rejected",
+   "reason": "書き手cryptoboxの素性不明",
+   "person": "cryptobox"
+  },
+  {
+   "url": "https://scrapbox.io/shimizukawa/%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1%E6%9B%B8%E7%B1%8D",
+   "result": "candidate",
+   "reason": "清水川氏のScrapbox『オススメ書籍』。ページがJS描画でAPIを使わず取得できなかった。内容未確認",
+   "person": "清水川貴之"
+  },
+  {
+   "url": "https://zenn.dev/hiromichinomata/articles/1abd716dfba46f",
+   "result": "candidate",
+   "reason": "『2025年に読んだ技術書トップ10』。未読",
+   "person": "hiromichinomata"
+  },
+  {
+   "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+   "result": "rejected",
+   "reason": "媒体（en-ambi）の企画記事で、すでに別の取り込み対象に近く、今回の優先条件（個人の自発的な複数冊）から外した。未読",
+   "person": ""
+  },
+  {
+   "url": "https://gigazine.net/news/20211130-5-books-software-engineer",
+   "result": "rejected",
+   "reason": "海外掲示板の集計の紹介で個人の記事ではない",
+   "person": ""
+  },
+  {
+   "url": "https://zenn.dev/koduki/articles/425f50b60aa6a9",
+   "result": "index",
+   "reason": "採用（6冊）。ハンドル名koduki（YouTube・Zennで継続的に発信）。ISBNはリンクと書名の対応が不確かなためリーダブルコードのみ",
+   "person": "koduki"
+  },
+  {
+   "url": "https://azukiazusa.dev/blog/computer-it-books",
+   "result": "index",
+   "reason": "採用（40冊中10冊を選択）。ハンドル名azukiazusa（登壇ページ・個人サイトあり）。取得は英訳ページ(/en/blog/)と日本語ページの両方で確認",
+   "person": "azukiazusa"
+  }
+ ]
+}

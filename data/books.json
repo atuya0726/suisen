@@ -46949,5 +46949,1061 @@
       "日経デザイン"
     ],
     "publisher": "日経BP社"
+  },
+  {
+    "isbn13": "9784048930529",
+    "title": "プログラミング作法",
+    "authors": [
+      "Brian W. Kernighan",
+      "Rob Pike",
+      "福崎 俊博"
+    ],
+    "publisher": "ドワンゴ",
+    "publishedAt": "2017-01-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14597355/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0529/9784048930529_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274067938",
+    "title": "情熱プログラマー",
+    "authors": [
+      "チャド・ファウラー",
+      "でびあんぐる"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2010-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6395458/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7938/9784274067938.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274226298",
+    "title": "達人プログラマー（第2版）",
+    "authors": [
+      "Andrew Hunt",
+      "David Thomas",
+      "村上雅章"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2020-11-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16481114/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6298/9784274226298.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784532198763",
+    "title": "LEAN IN（リーン・イン）",
+    "authors": [
+      "シェリル・サンドバーグ",
+      "川本 裕子",
+      "村井 章子"
+    ],
+    "publisher": "日本経済新聞出版社",
+    "publishedAt": "2018-10-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15626509/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8763/9784532198763.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784621066089",
+    "title": "人月の神話",
+    "authors": [
+      "フレデリック・フィリップス・ブルックス",
+      "滝沢徹"
+    ],
+    "publisher": "丸善出版",
+    "publishedAt": "2014-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12749900/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6089/9784621066089.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774156545",
+    "title": "コーディングを支える技術 〜成り立ちから学ぶプログラミング作法",
+    "authors": [
+      "西尾泰和"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2013-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12272396/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6545/9784774156545.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798130507",
+    "title": "エッセンシャルスクラム",
+    "authors": [
+      "ケネス・S．ラビン",
+      "岡澤裕二"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2014-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12842933/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0507/9784798130507.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798147604",
+    "title": "DevOps導入指南 Infrastructure as Codeでチーム開発・サービス運用を効率化する",
+    "authors": [
+      "河村 聖悟",
+      "北野 太郎",
+      "中山 貴尋",
+      "日下部 貴章",
+      "株式会社リクルートテクノロジーズ"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2016-10-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14406879/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7604/9784798147604.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784862761545",
+    "title": "なぜ人と組織は変われないのか",
+    "authors": [
+      "ロバート・キーガン",
+      "リサ・ラスコウ・レイヒー",
+      "池村 千秋"
+    ],
+    "publisher": "英治出版",
+    "publishedAt": "2013-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12523496/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1545/9784862761545.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784862762979",
+    "title": "デュアルキャリア・カップル",
+    "authors": [
+      "ジェニファー・ペトリリエリ",
+      "高山真由美",
+      "篠田真貴子"
+    ],
+    "publisher": "英治出版",
+    "publishedAt": "2022-03-27",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17063213/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2979/9784862762979_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784320029484",
+    "title": "計算理論の基礎",
+    "authors": [
+      "M．シプサ"
+    ]
+  },
+  {
+    "isbn13": "9784774143279",
+    "title": "Emacsテクニックバイブル",
+    "authors": [
+      "るびきち"
+    ]
+  },
+  {
+    "isbn13": "9784873113661",
+    "title": "インターフェイス指向設計",
+    "authors": [
+      "ケン・パーク"
+    ]
+  },
+  {
+    "isbn13": "9784056026061",
+    "title": "500円でわかるエラーメッセージ",
+    "authors": [
+      "『パソコンQ＆Aマガジン』編集部"
+    ]
+  },
+  {
+    "isbn13": "9784797327038",
+    "title": "Java言語で学ぶデザインパターン入門",
+    "authors": [
+      "結城浩"
+    ],
+    "publisher": "SBクリエイティブ"
+  },
+  {
+    "isbn13": "9784756103079",
+    "title": "Linuxを256倍使うための本",
+    "authors": [
+      "生越昌己"
+    ]
+  },
+  {
+    "isbn13": "9784906638017",
+    "title": "7つの習慣",
+    "authors": [
+      "スティーヴン・R．コヴィー"
+    ]
+  },
+  {
+    "isbn13": "9784873118468",
+    "title": "Go言語による並行処理",
+    "authors": [
+      "Katherine Cox-Buday"
+    ],
+    "publisher": "オライリー・ジャパン"
+  },
+  {
+    "isbn13": "9784274068560",
+    "title": "アジャイルサムライ",
+    "authors": [
+      "ジョナサン・ラスマセン",
+      "西村直人"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2011-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11264116/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8560/9784274068560.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784873117430",
+    "title": "メタプログラミングRuby",
+    "authors": [
+      "Paolo Perrotta"
+    ],
+    "publisher": "オライリー・ジャパン"
+  },
+  {
+    "isbn13": "9784862462459",
+    "title": "The Nature of Code",
+    "authors": [
+      "ダニエル・シフマン"
+    ],
+    "publisher": "ボーンデジタル"
+  },
+  {
+    "isbn13": "9784048700023",
+    "title": "現代アートビジネス",
+    "authors": [
+      "小山 登美夫"
+    ],
+    "publisher": "角川アスキー総合研究所",
+    "publishedAt": "2008-04-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5581010/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0023/9784048700023.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784621066072",
+    "title": "珠玉のプログラミング",
+    "authors": [
+      "ジョン・ルイス・ベントリ"
+    ]
+  },
+  {
+    "isbn13": "9784839918200",
+    "title": "Write Great Code vol.1",
+    "authors": [
+      "ランダル・ハイド"
+    ]
+  },
+  {
+    "isbn13": "9784756101907",
+    "title": "文芸的プログラミング",
+    "authors": [
+      "ドナルド・E・クヌース"
+    ]
+  },
+  {
+    "isbn13": "9784756102133",
+    "title": "はじめて読む486",
+    "authors": [
+      "蒲地輝尚"
+    ]
+  },
+  {
+    "isbn13": "9784774104270",
+    "title": "Delphiオブジェクト指向プログラミング",
+    "authors": [
+      "塚越一雄"
+    ]
+  },
+  {
+    "isbn13": "9784049012033",
+    "title": "Clean Architecture 達人に学ぶソフトウェアの構造と設計",
+    "authors": [
+      "Robert C．Martin",
+      "角 征典",
+      "高木 正弘"
+    ],
+    "publisher": "ZEN大学出版会",
+    "publishedAt": "2026-07-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18669784/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2033/9784049012033_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274064067",
+    "title": "UNIXという考え方",
+    "authors": [
+      "マイク・ギャンカーズ",
+      "芳尾桂"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2001-02-23",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1319019/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2740/27406406.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274217883",
+    "title": "テスト駆動開発",
+    "authors": [
+      "Kent Beck",
+      "和田 卓人"
+    ],
+    "publisher": "株式会社オーム社",
+    "publishedAt": "2017-10-14",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14869144/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7883/9784274217883.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774142043",
+    "title": "Webを支える技術",
+    "authors": [
+      "山本陽平"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2010-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6385779/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2043/9784774142043.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798186627",
+    "title": "達人に学ぶDB設計徹底指南書 第2版",
+    "authors": [
+      "ミック"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2024-08-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17928840/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6627/9784798186627_1_130.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784814400744",
+    "title": "SQLアンチパターン 第2版",
+    "authors": [
+      "Bill Karwin",
+      "和田 卓人",
+      "児島 修"
+    ],
+    "publisher": "オライリー・ジャパン",
+    "publishedAt": "2025-07-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18224372/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0744/9784814400744_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784048676885",
+    "title": "Clean Code",
+    "authors": [
+      "ロバート・C．マーティン"
+    ]
+  },
+  {
+    "isbn13": "9784048860697",
+    "title": "Clean Coder",
+    "authors": [
+      "Robert C．Martin"
+    ]
+  },
+  {
+    "isbn13": "9784756137500",
+    "title": "プロフェショナルBSD",
+    "authors": [
+      "砂原秀樹"
+    ]
+  },
+  {
+    "isbn13": "9784274069116",
+    "title": "型システム入門",
+    "authors": [
+      "ベンジャミン・C．ピアス"
+    ]
+  },
+  {
+    "isbn13": "9784861999895",
+    "title": "寿司 虚空編",
+    "authors": [
+      "小林銅蟲"
+    ]
+  },
+  {
+    "isbn13": "9784484032054",
+    "title": "考具",
+    "authors": [
+      "加藤昌治"
+    ],
+    "publisher": "CCCメディアハウス",
+    "publishedAt": "2003-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1542771/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4840/48403205.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784802612081",
+    "title": "ほんとに、フォント。 フォントを活かしたデザインレイアウトの本",
+    "authors": [
+      "ingectar-e"
+    ],
+    "publisher": "ソシム",
+    "publishedAt": "2019-02-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15792443/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2081/9784802612081.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784839955557",
+    "title": "ノンデザイナーズ・デザインブック第4版",
+    "authors": [
+      "ロビン・ウィリアムズ",
+      "吉川典秀"
+    ],
+    "publisher": "マイナビ出版",
+    "publishedAt": "2016-06-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14291225/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5557/9784839955557.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784844365174",
+    "title": "なるほどデザイン",
+    "authors": [
+      "筒井 美希"
+    ],
+    "publisher": "エムディエヌ",
+    "publishedAt": "2015-07-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13318064/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5174/9784844365174_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784295400806",
+    "title": "デザインの次に来るもの",
+    "authors": [
+      "安西洋之",
+      "八重樫文"
+    ],
+    "publisher": "クロスメディア・パブリッシング",
+    "publishedAt": "2017-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14901204/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0806/9784295400806.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822235833",
+    "title": "佐藤オオキの　ボツ本",
+    "authors": [
+      "佐藤 オオキ"
+    ],
+    "publisher": "日経BP",
+    "publishedAt": "2016-12-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14573616/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5833/9784822235833.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822255251",
+    "title": "突破するデザイン",
+    "authors": [
+      "ロベルト・ベルガンティ",
+      "八重樫 文",
+      "安西 洋之",
+      "立命館大学経営学部DML"
+    ],
+    "publisher": "日経BP",
+    "publishedAt": "2017-06-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15023472/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5251/9784822255251.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784844366225",
+    "title": "たのしごとデザイン論",
+    "authors": [
+      "カイシトモヤ"
+    ],
+    "publisher": "エムディエヌコーポレーション",
+    "publishedAt": "2016-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14548354/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6225/9784844366225.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798140568",
+    "title": "バリュー・プロポジション・デザイン 顧客が欲しがる製品やサービスを創る",
+    "authors": [
+      "アレックス・オスターワルダー",
+      "イヴ・ピニュール",
+      "グレッグ・バーナーダ",
+      "アラン・スミス",
+      "関 美和"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2015-04-16",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13138733/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0568/9784798140568.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062653497",
+    "title": "日本語の正しい表記と用語の辞典　第三版",
+    "authors": [
+      "講談社校閲局"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2013-04-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12226464/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3497/9784062653497.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784764904439",
+    "title": "人間中心設計の基礎",
+    "authors": [
+      "黒須正明"
+    ],
+    "publisher": "近代科学社",
+    "publishedAt": "2013-06-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12323848/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4439/9784764904439.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784883351794",
+    "title": "広告コピーってこう書くんだ！読本",
+    "authors": [
+      "谷山雅計"
+    ],
+    "publisher": "宣伝会議",
+    "publishedAt": "2007-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/4521027/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8833/88335179.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784900450677",
+    "title": "アップルデザイン",
+    "authors": [
+      "ポ-ル・クンケル",
+      "大谷和利"
+    ],
+    "publisher": "アクシスパブリッシング",
+    "publishedAt": "1998-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/987963/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9004/90045067.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784334043551",
+    "title": "デザインが日本を変える",
+    "authors": [
+      "前田育男"
+    ],
+    "publisher": "光文社",
+    "publishedAt": "2018-05-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15470271/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3551/9784334043551.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784814400058",
+    "title": "UX戦略 第2版",
+    "authors": [
+      "Jaime Levy",
+      "安藤 幸央",
+      "長尾 高弘"
+    ],
+    "publisher": "オライリー・ジャパン",
+    "publishedAt": "2022-11-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17312650/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0058/9784814400058.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822276294",
+    "title": "デザインマネジメント",
+    "authors": [
+      "田子學",
+      "田子裕子"
+    ],
+    "publisher": "日経BP",
+    "publishedAt": "2014-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12818504/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6294/9784822276294.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784152084262",
+    "title": "発想する会社！",
+    "authors": [
+      "トム・ケリー",
+      "ジョナサン・リットマン"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2002-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1468307/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1520/15208426.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478016381",
+    "title": "ピクサー流創造するちから",
+    "authors": [
+      "エドウィン・キャットマル",
+      "エイミー・ワレス"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2014-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12937136/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6381/9784478016381.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784334962210",
+    "title": "NETFLIXの最強人事戦略",
+    "authors": [
+      "パティ・マッコード",
+      "櫻井祐子"
+    ],
+    "publisher": "光文社",
+    "publishedAt": "2018-08-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15580539/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2210/9784334962210.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784492503027",
+    "title": "the　four　GAFA　四騎士が創り変えた世界",
+    "authors": [
+      "スコット・ギャロウェイ",
+      "渡会 圭子"
+    ],
+    "publisher": "東洋経済新報社",
+    "publishedAt": "2018-07-27",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15533826/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3027/9784492503027.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784802510202",
+    "title": "みんなではじめるデザイン批評",
+    "authors": [
+      "アーロン・イザリー",
+      "アダム・コナー",
+      "安藤貴子"
+    ],
+    "publisher": "ビー・エヌ・エヌ新社",
+    "publishedAt": "2016-05-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14141658/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0202/9784802510202.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784022511744",
+    "title": "センスは知識からはじまる",
+    "authors": [
+      "水野学"
+    ],
+    "publisher": "朝日新聞出版",
+    "publishedAt": "2014-04-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12704401/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1744/9784022511744_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784862671066",
+    "title": "IAシンキング",
+    "authors": [
+      "坂本貴史"
+    ],
+    "publisher": "ボーンデジタル",
+    "publishedAt": "2011-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11126546/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1066/9784862671066.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784862464125",
+    "title": "Design Systems",
+    "authors": [
+      "アラ・コルマトヴァ"
+    ],
+    "publisher": "ボーンデジタル",
+    "publishedAt": "2018-12-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15703504/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4125/9784862464125.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784797395235",
+    "title": "1分で話せ",
+    "authors": [
+      "伊藤 羊一"
+    ],
+    "publisher": "SBクリエイティブ",
+    "publishedAt": "2018-03-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15306302/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5235/9784797395235_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784492556559",
+    "title": "論点思考",
+    "authors": [
+      "内田和成"
+    ],
+    "publisher": "東洋経済新報社",
+    "publishedAt": "2010-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6253441/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6559/9784492556559.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784861523557",
+    "title": "ENCYCLOPEDIA OF FLOWERS 植物図鑑",
+    "authors": [
+      "東信",
+      "椎木俊介"
+    ],
+    "publisher": "青幻舎",
+    "publishedAt": "2012-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11788234/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3557/9784861523557_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784568502770",
+    "title": "欧文書体",
+    "authors": [
+      "小林章"
+    ]
+  },
+  {
+    "isbn13": "9784861006890",
+    "title": "きれいな欧文書体とデザイン",
+    "authors": [
+      "甲谷一"
+    ],
+    "publisher": "ビー・エヌ・エヌ新社",
+    "publishedAt": "2010-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6388530/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6890/9784861006890.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784861007439",
+    "title": "イラストのこと、キャラクターデザインのこと。",
+    "authors": [
+      "坂崎千春"
+    ],
+    "publisher": "ビー・エヌ・エヌ新社",
+    "publishedAt": "2011-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6965610/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7439/9784861007439.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784908356025",
+    "title": "シンプルの正体",
+    "authors": [
+      "ブルーシープ"
+    ]
+  },
+  {
+    "isbn13": "9784568503654",
+    "title": "差分",
+    "authors": [
+      "佐藤雅彦",
+      "菅俊一"
+    ],
+    "publisher": "美術出版社",
+    "publishedAt": "2008-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6024364/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3654/9784568503654.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784102407417",
+    "title": "母親になって後悔してる",
+    "authors": [
+      "オルナ・ドーナト",
+      "鹿田 昌美"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2025-02-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18119759/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7417/9784102407417_1_9.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784122070707",
+    "title": "女が死ぬ",
+    "authors": [
+      "松田 青子"
+    ],
+    "publisher": "中央公論新社",
+    "publishedAt": "2021-05-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16707028/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0707/9784122070707.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784103552918",
+    "title": "穏やかなゴースト 画家・中園孔二を追って",
+    "authors": [
+      "村岡 俊也"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2023-08-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17551574/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2918/9784103552918_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478107829",
+    "title": "苦しかったときの話をしようか",
+    "authors": [
+      "森岡 毅"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2019-04-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15830754/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7829/9784478107829_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784621089514",
+    "title": "一人から始めるユーザーエクスペリエンス",
+    "authors": [
+      "リア・バーレイ",
+      "長谷川敦士"
+    ],
+    "publisher": "丸善出版",
+    "publishedAt": "2015-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13329614/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9514/9784621089514.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798143330",
+    "title": "Web制作者のためのUXデザインをはじめる本 ユーザビリティ評価からカスタマージャーニーマップまで",
+    "authors": [
+      "玉飼 真一",
+      "村上 竜介",
+      "佐藤 哲",
+      "太田 文明",
+      "常盤 晋作",
+      "株式会社アイ・エム・ジェイ"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2016-11-14",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14493475/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3330/9784798143330.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784802511155",
+    "title": "UIデザイナーのためのSketch入門＆実践ガイド 改訂第2版",
+    "authors": [
+      "吉竹 遼"
+    ],
+    "publisher": "ビー・エヌ・エヌ新社",
+    "publishedAt": "2018-11-16",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15626857/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1155/9784802511155.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784802511902",
+    "title": "Good Service",
+    "authors": [
+      "ルー・ダウン",
+      "ヤナガワ智予"
+    ],
+    "publisher": "ビー・エヌ・エヌ新社",
+    "publishedAt": "2020-12-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16461098/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1902/9784802511902.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784844368595",
+    "title": "UIデザインみんなで考え、カイゼンする。",
+    "authors": [
+      "栄前田勝太郎",
+      "河西紀明"
+    ],
+    "publisher": "エムディエヌコーポレーション",
+    "publishedAt": "2019-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15828355/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8595/9784844368595.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784862464484",
+    "title": "グリッドシステム",
+    "authors": [
+      "Josef Müller-Brockmann"
+    ],
+    "publisher": "ボーンデジタル",
+    "publishedAt": "2019-11-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16006292/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4484/9784862464484.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784862763563",
+    "title": "イシューからはじめよ［改訂版］",
+    "authors": [
+      "安宅和人"
+    ],
+    "publisher": "英治出版",
+    "publishedAt": "2024-09-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17954031/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3563/9784862763563_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784000240055",
+    "title": "デザインのデザイン",
+    "authors": [
+      "原 研哉"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "2003-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1606569/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0002/00024005.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784845913053",
+    "title": "イメージと意味の本",
+    "authors": [
+      "ショーン・ホール",
+      "前田茂"
+    ],
+    "publisher": "フィルムアート社",
+    "publishedAt": "2013-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12486085/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3053/9784845913053.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784802510998",
+    "title": "デザインはストーリーテリング",
+    "authors": [
+      "エレン・ラプトン",
+      "ヤナガワ智予",
+      "須永剛司"
+    ],
+    "publisher": "ビー・エヌ・エヌ新社",
+    "publishedAt": "2018-10-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15441477/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0998/9784802510998.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822271794",
+    "title": "SEのためのUIデザインの教科書",
+    "authors": [
+      "篠原稔和"
+    ]
+  },
+  {
+    "isbn13": "9784873115313",
+    "title": "デザイニング・インターフェース",
+    "authors": [
+      "ジェニファー・ティドウェル"
+    ]
+  },
+  {
+    "isbn13": "9784844339922",
+    "title": "いちばんやさしいグロースハックの教本",
+    "authors": [
+      "金山裕樹"
+    ]
+  },
+  {
+    "isbn13": "9784041041413",
+    "title": "USJを劇的に変えた、たった1つの考え方 成功を引き寄せるマーケティング入門",
+    "authors": [
+      "森岡 毅"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2016-04-23",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13868907/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1413/9784041041413.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784839914196",
+    "title": "ウェブ戦略としての「ユーザーエクスペリエンス」",
+    "authors": [
+      "ジェシー・ジェームズ・ギャレット"
+    ]
+  },
+  {
+    "isbn13": "9784766133356",
+    "title": "資料集 日本のトレードマークとロゴタイプ",
+    "authors": [
+      "グラフィック社編集部"
+    ]
+  },
+  {
+    "isbn13": "9784861009389",
+    "title": "融けるデザイン",
+    "authors": [
+      "渡邊恵太"
+    ]
+  },
+  {
+    "isbn13": "9784861009884",
+    "title": "伝わるWebライティング",
+    "authors": [
+      "ニコル・フェントン"
+    ]
+  },
+  {
+    "isbn13": "9784309501888",
+    "title": "インダストリアルデザインが面白い",
+    "authors": [
+      "栄久庵憲司"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2000-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1119154/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3095/30950188.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784900450783",
+    "title": "アキッレ・カスティリオーニ",
+    "authors": [
+      "多木陽介"
+    ],
+    "publisher": "アクシスパブリッシング",
+    "publishedAt": "2007-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5212412/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9004/90045078.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784863241121",
+    "title": "発酵文化人類学",
+    "authors": [
+      "小倉ヒラク"
+    ],
+    "publisher": "木楽舎",
+    "publishedAt": "2017-04-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14905504/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1121/9784863241121_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

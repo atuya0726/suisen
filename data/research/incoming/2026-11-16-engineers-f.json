@@ -1,0 +1,691 @@
+{
+ "people": [
+  {
+   "id": "kishida",
+   "name": "きしだなおき",
+   "title": "LINE Fukuoka株式会社 ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "LINE Fukuoka"
+  },
+  {
+   "id": "shibata",
+   "name": "柴田博志",
+   "title": "株式会社アンドパッド 技術広報（Rubyコミッター）",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "アンドパッド"
+  },
+  {
+   "id": "shougo",
+   "name": "Shougo",
+   "title": "Vimプラグイン開発者",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "minodrive",
+   "name": "ミノ駆動",
+   "title": "アプリケーションアーキテクト",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "memory",
+   "name": "めもりー",
+   "title": "株式会社エンペイ エンジニアリングマネージャー",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "エンペイ"
+  },
+  {
+   "id": "motemen",
+   "name": "motemen",
+   "title": "株式会社はてな CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "はてな"
+  },
+  {
+   "id": "aratama",
+   "name": "あらたま",
+   "title": "株式会社LayerX ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "LayerX"
+  },
+  {
+   "id": "hikalium",
+   "name": "hikalium",
+   "title": "ソフトウェアエンジニア（ChromeOS開発）",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "akim",
+   "name": "aki.m",
+   "title": "デロイトトーマツコンサルティング合同会社 アジャイルコーチ",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "デロイトトーマツコンサルティング"
+  },
+  {
+   "id": "kawasaki",
+   "name": "川崎雄太",
+   "title": "株式会社ココナラ Dev Enabling室 室長",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ココナラ"
+  },
+  {
+   "id": "pospome",
+   "name": "pospome",
+   "title": "株式会社カミナシ VP of Engineering",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "カミナシ"
+  },
+  {
+   "id": "uzulla",
+   "name": "uzulla",
+   "title": "フリーランスエンジニア",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "frenchbread",
+   "name": "frenchbread",
+   "title": "合同会社しろもふファクトリー 代表（フリーランスエンジニア）",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "しろもふファクトリー"
+  },
+  {
+   "id": "yuki",
+   "name": "yuki",
+   "title": "ソフトウェアアーキテクト",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "sivchari",
+   "name": "sivchari",
+   "title": "株式会社LayerX Software Engineer",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "LayerX"
+  },
+  {
+   "id": "takabow",
+   "name": "Taka_bow",
+   "title": "ファインディ株式会社 エンジニア兼プロセス改善コーチ",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "jiskanulo",
+   "name": "jiskanulo",
+   "title": "ファインディ株式会社 バックエンドエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "shakemurasan",
+   "name": "shakemurasan",
+   "title": "ファインディ株式会社 キャリアプロダクト開発部 マネージャー",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "ikezawa",
+   "name": "池澤あやか",
+   "title": "ソフトウエアエンジニア、タレント",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "hara",
+   "name": "原トリ",
+   "title": "株式会社カミナシ 執行役員CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "カミナシ"
+  },
+  {
+   "id": "vitaone",
+   "name": "ビタワン",
+   "title": "プログラマ兼漫画家（フリーランス）",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "kyunkun",
+   "name": "きゅんくん",
+   "title": "メカエンジニア",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "mktakuya",
+   "name": "mktakuya",
+   "title": "ノバセル エンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ノバセル"
+  },
+  {
+   "id": "sat",
+   "name": "sat",
+   "title": "Rook（メンテナ）/Ceph/K8s/TopoLVM（メンテナ）",
+   "tags": [
+    "エンジニア"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "fm1",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた",
+   "url": "https://findy-code.io/media/articles/influential-books",
+   "publishedAt": "2022-12-27"
+  },
+  {
+   "id": "fm2",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第二弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-2",
+   "publishedAt": "2023-06-05"
+  },
+  {
+   "id": "fm3",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第三弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-3",
+   "publishedAt": "2023-11-15"
+  },
+  {
+   "id": "fm4",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第四弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-4",
+   "publishedAt": "2024-05-30"
+  },
+  {
+   "id": "fm5",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第五弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-5",
+   "publishedAt": "2024-10-22"
+  },
+  {
+   "id": "fm6",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第六弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-6",
+   "publishedAt": "2025-06-06"
+  },
+  {
+   "id": "fm7",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第七弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-7",
+   "publishedAt": "2025-11-11"
+  },
+  {
+   "id": "fmy",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん",
+   "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+   "publishedAt": "2026-11-04"
+  },
+  {
+   "id": "tb1",
+   "type": "interview",
+   "media": "Findy Tech Blog",
+   "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part1",
+   "url": "https://tech.findy.co.jp/entry/2024/09/13/090000",
+   "publishedAt": "2024-09-13"
+  },
+  {
+   "id": "tb5",
+   "type": "interview",
+   "media": "Findy Tech Blog",
+   "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part5",
+   "url": "https://tech.findy.co.jp/entry/2025/10/24/070000",
+   "publishedAt": "2025-10-24"
+  },
+  {
+   "id": "et1",
+   "type": "interview",
+   "media": "エンジニアtype",
+   "title": "「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【技術書編】",
+   "url": "https://type.jp/et/feature/20591/",
+   "publishedAt": "2022-09-29"
+  },
+  {
+   "id": "et2",
+   "type": "interview",
+   "media": "エンジニアtype",
+   "title": "第二弾はキャリア編！「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【キャリア書編】",
+   "url": "https://type.jp/et/feature/20727/",
+   "publishedAt": "2022-10-11"
+  },
+  {
+   "id": "ambi",
+   "type": "interview",
+   "media": "アンビ（AMBI）",
+   "title": "時代をリードするエンジニア19人が推薦！ 若手エンジニアに薦めたい「座右の書」",
+   "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+   "publishedAt": "2017-10-27"
+  },
+  {
+   "id": "rk",
+   "type": "interview",
+   "media": "RAKSUL TechBlog",
+   "title": "ラクスルグループ各CTOとエンジニアに聞いた！新卒エンジニアに贈る～スペシャルな一冊",
+   "url": "https://techblog.raksul.com/entry/book",
+   "publishedAt": "2022-08-31"
+  },
+  {
+   "id": "zenn",
+   "type": "article",
+   "media": "Zenn",
+   "title": "ソフトウェア開発者人生に影響を与えてきた本",
+   "url": "https://zenn.dev/satoru_takeuchi/articles/b4d0b811874522",
+   "publishedAt": "2021-01-10"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kishida",
+   "sourceId": "fm1",
+   "book": {
+    "title": "計算理論の基礎",
+    "author": "M．シプサ",
+    "isbn": "9784320029484"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shibata",
+   "sourceId": "fm2",
+   "book": {
+    "title": "LEAN IN",
+    "author": "シェリル・サンドバーグ",
+    "isbn": "9784532198763"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shougo",
+   "sourceId": "fm2",
+   "book": {
+    "title": "Emacsテクニックバイブル",
+    "author": "るびきち",
+    "isbn": "9784774143279"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minodrive",
+   "sourceId": "fm3",
+   "book": {
+    "title": "リファクタリング",
+    "author": "マーティン・ファウラー",
+    "publisher": "オーム社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "memory",
+   "sourceId": "fm3",
+   "book": {
+    "title": "ブラック・ジャック",
+    "author": "手塚 治虫",
+    "edition": "シリーズ",
+    "isbn": "9784253031608"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "motemen",
+   "sourceId": "fm3",
+   "book": {
+    "title": "インターフェイス指向設計",
+    "author": "ケン・パーク",
+    "isbn": "9784873113661"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aratama",
+   "sourceId": "fm4",
+   "book": {
+    "title": "なぜ人と組織は変われないのか",
+    "author": "ロバート・キーガン",
+    "subtitle": "ハーバード流 自己変革の理論と実践",
+    "isbn": "9784862761545"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hikalium",
+   "sourceId": "fm4",
+   "book": {
+    "title": "500円でわかるエラーメッセージ",
+    "author": "『パソコンQ＆Aマガジン』編集部",
+    "isbn": "9784056026061"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "akim",
+   "sourceId": "fm5",
+   "book": {
+    "title": "エッセンシャルスクラム",
+    "author": "ケネス・S．ラビン",
+    "subtitle": "アジャイル開発に関わるすべての人のための完全攻略ガイド",
+    "isbn": "9784798130507"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawasaki",
+   "sourceId": "fm6",
+   "book": {
+    "title": "DevOps導入指南",
+    "author": "河村 聖悟",
+    "subtitle": "Infrastructure as Codeでチーム開発・サービス運用を効率化する",
+    "isbn": "9784798147604"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "pospome",
+   "sourceId": "fm6",
+   "book": {
+    "title": "Java言語で学ぶデザインパターン入門",
+    "author": "結城浩",
+    "edition": "増補改訂版",
+    "publisher": "SBクリエイティブ",
+    "isbn": "4797327030",
+    "linkUrl": "https://www.sbcr.jp/product/4797327030/"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "uzulla",
+   "sourceId": "fm7",
+   "book": {
+    "title": "Linuxを256倍使うための本",
+    "author": "生越昌己",
+    "isbn": "9784756103079"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "frenchbread",
+   "sourceId": "fm7",
+   "book": {
+    "title": "7つの習慣",
+    "author": "スティーヴン・R．コヴィー",
+    "isbn": "9784906638017"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "fmy",
+   "book": {
+    "title": "コーディングを支える技術",
+    "author": "西尾泰和",
+    "publisher": "技術評論社",
+    "isbn": "9784774156545",
+    "linkUrl": "https://gihyo.jp/book/2013/978-4-7741-5654-5"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sivchari",
+   "sourceId": "fmy",
+   "book": {
+    "title": "Go言語による並行処理",
+    "author": "Katherine Cox-Buday",
+    "publisher": "オライリー・ジャパン",
+    "isbn": "9784873118468",
+    "linkUrl": "https://www.oreilly.co.jp/books/9784873118468/"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takabow",
+   "sourceId": "tb1",
+   "book": {
+    "title": "1兆ドルコーチ",
+    "author": "エリック・シュミット,ジョナサン・ローゼンバーグ,アラン・イーグル",
+    "subtitle": "シリコンバレーのレジェンド ビル・キャンベルの成功の教え",
+    "publisher": "ダイヤモンド社",
+    "isbn": "4478107246"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "jiskanulo",
+   "sourceId": "tb1",
+   "book": {
+    "title": "アジャイルサムライ",
+    "author": "Jonathan Rasmusson,西村直人,角谷信太郎",
+    "subtitle": "達人開発者への道",
+    "publisher": "オーム社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "shakemurasan",
+   "sourceId": "tb5",
+   "book": {
+    "title": "メタプログラミングRuby",
+    "author": "Paolo Perrotta",
+    "edition": "第2版",
+    "publisher": "オライリー・ジャパン",
+    "isbn": "4873117437"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "ikezawa",
+   "sourceId": "et1",
+   "book": {
+    "title": "The Nature of Code",
+    "author": "ダニエル・シフマン",
+    "publisher": "ボーンデジタル",
+    "isbn": "9784862462459"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikezawa",
+   "sourceId": "et2",
+   "book": {
+    "title": "デュアルキャリア・カップル",
+    "author": "ジェニファー・ペトリリエリ",
+    "publisher": "英治出版",
+    "isbn": "9784862762979"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hara",
+   "sourceId": "et1",
+   "book": {
+    "title": "Java言語で学ぶデザインパターン入門",
+    "author": "結城浩",
+    "edition": "増補改訂版",
+    "publisher": "SBクリエイティブ",
+    "isbn": "9784797327038"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "vitaone",
+   "sourceId": "ambi",
+   "book": {
+    "title": "リーダブルコード",
+    "author": "Dustin Boswell,Trevor Foucher",
+    "publisher": "オライリー・ジャパン"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "kyunkun",
+   "sourceId": "ambi",
+   "book": {
+    "title": "現代アートビジネス",
+    "author": "小山登美夫",
+    "publisher": "アスキー・メディアワークス"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "mktakuya",
+   "sourceId": "rk",
+   "book": {
+    "title": "情熱プログラマー",
+    "author": "チャド・ファウラー",
+    "subtitle": "ソフトウェア開発者の幸せな生き方",
+    "publisher": "オーム社",
+    "linkUrl": "https://shop.ohmsha.co.jp/shopdetail/000000001848/",
+    "isbn": "9784274067938"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "達人プログラマー",
+    "author": "Andrew Hunt",
+    "isbn": "9784274226298",
+    "linkUrl": "https://amzn.to/3zsPKWc"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "プログラミング作法",
+    "author": "Brian W. Kernighan",
+    "linkUrl": "https://amzn.to/2UCMhWq",
+    "isbn": "9784048930529"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "珠玉のプログラミング",
+    "author": "ジョン・ルイス・ベントリ",
+    "isbn": "4621066072",
+    "linkUrl": "https://amzn.to/3x2LFpS"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "Write Great Code vol.1",
+    "author": "ランダル・ハイド",
+    "linkUrl": "https://amzn.to/3rxFU2H",
+    "isbn": "9784839918200"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "文芸的プログラミング",
+    "author": "ドナルド・E・クヌース",
+    "isbn": "4756101909",
+    "linkUrl": "https://amzn.to/3eOKMuW"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "はじめて読む486",
+    "author": "蒲地輝尚",
+    "isbn": "4756102131",
+    "linkUrl": "https://amzn.to/36V0vV9"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "Delphiオブジェクト指向プログラミング",
+    "author": "塚越一雄",
+    "isbn": "4774104272",
+    "linkUrl": "https://amzn.to/3y2gjkT"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sat",
+   "sourceId": "zenn",
+   "book": {
+    "title": "人月の神話",
+    "author": "フレデリック・フィリップス・ブルックス",
+    "isbn": "4621066080",
+    "linkUrl": "https://amzn.to/36Y3xbe"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

@@ -1,0 +1,579 @@
+{
+ "people": [
+  {
+   "id": "endo",
+   "name": "遠藤大輔",
+   "title": "グラフィックデザイナー（プラット・インスティテュート講師）",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "suzuki",
+   "name": "鈴木健一",
+   "title": "株式会社プレイド デザイナー",
+   "tags": [
+    "デザイナー"
+   ],
+   "affiliation": "プレイド"
+  },
+  {
+   "id": "sakao",
+   "name": "坂尾拓哉",
+   "title": "プラスニド・デザイン CEO",
+   "tags": [
+    "デザイナー",
+    "経営者"
+   ],
+   "affiliation": "プラスニド・デザイン"
+  },
+  {
+   "id": "hamasaki",
+   "name": "はまさきともや",
+   "title": "フリーランスUIデザイナー（th design studio）",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "mishima",
+   "name": "三島大世",
+   "title": "プロダクトデザイナー",
+   "tags": [
+    "デザイナー"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_endo",
+   "type": "article",
+   "media": "note",
+   "title": "デザインの教科書【デザインの「考え方」を学べる厳選５冊】",
+   "url": "https://note.com/daisuke0226/n/n890142b2a0f1",
+   "publishedAt": "2021-01-21"
+  },
+  {
+   "id": "s_suzuki",
+   "type": "article",
+   "media": "note",
+   "title": "新規入社するデザイナー向けにおすすめしたい書籍11選をまとめてみた",
+   "url": "https://note.com/kenichisuzuki/n/n69a7fefeef5e",
+   "publishedAt": "2018-12-21"
+  },
+  {
+   "id": "s_sakao",
+   "type": "article",
+   "media": "note",
+   "title": "【厳選デザイン本32選】デザイナーとして、さらに活躍のフィールドを広げたい方におすすめの書籍集",
+   "url": "https://note.com/ta9low/n/nb394538d3bb9",
+   "publishedAt": "2020-04-22"
+  },
+  {
+   "id": "s_hamasaki",
+   "type": "article",
+   "media": "note",
+   "title": "UIデザイナーが読んで良かったと思うおすすめ書籍7選［2022年上半期］",
+   "url": "https://note.com/hamasakitomoya/n/n0c75bacc31c0",
+   "publishedAt": "2022-06-21"
+  },
+  {
+   "id": "s_mishima",
+   "type": "article",
+   "media": "note",
+   "title": "プロダクトデザイナーが好きな本・影響を受けた本【7選】",
+   "url": "https://note.com/taiseimishima/n/n1d4856a603df",
+   "publishedAt": "2020-06-01"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "endo",
+   "sourceId": "s_endo",
+   "book": {
+    "title": "デザインのデザイン",
+    "author": "原研哉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "endo",
+   "sourceId": "s_endo",
+   "book": {
+    "title": "イメージと意味の本",
+    "author": "ショーン・ホール",
+    "subtitle": "記号を読み解くトレーニングブック"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "endo",
+   "sourceId": "s_endo",
+   "book": {
+    "title": "デザインはストーリーテリング",
+    "author": "エレン・ラプトン",
+    "subtitle": "「体験」を生み出すためのデザインの道具箱"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "endo",
+   "sourceId": "s_endo",
+   "book": {
+    "title": "誰のためのデザイン？",
+    "author": "ドン・ノーマン",
+    "edition": "増補・改訂版",
+    "subtitle": "認知科学者のデザイン原論"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "endo",
+   "sourceId": "s_endo",
+   "book": {
+    "title": "グラフィックデザイナーたちの理論",
+    "author": "ヘレン・アームストロング"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "Web制作者のためのUXデザインをはじめる本",
+    "author": "玉飼 真一",
+    "subtitle": "ユーザビリティ評価からカスタマージャーニーマップまで",
+    "isbn": "9784798143330"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "SEのためのUIデザインの教科書",
+    "author": "篠原稔和",
+    "isbn": "9784822271794"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "デザイニング・インターフェース",
+    "author": "ジェニファー・ティドウェル",
+    "edition": "第2版",
+    "subtitle": "パターンによる実践的インタラクションデザイン",
+    "isbn": "9784873115313"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "UIデザイナーのためのSketch入門&実践ガイド",
+    "author": "吉竹 遼",
+    "edition": "改訂第2版",
+    "isbn": "9784802511155"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "いちばんやさしいグロースハックの教本",
+    "author": "金山裕樹",
+    "subtitle": "人気講師が教える急成長マーケティング戦略",
+    "isbn": "9784844339922"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "バリュー・プロポジション・デザイン",
+    "author": "アレックス・オスターワルダー",
+    "subtitle": "顧客が欲しがる製品やサービスを創る",
+    "isbn": "9784798140568"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "リーンアナリティクス",
+    "author": "",
+    "subtitle": "スタートアップのためのデータ解析と活用法"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "ＵＳＪを劇的に変えた、たった１つの考え方",
+    "author": "森岡毅",
+    "subtitle": "成功を引き寄せるマーケティング入門"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "イシューからはじめよ",
+    "author": "安宅和人",
+    "subtitle": "知的生産の「シンプルな本質」",
+    "isbn": "9784862763563"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "s_suzuki",
+   "book": {
+    "title": "ウェブ戦略としての「ユーザーエクスペリエンス」",
+    "author": "ジェシー・ジェームズ・ギャレット",
+    "subtitle": "5つの段階で考えるユーザー中心デザイン",
+    "isbn": "9784839914196"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "誰のためのデザイン？",
+    "author": "ドナルド・A．ノーマン",
+    "isbn": "9784788514348"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "Web制作者のためのUXデザインをはじめる本",
+    "author": "玉飼 真一",
+    "isbn": "9784798143330"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "成長を可能にするためブランド資産を活用する",
+    "author": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "UIデザイン みんなで考え、カイゼンする。",
+    "author": "栄前田勝太郎",
+    "isbn": "9784844368595"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "一人から始めるユーザーエクスペリエンス",
+    "author": "リア・バーレイ",
+    "isbn": "9784621089514"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "UX戦略",
+    "author": "ジェイミー・レヴィ",
+    "isbn": "9784814400058"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "タイポグラフィ",
+    "author": "",
+    "subtitle": "タイポグラフィ的造形の手引き"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "グリッドシステム",
+    "author": "Josef Müller-Brockmann",
+    "subtitle": "グラフィックデザインのために",
+    "isbn": "9784862464484"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakao",
+   "sourceId": "s_sakao",
+   "book": {
+    "title": "資料集 日本のトレードマークとロゴタイプ",
+    "author": "グラフィック社編集部",
+    "isbn": "9784766133356"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "はじめてのUIデザイン",
+    "author": "",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "融けるデザイン",
+    "author": "渡邊恵太",
+    "subtitle": "ハード×ソフト×ネット時代の新たな設計論",
+    "isbn": "9784861009389"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "Good Service",
+    "author": "ルー・ダウン",
+    "subtitle": "DX時代における\"本当に使いやすい\"サービス作りの原則15",
+    "isbn": "9784802511902"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "Think CIVILITY",
+    "author": "クリスティーン・ポラス",
+    "subtitle": "「礼儀正しさ」こそ最強の生存戦略である",
+    "isbn": "9784492046494"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "伝わるWebライティング",
+    "author": "ニコル・フェントン",
+    "isbn": "9784861009884"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "なるほどデザイン",
+    "author": "筒井 美希",
+    "isbn": "9784844365174"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamasaki",
+   "sourceId": "s_hamasaki",
+   "book": {
+    "title": "苦しかったときの話をしようか",
+    "author": "森岡 毅",
+    "isbn": "9784478107829"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mishima",
+   "sourceId": "s_mishima",
+   "book": {
+    "title": "インダストリアルデザインが面白い",
+    "author": "栄久庵憲司"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mishima",
+   "sourceId": "s_mishima",
+   "book": {
+    "title": "アキッレ・カスティリオーニ",
+    "author": "多木陽介",
+    "subtitle": "自由の探求としてのデザイン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mishima",
+   "sourceId": "s_mishima",
+   "book": {
+    "title": "発酵文化人類学",
+    "author": "小倉ヒラク"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://note.com/daisuke0226/n/n890142b2a0f1",
+   "result": "index",
+   "reason": "採用",
+   "person": "遠藤大輔"
+  },
+  {
+   "url": "https://note.com/kenichisuzuki/n/n69a7fefeef5e",
+   "result": "index",
+   "reason": "採用",
+   "person": "鈴木健一"
+  },
+  {
+   "url": "https://note.com/ta9low/n/nb394538d3bb9",
+   "result": "index",
+   "reason": "採用",
+   "person": "坂尾拓哉"
+  },
+  {
+   "url": "https://note.com/hamasakitomoya/n/n0c75bacc31c0",
+   "result": "index",
+   "reason": "採用",
+   "person": "はまさきともや"
+  },
+  {
+   "url": "https://note.com/taiseimishima/n/n1d4856a603df",
+   "result": "index",
+   "reason": "採用",
+   "person": "三島大世"
+  },
+  {
+   "url": "https://note.com/ksmr/n/n96e823adc9b9",
+   "result": "candidate",
+   "reason": "About Face・オブジェクト指向UIデザイン等。書き手kassyの実名・所属が確認できず保留",
+   "person": "kassy"
+  },
+  {
+   "url": "https://note.com/taramek/n/n8ba362913e0c",
+   "result": "candidate",
+   "reason": "融けるデザイン・誰のためのデザイン？・About Face 3など定番だが、筆名Shinoの素性が確認できず保留",
+   "person": "Shino"
+  },
+  {
+   "url": "https://note.com/akio_yoshihashi/n/n70602ddc58c6",
+   "result": "candidate",
+   "reason": "UIデザインのブックリスト（定番多数）。吉橋昭夫氏の肩書き未確認で保留",
+   "person": "yoshi_design"
+  },
+  {
+   "url": "https://note.com/akio_yoshihashi/n/n1b75a065dcfc",
+   "result": "candidate",
+   "reason": "UXブックリスト。同上",
+   "person": "yoshi_design"
+  },
+  {
+   "url": "https://note.com/licht_fkzw/n/nacc67dd2ba2f",
+   "result": "candidate",
+   "reason": "ノンデザイナーズ・デザインブック等。筆者りひとの所属が匿名で保留",
+   "person": "りひと"
+  },
+  {
+   "url": "https://note.com/siksan_design/n/ndf0ac2ec72ae",
+   "result": "candidate",
+   "reason": "アートディレクターの流儀等。筆名シクの素性が確認できず保留",
+   "person": "シク"
+  },
+  {
+   "url": "https://note.com/siksan_design/n/nd70b33d41302",
+   "result": "candidate",
+   "reason": "同上",
+   "person": "シク"
+  },
+  {
+   "url": "https://note.com/iino_design/n/nc10802411790",
+   "result": "candidate",
+   "reason": "49冊。画集中心、匿名のフリーランスで保留",
+   "person": "いいの"
+  },
+  {
+   "url": "https://note.com/tambo_inc/n/n0ea8f93e6ee2",
+   "result": "rejected",
+   "reason": "作品集・欧文書体中心で定番を含まない、素性不明",
+   "person": "田辺"
+  },
+  {
+   "url": "https://note.com/ikutani41/n/nf50e3277cdea",
+   "result": "rejected",
+   "reason": "匿名ハンドル、2018年、書籍でないものを含む",
+   "person": "ikutani41"
+  },
+  {
+   "url": "https://note.com/f4samurai/n/ndc4c82e8800e",
+   "result": "rejected",
+   "reason": "企業公式の記事で個人名義でない",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/mixi_design/n/n0084cafcc5d7",
+   "result": "rejected",
+   "reason": "企業の部署名義でまとめた36冊、個人が特定できない",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/smartcamp_design/n/n0406b2fb31be",
+   "result": "rejected",
+   "reason": "企業デザインブログの名義記事",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/natsuki_natsuki/n/n920aa457e5f0",
+   "result": "rejected",
+   "reason": "調査済み台帳に既出",
+   "person": ""
+  },
+  {
+   "url": "https://designer.crowdworks.co.jp/entry/designbooks",
+   "result": "candidate",
+   "reason": "複数デザイナーに聞いた影響を受けた本。今回読めず",
+   "person": ""
+  },
+  {
+   "url": "https://techblog.enechain.com/entry/designers-books",
+   "result": "candidate",
+   "reason": "enechainデザイナーの本棚。今回読めず",
+   "person": ""
+  },
+  {
+   "url": "https://magazine.redesigner.jp/post/ReDesigner-OnlineTalk-vol1",
+   "result": "candidate",
+   "reason": "デザイナー人生に影響を与えた書籍9選。今回読めず",
+   "person": ""
+  },
+  {
+   "url": "https://designer-draft.jp/articles/125",
+   "result": "candidate",
+   "reason": "ドラフト指名されたデザイナーが選ぶ影響を受けた本8選。今回読めず",
+   "person": ""
+  }
+ ]
+}
