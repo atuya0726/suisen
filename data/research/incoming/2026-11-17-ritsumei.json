@@ -1,0 +1,706 @@
+{
+ "people": [
+  {
+   "id": "kudou",
+   "name": "工藤春代",
+   "title": "立命館大学 食マネジメント学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "sakai",
+   "name": "酒井絢美",
+   "title": "立命館大学 食マネジメント学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "sur",
+   "name": "Sur Pramod Kumar",
+   "title": "立命館大学 食マネジメント学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "tsutsui",
+   "name": "筒井俊之",
+   "title": "立命館大学 食マネジメント学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "yasui",
+   "name": "安井大輔",
+   "title": "立命館大学 食マネジメント学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "muramoto",
+   "name": "村本邦子",
+   "title": "立命館大学 人間科学研究科",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "anbo",
+   "name": "安保寛尚",
+   "title": "立命館大学 法学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "anzako",
+   "name": "庵逧由香",
+   "title": "立命館大学 文学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "eguchi",
+   "name": "江口友朗",
+   "title": "立命館大学 産業社会学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "fujii",
+   "name": "藤井偵介",
+   "title": "立命館大学 政策科学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_kudou",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 工藤春代先生（食マネジメント学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/kudou",
+   "publishedAt": "2024-01-15"
+  },
+  {
+   "id": "s_sakai",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 酒井絢美先生（食マネジメント学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/sakai"
+  },
+  {
+   "id": "s_sur",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 Sur Pramod Kumar先生（食マネジメント学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/sur_pramod_kuma",
+   "publishedAt": "2024-01-15"
+  },
+  {
+   "id": "s_tsutsui",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 筒井俊之先生（食マネジメント学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/tsutsui",
+   "publishedAt": "2024-01-15"
+  },
+  {
+   "id": "s_yasui",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 安井大輔先生（食マネジメント学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/yasui",
+   "publishedAt": "2025-01-06"
+  },
+  {
+   "id": "s_muramoto",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 村本邦子先生（人間科学研究科）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/gshs/muramoto/",
+   "publishedAt": "2023-04-12"
+  },
+  {
+   "id": "s_anbo",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 安保寛尚先生（法学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/anbo/",
+   "publishedAt": "2019-04-01"
+  },
+  {
+   "id": "s_anzako",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 庵逧由香先生（文学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/anzako/"
+  },
+  {
+   "id": "s_eguchi",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 江口友朗先生（産業社会学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/eguchi/"
+  },
+  {
+   "id": "s_fujii",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 藤井偵介先生（政策科学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fujii/"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kudou",
+   "sourceId": "s_kudou",
+   "book": {
+    "title": "フードシステムと日本農業",
+    "author": "新山陽子編著",
+    "publisher": "放送大学教育振興会",
+    "subtitle": "改訂版"
+   }
+  },
+  {
+   "personId": "kudou",
+   "sourceId": "s_kudou",
+   "book": {
+    "title": "食品添加物はなぜ嫌われるのか",
+    "author": "畝山智香子",
+    "publisher": "化学同人",
+    "subtitle": "食品情報を「正しく」読み解くリテラシー"
+   }
+  },
+  {
+   "personId": "kudou",
+   "sourceId": "s_kudou",
+   "book": {
+    "title": "ゴルギアス",
+    "author": "プラトン",
+    "publisher": "岩波書店"
+   }
+  },
+  {
+   "personId": "sakai",
+   "sourceId": "s_sakai",
+   "book": {
+    "title": "会計人材のキャリア名鑑",
+    "author": "CPAキャリアサポート株式会社",
+    "publisher": "中央経済社"
+   }
+  },
+  {
+   "personId": "sakai",
+   "sourceId": "s_sakai",
+   "book": {
+    "title": "苦しかったときの話をしようか",
+    "author": "森岡毅",
+    "publisher": "ダイヤモンド社",
+    "subtitle": "ビジネスマンの父が我が子のために書きためた「働くことの本質」"
+   }
+  },
+  {
+   "personId": "sur",
+   "sourceId": "s_sur",
+   "book": {
+    "title": "社会科学のためのデータ分析入門",
+    "author": "今井耕介",
+    "publisher": "岩波書店"
+   }
+  },
+  {
+   "personId": "sur",
+   "sourceId": "s_sur",
+   "book": {
+    "title": "経済学者が語るスポーツの力",
+    "author": "佐々木勝",
+    "publisher": "有斐閣"
+   }
+  },
+  {
+   "personId": "tsutsui",
+   "sourceId": "s_tsutsui",
+   "book": {
+    "title": "ほんとうの「食の安全」を考える",
+    "author": "畝山智香子",
+    "publisher": "科学同人"
+   }
+  },
+  {
+   "personId": "tsutsui",
+   "sourceId": "s_tsutsui",
+   "book": {
+    "title": "銀漢の賦",
+    "author": "葉室麟",
+    "publisher": "文藝春秋"
+   }
+  },
+  {
+   "personId": "tsutsui",
+   "sourceId": "s_tsutsui",
+   "book": {
+    "title": "統計学が最強の学問である",
+    "author": "西内啓",
+    "publisher": "ダイヤモンド社",
+    "subtitle": "データ社会を生き抜くための武器と教養"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "入門食と農の人文学",
+    "author": "湯澤規子、伊丹一浩、藤原辰史編著",
+    "publisher": "ミネルヴァ書房"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "ほんとうのグローバリゼーションってなに?",
+    "author": "池上甲一、斎藤博嗣編著",
+    "publisher": "農山漁村文化協会"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "ほんとうのサステナビリティってなに?",
+    "author": "関根佳恵編著",
+    "publisher": "農山漁村文化協会"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "ほんとうのエコシステムってなに?",
+    "author": "二平章、佐藤宣子編著",
+    "publisher": "農山漁村文化協会"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "被差別のグルメ",
+    "author": "上原善広",
+    "publisher": "新潮社"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "反逆の神話",
+    "author": "ジョセフ・ヒース、アンドルー・ポター",
+    "publisher": "NTT出版"
+   }
+  },
+  {
+   "personId": "yasui",
+   "sourceId": "s_yasui",
+   "book": {
+    "title": "オルター・ポリティクス",
+    "author": "ガッサン・ハージ",
+    "publisher": "明石書店"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "小さな町を呑みこんだ巨大津波",
+    "author": "やまもと民話の会編",
+    "publisher": "小学館",
+    "subtitle": "語りつぐ"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "白い土地",
+    "author": "三浦英之",
+    "publisher": "集英社",
+    "subtitle": "ルポ福島「帰還困難区域」とその周辺"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "チェルノブイリの祈り",
+    "author": "スヴェトラーナ・アレクシエーヴィチ",
+    "publisher": "岩波書店",
+    "subtitle": "未来の物語"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "リジリエンス",
+    "author": "ジョージ・A・ボナーノ",
+    "publisher": "金剛出版",
+    "subtitle": "喪失と悲嘆についての新たな視点"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "クレイジー・ライク・アメリカ",
+    "author": "イーサン・ウォッターズ",
+    "publisher": "紀伊國屋書店",
+    "subtitle": "心の病はいかに輸出されたか"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "心的外傷と回復",
+    "author": "ジュディス・L・ハーマン",
+    "publisher": "みすず書房"
+   }
+  },
+  {
+   "personId": "muramoto",
+   "sourceId": "s_muramoto",
+   "book": {
+    "title": "無意識の発見上",
+    "author": "アンリ・エレンベルガー",
+    "publisher": "弘文堂",
+    "subtitle": "力動精神医学発達史"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "わたしはティチューバ",
+    "author": "マリーズ・コンデ",
+    "publisher": "新水社",
+    "subtitle": "セイラムの黒人魔女"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "ハバナ奇譚",
+    "author": "ダイナ・チャヴィアノ",
+    "publisher": "ランダムハウス講談社"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "ショコラ",
+    "author": "ジェラール・ノワリエル",
+    "publisher": "集英社インターナショナル",
+    "subtitle": "歴史から消し去られたある黒人芸人の数奇な生涯"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "ギリェン詩集",
+    "author": "Nicolás Guillén",
+    "publisher": "飯塚書店",
+    "subtitle": "世界現代詩集８"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "クレオールとは何か",
+    "author": "パトリック・シャモワゾー、ラファエル・コンフィアン",
+    "publisher": "平凡社"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "クレオール主義",
+    "author": "今福龍太",
+    "publisher": "青土社",
+    "subtitle": "the heterology of culture"
+   }
+  },
+  {
+   "personId": "anbo",
+   "sourceId": "s_anbo",
+   "book": {
+    "title": "オスカー・ワオの短く凄まじい人生",
+    "author": "ジュノ・ディアス",
+    "publisher": "新潮社"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "朝鮮人強制連行の記録",
+    "author": "朴慶植",
+    "publisher": "未来社"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "朝鮮近現代史を歩く",
+    "author": "太田修",
+    "publisher": "思文閣出版"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "朝鮮民衆と「皇民化」政策",
+    "author": "宮田節子",
+    "publisher": "未来社"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "創氏改名",
+    "author": "水野直樹",
+    "publisher": "岩波書店"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "梶村秀樹著作集第１巻 朝鮮史と日本人",
+    "author": "梶村秀樹",
+    "publisher": "明石書店"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "ナヌムの家のハルモニたち",
+    "author": "慧眞",
+    "publisher": "人文書院"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "朝鮮戦争の起源 第1巻",
+    "author": "ブルース・カミングス",
+    "publisher": "影書房"
+   }
+  },
+  {
+   "personId": "anzako",
+   "sourceId": "s_anzako",
+   "book": {
+    "title": "獄中19年",
+    "author": "徐勝",
+    "publisher": "岩波書店"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "道徳感情論",
+    "author": "アダム・スミス",
+    "publisher": "日経BP社"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "合理的な愚か者",
+    "author": "アマルティア・セン",
+    "publisher": "勁草書房",
+    "subtitle": "経済学=倫理学的探究"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "経済思想史",
+    "author": "大田一廣ほか編",
+    "publisher": "名古屋大学出版会",
+    "subtitle": "社会認識の諸類型"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "ニュートン主義とスコットランド啓蒙",
+    "author": "長尾伸一",
+    "publisher": "名古屋大学出版会",
+    "subtitle": "不完全な機械の喩"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "幸福の経済学",
+    "author": "キャロル・グラハム",
+    "publisher": "日本経済新聞出版社",
+    "subtitle": "人々を豊かにするものは何か"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "幸福の計算式",
+    "author": "ニック・ポータヴィー",
+    "publisher": "阪急コミュニケーションズ",
+    "subtitle": "結婚初年度の「幸福」の値段は2500万円!?"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "制度経済学のフロンティア",
+    "author": "磯谷明徳",
+    "publisher": "ミネルヴァ書房",
+    "subtitle": "理論・応用・政策"
+   }
+  },
+  {
+   "personId": "eguchi",
+   "sourceId": "s_eguchi",
+   "book": {
+    "title": "開発の政治経済学",
+    "author": "絵所秀紀",
+    "publisher": "日本評論社"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "決定の本質",
+    "author": "グレアム・T・アリソン",
+    "publisher": "中央公論社",
+    "subtitle": "キューバ・ミサイル危機の分析"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "日本の行政",
+    "author": "村松岐夫",
+    "publisher": "中公新書",
+    "subtitle": "活動型官僚制の変貌"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "日本の統治構造",
+    "author": "飯尾潤",
+    "publisher": "中公新書",
+    "subtitle": "官僚内閣制から議院内閣制へ"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "戦後世界経済史",
+    "author": "猪木武徳",
+    "publisher": "中公新書",
+    "subtitle": "自由と平等の視点から"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "アデナウアーと吉田茂",
+    "author": "大嶽秀夫",
+    "publisher": "中央公論社"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "反古典の政治経済学上",
+    "author": "村上泰亮",
+    "publisher": "中央公論社"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "日本の自治・分権",
+    "author": "松下圭一",
+    "publisher": "岩波書店"
+   }
+  },
+  {
+   "personId": "fujii",
+   "sourceId": "s_fujii",
+   "book": {
+    "title": "世界地図の中で考える",
+    "author": "高坂正尭",
+    "publisher": "新潮社"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fukazawa/",
+   "result": "candidate",
+   "reason": "取得済み・本文確認済み（映画関連9冊）。採用10人に達したため今回は未採用",
+   "person": "深沢伸行"
+  },
+  {
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/",
+   "result": "index",
+   "reason": "教員お薦め本の一覧。今回は指定の11ページのみ確認"
+  }
+ ]
+}

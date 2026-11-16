@@ -1,0 +1,264 @@
+{
+ "people": [
+  {
+   "id": "shikimi",
+   "name": "しきみ彰",
+   "title": "作家（「後宮妃の管理人」シリーズ）",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "tanizaki",
+   "name": "谷崎泉",
+   "title": "作家（「老舗酒蔵のまかないさん」シリーズ）",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "tanihara",
+   "name": "谷原章介",
+   "title": "俳優、谷原書店 店長",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yamauchi",
+   "name": "山内マリコ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_shikimi",
+   "type": "article",
+   "media": "富士見L文庫note支部",
+   "title": "【第１回】「作家の本棚」しきみ彰先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/n088163d69079",
+   "publishedAt": "2025-05-21"
+  },
+  {
+   "id": "s_tanizaki",
+   "type": "article",
+   "media": "富士見L文庫note支部",
+   "title": "【第２回】「作家の本棚」谷崎泉先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/ncfd679ab9a40",
+   "publishedAt": "2025-06-20"
+  },
+  {
+   "id": "s_tanihara",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原章介店長のオススメ】漫画「ほしとんで」　俳句にのめり込む芸大生の青春。言葉の力・表現の幅が問われる今こそ",
+   "url": "https://book.asahi.com/article/14507961",
+   "publishedAt": "2021-12-24"
+  },
+  {
+   "id": "s_yamauchi",
+   "type": "article",
+   "media": "BRUTUS",
+   "title": "私の本棚の、主。作家・山内マリコ",
+   "url": "https://brutus.jp/post-489417/",
+   "publishedAt": "2026-04-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "shikimi",
+   "sourceId": "s_shikimi",
+   "book": {
+    "title": "妖界ナビ・ルナ",
+    "author": "池田美代子",
+    "publisher": "講談社",
+    "edition": "青い鳥文庫 シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shikimi",
+   "sourceId": "s_shikimi",
+   "book": {
+    "title": "黄昏色の詠使い",
+    "author": "細音啓",
+    "publisher": "KADOKAWA",
+    "edition": "富士見ファンタジア文庫 シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shikimi",
+   "sourceId": "s_shikimi",
+   "book": {
+    "title": "彩雲国物語",
+    "author": "雪乃紗衣",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫ほか シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shikimi",
+   "sourceId": "s_shikimi",
+   "book": {
+    "title": "戯言シリーズ",
+    "author": "西尾維新",
+    "publisher": "講談社",
+    "edition": "講談社文庫 シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shikimi",
+   "sourceId": "s_shikimi",
+   "book": {
+    "title": "下鴨アンティーク",
+    "author": "白川紺子",
+    "publisher": "集英社",
+    "edition": "集英社オレンジ文庫 シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanizaki",
+   "sourceId": "s_tanizaki",
+   "book": {
+    "title": "エロイカより愛をこめて",
+    "author": "青池保子",
+    "publisher": "秋田書店",
+    "edition": "プリンセスコミックス シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanizaki",
+   "sourceId": "s_tanizaki",
+   "book": {
+    "title": "デザートはあなた",
+    "author": "森瑤子",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanizaki",
+   "sourceId": "s_tanizaki",
+   "book": {
+    "title": "ゴールデンカムイ",
+    "author": "野田サトル",
+    "publisher": "集英社",
+    "edition": "ヤングジャンプコミックス シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanizaki",
+   "sourceId": "s_tanizaki",
+   "book": {
+    "title": "少女の器",
+    "author": "灰谷健次郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫ほか"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanizaki",
+   "sourceId": "s_tanizaki",
+   "book": {
+    "title": "雪沼とその周辺",
+    "author": "堀江敏幸",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "s_tanihara",
+   "book": {
+    "title": "ほしとんで",
+    "author": "本田",
+    "publisher": "KADOKAWA",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamauchi",
+   "sourceId": "s_yamauchi",
+   "book": {
+    "title": "THE YEAR OF 2000 BOOK",
+    "subtitle": "20世紀カルチャー・アンソロジー",
+    "author": "リテレール編集部編",
+    "publisher": "メタローグ"
+   },
+   "context": "座右の書"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://ddnavi.com/aidokusho/",
+   "result": "index",
+   "reason": "2026-11-17確認。最新は2026-08-28で取り込み済み、新着なし"
+  },
+  {
+   "url": "https://ddnavi.com/genre/%e3%81%82%e3%81%ae%e4%ba%ba%e3%81%a8%e6%9c%ac%e3%81%ae%e8%a9%b1-and-more/",
+   "result": "index",
+   "reason": "2026-11-17確認。最新は2026-11-05（萩原利久）で新着なし"
+  },
+  {
+   "url": "https://book.asahi.com/series/11039124",
+   "result": "index",
+   "reason": "2026-11-17確認。最新は2026-11-11（沼田真佑）で、11-16以降の新着なし"
+  },
+  {
+   "url": "https://book.asahi.com/series/11015845",
+   "result": "index",
+   "reason": "2026-11-17確認。最新は2026-10-30で、2026-11の回なし"
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/091300565/",
+   "result": "index",
+   "reason": "2026-11-17確認。一覧は第5回相当（2025-12-12）までで第6回以降なし（なお一覧は「経営トップの読書術」の名で表示）"
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/070300541/",
+   "result": "index",
+   "reason": "2026-11-17確認。最新は2026-11-11（藤本真樹）で後編などの新着なし"
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/111500600/",
+   "result": "index",
+   "reason": "2026-11-17確認。一覧の最新は2026-03-12（東京ガス・笹山晋一社長）。新着の有無は取り込み済み分との照合が必要（一覧のみ確認）"
+  },
+  {
+   "url": "https://www.webdoku.jp/rensai/sakka/list.html",
+   "result": "index",
+   "reason": "2026-11-17確認。最新は第292回（2026-10-23）で第293回なし"
+  },
+  {
+   "url": "https://hon-hikidashi.jp/book-person/77315/",
+   "result": "rejected",
+   "reason": "本文を読んだ。BLドラマCD出演作の話が中心で、本人が薦める本の記述なし（出演作は除外）",
+   "person": "斉藤壮馬"
+  },
+  {
+   "url": "https://hon-hikidashi.jp/book-person/61586/",
+   "result": "rejected",
+   "reason": "本文を読んだ。自著『お金の大学』の宣伝インタビューのみ",
+   "person": "両＠リベ大学長"
+  },
+  {
+   "url": "https://realsound.jp/book/2025/12/post-2246524.html",
+   "result": "rejected",
+   "reason": "本文を読んだ。出版社の担当編集同席で課題書『杉森くんを殺すには』の感想を語る企画で、本人が選んだ・薦めた本ではない（宣伝対象）",
+   "person": "環ROY"
+  }
+ ]
+}

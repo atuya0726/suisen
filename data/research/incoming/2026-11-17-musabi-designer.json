@@ -1,0 +1,584 @@
+{
+ "people": [
+  {
+   "id": "yamamoto",
+   "name": "山本靖久",
+   "title": "武蔵野美術大学 共通絵画 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  },
+  {
+   "id": "kato",
+   "name": "加藤幸治",
+   "title": "武蔵野美術大学 教養文化・学芸員課程 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  },
+  {
+   "id": "ikeda",
+   "name": "池田ともゆき",
+   "title": "武蔵野美術大学 空間演出デザイン学科 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  },
+  {
+   "id": "tomii",
+   "name": "冨井大裕",
+   "title": "武蔵野美術大学 彫刻学科 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  },
+  {
+   "id": "niimi",
+   "name": "新見隆",
+   "title": "武蔵野美術大学 教養文化・学芸員課程 教授（美術館・図書館館長）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  },
+  {
+   "id": "tonosaki",
+   "name": "外崎匠",
+   "title": "株式会社ココナラ デザインマネージャー",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "ikedat",
+   "name": "池田拓司",
+   "title": "株式会社ロコガイド 取締役",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "shinohara",
+   "name": "篠原健",
+   "title": "株式会社キュービック CDO",
+   "tags": [
+    "デザイナー"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s11",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本20選」Vol.11：山本靖久教授",
+   "url": "https://mauml.musabi.ac.jp/news/21026/",
+   "publishedAt": "2021-09-21"
+  },
+  {
+   "id": "s12",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本20選」Vol.12：加藤幸治教授",
+   "url": "https://mauml.musabi.ac.jp/news/21117/",
+   "publishedAt": "2021-09-29"
+  },
+  {
+   "id": "s13",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本」Vol.13：池田ともゆき教授",
+   "url": "https://mauml.musabi.ac.jp/news/22302/",
+   "publishedAt": "2022-04-22"
+  },
+  {
+   "id": "s14",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本」Vol.14：冨井大裕教授",
+   "url": "https://mauml.musabi.ac.jp/news/22451/",
+   "publishedAt": "2022-05-12"
+  },
+  {
+   "id": "s16",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本」Vol.16：新見隆教授（美術館･図書館館長）",
+   "url": "https://mauml.musabi.ac.jp/news/23681/",
+   "publishedAt": "2023-05-02"
+  },
+  {
+   "id": "sre",
+   "type": "article",
+   "media": "ReDesigner Magazine",
+   "title": "デザイナー人生に影響を与えた書籍9選と読書法 〜ReDesigner Online Talk Vol.1より〜",
+   "url": "https://magazine.redesigner.jp/post/ReDesigner-OnlineTalk-vol1",
+   "publishedAt": "2020-11-18"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "有元利夫全作品",
+    "author": "有元利夫",
+    "publisher": "新潮社",
+    "edition": "1973〜1984 1991"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "パスキン",
+    "author": "パスキン［画］，武田厚編",
+    "publisher": "岩崎美術社",
+    "edition": "1995"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "もうひとつの空",
+    "author": "有元利夫",
+    "publisher": "新潮社",
+    "edition": "1986",
+    "subtitle": "日記と素描"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "いのちの窓",
+    "author": "河井寛次郎",
+    "publisher": "東峰書房",
+    "edition": "1948"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "四百字のデッサン",
+    "author": "野見山暁治",
+    "publisher": "河出書房新社",
+    "edition": "1978"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "リルケ詩集",
+    "author": "生野幸吉訳",
+    "publisher": "白凰社",
+    "edition": "1974"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "ゴサインタン",
+    "author": "篠田節子",
+    "publisher": "双葉社",
+    "edition": "1996",
+    "subtitle": "神の座"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s11",
+   "book": {
+    "title": "セレナード",
+    "author": "水島哲雄",
+    "publisher": "芸術新聞社",
+    "edition": "1988",
+    "subtitle": "水島哲雄詩画集"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "記憶すること・記録すること",
+    "author": "香月洋一郎",
+    "publisher": "吉川弘文館",
+    "edition": "2002",
+    "subtitle": "聞き書き論ノート"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "物語の哲学",
+    "author": "野家啓一",
+    "publisher": "岩波書店",
+    "edition": "2005"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "職場・学校で活かす現場グラフィー",
+    "author": "清水展, 小國和子編著",
+    "publisher": "明石書店",
+    "edition": "2021"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "全訳 遠野物語",
+    "author": "柳田国男原作, 石井徹訳注",
+    "publisher": "無明舎出版",
+    "edition": "2012"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "柳田國男民主主義論集",
+    "author": "柳田國男, 大塚英志編",
+    "publisher": "平凡社",
+    "edition": "2020"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "アイヌと神々の物語",
+    "author": "萱野茂",
+    "publisher": "山と溪谷社",
+    "edition": "2020",
+    "subtitle": "炉端で聞いたウウェペケレ"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "アイヌと神々の謡",
+    "author": "萱野茂",
+    "publisher": "山と溪谷社",
+    "edition": "2020",
+    "subtitle": "カムイユカラと子守歌"
+   }
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s12",
+   "book": {
+    "title": "「物言う魚」たち",
+    "author": "後藤明",
+    "publisher": "小学館",
+    "edition": "1999",
+    "subtitle": "鰻・蛇の南島神話"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "タイタス・アンドロニカス ; 間違いだらけ",
+    "author": "シェイクスピア, 木下順二訳",
+    "publisher": "講談社",
+    "edition": "シェイクスピア Ⅱ 1989"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "ロミオとジュリエット",
+    "author": "シェイクスピア, 小田島雄志訳",
+    "publisher": "白水社",
+    "edition": "1983"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "ハムレット ; お気に召すまま",
+    "author": "シェイクスピア, 木下順二訳",
+    "publisher": "講談社",
+    "edition": "シェイクスピア Ⅴ 1989"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "リア王 ; 策には策を",
+    "author": "シェイクスピア, 木下順二訳",
+    "publisher": "講談社",
+    "edition": "シェイクスピア Ⅶ 1989"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "マクベス",
+    "author": "シェイクスピア, 吉田秀生訳",
+    "publisher": "晃洋書房",
+    "edition": "2013"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "三人姉妹",
+    "author": "チェーホフ, 湯浅芳子訳",
+    "publisher": "岩波書店",
+    "edition": "1964"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "ヴァーニャ伯父",
+    "author": "チェーホフ, 湯浅芳子訳",
+    "publisher": "岩波書店",
+    "edition": "1963"
+   }
+  },
+  {
+   "personId": "ikeda",
+   "sourceId": "s13",
+   "book": {
+    "title": "アマデウス",
+    "author": "ピーター・シェーファー, 江守徹訳",
+    "publisher": "劇書房",
+    "edition": "1982"
+   }
+  },
+  {
+   "personId": "tomii",
+   "sourceId": "s14",
+   "book": {
+    "title": "1964年のジャイアント馬場",
+    "author": "柳澤健",
+    "publisher": "双葉社",
+    "edition": "2014"
+   }
+  },
+  {
+   "personId": "tomii",
+   "sourceId": "s14",
+   "book": {
+    "title": "越境と覇権",
+    "author": "池上裕子",
+    "publisher": "三元社",
+    "edition": "2015",
+    "subtitle": "ロバート・ラウシェンバーグと戦後アメリカ美術の世界的台頭"
+   }
+  },
+  {
+   "personId": "tomii",
+   "sourceId": "s14",
+   "book": {
+    "title": "見仏記",
+    "author": "いとうせいこう, みうらじゅん",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "tomii",
+   "sourceId": "s14",
+   "book": {
+    "title": "彫刻の呼び声",
+    "author": "峯村敏明",
+    "publisher": "水声社",
+    "edition": "2005"
+   }
+  },
+  {
+   "personId": "tomii",
+   "sourceId": "s14",
+   "book": {
+    "title": "ラインズ",
+    "author": "ティム・インゴルド, 工藤晋訳",
+    "publisher": "左右社",
+    "edition": "2014",
+    "subtitle": "線の文化史"
+   }
+  },
+  {
+   "personId": "tomii",
+   "sourceId": "s14",
+   "book": {
+    "title": "定義",
+    "author": "谷川俊太郎",
+    "publisher": "思潮社",
+    "edition": "1975"
+   }
+  },
+  {
+   "personId": "niimi",
+   "sourceId": "s16",
+   "book": {
+    "title": "春と修羅",
+    "author": "宮沢賢治",
+    "publisher": "ゴマブックス",
+    "edition": "2016"
+   }
+  },
+  {
+   "personId": "niimi",
+   "sourceId": "s16",
+   "book": {
+    "title": "放浪記",
+    "author": "林芙美子",
+    "publisher": "日本近代文学館",
+    "edition": "1969"
+   }
+  },
+  {
+   "personId": "niimi",
+   "sourceId": "s16",
+   "book": {
+    "title": "第七官界彷徨",
+    "author": "尾崎翠",
+    "publisher": "河出書房新社",
+    "edition": "2009"
+   }
+  },
+  {
+   "personId": "niimi",
+   "sourceId": "s16",
+   "book": {
+    "title": "陰翳礼讃",
+    "author": "谷崎潤一郎",
+    "publisher": "中央公論社",
+    "edition": "改版 1995"
+   }
+  },
+  {
+   "personId": "niimi",
+   "sourceId": "s16",
+   "book": {
+    "title": "神さまの話",
+    "author": "ライナー・マリア・リルケ, 谷友幸訳",
+    "publisher": "新潮社",
+    "edition": "改版 2007"
+   }
+  },
+  {
+   "personId": "tonosaki",
+   "sourceId": "sre",
+   "book": {
+    "title": "デザインのめざめ",
+    "author": "原研哉"
+   }
+  },
+  {
+   "personId": "tonosaki",
+   "sourceId": "sre",
+   "book": {
+    "title": "ブランディング・ファースト",
+    "author": "宮村岳志",
+    "hint": "ReDesigner記事。著者名の記載なし"
+   }
+  },
+  {
+   "personId": "tonosaki",
+   "sourceId": "sre",
+   "book": {
+    "title": "苦しかったときの話をしようか",
+    "author": "森岡毅",
+    "hint": "記事に「USJを再建した森岡さん」とある"
+   }
+  },
+  {
+   "personId": "ikedat",
+   "sourceId": "sre",
+   "book": {
+    "title": "フリーエージェント社会の到来",
+    "author": "ダニエル・ピンク"
+   }
+  },
+  {
+   "personId": "ikedat",
+   "sourceId": "sre",
+   "book": {
+    "title": "あと1%だけやってみよう",
+    "author": "水戸岡鋭治",
+    "hint": "記事に「水戸岡さん」とある。副題 私の仕事哲学"
+   }
+  },
+  {
+   "personId": "shinohara",
+   "sourceId": "sre",
+   "book": {
+    "title": "13歳からのアート思考",
+    "author": "末永幸歩",
+    "hint": "ReDesigner記事。著者名の記載なし"
+   }
+  },
+  {
+   "personId": "shinohara",
+   "sourceId": "sre",
+   "book": {
+    "title": "デザインマネジメント",
+    "author": "坂下清"
+   }
+  },
+  {
+   "personId": "shinohara",
+   "sourceId": "sre",
+   "book": {
+    "title": "コーポレート・アイデンティティ戦略",
+    "author": "中西元男",
+    "hint": "記事に「PAOSグループの代表中西さん」とある"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://mauml.musabi.ac.jp/news/26500/",
+   "result": "rejected",
+   "reason": "2025.05回。本文に書名リストがなく（画像・展示のみ）、誰がどの本かも不明"
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/25741/",
+   "result": "rejected",
+   "reason": "2024.10回。本文に書名リストがなく、誰がどの本かも不明"
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/25267/",
+   "result": "rejected",
+   "reason": "2024.05回。本文に書名リストがなく、誰がどの本かも不明"
+  },
+  {
+   "url": "https://techblog.enechain.com/entry/designers-books",
+   "result": "rejected",
+   "reason": "推薦者が「近藤」（姓のみ）、「ET」、Xのハンドル、「唯一のコーポレートデザイナー」等で実名が特定できない"
+  },
+  {
+   "url": "https://designer.crowdworks.co.jp/entry/designbooks",
+   "result": "unreachable",
+   "reason": "curlで接続できず（HTTPコード000）。本文を読んでいない"
+  },
+  {
+   "url": "https://designer-draft.jp/articles/125",
+   "result": "rejected",
+   "reason": "HTMLではなくPDFが返り、記事本文を確認できない。robots.txtも取得できず"
+  }
+ ]
+}

@@ -11843,5 +11843,220 @@
     "media": "WEB本の雑誌",
     "title": "作家の読書道 第57回：中村航",
     "url": "https://www.webdoku.jp/rensai/sakka/michi57.html"
+  },
+  {
+    "id": "src-hiramatsu-makoto",
+    "type": "article",
+    "media": "北海道大学 大学院文学研究院",
+    "title": "教員紹介 平松誠",
+    "url": "https://www.let.hokudai.ac.jp/staff/hiramatsu-makoto"
+  },
+  {
+    "id": "src-coker-caitlin-christine",
+    "type": "article",
+    "media": "北海道大学 大学院文学研究院",
+    "title": "教員紹介 ケイトリン・コーカー",
+    "url": "https://www.let.hokudai.ac.jp/staff/coker-caitlin-christine"
+  },
+  {
+    "id": "src-adachi-daisuke",
+    "type": "article",
+    "media": "北海道大学 大学院文学研究院",
+    "title": "教員紹介 安達大輔",
+    "url": "https://www.let.hokudai.ac.jp/staff/adachi-daisuke"
+  },
+  {
+    "id": "src-hashimoto-yuichi",
+    "type": "article",
+    "media": "北海道大学 大学院文学研究院",
+    "title": "教員紹介 橋本雄一",
+    "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yuichi"
+  },
+  {
+    "id": "src-fujita-takeshi",
+    "type": "article",
+    "media": "北海道大学 大学院文学研究院",
+    "title": "教員紹介 藤田健",
+    "url": "https://www.let.hokudai.ac.jp/staff/fujita-takeshi"
+  },
+  {
+    "id": "s-sakai-8a532e",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 酒井絢美先生（食マネジメント学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/sakai"
+  },
+  {
+    "id": "s-tsutsui-3540db",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 筒井俊之先生（食マネジメント学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/tsutsui",
+    "publishedAt": "2024-01-15"
+  },
+  {
+    "id": "s-anbo-3c5d86",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 安保寛尚先生（法学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/anbo/",
+    "publishedAt": "2019-04-01"
+  },
+  {
+    "id": "s-anzako-cbb55f",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 庵逧由香先生（文学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/anzako/"
+  },
+  {
+    "id": "s-yasui-d1b6a0",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 安井大輔先生（食マネジメント学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/yasui",
+    "publishedAt": "2025-01-06"
+  },
+  {
+    "id": "s-sur-eaf003",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 Sur Pramod Kumar先生（食マネジメント学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/sur_pramod_kuma",
+    "publishedAt": "2024-01-15"
+  },
+  {
+    "id": "s-fujii-35df26",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 藤井偵介先生（政策科学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fujii/"
+  },
+  {
+    "id": "s-kudou-c56f27",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 工藤春代先生（食マネジメント学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/kudou",
+    "publishedAt": "2024-01-15"
+  },
+  {
+    "id": "s-muramoto-7ce2aa",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 村本邦子先生（人間科学研究科）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/gshs/muramoto/",
+    "publishedAt": "2023-04-12"
+  },
+  {
+    "id": "s-eguchi-73999e",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 江口友朗先生（産業社会学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/eguchi/"
+  },
+  {
+    "id": "s-shikimi-6db810",
+    "type": "article",
+    "media": "富士見L文庫note支部",
+    "title": "【第１回】「作家の本棚」しきみ彰先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/n088163d69079",
+    "publishedAt": "2025-05-21"
+  },
+  {
+    "id": "s-tanizaki-18145a",
+    "type": "article",
+    "media": "富士見L文庫note支部",
+    "title": "【第２回】「作家の本棚」谷崎泉先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/ncfd679ab9a40",
+    "publishedAt": "2025-06-20"
+  },
+  {
+    "id": "s16-b",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本」Vol.16：新見隆教授（美術館･図書館館長）",
+    "url": "https://mauml.musabi.ac.jp/news/23681/",
+    "publishedAt": "2023-05-02"
+  },
+  {
+    "id": "s14-b",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本」Vol.14：冨井大裕教授",
+    "url": "https://mauml.musabi.ac.jp/news/22451/",
+    "publishedAt": "2022-05-12"
+  },
+  {
+    "id": "sre",
+    "type": "article",
+    "media": "ReDesigner Magazine",
+    "title": "デザイナー人生に影響を与えた書籍9選と読書法 〜ReDesigner Online Talk Vol.1より〜",
+    "url": "https://magazine.redesigner.jp/post/ReDesigner-OnlineTalk-vol1",
+    "publishedAt": "2020-11-18"
+  },
+  {
+    "id": "s11-b",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本20選」Vol.11：山本靖久教授",
+    "url": "https://mauml.musabi.ac.jp/news/21026/",
+    "publishedAt": "2021-09-21"
+  },
+  {
+    "id": "s13-b",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本」Vol.13：池田ともゆき教授",
+    "url": "https://mauml.musabi.ac.jp/news/22302/",
+    "publishedAt": "2022-04-22"
+  },
+  {
+    "id": "s12-b",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本20選」Vol.12：加藤幸治教授",
+    "url": "https://mauml.musabi.ac.jp/news/21117/",
+    "publishedAt": "2021-09-29"
+  },
+  {
+    "id": "s-tanihara-b2b238",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原章介店長のオススメ】漫画「ほしとんで」　俳句にのめり込む芸大生の青春。言葉の力・表現の幅が問われる今こそ",
+    "url": "https://book.asahi.com/article/14507961",
+    "publishedAt": "2021-12-24"
+  },
+  {
+    "id": "incu",
+    "type": "article",
+    "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+    "title": "インキュデータ経営層の本棚をのぞき見　SB・博報堂などの合弁会社、社長や取締役の愛読書は",
+    "url": "https://www.itmedia.co.jp/news/article/2512/13/1251213010/",
+    "publishedAt": "2025-12-16"
+  },
+  {
+    "id": "hitachi",
+    "type": "article",
+    "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+    "title": "日立製作所経営陣の本棚をのぞき見　CTO、CSO、CDEIOの愛読書は……",
+    "url": "https://www.itmedia.co.jp/news/article/2507/08/1250708103/",
+    "publishedAt": "2025-07-10"
+  },
+  {
+    "id": "reiwa",
+    "type": "article",
+    "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+    "title": "令和トラベル経営層の本棚をのぞき見　旅行アプリ「NEWT」開発元、取締役や執行役員の愛読書は",
+    "url": "https://www.itmedia.co.jp/news/article/2602/18/1260218046/",
+    "publishedAt": "2026-02-20"
+  },
+  {
+    "id": "rakus",
+    "type": "article",
+    "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+    "title": "「楽楽精算」ラクス経営陣の本棚をのぞき見　社長や取締役らの愛読書は……",
+    "url": "https://www.itmedia.co.jp/news/article/2509/12/1250912077/",
+    "publishedAt": "2025-09-16"
   }
 ]

@@ -1,0 +1,161 @@
+{
+ "people": [
+  {
+   "id": "adachi-daisuke",
+   "name": "安達大輔",
+   "title": "北海道大学 大学院文学研究院 准教授（スラブ・ユーラシア学研究室）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "coker-caitlin-christine",
+   "name": "ケイトリン・コーカー",
+   "title": "北海道大学 大学院文学研究院 准教授（文化人類学研究室）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "fujita-takeshi",
+   "name": "藤田健",
+   "title": "北海道大学 大学院文学研究院 教授（言語科学研究室）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hashimoto-yuichi",
+   "name": "橋本雄一",
+   "title": "北海道大学 大学院文学研究院 教授（地域科学研究室）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hiramatsu-makoto",
+   "name": "平松誠",
+   "title": "北海道大学 大学院文学研究院 講師（社会学研究室）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-adachi-daisuke",
+   "type": "article",
+   "media": "北海道大学 大学院文学研究院",
+   "title": "教員紹介 安達大輔",
+   "url": "https://www.let.hokudai.ac.jp/staff/adachi-daisuke"
+  },
+  {
+   "id": "src-coker-caitlin-christine",
+   "type": "article",
+   "media": "北海道大学 大学院文学研究院",
+   "title": "教員紹介 ケイトリン・コーカー",
+   "url": "https://www.let.hokudai.ac.jp/staff/coker-caitlin-christine"
+  },
+  {
+   "id": "src-fujita-takeshi",
+   "type": "article",
+   "media": "北海道大学 大学院文学研究院",
+   "title": "教員紹介 藤田健",
+   "url": "https://www.let.hokudai.ac.jp/staff/fujita-takeshi"
+  },
+  {
+   "id": "src-hashimoto-yuichi",
+   "type": "article",
+   "media": "北海道大学 大学院文学研究院",
+   "title": "教員紹介 橋本雄一",
+   "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yuichi"
+  },
+  {
+   "id": "src-hiramatsu-makoto",
+   "type": "article",
+   "media": "北海道大学 大学院文学研究院",
+   "title": "教員紹介 平松誠",
+   "url": "https://www.let.hokudai.ac.jp/staff/hiramatsu-makoto"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "adachi-daisuke",
+   "sourceId": "src-adachi-daisuke",
+   "book": {
+    "title": "観察者の系譜",
+    "subtitle": "視覚空間の変容とモダニティ",
+    "author": "ジョナサン・クレーリー著、遠藤知巳訳"
+   }
+  },
+  {
+   "personId": "coker-caitlin-christine",
+   "sourceId": "src-coker-caitlin-christine",
+   "book": {
+    "title": "人類学とは何か",
+    "author": "ティム・インゴルド著、奥野克巳ほか訳",
+    "publisher": "亜紀書房"
+   }
+  },
+  {
+   "personId": "fujita-takeshi",
+   "sourceId": "src-fujita-takeshi",
+   "book": {
+    "title": "フランス語とはどういう言語か",
+    "author": "大橋保夫ほか",
+    "publisher": "駿河台出版社"
+   }
+  },
+  {
+   "personId": "hashimoto-yuichi",
+   "sourceId": "src-hashimoto-yuichi",
+   "book": {
+    "title": "都市社会地理学",
+    "author": "ポール・ノックス、スティーブン・ピンチ著",
+    "publisher": "古今書院"
+   }
+  },
+  {
+   "personId": "hiramatsu-makoto",
+   "sourceId": "src-hiramatsu-makoto",
+   "book": {
+    "title": "都市の村人たち",
+    "subtitle": "イタリア系アメリカ人の階級文化と都市再開発",
+    "author": "ハーバード・J・ガンズ著、松本康訳",
+    "publisher": "ハーベスト社"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/cho-yenling",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/eda-masaki",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hayashidera-shoshun",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/higuchi-mari",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hattori-michitaka",
+   "result": "rejected",
+   "reason": "おすすめの1冊『黒海地域の国際関係』は本人が第12章を執筆した論集のため除外"
+  }
+ ]
+}

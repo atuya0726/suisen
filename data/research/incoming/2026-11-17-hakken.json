@@ -1,0 +1,352 @@
+{
+ "people": [
+  {
+   "id": "tamura",
+   "name": "田村博司",
+   "title": "令和トラベル 取締役兼執行役員CHRO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "令和トラベル"
+  },
+  {
+   "id": "oki",
+   "name": "大木優紀",
+   "title": "令和トラベル 執行役員CCO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "令和トラベル"
+  },
+  {
+   "id": "ono",
+   "name": "小野吉昭",
+   "title": "令和トラベル 執行役員CAO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "令和トラベル"
+  },
+  {
+   "id": "machida",
+   "name": "町田紘一",
+   "title": "インキュデータ 代表取締役社長兼CEO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "インキュデータ"
+  },
+  {
+   "id": "nakamura",
+   "name": "中村崇則",
+   "title": "ラクス 代表取締役社長",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ラクス"
+  },
+  {
+   "id": "mori",
+   "name": "森正勝",
+   "title": "日立製作所 理事 デジタルシステム&サービス統括本部CTO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "日立製作所"
+  },
+  {
+   "id": "tsukijima",
+   "name": "築島隆尋",
+   "title": "日立製作所 デジタルシステム&サービス統括本部CSO兼CTrO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "日立製作所"
+  },
+  {
+   "id": "nakata",
+   "name": "中田やよい",
+   "title": "日立製作所 デジタルシステム&サービスCDEIO兼コネクティブインダストリーズCDEIO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "日立製作所"
+  }
+ ],
+ "sources": [
+  {
+   "id": "reiwa",
+   "type": "article",
+   "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+   "title": "令和トラベル経営層の本棚をのぞき見　旅行アプリ「NEWT」開発元、取締役や執行役員の愛読書は",
+   "url": "https://www.itmedia.co.jp/news/article/2602/18/1260218046/",
+   "publishedAt": "2026-02-20"
+  },
+  {
+   "id": "incu",
+   "type": "article",
+   "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+   "title": "インキュデータ経営層の本棚をのぞき見　SB・博報堂などの合弁会社、社長や取締役の愛読書は",
+   "url": "https://www.itmedia.co.jp/news/article/2512/13/1251213010/",
+   "publishedAt": "2025-12-16"
+  },
+  {
+   "id": "rakus",
+   "type": "article",
+   "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+   "title": "「楽楽精算」ラクス経営陣の本棚をのぞき見　社長や取締役らの愛読書は……",
+   "url": "https://www.itmedia.co.jp/news/article/2509/12/1250912077/",
+   "publishedAt": "2025-09-16"
+  },
+  {
+   "id": "hitachi",
+   "type": "article",
+   "media": "ITmedia NEWS（連載「IT経営者の本棚」）",
+   "title": "日立製作所経営陣の本棚をのぞき見　CTO、CSO、CDEIOの愛読書は……",
+   "url": "https://www.itmedia.co.jp/news/article/2507/08/1250708103/",
+   "publishedAt": "2025-07-10"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "tamura",
+   "sourceId": "reiwa",
+   "book": {
+    "title": "マインドセット：「やればできる！」の研究",
+    "author": "キャロル・S・ドゥエック"
+   }
+  },
+  {
+   "personId": "tamura",
+   "sourceId": "reiwa",
+   "book": {
+    "title": "クリエイティブ・マインドセット",
+    "author": "デイヴィッド・ケリー、トム・ケリー",
+    "subtitle": "想像力・好奇心・勇気が目覚める驚異の思考法"
+   }
+  },
+  {
+   "personId": "oki",
+   "sourceId": "reiwa",
+   "book": {
+    "title": "朝が来る",
+    "author": "辻村深月"
+   }
+  },
+  {
+   "personId": "oki",
+   "sourceId": "reiwa",
+   "book": {
+    "title": "思考の整理学",
+    "author": "外山滋比古"
+   }
+  },
+  {
+   "personId": "ono",
+   "sourceId": "reiwa",
+   "book": {
+    "title": "DATA is BOSS",
+    "author": "榊淳",
+    "subtitle": "収益が上がり続けるデータドリブン経営入門"
+   }
+  },
+  {
+   "personId": "ono",
+   "sourceId": "reiwa",
+   "book": {
+    "title": "アツイコトバ",
+    "author": "杉村太郎"
+   }
+  },
+  {
+   "personId": "machida",
+   "sourceId": "incu",
+   "book": {
+    "title": "道具としてのファイナンス",
+    "author": "石野雄一"
+   }
+  },
+  {
+   "personId": "machida",
+   "sourceId": "incu",
+   "book": {
+    "title": "峠",
+    "author": "司馬遼太郎"
+   }
+  },
+  {
+   "personId": "machida",
+   "sourceId": "incu",
+   "book": {
+    "title": "2020年6月30日にまたここで会おう",
+    "author": "瀧本哲史"
+   }
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "rakus",
+   "book": {
+    "title": "ビジョナリー・カンパニー4",
+    "author": "ジム・コリンズ"
+   }
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "rakus",
+   "book": {
+    "title": "マインドセット",
+    "author": "キャロル・S・ドゥエック"
+   }
+  },
+  {
+   "personId": "mori",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "多様性の科学",
+    "author": "マシュー・サイド"
+   }
+  },
+  {
+   "personId": "mori",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "情報の人類史",
+    "author": "ユヴァル・ノア・ハラリ"
+   }
+  },
+  {
+   "personId": "tsukijima",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "青春漂流",
+    "author": "立花隆"
+   }
+  },
+  {
+   "personId": "tsukijima",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "V字回復の経営",
+    "author": "三枝匡"
+   }
+  },
+  {
+   "personId": "tsukijima",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "「世界の終わり」の地政学",
+    "author": "ピーター・ゼイハン"
+   }
+  },
+  {
+   "personId": "nakata",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "チ。地球の運動について",
+    "author": "魚豊",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nakata",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "おっさんのパンツがなんでもいいじゃないか",
+    "author": "練馬ジム",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nakata",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "リエゾン",
+    "author": "ヨンチャン、竹村優作",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nakata",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "ハネチンとブッキーのお子さま診療録",
+    "author": "佐原ミズ、北岡寛己",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nakata",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "日本社会のしくみ",
+    "author": "小熊英二",
+    "subtitle": "雇用・教育・福祉の歴史社会学"
+   }
+  },
+  {
+   "personId": "nakata",
+   "sourceId": "hitachi",
+   "book": {
+    "title": "100年の旅",
+    "author": "ハイケ・フォーラ"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.itmedia.co.jp/news/series/32104/",
+   "result": "index",
+   "reason": "ITmedia NEWS連載「IT経営者の本棚」。2022-11〜2026-02で約11社分、1社3〜4人の経営層が各2〜3冊を自分で書く。無料・全文読める・書名と著者名は本文に文字で載る。登場者はIT企業の取締役・執行役員が中心で知名度は低め（上場企業社長や元アナウンサーを含む）。今回は新しい4社のうち8人を取り込み"
+  },
+  {
+   "url": "https://ginzamag.com/categories/culture/213208",
+   "result": "index",
+   "reason": "GINZA「24人の愛読書「私のいちばん好きな本」」vol.1-6（2021、俳優・デザイナー等24人が各1冊）。無料だが本文がJS描画でHTMLにもWebFetchにも本文が出ず、書名を確認できない。robotsは許可。vol.1-6は /culture/24books-1〜6",
+   "person": ""
+  },
+  {
+   "url": "https://www.nikkan-gendai.com/articles/columns/3676",
+   "result": "index",
+   "reason": "日刊ゲンダイ連載「私の人生を変えた一冊」（2019〜2020、著名人が1冊を語る、約50回）。記事は有料会員限定で冒頭しか読めず不採用（rejected）。書名は見出しに出る回のみ"
+  },
+  {
+   "url": "https://bunshun.jp/bungeishunju/feature/%E7%A7%81%E3%81%AE%E4%BA%BA%E7%94%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%81%9F%E6%9C%AC",
+   "result": "index",
+   "reason": "文藝春秋PLUS特集「私の人生を決めた本」（2023、約20人）。一覧は開けたが各記事は文藝春秋PLUSの会員記事の可能性が高く、記事本文は未確認。無料で読めるかは未確認"
+  },
+  {
+   "url": "https://honcierge.jp/education/celebrities",
+   "result": "rejected",
+   "reason": "ホンシェルジュ「著名人」連載。俳優・元プロデューサーが書評・エッセイを書く形で、愛読書の紹介ではない（書評型）"
+  },
+  {
+   "url": "https://www.businessinsider.jp/series/recommended-books/2/",
+   "result": "rejected",
+   "reason": "robots.txtでClaudeBotを拒否"
+  },
+  {
+   "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2026/11/01/post_6/",
+   "result": "candidate",
+   "reason": "Sportiva不定期連載「アスリートと読書のいいつながり」姫野和樹（ラグビー）後編。一覧ページが見つからず連載の回数不明。本文は無料で読める（前編『海賊とよばれた男』）。今回は取り込まず",
+   "person": "姫野和樹"
+  },
+  {
+   "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/",
+   "result": "candidate",
+   "reason": "ITmedia IT経営者の本棚 イタンジ回。未読",
+   "person": ""
+  },
+  {
+   "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/",
+   "result": "candidate",
+   "reason": "ITmedia IT経営者の本棚 リンクアンドモチベーション回。未読",
+   "person": ""
+  },
+  {
+   "url": "https://www.itmedia.co.jp/news/article/2310/11/1231011127/",
+   "result": "candidate",
+   "reason": "ITmedia IT経営者の本棚 法務SaaS企業回(2023-10)。未読。ほか2023-05 チームスピリット、2022-12 freee、2022-11 マネーフォワード×2回も未読",
+   "person": ""
+  }
+ ]
+}

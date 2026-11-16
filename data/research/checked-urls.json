@@ -1183,9 +1183,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/kudou",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-kudou-c56f27",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/kunieda/",
@@ -1201,15 +1201,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/sakai",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-sakai-8a532e",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/sur_pramod_kuma",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-sur-eaf003",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/tanigaki/",
@@ -1219,9 +1219,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/tsutsui",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-tsutsui-3540db",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/wada/",
@@ -1237,15 +1237,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gm/yasui",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-yasui-d1b6a0",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/gshs/muramoto/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-muramoto-7ce2aa",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/it/matsunaga/",
@@ -1267,27 +1267,27 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/anbo/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-anbo-3c5d86",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/anzako/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-anzako-cbb55f",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/eguchi/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-eguchi-73999e",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fujii/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-fujii-35df26",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fukazawa/",
@@ -9861,24 +9861,24 @@
   },
   {
     "url": "https://book.asahi.com/article/14507961",
-    "result": "candidate",
-    "reason": "21番目の回（ほしとんで・2021-12-24）。取得済みだが上限20回を超えたため未取り込み",
+    "result": "adopted",
+    "reason": "sources.json の s-tanihara-b2b238",
     "person": "谷原章介",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://note.com/fujimi_l_note/n/n088163d69079",
-    "result": "candidate",
-    "reason": "第1回 しきみ彰（未読）",
+    "result": "adopted",
+    "reason": "sources.json の s-shikimi-6db810",
     "person": "しきみ彰",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://note.com/fujimi_l_note/n/ncfd679ab9a40",
-    "result": "candidate",
-    "reason": "第2回 谷崎泉（未読）",
+    "result": "adopted",
+    "reason": "sources.json の s-tanizaki-18145a",
     "person": "谷崎泉",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://book.asahi.com/article/15701473",
@@ -10261,33 +10261,33 @@
   },
   {
     "url": "https://mauml.musabi.ac.jp/news/22451/",
-    "result": "candidate",
-    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（冨井大裕教授 Vol.14）。未読",
-    "checkedAt": "2026-11-16"
+    "result": "adopted",
+    "reason": "sources.json の s14-b",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://mauml.musabi.ac.jp/news/22302/",
-    "result": "candidate",
-    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（池田ともゆき教授 Vol.13）。未読",
-    "checkedAt": "2026-11-16"
+    "result": "adopted",
+    "reason": "sources.json の s13-b",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://mauml.musabi.ac.jp/news/21117/",
-    "result": "candidate",
-    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（加藤幸治教授 Vol.12）。未読",
-    "checkedAt": "2026-11-16"
+    "result": "adopted",
+    "reason": "sources.json の s12-b",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://mauml.musabi.ac.jp/news/21026/",
-    "result": "candidate",
-    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（山本靖久教授 Vol.11）。未読",
-    "checkedAt": "2026-11-16"
+    "result": "adopted",
+    "reason": "sources.json の s11-b",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://mauml.musabi.ac.jp/news/23681/",
-    "result": "candidate",
-    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（新見隆教授 Vol.16）。未読",
-    "checkedAt": "2026-11-16"
+    "result": "adopted",
+    "reason": "sources.json の s16-b",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://mauml.musabi.ac.jp/news/26500/",
@@ -10512,10 +10512,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/adachi-daisuke",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-adachi-daisuke",
     "person": "adachi-daisuke",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/cho-yenling",
@@ -10526,10 +10526,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/coker-caitlin-christine",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-coker-caitlin-christine",
     "person": "coker-caitlin-christine",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/eda-masaki",
@@ -10540,17 +10540,17 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/fujita-takeshi",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-fujita-takeshi",
     "person": "fujita-takeshi",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yuichi",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-hashimoto-yuichi",
     "person": "hashimoto-yuichi",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hattori-michitaka",
@@ -10575,10 +10575,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hiramatsu-makoto",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-hiramatsu-makoto",
     "person": "hiramatsu-makoto",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-kazushi",
@@ -12848,9 +12848,9 @@
   },
   {
     "url": "https://magazine.redesigner.jp/post/ReDesigner-OnlineTalk-vol1",
-    "result": "candidate",
-    "reason": "デザイナー人生に影響を与えた書籍9選。今回読めず",
-    "checkedAt": "2026-11-16"
+    "result": "adopted",
+    "reason": "sources.json の sre",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://designer-draft.jp/articles/125",
@@ -13679,5 +13679,84 @@
     "result": "adopted",
     "reason": "sources.json の s57",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2512/13/1251213010/",
+    "result": "adopted",
+    "reason": "sources.json の incu",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2507/08/1250708103/",
+    "result": "adopted",
+    "reason": "sources.json の hitachi",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2602/18/1260218046/",
+    "result": "adopted",
+    "reason": "sources.json の reiwa",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2509/12/1250912077/",
+    "result": "adopted",
+    "reason": "sources.json の rakus",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/series/32104/",
+    "result": "index",
+    "reason": "ITmedia NEWS連載「IT経営者の本棚」。2022-11〜2026-02で約11社分、1社3〜4人の経営層が各2〜3冊を自分で書く。無料・全文読める・書名と著者名は本文に文字で載る。登場者はIT企業の取締役・執行役員が中心で知名度は低め（上場企業社長や元アナウンサーを含む）。今回は新しい4社のうち8人を取り込み",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/213208",
+    "result": "index",
+    "reason": "GINZA「24人の愛読書「私のいちばん好きな本」」vol.1-6（2021、俳優・デザイナー等24人が各1冊）。無料だが本文がJS描画でHTMLにもWebFetchにも本文が出ず、書名を確認できない。robotsは許可。vol.1-6は /culture/24books-1〜6",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.nikkan-gendai.com/articles/columns/3676",
+    "result": "index",
+    "reason": "日刊ゲンダイ連載「私の人生を変えた一冊」（2019〜2020、著名人が1冊を語る、約50回）。記事は有料会員限定で冒頭しか読めず不採用（rejected）。書名は見出しに出る回のみ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/feature/%E7%A7%81%E3%81%AE%E4%BA%BA%E7%94%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%81%9F%E6%9C%AC",
+    "result": "index",
+    "reason": "文藝春秋PLUS特集「私の人生を決めた本」（2023、約20人）。一覧は開けたが各記事は文藝春秋PLUSの会員記事の可能性が高く、記事本文は未確認。無料で読めるかは未確認",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.businessinsider.jp/series/recommended-books/2/",
+    "result": "rejected",
+    "reason": "robots.txtでClaudeBotを拒否",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2026/11/01/post_6/",
+    "result": "candidate",
+    "reason": "Sportiva不定期連載「アスリートと読書のいいつながり」姫野和樹（ラグビー）後編。一覧ページが見つからず連載の回数不明。本文は無料で読める（前編『海賊とよばれた男』）。今回は取り込まず",
+    "person": "姫野和樹",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/",
+    "result": "candidate",
+    "reason": "ITmedia IT経営者の本棚 イタンジ回。未読",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/",
+    "result": "candidate",
+    "reason": "ITmedia IT経営者の本棚 リンクアンドモチベーション回。未読",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2310/11/1231011127/",
+    "result": "candidate",
+    "reason": "ITmedia IT経営者の本棚 法務SaaS企業回(2023-10)。未読。ほか2023-05 チームスピリット、2022-12 freee、2022-11 マネーフォワード×2回も未読",
+    "checkedAt": "2026-11-17"
   }
 ]
