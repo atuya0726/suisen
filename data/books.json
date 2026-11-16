@@ -42684,5 +42684,85 @@
       "北杜夫"
     ],
     "publisher": "新潮社"
+  },
+  {
+    "isbn13": "9784253064798",
+    "title": "鉄腕アトム",
+    "authors": [
+      "手塚治虫"
+    ],
+    "publisher": "秋田書店",
+    "publishedAt": "2009-09-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1066964/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2530/25306479.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062853156",
+    "title": "大草原の小さな家シリーズ　大草原の小さな家　（新装版）",
+    "authors": [
+      "ローラ．インガルス・ワイルダー",
+      "こだま ともこ",
+      "渡辺 南都子",
+      "丹地 陽子"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2012-11-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11916763/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3156/9784062853156.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784167275860",
+    "title": "血のついたエッグ・コージィ",
+    "authors": [
+      "ジェームズ・アンダースン"
+    ],
+    "publisher": "文藝春秋"
+  },
+  {
+    "isbn13": "9784167104122",
+    "title": "崖 上",
+    "authors": [
+      "井上靖"
+    ],
+    "publisher": "文藝春秋"
+  },
+  {
+    "isbn13": "9784093523127",
+    "title": "鞍馬天狗 1 角兵衛獅子",
+    "authors": [
+      "大佛 次郎"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2017-08-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15019425/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3127/9784093523127_1_13.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784591057582",
+    "title": "ヘレン・ケラー",
+    "authors": [
+      "砂田弘"
+    ],
+    "publisher": "ポプラ社"
+  },
+  {
+    "isbn13": "9784061902947",
+    "title": "あたしのエイリアン",
+    "authors": [
+      "津原やすみ"
+    ],
+    "publisher": "講談社"
+  },
+  {
+    "isbn13": "9784480857187",
+    "title": "ぼくらの知慧の果てるまで",
+    "authors": [
+      "山尾三省",
+      "宮内勝典"
+    ],
+    "publisher": "筑摩書房"
   }
 ]
