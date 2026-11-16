@@ -1,0 +1,385 @@
+{
+ "people": [
+  {
+   "id": "kouno",
+   "name": "河野裕",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "togami",
+   "name": "砥上裕將",
+   "title": "作家・水墨画家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "iwai",
+   "name": "岩井圭也",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s238",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第238回：河野裕",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi238_kouno/",
+   "publishedAt": "2022-03-25"
+  },
+  {
+   "id": "s236",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第236回：砥上裕將",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi236_togami/",
+   "publishedAt": "2021-12-24"
+  },
+  {
+   "id": "s233",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第233回：岩井圭也",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi233_iwai/",
+   "publishedAt": "2021-09-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "二分間の冒険",
+    "author": "岡田淳",
+    "publisher": "偕成社",
+    "edition": "偕成社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "モモ",
+    "author": "ミヒャエル・エンデ",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "閉鎖のシステム",
+    "author": "秋田禎信",
+    "publisher": "KADOKAWA",
+    "edition": "富士見ファンタジア文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "魔術士オーフェンはぐれ旅",
+    "author": "秋田禎信",
+    "publisher": "ティー・オーエンタテインメント",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "闇の運命を背負う者",
+    "author": "神坂一",
+    "publisher": "KADOKAWA",
+    "edition": "角川スニーカー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "草枕",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "世界は密室でできている。",
+    "author": "舞城王太郎",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "失はれる物語",
+    "author": "乙一",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "旅のラゴス",
+    "author": "筒井康隆",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kouno",
+   "sourceId": "s238",
+   "book": {
+    "title": "トライガン・マキシマム",
+    "author": "内藤泰弘",
+    "publisher": "少年画報社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "風の影 上",
+    "author": "カルロス・ルイス・サフォン",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "長いお別れ",
+    "author": "レイモンド・チャンドラー",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "鍵のかかった部屋",
+    "author": "ポール・オースター",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "幻影の書",
+    "author": "ポール・オースター",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "ムーン・パレス",
+    "author": "ポール・オースター",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "坊っちゃん",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "こころ",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "漂流",
+    "author": "吉村昭",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "100万回生きたねこ",
+    "author": "佐野洋子",
+    "publisher": "講談社",
+    "edition": "講談社の創作絵本"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "togami",
+   "sourceId": "s236",
+   "book": {
+    "title": "夜は短し歩けよ乙女",
+    "author": "森見登美彦",
+    "publisher": "角川グループパブリッシング",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "吉里吉里人 上",
+    "author": "井上ひさし",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "GO",
+    "author": "金城一紀",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "友情",
+    "author": "武者小路実篤",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "告白",
+    "author": "町田康",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "オリガ・モリソヴナの反語法",
+    "author": "米原万里",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "敗れざる者たち",
+    "author": "沢木耕太郎",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "流",
+    "author": "東山彰良",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "宝島 上",
+    "author": "真藤順丈",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "夜は短し歩けよ乙女",
+    "author": "森見登美彦",
+    "publisher": "角川グループパブリッシング",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwai",
+   "sourceId": "s233",
+   "book": {
+    "title": "1000の小説とバックベアード",
+    "author": "佐藤友哉"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

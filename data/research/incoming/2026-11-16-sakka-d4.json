@@ -1,0 +1,370 @@
+{
+ "people": [
+  {
+   "id": "takase",
+   "name": "高瀬隼子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "yuki",
+   "name": "結城真一郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "kishi",
+   "name": "岸政彦",
+   "title": "作家・社会学者",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-takase",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第247回：高瀬隼子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi247_takase/",
+   "publishedAt": "2022-11-25"
+  },
+  {
+   "id": "src-yuki",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第246回：結城真一郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi246_yuki/",
+   "publishedAt": "2022-10-28"
+  },
+  {
+   "id": "src-kishi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第239回：岸政彦",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi239_kishi/",
+   "publishedAt": "2022-04-08"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "楽園の魔女たち",
+    "author": "樹川さとみ",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "だれかのいとしいひと",
+    "author": "角田光代",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "ナラタージュ",
+    "author": "島本理生",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "蛇にピアス",
+    "author": "金原ひとみ",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "ハッピー・アイスクリーム",
+    "author": "加藤千恵",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "ミーナの行進",
+    "author": "小川洋子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "温泉妖精",
+    "author": "黒名ひろみ",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "ゲームの王国 上",
+    "author": "小川哲",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫JA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "神前酔狂宴",
+    "author": "古谷田奈月",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takase",
+   "sourceId": "src-takase",
+   "book": {
+    "title": "マチズモを削り取れ",
+    "author": "武田砂鉄",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "バトル・ロワイアル 上",
+    "author": "高見広春",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "花のズッコケ児童会長",
+    "author": "那須正幹",
+    "publisher": "ポプラ社",
+    "edition": "こども文学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "デルトラ・クエスト",
+    "author": "エミリー・ロッダ",
+    "publisher": "岩崎書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "白夜行",
+    "author": "東野圭吾",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "ゴールデンスランバー",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "亡国のイージス 上",
+    "author": "福井晴敏",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "六人の嘘つきな大学生",
+    "author": "浅倉秋成",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "テロリストのパラソル",
+    "author": "藤原伊織",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "指輪物語",
+    "author": "J・R・R・トールキン",
+    "publisher": "評論社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "src-yuki",
+   "book": {
+    "title": "雪冤",
+    "author": "大門剛明",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "IT",
+    "author": "スティーヴン・キング",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "流れよわが涙、と警官は言った",
+    "author": "フィリップ・K・ディック",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "アンドロイドは電気羊の夢を見るか?",
+    "author": "フィリップ・K・ディック",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "タイタンの妖女",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "ディスタンクシオン I",
+    "subtitle": "社会的判断力批判",
+    "author": "ピエール・ブルデュー",
+    "publisher": "藤原書店",
+    "edition": "ブルデュー・ライブラリー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "虚人たち",
+    "author": "筒井康隆",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "日本語の作文技術",
+    "author": "本多勝一",
+    "publisher": "朝日新聞出版",
+    "edition": "朝日文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "発狂した宇宙",
+    "author": "フレドリック・ブラウン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kishi",
+   "sourceId": "src-kishi",
+   "book": {
+    "title": "大どろぼうホッツェンプロッツ",
+    "author": "オトフリート・プロイスラー",
+    "publisher": "偕成社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

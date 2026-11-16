@@ -1,0 +1,375 @@
+{
+ "people": [
+  {
+   "id": "yamamoto",
+   "name": "山本文緒",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "kiuchi",
+   "name": "木内昇",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "isozaki",
+   "name": "磯﨑憲一郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s87",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第87回：山本文緒",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi087_yamamoto/",
+   "publishedAt": "2009-01-28"
+  },
+  {
+   "id": "s170",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第170回：木内昇",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi170_kiuchi/",
+   "publishedAt": "2016-03-16"
+  },
+  {
+   "id": "s161",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第161回：磯﨑憲一郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi161_isozaki/",
+   "publishedAt": "2015-06-17"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "彼女について知ることのすべて",
+    "author": "佐藤正午",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "マシアス・ギリの失脚",
+    "author": "池澤夏樹",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "世界の終りとハードボイルド・ワンダーランド 上",
+    "author": "村上春樹",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "限りなく透明に近いブルー",
+    "author": "村上龍",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "二十歳の原点",
+    "author": "高野悦子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "小公女",
+    "author": "フランシス・ホジソン・バーネット",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "ジャージの二人",
+    "author": "長嶋有",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "赤朽葉家の伝説",
+    "author": "桜庭一樹",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "グラスハート",
+    "author": "若木未生",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s87",
+   "book": {
+    "title": "5",
+    "author": "佐藤正午",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "燃えよ剣 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "銀河鉄道999",
+    "author": "松本零士",
+    "publisher": "少年画報社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "杳子・妻隠",
+    "author": "古井由吉",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "枯木灘",
+    "author": "中上健次",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "密やかな結晶",
+    "author": "小川洋子",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "ことり",
+    "author": "小川洋子",
+    "publisher": "朝日新聞出版",
+    "edition": "朝日文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "屋根屋",
+    "author": "村田喜代子",
+    "publisher": "講談社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "辻",
+    "author": "古井由吉",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "ぼくは王さま",
+    "author": "寺村輝夫",
+    "publisher": "理論社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kiuchi",
+   "sourceId": "s170",
+   "book": {
+    "title": "コロボックル物語",
+    "author": "佐藤さとる",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "透明少年",
+    "author": "加納一朗"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "はるかなるわがラスカル",
+    "author": "スターリング・ノース"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "船乗りクプクプの冒険",
+    "author": "北杜夫",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "楡家の人びと",
+    "author": "北杜夫",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "ライ麦畑でつかまえて",
+    "author": "サリンジャー",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "栄光と狂気",
+    "author": "デイビッド・ハルバースタム"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "夏の朝の成層圏",
+    "author": "池澤夏樹",
+    "publisher": "中央公論社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "百年の孤独",
+    "author": "ガブリエル・ガルシア=マルケス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "猫に時間の流れる",
+    "author": "保坂和志",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isozaki",
+   "sourceId": "s161",
+   "book": {
+    "title": "三人の女",
+    "author": "ロベルト・ムージル"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

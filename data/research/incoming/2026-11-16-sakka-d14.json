@@ -1,0 +1,310 @@
+{
+ "people": [
+  {
+   "id": "p_mikami",
+   "name": "三上延",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p_takano",
+   "name": "高野和明",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "p_enjo",
+   "name": "円城塔",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s122",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第122回：三上延",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi122_mikami/",
+   "publishedAt": "2012-01-18"
+  },
+  {
+   "id": "s115",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第115回：高野和明",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi115_takano/",
+   "publishedAt": "2011-06-24"
+  },
+  {
+   "id": "s101",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第101回：円城塔",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi101_enjo/",
+   "publishedAt": "2010-03-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "冬の神話",
+    "author": "小林信彦",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "思い出トランプ",
+    "author": "向田邦子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "ゴルフ場殺人事件",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "クリスティー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "少女地獄",
+    "author": "夢野久作",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "地獄の道化師・一寸法師",
+    "author": "江戸川乱歩",
+    "publisher": "春陽堂書店",
+    "edition": "春陽文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "航路 上",
+    "author": "コニー・ウィリス",
+    "publisher": "ソニーマガジンズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "崖",
+    "author": "井上靖"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "日日の麺麭・風貌",
+    "author": "小山清",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "漂流教室",
+    "author": "楳図かずお",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_mikami",
+   "sourceId": "s122",
+   "book": {
+    "title": "古本屋探偵の事件簿",
+    "author": "紀田順一郎",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "エクソシスト",
+    "author": "ウィリアム・ピーター・ブラッティ",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "砂糖菓子の弾丸は撃ちぬけない",
+    "author": "桜庭一樹",
+    "publisher": "角川グループパブリッシング",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "火車",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "魔術はささやく",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "文明の逆説",
+    "author": "立花隆",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "鞍馬天狗",
+    "author": "大佛次郎",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "生きる 黒澤明の世界",
+    "author": "都築政昭"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "マスターズ・オブ・ライト",
+    "author": "デニス・シェファー",
+    "publisher": "フィルムアート社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_takano",
+   "sourceId": "s115",
+   "book": {
+    "title": "映画の文法",
+    "author": "ダニエル・アリホン",
+    "publisher": "紀伊國屋書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_enjo",
+   "sourceId": "s101",
+   "book": {
+    "title": "歌の翼に",
+    "author": "トマス・M・ディッシュ",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_enjo",
+   "sourceId": "s101",
+   "book": {
+    "title": "ヴァリス",
+    "author": "フィリップ・K・ディック",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_enjo",
+   "sourceId": "s101",
+   "book": {
+    "title": "麗しのオルタンス",
+    "author": "ジャック・ルーボー",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_enjo",
+   "sourceId": "s101",
+   "book": {
+    "title": "泣き虫弱虫諸葛孔明",
+    "author": "酒見賢一",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p_enjo",
+   "sourceId": "s101",
+   "book": {
+    "title": "アマチャ・ズルチャ 柴刈天神前風土記",
+    "author": "深堀骨",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

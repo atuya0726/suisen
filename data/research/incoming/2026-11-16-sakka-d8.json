@@ -1,0 +1,350 @@
+{
+ "people": [
+  {
+   "id": "norishiro",
+   "name": "乗代雄介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "go",
+   "name": "呉勝浩",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "imamura",
+   "name": "今村昌弘",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s217",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第217回：乗代雄介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi217_norishiro/",
+   "publishedAt": "2020-04-25"
+  },
+  {
+   "id": "s212",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第212回：呉勝浩",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi212_go/",
+   "publishedAt": "2019-11-23"
+  },
+  {
+   "id": "s205",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第205回：今村昌弘",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi205_imamura/",
+   "publishedAt": "2019-04-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "失踪者",
+    "author": "フランツ・カフカ",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "ナニワ金融道",
+    "author": "青木雄二",
+    "publisher": "CoMax",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "終着駅殺人事件",
+    "author": "西村京太郎",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "IMONを創る",
+    "author": "いがらしみきお",
+    "publisher": "アスキー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "ちょっとピンぼけ",
+    "author": "ロバート・キャパ",
+    "publisher": "ダヴィッド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "元禄御畳奉行の日記",
+    "subtitle": "尾張藩士の見た浮世",
+    "author": "神坂次郎",
+    "publisher": "中央公論新社",
+    "edition": "中公新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "平凡",
+    "author": "二葉亭四迷"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "ぼくの大好きな青髭",
+    "author": "庄司薫",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "死んでも何も残さない",
+    "subtitle": "中原昌也自伝",
+    "author": "中原昌也",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "norishiro",
+   "sourceId": "s217",
+   "book": {
+    "title": "チャーリーとの旅",
+    "author": "ジョン・スタインベック"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "64（ロクヨン） 上",
+    "author": "横山秀夫",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "匣の中の失楽",
+    "author": "竹本健治",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "奇偶 上",
+    "author": "山口雅也",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "テロリストのパラソル",
+    "author": "藤原伊織",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "月光ゲーム",
+    "subtitle": "Yの悲劇'88",
+    "author": "有栖川有栖",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "オーデュボンの祈り",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "白夜行",
+    "author": "東野圭吾",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "溺レる",
+    "author": "川上弘美",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "go",
+   "sourceId": "s212",
+   "book": {
+    "title": "アクロイド殺し",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "クリスティー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "十五少年漂流記",
+    "author": "ジュール・ヴェルヌ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "神秘の島 第1部",
+    "author": "ジュール・ヴェルヌ",
+    "publisher": "偕成社",
+    "edition": "偕成社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "氷菓",
+    "author": "米澤穂信",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "吸血殲鬼ヴェドゴニア WHITE NIGHT",
+    "author": "虚淵玄",
+    "publisher": "KADOKAWA",
+    "edition": "角川スニーカー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "戦略拠点32098 楽園",
+    "author": "長谷敏司",
+    "publisher": "KADOKAWA",
+    "edition": "角川スニーカー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "ジェゼベルの死",
+    "author": "クリスチアナ・ブランド",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "s205",
+   "book": {
+    "title": "陰陽師",
+    "author": "夢枕獏",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

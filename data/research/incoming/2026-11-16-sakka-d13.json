@@ -1,0 +1,361 @@
+{
+ "people": [
+  {
+   "id": "shinpo",
+   "name": "真保裕一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "shinoda",
+   "name": "篠田節子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "shiraishi",
+   "name": "白石一文",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "sshinpo",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第136回：真保裕一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi136_shinpo/",
+   "publishedAt": "2013-04-17"
+  },
+  {
+   "id": "sshinoda",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第134回：篠田節子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi134_shinoda/",
+   "publishedAt": "2013-02-20"
+  },
+  {
+   "id": "sshiraishi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第124回：白石一文",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi124_shiraishi/",
+   "publishedAt": "2012-04-18"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "鉄人28号",
+    "author": "横山光輝",
+    "publisher": "潮出版社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "ワイルド7",
+    "author": "望月三起也",
+    "publisher": "実業之日本社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "秘密探偵JA",
+    "author": "望月三起也",
+    "publisher": "ぶんか社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "エジプト十字架の秘密・十四のピストルのなぞ",
+    "author": "エラリー・クイーン",
+    "publisher": "あかね書房",
+    "edition": "少年少女世界推理文学全集"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "利腕",
+    "author": "ディック・フランシス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "百舌の叫ぶ夜",
+    "author": "逢坂剛",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "カディスの赤い星 上",
+    "author": "逢坂剛",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinpo",
+   "sourceId": "sshinpo",
+   "book": {
+    "title": "大迷走",
+    "author": "逢坂剛",
+    "publisher": "集英社",
+    "edition": "御茶ノ水警察シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "失われた世界",
+    "author": "コナン・ドイル",
+    "publisher": "東京創元社",
+    "edition": "創元SF文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "忍者武芸帳 影丸伝",
+    "author": "白土三平",
+    "publisher": "小学館クリエイティブ",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "春琴抄",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "卍",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "ジュラシック・パーク 上",
+    "author": "マイクル・クライトン",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫NV"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "ディスクロージャー 上",
+    "author": "マイクル・クライトン",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫NV"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "誕生日",
+    "author": "カルロス・フエンテス",
+    "publisher": "作品社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "兄弟 上",
+    "author": "余華",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "香水 ある人殺しの物語",
+    "author": "パトリック・ジュースキント",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinoda",
+   "sourceId": "sshinoda",
+   "book": {
+    "title": "バレエ・メカニック",
+    "author": "津原泰水",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫JA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "異邦人",
+    "author": "カミュ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "人間の條件 上",
+    "author": "五味川純平",
+    "publisher": "岩波書店",
+    "edition": "岩波現代文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "愛のごとく",
+    "author": "山川方夫",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "愛のごとく 上",
+    "author": "渡辺淳一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "天空の舟 上",
+    "author": "宮城谷昌光",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "国盗り物語",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "鷹ノ羽の城",
+    "author": "白石一郎",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "季節のない街",
+    "author": "山本周五郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "海鳴り 上",
+    "author": "藤沢周平",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiraishi",
+   "sourceId": "sshiraishi",
+   "book": {
+    "title": "午後の曳航",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

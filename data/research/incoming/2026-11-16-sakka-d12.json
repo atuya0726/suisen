@@ -1,0 +1,357 @@
+{
+ "people": [
+  {
+   "id": "yakumaru",
+   "name": "薬丸岳",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "okuizumi",
+   "name": "奥泉光",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "inoue",
+   "name": "井上荒野",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_yakumaru",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第160回：薬丸岳",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi160_yakumaru/",
+   "publishedAt": "2015-05-20"
+  },
+  {
+   "id": "s_okuizumi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第151回：奥泉光",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi151_okuizumi/",
+   "publishedAt": "2014-08-20"
+  },
+  {
+   "id": "s_inoue",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第145回：井上荒野",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi145_inoue/",
+   "publishedAt": "2014-02-19"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "13階段",
+    "author": "高野和明",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "新宿鮫",
+    "author": "大沢在昌",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "ホワイトアウト",
+    "author": "真保裕一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "犬死にせしもの",
+    "author": "西村望"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "あした天気にしておくれ",
+    "author": "岡嶋二人",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "ジェノサイド",
+    "author": "高野和明"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "悪の教典 上",
+    "author": "貴志祐介"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "雪冤",
+    "author": "大門剛明",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "罪火",
+    "author": "大門剛明",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yakumaru",
+   "sourceId": "s_yakumaru",
+   "book": {
+    "title": "闇に香る嘘",
+    "author": "下村敦史",
+    "publisher": "講談社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "吾輩は猫である",
+    "author": "夏目漱石"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "ボートの三人男",
+    "author": "ジェローム・K.ジェローム",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "毒入りチョコレート事件",
+    "author": "アントニイ・バークリー",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "洪水はわが魂に及び 上",
+    "author": "大江健三郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "カラマーゾフの兄弟 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "福翁自伝",
+    "author": "福沢諭吉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "九マイルは遠すぎる",
+    "author": "ハリイ・ケメルマン",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "細雪",
+    "author": "谷崎潤一郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okuizumi",
+   "sourceId": "s_okuizumi",
+   "book": {
+    "title": "資本論 1",
+    "author": "マルクス",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "妊婦たちの明日",
+    "author": "井上光晴"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "夜の樹",
+    "author": "トルーマン・カポーティ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "十三の無気味な物語",
+    "author": "ハンス・ヘニー・ヤーン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "芽むしり仔撃ち",
+    "author": "大江健三郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "夏服を着た女たち",
+    "author": "アーウィン・ショー",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "悪い時",
+    "author": "ガブリエル・ガルシア=マルケス",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "週末",
+    "author": "ベルンハルト・シュリンク",
+    "publisher": "新潮社",
+    "edition": "新潮クレスト・ブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "象のアンクル",
+    "author": "J.P.マーチン",
+    "publisher": "評論社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "inoue",
+   "sourceId": "s_inoue",
+   "book": {
+    "title": "枯木灘",
+    "author": "中上健次",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

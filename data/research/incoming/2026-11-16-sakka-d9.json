@@ -1,0 +1,371 @@
+{
+ "people": [
+  {
+   "id": "terachi",
+   "name": "寺地はるな",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sawamura",
+   "name": "澤村伊智",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ashizawa",
+   "name": "芦沢央",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s202",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第202回：寺地はるな",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi202_terachi/",
+   "publishedAt": "2019-01-26"
+  },
+  {
+   "id": "s186",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第186回：澤村伊智",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi186_sawamura/",
+   "publishedAt": "2017-09-20"
+  },
+  {
+   "id": "s183",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第183回：芦沢央",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi183_ashizawa/",
+   "publishedAt": "2017-05-17"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "完訳 オズの魔法使い",
+    "author": "ライマン・フランク・ボーム",
+    "publisher": "復刊ドットコム"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "泥流地帯",
+    "author": "三浦綾子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "放課後の音符",
+    "author": "山田詠美",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "喪失記",
+    "author": "姫野カオルコ",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "国道沿いのファミレス",
+    "author": "畑野智美",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "静かにしなさい、でないと",
+    "author": "朝倉かすみ",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "あめふらし",
+    "author": "長野まゆみ",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "最初の悪い男",
+    "author": "ミランダ・ジュライ",
+    "publisher": "新潮社",
+    "edition": "新潮クレスト・ブックス"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "平場の月",
+    "author": "朝倉かすみ",
+    "publisher": "光文社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "terachi",
+   "sourceId": "s202",
+   "book": {
+    "title": "お父さんは心配症",
+    "author": "岡田あ~みん",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "まほうをかけられた舌",
+    "author": "安房直子"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "天使の牙から",
+    "author": "ジョナサン・キャロル"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "黄色い部屋の秘密",
+    "author": "ガストン・ルルー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "ウォッチメン",
+    "author": "アラン・ムーア"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "バットマン:キリングジョーク",
+    "author": "アラン・ムーア",
+    "publisher": "小学館集英社プロダクション"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "リーグ・オブ・エクストラオーディナリー・ジェントルメン",
+    "author": "アラン・ムーア",
+    "publisher": "ヴィレッジブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "大誘拐",
+    "author": "天藤真",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "ク・リトル・リトル神話集",
+    "author": "H.P.ラヴクラフト",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawamura",
+   "sourceId": "s186",
+   "book": {
+    "title": "ゆうれい屋敷の謎",
+    "author": "アーサー・マッケン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "十二国記",
+    "author": "小野不由美",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "風に舞いあがるビニールシート",
+    "author": "森絵都",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "恋愛中毒",
+    "author": "山本文緒",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "おめでとう",
+    "author": "川上弘美",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "白河夜船",
+    "author": "吉本ばなな",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "蝶々の纏足・風葬の教室",
+    "author": "山田詠美",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "冷たい校舎の時は止まる 上",
+    "author": "辻村深月",
+    "publisher": "講談社",
+    "edition": "講談社ノベルズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "空の中",
+    "author": "有川浩",
+    "publisher": "メディアワークス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "戻り川心中",
+    "author": "連城三紀彦",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ashizawa",
+   "sourceId": "s183",
+   "book": {
+    "title": "人のセックスを笑うな",
+    "author": "山崎ナオコーラ",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

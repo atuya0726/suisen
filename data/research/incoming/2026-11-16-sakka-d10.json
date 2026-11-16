@@ -1,0 +1,369 @@
+{
+ "people": [
+  {
+   "id": "shiota",
+   "name": "塩田武士",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "miyauchi",
+   "name": "宮内悠介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "abe",
+   "name": "阿部智里",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-shiota",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第182回：塩田武士",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi182_shiota/",
+   "publishedAt": "2017-04-19"
+  },
+  {
+   "id": "src-miyauchi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第178回：宮内悠介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi178_miyauchi/",
+   "publishedAt": "2016-11-16"
+  },
+  {
+   "id": "src-abe",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第176回：阿部智里",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi176_abe/",
+   "publishedAt": "2016-09-21"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社",
+    "edition": "YA! ENTERTAINMENT"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "テロリストのパラソル",
+    "author": "藤原伊織",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "白夜行",
+    "author": "東野圭吾",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "悪意",
+    "author": "東野圭吾",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "砂の器 上",
+    "author": "松本清張",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "亡国のイージス 上",
+    "author": "福井晴敏",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "一瞬の夏 上",
+    "author": "沢木耕太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "桶川ストーカー殺人事件―遺言",
+    "author": "清水潔",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "鷲は舞い降りた",
+    "author": "ジャック・ヒギンズ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫NV"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiota",
+   "sourceId": "src-shiota",
+   "book": {
+    "title": "一条さゆりの真実",
+    "author": "加藤詩子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "魁！！男塾",
+    "author": "宮下あきら",
+    "publisher": "サード・ライン",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "トムは真夜中の庭で",
+    "author": "フィリパ・ピアス",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "カラマーゾフの兄弟 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "罪と罰 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "ソラリス",
+    "author": "スタニスワフ・レム",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "死の棘",
+    "author": "島尾敏雄",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "枯木灘",
+    "author": "中上健次",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "夜と霧の隅で",
+    "author": "北杜夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyauchi",
+   "sourceId": "src-miyauchi",
+   "book": {
+    "title": "戦場のコックたち",
+    "author": "深緑野分",
+    "publisher": "東京創元社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "ハリー・ポッターと秘密の部屋",
+    "author": "J.K.ローリング",
+    "publisher": "静山社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "小さなピスケのはじめてのたび",
+    "author": "二木真希子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "精霊の守り人",
+    "author": "上橋菜穂子",
+    "publisher": "偕成社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "空色勾玉",
+    "author": "荻原規子",
+    "publisher": "徳間書店",
+    "edition": "徳間文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "十二国記",
+    "author": "小野不由美",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "指輪物語",
+    "author": "J.R.R.トールキン",
+    "publisher": "評論社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "陰陽師",
+    "author": "夢枕獏",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "魔人探偵脳噛ネウロ",
+    "author": "松井優征",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "abe",
+   "sourceId": "src-abe",
+   "book": {
+    "title": "アカギ",
+    "author": "福本伸行",
+    "publisher": "竹書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}
