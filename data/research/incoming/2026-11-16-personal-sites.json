@@ -1,0 +1,1042 @@
+{
+ "people": [
+  {
+   "id": "sakai-jun",
+   "name": "酒井潤",
+   "title": "エンジニア（シリコンバレー在住）",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "yagi-jimpei",
+   "name": "八木仁平",
+   "title": "自己理解の専門家・会社経営者",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "kimura-tatsuya",
+   "name": "木村達哉",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "sakai-books",
+   "type": "article",
+   "media": "酒井潤公式ブログ",
+   "title": "私のおすすめ本リスト",
+   "url": "https://sakaijun.blog.jp/archives/37325843.html",
+   "publishedAt": "2020-11-30"
+  },
+  {
+   "id": "jimpei-college",
+   "type": "article",
+   "media": "八木仁平公式サイト",
+   "title": "自由に生きるぼくが教える、大学生が読むべきおすすめ本18選",
+   "url": "https://www.jimpei.net/jikorikai/entry/book-daigakusei"
+  },
+  {
+   "id": "jimpei-jiko-book",
+   "type": "article",
+   "media": "八木仁平公式サイト",
+   "title": "自己理解を深め、自分探しを終わらせるためのおすすめ本まとめ【200冊から厳選】",
+   "url": "https://www.jimpei.net/jikorikai/entry/jiko-book"
+  },
+  {
+   "id": "kimutatsu-recommend",
+   "type": "article",
+   "media": "作家 木村達哉(キムタツ)オフィシャルサイト",
+   "title": "おすすめ本",
+   "url": "https://www.kimu-tatsu.com/reccomend"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "運とつきあう",
+    "subtitle": "幸せとお金を呼びこむ13の法則",
+    "author": "マックス・ギュンター",
+    "publisher": "日経BP社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "アメリカ極悪刑務所を生き抜いた日本人",
+    "author": "KEI",
+    "publisher": "河出書房新社",
+    "isbn": "4309909973"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "「強さ」の奥義",
+    "author": "桜井章一",
+    "publisher": "青春出版社",
+    "isbn": "4413033868"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "金持ち父さん 貧乏父さん",
+    "subtitle": "アメリカの金持ちが教えてくれるお金の哲学",
+    "author": "ロバート・キヨサキ",
+    "publisher": "筑摩書房",
+    "isbn": "4480864245",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "金持ち父さんの投資ガイド 入門編",
+    "subtitle": "投資力をつける16のレッスン",
+    "author": "ロバート・キヨサキ",
+    "publisher": "筑摩書房",
+    "isbn": "4480864296",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "金持ち父さんの投資ガイド 上級編",
+    "subtitle": "起業家精神から富が生まれる",
+    "author": "ロバート・キヨサキ",
+    "publisher": "筑摩書房",
+    "isbn": "448086430X",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "金持ち父さんの若くして豊かに引退する方法",
+    "author": "ロバート・キヨサキ",
+    "publisher": "筑摩書房",
+    "isbn": "4480864393",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "金持ち父さんの起業する前に読む本",
+    "subtitle": "ビッグビジネスで成功するための10のレッスン",
+    "author": "ロバート・キヨサキ",
+    "publisher": "筑摩書房",
+    "isbn": "4480864385",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "スタンフォードの自分を変える教室",
+    "author": "ケリー・マクゴニガル",
+    "publisher": "大和書房",
+    "isbn": "4479305580",
+    "edition": "だいわ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "起業のファイナンス",
+    "author": "磯崎哲也",
+    "publisher": "日本実業出版社",
+    "isbn": "4534052456",
+    "edition": "増補改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "新・資本論",
+    "subtitle": "僕はお金の正体がわかった",
+    "author": "堀江貴文",
+    "publisher": "宝島社",
+    "isbn": "4796672206",
+    "edition": "宝島社新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "21世紀の国富論",
+    "author": "原丈人",
+    "publisher": "平凡社",
+    "isbn": "4582836291",
+    "edition": "増補"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "金融のしくみは全部ロスチャイルドが作った",
+    "author": "安部芳裕",
+    "publisher": "徳間書店",
+    "isbn": "4199060383",
+    "edition": "5次元文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "元日銀マンが教える預金封鎖",
+    "author": "本吉正雄",
+    "publisher": "PHP研究所",
+    "isbn": "4569635059"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "ユダヤ人金儲けの知恵",
+    "subtitle": "ユダヤ人のように考えろ!",
+    "author": "烏賀陽正弘",
+    "publisher": "ダイヤモンド社",
+    "isbn": "4478210535"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "ユダヤ人大富豪の教え",
+    "subtitle": "幸せな金持ちになる17の秘訣",
+    "author": "本田健",
+    "publisher": "大和書房",
+    "isbn": "4479300082",
+    "edition": "だいわ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "なぜ、この人たちは金持ちになったのか",
+    "author": "トマス・J・スタンリー",
+    "publisher": "日本経済新聞出版社",
+    "isbn": "453219458X",
+    "edition": "日経ビジネス人文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "フェルドマン博士の 日本経済最新講義",
+    "author": "ロバート・アラン・フェルドマン",
+    "publisher": "文藝春秋",
+    "isbn": "4163693718"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "世界一愚かなお金持ち、日本人",
+    "author": "マダム・ホー",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "isbn": "4887596138",
+    "edition": "ディスカヴァー携書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "間抜けの構造",
+    "author": "ビートたけし",
+    "publisher": "新潮社",
+    "isbn": "4106104903",
+    "edition": "新潮新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "巨泉",
+    "subtitle": "人生の選択",
+    "author": "大橋巨泉",
+    "publisher": "講談社",
+    "isbn": "406268330X"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "柳井正の希望を持とう",
+    "author": "柳井正",
+    "publisher": "朝日新聞出版",
+    "isbn": "4022733993",
+    "edition": "朝日新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "トランプ自伝",
+    "subtitle": "不動産王にビジネスを学ぶ",
+    "author": "ドナルド・J・トランプ",
+    "publisher": "筑摩書房",
+    "isbn": "4480423796",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+    "author": "若林正恭",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "ダメな女",
+    "author": "村上龍",
+    "publisher": "光文社",
+    "isbn": "4334736807",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "不安の力",
+    "author": "五木寛之",
+    "publisher": "集英社",
+    "isbn": "408747836X",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "できそこないの男たち",
+    "author": "福岡伸一",
+    "publisher": "光文社",
+    "isbn": "4334034748",
+    "edition": "光文社新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "無頼のススメ",
+    "author": "伊集院静",
+    "publisher": "新潮社",
+    "isbn": "4106106051",
+    "edition": "新潮新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "日本人に生まれて、まあよかった",
+    "author": "平川祐弘",
+    "publisher": "新潮社",
+    "isbn": "4106105691",
+    "edition": "新潮新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakai-jun",
+   "sourceId": "sakai-books",
+   "book": {
+    "title": "「読まなくてもいい本」の読書案内",
+    "subtitle": "知の最前線を5日間で探検する",
+    "author": "橘玲",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "さあ、才能(じぶん)に目覚めよう",
+    "subtitle": "あなたの5つの強みを見出し、活かす",
+    "author": "マーカス・バッキンガム、ドナルド・O・クリフトン",
+    "publisher": "日本経済新聞出版社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "働く君に伝えたい「お金」の教養",
+    "author": "出口治明",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "図解 超高速勉強法",
+    "subtitle": "「速さ」は「努力」にまさる!",
+    "author": "椋木修三",
+    "publisher": "経済界"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "はじめてのGTD",
+    "subtitle": "ストレスフリーの整理術",
+    "author": "デビッド・アレン",
+    "publisher": "二見書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "人生がときめく片づけの魔法",
+    "author": "近藤麻理恵",
+    "publisher": "サンマーク出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "自由であり続けるために 20代で捨てるべき50のこと",
+    "author": "四角大輔",
+    "publisher": "サンクチュアリ出版",
+    "edition": "Sanctuary books"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "嫌われる勇気",
+    "subtitle": "自己啓発の源流「アドラー」の教え",
+    "author": "岸見一郎、古賀史健",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "14歳からの哲学",
+    "subtitle": "考えるための教科書",
+    "author": "池田晶子",
+    "publisher": "トランスビュー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "働く理由",
+    "subtitle": "99の名言に学ぶシゴト論。",
+    "author": "戸田智弘",
+    "publisher": "ディスカヴァー・トゥエンティワン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "ゼロ",
+    "subtitle": "なにもない自分に小さなイチを足していく",
+    "author": "堀江貴文",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "野心のすすめ",
+    "author": "林真理子",
+    "publisher": "講談社",
+    "edition": "講談社現代新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "ノンデザイナーズ・デザインブック",
+    "author": "Robin Williams",
+    "publisher": "毎日コミュニケーションズ",
+    "edition": "フルカラー新装増補版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "最速でおしゃれに見せる方法",
+    "author": "MB",
+    "publisher": "扶桑社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "仕事は楽しいかね?",
+    "author": "デイル・ドーテン",
+    "publisher": "きこ書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "持たない幸福論",
+    "subtitle": "働きたくない、家族を作らない、お金に縛られない",
+    "author": "pha",
+    "publisher": "幻冬舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "ぼくは愛を証明しようと思う。",
+    "author": "藤沢数希",
+    "publisher": "幻冬舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "LOVE理論",
+    "author": "水野敬也",
+    "publisher": "ミズノオフィス",
+    "isbn": "4905073057"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "LIFE SHIFT（ライフ・シフト）",
+    "subtitle": "100年時代の人生戦略",
+    "author": "リンダ・グラットン、アンドリュー・スコット",
+    "publisher": "東洋経済新報社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-college",
+   "book": {
+    "title": "未来の働き方を考えよう",
+    "subtitle": "人生は二回、生きられる",
+    "author": "ちきりん",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "エッセンシャル思考",
+    "author": "グレッグ・マキューン",
+    "publisher": "かんき出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "世界のエリートはなぜ「美意識」を鍛えるのか？",
+    "author": "山口周",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "「普通がいい」という病",
+    "author": "泉谷閑示",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "仕事なんか生きがいにするな",
+    "author": "泉谷閑示",
+    "publisher": "幻冬舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "才能を引き出すエレメントの法則",
+    "author": "ケン・ロビンソン、ルー・アロニカ",
+    "publisher": "祥伝社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "最強の自己分析",
+    "subtitle": "あなたが「一番輝く」仕事を見つける",
+    "author": "梅田幸子",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "才能を磨く",
+    "author": "ケン・ロビンソン、ルー・アロニカ",
+    "publisher": "大和書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "さあ、才能(じぶん)に目覚めよう",
+    "author": "トム・ラス",
+    "publisher": "日本経済新聞出版社",
+    "edition": "新版 ストレングス・ファインダー2.0"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "ずっとやりたかったことを、やりなさい。",
+    "author": "ジュリア・キャメロン",
+    "publisher": "サンマーク出版",
+    "edition": "新版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "VISION DRIVEN",
+    "subtitle": "直感と論理をつなぐ思考法",
+    "author": "佐宗邦威",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi-jimpei",
+   "sourceId": "jimpei-jiko-book",
+   "book": {
+    "title": "「好き」を「お金」に変える心理学",
+    "author": "メンタリストDaiGo",
+    "publisher": "PHP研究所"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "晴れの日の木馬たち",
+    "author": "原田マハ",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "あつあつを召し上がれ",
+    "author": "小川糸",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "ゴリラ裁判の日",
+    "author": "須藤古都離",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "シークレット・オブ・シークレッツ",
+    "author": "ダン・ブラウン",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "成瀬は天下を取りにいく",
+    "author": "宮島未奈",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "薔薇盗人",
+    "author": "浅田次郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "冥界からの電話",
+    "author": "佐藤愛子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "県庁おもてなし課",
+    "author": "有川浩",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "ペンギンの憂鬱",
+    "author": "アンドレイ・クルコフ",
+    "publisher": "新潮社",
+    "edition": "新潮クレスト・ブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "氷点",
+    "author": "三浦綾子",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "琉球怪談デラックス",
+    "author": "小原猛、太田基之",
+    "publisher": "ボーダーインク"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "雪国",
+    "author": "川端康成",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "ヤンキーと地元",
+    "author": "打越正行",
+    "publisher": "筑摩書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "ディープ・オキナワ",
+    "author": "渡辺考",
+    "publisher": "かもがわ出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "ロシア語だけの青春",
+    "author": "黒田龍之助",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "見上げれば青い空",
+    "author": "村上美保子",
+    "publisher": "イー・ピックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "妻が余命宣告されたとき、僕は保護犬を飼うことにした",
+    "author": "小林孝延",
+    "publisher": "風鳴舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "柚木沙弥郎 おじいちゃんと私",
+    "author": "柚木沙弥郎、丸山祐子",
+    "publisher": "ブルーシープ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "大名倒産",
+    "author": "浅田次郎",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "１秒で答えをつくる力",
+    "author": "本多正識",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "さみしい夜にはペンを持て",
+    "author": "古賀史健",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "奇跡の人 The Miracle Worker",
+    "author": "原田マハ",
+    "edition": "双葉文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "オウムアムアは地球人を見たか？",
+    "author": "アヴィ・ローブ",
+    "publisher": "早田書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "死について！",
+    "subtitle": "あらゆる年齢・職業の人たち63人が堰を切ったように語った。",
+    "author": "スタッズ・ターケル",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura-tatsuya",
+   "sourceId": "kimutatsu-recommend",
+   "book": {
+    "title": "日本、遥かなり",
+    "author": "門田隆将",
+    "publisher": "PHP研究所"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://kabasawa3.com/blog/socialmedia/syugyokuno-36satsu",
+   "result": "rejected",
+   "reason": "丸善/ジュンク堂オンラインイベント「珠玉の36冊」の告知記事で、本文に書名の一覧が無い（robots.txt は無し）",
+   "person": "樺沢紫苑"
+  },
+  {
+   "url": "https://sakaijun.blog.jp/archives/37325843.html",
+   "result": "index",
+   "reason": "私のおすすめ本リスト。本人の署名つき一人称の記事。他人の著書を含め約66冊中、先頭の30冊（人生に影響した本9、お金10、自伝5、哲学6のうち5）を取った。残りは candidate",
+   "person": "酒井潤"
+  },
+  {
+   "url": "https://sakaijun.blog.jp/archives/37325843.html",
+   "result": "candidate",
+   "reason": "未取得: 哲学の残り1冊以降、恋愛、子育てなど後続カテゴリ約30冊（自著4冊は除外）",
+   "person": "酒井潤"
+  },
+  {
+   "url": "https://www.jimpei.net/jikorikai/entry/book-daigakusei",
+   "result": "index",
+   "reason": "大学生向け18選に加えて本文中でLOVE理論を紹介。全19冊取得",
+   "person": "八木仁平"
+  },
+  {
+   "url": "https://www.jimpei.net/jikorikai/entry/jiko-book",
+   "result": "index",
+   "reason": "厳選11冊を取得。記事末の「その他に読んだ自己理解関連本リスト」約60冊は書名のみで著者名が無く、薦めている本かも不明なので取っていない",
+   "person": "八木仁平"
+  },
+  {
+   "url": "https://www.kimu-tatsu.com/reccomend",
+   "result": "index",
+   "reason": "全74冊（単行本23・文庫40・新書8・ペーパーバック1ほか）。1ページ目24冊と2ページ目の先頭1冊（reccomend/5210）で計25冊取得",
+   "person": "木村達哉"
+  },
+  {
+   "url": "https://www.kimu-tatsu.com/reccomend/page/2",
+   "result": "candidate",
+   "reason": "未取得: 2ページ目の2冊目以降と3ページ目以降（約49冊）。個別ページに著者・出版社あり",
+   "person": "木村達哉"
+  }
+ ]
+}

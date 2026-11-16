@@ -1,0 +1,1196 @@
+{
+ "people": [
+  {
+   "id": "tamesue",
+   "name": "為末大",
+   "title": "元陸上選手",
+   "tags": [
+    "スポーツ選手"
+   ]
+  },
+  {
+   "id": "shiomi",
+   "name": "塩見直紀",
+   "title": "Local AtoZ Maker／半農半Ｘ研究所／ひとりカルチャーセンター／博士(美術)",
+   "tags": []
+  },
+  {
+   "id": "okada",
+   "name": "岡田成幸",
+   "title": "地震防災を専門とする研究者",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hashimoto",
+   "name": "橋本努",
+   "title": "北海道大学大学院経済学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hasegawa",
+   "name": "長谷川浩己",
+   "title": "建築学科 教授（ランドスケープ・アーキテクト）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  },
+  {
+   "id": "matsuura",
+   "name": "松浦寿夫",
+   "title": "画家、美術批評家（元 美学美術史研究室教授）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "武蔵野美術大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "tamesue-2024",
+   "type": "article",
+   "media": "note",
+   "title": "2024年のおすすめ本",
+   "url": "https://note.com/daitamesue/n/n4d58bc85140b",
+   "publishedAt": "2024-12-28"
+  },
+  {
+   "id": "shiomi-atoz",
+   "type": "article",
+   "media": "note",
+   "title": "weekly AtoZ②「塩見直紀のおすすめ本AtoZ」",
+   "url": "https://note.com/shiominaoki/n/n3759e218925a",
+   "publishedAt": "2025-05-28"
+  },
+  {
+   "id": "okada-reading",
+   "type": "article",
+   "media": "岡田成幸のＨＰ",
+   "title": "学生のための読書案内",
+   "url": "https://udpp-hokudai.jp/custom10.html"
+  },
+  {
+   "id": "hashimoto-students",
+   "type": "article",
+   "media": "橋本努 HASHIMOTO-TSUTOMU（Google Sites）",
+   "title": "For-Students 読書のすすめ（大学生入門編）",
+   "url": "https://sites.google.com/view/hashimoto-tsutomu/home/for-students"
+  },
+  {
+   "id": "musabi-hasegawa",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本20選」Vol.10：長谷川浩己教授",
+   "url": "https://mauml.musabi.ac.jp/news/20978/",
+   "publishedAt": "2021-09-09"
+  },
+  {
+   "id": "musabi-matsuura",
+   "type": "article",
+   "media": "武蔵野美術大学 美術館・図書館",
+   "title": "「美大生におすすめの本」Vol.15：松浦寿夫氏（元 美学美術史研究室教授）",
+   "url": "https://mauml.musabi.ac.jp/news/22033/",
+   "publishedAt": "2022-05-21"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "tamesue",
+   "sourceId": "tamesue-2024",
+   "book": {
+    "title": "科学的根拠（エビデンス）で子育て",
+    "author": "中室牧子",
+    "subtitle": "教育経済学の最前線"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tamesue",
+   "sourceId": "tamesue-2024",
+   "book": {
+    "title": "センス・オブ・ワンダー",
+    "author": "レイチェル・カーソン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "AとZ",
+    "author": "森永邦彦",
+    "subtitle": "アンリアレイジのファッション",
+    "edition": "早稲田新書 2020"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "ロラン・バルト（彼自身）によるロラン・バルト",
+    "author": "ロラン・バルト",
+    "edition": "みすず書房 2018（1997）"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "愚者の知恵",
+    "author": "町田宗鳳",
+    "subtitle": "トルストイ「イワンの馬鹿」という生き方",
+    "edition": "講談社＋α新書 2008"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "出家とその弟子",
+    "author": "倉田百三",
+    "edition": "岩波文庫 2003"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "知の編集術",
+    "author": "松岡正剛",
+    "edition": "講談社現代新書 2000"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "ふしぎなたね",
+    "author": "安野光雅",
+    "edition": "童話屋 美しい数学7 2017"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "具体と抽象",
+    "author": "細谷功",
+    "subtitle": "世界が変わって見える知性のしくみ",
+    "edition": "dZERO 2014"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "ぼくらの智慧の果てるまで",
+    "author": "山尾三省＋宮内勝典",
+    "edition": "筑摩書房 1995"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "後世への最大遺物",
+    "author": "内村鑑三",
+    "edition": "岩波文庫 2011"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "銃・病原菌・鉄 上",
+    "author": "ジャレド・ダイアモンド",
+    "edition": "草思社文庫 2000"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "芸術起業論",
+    "author": "村上隆",
+    "edition": "幻冬舎 2006"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "ライフシフト",
+    "author": "リンダ・グラットンほか",
+    "subtitle": "100年時代の人生戦略",
+    "edition": "東洋経済新報社 2016"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "面識経済",
+    "author": "山崎亮",
+    "subtitle": "資本主義社会で人生を愉しむためのコミュニティ論",
+    "edition": "光文社 2025"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "詩ってなんだろう",
+    "author": "谷川俊太郎",
+    "edition": "ちくま文庫 2007"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "驚きの介護民俗学",
+    "author": "六車由実",
+    "edition": "医学書院 シリーズケアをひらく 2012"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "パターン・ランゲージ",
+    "author": "井庭崇編著",
+    "subtitle": "創造的な未来をつくるための言語",
+    "edition": "慶應義塾大学出版会 2013"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "〈問い〉から始めるアート思考",
+    "author": "吉井仁実",
+    "edition": "光文社新書 2021"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "千利休",
+    "author": "赤瀬川原平",
+    "subtitle": "無言の前衛",
+    "edition": "岩波新書 1990"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "思考の整理学",
+    "author": "外山滋比古",
+    "edition": "ちくま文庫 2024（新版）"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "ガルシアへの手紙（書簡）",
+    "author": "エルバート・ハバートほか",
+    "edition": "角川文庫 2023"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "天地有情の農学",
+    "author": "宇根豊",
+    "edition": "コモンズ 2007"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "武者小路実篤、新しき村の生誕",
+    "author": "大津山国夫",
+    "edition": "武蔵野書房 2008"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "ウェブ時代をゆく",
+    "author": "梅田望夫",
+    "subtitle": "いかに働き、いかに学ぶか",
+    "edition": "ちくま新書 2007"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "社会起業家",
+    "author": "町田洋次",
+    "subtitle": "「よい社会」をつくる人たち",
+    "edition": "PHP新書 2000"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiomi",
+   "sourceId": "shiomi-atoz",
+   "book": {
+    "title": "世阿弥の言葉",
+    "author": "土屋恵一郎",
+    "subtitle": "心の糧、創造の糧",
+    "edition": "岩波現代文庫 2013"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "人間の経済",
+    "author": "宇沢弘文",
+    "edition": "新潮新書 2017"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "最後の秘境 東京藝大",
+    "author": "二宮敦人",
+    "subtitle": "天才たちのカオスな日常",
+    "edition": "新潮文庫 2019"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "資本主義と民主主義の終焉",
+    "author": "水野和夫・山口二郎",
+    "subtitle": "平成の政治と経済を読み解く",
+    "edition": "祥伝社新書 2019"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "自分を知るための哲学入門",
+    "author": "竹田青嗣",
+    "edition": "ちくま学芸文庫 1993"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "はじめての構造主義",
+    "author": "橋爪大三郎",
+    "edition": "講談社現代新書 1988"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "人類の未来",
+    "author": "N.チョムスキー、R.カーツワイル、他",
+    "subtitle": "AI、経済、民主主義",
+    "edition": "NHK出版新書 2017"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "サピエンス全史",
+    "author": "ユヴァル・ノア・ハラリ",
+    "edition": "河出書房新社 2016"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "縮小文明の展望",
+    "author": "月尾嘉男",
+    "subtitle": "千年の彼方を目指して",
+    "edition": "東京大学出版会 2003"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "工学部ヒラノ教授と昭和のスーパー・エンジニア",
+    "author": "今野浩",
+    "subtitle": "森口繁一という天才",
+    "edition": "青土社 2015"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "群れはなぜ同じ方向を目指すのか？",
+    "author": "レン・フィッシャー",
+    "subtitle": "群知能と意思決定の科学",
+    "edition": "白揚社 2012"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "「みんなの意見」は案外正しい",
+    "author": "ジェームズ・スロウィッキー",
+    "edition": "角川文庫 2009"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "シンギュラリティは近い",
+    "author": "R.カーツワイル",
+    "subtitle": "人類が生命を超越するとき",
+    "edition": "Kindle版 2007"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "現代思想入門",
+    "author": "船木亨",
+    "edition": "ちくま新書 2016"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "教養は「事典」で磨け",
+    "author": "成毛眞",
+    "subtitle": "ネットではできない「知の技法」",
+    "edition": "光文社新書 2015"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "フェルマーの最終定理",
+    "author": "サイモン・シン",
+    "edition": "新潮文庫 2006"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "世界で最も正確な長さと重さの物語",
+    "author": "ロバート・クリス",
+    "edition": "日経BP社 2014"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "ニッポンのサイズ",
+    "author": "石川英輔",
+    "subtitle": "身体ではかる尺貫法",
+    "edition": "講談社文庫 2012"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "図解 よくわかる測り方の事典",
+    "author": "星田直彦",
+    "edition": "角川新書 2015"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "図解 よくわかる単位の事典",
+    "author": "星田直彦",
+    "edition": "角川新書 2014"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okada",
+   "sourceId": "okada-reading",
+   "book": {
+    "title": "単位がわかると物理がわかる",
+    "author": "和田純夫・他",
+    "edition": "文春文庫 2014"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "19歳の叫び",
+    "author": "奥井理",
+    "publisher": "北海道新聞社",
+    "edition": "1998"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "知里幸恵 十九歳の遺言",
+    "author": "中井三好",
+    "publisher": "彩流社",
+    "edition": "1991"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "上原ひろみ サマーレインの彼方",
+    "author": "神舘和典",
+    "publisher": "幻冬舎",
+    "edition": "2005"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "十八歳",
+    "author": "谷川俊太郎",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "自分の中に毒を持て",
+    "author": "岡本太郎",
+    "edition": "青春文庫 1988"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "青春読書ノート",
+    "author": "佐高信",
+    "subtitle": "大学時代に何を学んだか",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "二十歳の原点",
+    "author": "高野悦子",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "ぼくが読んだ面白い本・ダメな本",
+    "author": "立花隆",
+    "subtitle": "そしてぼくの大量読書術・驚異の速読術",
+    "publisher": "文芸春秋",
+    "edition": "2001"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "君たちはどう生きるか",
+    "author": "吉野源三郎",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "リヴァイアサン",
+    "author": "ホッブズ",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "共産党宣言",
+    "author": "マルクス、エンゲルス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "空想より科学へ",
+    "author": "エンゲルス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "経済学・哲学草稿",
+    "author": "マルクス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "産業者の教理問答 他1篇",
+    "author": "サン＝シモン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "社会科学の方法",
+    "author": "マックス・ヴェーバー",
+    "edition": "講談社学術文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "社会学の基礎概念",
+    "author": "マックス・ヴェーバー",
+    "publisher": "恒星社厚生閣"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "職業としての政治",
+    "author": "マックス・ヴェーバー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "賃銀・価格および利潤",
+    "author": "マルクス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "賃労働と資本",
+    "author": "マルクス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hashimoto",
+   "sourceId": "hashimoto-students",
+   "book": {
+    "title": "新編輯版 ドイツ・イデオロギー",
+    "author": "マルクス、エンゲルス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "人間の土地",
+    "author": "サン・テグジュペリ",
+    "publisher": "平凡社",
+    "edition": "世界教養全集 24 所収 1962"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "内臓とこころ",
+    "author": "三木成夫",
+    "publisher": "河出書房新社",
+    "edition": "2013"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "空間の経験",
+    "author": "イーフー・トゥアン",
+    "subtitle": "身体から都市へ",
+    "publisher": "筑摩書房",
+    "edition": "1988"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "精神の生態学 上",
+    "author": "グレゴリー・ベイトソン",
+    "publisher": "思索社",
+    "edition": "1986"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "胡桃の中の世界",
+    "author": "澁澤龍彦",
+    "publisher": "白水社",
+    "edition": "1988"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "気流の鳴る音",
+    "author": "真木悠介",
+    "subtitle": "交響するコミューン",
+    "publisher": "筑摩書房",
+    "edition": "1977"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "童夢",
+    "author": "大友克洋",
+    "publisher": "双葉社",
+    "edition": "1983"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "「聴く」ことの力",
+    "author": "鷲田清一",
+    "subtitle": "臨床哲学試論",
+    "publisher": "TBSブリタニカ",
+    "edition": "1999"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "「身」の構造",
+    "author": "市川浩",
+    "subtitle": "身体論を超えて",
+    "publisher": "青土社",
+    "edition": "1997"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "それでも、日本人は「戦争」を選んだ",
+    "author": "加藤陽子",
+    "publisher": "朝日出版社",
+    "edition": "2009"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "百日紅 上",
+    "author": "杉浦日向子",
+    "publisher": "筑摩書房",
+    "edition": "1986"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hasegawa",
+   "sourceId": "musabi-hasegawa",
+   "book": {
+    "title": "桜の森の満開の下",
+    "author": "坂口安吾",
+    "publisher": "筑摩書房",
+    "edition": "ちくま日本文学 009 坂口安吾 所収 2008"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "セザンヌ",
+    "author": "ジョワシャン・ガスケ",
+    "publisher": "岩波書店",
+    "edition": "2009"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "知られざる傑作",
+    "author": "オノレ・ド・バルザック",
+    "publisher": "岩波書店",
+    "edition": "1965"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "失われた時を求めて",
+    "author": "マルセル・プルースト",
+    "publisher": "筑摩書房",
+    "edition": "シリーズ（プルースト全集）"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "エクリ",
+    "author": "アルベルト・ジャコメッティ",
+    "publisher": "みすず書房",
+    "edition": "1994（新装版 2017）"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "画家のノート",
+    "author": "アンリ・マティス",
+    "publisher": "みすず書房",
+    "edition": "1978（新装版 2018）"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "ミスター・オレンジ",
+    "author": "トゥルース・マティ",
+    "publisher": "朔北社",
+    "edition": "2016"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "ART SINCE 1900",
+    "author": "ロザリンド・クラウス、イヴ＝アラン・ボワほか",
+    "subtitle": "図鑑1900年以後の芸術",
+    "publisher": "東京書籍",
+    "edition": "2019"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "セザンヌの手紙",
+    "author": "ジョン・リウォルド編",
+    "publisher": "美術公論社",
+    "edition": "1982"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "セザンヌ回想",
+    "author": "P.M.ドラン編",
+    "publisher": "淡交社",
+    "edition": "1995"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "眼と精神",
+    "author": "モーリス・メルロ=ポンティ",
+    "publisher": "みすず書房",
+    "edition": "1966"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "セザンヌのエチュード",
+    "author": "ジャン=クロード・レーベンシュテイン",
+    "publisher": "三元社",
+    "edition": "2009"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "知覚の宙吊り",
+    "author": "ジョナサン・クレーリー",
+    "publisher": "平凡社",
+    "edition": "2005"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "フランシス・ベーコン 感覚の論理学",
+    "author": "ジル・ドゥルーズ",
+    "publisher": "河出書房新社",
+    "edition": "2016"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "青と緑",
+    "author": "ヴァージニア・ウルフ",
+    "publisher": "亜紀書房",
+    "edition": "2022"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuura",
+   "sourceId": "musabi-matsuura",
+   "book": {
+    "title": "歩く、見る、待つ",
+    "author": "ペドロ・コスタ",
+    "publisher": "ソリレス書店",
+    "edition": "2018"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://note.com/daitamesue/n/nebbed7fca45c",
+   "result": "rejected",
+   "reason": "2023年のおすすめ7冊。著者名がページに無い（『ベイトソン』は姓のみ）ため載せない",
+   "person": "為末大"
+  },
+  {
+   "url": "https://note.com/shu_yamaguchi/n/n28f0557b4ba6",
+   "result": "rejected",
+   "reason": "有料記事（残り8,025字は有料）。無料部分に本の列挙なし",
+   "person": "山口周"
+  },
+  {
+   "url": "https://note.com/daitamesue/n/n4d58bc85140b",
+   "result": "index",
+   "reason": "ベスト5のうち2冊のみ採用。万物の黎明・手の倫理は著者名なし、生成と消滅の精神史は『下西さん』と姓のみで除外",
+   "person": "為末大"
+  },
+  {
+   "url": "https://note.com/shiominaoki/n/n3759e218925a",
+   "result": "index",
+   "reason": "26冊中25冊を採用（Xは自著のため除外）",
+   "person": "塩見直紀"
+  },
+  {
+   "url": "https://udpp-hokudai.jp/custom10.html",
+   "result": "index",
+   "reason": "新しい順に20冊を採用。2015-10-19（松井司・スノードン『言えそうで言えない数の英語』）以前の2015-09-15、2015-06-11、2007年以前の紹介が未取得。robots.txt は 404（制限なし）",
+   "person": "岡田成幸"
+  },
+  {
+   "url": "https://sites.google.com/view/hashimoto-tsutomu/home/for-students",
+   "result": "index",
+   "reason": "20冊採用。2021年6月版『読書のすすめ（大学生入門編）』の青春・読書術8冊と、2004年版おすすめ図書リストで青色（特にお勧め）表記の約74冊のうち先頭12冊。残りの青色表記は未取得",
+   "person": "橋本努"
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/20978/",
+   "result": "index",
+   "reason": "13冊紹介のうち自著『風景にさわる』と映像以外の12冊を採用",
+   "person": "長谷川浩己"
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/22033/",
+   "result": "index",
+   "reason": "上限15冊。本文7項目と付随書の一部を採用。2-a〜2-c、3-a〜3-e、4-a、5-a、6-a〜6-e は未取得（映像資料は除外）",
+   "person": "松浦寿夫"
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/22451/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（冨井大裕教授 Vol.14）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/22302/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（池田ともゆき教授 Vol.13）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/21117/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（加藤幸治教授 Vol.12）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/21026/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（山本靖久教授 Vol.11）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/23681/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（新見隆教授 Vol.16）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/26500/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（2025.05）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/25741/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（2024.10）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/news/25267/",
+   "result": "candidate",
+   "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（2024.05）。未読",
+   "person": ""
+  },
+  {
+   "url": "https://mauml.musabi.ac.jp/tag_keyword/%e7%be%8e%e5%a4%a7%e7%94%9f%e3%81%ab%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%81%ae%e6%9c%ac/",
+   "result": "index",
+   "reason": "企画の一覧タグ。Vol.10以降のみ確認（Vol.1〜9は一覧に出ず未確認）",
+   "person": ""
+  }
+ ]
+}

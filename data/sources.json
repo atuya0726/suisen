@@ -9181,5 +9181,227 @@
     "media": "日本大学経済学部図書館",
     "title": "私のおすすめ本 姫嶋瑞穂（2025年度 教員のおすすめ本）",
     "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_5-lib-1.pdf"
+  },
+  {
+    "id": "musabi-matsuura",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本」Vol.15：松浦寿夫氏（元 美学美術史研究室教授）",
+    "url": "https://mauml.musabi.ac.jp/news/22033/",
+    "publishedAt": "2022-05-21"
+  },
+  {
+    "id": "hashimoto-students",
+    "type": "article",
+    "media": "橋本努 HASHIMOTO-TSUTOMU（Google Sites）",
+    "title": "For-Students 読書のすすめ（大学生入門編）",
+    "url": "https://sites.google.com/view/hashimoto-tsutomu/home/for-students"
+  },
+  {
+    "id": "tamesue-2024",
+    "type": "article",
+    "media": "note",
+    "title": "2024年のおすすめ本",
+    "url": "https://note.com/daitamesue/n/n4d58bc85140b",
+    "publishedAt": "2024-12-28"
+  },
+  {
+    "id": "musabi-hasegawa",
+    "type": "article",
+    "media": "武蔵野美術大学 美術館・図書館",
+    "title": "「美大生におすすめの本20選」Vol.10：長谷川浩己教授",
+    "url": "https://mauml.musabi.ac.jp/news/20978/",
+    "publishedAt": "2021-09-09"
+  },
+  {
+    "id": "shiomi-atoz",
+    "type": "article",
+    "media": "note",
+    "title": "weekly AtoZ②「塩見直紀のおすすめ本AtoZ」",
+    "url": "https://note.com/shiominaoki/n/n3759e218925a",
+    "publishedAt": "2025-05-28"
+  },
+  {
+    "id": "okada-reading",
+    "type": "article",
+    "media": "岡田成幸のＨＰ",
+    "title": "学生のための読書案内",
+    "url": "https://udpp-hokudai.jp/custom10.html"
+  },
+  {
+    "id": "kimutatsu-recommend",
+    "type": "article",
+    "media": "作家 木村達哉(キムタツ)オフィシャルサイト",
+    "title": "おすすめ本",
+    "url": "https://www.kimu-tatsu.com/reccomend"
+  },
+  {
+    "id": "jimpei-jiko-book",
+    "type": "article",
+    "media": "八木仁平公式サイト",
+    "title": "自己理解を深め、自分探しを終わらせるためのおすすめ本まとめ【200冊から厳選】",
+    "url": "https://www.jimpei.net/jikorikai/entry/jiko-book"
+  },
+  {
+    "id": "jimpei-college",
+    "type": "article",
+    "media": "八木仁平公式サイト",
+    "title": "自由に生きるぼくが教える、大学生が読むべきおすすめ本18選",
+    "url": "https://www.jimpei.net/jikorikai/entry/book-daigakusei"
+  },
+  {
+    "id": "sakai-books",
+    "type": "article",
+    "media": "酒井潤公式ブログ",
+    "title": "私のおすすめ本リスト",
+    "url": "https://sakaijun.blog.jp/archives/37325843.html",
+    "publishedAt": "2020-11-30"
+  },
+  {
+    "id": "src-nu-hakamada-2bcda6",
+    "type": "article",
+    "media": "日本大学文理学部 国文学科",
+    "title": "教員紹介 袴田光康",
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/hakamada-mitsuyasu/"
+  },
+  {
+    "id": "src-hu-hashimoto-898dbe",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 橋本雄",
+    "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yu"
+  },
+  {
+    "id": "src-hu-asanuma-945d99",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 浅沼敬子",
+    "url": "https://www.let.hokudai.ac.jp/staff/asanuma-keiko"
+  },
+  {
+    "id": "src-hu-aoshima-7c1cfa",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 青島陽子",
+    "url": "https://www.let.hokudai.ac.jp/staff/aoshima-yoko"
+  },
+  {
+    "id": "src-hu-takezawa-9429d8",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 竹澤正哲",
+    "url": "https://www.let.hokudai.ac.jp/staff/takezawa-masanori"
+  },
+  {
+    "id": "src-hu-koyama-d10a19",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 小山亮",
+    "url": "https://www.let.hokudai.ac.jp/staff/koyama-ryo"
+  },
+  {
+    "id": "src-hu-kobayashi-c9a818",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 小林晃",
+    "url": "https://www.let.hokudai.ac.jp/staff/kobayashi-akira"
+  },
+  {
+    "id": "src-hps-murata-14c52b",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 村田純一",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookgude_junichi_murata/"
+  },
+  {
+    "id": "src-hps-fujikawa-6814ca",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 藤川直也",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_naoya_fujikawa"
+  },
+  {
+    "id": "src-nu-kuboki-3c3cf8",
+    "type": "article",
+    "media": "日本大学文理学部 国文学科",
+    "title": "教員紹介 久保木秀夫",
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/kuboki-hideo/"
+  },
+  {
+    "id": "src-hps-hirono-e96467",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 廣野喜幸",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_yoshiyuki_hirono/"
+  },
+  {
+    "id": "src-hps-nobuhara-bed5b7",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 信原幸弘",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_yukihiro_nobuhara/"
+  },
+  {
+    "id": "src-hu-hasegawa-b28b0c",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 長谷川貴彦",
+    "url": "https://www.let.hokudai.ac.jp/staff/hasegawa-takahiko"
+  },
+  {
+    "id": "src-hu-iisaka-1501d3",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 飯坂晃治",
+    "url": "https://www.let.hokudai.ac.jp/staff/iisaka-koji"
+  },
+  {
+    "id": "src-hps-mimura-2a60e8",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 三村太郎",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_taro_mimura"
+  },
+  {
+    "id": "src-nu-fujihira-0c6280",
+    "type": "article",
+    "media": "日本大学文理学部 国文学科",
+    "title": "教員紹介 藤平泉",
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/fujihira-izumi/"
+  },
+  {
+    "id": "src-hps-hashimoto-80fa9f",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 橋本毅彦",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_takehiko_hashimoto"
+  },
+  {
+    "id": "src-hu-sengoku-0a0233",
+    "type": "article",
+    "media": "北海道大学 文学研究院",
+    "title": "教員紹介 仙石学",
+    "url": "https://www.let.hokudai.ac.jp/staff/sengoku-manabu"
+  },
+  {
+    "id": "src-hps-imai-1a859c",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 今井知正",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_tomomasa_imai/"
+  },
+  {
+    "id": "src-hps-okamoto-2454d1",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 岡本拓司",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_takuji_okamoto"
+  },
+  {
+    "id": "src-hps-noya-2d8c85",
+    "type": "article",
+    "media": "東京大学 科学史・科学哲学研究室",
+    "title": "読書案内 野矢茂樹",
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_shigeki_noya/"
   }
 ]

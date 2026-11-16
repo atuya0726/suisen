@@ -1,0 +1,1906 @@
+{
+ "people": [
+  {
+   "id": "hps_okamoto",
+   "name": "岡本拓司",
+   "title": "東京大学 科学史・科学哲学研究室 教員",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_hirono",
+   "name": "廣野喜幸",
+   "title": "東京大学 科学史・科学哲学研究室 名誉教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_fujikawa",
+   "name": "藤川直也",
+   "title": "東京大学 科学史・科学哲学研究室 教員",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_mimura",
+   "name": "三村太郎",
+   "title": "東京大学 科学史・科学哲学研究室 教員",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_imai",
+   "name": "今井知正",
+   "title": "東京大学 科学史・科学哲学研究室 名誉教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_nobuhara",
+   "name": "信原幸弘",
+   "title": "東京大学 科学史・科学哲学研究室 名誉教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_noya",
+   "name": "野矢茂樹",
+   "title": "東京大学 科学史・科学哲学研究室 名誉教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_hashimoto",
+   "name": "橋本毅彦",
+   "title": "東京大学 科学史・科学哲学研究室 名誉教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "hps_murata",
+   "name": "村田純一",
+   "title": "東京大学 科学史・科学哲学研究室 名誉教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "nu_kuboki",
+   "name": "久保木秀夫",
+   "title": "日本大学文理学部国文学科 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "nu_fujihira",
+   "name": "藤平泉",
+   "title": "日本大学文理学部国文学科 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "nu_hakamada",
+   "name": "袴田光康",
+   "title": "日本大学文理学部国文学科 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "hu_hashimoto",
+   "name": "橋本雄",
+   "title": "北海道大学大学院文学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_takezawa",
+   "name": "竹澤正哲",
+   "title": "北海道大学大学院文学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_asanuma",
+   "name": "浅沼敬子",
+   "title": "北海道大学大学院文学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_koyama",
+   "name": "小山亮",
+   "title": "北海道大学大学院文学研究院 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_aoshima",
+   "name": "青島陽子",
+   "title": "北海道大学大学院文学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_hasegawa",
+   "name": "長谷川貴彦",
+   "title": "北海道大学大学院文学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_iisaka",
+   "name": "飯坂晃治",
+   "title": "北海道大学大学院文学研究院 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_kobayashi",
+   "name": "小林晃",
+   "title": "北海道大学大学院文学研究院 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  },
+  {
+   "id": "hu_sengoku",
+   "name": "仙石学",
+   "title": "北海道大学大学院文学研究院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src_hps_okamoto",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 岡本拓司",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_takuji_okamoto"
+  },
+  {
+   "id": "src_hps_hirono",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 廣野喜幸",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_yoshiyuki_hirono/"
+  },
+  {
+   "id": "src_hps_fujikawa",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 藤川直也",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_naoya_fujikawa"
+  },
+  {
+   "id": "src_hps_mimura",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 三村太郎",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_taro_mimura"
+  },
+  {
+   "id": "src_hps_imai",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 今井知正",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_tomomasa_imai/"
+  },
+  {
+   "id": "src_hps_nobuhara",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 信原幸弘",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_yukihiro_nobuhara/"
+  },
+  {
+   "id": "src_hps_noya",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 野矢茂樹",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_shigeki_noya/"
+  },
+  {
+   "id": "src_hps_hashimoto",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 橋本毅彦",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_takehiko_hashimoto"
+  },
+  {
+   "id": "src_hps_murata",
+   "type": "article",
+   "media": "東京大学 科学史・科学哲学研究室",
+   "title": "読書案内 村田純一",
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookgude_junichi_murata/"
+  },
+  {
+   "id": "src_nu_kuboki",
+   "type": "article",
+   "media": "日本大学文理学部 国文学科",
+   "title": "教員紹介 久保木秀夫",
+   "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/kuboki-hideo/"
+  },
+  {
+   "id": "src_nu_fujihira",
+   "type": "article",
+   "media": "日本大学文理学部 国文学科",
+   "title": "教員紹介 藤平泉",
+   "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/fujihira-izumi/"
+  },
+  {
+   "id": "src_nu_hakamada",
+   "type": "article",
+   "media": "日本大学文理学部 国文学科",
+   "title": "教員紹介 袴田光康",
+   "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/hakamada-mitsuyasu/"
+  },
+  {
+   "id": "src_hu_hashimoto",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 橋本雄",
+   "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yu"
+  },
+  {
+   "id": "src_hu_takezawa",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 竹澤正哲",
+   "url": "https://www.let.hokudai.ac.jp/staff/takezawa-masanori"
+  },
+  {
+   "id": "src_hu_asanuma",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 浅沼敬子",
+   "url": "https://www.let.hokudai.ac.jp/staff/asanuma-keiko"
+  },
+  {
+   "id": "src_hu_koyama",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 小山亮",
+   "url": "https://www.let.hokudai.ac.jp/staff/koyama-ryo"
+  },
+  {
+   "id": "src_hu_aoshima",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 青島陽子",
+   "url": "https://www.let.hokudai.ac.jp/staff/aoshima-yoko"
+  },
+  {
+   "id": "src_hu_hasegawa",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 長谷川貴彦",
+   "url": "https://www.let.hokudai.ac.jp/staff/hasegawa-takahiko"
+  },
+  {
+   "id": "src_hu_iisaka",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 飯坂晃治",
+   "url": "https://www.let.hokudai.ac.jp/staff/iisaka-koji"
+  },
+  {
+   "id": "src_hu_kobayashi",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 小林晃",
+   "url": "https://www.let.hokudai.ac.jp/staff/kobayashi-akira"
+  },
+  {
+   "id": "src_hu_sengoku",
+   "type": "article",
+   "media": "北海道大学 文学研究院",
+   "title": "教員紹介 仙石学",
+   "url": "https://www.let.hokudai.ac.jp/staff/sengoku-manabu"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hps_okamoto",
+   "sourceId": "src_hps_okamoto",
+   "book": {
+    "title": "科学の社会史",
+    "author": "広重徹",
+    "publisher": "中央公論社",
+    "edition": "1973",
+    "subtitle": "近代日本の科学体制"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_okamoto",
+   "sourceId": "src_hps_okamoto",
+   "book": {
+    "title": "戦後日本の科学運動",
+    "author": "広重徹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_okamoto",
+   "sourceId": "src_hps_okamoto",
+   "book": {
+    "title": "長岡半太郎伝",
+    "author": "板倉聖宣・木村東作・八木江里",
+    "publisher": "朝日新聞社",
+    "edition": "1973"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_okamoto",
+   "sourceId": "src_hps_okamoto",
+   "book": {
+    "title": "相対性理論の哲学",
+    "author": "広松渉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "知の構築とその呪縛",
+    "author": "大森荘蔵",
+    "edition": "ちくま学芸文庫、1994"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "方法序説",
+    "author": "デカルト",
+    "edition": "岩波文庫、1997"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "実存主義とは何か",
+    "author": "サルトル",
+    "publisher": "人文書院",
+    "edition": "1996"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "言語と行為",
+    "author": "オースティン",
+    "publisher": "大修館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "倫理学原理",
+    "author": "ムーア",
+    "publisher": "三和書籍",
+    "edition": "1977"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "コウモリであるとはどのようなことか",
+    "author": "ネーゲル",
+    "publisher": "勁草書房",
+    "edition": "1989"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "科学の危機と認識論",
+    "author": "廣松渉",
+    "publisher": "紀伊国屋書店",
+    "edition": "1995"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hirono",
+   "sourceId": "src_hps_hirono",
+   "book": {
+    "title": "機械の現象学",
+    "author": "坂本賢三",
+    "publisher": "岩波書店",
+    "edition": "1975"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "言語哲学",
+    "author": "W・ライカン",
+    "publisher": "勁草書房",
+    "edition": "2005",
+    "subtitle": "入門から中級まで"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "意味ってなに？",
+    "author": "P・ポートナー",
+    "publisher": "勁草書房",
+    "edition": "2015",
+    "subtitle": "形式意味論入門"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "言語哲学大全",
+    "author": "飯田隆",
+    "publisher": "勁草書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "言語哲学重要論文集",
+    "author": "松阪陽一",
+    "publisher": "春秋社",
+    "edition": "2013"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "論理と会話",
+    "author": "P・グライス",
+    "publisher": "勁草書房",
+    "edition": "1998"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "言語と行為",
+    "author": "J・L・オースティン",
+    "publisher": "講談社",
+    "edition": "講談社学術文庫、2019"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_fujikawa",
+   "sourceId": "src_hps_fujikawa",
+   "book": {
+    "title": "名指しと必然性",
+    "author": "S・クリプキ",
+    "publisher": "産業図書",
+    "edition": "1985",
+    "subtitle": "様相の形而上学と心身問題"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_mimura",
+   "sourceId": "src_hps_mimura",
+   "book": {
+    "title": "ユークリッド『原論』とは何か",
+    "author": "斎藤憲",
+    "publisher": "岩波書店",
+    "edition": "岩波科学ライブラリー、2008",
+    "subtitle": "二千年読みつがれた数学の古典"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_mimura",
+   "sourceId": "src_hps_mimura",
+   "book": {
+    "title": "望遠鏡以前の天文学",
+    "author": "クリストファー・ウォーカー編",
+    "publisher": "恒星社厚生閣",
+    "edition": "2008"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_mimura",
+   "sourceId": "src_hps_mimura",
+   "book": {
+    "title": "古代の精密科学",
+    "author": "ノイゲバウアー",
+    "publisher": "恒星社厚生閣",
+    "edition": "新装版1990"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_mimura",
+   "sourceId": "src_hps_mimura",
+   "book": {
+    "title": "星占いの文化交流史",
+    "author": "矢野道雄",
+    "publisher": "勁草書房",
+    "edition": "2004、新装版2020"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_mimura",
+   "sourceId": "src_hps_mimura",
+   "book": {
+    "title": "ギリシア思想とアラビア文化",
+    "author": "ディミトリ・グタス",
+    "publisher": "勁草書房",
+    "edition": "2002",
+    "subtitle": "初期アッバース朝の翻訳運動"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_mimura",
+   "sourceId": "src_hps_mimura",
+   "book": {
+    "title": "インドの数学",
+    "author": "林隆夫",
+    "publisher": "中公新書",
+    "edition": "1993、ちくま学芸文庫2020",
+    "subtitle": "ゼロの発明"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_imai",
+   "sourceId": "src_hps_imai",
+   "book": {
+    "title": "国家",
+    "author": "プラトン",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_imai",
+   "sourceId": "src_hps_imai",
+   "book": {
+    "title": "自然学",
+    "author": "アリストテレス",
+    "publisher": "岩波書店",
+    "edition": "アリストテレス全集3"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_imai",
+   "sourceId": "src_hps_imai",
+   "book": {
+    "title": "論理哲学論考",
+    "author": "ウィトゲンシュタイン",
+    "publisher": "大修館書店",
+    "edition": "ウィトゲンシュタイン全集1"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_imai",
+   "sourceId": "src_hps_imai",
+   "book": {
+    "title": "論理的観点から",
+    "author": "クワイン",
+    "publisher": "勁草書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "認知哲学",
+    "author": "P.M. チャーチランド",
+    "publisher": "産業図書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "行為と出来事",
+    "author": "D. デイヴィドソン",
+    "publisher": "勁草書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "解明される意識",
+    "author": "D.C. デネット",
+    "publisher": "青土社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "ウィトゲンシュタインのパラドクス",
+    "author": "S. クリプキ",
+    "publisher": "産業図書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "コウモリであるとはどのようなことか",
+    "author": "T. ネーゲル",
+    "publisher": "勁草書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "論理的観点から",
+    "author": "W.V.O. クワイン",
+    "publisher": "勁草書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "心の概念",
+    "author": "G. ライル",
+    "publisher": "勁草書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_nobuhara",
+   "sourceId": "src_hps_nobuhara",
+   "book": {
+    "title": "「わたし」とは誰か",
+    "author": "村田純一編",
+    "publisher": "岩波書店",
+    "edition": "新・哲学講義4、1998"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "ウィトゲンシュタイン　セレクション",
+    "author": "黒田亘編",
+    "publisher": "平凡社",
+    "edition": "平凡社ライブラリー、2000"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "デイヴィドソン",
+    "author": "エヴニン、S.",
+    "publisher": "勁草書房",
+    "edition": "1996"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "言語哲学大全Ⅰ",
+    "author": "飯田隆",
+    "publisher": "勁草書房",
+    "edition": "1987"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "現代哲学",
+    "author": "門脇俊介",
+    "publisher": "産業図書",
+    "edition": "1996"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "方法の擁護",
+    "author": "ラカトシュ、I.",
+    "publisher": "新曜社",
+    "edition": "1986",
+    "subtitle": "科学的研究プログラムの方法論"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "新版　科学論の展開",
+    "author": "チャルマーズ、A.F.",
+    "publisher": "恒星社厚生閣",
+    "edition": "1985"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "科学を考える",
+    "author": "岡田猛・田村均・戸田山和久・三輪和久編著",
+    "publisher": "北大路書房",
+    "edition": "1999",
+    "subtitle": "人工知能からカルチュラル・スタディーズまでの14の視点"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_noya",
+   "sourceId": "src_hps_noya",
+   "book": {
+    "title": "言語哲学を学ぶ人のために",
+    "author": "野本和幸・山田友幸編",
+    "publisher": "世界思想社",
+    "edition": "2002"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "科学の社会史 ルネサンスから20世紀まで",
+    "author": "古川安",
+    "publisher": "ちくま学芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "近代科学の源流をさぐる",
+    "author": "リンドバーグ",
+    "publisher": "朝倉書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "科学革命",
+    "author": "プリンチペ",
+    "publisher": "丸善"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "入門化学史",
+    "author": "ルヴィア",
+    "publisher": "朝倉書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "物理学の誕生",
+    "author": "ハーマン",
+    "publisher": "朝倉書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "20世紀物理学史",
+    "author": "カーオ",
+    "publisher": "名古屋大学出版会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "宇宙観5000年史",
+    "author": "中村士他",
+    "publisher": "東京大学出版会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_hashimoto",
+   "sourceId": "src_hps_hashimoto",
+   "book": {
+    "title": "地質学の歴史",
+    "author": "ゴオー",
+    "publisher": "みすず書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_murata",
+   "sourceId": "src_hps_murata",
+   "book": {
+    "title": "パイドン",
+    "author": "プラトン",
+    "edition": "世界の名著6、新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_murata",
+   "sourceId": "src_hps_murata",
+   "book": {
+    "title": "省察",
+    "author": "デカルト",
+    "publisher": "中央公論社",
+    "edition": "世界の名著22"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_murata",
+   "sourceId": "src_hps_murata",
+   "book": {
+    "title": "哲学入門",
+    "author": "三木清",
+    "publisher": "岩波書店",
+    "edition": "岩波新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_murata",
+   "sourceId": "src_hps_murata",
+   "book": {
+    "title": "物と心",
+    "author": "大森荘蔵",
+    "publisher": "東京大学出版会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hps_murata",
+   "sourceId": "src_hps_murata",
+   "book": {
+    "title": "身心問題",
+    "author": "廣松渉",
+    "publisher": "青土社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_kuboki",
+   "sourceId": "src_nu_kuboki",
+   "book": {
+    "title": "中古日本文学の研究",
+    "author": "堀部正二",
+    "publisher": "教育図書",
+    "edition": "1943"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_kuboki",
+   "sourceId": "src_nu_kuboki",
+   "book": {
+    "title": "中世歌壇史の研究",
+    "author": "井上宗雄",
+    "publisher": "風間書房・明治書院",
+    "edition": "改訂増補、1984〜87年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_kuboki",
+   "sourceId": "src_nu_kuboki",
+   "book": {
+    "title": "源氏物語考証稿",
+    "author": "高田信敬",
+    "publisher": "武蔵野書院",
+    "edition": "2010"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_kuboki",
+   "sourceId": "src_nu_kuboki",
+   "book": {
+    "title": "文献学の栞",
+    "author": "高田信敬",
+    "publisher": "武蔵野書院",
+    "edition": "2020"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_kuboki",
+   "sourceId": "src_nu_kuboki",
+   "book": {
+    "title": "揺れ動く源氏物語",
+    "author": "加藤昌嘉",
+    "publisher": "勉誠出版",
+    "edition": "2011"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_kuboki",
+   "sourceId": "src_nu_kuboki",
+   "book": {
+    "title": "源氏物語前後左右",
+    "author": "加藤昌嘉",
+    "publisher": "勉誠出版",
+    "edition": "2014"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_fujihira",
+   "sourceId": "src_nu_fujihira",
+   "book": {
+    "title": "藤平春男著作集",
+    "author": "藤平春男",
+    "publisher": "笠間書院",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_fujihira",
+   "sourceId": "src_nu_fujihira",
+   "book": {
+    "title": "歌人の風月",
+    "author": "有吉保",
+    "publisher": "翰林書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_fujihira",
+   "sourceId": "src_nu_fujihira",
+   "book": {
+    "title": "原点をめざして",
+    "author": "橋本不美男",
+    "publisher": "笠間書院"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_fujihira",
+   "sourceId": "src_nu_fujihira",
+   "book": {
+    "title": "中世和歌テキスト論",
+    "author": "川平ひとし",
+    "publisher": "笠間書院"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_fujihira",
+   "sourceId": "src_nu_fujihira",
+   "book": {
+    "title": "勅撰和歌集入門",
+    "author": "有吉保",
+    "publisher": "勉誠出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_hakamada",
+   "sourceId": "src_nu_hakamada",
+   "book": {
+    "title": "火山列島の思想",
+    "author": "益田勝実",
+    "edition": "講談社学術文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_hakamada",
+   "sourceId": "src_nu_hakamada",
+   "book": {
+    "title": "物語文学の方法",
+    "author": "三谷邦明",
+    "publisher": "有精堂出版",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_hakamada",
+   "sourceId": "src_nu_hakamada",
+   "book": {
+    "title": "源氏物語の準拠と話型",
+    "author": "日向一雅",
+    "publisher": "至文堂",
+    "edition": "1999"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nu_hakamada",
+   "sourceId": "src_nu_hakamada",
+   "book": {
+    "title": "源氏物語の世界",
+    "author": "日向一雅",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_hashimoto",
+   "sourceId": "src_hu_hashimoto",
+   "book": {
+    "title": "中世倭人伝",
+    "author": "村井章介",
+    "publisher": "岩波新書",
+    "edition": "1993"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_hashimoto",
+   "sourceId": "src_hu_hashimoto",
+   "book": {
+    "title": "知的複眼思考法",
+    "author": "苅谷剛彦",
+    "publisher": "講談社＋α文庫",
+    "edition": "2002"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_hashimoto",
+   "sourceId": "src_hu_hashimoto",
+   "book": {
+    "title": "民族という虚構",
+    "author": "小坂井敏晶",
+    "publisher": "ちくま学芸文庫",
+    "edition": "増補、2011"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_hashimoto",
+   "sourceId": "src_hu_hashimoto",
+   "book": {
+    "title": "世界史のなかの戦国日本",
+    "author": "村井章介",
+    "publisher": "ちくま学芸文庫",
+    "edition": "2012"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_takezawa",
+   "sourceId": "src_hu_takezawa",
+   "book": {
+    "title": "文化がヒトを進化させた",
+    "author": "ジョセフ・ヘンリック",
+    "publisher": "白楊社",
+    "edition": "2019",
+    "subtitle": "人類の繁栄と〈文化－遺伝子革命〉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_asanuma",
+   "sourceId": "src_hu_asanuma",
+   "book": {
+    "title": "帰宅しない放蕩娘",
+    "author": "外山紀久子",
+    "publisher": "勁草書房",
+    "edition": "1999"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_koyama",
+   "sourceId": "src_hu_koyama",
+   "book": {
+    "title": "天皇の逝く国で",
+    "author": "ノーマ・フィールド",
+    "publisher": "みすず書房",
+    "edition": "1994、増補版2011"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_aoshima",
+   "sourceId": "src_hu_aoshima",
+   "book": {
+    "title": "日本の思想",
+    "author": "丸山真男",
+    "publisher": "岩波新書",
+    "edition": "1961"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_hasegawa",
+   "sourceId": "src_hu_hasegawa",
+   "book": {
+    "title": "歴史とは何か",
+    "author": "カー",
+    "publisher": "岩波新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_iisaka",
+   "sourceId": "src_hu_iisaka",
+   "book": {
+    "title": "海のかなたのローマ帝国",
+    "author": "南川高志",
+    "publisher": "岩波書店",
+    "edition": "増補新版、2015"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_kobayashi",
+   "sourceId": "src_hu_kobayashi",
+   "book": {
+    "title": "専制国家史論",
+    "author": "足立啓二",
+    "publisher": "ちくま学芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hu_sengoku",
+   "sourceId": "src_hu_sengoku",
+   "book": {
+    "title": "独裁と民主政治の社会的起源　上",
+    "author": "バリントン・ムーア Jr.",
+    "publisher": "岩波文庫",
+    "edition": "2019復刊"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://hps.c.u-tokyo.ac.jp/bookguide/",
+   "result": "index",
+   "reason": "読書案内の一覧。推薦者15人（現役6人＋名誉教授6人ほか）のうち、個別ページを持つ9人から取得（岡本・廣野・藤川・三村・今井・信原・野矢・橋本・村田）。鈴木貴之は個人サイトへのリンクのみ。武正泰史は一覧に名前のみでリンクなし。依頼文の /readings/ のURLは404（サイト改装でパスが /bookguide/ に変わっていた）。",
+   "person": ""
+  },
+  {
+   "url": "https://hps.c.u-tokyo.ac.jp/readings/okamoto_takuji/index.php",
+   "result": "unreachable",
+   "reason": "404。新URLは /bookguide/bookguide_takuji_okamoto。同様に hirono・suzuki も旧URL",
+   "person": "岡本拓司"
+  },
+  {
+   "url": "https://tkykszk.net/teaching/pom_books/",
+   "result": "candidate",
+   "reason": "鈴木貴之の個人サイト（心の哲学の基本文献）。未取得。robots未確認",
+   "person": "鈴木貴之"
+  },
+  {
+   "url": "https://tkykszk.net/teaching/graduate_program/",
+   "result": "candidate",
+   "reason": "鈴木貴之の個人サイト（分析哲学の基本文献）。未取得",
+   "person": "鈴木貴之"
+  },
+  {
+   "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/",
+   "result": "index",
+   "reason": "国文学科の教員19人中、推薦図書欄があるのは3人（久保木・藤平・袴田）で全員取得。他の16人のページ（堀井・井上・門脇・高・久米・丸茂・松崎・中津・作本・杉本・鈴木雅裕・鈴木則昌・高野・田中・徳本・吉永）に同欄は無し。",
+   "person": ""
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/adachi-daisuke",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "adachi-daisuke"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/cho-yenling",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "cho-yenling"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/coker-caitlin-christine",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "coker-caitlin-christine"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/eda-masaki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "eda-masaki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/fujita-takeshi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "fujita-takeshi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yuichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hashimoto-yuichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hattori-michitaka",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hattori-michitaka"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hayashidera-shoshun",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hayashidera-shoshun"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/higuchi-mari",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "higuchi-mari"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hiramatsu-makoto",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hiramatsu-makoto"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-kazushi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hirasawa-kazushi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-yu",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hirasawa-yu"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hisai-atsuyo",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "hisai-atsuyo"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/imamura-nobutaka",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "imamura-nobutaka"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/isahaya-yoichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "isahaya-yoichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/iwashita-akihiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "iwashita-akihiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kaneko-sae",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kaneko-sae"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kato-hirofumi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kato-hirofumi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kato-sachi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kato-sachi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kato-shigehiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kato-shigehiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kawabata-yasuhiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kawabata-yasuhiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kawaguchi-akihiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kawaguchi-akihiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kawahara-jun-ichiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kawahara-jun-ichiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kawasaki-kohei",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kawasaki-kohei"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kitahara-jirota",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kitahara-jirota"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kobayashi-tadamasa",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kobayashi-tadamasa"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kondo-hiroyuki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kondo-hiroyuki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kunikita-dai",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kunikita-dai"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kweon-seok-yeong",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "kweon-seok-yeong"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/la-fay-michelle",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "la-fay-michelle"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/lee-yeonju",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "lee-yeonju"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/manabe-tomohiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "manabe-tomohiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/matsushima-akio",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "matsushima-akio"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/minami-yoko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "minami-yoko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/minoshima-hideki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "minoshima-hideki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/miyajima-shunichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "miyajima-shunichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/miyashita-yayoi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "miyashita-yayoi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/miyauchi-taisuke",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "miyauchi-taisuke"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/miyazono-kengo",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "miyazono-kengo"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/mizutamari-mayumi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "mizutamari-mayumi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/morimoto-taku",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "morimoto-taku"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/muramatsu-masataka",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "muramatsu-masataka"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/murata-katsuyuki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "murata-katsuyuki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/naganawa-norihiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "naganawa-norihiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nakajima-akira",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nakajima-akira"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nakamura-hijiri",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nakamura-hijiri"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nakazawa-yuichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nakazawa-yuichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/natsuki-daigo",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "natsuki-daigo"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ng-ka-shing",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ng-ka-shing"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nomachi-motoki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nomachi-motoki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nomoto-tosei",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nomoto-tosei"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nomura-masuhiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nomura-masuhiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/nomura-yasushi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "nomura-yasushi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ochiai-ken-ichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ochiai-ken-ichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/oda-hiroshi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "oda-hiroshi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ogawa-kenji",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ogawa-kenji"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ogawa-sawako",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ogawa-sawako"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ogura-hikaru",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ogura-hikaru"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ohnuma-susumu",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ohnuma-susumu"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/okuno-mariko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "okuno-mariko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/onishi-fujio",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "onishi-fujio"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/oshino-takeshi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "oshino-takeshi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ri-yudai",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ri-yudai"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sakurai-yoshihide",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sakurai-yoshihide"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sano-katsuhiko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sano-katsuhiko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sato-kentaro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sato-kentaro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sato-tomomi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sato-tomomi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sazaki-ai",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sazaki-ai"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sekiya-yuichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sekiya-yuichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/suemori-haruka",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "suemori-haruka"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/sugai-kenta",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "sugai-kenta"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/taguchi-shigeru",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "taguchi-shigeru"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takahashi-koki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takahashi-koki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takahashi-nobuyuki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takahashi-nobuyuki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takahashi-taiki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takahashi-taiki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takase-katsunori",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takase-katsunori"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takeuchi-shuichi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takeuchi-shuichi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takeuchi-yasuhiro",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takeuchi-yasuhiro"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/takimoto-ayaka",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "takimoto-ayaka"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/tamura-yoko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "tamura-yoko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/tanabe-hiroko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "tanabe-hiroko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/tanaka-yumi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "tanaka-yumi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/tangiku-itsuji",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "tangiku-itsuji"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/tanimoto-akihisa",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "tanimoto-akihisa"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/terabayashi-akira",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "terabayashi-akira"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/terada-chisato",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "terada-chisato"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/toda-satoshi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "toda-satoshi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/tsuta-kiyoyuki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "tsuta-kiyoyuki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ueno-mayumi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ueno-mayumi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/uyama-tomohiko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "uyama-tomohiko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/xiong-zheng",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "xiong-zheng"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yakou-hisashi",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yakou-hisashi"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yamaguchi-mikako",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yamaguchi-mikako"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yamamoto-fumihiko",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yamamoto-fumihiko"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yamasaki-koji",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yamasaki-koji"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yasukata-kaori",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yasukata-kaori"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ying-xiong",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "ying-xiong"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yoshida-takuya",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yoshida-takuya"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yoshida-tsutomu",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yoshida-tsutomu"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yoshikai-masato",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yoshikai-masato"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/yuki-masaki",
+   "result": "candidate",
+   "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+   "person": "yuki-masaki"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/ito-takayuki",
+   "result": "rejected",
+   "reason": "おすすめの本は『シリーズ言語資源学』（岩波書店）のみで著者名がページに無いため載せない",
+   "person": "伊藤孝行"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff",
+   "result": "index",
+   "reason": "教員一覧111人。ka/ に取得した約106人中、「おすすめの本」欄があるのは約73人＋最初の5人のうち伊藤を含め5人。うち10人（指定の5人＋青島・長谷川・飯坂・小林晃・仙石）から取得。robots.txt は空で制限なし",
+   "person": ""
+  }
+ ]
+}

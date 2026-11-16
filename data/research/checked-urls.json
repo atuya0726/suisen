@@ -9566,8 +9566,8 @@
   },
   {
     "url": "https://www.honz.jp/reviewers/",
-    "result": "candidate",
-    "reason": "HONZ レビュアー一覧。実名のレビュアーによる紹介記事。書評にあたるので、薦めていると明言する記事だけ使えるかを未判定（ユーザー提供の収集先）",
+    "result": "rejected",
+    "reason": "HONZ。2026-11-16 にユーザーと相談し、当面は入れないと決定。robots.txt が ClaudeBot・anthropic-ai など AI のクローラーを名指しで拒否しており、本文を確かめる調査ができない。レビュアー27人・約4,500記事",
     "checkedAt": "2026-11-16"
   },
   {
@@ -10207,6 +10207,1104 @@
     "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_5-lib-1.pdf",
     "result": "adopted",
     "reason": "sources.json の ns-himejima-cc9540",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/22033/",
+    "result": "adopted",
+    "reason": "sources.json の musabi-matsuura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://sites.google.com/view/hashimoto-tsutomu/home/for-students",
+    "result": "adopted",
+    "reason": "sources.json の hashimoto-students",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/daitamesue/n/n4d58bc85140b",
+    "result": "adopted",
+    "reason": "sources.json の tamesue-2024",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/20978/",
+    "result": "adopted",
+    "reason": "sources.json の musabi-hasegawa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/shiominaoki/n/n3759e218925a",
+    "result": "adopted",
+    "reason": "sources.json の shiomi-atoz",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://udpp-hokudai.jp/custom10.html",
+    "result": "adopted",
+    "reason": "sources.json の okada-reading",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/daitamesue/n/nebbed7fca45c",
+    "result": "rejected",
+    "reason": "2023年のおすすめ7冊。著者名がページに無い（『ベイトソン』は姓のみ）ため載せない",
+    "person": "為末大",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/shu_yamaguchi/n/n28f0557b4ba6",
+    "result": "rejected",
+    "reason": "有料記事（残り8,025字は有料）。無料部分に本の列挙なし",
+    "person": "山口周",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/22451/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（冨井大裕教授 Vol.14）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/22302/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（池田ともゆき教授 Vol.13）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/21117/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（加藤幸治教授 Vol.12）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/21026/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（山本靖久教授 Vol.11）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/23681/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（新見隆教授 Vol.16）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/26500/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（2025.05）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/25741/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（2024.10）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/news/25267/",
+    "result": "candidate",
+    "reason": "武蔵野美術大学「美大生におすすめの本」企画の別回（2024.05）。未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://mauml.musabi.ac.jp/tag_keyword/%e7%be%8e%e5%a4%a7%e7%94%9f%e3%81%ab%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e3%81%ae%e6%9c%ac/",
+    "result": "index",
+    "reason": "企画の一覧タグ。Vol.10以降のみ確認（Vol.1〜9は一覧に出ず未確認）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.kimu-tatsu.com/reccomend",
+    "result": "adopted",
+    "reason": "sources.json の kimutatsu-recommend",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.jimpei.net/jikorikai/entry/jiko-book",
+    "result": "adopted",
+    "reason": "sources.json の jimpei-jiko-book",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.jimpei.net/jikorikai/entry/book-daigakusei",
+    "result": "adopted",
+    "reason": "sources.json の jimpei-college",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://sakaijun.blog.jp/archives/37325843.html",
+    "result": "adopted",
+    "reason": "sources.json の sakai-books",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://kabasawa3.com/blog/socialmedia/syugyokuno-36satsu",
+    "result": "rejected",
+    "reason": "丸善/ジュンク堂オンラインイベント「珠玉の36冊」の告知記事で、本文に書名の一覧が無い（robots.txt は無し）",
+    "person": "樺沢紫苑",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.kimu-tatsu.com/reccomend/page/2",
+    "result": "candidate",
+    "reason": "未取得: 2ページ目の2冊目以降と3ページ目以降（約49冊）。個別ページに著者・出版社あり",
+    "person": "木村達哉",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/hakamada-mitsuyasu/",
+    "result": "adopted",
+    "reason": "sources.json の src-nu-hakamada-2bcda6",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yu",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-hashimoto-898dbe",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/asanuma-keiko",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-asanuma-945d99",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/aoshima-yoko",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-aoshima-7c1cfa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takezawa-masanori",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-takezawa-9429d8",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/koyama-ryo",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-koyama-d10a19",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kobayashi-akira",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-kobayashi-c9a818",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookgude_junichi_murata/",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-murata-14c52b",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_naoya_fujikawa",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-fujikawa-6814ca",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/kuboki-hideo/",
+    "result": "adopted",
+    "reason": "sources.json の src-nu-kuboki-3c3cf8",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_yoshiyuki_hirono/",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-hirono-e96467",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_yukihiro_nobuhara/",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-nobuhara-bed5b7",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hasegawa-takahiko",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-hasegawa-b28b0c",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/iisaka-koji",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-iisaka-1501d3",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_taro_mimura",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-mimura-2a60e8",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/fujihira-izumi/",
+    "result": "adopted",
+    "reason": "sources.json の src-nu-fujihira-0c6280",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_takehiko_hashimoto",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-hashimoto-80fa9f",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sengoku-manabu",
+    "result": "adopted",
+    "reason": "sources.json の src-hu-sengoku-0a0233",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_tomomasa_imai/",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-imai-1a859c",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_takuji_okamoto",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-okamoto-2454d1",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_shigeki_noya/",
+    "result": "adopted",
+    "reason": "sources.json の src-hps-noya-2d8c85",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/bookguide/",
+    "result": "index",
+    "reason": "読書案内の一覧。推薦者15人（現役6人＋名誉教授6人ほか）のうち、個別ページを持つ9人から取得（岡本・廣野・藤川・三村・今井・信原・野矢・橋本・村田）。鈴木貴之は個人サイトへのリンクのみ。武正泰史は一覧に名前のみでリンクなし。依頼文の /readings/ のURLは404（サイト改装でパスが /bookguide/ に変わっていた）。",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://hps.c.u-tokyo.ac.jp/readings/okamoto_takuji/index.php",
+    "result": "unreachable",
+    "reason": "404。新URLは /bookguide/bookguide_takuji_okamoto。同様に hirono・suzuki も旧URL",
+    "person": "岡本拓司",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tkykszk.net/teaching/pom_books/",
+    "result": "candidate",
+    "reason": "鈴木貴之の個人サイト（心の哲学の基本文献）。未取得。robots未確認",
+    "person": "鈴木貴之",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tkykszk.net/teaching/graduate_program/",
+    "result": "candidate",
+    "reason": "鈴木貴之の個人サイト（分析哲学の基本文献）。未取得",
+    "person": "鈴木貴之",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://dept.chs.nihon-u.ac.jp/jpl/staff/",
+    "result": "index",
+    "reason": "国文学科の教員19人中、推薦図書欄があるのは3人（久保木・藤平・袴田）で全員取得。他の16人のページ（堀井・井上・門脇・高・久米・丸茂・松崎・中津・作本・杉本・鈴木雅裕・鈴木則昌・高野・田中・徳本・吉永）に同欄は無し。",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/adachi-daisuke",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "adachi-daisuke",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/cho-yenling",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "cho-yenling",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/coker-caitlin-christine",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "coker-caitlin-christine",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/eda-masaki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "eda-masaki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/fujita-takeshi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "fujita-takeshi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hashimoto-yuichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hashimoto-yuichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hattori-michitaka",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hattori-michitaka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hayashidera-shoshun",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hayashidera-shoshun",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/higuchi-mari",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "higuchi-mari",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hiramatsu-makoto",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hiramatsu-makoto",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-kazushi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hirasawa-kazushi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-yu",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hirasawa-yu",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/hisai-atsuyo",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "hisai-atsuyo",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/imamura-nobutaka",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "imamura-nobutaka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/isahaya-yoichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "isahaya-yoichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/iwashita-akihiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "iwashita-akihiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kaneko-sae",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kaneko-sae",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kato-hirofumi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kato-hirofumi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kato-sachi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kato-sachi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kato-shigehiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kato-shigehiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kawabata-yasuhiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kawabata-yasuhiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kawaguchi-akihiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kawaguchi-akihiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kawahara-jun-ichiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kawahara-jun-ichiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kawasaki-kohei",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kawasaki-kohei",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kitahara-jirota",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kitahara-jirota",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kobayashi-tadamasa",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kobayashi-tadamasa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kondo-hiroyuki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kondo-hiroyuki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kunikita-dai",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kunikita-dai",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/kweon-seok-yeong",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "kweon-seok-yeong",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/la-fay-michelle",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "la-fay-michelle",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/lee-yeonju",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "lee-yeonju",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/manabe-tomohiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "manabe-tomohiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/matsushima-akio",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "matsushima-akio",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/minami-yoko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "minami-yoko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/minoshima-hideki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "minoshima-hideki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/miyajima-shunichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "miyajima-shunichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/miyashita-yayoi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "miyashita-yayoi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/miyauchi-taisuke",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "miyauchi-taisuke",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/miyazono-kengo",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "miyazono-kengo",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/mizutamari-mayumi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "mizutamari-mayumi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/morimoto-taku",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "morimoto-taku",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/muramatsu-masataka",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "muramatsu-masataka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/murata-katsuyuki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "murata-katsuyuki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/naganawa-norihiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "naganawa-norihiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nakajima-akira",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nakajima-akira",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nakamura-hijiri",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nakamura-hijiri",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nakazawa-yuichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nakazawa-yuichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/natsuki-daigo",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "natsuki-daigo",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ng-ka-shing",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ng-ka-shing",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nomachi-motoki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nomachi-motoki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nomoto-tosei",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nomoto-tosei",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nomura-masuhiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nomura-masuhiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/nomura-yasushi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "nomura-yasushi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ochiai-ken-ichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ochiai-ken-ichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/oda-hiroshi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "oda-hiroshi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ogawa-kenji",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ogawa-kenji",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ogawa-sawako",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ogawa-sawako",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ogura-hikaru",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ogura-hikaru",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ohnuma-susumu",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ohnuma-susumu",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/okuno-mariko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "okuno-mariko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/onishi-fujio",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "onishi-fujio",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/oshino-takeshi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "oshino-takeshi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ri-yudai",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ri-yudai",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sakurai-yoshihide",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sakurai-yoshihide",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sano-katsuhiko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sano-katsuhiko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sato-kentaro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sato-kentaro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sato-tomomi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sato-tomomi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sazaki-ai",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sazaki-ai",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sekiya-yuichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sekiya-yuichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/suemori-haruka",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "suemori-haruka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/sugai-kenta",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "sugai-kenta",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/taguchi-shigeru",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "taguchi-shigeru",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takahashi-koki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takahashi-koki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takahashi-nobuyuki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takahashi-nobuyuki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takahashi-taiki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takahashi-taiki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takase-katsunori",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takase-katsunori",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takeuchi-shuichi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takeuchi-shuichi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takeuchi-yasuhiro",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takeuchi-yasuhiro",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/takimoto-ayaka",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "takimoto-ayaka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/tamura-yoko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "tamura-yoko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/tanabe-hiroko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "tanabe-hiroko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/tanaka-yumi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "tanaka-yumi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/tangiku-itsuji",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "tangiku-itsuji",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/tanimoto-akihisa",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "tanimoto-akihisa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/terabayashi-akira",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "terabayashi-akira",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/terada-chisato",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "terada-chisato",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/toda-satoshi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "toda-satoshi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/tsuta-kiyoyuki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "tsuta-kiyoyuki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ueno-mayumi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ueno-mayumi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/uyama-tomohiko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "uyama-tomohiko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/xiong-zheng",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "xiong-zheng",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yakou-hisashi",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yakou-hisashi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yamaguchi-mikako",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yamaguchi-mikako",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yamamoto-fumihiko",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yamamoto-fumihiko",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yamasaki-koji",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yamasaki-koji",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yasukata-kaori",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yasukata-kaori",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ying-xiong",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "ying-xiong",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yoshida-takuya",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yoshida-takuya",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yoshida-tsutomu",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yoshida-tsutomu",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yoshikai-masato",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yoshikai-masato",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/yuki-masaki",
+    "result": "candidate",
+    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "person": "yuki-masaki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff/ito-takayuki",
+    "result": "rejected",
+    "reason": "おすすめの本は『シリーズ言語資源学』（岩波書店）のみで著者名がページに無いため載せない",
+    "person": "伊藤孝行",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.let.hokudai.ac.jp/staff",
+    "result": "index",
+    "reason": "教員一覧111人。ka/ に取得した約106人中、「おすすめの本」欄があるのは約73人＋最初の5人のうち伊藤を含め5人。うち10人（指定の5人＋青島・長谷川・飯坂・小林晃・仙石）から取得。robots.txt は空で制限なし",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://eliesbook.co.jp/bbm",
+    "result": "candidate",
+    "reason": "ビジネスブックマラソン（メルマガ書評のアーカイブ、数百冊）。1冊ずつ論じる長期の書評で、薦めたと明言した回だけを選ぶ手段ができるまで保留（2026-11-16 ユーザー提供の調査より）",
+    "person": "土井英司",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://s238.stars.ne.jp/saito_labo/recommend/",
+    "result": "candidate",
+    "reason": "研究室ページ「おすすめの本」。未調査（robots.txt なし）（2026-11-16 ユーザー提供の調査より）",
+    "person": "齋藤友彦",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://torusaito.com/library/",
+    "result": "candidate",
+    "reason": "ライブラリ93点。自著・講義資料が混在。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "斉藤徹",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.sanadamitsuo.com/top/profile/book/",
+    "result": "candidate",
+    "reason": "プロフィール配下の「本」。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "真田みつお",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.essential.co.jp/?p=16740",
+    "result": "candidate",
+    "reason": "人生を変えた本3冊のシリーズ。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "相馬一進",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://someyamasatoshi.jp/review/books/intelligencetechnique/",
+    "result": "candidate",
+    "reason": "書評カテゴリ。書評なので、薦めていると明言する記事だけ（2026-11-16 ユーザー提供の調査より）",
+    "person": "染谷昌利",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.y-fit-pro.com/blog_nishiguchi/entry/-net-positive/",
+    "result": "candidate",
+    "reason": "「おすすめ本の紹介」シリーズ。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "西口雄生",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://kidachi.kazuhi.to/blog/archives/043038.html",
+    "result": "candidate",
+    "reason": "個人ブログの書評。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "木達一仁",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://takadahikaru.com/henreki-1/",
+    "result": "candidate",
+    "reason": "「人生を変えた1冊」。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "高田晃",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.ritsumei.ac.jp/acd/gr/gsshs/teacher/family-onoe.html",
+    "result": "candidate",
+    "reason": "立命館大学 教員プロフィールの推薦図書2冊。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "尾上明代",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://sendai-shirayuri.ac.jp/faculty/members/emiko_aizawa",
+    "result": "candidate",
+    "reason": "仙台白百合女子大学 教員プロフィールの推薦3冊。未調査（2026-11-16 ユーザー提供の調査より）",
+    "person": "相澤恵美子",
     "checkedAt": "2026-11-16"
   }
 ]
