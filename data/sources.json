@@ -9403,5 +9403,197 @@
     "media": "東京大学 科学史・科学哲学研究室",
     "title": "読書案内 野矢茂樹",
     "url": "https://hps.c.u-tokyo.ac.jp/bookguide/bookguide_shigeki_noya/"
+  },
+  {
+    "id": "s275",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第275回：加藤シゲアキ",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi275_kato/",
+    "publishedAt": "2025-04-25"
+  },
+  {
+    "id": "s227",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第227回：尾崎世界観",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi227_ozaki/",
+    "publishedAt": "2021-03-27"
+  },
+  {
+    "id": "s211",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第211回：又吉直樹",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi211_matayoshi/",
+    "publishedAt": "2019-10-26"
+  },
+  {
+    "id": "s267",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第267回：大槻ケンヂ",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi267_ootsuki/",
+    "publishedAt": "2024-08-23"
+  },
+  {
+    "id": "s130",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第130回：辻村深月",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi130_tsujimura/",
+    "publishedAt": "2012-10-17"
+  },
+  {
+    "id": "s206",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第206回：江國香織",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi206_ekuni/",
+    "publishedAt": "2019-05-25"
+  },
+  {
+    "id": "s132",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第132回：池井戸潤",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi132_ikeido/",
+    "publishedAt": "2012-12-19"
+  },
+  {
+    "id": "s112",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第112回：林真理子",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi112_hayashi/",
+    "publishedAt": "2011-02-23"
+  },
+  {
+    "id": "s113",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第113回：湊かなえ",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi113_minato/",
+    "publishedAt": "2011-04-27"
+  },
+  {
+    "id": "sakka128",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第128回：原田マハ",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi128_harada/",
+    "publishedAt": "2012-08-22"
+  },
+  {
+    "id": "sakka125",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第125回：村田沙耶香",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi125_murata/",
+    "publishedAt": "2012-05-16"
+  },
+  {
+    "id": "sakka107",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第107回：百田尚樹",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi107_hyakuta/",
+    "publishedAt": "2010-09-29"
+  },
+  {
+    "id": "s157",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第157回：平野啓一郎",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi157_hirano/",
+    "publishedAt": "2015-02-18"
+  },
+  {
+    "id": "s150",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第150回：綾辻行人",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi150_ayatsuji/",
+    "publishedAt": "2014-07-16"
+  },
+  {
+    "id": "s142",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第142回：川上未映子",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi142_kawakami/",
+    "publishedAt": "2013-10-16"
+  },
+  {
+    "id": "src152",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第152回：中村文則",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi152_nakamura/",
+    "publishedAt": "2014-09-17"
+  },
+  {
+    "id": "src214",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第214回：凪良ゆう",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi214_nagira/",
+    "publishedAt": "2020-01-25"
+  },
+  {
+    "id": "src180",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第180回：住野よる",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi180_sumino/",
+    "publishedAt": "2017-02-15"
+  },
+  {
+    "id": "s165",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第165回：羽田圭介",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi165_hada/",
+    "publishedAt": "2015-10-21"
+  },
+  {
+    "id": "s95",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第95回：上橋菜穂子",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi095_uehashi/",
+    "publishedAt": "2009-09-30"
+  },
+  {
+    "id": "s225",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第225回：町田そのこ",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi225_machida/",
+    "publishedAt": "2021-01-23"
+  },
+  {
+    "id": "imamura219",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第219回：今村翔吾",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi219_imamura/",
+    "publishedAt": "2020-07-25"
+  },
+  {
+    "id": "ubukata99",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第99回：冲方丁",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi099_ubukata/",
+    "publishedAt": "2010-01-27"
+  },
+  {
+    "id": "miyajima261",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第261回：宮島未奈",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi261_miyajima/",
+    "publishedAt": "2024-02-23"
   }
 ]

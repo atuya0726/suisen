@@ -1,0 +1,352 @@
+{
+ "people": [
+  {
+   "id": "kawakami",
+   "name": "川上未映子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hirano",
+   "name": "平野啓一郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ayatsuji",
+   "name": "綾辻行人",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s142",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第142回：川上未映子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi142_kawakami/",
+   "publishedAt": "2013-10-16"
+  },
+  {
+   "id": "s157",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第157回：平野啓一郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi157_hirano/",
+   "publishedAt": "2015-02-18"
+  },
+  {
+   "id": "s150",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第150回：綾辻行人",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi150_ayatsuji/",
+   "publishedAt": "2014-07-16"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "ドラえもん",
+    "author": "藤子・F・不二雄",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "カント入門",
+    "author": "石川文康",
+    "publisher": "筑摩書房",
+    "edition": "ちくま新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "たけくらべ 現代語訳・樋口一葉",
+    "author": "樋口一葉",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "「魂」に対する態度",
+    "author": "永井均",
+    "publisher": "勁草書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "葬儀の日",
+    "author": "松浦理英子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "聖女伝説",
+    "author": "多和田葉子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "ゴットハルト鉄道",
+    "author": "多和田葉子",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "迷宮としての世界 上",
+    "subtitle": "マニエリスム美術",
+    "author": "グスタフ・ルネ・ホッケ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "フィネガンズ・ウェイク",
+    "author": "ジェイムズ・ジョイス",
+    "publisher": "河出書房新社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kawakami",
+   "sourceId": "s142",
+   "book": {
+    "title": "ドストエフスキー",
+    "author": "山城むつみ",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "金閣寺",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "トニオ・クレエゲル",
+    "author": "トオマス・マン",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "万延元年のフットボール",
+    "author": "大江健三郎",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "エリアーデ著作集",
+    "author": "ミルチャ・エリアーデ",
+    "publisher": "せりか書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "悪の華",
+    "author": "ボードレール",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "地図と領土",
+    "author": "ミシェル・ウエルベック",
+    "publisher": "筑摩書房"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "とどめの一撃",
+    "author": "マルグリット・ユルスナール"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "hirano",
+   "sourceId": "s157",
+   "book": {
+    "title": "異端教祖株式会社",
+    "author": "アポリネール",
+    "publisher": "白水社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "漂流教室",
+    "author": "楳図かずお",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "黄色い部屋の謎",
+    "author": "ガストン・ルルー",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "戻り川心中",
+    "author": "連城三紀彦",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "夜よ、鼠たちのために",
+    "author": "連城三紀彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "占星術殺人事件 改訂完全版",
+    "author": "島田荘司",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "虚無への供物 上",
+    "author": "中井英夫",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "悪童日記",
+    "author": "アゴタ・クリストフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "夜のみだらな鳥",
+    "author": "ホセ・ドノソ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ayatsuji",
+   "sourceId": "s150",
+   "book": {
+    "title": "プロテスタンティズムの倫理と資本主義の精神",
+    "author": "マックス・ヴェーバー",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

@@ -1,0 +1,292 @@
+{
+ "people": [
+  {
+   "id": "ubukata",
+   "name": "冲方丁",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "imamura",
+   "name": "今村翔吾",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "miyajima",
+   "name": "宮島未奈",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ubukata99",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第99回：冲方丁",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi099_ubukata/",
+   "publishedAt": "2010-01-27"
+  },
+  {
+   "id": "imamura219",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第219回：今村翔吾",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi219_imamura/",
+   "publishedAt": "2020-07-25"
+  },
+  {
+   "id": "miyajima261",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第261回：宮島未奈",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi261_miyajima/",
+   "publishedAt": "2024-02-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "ubukata",
+   "sourceId": "ubukata99",
+   "book": {
+    "title": "神話の力",
+    "author": "ジョーゼフ・キャンベル",
+    "publisher": "早川書房"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "ubukata",
+   "sourceId": "ubukata99",
+   "book": {
+    "title": "幸運の25セント硬貨",
+    "author": "スティーヴン・キング",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ubukata",
+   "sourceId": "ubukata99",
+   "book": {
+    "title": "グイン・サーガ",
+    "author": "栗本薫",
+    "publisher": "早川書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ubukata",
+   "sourceId": "ubukata99",
+   "book": {
+    "title": "ダーク・ハーフ 上",
+    "author": "スティーヴン・キング",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "真田太平記",
+    "author": "池波正太郎",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "燃えよ剣 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "壬生義士伝 上",
+    "author": "浅田次郎",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "三国志",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "樅ノ木は残った 上",
+    "author": "山本周五郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "一路 上",
+    "author": "浅田次郎",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "破軍の星",
+    "author": "北方謙三",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "imamura",
+   "sourceId": "imamura219",
+   "book": {
+    "title": "琉球の風",
+    "author": "陳舜臣"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "風が強く吹いている",
+    "author": "三浦しをん",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "ナイルパーチの女子会",
+    "author": "柚木麻子",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "エバーグリーン",
+    "author": "豊島ミホ",
+    "publisher": "双葉社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "ゴールデンスランバー",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "天使の卵 エンジェルス・エッグ",
+    "author": "村山由佳",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "時事漫才 爆笑問題の日本原論",
+    "author": "爆笑問題",
+    "publisher": "太田出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "カラス",
+    "author": "太田光"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "むらさきのスカートの女",
+    "author": "今村夏子",
+    "publisher": "朝日新聞出版",
+    "edition": "朝日文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "ツナグ",
+    "author": "辻村深月",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "miyajima",
+   "sourceId": "miyajima261",
+   "book": {
+    "title": "私の男",
+    "author": "桜庭一樹",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

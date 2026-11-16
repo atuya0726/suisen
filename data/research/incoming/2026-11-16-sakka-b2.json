@@ -1,0 +1,354 @@
+{
+ "people": [
+  {
+   "id": "oo",
+   "name": "大槻ケンヂ",
+   "title": "作家・ミュージシャン",
+   "tags": [
+    "作家",
+    "芸能"
+   ]
+  },
+  {
+   "id": "ek",
+   "name": "江國香織",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "tj",
+   "name": "辻村深月",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s267",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第267回：大槻ケンヂ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi267_ootsuki/",
+   "publishedAt": "2024-08-23"
+  },
+  {
+   "id": "s206",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第206回：江國香織",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi206_ekuni/",
+   "publishedAt": "2019-05-25"
+  },
+  {
+   "id": "s130",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第130回：辻村深月",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi130_tsujimura/",
+   "publishedAt": "2012-10-17"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "デビルマン",
+    "author": "永井豪",
+    "publisher": "小学館クリエイティブ",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "不安の立像",
+    "author": "諸星大二郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "綿の国星",
+    "author": "大島弓子",
+    "publisher": "白泉社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "書を捨てよ、町へ出よう",
+    "author": "寺山修司",
+    "publisher": "トゥーヴァージンズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "家出のすすめ",
+    "author": "寺山修司",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "ドグラ・マグラ 上",
+    "author": "夢野久作",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "哀愁の町に霧が降るのだ 上",
+    "author": "椎名誠",
+    "publisher": "小学館",
+    "edition": "小学館文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "何かが空を飛んでいる",
+    "author": "稲生平太郎",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "すべて忘れてしまうから",
+    "author": "燃え殻",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oo",
+   "sourceId": "s267",
+   "book": {
+    "title": "男の！ヤバすぎバイト列伝",
+    "author": "掟ポルシェ",
+    "publisher": "リットーミュージック"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "ちいさなうさこちゃん",
+    "author": "ディック・ブルーナ",
+    "publisher": "福音館書店",
+    "edition": "ブルーナの絵本"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "わらしべちょうじゃ",
+    "author": "西郷竹彦",
+    "publisher": "ポプラ社",
+    "edition": "むかしむかし絵本"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "ウォーターシップ・ダウンのウサギたち 上",
+    "author": "リチャード・アダムズ",
+    "publisher": "評論社",
+    "edition": "ファンタジー・クラシックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "ある家族の会話",
+    "author": "ナタリア・ギンズブルグ",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "音もなく少女は",
+    "author": "ボストン・テラン",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "満ちみてる生",
+    "author": "ジョン・ファンテ",
+    "publisher": "未知谷"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "デイゴ・レッド",
+    "author": "ジョン・ファンテ",
+    "publisher": "未知谷"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ek",
+   "sourceId": "s206",
+   "book": {
+    "title": "バンディーニ家よ、春を待て",
+    "author": "ジョン・ファンテ",
+    "publisher": "未知谷"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "ドラえもん",
+    "author": "藤子・F・不二雄",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "おひるねじかんにまたどうぞ",
+    "author": "武鹿悦子",
+    "publisher": "小峰書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "ゴーストハント",
+    "author": "小野不由美",
+    "publisher": "メディアファクトリー",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "創竜伝",
+    "author": "田中芳樹",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "戦闘妖精・雪風",
+    "author": "神林長平",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫JA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "OUT 上",
+    "author": "桐野夏生",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "リバーズ・エッジ",
+    "author": "岡崎京子",
+    "publisher": "宝島社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "霧越邸殺人事件",
+    "author": "綾辻行人",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tj",
+   "sourceId": "s130",
+   "book": {
+    "title": "Another",
+    "author": "綾辻行人",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

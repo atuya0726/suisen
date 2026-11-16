@@ -1,0 +1,373 @@
+{
+ "people": [
+  {
+   "id": "kato",
+   "name": "加藤シゲアキ",
+   "title": "作家・NEWSメンバー",
+   "tags": [
+    "作家",
+    "芸能"
+   ]
+  },
+  {
+   "id": "matayoshi",
+   "name": "又吉直樹",
+   "title": "作家・お笑い芸人",
+   "tags": [
+    "作家",
+    "芸能"
+   ]
+  },
+  {
+   "id": "ozaki",
+   "name": "尾崎世界観",
+   "title": "作家・ミュージシャン",
+   "tags": [
+    "作家",
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s275",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第275回：加藤シゲアキ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi275_kato/",
+   "publishedAt": "2025-04-25"
+  },
+  {
+   "id": "s211",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第211回：又吉直樹",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi211_matayoshi/",
+   "publishedAt": "2019-10-26"
+  },
+  {
+   "id": "s227",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第227回：尾崎世界観",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi227_ozaki/",
+   "publishedAt": "2021-03-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "キャッチャー・イン・ザ・ライ",
+    "author": "サリンジャー",
+    "publisher": "白水社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "砂のお城の王女たち",
+    "author": "赤川次郎",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "ヘヴン",
+    "author": "川上未映子",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "異邦人",
+    "author": "カミュ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "煙か土か食い物",
+    "author": "舞城王太郎",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "僕が殺した人と僕を殺した人",
+    "author": "東山彰良",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "くるまの娘",
+    "author": "宇佐見りん",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "民宿雪国",
+    "author": "樋口毅宏",
+    "publisher": "祥伝社",
+    "edition": "祥伝社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "アメリカの夜",
+    "author": "阿部和重",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kato",
+   "sourceId": "s275",
+   "book": {
+    "title": "愛するということ",
+    "author": "エーリッヒ・フロム",
+    "publisher": "紀伊國屋書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "真鶴",
+    "author": "川上弘美",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "銃",
+    "author": "中村文則",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "夫婦善哉 正続 他十二篇",
+    "author": "織田作之助",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "変身",
+    "author": "フランツ・カフカ",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "罪と罰 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "じゃりン子チエ",
+    "author": "はるき悦巳",
+    "publisher": "双葉社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "それから",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "沈黙",
+    "author": "遠藤周作",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matayoshi",
+   "sourceId": "s211",
+   "book": {
+    "title": "こちらあみ子",
+    "author": "今村夏子",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "くっすん大黒",
+    "author": "町田康",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "次郎物語 上",
+    "author": "下村湖人",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "疾走 上",
+    "author": "重松清",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "ゴールドラッシュ",
+    "author": "柳美里",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "サーチエンジン・システムクラッシュ",
+    "author": "宮沢章夫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "ライン",
+    "author": "村上龍",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "海の向こうで戦争が始まる",
+    "author": "村上龍",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "青が破れる",
+    "author": "町屋良平",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ozaki",
+   "sourceId": "s227",
+   "book": {
+    "title": "最後の息子",
+    "author": "吉田修一",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

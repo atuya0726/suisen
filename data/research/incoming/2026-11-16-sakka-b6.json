@@ -1,0 +1,381 @@
+{
+ "people": [
+  {
+   "id": "nakamura",
+   "name": "中村文則",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sumino",
+   "name": "住野よる",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nagira",
+   "name": "凪良ゆう",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "src152",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第152回：中村文則",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi152_nakamura/",
+   "publishedAt": "2014-09-17"
+  },
+  {
+   "id": "src180",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第180回：住野よる",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi180_sumino/",
+   "publishedAt": "2017-02-15"
+  },
+  {
+   "id": "src214",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第214回：凪良ゆう",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi214_nagira/",
+   "publishedAt": "2020-01-25"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "地下室の手記",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "異邦人",
+    "author": "カミュ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "背徳者",
+    "author": "ジッド",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "嘔吐",
+    "author": "サルトル",
+    "publisher": "人文書院"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "砂の女",
+    "author": "安部公房",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "金閣寺",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "個人的な体験",
+    "author": "大江健三郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "万延元年のフットボール",
+    "author": "大江健三郎",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "src152",
+   "book": {
+    "title": "メタモルフォシス",
+    "author": "羽田圭介"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "星の王子さま",
+    "author": "サン=テグジュペリ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "ぼくらの七日間戦争",
+    "author": "宗田理",
+    "publisher": "角川グループパブリッシング",
+    "edition": "角川つばさ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "ハチワンダイバー",
+    "author": "柴田ヨクサル",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "陽だまりの彼女",
+    "author": "越谷オサム",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "わたしたちの田村くん",
+    "author": "竹宮ゆゆこ",
+    "publisher": "メディアワークス",
+    "edition": "電撃文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "きじかくしの庭",
+    "author": "桜井美奈",
+    "publisher": "アスキーメディアワークス",
+    "edition": "メディアワークス文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "凍りのくじら",
+    "author": "辻村深月",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "ラメルノエリキサ",
+    "author": "渡辺優",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "やがて海へと届く",
+    "author": "彩瀬まる",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sumino",
+   "sourceId": "src180",
+   "book": {
+    "title": "厭世マニュアル",
+    "author": "阿川せんり",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "ベルサイユのばら",
+    "author": "池田理代子",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "クララ白書",
+    "author": "氷室冴子",
+    "publisher": "集英社",
+    "edition": "集英社コバルト文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "シンデレラ迷宮",
+    "author": "氷室冴子",
+    "publisher": "集英社",
+    "edition": "集英社コバルト文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "ダリアの帯",
+    "author": "大島弓子",
+    "publisher": "白泉社",
+    "edition": "白泉社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "落下する夕方",
+    "author": "江國香織",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "波打ち際の蛍",
+    "author": "島本理生",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "恋愛中毒",
+    "author": "山本文緒",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "日傘のお兄さん",
+    "author": "豊島ミホ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagira",
+   "sourceId": "src214",
+   "book": {
+    "title": "妻の女友達",
+    "author": "小池真理子",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

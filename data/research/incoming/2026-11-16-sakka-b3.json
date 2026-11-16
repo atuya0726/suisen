@@ -1,0 +1,315 @@
+{
+ "people": [
+  {
+   "id": "minato",
+   "name": "湊かなえ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ikeido",
+   "name": "池井戸潤",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hayashi",
+   "name": "林真理子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s113",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第113回：湊かなえ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi113_minato/",
+   "publishedAt": "2011-04-27"
+  },
+  {
+   "id": "s132",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第132回：池井戸潤",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi132_ikeido/",
+   "publishedAt": "2012-12-19"
+  },
+  {
+   "id": "s112",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第112回：林真理子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi112_hayashi/",
+   "publishedAt": "2011-02-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "葡萄が目にしみる",
+    "author": "林真理子",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "天国にいちばん近い島",
+    "author": "森村桂",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "氷点 上",
+    "author": "三浦綾子",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "錦繍",
+    "author": "宮本輝",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "そして誰もいなくなった",
+    "author": "アガサ・クリスティー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "魔術はささやく",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "占星術殺人事件",
+    "author": "島田荘司",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "青が散る 上",
+    "author": "宮本輝",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "八つの犯罪",
+    "author": "モーリス・ルブラン",
+    "publisher": "ポプラ社",
+    "edition": "ポプラ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "minato",
+   "sourceId": "s113",
+   "book": {
+    "title": "メリーゴーランド",
+    "author": "荻原浩",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikeido",
+   "sourceId": "s132",
+   "book": {
+    "title": "トム・ソーヤーの冒険",
+    "author": "マーク・トウェイン",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikeido",
+   "sourceId": "s132",
+   "book": {
+    "title": "赤頭巾ちゃん気をつけて",
+    "author": "庄司薫",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikeido",
+   "sourceId": "s132",
+   "book": {
+    "title": "砲艦ホットスパー",
+    "author": "セシル・スコット・フォレスター",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫NV"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikeido",
+   "sourceId": "s132",
+   "book": {
+    "title": "ビザンチウムの夜",
+    "author": "アーウィン・ショー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikeido",
+   "sourceId": "s132",
+   "book": {
+    "title": "卵をめぐる祖父の戦争",
+    "author": "デイヴィッド・ベニオフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫NV"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ikeido",
+   "sourceId": "s132",
+   "book": {
+    "title": "陰陽師",
+    "author": "夢枕獏",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "細雪",
+    "author": "谷崎潤一郎",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "限りなく透明に近いブルー",
+    "author": "村上龍",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "聖少女",
+    "author": "倉橋由美子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "真砂屋お峰",
+    "author": "有吉佐和子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "サイゴンから来た妻と娘",
+    "author": "近藤紘一",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "ばかもの",
+    "author": "絲山秋子",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "トモスイ",
+    "author": "高樹のぶ子",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "s112",
+   "book": {
+    "title": "四季・奈津子",
+    "author": "五木寛之",
+    "publisher": "ポプラ社",
+    "edition": "ポプラ文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

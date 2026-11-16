@@ -11306,5 +11306,149 @@
     "reason": "仙台白百合女子大学 教員プロフィールの推薦3冊。未調査（2026-11-16 ユーザー提供の調査より）",
     "person": "相澤恵美子",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi275_kato/",
+    "result": "adopted",
+    "reason": "sources.json の s275",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi227_ozaki/",
+    "result": "adopted",
+    "reason": "sources.json の s227",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi211_matayoshi/",
+    "result": "adopted",
+    "reason": "sources.json の s211",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi267_ootsuki/",
+    "result": "adopted",
+    "reason": "sources.json の s267",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi130_tsujimura/",
+    "result": "adopted",
+    "reason": "sources.json の s130",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi206_ekuni/",
+    "result": "adopted",
+    "reason": "sources.json の s206",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi132_ikeido/",
+    "result": "adopted",
+    "reason": "sources.json の s132",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi112_hayashi/",
+    "result": "adopted",
+    "reason": "sources.json の s112",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi113_minato/",
+    "result": "adopted",
+    "reason": "sources.json の s113",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi128_harada/",
+    "result": "adopted",
+    "reason": "sources.json の sakka128",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi125_murata/",
+    "result": "adopted",
+    "reason": "sources.json の sakka125",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi107_hyakuta/",
+    "result": "adopted",
+    "reason": "sources.json の sakka107",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi157_hirano/",
+    "result": "adopted",
+    "reason": "sources.json の s157",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi150_ayatsuji/",
+    "result": "adopted",
+    "reason": "sources.json の s150",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi142_kawakami/",
+    "result": "adopted",
+    "reason": "sources.json の s142",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi152_nakamura/",
+    "result": "adopted",
+    "reason": "sources.json の src152",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi214_nagira/",
+    "result": "adopted",
+    "reason": "sources.json の src214",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi180_sumino/",
+    "result": "adopted",
+    "reason": "sources.json の src180",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi165_hada/",
+    "result": "adopted",
+    "reason": "sources.json の s165",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi095_uehashi/",
+    "result": "adopted",
+    "reason": "sources.json の s95",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi225_machida/",
+    "result": "adopted",
+    "reason": "sources.json の s225",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi219_imamura/",
+    "result": "adopted",
+    "reason": "sources.json の imamura219",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi099_ubukata/",
+    "result": "adopted",
+    "reason": "sources.json の ubukata99",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi261_miyajima/",
+    "result": "adopted",
+    "reason": "sources.json の miyajima261",
+    "checkedAt": "2026-11-16"
   }
 ]
