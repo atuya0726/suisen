@@ -1,0 +1,948 @@
+{
+ "people": [
+  {
+   "id": "t_isozaki",
+   "name": "磯﨑憲一郎",
+   "title": "東京工業大学 リベラルアーツ研究教育院 教授/作家",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_morikawa",
+   "name": "森川淳子",
+   "title": "東京工業大学 附属図書館長・物質理工学院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_kajiwara",
+   "name": "梶原将",
+   "title": "東京工業大学 生命理工学院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_ida",
+   "name": "井田茂",
+   "title": "東京工業大学 国際先駆研究機構地球生命研究所 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_watanabe",
+   "name": "渡辺治",
+   "title": "東京工業大学 理事・副学長（研究担当）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_masu",
+   "name": "益一哉",
+   "title": "東京工業大学 学長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_yamada",
+   "name": "山田功",
+   "title": "東京工業大学 工学院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_yai",
+   "name": "屋井鉄雄",
+   "title": "東京工業大学 副学長・環境・社会理工学院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_ito",
+   "name": "伊藤亜紗",
+   "title": "東京工業大学 リベラルアーツ研究教育院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "t_kiyama",
+   "name": "木山ロリンダ",
+   "title": "東京工業大学 リーダーシップ教育院 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "東京科学大学"
+  },
+  {
+   "id": "h_tanaka",
+   "name": "田中恭子",
+   "title": "北星学園大学 経済学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_fujiki",
+   "name": "藤木晶子",
+   "title": "北星学園大学 短期大学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_otomo",
+   "name": "大友秀治",
+   "title": "北星学園大学 社会福祉学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_ohara",
+   "name": "大原昌明",
+   "title": "北星学園大学 経済学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_oshima",
+   "name": "大島寿美子",
+   "title": "北星学園大学 文学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_cotter",
+   "name": "M.J.コッター",
+   "title": "北星学園大学 短期大学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_miyazaki",
+   "name": "宮崎靖士",
+   "title": "北星学園大学 社会福祉学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_yanagimachi",
+   "name": "柳町智治",
+   "title": "北星学園大学 文学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_urano",
+   "name": "浦野真理子",
+   "title": "北星学園大学 経済学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "h_kayano",
+   "name": "萱野智篤",
+   "title": "北星学園大学 経済学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北星学園大学"
+  },
+  {
+   "id": "n_sugiyama",
+   "name": "杉山敏啓",
+   "title": "日本大学 経済学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_sano",
+   "name": "佐野実",
+   "title": "日本大学 経済学部 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_narugo",
+   "name": "成合智子",
+   "title": "日本大学 経済学部 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_himejima",
+   "name": "姫嶋瑞穂",
+   "title": "日本大学 経済学部 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_yamada",
+   "name": "山田麻以",
+   "title": "日本大学 経済学部 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_iwase",
+   "name": "岩瀬祐介",
+   "title": "日本大学 経済学部 専任講師",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_horie",
+   "name": "堀江哲史",
+   "title": "日本大学 経済学部 専任講師",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_fukuda",
+   "name": "福田敦史",
+   "title": "日本大学 経済学部 専任講師",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  },
+  {
+   "id": "n_wakimoto",
+   "name": "脇本利紀",
+   "title": "日本大学 経済学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "日本大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "ts_isozaki",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 磯﨑憲一郎先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2023-11/interview17_0.pdf"
+  },
+  {
+   "id": "ts_morikawa",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 森川淳子先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2023-10/interview16.pdf"
+  },
+  {
+   "id": "ts_kajiwara",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 梶原将先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-10/interview15_0.pdf"
+  },
+  {
+   "id": "ts_ida",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 井田茂先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-09/interview14.pdf"
+  },
+  {
+   "id": "ts_watanabe",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 渡辺治先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-08/interview_13.pdf"
+  },
+  {
+   "id": "ts_masu",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 益一哉先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-12/haoqixinwochichixukete_4.pdf"
+  },
+  {
+   "id": "ts_yamada",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 山田功先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/renshengnobanlutonarubenwotanshite_0.pdf"
+  },
+  {
+   "id": "ts_yai",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 屋井鉄雄先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/dao_nofurofuetsushiyonaru_0.pdf"
+  },
+  {
+   "id": "ts_ito",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 伊藤亜紗先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/bentoouranxing_wancheng_3.pdf"
+  },
+  {
+   "id": "ts_kiyama",
+   "type": "article",
+   "media": "東京科学大学附属図書館",
+   "title": "人生を変えた1冊 木山ロリンダ先生",
+   "url": "https://www.libra.titech.ac.jp/sites/default/files/2020-01/renshengwobianeta1ce_mushanrorintarohatoson_0.pdf"
+  },
+  {
+   "id": "hs_tanaka",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "自分の感受性くらい | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/1793"
+  },
+  {
+   "id": "hs_fujiki",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "目の見えないアスリートの身体論 | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/1182"
+  },
+  {
+   "id": "hs_otomo",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "さぶ | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/1170"
+  },
+  {
+   "id": "hs_ohara",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "幕末の下級武士はなぜイギリスに骨を埋めたのか | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/1142"
+  },
+  {
+   "id": "hs_oshima",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "愛を知ったのは処刑に駆り立てられる日々の後だった | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/1076"
+  },
+  {
+   "id": "hs_cotter",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "アイヌの碑 | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/1059"
+  },
+  {
+   "id": "hs_miyazaki",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "事大主義 | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/944"
+  },
+  {
+   "id": "hs_yanagimachi",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "日本の川を旅する | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/899"
+  },
+  {
+   "id": "hs_urano",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "グローバリズム出づる処の殺人者より | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/831"
+  },
+  {
+   "id": "hs_kayano",
+   "type": "article",
+   "media": "北星学園大学図書館",
+   "title": "ドーナツ経済学が世界を救う | 北星学園大学図書館",
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/763"
+  },
+  {
+   "id": "ns_sugiyama",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 杉山敏啓（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/11/2025_2-lib.pdf"
+  },
+  {
+   "id": "ns_sano",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 佐野実（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_3-lib.pdf"
+  },
+  {
+   "id": "ns_narugo",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 成合智子（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_4-lib.pdf"
+  },
+  {
+   "id": "ns_himejima",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 姫嶋瑞穂（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_5-lib-1.pdf"
+  },
+  {
+   "id": "ns_yamada",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 山田麻以（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_6-lib.pdf"
+  },
+  {
+   "id": "ns_iwase",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 岩瀬祐介（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_7-lib.pdf"
+  },
+  {
+   "id": "ns_horie",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 堀江哲史（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_8-lib.pdf"
+  },
+  {
+   "id": "ns_fukuda",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 福田敦史（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_9-lib.pdf"
+  },
+  {
+   "id": "ns_wakimoto",
+   "type": "article",
+   "media": "日本大学経済学部図書館",
+   "title": "私のおすすめ本 脇本利紀（2025年度 教員のおすすめ本）",
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_11-lib.pdf"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "t_isozaki",
+   "sourceId": "ts_isozaki",
+   "book": {
+    "title": "百年の孤独",
+    "author": "ガブリエル・ガルシア=マルケス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_morikawa",
+   "sourceId": "ts_morikawa",
+   "book": {
+    "title": "方法序説",
+    "author": "デカルト"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_morikawa",
+   "sourceId": "ts_morikawa",
+   "book": {
+    "title": "独創は闘いにあり",
+    "author": "西澤潤一"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_morikawa",
+   "sourceId": "ts_morikawa",
+   "book": {
+    "title": "風姿花伝",
+    "author": "世阿弥"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_kajiwara",
+   "sourceId": "ts_kajiwara",
+   "book": {
+    "title": "思考の整理学",
+    "author": "外山滋比古"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_ida",
+   "sourceId": "ts_ida",
+   "book": {
+    "title": "邪宗門",
+    "author": "高橋和巳"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_ida",
+   "sourceId": "ts_ida",
+   "book": {
+    "title": "フラニーとズーイ",
+    "author": "サリンジャー"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_watanabe",
+   "sourceId": "ts_watanabe",
+   "book": {
+    "title": "計算の理論",
+    "author": "M.デーヴィス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_masu",
+   "sourceId": "ts_masu",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_masu",
+   "sourceId": "ts_masu",
+   "book": {
+    "title": "憲法講話",
+    "author": "宮沢俊義"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_yamada",
+   "sourceId": "ts_yamada",
+   "book": {
+    "title": "数学入門",
+    "author": "遠山啓"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_yamada",
+   "sourceId": "ts_yamada",
+   "book": {
+    "title": "数学・文化・人間",
+    "author": "遠山啓",
+    "edition": "遠山啓エッセンス7"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_yamada",
+   "sourceId": "ts_yamada",
+   "book": {
+    "title": "驚くこころ",
+    "author": "鶴見俊輔",
+    "edition": "ちくま哲学の森7"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_yamada",
+   "sourceId": "ts_yamada",
+   "book": {
+    "title": "悪人正機",
+    "author": "吉本隆明, 糸井重里"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_yai",
+   "sourceId": "ts_yai",
+   "book": {
+    "title": "ファウスト",
+    "author": "ゲーテ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_ito",
+   "sourceId": "ts_ito",
+   "book": {
+    "title": "リハビリの夜",
+    "author": "熊谷晋一郎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t_kiyama",
+   "sourceId": "ts_kiyama",
+   "book": {
+    "title": "睡眠こそ最強の解決策である",
+    "author": "マシュー・ウォーカー"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "h_tanaka",
+   "sourceId": "hs_tanaka",
+   "book": {
+    "title": "自分の感受性くらい",
+    "author": "茨木のり子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_fujiki",
+   "sourceId": "hs_fujiki",
+   "book": {
+    "title": "目の見えないアスリートの身体論",
+    "author": "伊藤亜紗",
+    "subtitle": "なぜ視覚なしでプレイできるのか"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_otomo",
+   "sourceId": "hs_otomo",
+   "book": {
+    "title": "さぶ",
+    "author": "山本周五郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_ohara",
+   "sourceId": "hs_ohara",
+   "book": {
+    "title": "幕末の下級武士はなぜイギリスに骨を埋めたのか",
+    "author": "村田寿美"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_oshima",
+   "sourceId": "hs_oshima",
+   "book": {
+    "title": "愛を知ったのは処刑に駆り立てられる日々の後だった",
+    "author": "舟越美夏"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_cotter",
+   "sourceId": "hs_cotter",
+   "book": {
+    "title": "アイヌの碑",
+    "author": "萱野茂"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_miyazaki",
+   "sourceId": "hs_miyazaki",
+   "book": {
+    "title": "事大主義",
+    "author": "室井康成",
+    "subtitle": "日本・朝鮮・沖縄の「自虐と侮蔑」"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_yanagimachi",
+   "sourceId": "hs_yanagimachi",
+   "book": {
+    "title": "日本の川を旅する",
+    "author": "野田知佑",
+    "subtitle": "カヌー単独行"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_urano",
+   "sourceId": "hs_urano",
+   "book": {
+    "title": "グローバリズム出づる処の殺人者より",
+    "author": "アラヴィンド・アディガ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "h_kayano",
+   "sourceId": "hs_kayano",
+   "book": {
+    "title": "ドーナツ経済学が世界を救う",
+    "author": "ケイト・ラワース",
+    "subtitle": "人類と地球のためのパラダイムシフト"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_sugiyama",
+   "sourceId": "ns_sugiyama",
+   "book": {
+    "title": "金利の歴史",
+    "author": "平山賢一",
+    "publisher": "中央経済社",
+    "edition": "2024年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_sugiyama",
+   "sourceId": "ns_sugiyama",
+   "book": {
+    "title": "物価の歴史",
+    "author": "平山賢一",
+    "publisher": "中央経済社",
+    "edition": "2024年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_sano",
+   "sourceId": "ns_sano",
+   "book": {
+    "title": "中国の歴史",
+    "author": "岸本美緒",
+    "publisher": "筑摩書房",
+    "edition": "2015年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_sano",
+   "sourceId": "ns_sano",
+   "book": {
+    "title": "蒼穹の昴",
+    "author": "浅田次郎",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_narugo",
+   "sourceId": "ns_narugo",
+   "book": {
+    "title": "キーエンス流性弱説経営",
+    "author": "高杉康成",
+    "subtitle": "人は善でも悪でもなく弱いものだと考えてみる",
+    "publisher": "日経BP",
+    "edition": "2024年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_narugo",
+   "sourceId": "ns_narugo",
+   "book": {
+    "title": "７０歳からの正しいわがまま",
+    "author": "平野国美",
+    "publisher": "サンマーク出版",
+    "edition": "2023年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_himejima",
+   "sourceId": "ns_himejima",
+   "book": {
+    "title": "カモのネギには毒がある",
+    "author": "夏原武, 甲斐谷忍",
+    "subtitle": "加茂教授の人間経済学講義",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_yamada",
+   "sourceId": "ns_yamada",
+   "book": {
+    "title": "予想どおりに不合理",
+    "author": "ダン・アリエリー",
+    "subtitle": "行動経済学が明かす「あなたがそれを選ぶわけ」",
+    "publisher": "早川書房",
+    "edition": "2010年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_yamada",
+   "sourceId": "ns_yamada",
+   "book": {
+    "title": "サクッと書けてネイティブっぽい インスタ英語日記",
+    "author": "maho",
+    "publisher": "Gakken",
+    "edition": "2023年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_iwase",
+   "sourceId": "ns_iwase",
+   "book": {
+    "title": "ヤバい経済学",
+    "author": "スティーブン・レヴィット, スティーブン・ダブナー",
+    "publisher": "東洋経済新報社",
+    "edition": "2007年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_iwase",
+   "sourceId": "ns_iwase",
+   "book": {
+    "title": "ミクロ経済学の力",
+    "author": "神取道宏",
+    "publisher": "日本評論社",
+    "edition": "2014年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_horie",
+   "sourceId": "ns_horie",
+   "book": {
+    "title": "アインシュタイン 相対性理論",
+    "author": "アインシュタイン",
+    "edition": "岩波文庫 1988年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_horie",
+   "sourceId": "ns_horie",
+   "book": {
+    "title": "鳥類学者 無謀にも恐竜を語る",
+    "author": "川上和人",
+    "edition": "新潮文庫 2018年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_fukuda",
+   "sourceId": "ns_fukuda",
+   "book": {
+    "title": "はじめて考えるときのように",
+    "author": "野矢茂樹",
+    "subtitle": "「わかる」ための哲学的道案内",
+    "edition": "PHP文庫 2004年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_fukuda",
+   "sourceId": "ns_fukuda",
+   "book": {
+    "title": "教養の書",
+    "author": "戸田山和久",
+    "publisher": "筑摩書房",
+    "edition": "2020年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_fukuda",
+   "sourceId": "ns_fukuda",
+   "book": {
+    "title": "科学的思考入門",
+    "author": "植原亮",
+    "edition": "講談社現代新書 2025年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n_wakimoto",
+   "sourceId": "ns_wakimoto",
+   "book": {
+    "title": "大学教育について",
+    "author": "ジョン・ステュアート・ミル",
+    "edition": "岩波文庫 2011年"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.libra.titech.ac.jp/about/interview",
+   "result": "index",
+   "reason": "図書館サポーター企画「人生を変えた1冊」。最新は第17回（2023-11）。全件数は未確認（一覧の末尾は2019年の第3回付近まで見えた）。新しい順の第17〜8回の10人を採用。個別記事はPDF、一覧に書名・著者・インタビュー紹介文あり。ISBNなし。"
+  },
+  {
+   "url": "https://opac.hokusei.ac.jp/library/senseinikiku",
+   "result": "index",
+   "reason": "先生のおすすめ本一覧。page=0,1の2ページ（1ページ約20件、各件1冊）。新しい順の10件を採用。個別ページは /library/ja/node/{番号}。ISBNなし。"
+  },
+  {
+   "url": "https://www.eco.nihon-u.ac.jp/library-news/60976/",
+   "result": "index",
+   "reason": "2025年度新任教員中心11名のエッセイ（PDF）。2025.11.05掲載。一覧は1ページ、各人のPDFに書名・出版社・年あり。ISBNなし。11人のうち10人（リケ〜中村）の順に確認し、書名のある人を採用、11人目の脇本も採用。"
+  },
+  {
+   "url": "https://opac.hokusei.ac.jp/library/ja/node/797",
+   "result": "rejected",
+   "reason": "洋書（The Martin Buber-Carl Rogers dialogue）のため除外",
+   "person": "田澤安弘"
+  },
+  {
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_1-lib.pdf",
+   "result": "rejected",
+   "reason": "洋書（英語の学術書）のみのため除外",
+   "person": "リケ"
+  },
+  {
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_10-lib.pdf",
+   "result": "rejected",
+   "reason": "エッセイは「わかりやすさ」論で、おすすめの書名がない（趣味の作家名のみ）",
+   "person": "中村大輔"
+  },
+  {
+   "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_11-lib.pdf",
+   "result": "candidate",
+   "reason": "一覧11人目。リケ・中村が書名なしで採用できなかったため、10人の枠に収まる範囲で採用（1冊）",
+   "person": "脇本利紀"
+  }
+ ]
+}

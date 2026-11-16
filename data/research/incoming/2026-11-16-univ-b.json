@@ -1,0 +1,752 @@
+{
+ "people": [
+  {
+   "id": "soka-ito",
+   "name": "伊藤貴雄",
+   "title": "創価大学 文学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-kawai",
+   "name": "川井秀樹",
+   "title": "創価大学 理工学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-hayashi",
+   "name": "林亮",
+   "title": "創価大学 文学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-doumae",
+   "name": "堂前豊",
+   "title": "創価大学 通信教育部 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-terada",
+   "name": "寺田和之",
+   "title": "創価大学 経済学部 講師",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-tamura",
+   "name": "田村伸子",
+   "title": "創価大学 法科大学院 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-naganuma",
+   "name": "長沼貴美",
+   "title": "創価大学 看護学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "soka-ikeda",
+   "name": "池田秀彦",
+   "title": "創価大学 法学部 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "創価大学"
+  },
+  {
+   "id": "swu-ihara",
+   "name": "井原奉明",
+   "title": "昭和女子大学 副学長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "昭和女子大学"
+  },
+  {
+   "id": "swu-ogawa",
+   "name": "小川睦美",
+   "title": "昭和女子大学 副学長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "昭和女子大学"
+  },
+  {
+   "id": "swu-tanaka",
+   "name": "田中奈緒子",
+   "title": "昭和女子大学 人間社会学部長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "昭和女子大学"
+  },
+  {
+   "id": "swu-yamanaka",
+   "name": "山中健太郎",
+   "title": "昭和女子大学 総合情報学部長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "昭和女子大学"
+  },
+  {
+   "id": "swu-kanao",
+   "name": "金尾朗",
+   "title": "昭和女子大学 学長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "昭和女子大学"
+  },
+  {
+   "id": "swu-yamamoto",
+   "name": "山本晶子",
+   "title": "昭和女子大学 副学長・図書館長",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "昭和女子大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "soka-s-ito",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」2024年度第1回：創価大学附属図書館 館長 伊藤貴雄先生",
+   "url": "https://lib.soka.ac.jp/cc0gou000000bix2.html",
+   "publishedAt": "2024-07-24"
+  },
+  {
+   "id": "soka-s-kawai",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」2024年度第2回：理工学部・フレイザー図書館分館長 川井秀樹先生",
+   "url": "https://lib.soka.ac.jp/cc0gou000000htmg.html",
+   "publishedAt": "2024-09-20"
+  },
+  {
+   "id": "soka-s-hayashi",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」第６回：文学部　林亮先生",
+   "url": "https://lib.soka.ac.jp/c396lg00000011j2.html",
+   "publishedAt": "2023-12-22"
+  },
+  {
+   "id": "soka-s-doumae",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」第５回：通信教育部　堂前豊先生",
+   "url": "https://lib.soka.ac.jp/lq2d4s000000kd4i.html",
+   "publishedAt": "2023-11-13"
+  },
+  {
+   "id": "soka-s-terada",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」第４回：経済学部　寺田和之先生",
+   "url": "https://lib.soka.ac.jp/lq2d4s000000i73u.html",
+   "publishedAt": "2023-10-25"
+  },
+  {
+   "id": "soka-s-tamura",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」第3回：法科大学院図書室 館長 田村伸子先生",
+   "url": "https://lib.soka.ac.jp/lq2d4s000000eedm.html",
+   "publishedAt": "2023-09-12"
+  },
+  {
+   "id": "soka-s-naganuma",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」第2回：白樺図書館 館長 長沼貴美先生",
+   "url": "https://lib.soka.ac.jp/lq2d4s00000090vk.html",
+   "publishedAt": "2023-07-04"
+  },
+  {
+   "id": "soka-s-ikeda",
+   "type": "article",
+   "media": "創価大学附属図書館",
+   "title": "SRPが聞く！「教員のおすすめ本」　第1回　図書館長 池田秀彦先生",
+   "url": "https://lib.soka.ac.jp/lq2d4s0000006ldu.html",
+   "publishedAt": "2023-06-09"
+  },
+  {
+   "id": "swu-s-2025k",
+   "type": "article",
+   "media": "昭和女子大学図書館ブログ",
+   "title": "教員おすすめ本コーナー2025〈後期〉",
+   "url": "https://content.swu.ac.jp/library-blog/2025/11/10/%E6%95%99%E5%93%A1%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%9C%AC%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC2025%E3%80%88%E5%BE%8C%E6%9C%9F%E3%80%89/",
+   "publishedAt": "2025-11-10"
+  },
+  {
+   "id": "swu-s-2026k",
+   "type": "article",
+   "media": "昭和女子大学図書館ブログ",
+   "title": "先生方の“推し本”が集結！2026年度後期「教員おすすめ本コーナー」スタート",
+   "url": "https://content.swu.ac.jp/library-blog/2026/11/16/%e5%85%88%e7%94%9f%e6%96%b9%e3%81%ae%e6%8e%a8%e3%81%97%e6%9c%ac%e3%81%8c%e9%9b%86%e7%b5%90%ef%bc%812026%e5%b9%b4%e5%ba%a6%e5%be%8c%e6%9c%9f%e3%80%8c%e6%95%99%e5%93%a1%e3%81%8a/",
+   "publishedAt": "2026-11-16"
+  },
+  {
+   "id": "swu-s-2025z",
+   "type": "article",
+   "media": "昭和女子大学図書館ブログ",
+   "title": "教員おすすめ本コーナー2025",
+   "url": "https://content.swu.ac.jp/library-blog/2025/05/21/%e6%95%99%e5%93%a1%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%9c%ac%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc2025/",
+   "publishedAt": "2025-05-21"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "soka-ito",
+   "sourceId": "soka-s-ito",
+   "book": {
+    "title": "道徳形而上学の基礎づけ",
+    "author": "カント",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ito",
+   "sourceId": "soka-s-ito",
+   "book": {
+    "title": "読書について",
+    "author": "ショーペンハウアー",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ito",
+   "sourceId": "soka-s-ito",
+   "book": {
+    "title": "ツァラトゥストラはこう言った",
+    "author": "フリードリヒ・ニーチェ",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ito",
+   "sourceId": "soka-s-ito",
+   "book": {
+    "title": "リヴァイアサン",
+    "author": "トマス・ホッブズ",
+    "publisher": "筑摩書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ito",
+   "sourceId": "soka-s-ito",
+   "book": {
+    "title": "後世への最大遺物",
+    "author": "内村鑑三",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-kawai",
+   "sourceId": "soka-s-kawai",
+   "book": {
+    "title": "レ・ミゼラブル",
+    "author": "ヴィクトル・ユゴー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-kawai",
+   "sourceId": "soka-s-kawai",
+   "book": {
+    "title": "永遠の都",
+    "author": "ホール・ケイン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-kawai",
+   "sourceId": "soka-s-kawai",
+   "book": {
+    "title": "「生命の世紀」への探求",
+    "author": "L.ポーリング, 池田大作",
+    "subtitle": "科学と平和と健康と"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-kawai",
+   "sourceId": "soka-s-kawai",
+   "book": {
+    "title": "まちがえる脳",
+    "author": "櫻井芳雄"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-kawai",
+   "sourceId": "soka-s-kawai",
+   "book": {
+    "title": "悩み方の作法",
+    "author": "和田秀樹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-hayashi",
+   "sourceId": "soka-s-hayashi",
+   "book": {
+    "title": "国際紛争",
+    "author": "ジョセフ・S・ナイ・ジュニア, デイヴィッド・A・ウェルチ",
+    "subtitle": "理論と歴史"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-hayashi",
+   "sourceId": "soka-s-hayashi",
+   "book": {
+    "title": "リベラリズムへの不満",
+    "author": "フランシス・フクヤマ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-hayashi",
+   "sourceId": "soka-s-hayashi",
+   "book": {
+    "title": "教養としてのギリシャ・ローマ",
+    "author": "中村聡一",
+    "subtitle": "名門コロンビア大学で学んだリベラルアーツの真髄"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-doumae",
+   "sourceId": "soka-s-doumae",
+   "book": {
+    "title": "二十世紀の精神の教訓",
+    "author": "池田大作, M.S.ゴルバチョフ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-doumae",
+   "sourceId": "soka-s-doumae",
+   "book": {
+    "title": "138億光年宇宙の旅",
+    "author": "岡本典明"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-doumae",
+   "sourceId": "soka-s-doumae",
+   "book": {
+    "title": "経済学大図鑑",
+    "author": "ナイアル・キシテイニー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-doumae",
+   "sourceId": "soka-s-doumae",
+   "book": {
+    "title": "岩井克人「欲望の貨幣論」を語る",
+    "author": "丸山俊一, NHK「欲望の資本主義」制作班"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-terada",
+   "sourceId": "soka-s-terada",
+   "book": {
+    "title": "舟を編む",
+    "author": "三浦しをん"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-terada",
+   "sourceId": "soka-s-terada",
+   "book": {
+    "title": "カルチャロミクス",
+    "author": "エレツ・エイデン, ジャン=バティースト・ミシェル",
+    "subtitle": "文化をビッグデータで計測する"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-terada",
+   "sourceId": "soka-s-terada",
+   "book": {
+    "title": "BAD DATA",
+    "author": "ピーター・シュライバー",
+    "subtitle": "統計データの落とし穴～その数字は真実を語るのか？～"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-terada",
+   "sourceId": "soka-s-terada",
+   "book": {
+    "title": "デタラメ",
+    "author": "カール・T・バーグストローム, ジェヴィン・D・ウエスト",
+    "subtitle": "データ社会の嘘を見抜く"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-terada",
+   "sourceId": "soka-s-terada",
+   "book": {
+    "title": "大学の人気講義でよく分かる「ミクロ経済学」超入門",
+    "author": "田中久稔"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-tamura",
+   "sourceId": "soka-s-tamura",
+   "book": {
+    "title": "高村光太郎詩集",
+    "author": "高村光太郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-tamura",
+   "sourceId": "soka-s-tamura",
+   "book": {
+    "title": "孤宿の人",
+    "author": "宮部みゆき"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-tamura",
+   "sourceId": "soka-s-tamura",
+   "book": {
+    "title": "生物と無生物のあいだ",
+    "author": "福岡伸一"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-tamura",
+   "sourceId": "soka-s-tamura",
+   "book": {
+    "title": "殺人犯はそこにいる",
+    "author": "清水潔",
+    "subtitle": "隠蔽された北関東連続幼女誘拐殺人事件"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-tamura",
+   "sourceId": "soka-s-tamura",
+   "book": {
+    "title": "女ぎらい",
+    "author": "上野千鶴子",
+    "subtitle": "ニッポンのミソジニー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-naganuma",
+   "sourceId": "soka-s-naganuma",
+   "book": {
+    "title": "地球平和への探究",
+    "author": "池田大作, ジョセフ・ロートブラット"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-naganuma",
+   "sourceId": "soka-s-naganuma",
+   "book": {
+    "title": "ひまわりは枯れてこそ実を結ぶ",
+    "author": "堀文子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-naganuma",
+   "sourceId": "soka-s-naganuma",
+   "book": {
+    "title": "新古今和歌集",
+    "author": "小林大輔",
+    "subtitle": "ビギナーズ・クラシックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-naganuma",
+   "sourceId": "soka-s-naganuma",
+   "book": {
+    "title": "考えすぎる脳、楽をしたい遺伝子",
+    "author": "長沼毅"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ikeda",
+   "sourceId": "soka-s-ikeda",
+   "book": {
+    "title": "二十一世紀への対話",
+    "author": "池田大作, アーノルド・トインビー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ikeda",
+   "sourceId": "soka-s-ikeda",
+   "book": {
+    "title": "三国志",
+    "author": "吉川英治",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ikeda",
+   "sourceId": "soka-s-ikeda",
+   "book": {
+    "title": "罪と罰",
+    "author": "ドストエフスキー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ikeda",
+   "sourceId": "soka-s-ikeda",
+   "book": {
+    "title": "宣告",
+    "author": "加賀乙彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "soka-ikeda",
+   "sourceId": "soka-s-ikeda",
+   "book": {
+    "title": "よき時を思う",
+    "author": "宮本輝"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-ogawa",
+   "sourceId": "swu-s-2025k",
+   "book": {
+    "title": "僕には鳥の言葉がわかる",
+    "author": "鈴木俊貴"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-tanaka",
+   "sourceId": "swu-s-2025k",
+   "book": {
+    "title": "アルジャーノンに花束を",
+    "author": "ダニエル・キイス",
+    "edition": "新版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-ihara",
+   "sourceId": "swu-s-2026k",
+   "book": {
+    "title": "解きたくなる数学",
+    "author": "佐藤雅彦, 大島遼, 廣瀬隼也"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-ihara",
+   "sourceId": "swu-s-2026k",
+   "book": {
+    "title": "記号論への招待",
+    "author": "池上嘉彦",
+    "edition": "岩波新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-ihara",
+   "sourceId": "swu-s-2026k",
+   "book": {
+    "title": "哲学の謎",
+    "author": "野矢茂樹",
+    "edition": "新版 講談社現代新書"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-ogawa",
+   "sourceId": "swu-s-2026k",
+   "book": {
+    "title": "さばの缶づめ、宇宙へいく",
+    "author": "小坂康之, 林公代",
+    "subtitle": "鯖街道を宇宙へつなげた高校生たち"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-yamanaka",
+   "sourceId": "swu-s-2026k",
+   "book": {
+    "title": "サピエンス全史 上",
+    "author": "ユヴァル・ノア・ハラリ",
+    "subtitle": "文明の構造と人類の幸福"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-kanao",
+   "sourceId": "swu-s-2025z",
+   "book": {
+    "title": "このとき、夜のはずれで、サイレンが鳴った",
+    "author": "原広司, 吉見俊哉"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "swu-yamamoto",
+   "sourceId": "swu-s-2025z",
+   "book": {
+    "title": "ギョッとする江戸の絵画",
+    "author": "辻惟雄"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.dokkyo.ac.jp/library/search/suisen.html",
+   "result": "rejected",
+   "reason": "獨協大学の教員推薦図書の説明ページ。教員ごとの推薦図書は蔵書検索OPACの詳細検索（教員を選択）でしか見られず、ページ上に教員名と本の対応が無い"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/cc0gou000000bix2.html",
+   "result": "index",
+   "reason": "創価大学「SRPが聞く！教員のおすすめ本」シリーズの2024年度第1回（伊藤貴雄）。同シリーズは2023年度第1〜6回、2024年度第1〜2回の計8人を確認。2025年のイベント一覧には該当なし。8人全員を取得",
+   "person": "伊藤貴雄"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/cc0gou000000htmg.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "川井秀樹"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/c396lg00000011j2.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "林亮"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/lq2d4s000000kd4i.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "堂前豊"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/lq2d4s000000i73u.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "寺田和之"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/lq2d4s000000eedm.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "田村伸子"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/lq2d4s00000090vk.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "長沼貴美"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/lq2d4s0000006ldu.html",
+   "result": "candidate",
+   "reason": "教員個別ページ。氏名・所属・おすすめ本リストが本文にある",
+   "person": "池田秀彦"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/news/2023/event_index.html",
+   "result": "index",
+   "reason": "創価大学図書館 Event一覧 2023年。教員のおすすめ本シリーズの探索に使用"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/news/2024/event_index.html",
+   "result": "index",
+   "reason": "創価大学図書館 Event一覧 2024年。教員のおすすめ本シリーズの探索に使用"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/news/2025/event_index.html",
+   "result": "index",
+   "reason": "創価大学図書館 Event一覧 2025年。教員のおすすめ本シリーズの探索に使用"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/news/2026/event_index.html",
+   "result": "index",
+   "reason": "創価大学図書館 Event一覧 2026年。教員のおすすめ本シリーズの探索に使用"
+  },
+  {
+   "url": "https://lib.soka.ac.jp/ocpdsm0000002fxj.html",
+   "result": "rejected",
+   "reason": "「哲学教員が語る『私の一冊』」の開催レポート。5名の教員名と本は画像でしか示されず、本文に対応が無い"
+  },
+  {
+   "url": "https://content.swu.ac.jp/library-blog/category/%e6%95%99%e5%93%a1%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%9c%ac/",
+   "result": "index",
+   "reason": "昭和女子大学図書館ブログ「教員おすすめ本」カテゴリ。2025前期、2025後期、2026前期、2026後期の4回の展示記事を取得（ほかに2021年の理事長・学長・副学長編と2026-07-06の理事長著書展示は未取得）"
+  },
+  {
+   "url": "https://content.swu.ac.jp/library-blog/2025/11/10/%E6%95%99%E5%93%A1%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%9C%AC%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC2025%E3%80%88%E5%BE%8C%E6%9C%9F%E3%80%89/",
+   "result": "candidate",
+   "reason": "昭和女子大学 2025年度後期の展示。教員3名の名前と本が本文にある"
+  },
+  {
+   "url": "https://content.swu.ac.jp/library-blog/2026/11/16/%e5%85%88%e7%94%9f%e6%96%b9%e3%81%ae%e6%8e%a8%e3%81%97%e6%9c%ac%e3%81%8c%e9%9b%86%e7%b5%90%ef%bc%812026%e5%b9%b4%e5%ba%a6%e5%be%8c%e6%9c%9f%e3%80%8c%e6%95%99%e5%93%a1%e3%81%8a/",
+   "result": "candidate",
+   "reason": "昭和女子大学 2026年度後期の展示。井原奉明・小川睦美・山中健太郎の名前と本が本文にある"
+  },
+  {
+   "url": "https://content.swu.ac.jp/library-blog/2025/05/21/%e6%95%99%e5%93%a1%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%9c%ac%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc2025/",
+   "result": "candidate",
+   "reason": "昭和女子大学 2025年度前期の展示。金尾朗・山本晶子（嶺田明美は著者名の表記に疑義があり除外）"
+  },
+  {
+   "url": "https://content.swu.ac.jp/library-blog/2026/04/27/__trashed-2/",
+   "result": "candidate",
+   "reason": "昭和女子大学 2026年度前期の展示。金尾朗・山本晶子・今井晶子"
+  }
+ ]
+}

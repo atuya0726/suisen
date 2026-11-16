@@ -8634,5 +8634,552 @@
     "title": "読書ナビ＜おすすめの10冊＞ 歴史に親しむ10冊",
     "url": "https://library.rikkyo.ac.jp/learning/books/058/",
     "publishedAt": "2018-07-10"
+  },
+  {
+    "id": "js-osaka",
+    "type": "article",
+    "media": "大阪大学 現代日本学・日本学研究室",
+    "title": "研究室が選ぶおすすめ本",
+    "url": "https://japanese-studies.jp/recommended_books/"
+  },
+  {
+    "id": "src-sahara",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第292回：佐原ひかり",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi292_sahara/",
+    "publishedAt": "2026-10-23"
+  },
+  {
+    "id": "src-nomiya",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第289回：野宮有",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi289_nomiya/",
+    "publishedAt": "2026-07-24"
+  },
+  {
+    "id": "src-sunamura",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第291回：砂村かいり",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi291_sunamura/",
+    "publishedAt": "2026-09-25"
+  },
+  {
+    "id": "src-yuuki",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第290回：夕木春央",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi290_yuuki/",
+    "publishedAt": "2026-08-28"
+  },
+  {
+    "id": "src-mori",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第288回：森バジル",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi288_mori/",
+    "publishedAt": "2026-06-26"
+  },
+  {
+    "id": "src-natsukawa",
+    "type": "interview",
+    "media": "WEB本の雑誌",
+    "title": "作家の読書道 第287回：夏川草介",
+    "url": "https://www.webdoku.jp/rensai/sakka/michi287_natsukawa/",
+    "publishedAt": "2026-05-22"
+  },
+  {
+    "id": "asahi14822475",
+    "type": "article",
+    "media": "好書好日",
+    "title": "見えない壁を超えていくために　谷原章介さんが共感した３人の３冊",
+    "url": "https://book.asahi.com/article/14822475",
+    "publishedAt": "2023-01-27"
+  },
+  {
+    "id": "asahi14678604",
+    "type": "article",
+    "media": "好書好日",
+    "title": "谷原章介さんの「ほんとうに大切なこと」が伝わる３冊　何げない日々の暮らしを大事に生きる",
+    "url": "https://book.asahi.com/article/14678604",
+    "publishedAt": "2022-07-29"
+  },
+  {
+    "id": "asahi16374639",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】ユヴァル・ノア・ハラリ「サピエンス全史」　「虚構」を軸に人類史をとらえ直すと",
+    "url": "https://book.asahi.com/article/16374639",
+    "publishedAt": "2026-02-27"
+  },
+  {
+    "id": "asahi15020994",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】江口寿史画集「step１＆２　江口寿史スペシャルセット」　日本のポップカルチャーの変遷を体感できるイラストを堪能",
+    "url": "https://book.asahi.com/article/15020994",
+    "publishedAt": "2023-10-06"
+  },
+  {
+    "id": "note-n7482535b1bdc-36cd50",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第３回】「作家の本棚」顎木あくみ先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/n7482535b1bdc",
+    "publishedAt": "2025-07-22"
+  },
+  {
+    "id": "asahi16495845",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】長瀬ほのか「わざわざ書くほどのことだ」　対照的なふたり、軽妙なエッセイに",
+    "url": "https://book.asahi.com/article/16495845",
+    "publishedAt": "2026-04-24"
+  },
+  {
+    "id": "asahi16994500",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】　山田五郎「世界一やばい西洋絵画の見方入門」　好きなものを面白がって伝える楽しさ",
+    "url": "https://book.asahi.com/article/16994500",
+    "publishedAt": "2026-10-30"
+  },
+  {
+    "id": "note-n531b589cc07d-2edf4b",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第6回】「作家の本棚」雪村花菜先生の選ぶ12冊",
+    "url": "https://note.com/fujimi_l_note/n/n531b589cc07d",
+    "publishedAt": "2025-10-20"
+  },
+  {
+    "id": "note-ne1a0b05cb9ff-300085",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第7回】「作家の本棚」佐々木禎子先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/ne1a0b05cb9ff",
+    "publishedAt": "2025-11-20"
+  },
+  {
+    "id": "asahi14532058",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原章介店長のオススメ】中山七里「人面瘡探偵」　「大どんでん返しの帝王」が放つ奇想天外なミステリー",
+    "url": "https://book.asahi.com/article/14532058",
+    "publishedAt": "2022-01-28"
+  },
+  {
+    "id": "asahi15587546",
+    "type": "article",
+    "media": "好書好日",
+    "title": "困難な時代こそ真摯に人生と向き合う　谷原章介さんが共感した３人の３冊",
+    "url": "https://book.asahi.com/article/15587546",
+    "publishedAt": "2025-01-31"
+  },
+  {
+    "id": "asahi14649290",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原章介店長のオススメ】ひうち棚「急がなくてもよいことを」　いとおしい記憶、しみじみと味わう",
+    "url": "https://book.asahi.com/article/14649290",
+    "publishedAt": "2022-06-24"
+  },
+  {
+    "id": "asahi14556439",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原章介店長のオススメ】東海林さだお「大衆食堂に行こう」　人間観察の細やかさからユーモアが生まれる",
+    "url": "https://book.asahi.com/article/14556439",
+    "publishedAt": "2022-02-25"
+  },
+  {
+    "id": "asahi16830720",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】アイザック・アシモフ著、小尾芙佐訳「われはロボット〔決定版〕」　その先見性を我が事としてとらえ直す時代に",
+    "url": "https://book.asahi.com/article/16830720",
+    "publishedAt": "2026-08-28"
+  },
+  {
+    "id": "note-na2e7db850232-804e0e",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第9回】「作家の本棚」秋田みやび先生の選ぶ12冊",
+    "url": "https://note.com/fujimi_l_note/n/na2e7db850232",
+    "publishedAt": "2026-01-20"
+  },
+  {
+    "id": "note-n64d62a8a3388-4bc080",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第10回】「作家の本棚」美月りん先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/n64d62a8a3388",
+    "publishedAt": "2026-03-10"
+  },
+  {
+    "id": "asahi16652008",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】世阿弥・著、水野聡・訳「現代語訳 風姿花伝」　佐藤二朗さんの「花」を思う",
+    "url": "https://book.asahi.com/article/16652008",
+    "publishedAt": "2026-06-26"
+  },
+  {
+    "id": "asahi16911529",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】　坂上暁仁「神田ごくら町職人ばなし」　仕事に向き合う心意気を描ききる",
+    "url": "https://book.asahi.com/article/16911529",
+    "publishedAt": "2026-09-29"
+  },
+  {
+    "id": "asahi16170876",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】馬場正尊「あしたの風景を探しに」　建物と街の未来を考えるヒントに満ちている",
+    "url": "https://book.asahi.com/article/16170876",
+    "publishedAt": "2025-11-28"
+  },
+  {
+    "id": "asahi16434327",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】岡崎京子「東京ガールズブラボー」　きらびやかだけど、うたかたの夢のようだった「東京」の青春",
+    "url": "https://book.asahi.com/article/16434327",
+    "publishedAt": "2026-03-31"
+  },
+  {
+    "id": "asahi16234149",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】斉木久美子「かげきしょうじょ！！」　「演じること」を人生に選んだ者たちの人間ドラマを掘り下げる",
+    "url": "https://book.asahi.com/article/16234149",
+    "publishedAt": "2025-12-27"
+  },
+  {
+    "id": "asahi16574165",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】児島青「本なら売るほど」　本を起点にひろがる人間ドラマに感銘",
+    "url": "https://book.asahi.com/article/16574165",
+    "publishedAt": "2026-05-26"
+  },
+  {
+    "id": "asahi14992105",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】ヤマシタトモコ「違国日記」完結　人がつながる奇跡、描ききった",
+    "url": "https://book.asahi.com/article/14992105",
+    "publishedAt": "2023-09-01"
+  },
+  {
+    "id": "note-nb7f7ade0df0a-baac80",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第５回】「作家の本棚」道草家守先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/nb7f7ade0df0a",
+    "publishedAt": "2025-09-19"
+  },
+  {
+    "id": "note-ncadcc774b26c-a999ff",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第8回】「作家の本棚」唐澤和希先生の選ぶ10冊",
+    "url": "https://note.com/fujimi_l_note/n/ncadcc774b26c",
+    "publishedAt": "2025-12-19"
+  },
+  {
+    "id": "note-nd2be1e3c7a98-c53e57",
+    "type": "article",
+    "media": "富士見L文庫（note）",
+    "title": "【第４回】「作家の本棚」竹岡葉月先生の推し料理本",
+    "url": "https://note.com/fujimi_l_note/n/nd2be1e3c7a98",
+    "publishedAt": "2025-08-20"
+  },
+  {
+    "id": "ns-horie-b8b07f",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 堀江哲史（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_8-lib.pdf"
+  },
+  {
+    "id": "hs-cotter-d8f479",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "アイヌの碑 | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1059"
+  },
+  {
+    "id": "hs-otomo-9fdd58",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "さぶ | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1170"
+  },
+  {
+    "id": "ts-ida-2027a1",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 井田茂先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-09/interview14.pdf"
+  },
+  {
+    "id": "ts-isozaki-de3938",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 磯﨑憲一郎先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2023-11/interview17_0.pdf"
+  },
+  {
+    "id": "ns-iwase-48cbdd",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 岩瀬祐介（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_7-lib.pdf"
+  },
+  {
+    "id": "ns-yamada-291279",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 山田麻以（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_6-lib.pdf"
+  },
+  {
+    "id": "ts-masu-a09169",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 益一哉先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-12/haoqixinwochichixukete_4.pdf"
+  },
+  {
+    "id": "ns-narugo-7f927b",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 成合智子（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_4-lib.pdf"
+  },
+  {
+    "id": "ts-morikawa-98970a",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 森川淳子先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2023-10/interview16.pdf"
+  },
+  {
+    "id": "ts-kajiwara-1f60fd",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 梶原将先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-10/interview15_0.pdf"
+  },
+  {
+    "id": "ns-sugiyama-5c2a4a",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 杉山敏啓（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/11/2025_2-lib.pdf"
+  },
+  {
+    "id": "hs-tanaka-7d3625",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "自分の感受性くらい | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1793"
+  },
+  {
+    "id": "hs-urano-8d8386",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "グローバリズム出づる処の殺人者より | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/831"
+  },
+  {
+    "id": "ns-sano-53f68a",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 佐野実（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_3-lib.pdf"
+  },
+  {
+    "id": "hs-miyazaki-5c0f96",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "事大主義 | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/944"
+  },
+  {
+    "id": "hs-fujiki-bcb29b",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "目の見えないアスリートの身体論 | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1182"
+  },
+  {
+    "id": "hs-yanagimachi-3ec9f1",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "日本の川を旅する | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/899"
+  },
+  {
+    "id": "ts-ito-8e65a6",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 伊藤亜紗先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/bentoouranxing_wancheng_3.pdf"
+  },
+  {
+    "id": "ts-yamada-200146",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 山田功先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/renshengnobanlutonarubenwotanshite_0.pdf"
+  },
+  {
+    "id": "hs-kayano-a5339b",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "ドーナツ経済学が世界を救う | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/763"
+  },
+  {
+    "id": "hs-oshima-b08e6e",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "愛を知ったのは処刑に駆り立てられる日々の後だった | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1076"
+  },
+  {
+    "id": "ns-fukuda-aeb057",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 福田敦史（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_9-lib.pdf"
+  },
+  {
+    "id": "ts-yai-968ac1",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 屋井鉄雄先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/dao_nofurofuetsushiyonaru_0.pdf"
+  },
+  {
+    "id": "hs-ohara-daa0db",
+    "type": "article",
+    "media": "北星学園大学図書館",
+    "title": "幕末の下級武士はなぜイギリスに骨を埋めたのか | 北星学園大学図書館",
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1142"
+  },
+  {
+    "id": "soka-s-ikeda",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」　第1回　図書館長 池田秀彦先生",
+    "url": "https://lib.soka.ac.jp/lq2d4s0000006ldu.html",
+    "publishedAt": "2023-06-09"
+  },
+  {
+    "id": "soka-s-ito",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」2024年度第1回：創価大学附属図書館 館長 伊藤貴雄先生",
+    "url": "https://lib.soka.ac.jp/cc0gou000000bix2.html",
+    "publishedAt": "2024-07-24"
+  },
+  {
+    "id": "swu-s-2026k",
+    "type": "article",
+    "media": "昭和女子大学図書館ブログ",
+    "title": "先生方の“推し本”が集結！2026年度後期「教員おすすめ本コーナー」スタート",
+    "url": "https://content.swu.ac.jp/library-blog/2026/11/16/%e5%85%88%e7%94%9f%e6%96%b9%e3%81%ae%e6%8e%a8%e3%81%97%e6%9c%ac%e3%81%8c%e9%9b%86%e7%b5%90%ef%bc%812026%e5%b9%b4%e5%ba%a6%e5%be%8c%e6%9c%9f%e3%80%8c%e6%95%99%e5%93%a1%e3%81%8a/",
+    "publishedAt": "2026-11-16"
+  },
+  {
+    "id": "soka-s-doumae",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」第５回：通信教育部　堂前豊先生",
+    "url": "https://lib.soka.ac.jp/lq2d4s000000kd4i.html",
+    "publishedAt": "2023-11-13"
+  },
+  {
+    "id": "soka-s-naganuma",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」第2回：白樺図書館 館長 長沼貴美先生",
+    "url": "https://lib.soka.ac.jp/lq2d4s00000090vk.html",
+    "publishedAt": "2023-07-04"
+  },
+  {
+    "id": "soka-s-terada",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」第４回：経済学部　寺田和之先生",
+    "url": "https://lib.soka.ac.jp/lq2d4s000000i73u.html",
+    "publishedAt": "2023-10-25"
+  },
+  {
+    "id": "swu-s-2025k",
+    "type": "article",
+    "media": "昭和女子大学図書館ブログ",
+    "title": "教員おすすめ本コーナー2025〈後期〉",
+    "url": "https://content.swu.ac.jp/library-blog/2025/11/10/%E6%95%99%E5%93%A1%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%9C%AC%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC2025%E3%80%88%E5%BE%8C%E6%9C%9F%E3%80%89/",
+    "publishedAt": "2025-11-10"
+  },
+  {
+    "id": "soka-s-kawai",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」2024年度第2回：理工学部・フレイザー図書館分館長 川井秀樹先生",
+    "url": "https://lib.soka.ac.jp/cc0gou000000htmg.html",
+    "publishedAt": "2024-09-20"
+  },
+  {
+    "id": "soka-s-hayashi",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」第６回：文学部　林亮先生",
+    "url": "https://lib.soka.ac.jp/c396lg00000011j2.html",
+    "publishedAt": "2023-12-22"
+  },
+  {
+    "id": "soka-s-tamura",
+    "type": "article",
+    "media": "創価大学附属図書館",
+    "title": "SRPが聞く！「教員のおすすめ本」第3回：法科大学院図書室 館長 田村伸子先生",
+    "url": "https://lib.soka.ac.jp/lq2d4s000000eedm.html",
+    "publishedAt": "2023-09-12"
+  },
+  {
+    "id": "swu-s-2025z",
+    "type": "article",
+    "media": "昭和女子大学図書館ブログ",
+    "title": "教員おすすめ本コーナー2025",
+    "url": "https://content.swu.ac.jp/library-blog/2025/05/21/%e6%95%99%e5%93%a1%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%9c%ac%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc2025/",
+    "publishedAt": "2025-05-21"
+  },
+  {
+    "id": "ns-wakimoto-588885",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 脇本利紀（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_11-lib.pdf"
+  },
+  {
+    "id": "ts-kiyama-5ac2fe",
+    "type": "article",
+    "media": "東京科学大学附属図書館",
+    "title": "人生を変えた1冊 木山ロリンダ先生",
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2020-01/renshengwobianeta1ce_mushanrorintarohatoson_0.pdf"
+  },
+  {
+    "id": "ns-himejima-cc9540",
+    "type": "article",
+    "media": "日本大学経済学部図書館",
+    "title": "私のおすすめ本 姫嶋瑞穂（2025年度 教員のおすすめ本）",
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_5-lib-1.pdf"
   }
 ]

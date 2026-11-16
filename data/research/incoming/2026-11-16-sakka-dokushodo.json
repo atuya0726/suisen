@@ -1,0 +1,724 @@
+{
+ "people": [
+  {
+   "id": "sahara",
+   "name": "佐原ひかり",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sunamura",
+   "name": "砂村かいり",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "yuuki",
+   "name": "夕木春央",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nomiya",
+   "name": "野宮有",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "mori",
+   "name": "森バジル",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "natsukawa",
+   "name": "夏川草介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-sahara",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第292回：佐原ひかり",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi292_sahara/",
+   "publishedAt": "2026-10-23"
+  },
+  {
+   "id": "src-sunamura",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第291回：砂村かいり",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi291_sunamura/",
+   "publishedAt": "2026-09-25"
+  },
+  {
+   "id": "src-yuuki",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第290回：夕木春央",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi290_yuuki/",
+   "publishedAt": "2026-08-28"
+  },
+  {
+   "id": "src-nomiya",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第289回：野宮有",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi289_nomiya/",
+   "publishedAt": "2026-07-24"
+  },
+  {
+   "id": "src-mori",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第288回：森バジル",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi288_mori/",
+   "publishedAt": "2026-06-26"
+  },
+  {
+   "id": "src-natsukawa",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第287回：夏川草介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi287_natsukawa/",
+   "publishedAt": "2026-05-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "時をさまようタック",
+    "author": "ナタリー・バビット",
+    "publisher": "評論社",
+    "edition": "評論社の児童図書館・文学の部屋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "凍りのくじら",
+    "author": "辻村深月",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "日傘のお兄さん",
+    "author": "豊島ミホ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "麦の海に沈む果実",
+    "author": "恩田陸",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "地図と拳 上",
+    "author": "小川哲",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "テスカトリポカ",
+    "author": "佐藤究",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "微熱期",
+    "author": "峯澤典子",
+    "publisher": "思潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "息",
+    "author": "小池水音",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "デルフィニア戦記",
+    "author": "茅田砂胡",
+    "edition": "シリーズ",
+    "publisher": "中央公論新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sahara",
+   "sourceId": "src-sahara",
+   "book": {
+    "title": "クレヨン王国",
+    "author": "福永令三",
+    "edition": "シリーズ",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "あたしのエイリアン",
+    "author": "津原やすみ",
+    "edition": "シリーズ",
+    "publisher": "ボイジャー・プレス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "物語が、始まる",
+    "author": "川上弘美",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "パイロットフィッシュ",
+    "author": "大崎善生",
+    "publisher": "角川書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "きみはポラリス",
+    "author": "三浦しをん",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "泣かない女はいない",
+    "author": "長嶋有",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "なにかが首のまわりに",
+    "author": "チママンダ・ンゴズィ・アディーチェ",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "記念日",
+    "author": "青山七恵",
+    "publisher": "集英社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "切羽へ",
+    "author": "井上荒野",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "臨死!!江古田ちゃん",
+    "author": "瀧波ユカリ",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunamura",
+   "sourceId": "src-sunamura",
+   "book": {
+    "title": "ボッコちゃん",
+    "author": "星新一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "ドグラ・マグラ 上",
+    "author": "夢野久作",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "豊穣の海",
+    "author": "三島由紀夫",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "神聖喜劇",
+    "author": "大西巨人"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "密告者",
+    "author": "高木彬光",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "狂骨の夢",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "ホッグ連続殺人",
+    "author": "ウィリアム・L・デアンドリア",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "赤毛のアン",
+    "author": "L・M・モンゴメリ",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "木曜日だった男",
+    "author": "G・K・チェスタトン",
+    "publisher": "光文社",
+    "edition": "光文社古典新訳文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "妖異金瓶梅",
+    "author": "山田風太郎",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuuki",
+   "sourceId": "src-yuuki",
+   "book": {
+    "title": "人形はなぜ殺される",
+    "author": "高木彬光",
+    "publisher": "光文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "地獄堂霊界通信",
+    "author": "香月日輪",
+    "edition": "シリーズ",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "GOTH",
+    "author": "乙一",
+    "subtitle": "リストカット事件",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "重力ピエロ",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "逃亡作法 上",
+    "author": "東山彰良",
+    "subtitle": "TURD ON THE RUN",
+    "publisher": "宝島社",
+    "edition": "宝島社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "ドラゴン桜",
+    "author": "三田紀房",
+    "edition": "シリーズ",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "罪の終わり",
+    "author": "東山彰良",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "掏摸",
+    "author": "中村文則",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "恐怖小説キリカ",
+    "author": "澤村伊智",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nomiya",
+   "sourceId": "src-nomiya",
+   "book": {
+    "title": "明るい夜に出かけて",
+    "author": "佐藤多佳子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "方舟",
+    "author": "夕木春央",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "地雷グリコ",
+    "author": "青崎有吾",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "呼人は旅をする",
+    "author": "長谷川まりる",
+    "publisher": "偕成社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "万事快調",
+    "author": "波木銅",
+    "subtitle": "オール・グリーンズ",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "ワニの町に来たスパイ",
+    "author": "ジャナ・デリオン",
+    "edition": "シリーズ",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "容姿の時代",
+    "author": "酒井順子",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "HUNTER×HUNTER",
+    "author": "冨樫義博",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "mori",
+   "sourceId": "src-mori",
+   "book": {
+    "title": "NARUTO",
+    "author": "岸本斉史",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "太公望",
+    "author": "宮城谷昌光",
+    "edition": "シリーズ",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "月は無慈悲な夜の女王",
+    "author": "ロバート・A・ハインライン",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "はてしない物語",
+    "author": "ミヒャエル・エンデ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "狐笛のかなた",
+    "author": "上橋菜穂子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "冒険者たち",
+    "author": "斎藤惇夫",
+    "subtitle": "ガンバと15ひきの仲間",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "時砂の王",
+    "author": "小川一水",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "幼年期の終り",
+    "author": "アーサー・C・クラーク",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "暗夜行路",
+    "author": "志賀直哉",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "100万回生きたねこ",
+    "author": "佐野洋子",
+    "publisher": "講談社",
+    "edition": "講談社の創作絵本"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "natsukawa",
+   "sourceId": "src-natsukawa",
+   "book": {
+    "title": "星を継ぐもの",
+    "author": "ジェイムズ・P・ホーガン",
+    "publisher": "東京創元社",
+    "edition": "創元SF文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.webdoku.jp/rensai/sakka/list.html",
+   "result": "index",
+   "reason": "全292回。一覧は新しい順で第292回(2026-10-23)から第287回までの6回を読んだ。1回=1ページ目 michiNNN_名/ と YYYYMMDD_N.html の複数ページ(7〜9ページ)",
+   "person": ""
+  }
+ ]
+}

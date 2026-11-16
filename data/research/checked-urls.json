@@ -9563,5 +9563,650 @@
     "result": "adopted",
     "reason": "sources.json の rikkyo-lib-hasegawa",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.honz.jp/reviewers/",
+    "result": "candidate",
+    "reason": "HONZ レビュアー一覧。実名のレビュアーによる紹介記事。書評にあたるので、薦めていると明言する記事だけ使えるかを未判定（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://allreviews.jp/reviewer/",
+    "result": "candidate",
+    "reason": "ALL REVIEWS 書評家一覧。新聞・雑誌の書評の再掲。書評は出典にしない方針のため、扱いを未判定（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://dokushojin.net/",
+    "result": "candidate",
+    "reason": "週刊読書人WEB。書評が中心。年末の回顧・アンケート企画が無料で読めるかは未確認（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.tku.ac.jp/library/search/search/library/",
+    "result": "candidate",
+    "reason": "東京経済大学 図書館。教員の推薦図書の有無は未確認（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://library.ikueikan.ac.jp/recommend/book",
+    "result": "candidate",
+    "reason": "育英館大学 教職員おすすめ本。未調査（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://libopac.josai.ac.jp/search/recommend.htm",
+    "result": "candidate",
+    "reason": "城西大学 教員おすすめ図書。一覧ページは取得できた（PDF は 2026-11-15 に接続拒否）。未調査（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.kpu.ac.jp/media/nakaragi253.pdf",
+    "result": "candidate",
+    "reason": "京都府立大学 広報誌「なからぎ」253号「そばにあった1冊」。PDF（約12MB）。未調査（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.bookbang.jp/",
+    "result": "candidate",
+    "reason": "Book Bang。出版社の PR 誌・新聞の書評の再掲が中心。著名人が薦める連載の特定が必要（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://kadobun.jp/",
+    "result": "candidate",
+    "reason": "カドブン。KADOKAWA の文芸サイト。自社本の紹介が中心で、著名人が他社の本も薦める連載の特定が必要（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.bookscan.co.jp/interviewarticle/101/all",
+    "result": "candidate",
+    "reason": "BOOKSCAN 著者インタビュー一覧。読書歴を語る回があるかは未確認（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://1000ya.isis.ne.jp/",
+    "result": "candidate",
+    "reason": "松岡正剛 千夜千冊。1人で1,800冊超。書評・論考であり、取り込むと1人の推薦が全体をゆがめるため、扱いをユーザーと決めてから（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.flierinc.com/",
+    "result": "candidate",
+    "reason": "flier。本の要約サービス（会員制）。著名人の推薦企画が無料で読めるかは未確認（ユーザー提供の収集先）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://japanese-studies.jp/recommended_books/",
+    "result": "adopted",
+    "reason": "sources.json の js-osaka",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://magazine.msz.co.jp/recommend/09842/",
+    "result": "rejected",
+    "reason": "書籍『読書アンケート2025』の販促ページ。寄稿者161名の氏名一覧と複数の方が挙げた本の一覧だけで、回答者ごとの回答は載っていない（中身は書籍を買わないと読めない）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.ele-king.net/books/011117/",
+    "result": "rejected",
+    "reason": "書籍『本に出会ってしまった。私の世界を変えた一冊』（2024/4/24刊）の告知ページ。目次と執筆者名のみで、各人が選んだ本は書かれていない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi292_sahara/",
+    "result": "adopted",
+    "reason": "sources.json の src-sahara",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi289_nomiya/",
+    "result": "adopted",
+    "reason": "sources.json の src-nomiya",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi291_sunamura/",
+    "result": "adopted",
+    "reason": "sources.json の src-sunamura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi290_yuuki/",
+    "result": "adopted",
+    "reason": "sources.json の src-yuuki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi288_mori/",
+    "result": "adopted",
+    "reason": "sources.json の src-mori",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi287_natsukawa/",
+    "result": "adopted",
+    "reason": "sources.json の src-natsukawa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/list.html",
+    "result": "index",
+    "reason": "全292回。一覧は新しい順で第292回(2026-10-23)から第287回までの6回を読んだ。1回=1ページ目 michiNNN_名/ と YYYYMMDD_N.html の複数ページ(7〜9ページ)",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14822475",
+    "result": "adopted",
+    "reason": "sources.json の asahi14822475",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14678604",
+    "result": "adopted",
+    "reason": "sources.json の asahi14678604",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16374639",
+    "result": "adopted",
+    "reason": "sources.json の asahi16374639",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/15020994",
+    "result": "adopted",
+    "reason": "sources.json の asahi15020994",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/n7482535b1bdc",
+    "result": "adopted",
+    "reason": "sources.json の note-n7482535b1bdc-36cd50",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16495845",
+    "result": "adopted",
+    "reason": "sources.json の asahi16495845",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16994500",
+    "result": "adopted",
+    "reason": "sources.json の asahi16994500",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/n531b589cc07d",
+    "result": "adopted",
+    "reason": "sources.json の note-n531b589cc07d-2edf4b",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/ne1a0b05cb9ff",
+    "result": "adopted",
+    "reason": "sources.json の note-ne1a0b05cb9ff-300085",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14532058",
+    "result": "adopted",
+    "reason": "sources.json の asahi14532058",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/15587546",
+    "result": "adopted",
+    "reason": "sources.json の asahi15587546",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14649290",
+    "result": "adopted",
+    "reason": "sources.json の asahi14649290",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14556439",
+    "result": "adopted",
+    "reason": "sources.json の asahi14556439",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16830720",
+    "result": "adopted",
+    "reason": "sources.json の asahi16830720",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/na2e7db850232",
+    "result": "adopted",
+    "reason": "sources.json の note-na2e7db850232-804e0e",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/n64d62a8a3388",
+    "result": "adopted",
+    "reason": "sources.json の note-n64d62a8a3388-4bc080",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16652008",
+    "result": "adopted",
+    "reason": "sources.json の asahi16652008",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16911529",
+    "result": "adopted",
+    "reason": "sources.json の asahi16911529",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16170876",
+    "result": "adopted",
+    "reason": "sources.json の asahi16170876",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16434327",
+    "result": "adopted",
+    "reason": "sources.json の asahi16434327",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16234149",
+    "result": "adopted",
+    "reason": "sources.json の asahi16234149",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16574165",
+    "result": "adopted",
+    "reason": "sources.json の asahi16574165",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14992105",
+    "result": "adopted",
+    "reason": "sources.json の asahi14992105",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/nb7f7ade0df0a",
+    "result": "adopted",
+    "reason": "sources.json の note-nb7f7ade0df0a-baac80",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/ncadcc774b26c",
+    "result": "adopted",
+    "reason": "sources.json の note-ncadcc774b26c-a999ff",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/nd2be1e3c7a98",
+    "result": "adopted",
+    "reason": "sources.json の note-nd2be1e3c7a98-c53e57",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/series/11015845",
+    "result": "index",
+    "reason": "谷原書店の連載一覧。取得できた一覧は新しい順に20回強（2021-12〜2026-10、月1回前後。全体の総回数は一覧が1ページ目のみで未確認、間に2025-02〜10が抜けて見える）。新しい順に20回を読んだ",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/14507961",
+    "result": "candidate",
+    "reason": "21番目の回（ほしとんで・2021-12-24）。取得済みだが上限20回を超えたため未取り込み",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/n088163d69079",
+    "result": "candidate",
+    "reason": "第1回 しきみ彰（未読）",
+    "person": "しきみ彰",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimi_l_note/n/ncfd679ab9a40",
+    "result": "candidate",
+    "reason": "第2回 谷崎泉（未読）",
+    "person": "谷崎泉",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/15701473",
+    "result": "rejected",
+    "reason": "本のお店スタントン（大阪）の書店紹介記事。店主が特定の本を薦める形ではなく、末尾の3冊は筆者（朴順梨）の本の紹介なので不採用。連載（series/11029995）は店の紹介が中心と判断",
+    "person": "田中利裕",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_8-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-horie-b8b07f",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1059",
+    "result": "adopted",
+    "reason": "sources.json の hs-cotter-d8f479",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1170",
+    "result": "adopted",
+    "reason": "sources.json の hs-otomo-9fdd58",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-09/interview14.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-ida-2027a1",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2023-11/interview17_0.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-isozaki-de3938",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_7-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-iwase-48cbdd",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_6-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-yamada-291279",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-12/haoqixinwochichixukete_4.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-masu-a09169",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_4-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-narugo-7f927b",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2023-10/interview16.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-morikawa-98970a",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2022-10/interview15_0.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-kajiwara-1f60fd",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/11/2025_2-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-sugiyama-5c2a4a",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1793",
+    "result": "adopted",
+    "reason": "sources.json の hs-tanaka-7d3625",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/831",
+    "result": "adopted",
+    "reason": "sources.json の hs-urano-8d8386",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_3-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-sano-53f68a",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/944",
+    "result": "adopted",
+    "reason": "sources.json の hs-miyazaki-5c0f96",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1182",
+    "result": "adopted",
+    "reason": "sources.json の hs-fujiki-bcb29b",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/899",
+    "result": "adopted",
+    "reason": "sources.json の hs-yanagimachi-3ec9f1",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/bentoouranxing_wancheng_3.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-ito-8e65a6",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/renshengnobanlutonarubenwotanshite_0.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-yamada-200146",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/763",
+    "result": "adopted",
+    "reason": "sources.json の hs-kayano-a5339b",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1076",
+    "result": "adopted",
+    "reason": "sources.json の hs-oshima-b08e6e",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_9-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-fukuda-aeb057",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2021-10/dao_nofurofuetsushiyonaru_0.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-yai-968ac1",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/1142",
+    "result": "adopted",
+    "reason": "sources.json の hs-ohara-daa0db",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/about/interview",
+    "result": "index",
+    "reason": "図書館サポーター企画「人生を変えた1冊」。最新は第17回（2023-11）。全件数は未確認（一覧の末尾は2019年の第3回付近まで見えた）。新しい順の第17〜8回の10人を採用。個別記事はPDF、一覧に書名・著者・インタビュー紹介文あり。ISBNなし。",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/senseinikiku",
+    "result": "index",
+    "reason": "先生のおすすめ本一覧。page=0,1の2ページ（1ページ約20件、各件1冊）。新しい順の10件を採用。個別ページは /library/ja/node/{番号}。ISBNなし。",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/library-news/60976/",
+    "result": "index",
+    "reason": "2025年度新任教員中心11名のエッセイ（PDF）。2025.11.05掲載。一覧は1ページ、各人のPDFに書名・出版社・年あり。ISBNなし。11人のうち10人（リケ〜中村）の順に確認し、書名のある人を採用、11人目の脇本も採用。",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://opac.hokusei.ac.jp/library/ja/node/797",
+    "result": "rejected",
+    "reason": "洋書（The Martin Buber-Carl Rogers dialogue）のため除外",
+    "person": "田澤安弘",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_1-lib.pdf",
+    "result": "rejected",
+    "reason": "洋書（英語の学術書）のみのため除外",
+    "person": "リケ",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_10-lib.pdf",
+    "result": "rejected",
+    "reason": "エッセイは「わかりやすさ」論で、おすすめの書名がない（趣味の作家名のみ）",
+    "person": "中村大輔",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_11-lib.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-wakimoto-588885",
+    "person": "脇本利紀",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/lq2d4s0000006ldu.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-ikeda",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/cc0gou000000bix2.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-ito",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://content.swu.ac.jp/library-blog/2026/11/16/%e5%85%88%e7%94%9f%e6%96%b9%e3%81%ae%e6%8e%a8%e3%81%97%e6%9c%ac%e3%81%8c%e9%9b%86%e7%b5%90%ef%bc%812026%e5%b9%b4%e5%ba%a6%e5%be%8c%e6%9c%9f%e3%80%8c%e6%95%99%e5%93%a1%e3%81%8a/",
+    "result": "adopted",
+    "reason": "sources.json の swu-s-2026k",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/lq2d4s000000kd4i.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-doumae",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/lq2d4s00000090vk.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-naganuma",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/lq2d4s000000i73u.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-terada",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://content.swu.ac.jp/library-blog/2025/11/10/%E6%95%99%E5%93%A1%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E6%9C%AC%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC2025%E3%80%88%E5%BE%8C%E6%9C%9F%E3%80%89/",
+    "result": "adopted",
+    "reason": "sources.json の swu-s-2025k",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/cc0gou000000htmg.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-kawai",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/c396lg00000011j2.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-hayashi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/lq2d4s000000eedm.html",
+    "result": "adopted",
+    "reason": "sources.json の soka-s-tamura",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://content.swu.ac.jp/library-blog/2025/05/21/%e6%95%99%e5%93%a1%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%9c%ac%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc2025/",
+    "result": "adopted",
+    "reason": "sources.json の swu-s-2025z",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.dokkyo.ac.jp/library/search/suisen.html",
+    "result": "rejected",
+    "reason": "獨協大学の教員推薦図書の説明ページ。教員ごとの推薦図書は蔵書検索OPACの詳細検索（教員を選択）でしか見られず、ページ上に教員名と本の対応が無い",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/news/2023/event_index.html",
+    "result": "index",
+    "reason": "創価大学図書館 Event一覧 2023年。教員のおすすめ本シリーズの探索に使用",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/news/2024/event_index.html",
+    "result": "index",
+    "reason": "創価大学図書館 Event一覧 2024年。教員のおすすめ本シリーズの探索に使用",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/news/2025/event_index.html",
+    "result": "index",
+    "reason": "創価大学図書館 Event一覧 2025年。教員のおすすめ本シリーズの探索に使用",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/news/2026/event_index.html",
+    "result": "index",
+    "reason": "創価大学図書館 Event一覧 2026年。教員のおすすめ本シリーズの探索に使用",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://lib.soka.ac.jp/ocpdsm0000002fxj.html",
+    "result": "rejected",
+    "reason": "「哲学教員が語る『私の一冊』」の開催レポート。5名の教員名と本は画像でしか示されず、本文に対応が無い",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://content.swu.ac.jp/library-blog/category/%e6%95%99%e5%93%a1%e3%81%8a%e3%81%99%e3%81%99%e3%82%81%e6%9c%ac/",
+    "result": "index",
+    "reason": "昭和女子大学図書館ブログ「教員おすすめ本」カテゴリ。2025前期、2025後期、2026前期、2026後期の4回の展示記事を取得（ほかに2021年の理事長・学長・副学長編と2026-07-06の理事長著書展示は未取得）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://content.swu.ac.jp/library-blog/2026/04/27/__trashed-2/",
+    "result": "candidate",
+    "reason": "昭和女子大学 2026年度前期の展示。金尾朗・山本晶子・今井晶子",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.libra.titech.ac.jp/sites/default/files/2020-01/renshengwobianeta1ce_mushanrorintarohatoson_0.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ts-kiyama-5ac2fe",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.eco.nihon-u.ac.jp/wp-content/uploads/2025/10/2025_5-lib-1.pdf",
+    "result": "adopted",
+    "reason": "sources.json の ns-himejima-cc9540",
+    "checkedAt": "2026-11-16"
   }
 ]

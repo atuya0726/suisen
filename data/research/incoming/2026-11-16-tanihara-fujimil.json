@@ -1,0 +1,1189 @@
+{
+ "people": [
+  {
+   "id": "tanihara",
+   "name": "谷原章介",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "fl0",
+   "name": "美月りん",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl1",
+   "name": "秋田みやび",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl2",
+   "name": "唐澤和希",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl3",
+   "name": "佐々木禎子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl4",
+   "name": "雪村花菜",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl5",
+   "name": "道草家守",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl6",
+   "name": "竹岡葉月",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fl7",
+   "name": "顎木あくみ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "asahi16994500",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】　山田五郎「世界一やばい西洋絵画の見方入門」　好きなものを面白がって伝える楽しさ",
+   "url": "https://book.asahi.com/article/16994500",
+   "publishedAt": "2026-10-30"
+  },
+  {
+   "id": "asahi16911529",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】　坂上暁仁「神田ごくら町職人ばなし」　仕事に向き合う心意気を描ききる",
+   "url": "https://book.asahi.com/article/16911529",
+   "publishedAt": "2026-09-29"
+  },
+  {
+   "id": "asahi16830720",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】アイザック・アシモフ著、小尾芙佐訳「われはロボット〔決定版〕」　その先見性を我が事としてとらえ直す時代に",
+   "url": "https://book.asahi.com/article/16830720",
+   "publishedAt": "2026-08-28"
+  },
+  {
+   "id": "asahi16749668",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】桜玉吉「満喫漫玉日記 深夜便」　ギャグ漫画家としての苦悩経た中年の日常に共感",
+   "url": "https://book.asahi.com/article/16749668",
+   "publishedAt": "2026-07-31"
+  },
+  {
+   "id": "asahi16652008",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】世阿弥・著、水野聡・訳「現代語訳 風姿花伝」　佐藤二朗さんの「花」を思う",
+   "url": "https://book.asahi.com/article/16652008",
+   "publishedAt": "2026-06-26"
+  },
+  {
+   "id": "asahi16574165",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】児島青「本なら売るほど」　本を起点にひろがる人間ドラマに感銘",
+   "url": "https://book.asahi.com/article/16574165",
+   "publishedAt": "2026-05-26"
+  },
+  {
+   "id": "asahi16495845",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】長瀬ほのか「わざわざ書くほどのことだ」　対照的なふたり、軽妙なエッセイに",
+   "url": "https://book.asahi.com/article/16495845",
+   "publishedAt": "2026-04-24"
+  },
+  {
+   "id": "asahi16434327",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】岡崎京子「東京ガールズブラボー」　きらびやかだけど、うたかたの夢のようだった「東京」の青春",
+   "url": "https://book.asahi.com/article/16434327",
+   "publishedAt": "2026-03-31"
+  },
+  {
+   "id": "asahi16374639",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】ユヴァル・ノア・ハラリ「サピエンス全史」　「虚構」を軸に人類史をとらえ直すと",
+   "url": "https://book.asahi.com/article/16374639",
+   "publishedAt": "2026-02-27"
+  },
+  {
+   "id": "asahi16274900",
+   "type": "article",
+   "media": "好書好日",
+   "title": "俳優として、父として……谷原章介さんの心に響いた３冊",
+   "url": "https://book.asahi.com/article/16274900",
+   "publishedAt": "2026-01-27"
+  },
+  {
+   "id": "asahi16234149",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】斉木久美子「かげきしょうじょ！！」　「演じること」を人生に選んだ者たちの人間ドラマを掘り下げる",
+   "url": "https://book.asahi.com/article/16234149",
+   "publishedAt": "2025-12-27"
+  },
+  {
+   "id": "asahi16170876",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】馬場正尊「あしたの風景を探しに」　建物と街の未来を考えるヒントに満ちている",
+   "url": "https://book.asahi.com/article/16170876",
+   "publishedAt": "2025-11-28"
+  },
+  {
+   "id": "asahi15587546",
+   "type": "article",
+   "media": "好書好日",
+   "title": "困難な時代こそ真摯に人生と向き合う　谷原章介さんが共感した３人の３冊",
+   "url": "https://book.asahi.com/article/15587546",
+   "publishedAt": "2025-01-31"
+  },
+  {
+   "id": "asahi15020994",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】江口寿史画集「step１＆２　江口寿史スペシャルセット」　日本のポップカルチャーの変遷を体感できるイラストを堪能",
+   "url": "https://book.asahi.com/article/15020994",
+   "publishedAt": "2023-10-06"
+  },
+  {
+   "id": "asahi14992105",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原店長のオススメ】ヤマシタトモコ「違国日記」完結　人がつながる奇跡、描ききった",
+   "url": "https://book.asahi.com/article/14992105",
+   "publishedAt": "2023-09-01"
+  },
+  {
+   "id": "asahi14822475",
+   "type": "article",
+   "media": "好書好日",
+   "title": "見えない壁を超えていくために　谷原章介さんが共感した３人の３冊",
+   "url": "https://book.asahi.com/article/14822475",
+   "publishedAt": "2023-01-27"
+  },
+  {
+   "id": "asahi14678604",
+   "type": "article",
+   "media": "好書好日",
+   "title": "谷原章介さんの「ほんとうに大切なこと」が伝わる３冊　何げない日々の暮らしを大事に生きる",
+   "url": "https://book.asahi.com/article/14678604",
+   "publishedAt": "2022-07-29"
+  },
+  {
+   "id": "asahi14649290",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原章介店長のオススメ】ひうち棚「急がなくてもよいことを」　いとおしい記憶、しみじみと味わう",
+   "url": "https://book.asahi.com/article/14649290",
+   "publishedAt": "2022-06-24"
+  },
+  {
+   "id": "asahi14556439",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原章介店長のオススメ】東海林さだお「大衆食堂に行こう」　人間観察の細やかさからユーモアが生まれる",
+   "url": "https://book.asahi.com/article/14556439",
+   "publishedAt": "2022-02-25"
+  },
+  {
+   "id": "asahi14532058",
+   "type": "article",
+   "media": "好書好日",
+   "title": "【谷原章介店長のオススメ】中山七里「人面瘡探偵」　「大どんでん返しの帝王」が放つ奇想天外なミステリー",
+   "url": "https://book.asahi.com/article/14532058",
+   "publishedAt": "2022-01-28"
+  },
+  {
+   "id": "note_n64d62a8a3388",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第10回】「作家の本棚」美月りん先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/n64d62a8a3388",
+   "publishedAt": "2026-03-10"
+  },
+  {
+   "id": "note_na2e7db850232",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第9回】「作家の本棚」秋田みやび先生の選ぶ12冊",
+   "url": "https://note.com/fujimi_l_note/n/na2e7db850232",
+   "publishedAt": "2026-01-20"
+  },
+  {
+   "id": "note_ncadcc774b26c",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第8回】「作家の本棚」唐澤和希先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/ncadcc774b26c",
+   "publishedAt": "2025-12-19"
+  },
+  {
+   "id": "note_ne1a0b05cb9ff",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第7回】「作家の本棚」佐々木禎子先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/ne1a0b05cb9ff",
+   "publishedAt": "2025-11-20"
+  },
+  {
+   "id": "note_n531b589cc07d",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第6回】「作家の本棚」雪村花菜先生の選ぶ12冊",
+   "url": "https://note.com/fujimi_l_note/n/n531b589cc07d",
+   "publishedAt": "2025-10-20"
+  },
+  {
+   "id": "note_nb7f7ade0df0a",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第５回】「作家の本棚」道草家守先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/nb7f7ade0df0a",
+   "publishedAt": "2025-09-19"
+  },
+  {
+   "id": "note_nd2be1e3c7a98",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第４回】「作家の本棚」竹岡葉月先生の推し料理本",
+   "url": "https://note.com/fujimi_l_note/n/nd2be1e3c7a98",
+   "publishedAt": "2025-08-20"
+  },
+  {
+   "id": "note_n7482535b1bdc",
+   "type": "article",
+   "media": "富士見L文庫（note）",
+   "title": "【第３回】「作家の本棚」顎木あくみ先生の選ぶ10冊",
+   "url": "https://note.com/fujimi_l_note/n/n7482535b1bdc",
+   "publishedAt": "2025-07-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16994500",
+   "book": {
+    "title": "世界一やばい西洋絵画の見方入門",
+    "author": "山田五郎",
+    "publisher": "宝島社",
+    "edition": "「山田五郎 オトナの教養講座」"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16994500",
+   "book": {
+    "title": "機械式時計大全",
+    "author": "山田五郎",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16994500",
+   "book": {
+    "title": "銀座のすし",
+    "author": "山田五郎",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16911529",
+   "book": {
+    "title": "神田ごくら町職人ばなし",
+    "author": "坂上暁仁",
+    "publisher": "リイド社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16911529",
+   "book": {
+    "title": "へうげもの",
+    "author": "山田芳裕",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16830720",
+   "book": {
+    "title": "われはロボット〔決定版〕",
+    "author": "アイザック・アシモフ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16830720",
+   "book": {
+    "title": "アンドロイドは電気羊の夢を見るか?",
+    "author": "フィリップ・K・ディック",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16830720",
+   "book": {
+    "title": "羊式型人間模擬機",
+    "author": "犬怪寅日子",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16749668",
+   "book": {
+    "title": "満喫漫玉日記 深夜便",
+    "author": "桜玉吉",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16652008",
+   "book": {
+    "title": "現代語訳 風姿花伝",
+    "author": "世阿弥",
+    "publisher": "PHP研究所"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16652008",
+   "book": {
+    "title": "精霊の王",
+    "author": "中沢新一",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16574165",
+   "book": {
+    "title": "本なら売るほど",
+    "author": "児島青",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16495845",
+   "book": {
+    "title": "わざわざ書くほどのことだ",
+    "author": "長瀬ほのか"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16495845",
+   "book": {
+    "title": "アンモナイト学入門",
+    "author": "相場大佑",
+    "subtitle": "殻の形から読み解く進化と生態",
+    "publisher": "誠文堂新光社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16434327",
+   "book": {
+    "title": "東京ガールズブラボー",
+    "author": "岡崎京子",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16434327",
+   "book": {
+    "title": "リバーズ・エッジ",
+    "author": "岡崎京子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16434327",
+   "book": {
+    "title": "Pink",
+    "author": "岡崎京子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16434327",
+   "book": {
+    "title": "バージン",
+    "author": "岡崎京子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16434327",
+   "book": {
+    "title": "わたしに優しい夜",
+    "author": "桜沢エリカ",
+    "publisher": "マガジンハウス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16374639",
+   "book": {
+    "title": "サピエンス全史 上",
+    "author": "ユヴァル・ノア・ハラリ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16374639",
+   "book": {
+    "title": "イリヤッド～入矢堂見聞録",
+    "author": "魚戸おさむ・東周斎雅楽",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16274900",
+   "book": {
+    "title": "Blue Persimmons",
+    "author": "岩波友紀",
+    "publisher": "赤々社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16274900",
+   "book": {
+    "title": "寄席芸人伝",
+    "author": "古谷三敏・あべ善太",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16234149",
+   "book": {
+    "title": "かげきしょうじょ！！",
+    "author": "斉木久美子",
+    "publisher": "白泉社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16234149",
+   "book": {
+    "title": "淡島百景",
+    "author": "志村貴子",
+    "publisher": "太田出版",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16170876",
+   "book": {
+    "title": "あしたの風景を探しに",
+    "author": "馬場正尊"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi16170876",
+   "book": {
+    "title": "ずっと工事中！沢田マンション",
+    "author": "青山邦彦",
+    "publisher": "学芸出版社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi15587546",
+   "book": {
+    "title": "人生の救い",
+    "author": "車谷長吉",
+    "subtitle": "車谷長吉の人生相談",
+    "publisher": "朝日新聞出版",
+    "edition": "朝日文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi15587546",
+   "book": {
+    "title": "最期を選ぶ",
+    "author": "山本将寛"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi15587546",
+   "book": {
+    "title": "君と宇宙を歩くために",
+    "author": "泥ノ田犬彦",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi15020994",
+   "book": {
+    "title": "江口寿史画集 step１＆２",
+    "author": "江口寿史",
+    "edition": "江口寿史スペシャルセット"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi15020994",
+   "book": {
+    "title": "ストップ!! ひばりくん!",
+    "author": "江口寿史",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14992105",
+   "book": {
+    "title": "違国日記",
+    "author": "ヤマシタトモコ",
+    "publisher": "祥伝社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14822475",
+   "book": {
+    "title": "生き方",
+    "author": "稲盛和夫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14822475",
+   "book": {
+    "title": "自分を大切にする練習",
+    "author": "りんたろー。"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14822475",
+   "book": {
+    "title": "「俳優」の肩ごしに",
+    "author": "山﨑努"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14678604",
+   "book": {
+    "title": "ひらやすみ",
+    "author": "真造圭伍",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14649290",
+   "book": {
+    "title": "急がなくてもよいことを",
+    "author": "ひうち棚"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14556439",
+   "book": {
+    "title": "大衆食堂に行こう",
+    "author": "東海林さだお",
+    "edition": "だいわ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14556439",
+   "book": {
+    "title": "タコの丸かじり",
+    "author": "東海林さだお",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tanihara",
+   "sourceId": "asahi14532058",
+   "book": {
+    "title": "人面瘡探偵",
+    "author": "中山七里",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl0",
+   "sourceId": "note_n64d62a8a3388",
+   "book": {
+    "title": "ブラック・ジャック",
+    "author": "手塚治虫",
+    "publisher": "秋田書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl0",
+   "sourceId": "note_n64d62a8a3388",
+   "book": {
+    "title": "もものかんづめ",
+    "author": "さくらももこ",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl0",
+   "sourceId": "note_n64d62a8a3388",
+   "book": {
+    "title": "人間失格",
+    "author": "太宰治",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl0",
+   "sourceId": "note_n64d62a8a3388",
+   "book": {
+    "title": "テニスの王子様",
+    "author": "許斐剛",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl0",
+   "sourceId": "note_n64d62a8a3388",
+   "book": {
+    "title": "リング",
+    "author": "鈴木光司",
+    "publisher": "KADOKAWA",
+    "edition": "角川ホラー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl1",
+   "sourceId": "note_na2e7db850232",
+   "book": {
+    "title": "旅に出たくなる地図 日本",
+    "author": "帝国書院編集部",
+    "publisher": "帝国書院"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl1",
+   "sourceId": "note_na2e7db850232",
+   "book": {
+    "title": "地球の歩き方 ムー",
+    "author": "地球の歩き方編集室",
+    "subtitle": "異世界の歩き方",
+    "publisher": "Gakken"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl1",
+   "sourceId": "note_na2e7db850232",
+   "book": {
+    "title": "地球生活記",
+    "author": "小松義夫",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl1",
+   "sourceId": "note_na2e7db850232",
+   "book": {
+    "title": "占星術殺人事件",
+    "author": "島田荘司",
+    "publisher": "講談社",
+    "edition": "改訂完全版 講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl1",
+   "sourceId": "note_na2e7db850232",
+   "book": {
+    "title": "０能者ミナト",
+    "author": "葉山透",
+    "publisher": "KADOKAWA",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl2",
+   "sourceId": "note_ncadcc774b26c",
+   "book": {
+    "title": "ダイヤモンドの功罪",
+    "author": "平井大橋",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl2",
+   "sourceId": "note_ncadcc774b26c",
+   "book": {
+    "title": "百鬼夜行抄",
+    "author": "今市子",
+    "publisher": "朝日新聞出版",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl2",
+   "sourceId": "note_ncadcc774b26c",
+   "book": {
+    "title": "会議でスマートに見せる１００の方法",
+    "author": "サラ・クーパー",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl2",
+   "sourceId": "note_ncadcc774b26c",
+   "book": {
+    "title": "薬屋のひとりごと",
+    "author": "日向夏",
+    "publisher": "主婦の友社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl2",
+   "sourceId": "note_ncadcc774b26c",
+   "book": {
+    "title": "神様の定食屋",
+    "author": "中村颯希",
+    "publisher": "双葉社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl3",
+   "sourceId": "note_ne1a0b05cb9ff",
+   "book": {
+    "title": "桃尻語訳 枕草子 上",
+    "author": "橋本治",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl3",
+   "sourceId": "note_ne1a0b05cb9ff",
+   "book": {
+    "title": "源氏物語",
+    "author": "紫式部",
+    "publisher": "KADOKAWA",
+    "edition": "角川ソフィア文庫 ビギナーズ・クラシックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl3",
+   "sourceId": "note_ne1a0b05cb9ff",
+   "book": {
+    "title": "星の王子さま",
+    "author": "サン＝テグジュペリ",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl3",
+   "sourceId": "note_ne1a0b05cb9ff",
+   "book": {
+    "title": "悪女について",
+    "author": "有吉佐和子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl3",
+   "sourceId": "note_ne1a0b05cb9ff",
+   "book": {
+    "title": "綿の国星 第１巻",
+    "author": "大島弓子",
+    "publisher": "白泉社",
+    "edition": "白泉社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl4",
+   "sourceId": "note_n531b589cc07d",
+   "book": {
+    "title": "スレイヤーズ",
+    "author": "神坂一",
+    "publisher": "KADOKAWA",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl4",
+   "sourceId": "note_n531b589cc07d",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl4",
+   "sourceId": "note_n531b589cc07d",
+   "book": {
+    "title": "科挙",
+    "author": "宮崎市定",
+    "subtitle": "中国の試験地獄",
+    "publisher": "中央公論新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl4",
+   "sourceId": "note_n531b589cc07d",
+   "book": {
+    "title": "小説十八史略",
+    "author": "陳舜臣",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl4",
+   "sourceId": "note_n531b589cc07d",
+   "book": {
+    "title": "動物のお医者さん",
+    "author": "佐々木倫子",
+    "publisher": "白泉社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl5",
+   "sourceId": "note_nb7f7ade0df0a",
+   "book": {
+    "title": "レディ・ガンナーの冒険",
+    "author": "茅田砂胡",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl5",
+   "sourceId": "note_nb7f7ade0df0a",
+   "book": {
+    "title": "スカーレット・ウィザード",
+    "author": "茅田砂胡",
+    "publisher": "中央公論新社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl5",
+   "sourceId": "note_nb7f7ade0df0a",
+   "book": {
+    "title": "家守綺譚",
+    "author": "梨木香歩",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl5",
+   "sourceId": "note_nb7f7ade0df0a",
+   "book": {
+    "title": "やさしい竜の殺し方",
+    "author": "津守時生",
+    "publisher": "KADOKAWA",
+    "edition": "角川ビーンズ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl5",
+   "sourceId": "note_nb7f7ade0df0a",
+   "book": {
+    "title": "ミミズクと夜の王",
+    "author": "紅玉いづき",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl6",
+   "sourceId": "note_nd2be1e3c7a98",
+   "book": {
+    "title": "全日本食えばわかる図鑑",
+    "author": "椎名誠",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl6",
+   "sourceId": "note_nd2be1e3c7a98",
+   "book": {
+    "title": "きのう何たべた？",
+    "author": "よしながふみ",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl6",
+   "sourceId": "note_nd2be1e3c7a98",
+   "book": {
+    "title": "ダンジョン飯",
+    "author": "九井諒子",
+    "publisher": "KADOKAWA",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl6",
+   "sourceId": "note_nd2be1e3c7a98",
+   "book": {
+    "title": "家庭で作れるロシア料理",
+    "author": "荻野恭子・沼野恭子",
+    "subtitle": "ダーチャの菜園の恵みがいっぱい!",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl6",
+   "sourceId": "note_nd2be1e3c7a98",
+   "book": {
+    "title": "家庭で作れるトルコ料理",
+    "author": "荻野恭子",
+    "publisher": "河出書房新社",
+    "edition": "改訂版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl7",
+   "sourceId": "note_n7482535b1bdc",
+   "book": {
+    "title": "かいけつゾロリのきょうふのカーレース",
+    "author": "原ゆたか",
+    "publisher": "ポプラ社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl7",
+   "sourceId": "note_n7482535b1bdc",
+   "book": {
+    "title": "機動警察パトレイバー",
+    "author": "ゆうきまさみ",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl7",
+   "sourceId": "note_n7482535b1bdc",
+   "book": {
+    "title": "超人ロック",
+    "author": "聖悠紀",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl7",
+   "sourceId": "note_n7482535b1bdc",
+   "book": {
+    "title": "地球へ…",
+    "author": "竹宮惠子",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fl7",
+   "sourceId": "note_n7482535b1bdc",
+   "book": {
+    "title": "ヨコハマ物語",
+    "author": "大和和紀",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://book.asahi.com/series/11015845",
+   "result": "index",
+   "reason": "谷原書店の連載一覧。取得できた一覧は新しい順に20回強（2021-12〜2026-10、月1回前後。全体の総回数は一覧が1ページ目のみで未確認、間に2025-02〜10が抜けて見える）。新しい順に20回を読んだ",
+   "person": "谷原章介"
+  },
+  {
+   "url": "https://book.asahi.com/article/14507961",
+   "result": "candidate",
+   "reason": "21番目の回（ほしとんで・2021-12-24）。取得済みだが上限20回を超えたため未取り込み",
+   "person": "谷原章介"
+  },
+  {
+   "url": "https://book.asahi.com/series/11015845",
+   "result": "candidate",
+   "reason": "一覧にそれより古い回（2021-12以前）と、2025年2〜10月分が抜けている可能性。次回に一覧の次ページ・別経路を確認",
+   "person": "谷原章介"
+  },
+  {
+   "url": "https://note.com/fujimi_l_note/n/n64d62a8a3388",
+   "result": "index",
+   "reason": "一覧記事ではなく第10回（最終回）の本文。全10回で、note API（creators/fujimi_l_note/contents）の「本棚」記事から第1〜10回を特定。新しい順に8人（第10〜3回）を取り込み",
+   "person": "美月りん"
+  },
+  {
+   "url": "https://note.com/fujimi_l_note/n/n088163d69079",
+   "result": "candidate",
+   "reason": "第1回 しきみ彰（未読）",
+   "person": "しきみ彰"
+  },
+  {
+   "url": "https://note.com/fujimi_l_note/n/ncfd679ab9a40",
+   "result": "candidate",
+   "reason": "第2回 谷崎泉（未読）",
+   "person": "谷崎泉"
+  },
+  {
+   "url": "https://book.asahi.com/article/15701473",
+   "result": "rejected",
+   "reason": "本のお店スタントン（大阪）の書店紹介記事。店主が特定の本を薦める形ではなく、末尾の3冊は筆者（朴順梨）の本の紹介なので不採用。連載（series/11029995）は店の紹介が中心と判断",
+   "person": "田中利裕"
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "people": [
+  {
+   "id": "p-unoda",
+   "name": "宇野田尚哉",
+   "title": "大阪大学大学院人文学研究科 現代日本学・日本学研究室 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "大阪大学"
+  },
+  {
+   "id": "p-kitamura",
+   "name": "北村毅",
+   "title": "大阪大学大学院人文学研究科 現代日本学・日本学研究室 教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "大阪大学"
+  },
+  {
+   "id": "p-yasuoka",
+   "name": "安岡健一",
+   "title": "大阪大学大学院人文学研究科 現代日本学・日本学研究室 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "大阪大学"
+  },
+  {
+   "id": "p-nakajima",
+   "name": "中嶋泉",
+   "title": "大阪大学大学院人文学研究科 現代日本学・日本学研究室 准教授",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "大阪大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "js-osaka",
+   "type": "article",
+   "media": "大阪大学 現代日本学・日本学研究室",
+   "title": "研究室が選ぶおすすめ本",
+   "url": "https://japanese-studies.jp/recommended_books/"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p-unoda",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "日本思想史事典",
+    "author": "日本思想史事典編集委員会",
+    "publisher": "丸善出版",
+    "edition": "2020年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-unoda",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "概説日本思想史",
+    "author": "佐藤弘夫",
+    "publisher": "ミネルヴァ書房",
+    "edition": "増補版 2020年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-unoda",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "中井竹山・中井履軒",
+    "author": "加地伸行",
+    "publisher": "明徳出版社",
+    "edition": "1980年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-unoda",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "近代日本思想案内",
+    "author": "鹿野政直",
+    "publisher": "岩波文庫",
+    "edition": "1999年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-kitamura",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "沖縄の戦後思想を考える",
+    "author": "鹿野政直",
+    "publisher": "岩波現代文庫",
+    "edition": "2018年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-kitamura",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "民俗学の思考法",
+    "author": "岩本通弥",
+    "publisher": "慶應義塾大学出版会",
+    "edition": "2021年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-kitamura",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "生活史の方法",
+    "author": "岸政彦",
+    "subtitle": "人生を聞いて書く"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-kitamura",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "日本人とは何か",
+    "author": "加藤周一",
+    "publisher": "講談社学術文庫",
+    "edition": "1976年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-kitamura",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "逝きし世の面影",
+    "author": "渡辺京二",
+    "publisher": "平凡社ライブラリー",
+    "edition": "2005年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-yasuoka",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "日本人と海外移住",
+    "author": "日本移民学会",
+    "publisher": "明石書店",
+    "edition": "2018年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-yasuoka",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "〈日本人〉の境界",
+    "author": "小熊英二",
+    "publisher": "新曜社",
+    "edition": "1998年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-yasuoka",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "現代日本女性史",
+    "author": "鹿野政直",
+    "publisher": "有斐閣",
+    "edition": "2004年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-yasuoka",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "敗北を抱きしめて 上",
+    "author": "ジョン・ダワー",
+    "publisher": "岩波書店",
+    "edition": "増補版 2004年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-yasuoka",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "出口なお",
+    "author": "安丸良夫",
+    "publisher": "岩波現代文庫",
+    "edition": "2013年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-nakajima",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "視線と差異",
+    "author": "グリゼルダ・ポロック",
+    "subtitle": "フェミニズムで読む美術史",
+    "publisher": "ちくま学芸文庫",
+    "edition": "2025年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-nakajima",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "アジアの女性身体はいかに描かれたか",
+    "author": "北原恵",
+    "publisher": "青弓社",
+    "edition": "2013年"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-nakajima",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "眼の神殿",
+    "author": "北澤憲昭",
+    "subtitle": "「美術」受容史ノート",
+    "publisher": "ちくま学芸文庫",
+    "edition": "2020年版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "p-nakajima",
+   "sourceId": "js-osaka",
+   "book": {
+    "title": "戦争がつくる女性像",
+    "author": "若桑みどり",
+    "publisher": "ちくま学芸文庫",
+    "edition": "2000年"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://magazine.msz.co.jp/recommend/09842/",
+   "result": "rejected",
+   "reason": "書籍『読書アンケート2025』の販促ページ。寄稿者161名の氏名一覧と複数の方が挙げた本の一覧だけで、回答者ごとの回答は載っていない（中身は書籍を買わないと読めない）"
+  },
+  {
+   "url": "https://www.ele-king.net/books/011117/",
+   "result": "rejected",
+   "reason": "書籍『本に出会ってしまった。私の世界を変えた一冊』（2024/4/24刊）の告知ページ。目次と執筆者名のみで、各人が選んだ本は書かれていない"
+  },
+  {
+   "url": "https://japanese-studies.jp/recommended_books/",
+   "result": "index",
+   "reason": "大阪大学の教員4名（宇野田尚哉・北村毅・安岡健一・中嶋泉）が実名で、教員ごとに大学院受験用・学部生向けの推薦図書を挙げている。4人全員（上限5人中）を採用、18冊。掲載日はページに無いため省略。北村毅の『生活史の方法』は、ページ上の出版社・年が別の本のものと重複していて誤記と思われるため出版社を省いた"
+  }
+ ]
+}
