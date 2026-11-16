@@ -12176,5 +12176,322 @@
     "result": "adopted",
     "reason": "sources.json の src203",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/fujimuradaisuke/n/n75b4018c5896",
+    "result": "adopted",
+    "reason": "sources.json の s-fujimura-note",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/satoru_takeuchi/articles/b4d0b811874522",
+    "result": "rejected",
+    "reason": "本人の記事だが、本の著者名がページに無く、ハンドル名(sat)で実名の表記が無い",
+    "person": "satoru takeuchi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-5",
+    "result": "adopted",
+    "reason": "sources.json の s-fm5-b2c6ab",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media",
+    "result": "index",
+    "reason": "Findy Media「あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた」シリーズ",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://type.jp/et/feature/20591/",
+    "result": "adopted",
+    "reason": "sources.json の s-type-040f5d",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://golden-lucky.hatenablog.com/entry/2021/01/07/171716",
+    "result": "rejected",
+    "reason": "ハンドル名のみで実名が不明",
+    "person": "golden-lucky",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/mijuari/n/nc5c436c8cc9f",
+    "result": "rejected",
+    "reason": "第三者のまとめ記事",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://elwoodblues.hatenablog.com/entry/20100623/1277263009",
+    "result": "rejected",
+    "reason": "実名・本人確認ができず未読",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/vaaaaanquish/n/n6d5196f13988",
+    "result": "rejected",
+    "reason": "河合俊典は取り込み済み",
+    "person": "河合俊典",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
+    "result": "candidate",
+    "reason": "本人のスライドと思われるが今回は未読（テキスト取得に手数がかかる）",
+    "person": "oohira",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-4",
+    "result": "adopted",
+    "reason": "sources.json の s-fm4-c72399",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://techblog.raksul.com/entry/book",
+    "result": "adopted",
+    "reason": "sources.json の s-raksul-8dc840",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/entry/2025/05/22/070000",
+    "result": "adopted",
+    "reason": "sources.json の s-findytb4-f833cf",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books",
+    "result": "adopted",
+    "reason": "sources.json の s-fm1-92e696",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-2",
+    "result": "adopted",
+    "reason": "sources.json の s-fm2-a46ee5",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/entry/2025/10/24/070000",
+    "result": "adopted",
+    "reason": "sources.json の s-findytb5-6f54c9",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/archive/category/%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E4%B8%80%E5%86%8A",
+    "result": "index",
+    "reason": "Findy Tech Blog「エンジニア達の人生を変えた一冊」。Part1〜Part7（Part6は一覧で未確認）。1回3人×1冊。Part1,2,3,4,5,7を読んだ。実名フルネームはPart4・Part5の5人のみ（他は姓のみ・ハンドル名）。ISBNはAmazonリンクから転記",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/series/influential-books",
+    "result": "index",
+    "reason": "Findy Media「珠玉の書籍」。「あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた」第1〜第7弾（各8〜9人、計約55人）と「人生を変えた1冊」yuki＆sivchari回。第1・2・4・5弾を読んだ。第3・6・7弾は人物と書名を確認したが、著者名がページに無い本が大半のため未採用（candidate）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-3",
+    "result": "adopted",
+    "reason": "sources.json の f3",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-6",
+    "result": "adopted",
+    "reason": "sources.json の f6",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-7",
+    "result": "adopted",
+    "reason": "sources.json の f7",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+    "result": "unreachable",
+    "reason": "ハンドル名(yuki, sivchari)のため未読・対象外",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/entry/2024/09/13/090000",
+    "result": "rejected",
+    "reason": "Part1: 戸田・高橋・森の姓のみ・ハンドル併記で実名が確定しない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/entry/2024/10/21/070000",
+    "result": "rejected",
+    "reason": "Part2: 西村・林ほか姓のみ",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/entry/2024/11/25/070000",
+    "result": "rejected",
+    "reason": "Part3: 中坪・久木田・金丸ほか姓のみ",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://tech.findy.co.jp/entry/2026/06/01/070000",
+    "result": "rejected",
+    "reason": "Part7: 本田・加藤・山田の姓のみ",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://wall.ac/columns/interview-engineer-most-recommend-book",
+    "result": "unreachable",
+    "reason": "ドメインが売り物ページになっており記事を取得できない",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/mugipan/articles/ddf63ae04b3a9f",
+    "result": "rejected",
+    "reason": "個人の技術書紹介で連載・企画ではない（検索結果のみ、未取得）",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+    "result": "adopted",
+    "reason": "sources.json の ambi2017",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/koduki/articles/425f50b60aa6a9",
+    "result": "rejected",
+    "reason": "実名を確認できなかった（ハンドル名koduki）",
+    "person": "koduki",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/hiroms/articles/bc23e9a8bf82b0",
+    "result": "rejected",
+    "reason": "実名を確認できなかった",
+    "person": "hiroms",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/saitama_neko/articles/3c6252c1d1232b",
+    "result": "rejected",
+    "reason": "実名を確認できなかった",
+    "person": "さいたま",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/abekoh/articles/90a9bb8698b091",
+    "result": "rejected",
+    "reason": "実名を確認できなかった",
+    "person": "abekoh",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://qiita.com/ItoTakumi/items/ed12ba34365d3a1f43b4",
+    "result": "rejected",
+    "reason": "表示名が英字のみで実名を確認できなかった。本人の言及する書名に著者名もない可能性",
+    "person": "ItoTakumi",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://qiita.com/mahiro72/items/2663ec94dd7f1c847bf0",
+    "result": "rejected",
+    "reason": "実名を確認できなかった（ハンドルmahiro72）",
+    "person": "mahiro72",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://yuki0920.hatenablog.jp/entry/2022/11/06/200000",
+    "result": "rejected",
+    "reason": "日本語の実名を確認できず、書籍の著者名もページにない",
+    "person": "Yuki Watanabe",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://blog.foresta.me/posts/recommended-books/",
+    "result": "rejected",
+    "reason": "実名を確認できなかった（@kz_morita）",
+    "person": "kz_morita",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://syu-m-5151.hatenablog.com/entry/2025/12/11/104143",
+    "result": "rejected",
+    "reason": "ハンドルnwiizoのみ。実名未確認、洋書中心",
+    "person": "nwiizo",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/hiromichinomata/articles/1abd716dfba46f",
+    "result": "rejected",
+    "reason": "「Hiromichi NOMATA」表記のみで、定番ではなく年間読書記録。著者名もページにない",
+    "person": "Hiromichi Nomata",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
+    "result": "candidate",
+    "reason": "CTO眞鍋氏（名のみ未確認）。パタヘネ・蟻本・TAPL等。ページに著者名がなく今回は見送り",
+    "person": "眞鍋",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://developers.cyberagent.co.jp/blog/archives/34910/",
+    "result": "rejected",
+    "reason": "約40名の匿名回答の集約で、人ごとの対応が取れない",
+    "person": "サイバーエージェント社員",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://en-ambi.com/itcontents/entry/2016/12/27/110000",
+    "result": "rejected",
+    "reason": "筆者は@ikenyalのハンドルのみで実名なし",
+    "person": "ikenyal",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://blog-dry.com/entry/2026/01/04/083000",
+    "result": "rejected",
+    "reason": "筆者の実名を確認できなかった。年間読書記録",
+    "person": "blog-dry",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://a-zs.net/tech-books-recommend/",
+    "result": "rejected",
+    "reason": "筆者名が不明の企業ブログ",
+    "person": "アーザス",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://azukiazusa.dev/blog/computer-it-books.md",
+    "result": "rejected",
+    "reason": "実名を確認できなかった（azukiazusa）。書名のみで著者名なし",
+    "person": "azukiazusa",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://dev.classmethod.jp/articles/bestbook-2019-summer/",
+    "result": "candidate",
+    "reason": "クラスメソッド社員多数の60選。人ごとの記載があれば実名で取れる可能性。今回未読",
+    "person": "クラスメソッド社員",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://zenn.dev/mixi/articles/68282cd93da9fd",
+    "result": "candidate",
+    "reason": "MIXI新卒研修の読書リスト。会社名義。今回未読",
+    "person": "MIXI",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://note.com/mijuari/n/nf76424e40dd0",
+    "result": "rejected",
+    "reason": "匿名ハンドルのnote、実名未確認（未読）",
+    "person": "mijuari",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://type.jp/et/feature/20727/",
+    "result": "adopted",
+    "reason": "sources.json の t2",
+    "checkedAt": "2026-11-16"
   }
 ]

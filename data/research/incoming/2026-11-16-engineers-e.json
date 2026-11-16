@@ -1,0 +1,194 @@
+{
+ "people": [
+  {
+   "id": "p-imai",
+   "name": "今井彩碧",
+   "title": "株式会社リーバンス 専務取締役",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "リーバンス"
+  },
+  {
+   "id": "p-oikawa",
+   "name": "及川卓也",
+   "title": "テクノロジスト（独立）",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "p-onishi",
+   "name": "大西康裕",
+   "title": "株式会社はてな 執行役員 サービス・ビジネス開発本部長",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "はてな"
+  },
+  {
+   "id": "p-kaneda",
+   "name": "金田卓士",
+   "title": "株式会社フューチャースタンダード データサイエンティスト",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "フューチャースタンダード"
+  },
+  {
+   "id": "p-kuribayashi",
+   "name": "栗林健太郎",
+   "title": "GMOペパボ株式会社 取締役CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "GMOペパボ"
+  },
+  {
+   "id": "p-sasaki",
+   "name": "佐々木康伸",
+   "title": "SHOWROOM株式会社 ファウンダーエンジニア",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "SHOWROOM"
+  },
+  {
+   "id": "p-nagase",
+   "name": "永瀬美穂",
+   "title": "株式会社アトラクタ Founder兼CBO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "アトラクタ"
+  },
+  {
+   "id": "p-masui",
+   "name": "増井雄一郎",
+   "title": "株式会社トレタ CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "トレタ"
+  },
+  {
+   "id": "p-watanabe",
+   "name": "渡辺洋司",
+   "title": "株式会社サイバーセキュリティクラウド CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "サイバーセキュリティクラウド"
+  }
+ ],
+ "sources": [
+  {
+   "id": "ambi-2017",
+   "type": "article",
+   "media": "アンビ（AMBI）",
+   "title": "時代をリードするエンジニア19人が推薦！ 若手エンジニアに薦めたい「座右の書」",
+   "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+   "publishedAt": "2017-10-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "p-imai",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "アップルのデザイン",
+    "author": "日経デザイン",
+    "publisher": "日経BP社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-oikawa",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "コンピュータ・アーキテクチャ",
+    "author": "ジョン・L・ヘネシー、デイビッド・A・パターソン",
+    "publisher": "翔泳社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-onishi",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "未来の二つの顔",
+    "author": "ジェイムズ・P・ホーガン",
+    "publisher": "東京創元社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-kaneda",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "エッセンシャル思考",
+    "author": "グレッグ・マキューン",
+    "publisher": "かんき出版"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-kuribayashi",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "起源のインターネット",
+    "author": "喜多千草",
+    "publisher": "青土社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-sasaki",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "OpenSocial入門",
+    "author": "田中洋一郎",
+    "publisher": "技術評論社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-nagase",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "塹壕よりScrumとXP",
+    "author": "Henrik Kniberg"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-masui",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "伽藍とバザール",
+    "author": "エリック・レイモンド",
+    "publisher": "USP研究所"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "p-watanabe",
+   "sourceId": "ambi-2017",
+   "book": {
+    "title": "問題発見プロフェッショナル",
+    "author": "齋藤嘉則",
+    "subtitle": "「構想力と分析力」",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "座右の書"
+  }
+ ],
+ "checkedUrls": []
+}

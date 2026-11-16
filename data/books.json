@@ -46280,5 +46280,674 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/1404796/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0487/04873334.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784532110239",
+    "title": "組織デザイン",
+    "authors": [
+      "沼上幹"
+    ],
+    "publisher": "日経BPM（日本経済新聞出版本部）",
+    "publishedAt": "2004-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1682058/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5321/53211023.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784794220585",
+    "title": "文庫　思考する機械　コンピュータ",
+    "authors": [
+      "ダニエル・ヒリス",
+      "倉骨彰"
+    ],
+    "publisher": "草思社",
+    "publishedAt": "2014-06-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12763406/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0585/9784794220585.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822282516",
+    "title": "はじめて学ぶソフトウェアのテスト技法",
+    "authors": [
+      "リー・コープランド"
+    ]
+  },
+  {
+    "isbn13": "9784810189490",
+    "title": "プログラマのためのSQL",
+    "authors": [
+      "ジョー・セルコ",
+      "シーエーシー"
+    ],
+    "publisher": "トッパン",
+    "publishedAt": "1996-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/8648267/"
+  },
+  {
+    "isbn13": "9784274235641",
+    "title": "マスタリングTCP/IP 入門編（第7版）",
+    "authors": [
+      "井上 直也",
+      "村山 公保",
+      "竹下 隆史",
+      "荒井 透",
+      "苅田 幸雄"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2026-11-27",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18846729/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5641/9784274235641_1_6.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784797322972",
+    "title": "暗号技術入門",
+    "authors": [
+      "結城浩"
+    ],
+    "publisher": "SBクリエイティブ",
+    "publishedAt": "2003-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1595789/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7973/79732297.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784140019542",
+    "title": "論文の教室",
+    "authors": [
+      "戸田山和久"
+    ],
+    "publisher": "NHK出版",
+    "publishedAt": "2002-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1507563/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1400/14001954.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784480062451",
+    "title": "哲学思考トレーニング",
+    "authors": [
+      "伊勢田 哲治"
+    ],
+    "publisher": "筑摩書房",
+    "publishedAt": "2005-07-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3597502/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2451/9784480062451.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784296070091",
+    "title": "コンピュータの構成と設計　MIPS Editoin　第6版　上",
+    "authors": [
+      "David Patterson",
+      "John Hennessy",
+      "成田 光彰"
+    ],
+    "publisher": "日経BP",
+    "publishedAt": "2021-11-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16924736/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0091/9784296070091_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784297124458",
+    "title": "実践的データ基盤への処方箋〜 ビジネス価値創出のためのデータ・システム・ヒトのノウハウ",
+    "authors": [
+      "ゆずたそ",
+      "渡部 徹太郎",
+      "伊藤 徹郎"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2021-12-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16916741/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4458/9784297124458_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774190877",
+    "title": "現場で役立つシステム設計の原則",
+    "authors": [
+      "増田亨"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2017-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15017530/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0877/9784774190877.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774196053",
+    "title": "エンジニアリング組織論への招待",
+    "authors": [
+      "廣木大地"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2018-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15341337/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6053/9784774196053.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784797393163",
+    "title": "体系的に学ぶ 安全なWebアプリケーションの作り方 第2版",
+    "authors": [
+      "徳丸 浩"
+    ],
+    "publisher": "SBクリエイティブ",
+    "publishedAt": "2018-06-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15472730/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3163/9784797393163_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784040800202",
+    "title": "人工知能は人間を超えるか ディープラーニングの先にあるもの",
+    "authors": [
+      "松尾 豊"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2015-03-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13140638/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0202/9784040800202.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798121963",
+    "title": "エリック・エヴァンスのドメイン駆動設計",
+    "authors": [
+      "エリック・エヴァンス",
+      "今関 剛",
+      "和智 右桂"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2011-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11146351/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1963/9784798121963.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088733999",
+    "title": "Ultra　red",
+    "authors": [
+      "鈴木央"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2003-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1534751/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08873399.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784091041029",
+    "title": "こんにちはマイコン（2）",
+    "authors": [
+      "すがやみつる"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "1983-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/180867/"
+  },
+  {
+    "isbn13": "9784860087920",
+    "title": "あたりまえを疑え。",
+    "authors": [
+      "澤 円"
+    ],
+    "publisher": "セブン＆アイ出版",
+    "publishedAt": "2018-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15697518/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7920/9784860087920.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798118925",
+    "title": "More　Joel　on　software",
+    "authors": [
+      "ジョエル・スポルスキ",
+      "青木靖"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2009-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6034420/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8925/9784798118925.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274224546",
+    "title": "リファクタリング（第2版）",
+    "authors": [
+      "Martin Fowler 著",
+      "児玉 公信",
+      "友野 晶夫",
+      "平澤 章",
+      "梅澤 真史"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2019-12-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16085666/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4546/9784274224546.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784873115658",
+    "title": "リーダブルコード",
+    "authors": [
+      "ダスティン・ボズウェル",
+      "トレバー・フォシェ"
+    ],
+    "publisher": "オライリー・ジャパン",
+    "publishedAt": "2012-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11753651/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5658/9784873115658_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784274217623",
+    "title": "エクストリームプログラミング",
+    "authors": [
+      "ケント・ベック",
+      "シンシア・アンドレス"
+    ],
+    "publisher": "オーム社",
+    "publishedAt": "2015-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13292388/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7623/9784274217623.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784822281113",
+    "title": "ゆとりの法則",
+    "authors": [
+      "トム・デマルコ",
+      "伊豆原弓"
+    ],
+    "publisher": "日経BP",
+    "publishedAt": "2001-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1396071/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8222/82228111.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784873114538",
+    "title": "Prototyping　Lab",
+    "authors": [
+      "小林茂（インタラクションデザイン）"
+    ],
+    "publisher": "オライリー・ジャパン",
+    "publishedAt": "2010-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6494326/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4538/9784873114538.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784022620170",
+    "title": "京大総長、ゴリラから生き方を学ぶ",
+    "authors": [
+      "山極寿一"
+    ],
+    "publisher": "朝日新聞出版",
+    "publishedAt": "2020-05-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16276556/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0170/9784022620170_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478106440",
+    "title": "組織開発の探究",
+    "authors": [
+      "中原 淳",
+      "中村 和彦"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2018-10-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15628111/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6440/9784478106440.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478374221",
+    "title": "ザ・プロフィット",
+    "authors": [
+      "エイドリアン・J．スライウォツキー",
+      "中川治子"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2002-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1512934/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4783/47837422.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478733240",
+    "title": "その幸運は偶然ではないんです！",
+    "authors": [
+      "ジョン・D．クランボルツ",
+      "A．S．レヴィン",
+      "花田 光世"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2005-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3686177/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3240/9784478733240.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784479791775",
+    "title": "自分の小さな「箱」から脱出する方法",
+    "authors": [
+      "アービンジャー・インスティチュート",
+      "冨永星"
+    ],
+    "publisher": "大和書房",
+    "publishedAt": "2006-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/4160816/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4797/47979177.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784621303252",
+    "title": "Effective Java",
+    "authors": [
+      "Joshua Bloch",
+      "柴田 芳樹"
+    ],
+    "publisher": "丸善出版",
+    "publishedAt": "2018-10-26",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15652954/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3252/9784621303252.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774143071",
+    "title": "Web開発者のための大規模サービス技術入門",
+    "authors": [
+      "伊藤直也",
+      "田中慎司"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2010-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6504086/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3071/9784774143071.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784798103433",
+    "title": "コミュニティ・オブ・プラクティス",
+    "authors": [
+      "エティエンヌ・ウェンガー",
+      "リチャード・マクダーモット"
+    ],
+    "publisher": "翔泳社",
+    "publishedAt": "2002-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1514911/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7981/79810343.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784839941062",
+    "title": "プログラミングコンテストチャレンジブック第2版",
+    "authors": [
+      "秋葉拓哉",
+      "岩田陽一"
+    ],
+    "publisher": "マイナビ出版",
+    "publishedAt": "2012-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11531089/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1062/9784839941062.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784839952952",
+    "title": "プログラミングコンテスト攻略のためのアルゴリズムとデータ構造",
+    "authors": [
+      "渡部有隆"
+    ],
+    "publisher": "マイナビ出版",
+    "publishedAt": "2015-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13098459/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2952/9784839952952.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784839970451",
+    "title": "Scaling Teams 開発チーム 組織と人の成長戦略",
+    "authors": [
+      "David Loftesness",
+      "Alexander Grosse"
+    ],
+    "publisher": "マイナビ出版",
+    "publishedAt": "2020-05-29",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16301803/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0451/9784839970451.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784873113593",
+    "title": "詳説正規表現第3版",
+    "authors": [
+      "ジェフリー・E．F．フリードル",
+      "ロングテール"
+    ],
+    "publisher": "オライリー・ジャパン",
+    "publishedAt": "2008-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5611106/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3593/9784873113593.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784910063010",
+    "title": "他者と働く──「わかりあえなさ」から始める組織論",
+    "authors": [
+      "宇田川 元一"
+    ],
+    "publisher": "ニューズピックス",
+    "publishedAt": "2019-10-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16060423/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3010/9784910063010_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784532318413",
+    "title": "独創はひらめかない",
+    "authors": [
+      "金出武雄"
+    ]
+  },
+  {
+    "isbn13": "9784774178028",
+    "title": "APIデザインケーススタディ",
+    "authors": [
+      "田中哲"
+    ]
+  },
+  {
+    "isbn13": "9784894717787",
+    "title": "ソフトウェアの達人たち",
+    "authors": [
+      "テリー・ウィノグラード"
+    ]
+  },
+  {
+    "isbn13": "9784152099679",
+    "title": "ゼロからつくる科学文明",
+    "authors": [
+      "ライアン・ノース"
+    ]
+  },
+  {
+    "isbn13": "9784844317210",
+    "title": "Rubyソースコード完全解説",
+    "authors": [
+      "青木峰郎"
+    ],
+    "publisher": "インプレス"
+  },
+  {
+    "isbn13": "9784887186330",
+    "title": "ハッカー・プログラミング大全",
+    "authors": [
+      "UNYUN"
+    ]
+  },
+  {
+    "isbn13": "9784875931287",
+    "title": "80386プログラミング",
+    "authors": [
+      "ジョン・Ｈ．クロフォ-ド"
+    ],
+    "publisher": "工学社"
+  },
+  {
+    "isbn13": "9784810185096",
+    "title": "UNIXネットワークプログラミング",
+    "authors": [
+      "W．リチャード・スティーブンス"
+    ],
+    "publisher": "トッパン"
+  },
+  {
+    "isbn13": "9784894714953",
+    "title": "詳解TCP/IP",
+    "authors": [
+      "ゲーリー・Ｒ．ライト"
+    ],
+    "publisher": "ピアソンエデュケーション"
+  },
+  {
+    "isbn13": "9784274050657",
+    "title": "Rubyのしくみ",
+    "authors": [
+      "パット・ショーネシ"
+    ],
+    "publisher": "オーム社"
+  },
+  {
+    "isbn13": "9784817195104",
+    "title": "ソフトウェアプロセス改善手法SaPID入門",
+    "authors": [
+      "安達賢二"
+    ],
+    "publisher": "日科技連出版社"
+  },
+  {
+    "isbn13": "9784797340044",
+    "title": "Rubyレシピブック",
+    "authors": [
+      "青木峰郎"
+    ],
+    "publisher": "SBクリエイティブ"
+  },
+  {
+    "isbn13": "9784894715370",
+    "title": "モダンオペレーティングシステム",
+    "authors": [
+      "アンドリュー・S・タネンバウム"
+    ]
+  },
+  {
+    "isbn13": "9784756102775",
+    "title": "INSIDE WINDOWS NT",
+    "authors": [
+      "ヘレン・カスター"
+    ]
+  },
+  {
+    "isbn13": "9784822247577",
+    "title": "闘うプログラマー",
+    "authors": [
+      "グレッグ・パスカル・ザカリー"
+    ]
+  },
+  {
+    "isbn13": "9784756114419",
+    "title": "私がマイクロソフトで学んだこと",
+    "authors": [
+      "ジュリー・ビック"
+    ],
+    "publisher": "アスキー"
+  },
+  {
+    "isbn13": "9784904807026",
+    "title": "伽藍とバザール",
+    "authors": [
+      "エリック・S．レーモンド"
+    ],
+    "publisher": "USP研究所"
+  },
+  {
+    "isbn13": "9784822271527",
+    "title": "コンピュータ・アーキテクチャ新装版",
+    "authors": [
+      "デーヴィド・A．パターソン",
+      "ジョン・L．ヘネシ"
+    ],
+    "publisher": "日経BP",
+    "publishedAt": "1994-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/640266/"
+  },
+  {
+    "isbn13": "9784488663056",
+    "title": "未来の二つの顔",
+    "authors": [
+      "ジェームズ・P．ホーガン",
+      "山高昭"
+    ],
+    "publisher": "東京創元社",
+    "publishedAt": "1983-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/105633/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3056/9784488663056.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784791761913",
+    "title": "起源のインターネット",
+    "authors": [
+      "喜多千草"
+    ],
+    "publisher": "青土社",
+    "publishedAt": "2005-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/10283679/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7917/79176191.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784774137483",
+    "title": "OpenSocial入門",
+    "authors": [
+      "田中洋一郎"
+    ],
+    "publisher": "技術評論社",
+    "publishedAt": "2009-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5962162/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7483/9784774137483.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478490341",
+    "title": "問題発見プロフェッショナル",
+    "authors": [
+      "齋藤 嘉則"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2001-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1399449/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4784/47849034.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784844381495",
+    "title": "Scalaスケーラブルプログラミング",
+    "authors": [
+      "Martin Odersky"
+    ]
+  },
+  {
+    "isbn13": "9784822264765",
+    "title": "アップルのデザイン",
+    "authors": [
+      "日経デザイン"
+    ],
+    "publisher": "日経BP社"
   }
 ]

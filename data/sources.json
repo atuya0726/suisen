@@ -10563,5 +10563,117 @@
     "title": "作家の読書道 第203回：古谷田奈月",
     "url": "https://www.webdoku.jp/rensai/sakka/michi203_koyata/",
     "publishedAt": "2019-02-23"
+  },
+  {
+    "id": "s-fujimura-note",
+    "type": "article",
+    "media": "note（藤村）",
+    "title": "CTOが選ぶ、エンジニアのみなさんに個人的に読んでほしい本",
+    "url": "https://note.com/fujimuradaisuke/n/n75b4018c5896",
+    "publishedAt": "2021-12-24"
+  },
+  {
+    "id": "s-fm4-c72399",
+    "type": "article",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第四弾】",
+    "url": "https://findy-code.io/media/articles/influential-books-4",
+    "publishedAt": "2024-05-30"
+  },
+  {
+    "id": "s-raksul-8dc840",
+    "type": "article",
+    "media": "RAKSUL TechBlog",
+    "title": "ラクスルグループ各CTOとエンジニアに聞いた！新卒エンジニアに贈る～スペシャルな一冊",
+    "url": "https://techblog.raksul.com/entry/book",
+    "publishedAt": "2022-08-31"
+  },
+  {
+    "id": "s-findytb4-f833cf",
+    "type": "article",
+    "media": "Findy Tech Blog",
+    "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part4",
+    "url": "https://tech.findy.co.jp/entry/2025/05/22/070000",
+    "publishedAt": "2025-05-22"
+  },
+  {
+    "id": "s-fm5-b2c6ab",
+    "type": "article",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第五弾】",
+    "url": "https://findy-code.io/media/articles/influential-books-5",
+    "publishedAt": "2024-10-22"
+  },
+  {
+    "id": "s-fm1-92e696",
+    "type": "article",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた",
+    "url": "https://findy-code.io/media/articles/influential-books",
+    "publishedAt": "2022-12-27"
+  },
+  {
+    "id": "s-type-040f5d",
+    "type": "article",
+    "media": "エンジニアtype",
+    "title": "「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【技術書編】",
+    "url": "https://type.jp/et/feature/20591/",
+    "publishedAt": "2022-09-29"
+  },
+  {
+    "id": "s-fm2-a46ee5",
+    "type": "article",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第二弾】",
+    "url": "https://findy-code.io/media/articles/influential-books-2",
+    "publishedAt": "2023-06-05"
+  },
+  {
+    "id": "s-findytb5-6f54c9",
+    "type": "article",
+    "media": "Findy Tech Blog",
+    "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part5",
+    "url": "https://tech.findy.co.jp/entry/2025/10/24/070000",
+    "publishedAt": "2025-10-24"
+  },
+  {
+    "id": "ambi2017",
+    "type": "article",
+    "media": "アンビ（AMBI）",
+    "title": "時代をリードするエンジニア19人が推薦！ 若手エンジニアに薦めたい「座右の書」",
+    "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+    "publishedAt": "2017-10-27"
+  },
+  {
+    "id": "f3",
+    "type": "interview",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第三弾】",
+    "url": "https://findy-code.io/media/articles/influential-books-3",
+    "publishedAt": "2023-11-15"
+  },
+  {
+    "id": "t2",
+    "type": "interview",
+    "media": "エンジニアtype",
+    "title": "第二弾はキャリア編！「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【キャリア書編】",
+    "url": "https://type.jp/et/feature/20727/",
+    "publishedAt": "2022-10-11"
+  },
+  {
+    "id": "f7",
+    "type": "interview",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第七弾】",
+    "url": "https://findy-code.io/media/articles/influential-books-7",
+    "publishedAt": "2025-11-11"
+  },
+  {
+    "id": "f6",
+    "type": "interview",
+    "media": "Findy Media",
+    "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第六弾】",
+    "url": "https://findy-code.io/media/articles/influential-books-6",
+    "publishedAt": "2025-06-06"
   }
 ]

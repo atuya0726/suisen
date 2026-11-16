@@ -1,0 +1,297 @@
+{
+ "people": [
+  {
+   "id": "itashiki",
+   "name": "板敷康洋",
+   "title": "株式会社サイバーエージェント プロジェクトマネージャー（元アメーバピグのチーフエンジニア）",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "サイバーエージェント"
+  },
+  {
+   "id": "urabe",
+   "name": "卜部昌平",
+   "title": "株式会社マネーフォワード フルタイムRubyコミッター",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "マネーフォワード"
+  },
+  {
+   "id": "sawada",
+   "name": "澤田雅彦",
+   "title": "NTT OSSセンタ PostgreSQLコントリビューター兼DBエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "NTT"
+  },
+  {
+   "id": "yakura",
+   "name": "矢倉大夢",
+   "title": "株式会社TEAMBOX CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "TEAMBOX"
+  },
+  {
+   "id": "yamamoto",
+   "name": "山本裕介",
+   "title": "株式会社サムライズム 経営もするエンジニア",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "サムライズム"
+  },
+  {
+   "id": "fujikawa",
+   "name": "藤川真一",
+   "title": "BASE株式会社 テクノロジスト（元取締役CTO）",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "BASE"
+  },
+  {
+   "id": "ikezawa",
+   "name": "池澤あやか",
+   "title": "タレント／エンジニア（フリーランスのエンジニア）",
+   "tags": [
+    "エンジニア"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ambi2017",
+   "type": "article",
+   "media": "アンビ（AMBI）",
+   "title": "時代をリードするエンジニア19人が推薦！ 若手エンジニアに薦めたい「座右の書」",
+   "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+   "publishedAt": "2017-10-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "itashiki",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "リファクタリング",
+    "author": "Martin Fowler",
+    "publisher": "オーム社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "urabe",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "リファクタリング",
+    "author": "Martin Fowler",
+    "publisher": "オーム社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "sawada",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "リーダブルコード",
+    "author": "Dustin Boswell、Trevor Foucher",
+    "publisher": "オライリー・ジャパン"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "yakura",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "プログラミングコンテストチャレンジブック",
+    "author": "秋葉拓哉、岩田陽一、北川宜稔",
+    "publisher": "毎日コミュニケーションズ"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "エクストリームプログラミング",
+    "author": "Kent Beck、Cynthia Andres",
+    "publisher": "オーム社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "fujikawa",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "ゆとりの法則",
+    "author": "トム・デマルコ",
+    "publisher": "日経BP社"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "ikezawa",
+   "sourceId": "ambi2017",
+   "book": {
+    "title": "Prototyping Lab",
+    "author": "小林茂",
+    "publisher": "オライリージャパン"
+   },
+   "context": "座右の書"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://en-ambi.com/itcontents/entry/2017/10/27/110000",
+   "result": "index",
+   "reason": "19人の座右の書。上記7人を採用。栗林健太郎・佐々木康伸・金田卓士・大西康裕・永瀬美穂・渡辺洋司は技術書でない／古い／エンジニア性が弱いため見送り（及川卓也・増井雄一郎は別担当）",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/fujimuradaisuke/n/n75b4018c5896",
+   "result": "index",
+   "reason": "採用",
+   "person": "藤村大介"
+  },
+  {
+   "url": "https://zenn.dev/mugipan/articles/ddf63ae04b3a9f",
+   "result": "rejected",
+   "reason": "実名を確認できなかった（ハンドル名「むぎ」のみ）",
+   "person": "むぎ"
+  },
+  {
+   "url": "https://zenn.dev/koduki/articles/425f50b60aa6a9",
+   "result": "rejected",
+   "reason": "実名を確認できなかった（ハンドル名koduki）",
+   "person": "koduki"
+  },
+  {
+   "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
+   "result": "rejected",
+   "reason": "スライド本文がテキスト化けして読めず、実名も確認できなかった（ハンドルoohira）。有望なら画像で再確認の価値あり",
+   "person": "oohira"
+  },
+  {
+   "url": "https://zenn.dev/hiroms/articles/bc23e9a8bf82b0",
+   "result": "rejected",
+   "reason": "実名を確認できなかった",
+   "person": "hiroms"
+  },
+  {
+   "url": "https://zenn.dev/saitama_neko/articles/3c6252c1d1232b",
+   "result": "rejected",
+   "reason": "実名を確認できなかった",
+   "person": "さいたま"
+  },
+  {
+   "url": "https://zenn.dev/abekoh/articles/90a9bb8698b091",
+   "result": "rejected",
+   "reason": "実名を確認できなかった",
+   "person": "abekoh"
+  },
+  {
+   "url": "https://qiita.com/ItoTakumi/items/ed12ba34365d3a1f43b4",
+   "result": "rejected",
+   "reason": "表示名が英字のみで実名を確認できなかった。本人の言及する書名に著者名もない可能性",
+   "person": "ItoTakumi"
+  },
+  {
+   "url": "https://qiita.com/mahiro72/items/2663ec94dd7f1c847bf0",
+   "result": "rejected",
+   "reason": "実名を確認できなかった（ハンドルmahiro72）",
+   "person": "mahiro72"
+  },
+  {
+   "url": "https://yuki0920.hatenablog.jp/entry/2022/11/06/200000",
+   "result": "rejected",
+   "reason": "日本語の実名を確認できず、書籍の著者名もページにない",
+   "person": "Yuki Watanabe"
+  },
+  {
+   "url": "https://blog.foresta.me/posts/recommended-books/",
+   "result": "rejected",
+   "reason": "実名を確認できなかった（@kz_morita）",
+   "person": "kz_morita"
+  },
+  {
+   "url": "https://syu-m-5151.hatenablog.com/entry/2025/12/11/104143",
+   "result": "rejected",
+   "reason": "ハンドルnwiizoのみ。実名未確認、洋書中心",
+   "person": "nwiizo"
+  },
+  {
+   "url": "https://zenn.dev/hiromichinomata/articles/1abd716dfba46f",
+   "result": "rejected",
+   "reason": "「Hiromichi NOMATA」表記のみで、定番ではなく年間読書記録。著者名もページにない",
+   "person": "Hiromichi Nomata"
+  },
+  {
+   "url": "https://zenn.dev/recustomer/articles/e4463e3a83615c",
+   "result": "candidate",
+   "reason": "CTO眞鍋氏（名のみ未確認）。パタヘネ・蟻本・TAPL等。ページに著者名がなく今回は見送り",
+   "person": "眞鍋"
+  },
+  {
+   "url": "https://type.jp/et/feature/20591/",
+   "result": "candidate",
+   "reason": "松岡剛志・原トリ・池澤あやか・戸倉彩・松岡玲音が1冊ずつ推薦。ページに著者名がなく見送り（書名と推薦者は明確）",
+   "person": "松岡剛志ほか"
+  },
+  {
+   "url": "https://developers.cyberagent.co.jp/blog/archives/34910/",
+   "result": "rejected",
+   "reason": "約40名の匿名回答の集約で、人ごとの対応が取れない",
+   "person": "サイバーエージェント社員"
+  },
+  {
+   "url": "https://en-ambi.com/itcontents/entry/2016/12/27/110000",
+   "result": "rejected",
+   "reason": "筆者は@ikenyalのハンドルのみで実名なし",
+   "person": "ikenyal"
+  },
+  {
+   "url": "https://blog-dry.com/entry/2026/01/04/083000",
+   "result": "rejected",
+   "reason": "筆者の実名を確認できなかった。年間読書記録",
+   "person": "blog-dry"
+  },
+  {
+   "url": "https://a-zs.net/tech-books-recommend/",
+   "result": "rejected",
+   "reason": "筆者名が不明の企業ブログ",
+   "person": "アーザス"
+  },
+  {
+   "url": "https://azukiazusa.dev/blog/computer-it-books.md",
+   "result": "rejected",
+   "reason": "実名を確認できなかった（azukiazusa）。書名のみで著者名なし",
+   "person": "azukiazusa"
+  },
+  {
+   "url": "https://dev.classmethod.jp/articles/bestbook-2019-summer/",
+   "result": "candidate",
+   "reason": "クラスメソッド社員多数の60選。人ごとの記載があれば実名で取れる可能性。今回未読",
+   "person": "クラスメソッド社員"
+  },
+  {
+   "url": "https://zenn.dev/mixi/articles/68282cd93da9fd",
+   "result": "candidate",
+   "reason": "MIXI新卒研修の読書リスト。会社名義。今回未読",
+   "person": "MIXI"
+  },
+  {
+   "url": "https://note.com/mijuari/n/nf76424e40dd0",
+   "result": "rejected",
+   "reason": "匿名ハンドルのnote、実名未確認（未読）",
+   "person": "mijuari"
+  }
+ ]
+}

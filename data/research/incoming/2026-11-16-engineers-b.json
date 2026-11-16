@@ -1,0 +1,470 @@
+{
+ "people": [
+  {
+   "id": "sato",
+   "name": "佐藤将高",
+   "title": "ファインディ株式会社 CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "nakamura",
+   "name": "中村大輝",
+   "title": "ファインディ株式会社 フロントエンドエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "kai",
+   "name": "甲斐和基",
+   "title": "ファインディ株式会社 フロントエンドエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "hiraki",
+   "name": "開功昂",
+   "title": "ファインディ株式会社 CTO室 データソリューションチーム データエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "tagashira",
+   "name": "田頭啓介",
+   "title": "ファインディ株式会社 CTO室 データソリューションチーム データエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ファインディ"
+  },
+  {
+   "id": "kasuya",
+   "name": "粕谷大輔",
+   "title": "Chatwork株式会社 開発組織づくり担当",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "Chatwork"
+  },
+  {
+   "id": "katoj",
+   "name": "加藤潤一",
+   "title": "Chatwork株式会社 テックリード",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "Chatwork"
+  },
+  {
+   "id": "fukuda",
+   "name": "福田鉄平",
+   "title": "Aqua Security セキュリティOSS「Trivy」開発者",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "Aqua Security"
+  },
+  {
+   "id": "okano",
+   "name": "岡野真也",
+   "title": "株式会社ObotAI 取締役CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "ObotAI"
+  },
+  {
+   "id": "mukaihira",
+   "name": "向平琴未",
+   "title": "株式会社ウィルゲート SREエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ウィルゲート"
+  },
+  {
+   "id": "sugiura",
+   "name": "杉浦正明",
+   "title": "株式会社CADDi（元 NewsPicks 取締役CTO）",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "CADDi"
+  },
+  {
+   "id": "matsumoto",
+   "name": "松本宗太郎",
+   "title": "株式会社タイミー フルタイムRubyコミッター",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "タイミー"
+  },
+  {
+   "id": "matsuoka",
+   "name": "松岡剛志",
+   "title": "コインチェック株式会社 執行役員 CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "コインチェック"
+  },
+  {
+   "id": "katoi",
+   "name": "加藤一平",
+   "title": "ラクスル株式会社 Director of Engineering, Core Print",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ラクスル"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_findytb4",
+   "type": "article",
+   "media": "Findy Tech Blog",
+   "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part4",
+   "url": "https://tech.findy.co.jp/entry/2025/05/22/070000",
+   "publishedAt": "2025-05-22"
+  },
+  {
+   "id": "s_findytb5",
+   "type": "article",
+   "media": "Findy Tech Blog",
+   "title": "【エンジニアの日常】エンジニア達の人生を変えた一冊 Part5",
+   "url": "https://tech.findy.co.jp/entry/2025/10/24/070000",
+   "publishedAt": "2025-10-24"
+  },
+  {
+   "id": "s_fm1",
+   "type": "article",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた",
+   "url": "https://findy-code.io/media/articles/influential-books",
+   "publishedAt": "2022-12-27"
+  },
+  {
+   "id": "s_fm2",
+   "type": "article",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第二弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-2",
+   "publishedAt": "2023-06-05"
+  },
+  {
+   "id": "s_fm4",
+   "type": "article",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第四弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-4",
+   "publishedAt": "2024-05-30"
+  },
+  {
+   "id": "s_fm5",
+   "type": "article",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第五弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-5",
+   "publishedAt": "2024-10-22"
+  },
+  {
+   "id": "s_type",
+   "type": "article",
+   "media": "エンジニアtype",
+   "title": "「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【技術書編】",
+   "url": "https://type.jp/et/feature/20591/",
+   "publishedAt": "2022-09-29"
+  },
+  {
+   "id": "s_raksul",
+   "type": "article",
+   "media": "RAKSUL TechBlog",
+   "title": "ラクスルグループ各CTOとエンジニアに聞いた！新卒エンジニアに贈る～スペシャルな一冊",
+   "url": "https://techblog.raksul.com/entry/book",
+   "publishedAt": "2022-08-31"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "sato",
+   "sourceId": "s_findytb4",
+   "book": {
+    "title": "コンピュータの構成と設計 上",
+    "subtitle": "MIPS Edition",
+    "author": "デイビッド・A・パターソン、ジョン・L・ヘネシー",
+    "publisher": "日経BP",
+    "isbn": "4296070096",
+    "edition": "第6版"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "nakamura",
+   "sourceId": "s_findytb4",
+   "book": {
+    "title": "体系的に学ぶ 安全なWebアプリケーションの作り方",
+    "subtitle": "脆弱性が生まれる原理と対策の実践",
+    "author": "徳丸浩",
+    "publisher": "SBクリエイティブ",
+    "isbn": "4797393165",
+    "edition": "第2版"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "kai",
+   "sourceId": "s_findytb4",
+   "book": {
+    "title": "現場で役立つシステム設計の原則",
+    "subtitle": "変更を楽で安全にするオブジェクト指向の実践技法",
+    "author": "増田亨",
+    "publisher": "技術評論社",
+    "isbn": "477419087X"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "hiraki",
+   "sourceId": "s_findytb5",
+   "book": {
+    "title": "実践的データ基盤への処方箋",
+    "subtitle": "ビジネス価値創出のためのデータ・システム・ヒトのノウハウ",
+    "author": "ゆずたそ、渡部徹太郎、伊藤徹郎",
+    "publisher": "技術評論社",
+    "isbn": "4297124459"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "tagashira",
+   "sourceId": "s_findytb5",
+   "book": {
+    "title": "人工知能は人間を超えるか",
+    "subtitle": "ディープラーニングの先にあるもの",
+    "author": "松尾豊",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "kasuya",
+   "sourceId": "s_fm1",
+   "book": {
+    "title": "Scalaスケーラブルプログラミング",
+    "author": "Martin Odersky"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "katoj",
+   "sourceId": "s_fm1",
+   "book": {
+    "title": "エリック・エヴァンスのドメイン駆動設計",
+    "author": "エリック・エヴァンス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "fukuda",
+   "sourceId": "s_fm1",
+   "book": {
+    "title": "Ultra Red",
+    "author": "鈴木央"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "okano",
+   "sourceId": "s_fm2",
+   "book": {
+    "title": "こんにちはマイコン",
+    "author": "すがやみつる"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "mukaihira",
+   "sourceId": "s_fm4",
+   "book": {
+    "title": "あたりまえを疑え。",
+    "subtitle": "自己実現できる働き方のヒント",
+    "author": "澤円"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "sugiura",
+   "sourceId": "s_fm5",
+   "book": {
+    "title": "ハッカーと画家",
+    "author": "ポール・グレアム"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "matsumoto",
+   "sourceId": "s_fm5",
+   "book": {
+    "title": "誰のためのデザイン？",
+    "author": "ドナルド・ノーマン"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "matsuoka",
+   "sourceId": "s_type",
+   "book": {
+    "title": "More Joel on Software",
+    "author": "Joel Spolsky",
+    "publisher": "翔泳社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "katoi",
+   "sourceId": "s_raksul",
+   "book": {
+    "title": "エンジニアリング組織論への招待",
+    "author": "広木大地",
+    "publisher": "技術評論社",
+    "isbn": "9784774196053"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://tech.findy.co.jp/archive/category/%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E4%B8%80%E5%86%8A",
+   "result": "index",
+   "reason": "Findy Tech Blog「エンジニア達の人生を変えた一冊」。Part1〜Part7（Part6は一覧で未確認）。1回3人×1冊。Part1,2,3,4,5,7を読んだ。実名フルネームはPart4・Part5の5人のみ（他は姓のみ・ハンドル名）。ISBNはAmazonリンクから転記",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/series/influential-books",
+   "result": "index",
+   "reason": "Findy Media「珠玉の書籍」。「あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた」第1〜第7弾（各8〜9人、計約55人）と「人生を変えた1冊」yuki＆sivchari回。第1・2・4・5弾を読んだ。第3・6・7弾は人物と書名を確認したが、著者名がページに無い本が大半のため未採用（candidate）",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-3",
+   "result": "candidate",
+   "reason": "第三弾(2023-11-15)。遠藤侑介(自著)・笹田耕一(Ruby Hacking Guide)・竹迫良範(ハッカー・プログラミング大全)・鳥井雪(Rubyのしくみ)・廣戸裕大(プログラミングコンテストチャレンジブック)・ミノ駆動(リファクタリング、ハンドル名)・めもりー・motemen。著者名がページに無く未採用。リンク先(オーム社等)で著者を確認すれば採用可",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-6",
+   "result": "candidate",
+   "reason": "第六弾(2025-06-06)。岩崎裕馬・大津和槻・川崎雄太・CHEEBOW・中島明日香・服部毅保・pospome・湯前慶大。著者名がページに無い、または共著者・身内の本で未採用",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-7",
+   "result": "candidate",
+   "reason": "第七弾(2025-11-11)。天野祐介・uzulla・兼平大資(Effective Java)・齋藤祐一郎(闘うプログラマー)・長谷川智希・frenchbread。著者名がページに無く未採用",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-2",
+   "result": "candidate",
+   "reason": "第二弾の残り: 坂井恵(雑誌)・柴田博志(LEAN IN)・Shougo(Emacsテクニックバイブル)・鈴木雄介・前田喬之(洋書)・松木雅幸(詳説 正規表現)・米田優峻(螺旋本)。著者名がページに無く未採用",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-4",
+   "result": "candidate",
+   "reason": "第四弾の残り: あらたま・小田中育生・風間裕也・小林謙太・hikalium・藤倉成太(Enterprise Integration Patterns、日本語版がページから確認できず)。著者名がページに無い等で未採用",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-5",
+   "result": "candidate",
+   "reason": "第五弾の残り: aki.m・五十嵐邦明・IPUSIRON・岩成達哉・江部隼矢(洋書)・篠塚史弥(著者の名が先生のみ)・星北斗。著者名がページに無く未採用",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books",
+   "result": "rejected",
+   "reason": "第一弾の古川陽介『サーバサイドJavaScript Node.js入門』は「おすすめの本として紹介しているわけではない」と明記。瀬尾直利(著者が「金出教授」のみ)・松田明(APIデザインケーススタディ、著者名なし)・きしだなおき(計算理論の基礎、著者名なし)も著者名がページに無く未採用。無職やめ太郎・yoku0825はハンドル名",
+   "person": "古川陽介"
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+   "result": "unreachable",
+   "reason": "ハンドル名(yuki, sivchari)のため未読・対象外",
+   "person": ""
+  },
+  {
+   "url": "https://tech.findy.co.jp/entry/2025/10/24/070000",
+   "result": "rejected",
+   "reason": "松村(姓のみ)『メタプログラミングRuby』は実名がフルネームで出ていないため除外",
+   "person": "松村"
+  },
+  {
+   "url": "https://tech.findy.co.jp/entry/2024/09/13/090000",
+   "result": "rejected",
+   "reason": "Part1: 戸田・高橋・森の姓のみ・ハンドル併記で実名が確定しない",
+   "person": ""
+  },
+  {
+   "url": "https://tech.findy.co.jp/entry/2024/10/21/070000",
+   "result": "rejected",
+   "reason": "Part2: 西村・林ほか姓のみ",
+   "person": ""
+  },
+  {
+   "url": "https://tech.findy.co.jp/entry/2024/11/25/070000",
+   "result": "rejected",
+   "reason": "Part3: 中坪・久木田・金丸ほか姓のみ",
+   "person": ""
+  },
+  {
+   "url": "https://tech.findy.co.jp/entry/2026/06/01/070000",
+   "result": "rejected",
+   "reason": "Part7: 本田・加藤・山田の姓のみ",
+   "person": ""
+  },
+  {
+   "url": "https://type.jp/et/feature/20591/",
+   "result": "index",
+   "reason": "エンジニアtype「バイブルに育てられた」技術書編(2022-09-29)。8人1冊ずつ。著者名がページにあるのは松岡剛志のみ採用。澤円(私がマイクロソフトで学んだこと)・松本勇気(大規模サービス技術入門)・原トリ(Javaデザインパターン入門)・戸倉彩(マスタリングTCP/IP)・池澤あやか(The Nature of Code)・松岡玲音(洋書)・ひろゆき(伽藍とバザール)は著者名がページに無く未採用。キャリア編が別記事にあるが未読。robots.txtは/et/feature/を禁止していない",
+   "person": ""
+  },
+  {
+   "url": "https://techblog.raksul.com/entry/book",
+   "result": "index",
+   "reason": "ラクスル新卒エンジニア向け5本。加藤一平のみ採用。泉(Clean Code等)・二串(97のこと)・戸辺/田村(達人プログラマー)・向平(mktakuya、情報不足)は姓のみ・ハンドル名で除外",
+   "person": ""
+  },
+  {
+   "url": "https://wall.ac/columns/interview-engineer-most-recommend-book",
+   "result": "unreachable",
+   "reason": "ドメインが売り物ページになっており記事を取得できない",
+   "person": ""
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/070300541/",
+   "result": "rejected",
+   "reason": "日経BOOKプラス「CTOの本棚」は取り込み済みのため対象外",
+   "person": ""
+  },
+  {
+   "url": "https://zenn.dev/mugipan/articles/ddf63ae04b3a9f",
+   "result": "rejected",
+   "reason": "個人の技術書紹介で連載・企画ではない（検索結果のみ、未取得）",
+   "person": ""
+  }
+ ]
+}

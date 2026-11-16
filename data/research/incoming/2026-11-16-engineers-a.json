@@ -1,0 +1,163 @@
+{
+ "people": [
+  {
+   "id": "fujimura",
+   "name": "藤村大介",
+   "title": "STORES CTO",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "STORES"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s-fujimura-note",
+   "type": "article",
+   "media": "note（藤村）",
+   "title": "CTOが選ぶ、エンジニアのみなさんに個人的に読んでほしい本",
+   "url": "https://note.com/fujimuradaisuke/n/n75b4018c5896",
+   "publishedAt": "2021-12-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "はじめて学ぶソフトウェアのテスト技法",
+    "author": "リー・コープランド",
+    "isbn": "4822282511"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "思考する機械コンピュータ",
+    "author": "ダニエル・ヒリス",
+    "isbn": "4794220588"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "プログラマのためのSQL",
+    "author": "ジョー・セルコ",
+    "subtitle": "すべてを知り尽くしたいあなたに",
+    "edition": "第4版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "マスタリングTCP/IP 入門編",
+    "author": "井上直也",
+    "edition": "第6版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "暗号技術入門",
+    "author": "結城浩",
+    "subtitle": "秘密の国のアリス",
+    "edition": "第3版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "論文の教室",
+    "author": "戸田山和久",
+    "subtitle": "レポートから卒論まで",
+    "edition": "新版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "哲学思考トレーニング",
+    "author": "伊勢田哲治"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujimura",
+   "sourceId": "s-fujimura-note",
+   "book": {
+    "title": "組織デザイン",
+    "author": "沼上幹",
+    "isbn": "4532110238"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://zenn.dev/satoru_takeuchi/articles/b4d0b811874522",
+   "result": "rejected",
+   "reason": "本人の記事だが、本の著者名がページに無く、ハンドル名(sat)で実名の表記が無い",
+   "person": "satoru takeuchi"
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-5",
+   "result": "candidate",
+   "reason": "著名エンジニア9人が本人の言葉で1冊ずつ紹介（連載、第1〜5弾以上）。著者名がページに無く今回は取り込めず。本の公式ページ等で著者が確認できれば使える",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media",
+   "result": "index",
+   "reason": "Findy Media「あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた」シリーズ",
+   "person": ""
+  },
+  {
+   "url": "https://type.jp/et/feature/20591/",
+   "result": "candidate",
+   "reason": "他の7人（澤円・松本勇気(取込済)・原トリ・戸倉彩・池澤あやか・松岡玲音・ひろゆき）は著者名がページに無い、または対象外。キャリア編が別記事にある",
+   "person": ""
+  },
+  {
+   "url": "https://golden-lucky.hatenablog.com/entry/2021/01/07/171716",
+   "result": "rejected",
+   "reason": "ハンドル名のみで実名が不明",
+   "person": "golden-lucky"
+  },
+  {
+   "url": "https://note.com/mijuari/n/nc5c436c8cc9f",
+   "result": "rejected",
+   "reason": "第三者のまとめ記事",
+   "person": ""
+  },
+  {
+   "url": "https://elwoodblues.hatenablog.com/entry/20100623/1277263009",
+   "result": "rejected",
+   "reason": "実名・本人確認ができず未読",
+   "person": ""
+  },
+  {
+   "url": "https://note.com/vaaaaanquish/n/n6d5196f13988",
+   "result": "rejected",
+   "reason": "河合俊典は取り込み済み",
+   "person": "河合俊典"
+  },
+  {
+   "url": "https://speakerdeck.com/oohira/tech-books-that-influenced-my-engineer-life",
+   "result": "candidate",
+   "reason": "本人のスライドと思われるが今回は未読（テキスト取得に手数がかかる）",
+   "person": "oohira"
+  }
+ ]
+}

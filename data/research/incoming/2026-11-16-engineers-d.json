@@ -1,0 +1,832 @@
+{
+ "people": [
+  {
+   "id": "seo",
+   "name": "瀬尾直利",
+   "title": "株式会社ZOZO VPoE",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "ZOZO"
+  },
+  {
+   "id": "matsuda",
+   "name": "松田明",
+   "title": "Rubyコミッター",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "suzuki",
+   "name": "鈴木雄介",
+   "title": "グロース・アーキテクチャ＆チームス株式会社 代表取締役社長",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "グロース・アーキテクチャ＆チームス"
+  },
+  {
+   "id": "maeda",
+   "name": "前田喬之",
+   "title": "株式会社マネーフォワード ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "マネーフォワード"
+  },
+  {
+   "id": "matsuki",
+   "name": "松木雅幸",
+   "title": "株式会社ヘンリー チーフエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "ヘンリー"
+  },
+  {
+   "id": "yoneda",
+   "name": "米田優峻",
+   "title": "東京大学 学生",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "東京大学"
+  },
+  {
+   "id": "sasada",
+   "name": "笹田耕一",
+   "title": "Rubyアソシエーション 理事",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "takesako",
+   "name": "竹迫良範",
+   "title": "株式会社リクルート ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "リクルート"
+  },
+  {
+   "id": "torii",
+   "name": "鳥井雪",
+   "title": "株式会社万葉 プログラマー",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "万葉"
+  },
+  {
+   "id": "hirato",
+   "name": "廣戸裕大",
+   "title": "株式会社Yuimedi VPoE",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "Yuimedi"
+  },
+  {
+   "id": "odanaka",
+   "name": "小田中育生",
+   "title": "株式会社カケハシ エンジニアリングマネージャー",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "カケハシ"
+  },
+  {
+   "id": "kazama",
+   "name": "風間裕也",
+   "title": "株式会社10X QAエンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "10X"
+  },
+  {
+   "id": "kobayashi",
+   "name": "小林謙太",
+   "title": "個人事業主 ソフトウェアエンジニア",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "igarashi",
+   "name": "五十嵐邦明",
+   "title": "ガーネットテック373株式会社 代表取締役社長",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "ガーネットテック373"
+  },
+  {
+   "id": "iwanari",
+   "name": "岩成達哉",
+   "title": "株式会社estie 取締役CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "estie"
+  },
+  {
+   "id": "shinozuka",
+   "name": "篠塚史弥",
+   "title": "株式会社LayerX エンジニアリングマネージャー",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "LayerX"
+  },
+  {
+   "id": "hoshi",
+   "name": "星北斗",
+   "title": "株式会社LayerX 執行役員CISO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "LayerX"
+  },
+  {
+   "id": "iwasaki",
+   "name": "岩崎裕馬",
+   "title": "identify株式会社 CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "identify"
+  },
+  {
+   "id": "otsu",
+   "name": "大津和槻",
+   "title": "BASE株式会社 Engineering Program Manager",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "BASE"
+  },
+  {
+   "id": "hattori",
+   "name": "服部毅保",
+   "title": "アソビュー株式会社 VPoE",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "アソビュー"
+  },
+  {
+   "id": "yuzen",
+   "name": "湯前慶大",
+   "title": "株式会社カケハシ 執行役員CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "カケハシ"
+  },
+  {
+   "id": "amano",
+   "name": "天野祐介",
+   "title": "元サイボウズ スクラムマスター・アジャイルコーチ",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "kanehira",
+   "name": "兼平大資",
+   "title": "アソビュー株式会社 CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "アソビュー"
+  },
+  {
+   "id": "saito",
+   "name": "齋藤祐一郎",
+   "title": "キャッシュレス決済事業者 AWSエンジニア（部長）",
+   "tags": [
+    "エンジニア"
+   ]
+  },
+  {
+   "id": "sawa",
+   "name": "澤円",
+   "title": "株式会社圓窓 代表取締役",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "圓窓"
+  },
+  {
+   "id": "matsumoto",
+   "name": "松本勇気",
+   "title": "株式会社LayerX 代表取締役CTO",
+   "tags": [
+    "エンジニア",
+    "経営者"
+   ],
+   "affiliation": "LayerX"
+  },
+  {
+   "id": "tokura",
+   "name": "戸倉彩",
+   "title": "日本アイ・ビー・エム株式会社 カスタマーサクセス部長",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "日本アイ・ビー・エム"
+  },
+  {
+   "id": "nishimura",
+   "name": "西村博之",
+   "title": "東京プラス株式会社 代表取締役",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "東京プラス"
+  },
+  {
+   "id": "matsuoka",
+   "name": "松岡玲音",
+   "title": "Meta London エンジニア",
+   "tags": [
+    "エンジニア"
+   ],
+   "affiliation": "Meta"
+  }
+ ],
+ "sources": [
+  {
+   "id": "f1",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた",
+   "url": "https://findy-code.io/media/articles/influential-books",
+   "publishedAt": "2022-12-27"
+  },
+  {
+   "id": "f2",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第二弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-2",
+   "publishedAt": "2023-06-05"
+  },
+  {
+   "id": "f3",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第三弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-3",
+   "publishedAt": "2023-11-15"
+  },
+  {
+   "id": "f4",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第四弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-4",
+   "publishedAt": "2024-05-30"
+  },
+  {
+   "id": "f5",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第五弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-5",
+   "publishedAt": "2024-10-22"
+  },
+  {
+   "id": "f6",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第六弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-6",
+   "publishedAt": "2025-06-06"
+  },
+  {
+   "id": "f7",
+   "type": "interview",
+   "media": "Findy Media",
+   "title": "あなたのキャリアに影響を与えた本は何ですか？ 著名エンジニアの方々に聞いてみた【第七弾】",
+   "url": "https://findy-code.io/media/articles/influential-books-7",
+   "publishedAt": "2025-11-11"
+  },
+  {
+   "id": "t1",
+   "type": "interview",
+   "media": "エンジニアtype",
+   "title": "「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【技術書編】",
+   "url": "https://type.jp/et/feature/20591/",
+   "publishedAt": "2022-09-29"
+  },
+  {
+   "id": "t2",
+   "type": "interview",
+   "media": "エンジニアtype",
+   "title": "第二弾はキャリア編！「このバイブルに育てられた」駆け出しエンジニアだった頃に読み込んだ、学びの一冊をご紹介【キャリア書編】",
+   "url": "https://type.jp/et/feature/20727/",
+   "publishedAt": "2022-10-11"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "seo",
+   "sourceId": "f1",
+   "book": {
+    "title": "独創はひらめかない",
+    "subtitle": "「素人発想、玄人実行」の法則",
+    "author": "金出武雄",
+    "isbn": "9784532318413"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuda",
+   "sourceId": "f1",
+   "book": {
+    "title": "APIデザインケーススタディ",
+    "author": "田中哲",
+    "isbn": "9784774178028"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "suzuki",
+   "sourceId": "f2",
+   "book": {
+    "title": "ソフトウェアの達人たち",
+    "subtitle": "認知科学からのアプローチ",
+    "author": "テリー・ウィノグラード",
+    "isbn": "9784894717787"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "maeda",
+   "sourceId": "f2",
+   "book": {
+    "title": "ゼロからつくる科学文明",
+    "subtitle": "タイムトラベラーのためのサバイバルガイド",
+    "author": "ライアン・ノース",
+    "isbn": "9784152099679"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuki",
+   "sourceId": "f2",
+   "book": {
+    "title": "詳説 正規表現",
+    "author": "ジェフリー・E．F．フリードル",
+    "publisher": "オライリー",
+    "isbn": "9784873113593"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yoneda",
+   "sourceId": "f2",
+   "book": {
+    "title": "プログラミングコンテスト攻略のためのアルゴリズムとデータ構造",
+    "author": "渡部有隆",
+    "isbn": "9784839952952"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sasada",
+   "sourceId": "f3",
+   "book": {
+    "title": "Rubyソースコード完全解説",
+    "subtitle": "Ruby Hacking Guide",
+    "author": "青木峰郎",
+    "publisher": "インプレス",
+    "isbn": "9784844317210",
+    "linkUrl": "https://book.impress.co.jp/books/1721"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takesako",
+   "sourceId": "f3",
+   "book": {
+    "title": "ハッカー・プログラミング大全",
+    "author": "UNYUN",
+    "isbn": "9784887186330"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takesako",
+   "sourceId": "f3",
+   "book": {
+    "title": "80386プログラミング",
+    "author": "ジョン・Ｈ．クロフォ-ド",
+    "publisher": "工学社",
+    "linkUrl": "https://www.kohgakusha.co.jp/books/detail/978-4-87593-128-7",
+    "isbn": "9784875931287"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takesako",
+   "sourceId": "f3",
+   "book": {
+    "title": "プログラミング言語C",
+    "author": "カーニハン，B．W．",
+    "publisher": "共立出版",
+    "edition": "第2版",
+    "linkUrl": "https://www.kyoritsu-pub.co.jp/book/b10011596.html",
+    "isbn": "9784320026926"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takesako",
+   "sourceId": "f3",
+   "book": {
+    "title": "UNIXネットワークプログラミング",
+    "author": "W．リチャード・スティーブンス",
+    "publisher": "トッパン",
+    "edition": "Vol.1",
+    "isbn": "9784810185096"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takesako",
+   "sourceId": "f3",
+   "book": {
+    "title": "詳解TCP/IP",
+    "subtitle": "実装",
+    "author": "ゲーリー・Ｒ．ライト",
+    "publisher": "ピアソンエデュケーション",
+    "edition": "Vol.2",
+    "isbn": "9784894714953"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torii",
+   "sourceId": "f3",
+   "book": {
+    "title": "Rubyのしくみ",
+    "subtitle": "Ruby Under a Microscope",
+    "author": "パット・ショーネシ",
+    "publisher": "オーム社",
+    "isbn": "9784274050657",
+    "linkUrl": "https://www.ohmsha.co.jp/book/9784274050657/"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hirato",
+   "sourceId": "f3",
+   "book": {
+    "title": "プログラミングコンテストチャレンジブック",
+    "author": "秋葉拓哉、岩田陽一、北川宜稔",
+    "publisher": "マイナビ出版",
+    "isbn": "9784839941062",
+    "linkUrl": "https://book.mynavi.jp/ec/products/detail/id=22672"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "odanaka",
+   "sourceId": "f4",
+   "book": {
+    "title": "Measure What Matters",
+    "subtitle": "伝説のベンチャー投資家がGoogleに教えた成功手法OKR",
+    "author": "ジョン・ドーア",
+    "isbn": "9784532322403"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kazama",
+   "sourceId": "f4",
+   "book": {
+    "title": "ソフトウェアプロセス改善手法SaPID入門",
+    "subtitle": "現場力を引き出すシステムズアプローチ",
+    "author": "安達賢二",
+    "publisher": "日科技連出版社",
+    "isbn": "9784817195104",
+    "linkUrl": "https://www.juse-p.co.jp/products/view/497"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kobayashi",
+   "sourceId": "f4",
+   "book": {
+    "title": "組織開発の探究",
+    "author": "中原 淳",
+    "isbn": "9784478106440"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "igarashi",
+   "sourceId": "f5",
+   "book": {
+    "title": "Rubyレシピブック",
+    "subtitle": "268の技",
+    "author": "青木峰郎",
+    "publisher": "SBクリエイティブ",
+    "edition": "第2版",
+    "linkUrl": "https://www.sbcr.jp/product/4797340044/",
+    "isbn": "9784797340044"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwanari",
+   "sourceId": "f5",
+   "book": {
+    "title": "ザ・プロフィット",
+    "author": "エイドリアン・J．スライウォツキー",
+    "isbn": "9784478374221"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shinozuka",
+   "sourceId": "f5",
+   "book": {
+    "title": "京大総長、ゴリラから生き方を学ぶ",
+    "author": "山極寿一",
+    "isbn": "9784022620170"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hoshi",
+   "sourceId": "f5",
+   "book": {
+    "title": "モダンオペレーティングシステム",
+    "author": "アンドリュー・S・タネンバウム",
+    "edition": "原書 第2版",
+    "isbn": "9784894715370",
+    "linkUrl": "https://www.amazon.com/dp/4894715376/"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "iwasaki",
+   "sourceId": "f6",
+   "book": {
+    "title": "自分の小さな「箱」から脱出する方法",
+    "author": "アービンジャー・インスティチュート",
+    "isbn": "9784479791775",
+    "linkUrl": "https://www.amazon.co.jp/dp/4479791779"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "otsu",
+   "sourceId": "f6",
+   "book": {
+    "title": "Scaling Teams",
+    "subtitle": "開発チーム 組織と人の成長戦略",
+    "author": "David Loftesness",
+    "isbn": "9784839970451"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hattori",
+   "sourceId": "f6",
+   "book": {
+    "title": "その幸運は偶然ではないんです！",
+    "author": "ジョン・D．クランボルツ",
+    "isbn": "9784478733240"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yuzen",
+   "sourceId": "f6",
+   "book": {
+    "title": "INSIDE WINDOWS NT",
+    "author": "ヘレン・カスター",
+    "isbn": "9784756102775",
+    "linkUrl": "https://www.amazon.co.jp/dp/4756102778"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "amano",
+   "sourceId": "f7",
+   "book": {
+    "title": "コミュニティ・オブ・プラクティス",
+    "author": "エティエンヌ・ウェンガー",
+    "isbn": "9784798103433"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kanehira",
+   "sourceId": "f7",
+   "book": {
+    "title": "Effective Java",
+    "author": "ジョシュア・ブロック",
+    "publisher": "丸善出版",
+    "edition": "第3版",
+    "isbn": "9784621303252",
+    "linkUrl": "https://www.maruzen-publishing.co.jp/book/b10120153.html"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saito",
+   "sourceId": "f7",
+   "book": {
+    "title": "闘うプログラマー",
+    "author": "グレッグ・パスカル・ザカリー",
+    "isbn": "9784822247577"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawa",
+   "sourceId": "t1",
+   "book": {
+    "title": "私がマイクロソフトで学んだこと",
+    "author": "ジュリー・ビック",
+    "publisher": "アスキー",
+    "isbn": "9784756114419"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsumoto",
+   "sourceId": "t1",
+   "book": {
+    "title": "大規模サービス技術入門",
+    "subtitle": "データ構造、メモリ、OS、DB、サーバ/インフラ",
+    "author": "伊藤直也",
+    "publisher": "技術評論社",
+    "isbn": "9784774143071"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tokura",
+   "sourceId": "t1",
+   "book": {
+    "title": "マスタリング TCP/IP",
+    "author": "竹下隆史",
+    "publisher": "オーム社",
+    "edition": "入門編"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishimura",
+   "sourceId": "t1",
+   "book": {
+    "title": "伽藍とバザール",
+    "author": "エリック・S．レーモンド",
+    "publisher": "USP研究所",
+    "isbn": "9784904807026"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sawa",
+   "sourceId": "t2",
+   "book": {
+    "title": "マネジメント",
+    "subtitle": "基本と原則",
+    "author": "P・F・ドラッカー",
+    "publisher": "ダイヤモンド社",
+    "edition": "エッセンシャル版",
+    "isbn": "9784478410233"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsumoto",
+   "sourceId": "t2",
+   "book": {
+    "title": "世界はシステムで動く",
+    "subtitle": "いま起きていることの本質をつかむ考え方",
+    "author": "ドネラ・H・メドウズ",
+    "publisher": "英治出版",
+    "isbn": "9784862761804"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tokura",
+   "sourceId": "t2",
+   "book": {
+    "title": "さあ、才能(じぶん)に目覚めよう",
+    "author": "トム・ラス",
+    "publisher": "日本経済新聞出版",
+    "edition": "新版 ストレングス・ファインダー2.0",
+    "isbn": "9784532321437"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "matsuoka",
+   "sourceId": "t2",
+   "book": {
+    "title": "他者と働く",
+    "subtitle": "「わかりあえなさ」から始める組織論",
+    "author": "宇田川 元一",
+    "publisher": "NewsPicksパブリッシング",
+    "isbn": "9784910063010"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nishimura",
+   "sourceId": "t2",
+   "book": {
+    "title": "銃・病原菌・鉄",
+    "author": "ジャレド・ダイアモンド",
+    "publisher": "草思社",
+    "isbn": "9784794210050"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari",
+   "result": "rejected",
+   "reason": "ハンドル名のみ（yuki・sivchari）で実名が確認できず、書名もページに無い",
+   "person": "yuki / sivchari"
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-2",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-3",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-4",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-5",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-6",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://findy-code.io/media/articles/influential-books-7",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://type.jp/et/feature/20591/",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  },
+  {
+   "url": "https://type.jp/et/feature/20727/",
+   "result": "index",
+   "reason": "記事を全員分読んだ",
+   "person": ""
+  }
+ ]
+}
