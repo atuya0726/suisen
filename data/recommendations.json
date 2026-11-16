@@ -22309,5 +22309,159 @@
     "sourceId": "s149",
     "context": "その他",
     "verified": true
+  },
+  {
+    "personId": "p0674",
+    "isbn13": "9784001140217",
+    "sourceId": "sakka128",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0676",
+    "isbn13": "9784309462349",
+    "sourceId": "s142",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0676",
+    "isbn13": "9784062166508",
+    "sourceId": "s142",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0532",
+    "isbn13": "9784796700788",
+    "sourceId": "s157",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0682",
+    "isbn13": "9784001106909",
+    "sourceId": "s95",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0683",
+    "isbn13": "9784150309206",
+    "sourceId": "s165",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0684",
+    "isbn13": "9784150301170",
+    "sourceId": "ubukata99",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0530",
+    "isbn13": "9784101156347",
+    "sourceId": "imamura219",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0685",
+    "isbn13": "9784101109534",
+    "sourceId": "s235",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0688",
+    "isbn13": "9784150301170",
+    "sourceId": "sakka230",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0688",
+    "isbn13": "9784086114790",
+    "sourceId": "sakka230",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0692",
+    "isbn13": "9784253227544",
+    "sourceId": "s207",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0693",
+    "isbn13": "9784101001579",
+    "sourceId": "s191",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0693",
+    "isbn13": "9784396764630",
+    "sourceId": "s191",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0704",
+    "isbn13": "9784167323042",
+    "sourceId": "s153",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0305",
+    "isbn13": "9784041851012",
+    "sourceId": "s149",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0305",
+    "isbn13": "9784022141439",
+    "sourceId": "s149",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0698",
+    "isbn13": "9784101152400",
+    "sourceId": "s143",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0701",
+    "isbn13": "9784088712734",
+    "sourceId": "s100",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0702",
+    "isbn13": "9784022655004",
+    "sourceId": "s92",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0638",
+    "isbn13": "9784622086918",
+    "sourceId": "shiomi-atoz",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784047292796",
+    "sourceId": "asahi16749668",
+    "context": "その他",
+    "verified": true
   }
 ]

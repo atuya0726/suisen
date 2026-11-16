@@ -11588,5 +11588,17 @@
     "result": "adopted",
     "reason": "sources.json の s92",
     "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://www.webdoku.jp/rensai/sakka/michi153_kurokawa/",
+    "result": "adopted",
+    "reason": "sources.json の s153",
+    "checkedAt": "2026-11-16"
+  },
+  {
+    "url": "https://book.asahi.com/article/16749668",
+    "result": "adopted",
+    "reason": "sources.json の asahi16749668",
+    "checkedAt": "2026-11-16"
   }
 ]
