@@ -1,0 +1,380 @@
+{
+ "people": [
+  {
+   "id": "hojo",
+   "name": "方丈貴恵",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "shiotani",
+   "name": "潮谷験",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "isshiki",
+   "name": "一色さゆり",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s281",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第281回：方丈貴恵",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi281_hojo/",
+   "publishedAt": "2025-11-28"
+  },
+  {
+   "id": "s268",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第268回：潮谷験",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi268_shiotani/",
+   "publishedAt": "2024-09-27"
+  },
+  {
+   "id": "s254",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第254回：一色さゆり",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi254_isshiki/",
+   "publishedAt": "2023-06-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "アルセーヌ・ルパン",
+    "author": "モーリス・ルブラン",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "僧正殺人事件",
+    "author": "S・S・ヴァン・ダイン",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "長いお別れ",
+    "author": "レイモンド・チャンドラー",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "柳生忍法帖 上",
+    "author": "山田風太郎",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "虎よ、虎よ!",
+    "author": "アルフレッド・ベスター",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "宇宙探偵マグナス・リドルフ",
+    "author": "ジャック・ヴァンス",
+    "publisher": "国書刊行会"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "第三の時効",
+    "author": "横山秀夫",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "野獣死すべし",
+    "author": "ニコラス・ブレイク",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hojo",
+   "sourceId": "s281",
+   "book": {
+    "title": "硝子のハンマー",
+    "author": "貴志祐介",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "項羽と劉邦 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "翼ある闇 メルカトル鮎最後の事件",
+    "author": "麻耶雄嵩",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "三つの棺",
+    "author": "ジョン・ディクスン・カー",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "晏子 一",
+    "author": "宮城谷昌光",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "星界の紋章 1 帝国の王女",
+    "author": "森岡浩之",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫JA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "ブギーポップは笑わない",
+    "author": "上遠野浩平",
+    "publisher": "KADOKAWA",
+    "edition": "電撃文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "シナオシ",
+    "author": "田代裕彦",
+    "edition": "富士見ミステリー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "火蛾",
+    "author": "古泉迦十",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiotani",
+   "sourceId": "s268",
+   "book": {
+    "title": "旅する練習",
+    "author": "乗代雄介",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "神様のボート",
+    "author": "江國香織",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "落下する夕方",
+    "author": "江國香織",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "青空感傷ツアー",
+    "author": "柴崎友香",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "入社1年目の教科書",
+    "author": "岩瀬大輔",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "青春の門 第一部 筑豊篇",
+    "author": "五木寛之",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "写真論",
+    "author": "スーザン・ソンタグ",
+    "publisher": "晶文社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "明るい部屋 写真についての覚書",
+    "author": "ロラン・バルト",
+    "publisher": "みすず書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "富士日記 上",
+    "author": "武田百合子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "肉体の学校",
+    "author": "三島由紀夫",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "isshiki",
+   "sourceId": "s254",
+   "book": {
+    "title": "東京湾景",
+    "author": "吉田修一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

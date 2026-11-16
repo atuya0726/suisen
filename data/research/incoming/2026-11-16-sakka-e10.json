@@ -1,0 +1,376 @@
+{
+ "people": [
+  {
+   "id": "torishima",
+   "name": "酉島伝法",
+   "title": "作家・イラストレーター",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nagai",
+   "name": "永井紗耶子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "watanabe",
+   "name": "渡辺優",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "sakka226",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第226回：酉島伝法",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi226_torishima/",
+   "publishedAt": "2021-02-27"
+  },
+  {
+   "id": "sakka251",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第251回：永井紗耶子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi251_nagai/",
+   "publishedAt": "2023-03-24"
+  },
+  {
+   "id": "sakka283",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第283回：渡辺優",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi283_watanabe/",
+   "publishedAt": "2026-01-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "家畜人ヤプー",
+    "author": "沼正三"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "供述によるとペレイラは…",
+    "author": "アントニオ・タブッキ",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "アウステルリッツ",
+    "author": "W・G・ゼーバルト",
+    "publisher": "白水社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "孤独の発明",
+    "author": "ポール・オースター",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "中二階",
+    "author": "ニコルソン・ベイカー",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "隠し部屋を査察して",
+    "author": "エリック・マコーマック",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "エペペ",
+    "author": "カリンティ・フェレンツ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "空中スキップ",
+    "author": "ジュディ・バドニッツ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "アルファベットの傷口",
+    "author": "多和田葉子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "torishima",
+   "sourceId": "sakka226",
+   "book": {
+    "title": "ポップ1280",
+    "author": "ジム・トンプスン",
+    "publisher": "扶桑社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "むかし・あけぼの 上",
+    "subtitle": "小説 枕草子",
+    "author": "田辺聖子",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "精霊の守り人",
+    "author": "上橋菜穂子",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "十二国記",
+    "author": "小野不由美",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "アルスラーン戦記",
+    "author": "田中芳樹",
+    "publisher": "光文社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "御宿かわせみ",
+    "author": "平岩弓枝",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "火車",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "笑う大天使",
+    "author": "川原泉",
+    "publisher": "白泉社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "シートン動物記「オオカミ王ロボ」",
+    "author": "アーネスト・トンプソン・シートン",
+    "publisher": "学研プラス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nagai",
+   "sourceId": "sakka251",
+   "book": {
+    "title": "悪意",
+    "author": "東野圭吾",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "14ひきのおつきみ",
+    "subtitle": "ポケットえほん",
+    "author": "いわむらかずお",
+    "publisher": "童心社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "14ひきのあきまつり",
+    "subtitle": "ポケットえほん",
+    "author": "いわむらかずお",
+    "publisher": "童心社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "ハリー・ポッターと賢者の石",
+    "author": "J.K.ローリング",
+    "publisher": "静山社",
+    "edition": "静山社ペガサス文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "バトル・ロワイアル 上",
+    "author": "高見広春",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "HUNTER×HUNTER",
+    "author": "冨樫義博",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "スカイ・クロラ",
+    "author": "森博嗣",
+    "publisher": "中央公論新社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "わたしを離さないで",
+    "author": "カズオ・イシグロ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "五番目のサリー 上",
+    "author": "ダニエル・キイス",
+    "publisher": "早川書房",
+    "edition": "ダニエル・キイス文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "心理学的にありえない 上",
+    "author": "アダム・ファウアー",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "watanabe",
+   "sourceId": "sakka283",
+   "book": {
+    "title": "暗殺者グレイマン",
+    "author": "マーク・グリーニー",
+    "publisher": "早川書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

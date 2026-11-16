@@ -1,0 +1,261 @@
+{
+ "people": [
+  {
+   "id": "shimazu",
+   "name": "嶋津輝",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sakurada",
+   "name": "櫻田智也",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "src285",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第285回：嶋津輝",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi285_shimazu/",
+   "publishedAt": "2026-03-27"
+  },
+  {
+   "id": "src279",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第279回：櫻田智也",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi279_sakurada/",
+   "publishedAt": "2025-08-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "芝桜 上",
+    "author": "有吉佐和子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "木瓜の花",
+    "author": "有吉佐和子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "カラマーゾフの兄弟",
+    "author": "ドストエフスキー",
+    "publisher": "光文社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "海",
+    "author": "小川洋子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "ミーナの行進",
+    "author": "小川洋子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "猫を抱いて象と泳ぐ",
+    "author": "小川洋子",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "真鶴",
+    "author": "川上弘美",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "怪しい来客簿",
+    "author": "色川武大",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "流れる",
+    "author": "幸田文",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shimazu",
+   "sourceId": "src285",
+   "book": {
+    "title": "恋愛中毒",
+    "author": "山本文緒",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "亜愛一郎の狼狽",
+    "author": "泡坂妻夫",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "ブラウン神父の童心",
+    "author": "G・K・チェスタトン",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "永い言い訳",
+    "author": "西川美和",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "終着駅殺人事件",
+    "author": "西村京太郎",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "十角館の殺人",
+    "author": "綾辻行人",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "黄色い部屋の謎",
+    "author": "ガストン・ルルー",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "悔恨の日",
+    "author": "コリン・デクスター",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "螢川・泥の河",
+    "author": "宮本輝",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "変調二人羽織",
+    "author": "連城三紀彦",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakurada",
+   "sourceId": "src279",
+   "book": {
+    "title": "大長編ドラえもん のび太の魔界大冒険",
+    "author": "藤子・F・不二雄",
+    "publisher": "小学館",
+    "edition": "てんとう虫コミックス"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

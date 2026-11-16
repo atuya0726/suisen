@@ -1,0 +1,346 @@
+{
+ "people": [
+  {
+   "id": "yukinari",
+   "name": "行成薫",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "asakura",
+   "name": "浅倉秋成",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "tasaki",
+   "name": "多崎礼",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s_yukinari",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第265回：行成薫",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi265_yukinari/",
+   "publishedAt": "2024-06-28"
+  },
+  {
+   "id": "s_asakura",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第263回：浅倉秋成",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi263_asakura/",
+   "publishedAt": "2024-04-26"
+  },
+  {
+   "id": "s_tasaki",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第259回：多崎礼",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi259_tasaki/",
+   "publishedAt": "2023-12-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "伊達政宗",
+    "author": "山岡荘八",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "グイン・サーガ",
+    "author": "栗本薫",
+    "publisher": "早川書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "アヒルと鴨のコインロッカー",
+    "author": "伊坂幸太郎",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "屈辱ポンチ",
+    "author": "町田康"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "アトポス",
+    "author": "島田荘司",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "三国志",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "美味しんぼ",
+    "author": "雁屋哲",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "サウスバウンド 上",
+    "author": "奥田英朗",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yukinari",
+   "sourceId": "s_yukinari",
+   "book": {
+    "title": "蝉しぐれ",
+    "author": "藤沢周平",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "ロートレック荘事件",
+    "author": "筒井康隆",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "ブラバン",
+    "author": "津原泰水",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "ツァラトゥストラはこう言った",
+    "author": "ニーチェ",
+    "publisher": "講談社",
+    "edition": "講談社学術文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "14歳からの哲学",
+    "subtitle": "考えるための教科書",
+    "author": "池田晶子",
+    "publisher": "トランスビュー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "ラッシュライフ",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "海辺のカフカ 上",
+    "author": "村上春樹",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "竜馬がゆく",
+    "author": "司馬遼太郎",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "asakura",
+   "sourceId": "s_asakura",
+   "book": {
+    "title": "ホワイトラビット",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "十五少年漂流記",
+    "author": "ジュール・ヴェルヌ",
+    "publisher": "講談社",
+    "edition": "講談社青い鳥文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "星へ行く船",
+    "author": "新井素子",
+    "edition": "コバルト文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "刺青の男",
+    "author": "レイ・ブラッドベリ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "流星航路",
+    "author": "田中芳樹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "火車",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "塔の条件",
+    "author": "引間徹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "精霊の守り人",
+    "author": "上橋菜穂子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "キャプテン・フューチャー",
+    "author": "エドモンド・ハミルトン",
+    "publisher": "早川書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tasaki",
+   "sourceId": "s_tasaki",
+   "book": {
+    "title": "エリア88",
+    "author": "新谷かおる",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

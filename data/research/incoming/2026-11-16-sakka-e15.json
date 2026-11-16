@@ -1,0 +1,377 @@
+{
+ "people": [
+  {
+   "id": "kimijima",
+   "name": "君嶋彼方",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "fujino",
+   "name": "藤野可織",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ueda",
+   "name": "上田岳弘",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s266",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第266回：君嶋彼方",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi266_kimijima/",
+   "publishedAt": "2024-07-26"
+  },
+  {
+   "id": "s218",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第218回：藤野可織",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi218_fujino/",
+   "publishedAt": "2020-06-27"
+  },
+  {
+   "id": "s204",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第204回：上田岳弘",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi204_ueda/",
+   "publishedAt": "2019-03-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "ブルーもしくはブルー",
+    "author": "山本文緒",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "ラッシュライフ",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "夕子ちゃんの近道",
+    "author": "長嶋有",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "猛スピードで母は",
+    "author": "長嶋有",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "パラレル",
+    "author": "長嶋有",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "家族八景",
+    "author": "筒井康隆",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "虚航船団",
+    "author": "筒井康隆",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "無人島のふたり 120日以上生きなくちゃ日記",
+    "author": "山本文緒",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "ハッピーエンドにさよならを",
+    "author": "歌野晶午",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimijima",
+   "sourceId": "s266",
+   "book": {
+    "title": "うちのクラスの女子がヤバい",
+    "author": "衿沢世衣子",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "悲しき酒場の唄",
+    "author": "カーソン・マッカラーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "悪童日記",
+    "author": "アゴタ・クリストフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "ジーザス・サン",
+    "author": "デニス・ジョンソン",
+    "publisher": "白水社",
+    "edition": "エクス・リブリス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "空中スキップ",
+    "author": "ジュディ・バドニッツ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "カメレオンのための音楽",
+    "author": "トルーマン・カポーティ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "口のなかの小鳥たち",
+    "author": "サマンタ・シュウェブリン",
+    "publisher": "東宣出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "結婚式のメンバー",
+    "author": "カーソン・マッカラーズ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "猟奇博物館へようこそ",
+    "author": "加賀野井秀一",
+    "publisher": "白水社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "空色勾玉",
+    "author": "荻原規子",
+    "publisher": "徳間書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "fujino",
+   "sourceId": "s218",
+   "book": {
+    "title": "新耳袋 第一夜 現代百物語",
+    "author": "木原浩勝",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "マクベス",
+    "author": "シェイクスピア",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "タイタンの妖女",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "猫のゆりかご",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "沈黙の艦隊",
+    "author": "かわぐちかいじ",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "リヴァイアサン",
+    "author": "ポール・オースター",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "地図と領土",
+    "author": "ミシェル・ウエルベック",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "草枕",
+    "author": "夏目漱石"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "斜陽",
+    "author": "太宰治",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "罪と罰 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "s204",
+   "book": {
+    "title": "地下室の手記",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

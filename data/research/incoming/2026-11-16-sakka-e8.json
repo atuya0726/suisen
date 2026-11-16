@@ -1,0 +1,384 @@
+{
+ "people": [
+  {
+   "id": "sakuraki",
+   "name": "櫻木みわ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sakasaki",
+   "name": "坂崎かおる",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "yagi",
+   "name": "矢樹純",
+   "title": "作家・漫画原作者",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "sakka249",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第249回：櫻木みわ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi249_sakuraki/",
+   "publishedAt": "2023-01-27"
+  },
+  {
+   "id": "sakka271",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第271回：坂崎かおる",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi271_sakasaki/",
+   "publishedAt": "2024-12-27"
+  },
+  {
+   "id": "sakka277",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第277回：矢樹純",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi277_yagi/",
+   "publishedAt": "2025-06-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "小さい魔女",
+    "author": "オトフリート・プロイスラー",
+    "publisher": "学研プラス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "おちゃめなふたご",
+    "author": "エニド・ブライトン",
+    "publisher": "ポプラ社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "赤毛のアン",
+    "author": "ルーシー・モード・モンゴメリ",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "モモ",
+    "author": "ミヒャエル・エンデ",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "窓ぎわのトットちゃん",
+    "author": "黒柳徹子",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "放課後の音符（キイノート）",
+    "author": "山田詠美",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "存在の耐えられない軽さ",
+    "author": "ミラン・クンデラ",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "容疑者の夜行列車",
+    "author": "多和田葉子",
+    "publisher": "青土社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "こびとが打ち上げた小さなボール",
+    "author": "チョ・セヒ",
+    "publisher": "河出書房新社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakuraki",
+   "sourceId": "sakka249",
+   "book": {
+    "title": "夏の花",
+    "author": "原民喜",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "シートン動物記",
+    "author": "アーネスト・T・シートン",
+    "publisher": "世界文化社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "おとうさんがいっぱい",
+    "author": "三田村信行",
+    "publisher": "理論社",
+    "edition": "新・名作の愛蔵版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "マダムとミスター",
+    "author": "遠藤淑子",
+    "publisher": "白泉社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "虐げられた人びと",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "明暗",
+    "author": "夏目漱石",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "アンナ・カレーニナ 上",
+    "author": "トルストイ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "嵐が丘 上",
+    "author": "エミリー・ブロンテ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "風と共に去りぬ",
+    "author": "マーガレット・ミッチェル",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "掃除婦のための手引き書",
+    "subtitle": "ルシア・ベルリン作品集",
+    "author": "ルシア・ベルリン",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakasaki",
+   "sourceId": "sakka271",
+   "book": {
+    "title": "虐殺器官",
+    "author": "伊藤計劃",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫JA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "恐怖",
+    "author": "楳図かずお",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "煙か土か食い物",
+    "author": "舞城王太郎",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "翼ある闇",
+    "subtitle": "メルカトル鮎最後の事件",
+    "author": "麻耶雄嵩",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "戻り川心中",
+    "author": "連城三紀彦",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "痺れる",
+    "author": "沼田まほかる",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "独白するユニバーサル横メルカトル",
+    "author": "平山夢明",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "彼女がその名を知らない鳥たち",
+    "author": "沼田まほかる",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "黒い家",
+    "author": "貴志祐介",
+    "publisher": "KADOKAWA",
+    "edition": "角川ホラー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "玩具修理者",
+    "author": "小林泰三",
+    "publisher": "KADOKAWA",
+    "edition": "角川ホラー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yagi",
+   "sourceId": "sakka277",
+   "book": {
+    "title": "猫を抱いて象と泳ぐ",
+    "author": "小川洋子",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

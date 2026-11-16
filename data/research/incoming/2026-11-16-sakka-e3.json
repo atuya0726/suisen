@@ -1,0 +1,253 @@
+{
+ "people": [
+  {
+   "id": "ogidou",
+   "name": "荻堂顕",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "shiroyama",
+   "name": "城山真一",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "sakka273",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第273回：荻堂顕",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi273_ogidou/",
+   "publishedAt": "2025-02-28"
+  },
+  {
+   "id": "sakka280",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第280回：城山真一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi280_shiroyama/",
+   "publishedAt": "2025-10-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "ぼくを探しに",
+    "author": "シェル・シルヴァスタイン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "ユダヤ警官同盟",
+    "author": "マイケル・シェイボン"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "少将滋幹の母",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "人魚の嘆き・魔術師",
+    "author": "谷崎潤一郎",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "完璧な病室",
+    "author": "小川洋子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "人質の朗読会",
+    "author": "小川洋子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "忘れられた巨人",
+    "author": "カズオ・イシグロ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "新世界より 上",
+    "author": "貴志祐介",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "重力が衰えるとき",
+    "author": "ジョージ・アレック・エフィンジャー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ogidou",
+   "sourceId": "sakka273",
+   "book": {
+    "title": "テロリストのパラソル",
+    "author": "藤原伊織",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "テロリストのパラソル",
+    "author": "藤原伊織",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "半落ち",
+    "author": "横山秀夫",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "恋文",
+    "author": "連城三紀彦"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "君のクイズ",
+    "author": "小川哲",
+    "publisher": "朝日新聞出版",
+    "edition": "朝日文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "蝉しぐれ",
+    "author": "藤沢周平",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "どちらかが彼女を殺した",
+    "author": "東野圭吾",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "魍魎の匣",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "国境 上",
+    "author": "黒川博行",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "鉄道員",
+    "author": "浅田次郎",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "shiroyama",
+   "sourceId": "sakka280",
+   "book": {
+    "title": "天国への階段 上",
+    "author": "白川道",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

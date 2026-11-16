@@ -1,0 +1,358 @@
+{
+ "people": [
+  {
+   "id": "sakka-takadono",
+   "name": "高殿円",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sakka-hamaguchi",
+   "name": "浜口倫太郎",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sakka-yoshikawa",
+   "name": "吉川トリコ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-takadono",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第253回：高殿円",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi253_takadono/",
+   "publishedAt": "2023-05-26"
+  },
+  {
+   "id": "src-hamaguchi",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第232回：浜口倫太郎",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi232_hamaguchi/",
+   "publishedAt": "2021-08-27"
+  },
+  {
+   "id": "src-yoshikawa",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第209回：吉川トリコ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi209_yoshikawa/",
+   "publishedAt": "2019-08-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "うさこちゃんとうみ",
+    "author": "ディック・ブルーナ",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "トーマの心臓",
+    "author": "萩尾望都",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "ときめきトゥナイト",
+    "author": "池野恋",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "銀の海 金の大地",
+    "author": "氷室冴子"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "反三国志 上",
+    "author": "周大荒",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "アクナーテン",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "クリスティー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-takadono",
+   "sourceId": "src-takadono",
+   "book": {
+    "title": "侍女の物語",
+    "author": "マーガレット・アトウッド",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "73光年の妖怪",
+    "author": "フレドリック・ブラウン",
+    "publisher": "グーテンベルク21"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "きまぐれ学問所",
+    "author": "星新一",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "火車",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "とんび",
+    "author": "重松清",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "流しのしたの骨",
+    "author": "江國香織",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "さようなら、ギャングたち",
+    "author": "高橋源一郎",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "ネ暗トピア",
+    "author": "いがらしみきお",
+    "publisher": "竹書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "神聖モテモテ王国",
+    "author": "ながいけん",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-hamaguchi",
+   "sourceId": "src-hamaguchi",
+   "book": {
+    "title": "DRAGON BALL",
+    "author": "鳥山明",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "眠れるラプンツェル",
+    "author": "山本文緒",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "蝶花嬉遊図",
+    "author": "田辺聖子",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "落下する夕方",
+    "author": "江國香織",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "女子をこじらせて",
+    "author": "雨宮まみ",
+    "publisher": "ポット出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "ラビット病",
+    "author": "山田詠美",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "69 sixty nine",
+    "author": "村上龍",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "学校の青空",
+    "author": "角田光代",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "主婦と恋愛",
+    "author": "藤野千夜",
+    "publisher": "小学館"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "愛の生活",
+    "author": "岡崎京子",
+    "publisher": "KADOKAWA"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sakka-yoshikawa",
+   "sourceId": "src-yoshikawa",
+   "book": {
+    "title": "整形美女",
+    "author": "姫野カオルコ",
+    "publisher": "光文社",
+    "edition": "光文社文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

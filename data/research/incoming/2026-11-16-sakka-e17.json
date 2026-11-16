@@ -1,0 +1,331 @@
+{
+ "people": [
+  {
+   "id": "omae",
+   "name": "大前粟生",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ishida",
+   "name": "石田夏穂",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hiruta",
+   "name": "蛭田亜紗子",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s240",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第240回：大前粟生",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi240_omae/",
+   "publishedAt": "2022-04-22"
+  },
+  {
+   "id": "s284",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第284回：石田夏穂",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi284_ishida/",
+   "publishedAt": "2026-02-27"
+  },
+  {
+   "id": "s229",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第229回：蛭田亜紗子",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi229_hiruta/",
+   "publishedAt": "2021-05-28"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "omae",
+   "sourceId": "s240",
+   "book": {
+    "title": "旅のラゴス",
+    "author": "筒井康隆",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "omae",
+   "sourceId": "s240",
+   "book": {
+    "title": "スローターハウス5",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "omae",
+   "sourceId": "s240",
+   "book": {
+    "title": "タイタンの妖女",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ文庫SF"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "omae",
+   "sourceId": "s240",
+   "book": {
+    "title": "教室が、ひとりになるまで",
+    "author": "浅倉秋成",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "omae",
+   "sourceId": "s240",
+   "book": {
+    "title": "六人の嘘つきな大学生",
+    "author": "浅倉秋成",
+    "publisher": "KADOKAWA"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "omae",
+   "sourceId": "s240",
+   "book": {
+    "title": "ほんのこども",
+    "author": "町屋良平",
+    "publisher": "講談社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "黄金を抱いて翔べ",
+    "author": "髙村薫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "燃えよ剣",
+    "author": "司馬遼太郎",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "異邦の騎士",
+    "author": "島田荘司",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "葉桜の季節に君を想うということ",
+    "author": "歌野晶午",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "マークスの山 上",
+    "author": "髙村薫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "敵前の森で",
+    "author": "古処誠二",
+    "publisher": "双葉社",
+    "edition": "双葉文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "太陽がいっぱい",
+    "author": "パトリシア・ハイスミス",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "荊の城 上",
+    "author": "サラ・ウォーターズ",
+    "publisher": "東京創元社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "ロウフィールド館の惨劇",
+    "author": "ルース・レンデル"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ishida",
+   "sourceId": "s284",
+   "book": {
+    "title": "プラチナ・ビーズ",
+    "author": "五條瑛",
+    "publisher": "集英社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "燃えつきた地図",
+    "author": "安部公房",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "濁った激流にかかる橋",
+    "author": "伊井直行",
+    "publisher": "講談社",
+    "edition": "講談社文芸文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "嵐が丘",
+    "author": "エミリー・ブロンテ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "戦争は女の顔をしていない",
+    "author": "スヴェトラーナ・アレクシエーヴィチ",
+    "publisher": "岩波書店",
+    "edition": "岩波現代文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "ボタン穴から見た戦争",
+    "subtitle": "白ロシアの子供たちの証言",
+    "author": "スヴェトラーナ・アレクシエーヴィチ",
+    "publisher": "岩波書店",
+    "edition": "岩波現代文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "神様のボート",
+    "author": "江國香織",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "マラケシュ心中",
+    "author": "中山可穂"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "赤目四十八瀧心中未遂",
+    "author": "車谷長吉",
+    "publisher": "文藝春秋"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "1973年のピンボール",
+    "author": "村上春樹",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hiruta",
+   "sourceId": "s229",
+   "book": {
+    "title": "聖少女",
+    "author": "倉橋由美子"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

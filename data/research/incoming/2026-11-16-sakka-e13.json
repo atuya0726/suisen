@@ -1,0 +1,379 @@
+{
+ "people": [
+  {
+   "id": "furuuchi",
+   "name": "古内一絵",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "sunahara",
+   "name": "砂原浩太朗",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "tomoi",
+   "name": "友井羊",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s201",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第201回：古内一絵",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi201_furuuchi/",
+   "publishedAt": "2018-12-22"
+  },
+  {
+   "id": "s243",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第243回：砂原浩太朗",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi243_sunahara/",
+   "publishedAt": "2022-07-22"
+  },
+  {
+   "id": "s282",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第282回：友井羊",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi282_tomoi/",
+   "publishedAt": "2025-12-26"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "悪童日記",
+    "author": "アゴタ・クリストフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "ナイン・ストーリーズ",
+    "author": "サリンジャー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "世界の終りとハードボイルド・ワンダーランド",
+    "author": "村上春樹",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "羊をめぐる冒険",
+    "author": "村上春樹"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "和解",
+    "author": "志賀直哉",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "終わらざる夏 上",
+    "author": "浅田次郎",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "すべての見えない光",
+    "author": "アンソニー・ドーア",
+    "publisher": "新潮社",
+    "edition": "新潮クレスト・ブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "地球星人",
+    "author": "村田沙耶香",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "エレンディラ",
+    "author": "ガブリエル・ガルシア=マルケス",
+    "publisher": "筑摩書房",
+    "edition": "ちくま文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "furuuchi",
+   "sourceId": "s201",
+   "book": {
+    "title": "ガープの世界 上",
+    "author": "ジョン・アーヴィング",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "風の果て 上",
+    "author": "藤沢周平",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "カラマーゾフの兄弟 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "ゴリオ爺さん",
+    "author": "バルザック",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "三国志",
+    "author": "横山光輝",
+    "publisher": "潮出版社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "新・平家物語",
+    "author": "吉川英治",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "知と愛",
+    "author": "ヘッセ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "白痴 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "雪国",
+    "author": "川端康成",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "ローマ人の物語",
+    "author": "塩野七生",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "sunahara",
+   "sourceId": "s243",
+   "book": {
+    "title": "エルマーのぼうけん",
+    "author": "ルース・スタイルス・ガネット",
+    "publisher": "福音館書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "暗いところで待ち合わせ",
+    "author": "乙一",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "哲学ファンタジー",
+    "author": "レイモンド・スマリヤン",
+    "publisher": "丸善出版"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "おしまいの日",
+    "author": "新井素子",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "悪童日記",
+    "author": "アゴタ・クリストフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "ぼくのメジャースプーン",
+    "author": "辻村深月",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "ペンギン・ハイウェイ",
+    "author": "森見登美彦",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "思い出トランプ",
+    "author": "向田邦子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "64",
+    "author": "横山秀夫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "類",
+    "author": "朝井まかて",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tomoi",
+   "sourceId": "s282",
+   "book": {
+    "title": "神様ゲーム",
+    "author": "麻耶雄嵩",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

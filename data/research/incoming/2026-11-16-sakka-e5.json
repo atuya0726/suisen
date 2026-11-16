@@ -1,0 +1,254 @@
+{
+ "people": [
+  {
+   "id": "oda",
+   "name": "小田雅久仁",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "kaneko",
+   "name": "金子玲介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s237",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第237回：小田雅久仁",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi237_oda/",
+   "publishedAt": "2022-01-28"
+  },
+  {
+   "id": "s270",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第270回：金子玲介",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi270_kaneko/",
+   "publishedAt": "2024-11-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "冒険者たち ガンバと15ひきの仲間",
+    "author": "斎藤惇夫",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "ドラえもん",
+    "author": "藤子・F・不二雄",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "後宮小説",
+    "author": "酒見賢一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "ハイペリオン 上",
+    "author": "ダン・シモンズ",
+    "publisher": "早川書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "魔術師",
+    "author": "ジョン・ファウルズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "砂の女",
+    "author": "安部公房",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "悪童日記",
+    "author": "アゴタ・クリストフ",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "すべての美しい馬",
+    "author": "コーマック・マッカーシー",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "クリスマスのフロスト",
+    "author": "R・D・ウィングフィールド",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "oda",
+   "sourceId": "s237",
+   "book": {
+    "title": "青い脂",
+    "author": "ウラジーミル・ソローキン",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "好き好き大好き超愛してる。",
+    "author": "舞城王太郎",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "金色のガッシュ!!",
+    "author": "雷句誠",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "1000の小説とバックベアード",
+    "author": "佐藤友哉",
+    "publisher": "新潮社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "ひらいて",
+    "author": "綿矢りさ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "マジック・フォー・ビギナーズ",
+    "author": "ケリー・リンク",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "晩年",
+    "author": "太宰治",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "死んでいない者",
+    "author": "滝口悠生",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "ディスコ探偵水曜日 上",
+    "author": "舞城王太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "東京ノート",
+    "author": "平田オリザ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kaneko",
+   "sourceId": "s270",
+   "book": {
+    "title": "ラッシュライフ",
+    "author": "伊坂幸太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

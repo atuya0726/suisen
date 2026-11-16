@@ -1,0 +1,359 @@
+{
+ "people": [
+  {
+   "id": "kimura",
+   "name": "木村紅美",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "hamanaka",
+   "name": "葉真中顕",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "semitani",
+   "name": "蝉谷めぐ実",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s252",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第252回：木村紅美",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi252_kimura/",
+   "publishedAt": "2023-04-28"
+  },
+  {
+   "id": "s208",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第208回：葉真中顕",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi208_hamanaka/",
+   "publishedAt": "2019-07-27"
+  },
+  {
+   "id": "s250",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第250回：蝉谷めぐ実",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi250_semitani/",
+   "publishedAt": "2023-02-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "第七官界彷徨",
+    "author": "尾崎翠",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "灯台守の話",
+    "author": "ジャネット・ウィンターソン",
+    "publisher": "白水社",
+    "edition": "白水Uブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "はてしない物語",
+    "author": "ミヒャエル・エンデ",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "楡家の人びと",
+    "author": "北杜夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "桃尻娘",
+    "author": "橋本治",
+    "publisher": "ポプラ社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "午後の曳航",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "彼女はマリウポリからやってきた",
+    "author": "ナターシャ・ヴォーディン",
+    "publisher": "白水社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "そこに私が行ってもいいですか?",
+    "author": "イ・グミ",
+    "publisher": "里山社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "掃除婦のための手引き書",
+    "author": "ルシア・ベルリン",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "kimura",
+   "sourceId": "s252",
+   "book": {
+    "title": "韓国文学の中心にあるもの",
+    "author": "斎藤真理子",
+    "publisher": "イースト・プレス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "冒険者たち",
+    "author": "斎藤惇夫",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "カラマーゾフの兄弟 上",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "コインロッカー・ベイビーズ",
+    "author": "村上龍",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "69 sixty nine",
+    "author": "村上龍",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "マダム・エドワルダ",
+    "author": "ジョルジュ・バタイユ",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "砂の女",
+    "author": "安部公房",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "愛してる",
+    "author": "鷺沢萠",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "文学とは何か 上",
+    "author": "テリー・イーグルトン",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "13階段",
+    "author": "高野和明",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "hamanaka",
+   "sourceId": "s208",
+   "book": {
+    "title": "天使のナイフ",
+    "author": "薬丸岳",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "陰陽師",
+    "author": "夢枕獏",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "春の雪",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "真夏の死",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "半落ち",
+    "author": "横山秀夫",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "窮鼠はチーズの夢を見る",
+    "author": "水城せとな",
+    "publisher": "小学館サービス",
+    "edition": "フラワーコミックスアルファスペシャル"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "永遠についての証明",
+    "author": "岩井圭也",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "semitani",
+   "sourceId": "s250",
+   "book": {
+    "title": "遭難、",
+    "author": "本谷有希子",
+    "publisher": "講談社"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}
