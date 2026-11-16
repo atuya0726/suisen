@@ -22463,5 +22463,19 @@
     "sourceId": "asahi16749668",
     "context": "その他",
     "verified": true
+  },
+  {
+    "personId": "p0121",
+    "isbn13": "9784101105079",
+    "sourceId": "s227",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0674",
+    "isbn13": "9784568400274",
+    "sourceId": "sakka128",
+    "context": "座右の書",
+    "verified": true
   }
 ]

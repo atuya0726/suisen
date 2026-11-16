@@ -38743,5 +38743,25 @@
       "桜玉吉"
     ],
     "publisher": "KADOKAWA"
+  },
+  {
+    "isbn13": "9784101105079",
+    "title": "次郎物語（上巻）",
+    "authors": [
+      "下村湖人"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "1987-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/267652/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5079/9784101105079.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784568400274",
+    "title": "美術の歩み 上",
+    "authors": [
+      "E.H.ゴンブリッチ"
+    ],
+    "publisher": "美術出版社"
   }
 ]
