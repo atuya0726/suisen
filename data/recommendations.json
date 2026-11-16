@@ -25375,5 +25375,222 @@
     "sourceId": "s87",
     "context": "その他",
     "verified": true
+  },
+  {
+    "personId": "p0705",
+    "isbn13": "9784102001028",
+    "sourceId": "s-matsuura-c2fd93",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0707",
+    "isbn13": "9784088771465",
+    "sourceId": "s-aosaki-0dc326",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0710",
+    "isbn13": "9784336055279",
+    "sourceId": "s192",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0711",
+    "isbn13": "9784088716114",
+    "sourceId": "s188",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0713",
+    "isbn13": "9784086141536",
+    "sourceId": "src-takase",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0720",
+    "isbn13": "9784065119297",
+    "sourceId": "s228",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0721",
+    "isbn13": "9784000079013",
+    "sourceId": "s224",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0723",
+    "isbn13": "9784048741835",
+    "sourceId": "s220",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0726",
+    "isbn13": "9784044267018",
+    "sourceId": "s205",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0727",
+    "isbn13": "9784101036151",
+    "sourceId": "s202",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p0728",
+    "isbn13": "9784796870573",
+    "sourceId": "s186",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0732",
+    "isbn13": "9784035401506",
+    "sourceId": "src-abe",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0732",
+    "isbn13": "9784167528010",
+    "sourceId": "src-abe",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0734",
+    "isbn13": "9784488583026",
+    "sourceId": "s169",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0735",
+    "isbn13": "9784592145110",
+    "sourceId": "s168",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0735",
+    "isbn13": "9784088650791",
+    "sourceId": "s168",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0736",
+    "isbn13": "9784048741835",
+    "sourceId": "s-yakumaru-0f64e2",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0737",
+    "isbn13": "9784003412510",
+    "sourceId": "s-okuizumi-fa15f5",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0739",
+    "isbn13": "9784087454048",
+    "sourceId": "sshinpo",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0740",
+    "isbn13": "9784101005089",
+    "sourceId": "sshinoda",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0740",
+    "isbn13": "9784167661380",
+    "sourceId": "sshinoda",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0741",
+    "isbn13": "9784101176154",
+    "sourceId": "sshiraishi",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0741",
+    "isbn13": "9784167259020",
+    "sourceId": "sshiraishi",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0741",
+    "isbn13": "9784101152042",
+    "sourceId": "sshiraishi",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0745",
+    "isbn13": "9784101020013",
+    "sourceId": "src96",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0747",
+    "isbn13": "9784093873499",
+    "sourceId": "src90",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0748",
+    "isbn13": "9784086118095",
+    "sourceId": "s87",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0748",
+    "isbn13": "9784048737258",
+    "sourceId": "s87",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0749",
+    "isbn13": "9784785941994",
+    "sourceId": "s170",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0749",
+    "isbn13": "9784061470323",
+    "sourceId": "s170",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0591",
+    "isbn13": "9784101131061",
+    "sourceId": "s161",
+    "context": "その他",
+    "verified": true
   }
 ]
