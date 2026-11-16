@@ -1,0 +1,357 @@
+{
+ "people": [
+  {
+   "id": "yamada",
+   "name": "山田太一",
+   "title": "作家・脚本家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "wada",
+   "name": "和田竜",
+   "title": "作家・脚本家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "higashigawa",
+   "name": "東川篤哉",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s148",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第148回：山田太一",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi148_yamada/",
+   "publishedAt": "2014-05-21"
+  },
+  {
+   "id": "s143",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第143回：和田竜",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi143_wada/",
+   "publishedAt": "2013-11-20"
+  },
+  {
+   "id": "s131",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第131回：東川篤哉",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi131_higashigawa/",
+   "publishedAt": "2012-11-21"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "仮面の告白",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "俘虜記",
+    "author": "大岡昇平",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "春琴抄",
+    "author": "谷崎潤一郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "山の音",
+    "author": "川端康成",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "欲望という名の電車",
+    "author": "テネシー・ウィリアムズ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "裸者と死者",
+    "author": "ノーマン・メイラー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "カフカとの対話",
+    "author": "グスタフ・ヤノーホ",
+    "publisher": "みすず書房",
+    "edition": "始まりの本"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "波止場日記",
+    "author": "エリック・ホッファー"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "ゲーテとの対話 上",
+    "author": "エッカーマン",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "yamada",
+   "sourceId": "s148",
+   "book": {
+    "title": "小説の精神",
+    "author": "ミラン・クンデラ",
+    "publisher": "法政大学出版局",
+    "edition": "叢書・ウニベルシタス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "竜馬がゆく",
+    "author": "司馬遼太郎",
+    "publisher": "文藝春秋",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "燃えよ剣 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "花神 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "峠 上",
+    "author": "司馬遼太郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "平将門 上",
+    "author": "海音寺潮五郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "王妃の離婚",
+    "author": "佐藤賢一",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "双頭の鷲 上",
+    "author": "佐藤賢一",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "カエサルを撃て",
+    "author": "佐藤賢一",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "wada",
+   "sourceId": "s143",
+   "book": {
+    "title": "風雲海南記",
+    "author": "山本周五郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "靴に棲む老婆",
+    "author": "エラリー・クイーン",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "連続殺人事件",
+    "author": "ディクスン・カー",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "死者の学園祭",
+    "author": "赤川次郎",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "名探偵はひとりぼっち",
+    "author": "赤川次郎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "深夜プラス1",
+    "author": "ギャビン・ライアル",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "斜め屋敷の犯罪",
+    "author": "島田荘司",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "おなじ墓のムジナ",
+    "author": "霞流一"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "遠きに目ありて",
+    "author": "天藤真",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "higashigawa",
+   "sourceId": "s131",
+   "book": {
+    "title": "退職刑事 1",
+    "author": "都筑道夫",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

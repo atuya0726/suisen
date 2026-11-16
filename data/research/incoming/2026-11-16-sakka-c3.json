@@ -1,0 +1,305 @@
+{
+ "people": [
+  {
+   "id": "takeda",
+   "name": "武田綾乃",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "aizawa",
+   "name": "相沢沙呼",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "saihate",
+   "name": "最果タヒ",
+   "title": "詩人・作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s222",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第222回：武田綾乃",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi222_takeda/",
+   "publishedAt": "2020-10-24"
+  },
+  {
+   "id": "s215",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第215回：相沢沙呼",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi215_aizawa/",
+   "publishedAt": "2020-02-22"
+  },
+  {
+   "id": "s207",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第207回：最果タヒ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi207_saihate/",
+   "publishedAt": "2019-06-22"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "ハリー・ポッターと賢者の石",
+    "author": "J.K.ローリング",
+    "publisher": "静山社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "め組の大吾",
+    "author": "曽田正人",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "シャカリキ!",
+    "author": "曽田正人",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "冷たい校舎の時は止まる 上",
+    "author": "辻村深月",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "火車",
+    "author": "宮部みゆき",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "ブレイブ・ストーリー 上",
+    "author": "宮部みゆき",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "魍魎の匣",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "takeda",
+   "sourceId": "s222",
+   "book": {
+    "title": "阿佐ヶ谷姉妹の のほほんふたり暮らし",
+    "author": "阿佐ヶ谷姉妹",
+    "publisher": "幻冬舎"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aizawa",
+   "sourceId": "s215",
+   "book": {
+    "title": "ブギーポップは笑わない",
+    "author": "上遠野浩平",
+    "publisher": "KADOKAWA",
+    "edition": "電撃文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "aizawa",
+   "sourceId": "s215",
+   "book": {
+    "title": "空飛ぶ馬",
+    "author": "北村薫",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aizawa",
+   "sourceId": "s215",
+   "book": {
+    "title": "アクロイド殺し",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "クリスティー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aizawa",
+   "sourceId": "s215",
+   "book": {
+    "title": "皇帝のかぎ煙草入れ",
+    "author": "ジョン・ディクスン・カー",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "aizawa",
+   "sourceId": "s215",
+   "book": {
+    "title": "ハコヅメ~交番女子の逆襲~",
+    "author": "泰三子",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "しろくまちゃんのほっとけーき",
+    "author": "わかやまけん",
+    "publisher": "こぐま社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "告白",
+    "author": "町田康",
+    "publisher": "中央公論新社",
+    "edition": "中公文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "湖畔の愛",
+    "author": "町田康",
+    "publisher": "新潮社"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "幼年期の終わり",
+    "author": "クラーク",
+    "publisher": "光文社",
+    "edition": "光文社古典新訳文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "クマのプーさん",
+    "author": "A.A.ミルン",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "それでも町は廻っている",
+    "author": "石黒正数",
+    "publisher": "少年画報社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "トーマの心臓",
+    "author": "萩尾望都",
+    "publisher": "小学館",
+    "edition": "小学館文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "BEASTARS",
+    "author": "板垣巴留",
+    "publisher": "秋田書店",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "はだか",
+    "author": "谷川俊太郎",
+    "publisher": "筑摩書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "saihate",
+   "sourceId": "s207",
+   "book": {
+    "title": "めぞん一刻",
+    "author": "高橋留美子",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": []
+}

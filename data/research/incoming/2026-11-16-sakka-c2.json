@@ -1,0 +1,382 @@
+{
+ "people": [
+  {
+   "id": "satokiwamu",
+   "name": "佐藤究",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "ichihomichi",
+   "name": "一穂ミチ",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "nakayamashichiri",
+   "name": "中山七里",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "sakka231",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第231回：佐藤究",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi231_sato/",
+   "publishedAt": "2021-07-26"
+  },
+  {
+   "id": "sakka230",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第230回：一穂ミチ",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi230_ichiho/",
+   "publishedAt": "2021-06-25"
+  },
+  {
+   "id": "sakka223",
+   "type": "interview",
+   "media": "WEB本の雑誌",
+   "title": "作家の読書道 第223回：中山七里",
+   "url": "https://www.webdoku.jp/rensai/sakka/michi223_nakayama/",
+   "publishedAt": "2020-11-28"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "宇宙からきたかんづめ",
+    "author": "佐藤さとる",
+    "publisher": "ゴブリン書房"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "車輪の下",
+    "author": "ヘルマン・ヘッセ",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "木曜の男",
+    "author": "G・K・チェスタトン",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "幼年期の終わり",
+    "author": "アーサー・C・クラーク",
+    "publisher": "光文社",
+    "edition": "光文社古典新訳文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "長く素晴らしく憂鬱な一日",
+    "author": "椎名誠",
+    "publisher": "KADOKAWA",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "北極海へ",
+    "author": "野田知佑"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "病める舞姫",
+    "author": "土方巽",
+    "publisher": "白水社"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "ドロヘドロ",
+    "author": "林田球",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "ブラッド・メリディアン",
+    "subtitle": "あるいは西部の夕陽の赤",
+    "author": "コーマック・マッカーシー",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "satokiwamu",
+   "sourceId": "sakka231",
+   "book": {
+    "title": "鏡映反転",
+    "subtitle": "紀元前からの難問を解く",
+    "author": "高野陽太郎",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "グイン・サーガ",
+    "author": "栗本薫",
+    "publisher": "早川書房",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "鏡は横にひび割れて",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "クリスティー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "マークスの山 上",
+    "author": "高村薫",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "炎の蜃気楼",
+    "author": "桑原水菜",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "硝子戸の中",
+    "author": "夏目漱石"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "author": "京極夏彦",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "リング",
+    "author": "鈴木光司",
+    "publisher": "KADOKAWA",
+    "edition": "角川ホラー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "千年の祈り",
+    "author": "イーユン・リー",
+    "publisher": "新潮社",
+    "edition": "新潮クレスト・ブックス"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "チェルノブイリの祈り",
+    "subtitle": "未来の物語",
+    "author": "スヴェトラーナ・アレクシエーヴィチ",
+    "publisher": "岩波書店"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "ichihomichi",
+   "sourceId": "sakka230",
+   "book": {
+    "title": "グロテスク 上",
+    "author": "桐野夏生",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "ドリトル先生航海記",
+    "author": "ヒュー・ロフティング",
+    "publisher": "岩波書店",
+    "edition": "岩波少年文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "杉の柩",
+    "author": "アガサ・クリスティー",
+    "publisher": "早川書房",
+    "edition": "クリスティー文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "エジプト十字架の謎",
+    "author": "エラリー・クイーン",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "Xの悲劇",
+    "author": "エラリー・クイーン",
+    "publisher": "角川書店",
+    "edition": "角川文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "ブラウン神父の不信",
+    "author": "G・K・チェスタトン",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "火刑法廷",
+    "author": "ジョン・ディクスン・カー",
+    "publisher": "早川書房",
+    "edition": "ハヤカワ・ミステリ文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "IT",
+    "author": "スティーヴン・キング",
+    "publisher": "文藝春秋",
+    "edition": "文春文庫"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "水は海に向かって流れる",
+    "author": "田島列島",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "メインテーマは殺人",
+    "author": "アンソニー・ホロヴィッツ",
+    "publisher": "東京創元社",
+    "edition": "創元推理文庫"
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "nakayamashichiri",
+   "sourceId": "sakka223",
+   "book": {
+    "title": "鬼滅の刃",
+    "author": "吾峠呼世晴",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "最近読んだ"
+  }
+ ],
+ "checkedUrls": []
+}
