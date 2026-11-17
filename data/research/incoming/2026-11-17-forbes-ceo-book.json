@@ -1,0 +1,2020 @@
+{
+  "people": [
+    {
+      "id": "fj69596",
+      "name": "宮崎良一",
+      "title": "ブリッジコンサルティンググループ 代表取締役CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ブリッジコンサルティンググループ"
+    },
+    {
+      "id": "fj68998",
+      "name": "柳原尚史",
+      "title": "Ridge-i 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Ridge-i"
+    },
+    {
+      "id": "fj68354",
+      "name": "兼清俊光",
+      "title": "ヒューマンバリュー 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ヒューマンバリュー"
+    },
+    {
+      "id": "fj67650",
+      "name": "中島光夫",
+      "title": "Growthix Capital 代表取締役社長 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Growthix Capital"
+    },
+    {
+      "id": "fj66794",
+      "name": "竹内在",
+      "title": "セレンディップ・ホールディングス 代表取締役社長兼CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "セレンディップ・ホールディングス"
+    },
+    {
+      "id": "fj66325",
+      "name": "安達友基",
+      "title": "ナハト 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ナハト"
+    },
+    {
+      "id": "fj65271",
+      "name": "奥野友和",
+      "title": "Spiral Capital 代表パートナー",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Spiral Capital"
+    },
+    {
+      "id": "fj64573",
+      "name": "小山裕",
+      "title": "Lecto 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Lecto"
+    },
+    {
+      "id": "fj63874",
+      "name": "土本清幸",
+      "title": "平和不動産 代表執行役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "平和不動産"
+    },
+    {
+      "id": "fj63026",
+      "name": "中桐啓貴",
+      "title": "GAIA 代表取締役社長兼CEO、ファイナンシャル・アドバイザー協会理事長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "GAIA"
+    },
+    {
+      "id": "fj62717",
+      "name": "東野智晴",
+      "title": "イーストフィールズ 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "イーストフィールズ"
+    },
+    {
+      "id": "fj61633",
+      "name": "服部結花",
+      "title": "インクルージョン・ジャパン 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "インクルージョン・ジャパン"
+    },
+    {
+      "id": "fj61323",
+      "name": "矢部寿明",
+      "title": "Crezit 代表取締役CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Crezit"
+    },
+    {
+      "id": "fj60630",
+      "name": "堅田洋資",
+      "title": "データミックス 代表取締役 / データサイエンティスト",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "データミックス"
+    },
+    {
+      "id": "fj53053",
+      "name": "小林英至",
+      "title": "Securitize Japan",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Securitize Japan"
+    },
+    {
+      "id": "fj52252",
+      "name": "岩元美智彦",
+      "title": "JEPLAN",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "JEPLAN"
+    },
+    {
+      "id": "fj51505",
+      "name": "池見幸浩",
+      "title": "grooves",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "grooves"
+    },
+    {
+      "id": "fj50737",
+      "name": "岡井大輝",
+      "title": "Luup",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Luup"
+    },
+    {
+      "id": "fj49762",
+      "name": "平田淳二",
+      "title": "ウエイクアップ",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ウエイクアップ"
+    },
+    {
+      "id": "fj48875",
+      "name": "齋藤清一",
+      "title": "サンフロンティア不動産",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "サンフロンティア不動産"
+    },
+    {
+      "id": "fj48195",
+      "name": "栗原慎吾",
+      "title": "POPER",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "POPER"
+    },
+    {
+      "id": "fj47892",
+      "name": "上野山勝也",
+      "title": "PKSHA Technology",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "PKSHA Technology"
+    },
+    {
+      "id": "fj47344",
+      "name": "伊藤清",
+      "title": "ブロードマインド 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ブロードマインド"
+    },
+    {
+      "id": "fj46470",
+      "name": "小木曽麻里",
+      "title": "SDGインパクトジャパン Co-CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "SDGインパクトジャパン"
+    },
+    {
+      "id": "fj45976",
+      "name": "廣末紀之",
+      "title": "ビットバンク 代表取締役CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ビットバンク"
+    },
+    {
+      "id": "fj45507",
+      "name": "吉村英毅",
+      "title": "ミダスキャピタル 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ミダスキャピタル"
+    },
+    {
+      "id": "fj45043",
+      "name": "中村仁",
+      "title": "400F 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "400F"
+    },
+    {
+      "id": "fj44590",
+      "name": "楠雄治",
+      "title": "楽天証券 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "楽天証券"
+    },
+    {
+      "id": "fj43968",
+      "name": "栗栖義臣",
+      "title": "はてな 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "はてな"
+    },
+    {
+      "id": "fj43472",
+      "name": "園部鷹博",
+      "title": "セゾン投信 代表取締役社長COO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "セゾン投信"
+    },
+    {
+      "id": "fj43048",
+      "name": "中冨一郎",
+      "title": "アヴィーダ・サイエンス 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "アヴィーダ・サイエンス"
+    },
+    {
+      "id": "fj42610",
+      "name": "内山雄輝",
+      "title": "SALES ROBOTICS 代表取締役社長CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "SALES ROBOTICS"
+    },
+    {
+      "id": "fj41985",
+      "name": "馬場稔正",
+      "title": "再生医療テクノロジー 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "再生医療テクノロジー"
+    },
+    {
+      "id": "fj41564",
+      "name": "守本正宏",
+      "title": "FRONTEO 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "FRONTEO"
+    },
+    {
+      "id": "fj41012",
+      "name": "宮田昇始",
+      "title": "SmartHR 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "SmartHR"
+    },
+    {
+      "id": "fj40565",
+      "name": "平行秀",
+      "title": "アドバイザーナビ 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "アドバイザーナビ"
+    },
+    {
+      "id": "fj39280",
+      "name": "松田邦夫",
+      "title": "セントラル短資FX 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "セントラル短資FX"
+    },
+    {
+      "id": "fj38938",
+      "name": "小嶋雄介",
+      "title": "Macbee Planet",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Macbee Planet"
+    },
+    {
+      "id": "fj38415",
+      "name": "岡本祥治",
+      "title": "みらいワークス 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "みらいワークス"
+    },
+    {
+      "id": "fj37895",
+      "name": "若山健彦",
+      "title": "ミナトホールディングス 代表取締役会長兼社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ミナトホールディングス"
+    },
+    {
+      "id": "fj36656",
+      "name": "前田尚宏",
+      "title": "前田工織 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "前田工織"
+    },
+    {
+      "id": "fj36070",
+      "name": "石山洸",
+      "title": "エクサウィザーズ 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "エクサウィザーズ"
+    },
+    {
+      "id": "fj34581",
+      "name": "黒田浩史",
+      "title": "黒田精工 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "黒田精工"
+    },
+    {
+      "id": "fj33586",
+      "name": "野口哲",
+      "title": "ロボット投信 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ロボット投信"
+    },
+    {
+      "id": "fj32845",
+      "name": "藤田雄一郎",
+      "title": "クラウドポート 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "クラウドポート"
+    },
+    {
+      "id": "fj31712",
+      "name": "萩野琢英",
+      "title": "ピクテ投信投資顧問 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ピクテ投信投資顧問"
+    },
+    {
+      "id": "fj31118",
+      "name": "岡田和也",
+      "title": "ランディックス 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ランディックス"
+    },
+    {
+      "id": "fj30507",
+      "name": "田中裕之",
+      "title": "サンワテクノス 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "サンワテクノス"
+    },
+    {
+      "id": "fj29529",
+      "name": "岡田陽介",
+      "title": "ABEJA 代表取締役社長CEO兼共同創業者",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ABEJA"
+    },
+    {
+      "id": "fj28284",
+      "name": "中平健太",
+      "title": "ガラパゴス 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ガラパゴス"
+    },
+    {
+      "id": "fj26975",
+      "name": "稲田大輔",
+      "title": "atama plus 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "atama plus"
+    },
+    {
+      "id": "fj26600",
+      "name": "谷口優",
+      "title": "TableCheck CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "TableCheck"
+    },
+    {
+      "id": "fj25955",
+      "name": "堤達生",
+      "title": "グリーベンチャーズ 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "グリーベンチャーズ"
+    },
+    {
+      "id": "fj25397",
+      "name": "木村弘毅",
+      "title": "ミクシィ CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ミクシィ"
+    },
+    {
+      "id": "fj23651",
+      "name": "佐藤英志",
+      "title": "太陽ホールディングス グループ最高経営責任者（CEO）",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "太陽ホールディングス"
+    },
+    {
+      "id": "fj23230",
+      "name": "杉山智行",
+      "title": "クラウドクレジット 代表取締役CEO兼CIO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "クラウドクレジット"
+    },
+    {
+      "id": "fj22840",
+      "name": "佐伯崇司",
+      "title": "グルメ杵屋レストラン 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "グルメ杵屋レストラン"
+    },
+    {
+      "id": "fj22338",
+      "name": "長門正貢",
+      "title": "日本郵政 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "日本郵政"
+    },
+    {
+      "id": "fj20674",
+      "name": "西尾保示",
+      "title": "テクノプロ・ホールディングス CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "テクノプロ・ホールディングス"
+    },
+    {
+      "id": "fj20449",
+      "name": "漆原茂",
+      "title": "ウルシステムズ CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ウルシステムズ"
+    },
+    {
+      "id": "fj20321",
+      "name": "辻庸介",
+      "title": "マネーフォワード CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "マネーフォワード"
+    },
+    {
+      "id": "fj19720",
+      "name": "野坂英吾",
+      "title": "トレジャー・ファクトリー 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "トレジャー・ファクトリー"
+    },
+    {
+      "id": "fj18522",
+      "name": "宇佐美進典",
+      "title": "VOYAGE GROUP 代表取締役社長兼CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "VOYAGE GROUP"
+    },
+    {
+      "id": "fj17599",
+      "name": "鉢嶺登",
+      "title": "オプトホールディング CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "オプトホールディング"
+    },
+    {
+      "id": "fj17319",
+      "name": "新居佳英",
+      "title": "アトラエ CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "アトラエ"
+    },
+    {
+      "id": "fj17000",
+      "name": "直井聖太",
+      "title": "BEENOS CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "BEENOS"
+    },
+    {
+      "id": "fj15909",
+      "name": "平野洋一郎",
+      "title": "インフォテリア CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "インフォテリア"
+    },
+    {
+      "id": "fj15583",
+      "name": "冨安徳久",
+      "title": "ティア 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ティア"
+    },
+    {
+      "id": "fj15368",
+      "name": "石村賢一",
+      "title": "Eストアー 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Eストアー"
+    },
+    {
+      "id": "fj14950",
+      "name": "伊井哲郎",
+      "title": "コモンズ投信 社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "コモンズ投信"
+    },
+    {
+      "id": "fj14256",
+      "name": "江口久",
+      "title": "イーグランド 社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "イーグランド"
+    },
+    {
+      "id": "fj12158",
+      "name": "雨宮玲於奈",
+      "title": "インターワークス 社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "インターワークス"
+    },
+    {
+      "id": "fj11892",
+      "name": "森雅弘",
+      "title": "ショーケース・ティービー 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ショーケース・ティービー"
+    },
+    {
+      "id": "fj11577",
+      "name": "藤井隆太",
+      "title": "龍角散 社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "龍角散"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_fj69596",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "望んだ言葉はなかったが、それでもこの本で変われた理由",
+      "url": "https://forbesjapan.com/articles/detail/69596",
+      "publishedAt": "2024-03-16"
+    },
+    {
+      "id": "s_fj68998",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "日常の一瞬に喜びを感じ、生きがいを感じる心を磨け",
+      "url": "https://forbesjapan.com/articles/detail/68998",
+      "publishedAt": "2024-02-11"
+    },
+    {
+      "id": "s_fj68354",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "母の愛と、自他への愛。愛する本質を知ることが貢献",
+      "url": "https://forbesjapan.com/articles/detail/68354",
+      "publishedAt": "2024-01-07"
+    },
+    {
+      "id": "s_fj67650",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "成長の30代に刺激。社会問題を金融で解決する",
+      "url": "https://forbesjapan.com/articles/detail/67650",
+      "publishedAt": "2023-12-03"
+    },
+    {
+      "id": "s_fj66794",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "かつての禁書が示す、決断力なきリーダーの姿",
+      "url": "https://forbesjapan.com/articles/detail/66794",
+      "publishedAt": "2023-10-22"
+    },
+    {
+      "id": "s_fj66325",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "私が手に入れたのは、仕事以上に役立つ武器",
+      "url": "https://forbesjapan.com/articles/detail/66325",
+      "publishedAt": "2023-10-01"
+    },
+    {
+      "id": "s_fj65271",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "心に火をつける言葉「OKR」で地球の課題に挑む",
+      "url": "https://forbesjapan.com/articles/detail/65271",
+      "publishedAt": "2023-08-20"
+    },
+    {
+      "id": "s_fj64573",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "幕末の志士のようにアンフェアな現代に挑む",
+      "url": "https://forbesjapan.com/articles/detail/64573",
+      "publishedAt": "2023-07-16"
+    },
+    {
+      "id": "s_fj63874",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "読むたび響く神様の言葉、街づくりにもバイブルだ",
+      "url": "https://forbesjapan.com/articles/detail/63874",
+      "publishedAt": "2023-06-18"
+    },
+    {
+      "id": "s_fj63026",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "迷宮の先の出口へ。競争理論の呪縛を解け",
+      "url": "https://forbesjapan.com/articles/detail/63026",
+      "publishedAt": "2023-05-14"
+    },
+    {
+      "id": "s_fj62717",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "トイレに貼った三木谷曲線。社員の意識変化は成長へ",
+      "url": "https://forbesjapan.com/articles/detail/62717",
+      "publishedAt": "2023-04-30"
+    },
+    {
+      "id": "s_fj61633",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "クセも個性も、その先の組織の強みに",
+      "url": "https://forbesjapan.com/articles/detail/61633",
+      "publishedAt": "2023-03-18"
+    },
+    {
+      "id": "s_fj61323",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "普通の人が行動を変えた「小さな」きっかけ",
+      "url": "https://forbesjapan.com/articles/detail/61323",
+      "publishedAt": "2023-03-05"
+    },
+    {
+      "id": "s_fj60630",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "大好きなことをしろ、背中を押した老人の言葉",
+      "url": "https://forbesjapan.com/articles/detail/60630",
+      "publishedAt": "2023-02-04"
+    },
+    {
+      "id": "s_fj53053",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "秀逸すぎる、2000年前の社内報告書",
+      "url": "https://forbesjapan.com/articles/detail/53053",
+      "publishedAt": "2022-12-26"
+    },
+    {
+      "id": "s_fj52252",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "民の心をつかんだ鷹山のように、リサイクルを文化に根付かせる",
+      "url": "https://forbesjapan.com/articles/detail/52252",
+      "publishedAt": "2022-11-26"
+    },
+    {
+      "id": "s_fj51505",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "もっと前向きに人生を楽しむ 私の「生き方」を変えた一冊",
+      "url": "https://forbesjapan.com/articles/detail/51505",
+      "publishedAt": "2022-10-29"
+    },
+    {
+      "id": "s_fj50737",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「地球」主語の視点。マイクロモビリティへの思いが強固に",
+      "url": "https://forbesjapan.com/articles/detail/50737",
+      "publishedAt": "2022-09-29"
+    },
+    {
+      "id": "s_fj49762",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「いまのままでは変われないぞ」私をけしかけた偶然",
+      "url": "https://forbesjapan.com/articles/detail/49762",
+      "publishedAt": "2022-08-21"
+    },
+    {
+      "id": "s_fj48875",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "歴史から未来を学び、利他の本質に結びついた一冊",
+      "url": "https://forbesjapan.com/articles/detail/48875",
+      "publishedAt": "2022-07-17"
+    },
+    {
+      "id": "s_fj48195",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "自己欺瞞になるな。迷いを払う「創発」のキーワード",
+      "url": "https://forbesjapan.com/articles/detail/48195",
+      "publishedAt": "2022-06-19"
+    },
+    {
+      "id": "s_fj47892",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "Web3.0を前にしても色褪せない、無二の体験で得た未来の見方",
+      "url": "https://forbesjapan.com/articles/detail/47892",
+      "publishedAt": "2022-06-05"
+    },
+    {
+      "id": "s_fj47344",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "ふたつの物語から学ぶチームづくりと強いリーダー",
+      "url": "https://forbesjapan.com/articles/detail/47344",
+      "publishedAt": "2022-05-06"
+    },
+    {
+      "id": "s_fj46470",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "ヒントは「人間の善」 次にくるお金の使い道",
+      "url": "https://forbesjapan.com/articles/detail/46470",
+      "publishedAt": "2022-03-20"
+    },
+    {
+      "id": "s_fj45976",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "事業の失敗から振り返る「弱者としての戦い方」",
+      "url": "https://forbesjapan.com/articles/detail/45976",
+      "publishedAt": "2022-02-23"
+    },
+    {
+      "id": "s_fj45507",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "リチャード・ブランソンの背中を追え！ 人生を謳歌するリーダーシップ",
+      "url": "https://forbesjapan.com/articles/detail/45507",
+      "publishedAt": "2022-01-29"
+    },
+    {
+      "id": "s_fj45043",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "日本の金融課題は解決できる！ヒントに満ちた改革者の手引き",
+      "url": "https://forbesjapan.com/articles/detail/45043",
+      "publishedAt": "2021-12-25"
+    },
+    {
+      "id": "s_fj44590",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "失敗の原因を究めることが組織を強くする",
+      "url": "https://forbesjapan.com/articles/detail/44590",
+      "publishedAt": "2021-11-28"
+    },
+    {
+      "id": "s_fj43968",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "リモートワークの先駆者から学ぶ「企業文化」のつくり方",
+      "url": "https://forbesjapan.com/articles/detail/43968",
+      "publishedAt": "2021-10-24"
+    },
+    {
+      "id": "s_fj43472",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "サラリーマンからビジネスマンへ。経営者の視点を養う「教科書」",
+      "url": "https://forbesjapan.com/articles/detail/43472",
+      "publishedAt": "2021-09-23"
+    },
+    {
+      "id": "s_fj43048",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "人員削減策を考え直した、時代を超えて生き続ける「経営問答」",
+      "url": "https://forbesjapan.com/articles/detail/43048",
+      "publishedAt": "2021-08-29"
+    },
+    {
+      "id": "s_fj42610",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "渋沢栄一の言葉は、心に刺さるタイミングがある",
+      "url": "https://forbesjapan.com/articles/detail/42610",
+      "publishedAt": "2021-08-01"
+    },
+    {
+      "id": "s_fj41985",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "伝説の起業家が教えてくれる、起業家としての使命",
+      "url": "https://forbesjapan.com/articles/detail/41985",
+      "publishedAt": "2021-06-23"
+    },
+    {
+      "id": "s_fj41564",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "自分の判断は正しいのか？ 再確認させてくれる「師」",
+      "url": "https://forbesjapan.com/articles/detail/41564",
+      "publishedAt": "2021-05-30"
+    },
+    {
+      "id": "s_fj41012",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "急成長中の組織は、さらなる成長を目指す",
+      "url": "https://forbesjapan.com/articles/detail/41012",
+      "publishedAt": "2021-04-25"
+    },
+    {
+      "id": "s_fj40565",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "無駄なものはそぎ落とす。エッセンシャル思考から学ぶ仕事の選び方",
+      "url": "https://forbesjapan.com/articles/detail/40565",
+      "publishedAt": "2021-03-28"
+    },
+    {
+      "id": "s_fj39280",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "時を超える「言葉の器」を通してオフの生き方を考える",
+      "url": "https://forbesjapan.com/articles/detail/39280",
+      "publishedAt": "2021-01-17"
+    },
+    {
+      "id": "s_fj38938",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "挑戦を恐れぬ現代の豪傑。孫正義の伝記からパワーを",
+      "url": "https://forbesjapan.com/articles/detail/38938",
+      "publishedAt": "2021-01-03"
+    },
+    {
+      "id": "s_fj38415",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "起業の後押しをした、私の中の「日本人としての原点」",
+      "url": "https://forbesjapan.com/articles/detail/38415",
+      "publishedAt": "2020-11-29"
+    },
+    {
+      "id": "s_fj37895",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "経済学の金字塔に見る 経営者の心構え",
+      "url": "https://forbesjapan.com/articles/detail/37895",
+      "publishedAt": "2020-11-01"
+    },
+    {
+      "id": "s_fj36656",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "極限状態を生きる術「自分の存在意義への理解」",
+      "url": "https://forbesjapan.com/articles/detail/36656",
+      "publishedAt": "2020-08-29"
+    },
+    {
+      "id": "s_fj36070",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "人間の精神発達は10段階 AIと仏教に共通するもの",
+      "url": "https://forbesjapan.com/articles/detail/36070",
+      "publishedAt": "2020-07-28"
+    },
+    {
+      "id": "s_fj34581",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "テクノロジーの進化の先に何があるか考えるきっかけに",
+      "url": "https://forbesjapan.com/articles/detail/34581",
+      "publishedAt": "2020-05-23"
+    },
+    {
+      "id": "s_fj33586",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「変化にどう向き合ってきたか」が未来への大切な学びになる",
+      "url": "https://forbesjapan.com/articles/detail/33586",
+      "publishedAt": "2020-04-11"
+    },
+    {
+      "id": "s_fj32845",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "闘う相手は「慣習」である 起業家に必要な推進力とは",
+      "url": "https://forbesjapan.com/articles/detail/32845",
+      "publishedAt": "2020-03-10"
+    },
+    {
+      "id": "s_fj31712",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "渋沢栄一の「知恵」「情愛」「意志」の教えが導いた転機",
+      "url": "https://forbesjapan.com/articles/detail/31712",
+      "publishedAt": "2020-01-11"
+    },
+    {
+      "id": "s_fj31118",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「テクノロジーの本質」から学んだ、私の進むべき道",
+      "url": "https://forbesjapan.com/articles/detail/31118",
+      "publishedAt": "2019-12-09"
+    },
+    {
+      "id": "s_fj30507",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "ビジネスに必要な、当たり前を疑い「宝の原石」を見つける力",
+      "url": "https://forbesjapan.com/articles/detail/30507",
+      "publishedAt": "2019-11-03"
+    },
+    {
+      "id": "s_fj29529",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "技術とリベラルアーツの「共進化」が未来をつくる",
+      "url": "https://forbesjapan.com/articles/detail/29529",
+      "publishedAt": "2019-09-07"
+    },
+    {
+      "id": "s_fj28284",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "年間100冊の読書から選んだ本は「後世への最大の遺物」｜CEOの一冊",
+      "url": "https://forbesjapan.com/articles/detail/28284",
+      "publishedAt": "2019-07-07"
+    },
+    {
+      "id": "s_fj26975",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "大人だからこそ読むべき物語 | CEOの一冊",
+      "url": "https://forbesjapan.com/articles/detail/26975",
+      "publishedAt": "2019-05-03"
+    },
+    {
+      "id": "s_fj26600",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "遺伝子に反逆する「利他的」な生き方を｜CEOの一冊",
+      "url": "https://forbesjapan.com/articles/detail/26600",
+      "publishedAt": "2019-04-13"
+    },
+    {
+      "id": "s_fj25955",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "なぜ、自分の好きなように生きるのか｜CEOの一冊 グリーベンチャーズ堤達夫",
+      "url": "https://forbesjapan.com/articles/detail/25955",
+      "publishedAt": "2019-03-10"
+    },
+    {
+      "id": "s_fj25397",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "モンストを生んだ「成果」のバイブル ミクシィ木村弘毅｜CEOの一冊",
+      "url": "https://forbesjapan.com/articles/detail/25397",
+      "publishedAt": "2019-02-11"
+    },
+    {
+      "id": "s_fj23651",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「私心」を持たなかった最後のサムライ、山岡鐵舟の教え",
+      "url": "https://forbesjapan.com/articles/detail/23651",
+      "publishedAt": "2018-10-30"
+    },
+    {
+      "id": "s_fj23230",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "1000個ある経営地雷の予習ができる一冊「HARD THINGS」",
+      "url": "https://forbesjapan.com/articles/detail/23230",
+      "publishedAt": "2018-10-02"
+    },
+    {
+      "id": "s_fj22840",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "腹の括り方を学んだ「社長の羅針盤」",
+      "url": "https://forbesjapan.com/articles/detail/22840",
+      "publishedAt": "2018-09-11"
+    },
+    {
+      "id": "s_fj22338",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "諦めない姿勢を学んだ1冊『ニューエンペラー』",
+      "url": "https://forbesjapan.com/articles/detail/22338",
+      "publishedAt": "2018-08-03"
+    },
+    {
+      "id": "s_fj20674",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "【CEOの一冊】真面目に生き、周りに感謝することの大切さを学んだ",
+      "url": "https://forbesjapan.com/articles/detail/20674",
+      "publishedAt": "2018-05-01"
+    },
+    {
+      "id": "s_fj20449",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "【CEOの一冊】伝説の投資家が綴った、「赤裸々経営記」",
+      "url": "https://forbesjapan.com/articles/detail/20449",
+      "publishedAt": "2018-04-04"
+    },
+    {
+      "id": "s_fj20321",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "マネーフォワード辻CEOの「きっかけ」になった一冊",
+      "url": "https://forbesjapan.com/articles/detail/20321",
+      "publishedAt": "2018-03-26"
+    },
+    {
+      "id": "s_fj19720",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "外食王たちに学んだ「両効きの経営」",
+      "url": "https://forbesjapan.com/articles/detail/19720",
+      "publishedAt": "2018-02-12"
+    },
+    {
+      "id": "s_fj18522",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "リーダーに必須のビジネス書の原点、「ローマ人の物語」",
+      "url": "https://forbesjapan.com/articles/detail/18522",
+      "publishedAt": "2017-11-17"
+    },
+    {
+      "id": "s_fj17599",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "人間形成の根幹にある一冊、カーネギー著「人を動かす」",
+      "url": "https://forbesjapan.com/articles/detail/17599",
+      "publishedAt": "2017-09-05"
+    },
+    {
+      "id": "s_fj17319",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「海賊とよばれた男」主人公から読み解く、働く喜びのある会社の作り方",
+      "url": "https://forbesjapan.com/articles/detail/17319",
+      "publishedAt": "2017-08-15"
+    },
+    {
+      "id": "s_fj17000",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "日本軍の失敗から学ぶ「日本人らしさの本質」",
+      "url": "https://forbesjapan.com/articles/detail/17000",
+      "publishedAt": "2017-07-23"
+    },
+    {
+      "id": "s_fj15909",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「イヤだと思うほどやってみたか」 堀場雅夫流の背中の押し方",
+      "url": "https://forbesjapan.com/articles/detail/15909",
+      "publishedAt": "2017-04-18"
+    },
+    {
+      "id": "s_fj15583",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "経営者として、男として私をしつけた「坂本龍馬の生きざま」",
+      "url": "https://forbesjapan.com/articles/detail/15583",
+      "publishedAt": "2017-03-19"
+    },
+    {
+      "id": "s_fj15368",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "10回以上読んでわかった選択と決断の「正解」",
+      "url": "https://forbesjapan.com/articles/detail/15368",
+      "publishedAt": "2017-02-28"
+    },
+    {
+      "id": "s_fj14950",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "事あるごとに読み返す「経営と人生の指南書」",
+      "url": "https://forbesjapan.com/articles/detail/14950",
+      "publishedAt": "2017-01-23"
+    },
+    {
+      "id": "s_fj14256",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "上場企業社長が新入社員に「学問のすすめ」を手渡す理由",
+      "url": "https://forbesjapan.com/articles/detail/14256",
+      "publishedAt": "2016-11-30"
+    },
+    {
+      "id": "s_fj12158",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "人材ビジネスも行ったり来たり、ビジネスの世界でも「歴史は繰り返す」",
+      "url": "https://forbesjapan.com/articles/detail/12158",
+      "publishedAt": "2016-05-16"
+    },
+    {
+      "id": "s_fj11892",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "「マーケティングはおもてなし」ーより豊かなネット社会を創るために",
+      "url": "https://forbesjapan.com/articles/detail/11892",
+      "publishedAt": "2016-04-29"
+    },
+    {
+      "id": "s_fj11577",
+      "type": "article",
+      "media": "Forbes JAPAN",
+      "title": "心身共に働きやすい環境は「医療制度」をも守る",
+      "url": "https://forbesjapan.com/articles/detail/11577",
+      "publishedAt": "2016-03-22"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "fj69596",
+      "sourceId": "s_fj69596",
+      "book": {
+        "title": "嫌われる勇気",
+        "author": "岸見一郎、古賀史健",
+        "isbn": "9784478025819"
+      }
+    },
+    {
+      "personId": "fj68998",
+      "sourceId": "s_fj68998",
+      "book": {
+        "title": "生きがいについて 神谷美恵子コレクション",
+        "author": "神谷美恵子",
+        "isbn": "9784622081814"
+      }
+    },
+    {
+      "personId": "fj68354",
+      "sourceId": "s_fj68354",
+      "book": {
+        "title": "愛するということ",
+        "author": "エーリッヒ・フロム",
+        "isbn": "9784314011778"
+      }
+    },
+    {
+      "personId": "fj67650",
+      "sourceId": "s_fj67650",
+      "book": {
+        "title": "30代からの『孫子の兵法』",
+        "subtitle": "負けない戦略を身につける",
+        "author": "染井大和",
+        "isbn": "9784860635152"
+      }
+    },
+    {
+      "personId": "fj66794",
+      "sourceId": "s_fj66794",
+      "book": {
+        "title": "君主論",
+        "author": "マキアヴェッリ",
+        "isbn": "9784003400319"
+      }
+    },
+    {
+      "personId": "fj66325",
+      "sourceId": "s_fj66325",
+      "book": {
+        "title": "影響力の武器",
+        "author": "ロバート・B・チャルディーニ",
+        "isbn": "9784414304299"
+      }
+    },
+    {
+      "personId": "fj65271",
+      "sourceId": "s_fj65271",
+      "book": {
+        "title": "Speed & Scale 気候危機を解決するためのアクションプラン",
+        "author": "ジョン・ドーア",
+        "isbn": "9784296115488"
+      }
+    },
+    {
+      "personId": "fj64573",
+      "sourceId": "s_fj64573",
+      "book": {
+        "title": "壬生義士伝 上",
+        "author": "浅田次郎",
+        "isbn": "9784167646028"
+      }
+    },
+    {
+      "personId": "fj63874",
+      "sourceId": "s_fj63874",
+      "book": {
+        "title": "商売心得帖",
+        "author": "松下幸之助",
+        "isbn": "9784569575575"
+      }
+    },
+    {
+      "personId": "fj63026",
+      "sourceId": "s_fj63026",
+      "book": {
+        "title": "会社という迷宮",
+        "subtitle": "経営者の眠れぬ夜のために",
+        "author": "石井光太郎",
+        "isbn": "9784478116166"
+      }
+    },
+    {
+      "personId": "fj62717",
+      "sourceId": "s_fj62717",
+      "book": {
+        "title": "成功の法則92ヶ条",
+        "author": "三木谷浩史",
+        "isbn": "9784344419056"
+      }
+    },
+    {
+      "personId": "fj61633",
+      "sourceId": "s_fj61633",
+      "book": {
+        "title": "木に学べ",
+        "subtitle": "法隆寺・薬師寺の美",
+        "author": "西岡常一",
+        "isbn": "9784093663311"
+      }
+    },
+    {
+      "personId": "fj61323",
+      "sourceId": "s_fj61323",
+      "book": {
+        "title": "チェンジメーカー",
+        "subtitle": "社会起業家が世の中を変える",
+        "author": "渡邊奈々",
+        "isbn": "9784822244644"
+      }
+    },
+    {
+      "personId": "fj60630",
+      "sourceId": "s_fj60630",
+      "book": {
+        "title": "仕事は楽しいかね？",
+        "author": "デイル・ドーテン",
+        "isbn": "9784862763518"
+      }
+    },
+    {
+      "personId": "fj53053",
+      "sourceId": "s_fj53053",
+      "book": {
+        "title": "ガリア戦記",
+        "author": "カエサル",
+        "isbn": "9784000070119"
+      }
+    },
+    {
+      "personId": "fj52252",
+      "sourceId": "s_fj52252",
+      "book": {
+        "title": "小説 上杉鷹山",
+        "author": "童門冬二",
+        "isbn": "9784313750012"
+      }
+    },
+    {
+      "personId": "fj51505",
+      "sourceId": "s_fj51505",
+      "book": {
+        "title": "LIFE SHIFT",
+        "subtitle": "100年時代の人生戦略",
+        "author": "リンダ・グラットン、アンドリュー・スコット",
+        "isbn": "9784492533871"
+      }
+    },
+    {
+      "personId": "fj50737",
+      "sourceId": "s_fj50737",
+      "book": {
+        "title": "地球の未来のため僕が決断したこと",
+        "subtitle": "気候大災害は防げる",
+        "author": "ビル・ゲイツ",
+        "isbn": "9784152100436"
+      }
+    },
+    {
+      "personId": "fj49762",
+      "sourceId": "s_fj49762",
+      "book": {
+        "title": "夢をかなえるゾウ",
+        "author": "水野敬也",
+        "isbn": "9784870318052"
+      }
+    },
+    {
+      "personId": "fj48875",
+      "sourceId": "s_fj48875",
+      "book": {
+        "title": "21世紀の歴史",
+        "subtitle": "未来の人類から見た世界",
+        "author": "ジャック・アタリ",
+        "isbn": "9784861821950"
+      }
+    },
+    {
+      "personId": "fj48195",
+      "sourceId": "s_fj48195",
+      "book": {
+        "title": "生きるための経済学",
+        "subtitle": "〈選択の自由〉からの脱却",
+        "author": "安冨歩",
+        "isbn": "9784140911075"
+      }
+    },
+    {
+      "personId": "fj47892",
+      "sourceId": "s_fj47892",
+      "book": {
+        "title": "ウェブ進化論",
+        "subtitle": "本当の大変化はこれから始まる",
+        "author": "梅田望夫",
+        "isbn": "9784480062857"
+      }
+    },
+    {
+      "personId": "fj47344",
+      "sourceId": "s_fj47344",
+      "book": {
+        "title": "キングダム",
+        "edition": "シリーズ",
+        "author": "原泰久",
+        "isbn": "9784088770796"
+      }
+    },
+    {
+      "personId": "fj46470",
+      "sourceId": "s_fj46470",
+      "book": {
+        "title": "Humankind 希望の歴史",
+        "author": "ルトガー・ブレグマン",
+        "isbn": "9784163914077"
+      }
+    },
+    {
+      "personId": "fj45976",
+      "sourceId": "s_fj45976",
+      "book": {
+        "title": "38億年の生命史に学ぶ生存戦略",
+        "author": "稲垣栄洋",
+        "isbn": "9784569845753"
+      }
+    },
+    {
+      "personId": "fj45507",
+      "sourceId": "s_fj45507",
+      "book": {
+        "title": "ヴァージン",
+        "subtitle": "僕は世界を変えていく",
+        "author": "リチャード・ブランソン",
+        "isbn": "9784484981123"
+      }
+    },
+    {
+      "personId": "fj45043",
+      "sourceId": "s_fj45043",
+      "book": {
+        "title": "ゼロ・コミッション革命",
+        "subtitle": "チャールズ・シュワブの「顧客目線」投資サービス戦略",
+        "author": "チャールズ・シュワブ",
+        "isbn": "9784322135503"
+      }
+    },
+    {
+      "personId": "fj44590",
+      "sourceId": "s_fj44590",
+      "book": {
+        "title": "失敗の科学",
+        "subtitle": "失敗から学習する組織、学習できない組織",
+        "author": "マシュー・サイド",
+        "isbn": "9784799320235"
+      }
+    },
+    {
+      "personId": "fj43968",
+      "sourceId": "s_fj43968",
+      "book": {
+        "title": "リモートワークの達人",
+        "author": "ジェイソン・フリード、デイヴィッド・ハイネマイヤー・ハンソン",
+        "isbn": "9784150505608"
+      }
+    },
+    {
+      "personId": "fj43472",
+      "sourceId": "s_fj43472",
+      "book": {
+        "title": "経営の教科書",
+        "subtitle": "社長が押さえておくべき30の基礎科目",
+        "author": "新将命",
+        "isbn": "9784478002254"
+      }
+    },
+    {
+      "personId": "fj43048",
+      "sourceId": "s_fj43048",
+      "book": {
+        "title": "人を生かす 稲盛和夫の経営塾",
+        "author": "稲盛和夫",
+        "isbn": "9784532196240"
+      }
+    },
+    {
+      "personId": "fj42610",
+      "sourceId": "s_fj42610",
+      "book": {
+        "title": "論語と算盤",
+        "author": "渋沢栄一",
+        "isbn": "9784044090012"
+      }
+    },
+    {
+      "personId": "fj41985",
+      "sourceId": "s_fj41985",
+      "book": {
+        "title": "ゼロ・トゥ・ワン",
+        "subtitle": "君はゼロから何を生み出せるか",
+        "author": "ピーター・ティール、ブレイク・マスターズ",
+        "isbn": "9784140816585"
+      }
+    },
+    {
+      "personId": "fj41564",
+      "sourceId": "s_fj41564",
+      "book": {
+        "title": "「できません」と云うな",
+        "author": "湯谷昇羊",
+        "isbn": "9784478006337"
+      }
+    },
+    {
+      "personId": "fj41012",
+      "sourceId": "s_fj41012",
+      "book": {
+        "title": "ブリッツスケーリング",
+        "author": "リード・ホフマン、クリス・イェ",
+        "isbn": "9784822288594"
+      }
+    },
+    {
+      "personId": "fj40565",
+      "sourceId": "s_fj40565",
+      "book": {
+        "title": "エッセンシャル思考",
+        "subtitle": "最小の時間で成果を最大にする",
+        "author": "グレッグ・マキューン",
+        "isbn": "9784761270438"
+      }
+    },
+    {
+      "personId": "fj39280",
+      "sourceId": "s_fj39280",
+      "book": {
+        "title": "あなた 河野裕子歌集",
+        "author": "河野裕子、永田和宏",
+        "isbn": "9784000220941"
+      }
+    },
+    {
+      "personId": "fj38938",
+      "sourceId": "s_fj38938",
+      "book": {
+        "title": "志高く 孫正義正伝 新版",
+        "author": "井上篤夫",
+        "isbn": "9784408552156"
+      }
+    },
+    {
+      "personId": "fj38415",
+      "sourceId": "s_fj38415",
+      "book": {
+        "title": "武士道",
+        "author": "新渡戸稲造",
+        "isbn": "9784003311813"
+      }
+    },
+    {
+      "personId": "fj37895",
+      "sourceId": "s_fj37895",
+      "book": {
+        "title": "資本主義と自由",
+        "author": "ミルトン・フリードマン",
+        "isbn": "9784822246419"
+      }
+    },
+    {
+      "personId": "fj36656",
+      "sourceId": "s_fj36656",
+      "book": {
+        "title": "夜と霧",
+        "author": "ヴィクトール・E・フランクル",
+        "isbn": "9784622039709"
+      }
+    },
+    {
+      "personId": "fj36070",
+      "sourceId": "s_fj36070",
+      "book": {
+        "title": "空海 秘蔵宝鑰",
+        "author": "空海",
+        "isbn": "9784044072131"
+      }
+    },
+    {
+      "personId": "fj34581",
+      "sourceId": "s_fj34581",
+      "book": {
+        "title": "すばらしい新世界",
+        "author": "オルダス・ハクスリー",
+        "isbn": "9784151200861"
+      }
+    },
+    {
+      "personId": "fj33586",
+      "sourceId": "s_fj33586",
+      "book": {
+        "title": "ベンヤミン・アンソロジー",
+        "author": "ヴァルター・ベンヤミン",
+        "isbn": "9784309463483"
+      }
+    },
+    {
+      "personId": "fj32845",
+      "sourceId": "s_fj32845",
+      "book": {
+        "title": "ムハマド・ユヌス自伝",
+        "author": "ムハマド・ユヌス",
+        "isbn": "9784152081896"
+      }
+    },
+    {
+      "personId": "fj31712",
+      "sourceId": "s_fj31712",
+      "book": {
+        "title": "論語と算盤",
+        "author": "渋沢栄一",
+        "isbn": "9784044090012"
+      }
+    },
+    {
+      "personId": "fj31118",
+      "sourceId": "s_fj31118",
+      "book": {
+        "title": "ZERO to ONE",
+        "author": "ピーター・ティール",
+        "isbn": "9784140816585"
+      }
+    },
+    {
+      "personId": "fj30507",
+      "sourceId": "s_fj30507",
+      "book": {
+        "title": "マックスウェルの悪魔",
+        "author": "都筑卓司",
+        "isbn": "9784062573849"
+      }
+    },
+    {
+      "personId": "fj29529",
+      "sourceId": "s_fj29529",
+      "book": {
+        "title": "坂の上の雲",
+        "edition": "シリーズ",
+        "author": "司馬遼太郎",
+        "isbn": "9784167105280"
+      }
+    },
+    {
+      "personId": "fj28284",
+      "sourceId": "s_fj28284",
+      "book": {
+        "title": "後世への最大遺物",
+        "author": "内村鑑三",
+        "isbn": "9784003311943"
+      }
+    },
+    {
+      "personId": "fj26975",
+      "sourceId": "s_fj26975",
+      "book": {
+        "title": "星の王子様",
+        "author": "サン=テグジュペリ",
+        "isbn": "9784001140019"
+      }
+    },
+    {
+      "personId": "fj26600",
+      "sourceId": "s_fj26600",
+      "book": {
+        "title": "利己的な遺伝子",
+        "author": "リチャード・ドーキンス",
+        "isbn": "9784314005562"
+      }
+    },
+    {
+      "personId": "fj25955",
+      "sourceId": "s_fj25955",
+      "book": {
+        "title": "自分のための人生",
+        "author": "ウェイン・W・ダイアー",
+        "isbn": "9784837979609"
+      }
+    },
+    {
+      "personId": "fj25397",
+      "sourceId": "s_fj25397",
+      "book": {
+        "title": "ポジショニング戦略［新版］",
+        "author": "アル・ライズ",
+        "isbn": "9784903212074"
+      }
+    },
+    {
+      "personId": "fj23651",
+      "sourceId": "s_fj23651",
+      "book": {
+        "title": "最後のサムライ 山岡鐵舟",
+        "author": "円山牧田",
+        "isbn": "9784905706212"
+      }
+    },
+    {
+      "personId": "fj23230",
+      "sourceId": "s_fj23230",
+      "book": {
+        "title": "HARD THINGS",
+        "author": "ベン・ホロウィッツ",
+        "isbn": "9784822250850"
+      }
+    },
+    {
+      "personId": "fj22840",
+      "sourceId": "s_fj22840",
+      "book": {
+        "title": "一倉定の経営心得",
+        "author": "一倉定",
+        "isbn": "9784891010065"
+      }
+    },
+    {
+      "personId": "fj22338",
+      "sourceId": "s_fj22338",
+      "book": {
+        "title": "ニュー・エンペラー",
+        "subtitle": "毛沢東と鄧小平の中国",
+        "author": "ハリソン・E・ソールズベリー",
+        "isbn": "9784828817279"
+      }
+    },
+    {
+      "personId": "fj20674",
+      "sourceId": "s_fj20674",
+      "book": {
+        "title": "国銅 上",
+        "author": "帚木蓬生",
+        "isbn": "9784101288161"
+      }
+    },
+    {
+      "personId": "fj20449",
+      "sourceId": "s_fj20449",
+      "book": {
+        "title": "HARD THINGS",
+        "author": "ベン・ホロウィッツ",
+        "isbn": "9784822250850"
+      }
+    },
+    {
+      "personId": "fj20321",
+      "sourceId": "s_fj20321",
+      "book": {
+        "title": "私の財産告白",
+        "author": "本多静六",
+        "isbn": "9784775924938"
+      }
+    },
+    {
+      "personId": "fj19720",
+      "sourceId": "s_fj19720",
+      "book": {
+        "title": "外食王の飢え",
+        "author": "城山三郎",
+        "isbn": "9784062001427"
+      }
+    },
+    {
+      "personId": "fj18522",
+      "sourceId": "s_fj18522",
+      "book": {
+        "title": "ローマ人の物語",
+        "author": "塩野七生",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fj17599",
+      "sourceId": "s_fj17599",
+      "book": {
+        "title": "人を動かす",
+        "author": "D・カーネギー"
+      }
+    },
+    {
+      "personId": "fj17319",
+      "sourceId": "s_fj17319",
+      "book": {
+        "title": "海賊とよばれた男 上",
+        "author": "百田尚樹",
+        "isbn": "9784062778299"
+      }
+    },
+    {
+      "personId": "fj17000",
+      "sourceId": "s_fj17000",
+      "book": {
+        "title": "失敗の本質",
+        "subtitle": "日本軍の組織論的研究",
+        "author": "戸部良一",
+        "isbn": "9784122018334"
+      }
+    },
+    {
+      "personId": "fj15909",
+      "sourceId": "s_fj15909",
+      "book": {
+        "title": "イヤならやめろ！",
+        "author": "堀場雅夫",
+        "isbn": "9784532161729"
+      }
+    },
+    {
+      "personId": "fj15583",
+      "sourceId": "s_fj15583",
+      "book": {
+        "title": "竜馬がゆく",
+        "edition": "シリーズ",
+        "author": "司馬遼太郎",
+        "isbn": "9784163630106"
+      }
+    },
+    {
+      "personId": "fj15368",
+      "sourceId": "s_fj15368",
+      "book": {
+        "title": "マスターの教え",
+        "author": "ジョン・マクドナルド",
+        "isbn": "9784864103879"
+      }
+    },
+    {
+      "personId": "fj14950",
+      "sourceId": "s_fj14950",
+      "book": {
+        "title": "人生でいちばん大切な三つのことば",
+        "author": "塩沼亮潤",
+        "isbn": "9784393134078"
+      }
+    },
+    {
+      "personId": "fj14256",
+      "sourceId": "s_fj14256",
+      "book": {
+        "title": "学問のすすめ",
+        "author": "福沢諭吉"
+      }
+    },
+    {
+      "personId": "fj12158",
+      "sourceId": "s_fj12158",
+      "book": {
+        "title": "資本主義はなぜ自壊したのか",
+        "subtitle": "「日本」再生への提言",
+        "author": "中谷巌",
+        "isbn": "9784797671841"
+      }
+    },
+    {
+      "personId": "fj11892",
+      "sourceId": "s_fj11892",
+      "book": {
+        "title": "村田昭治のマーケティング・ハート",
+        "subtitle": "学ぶことのたのしさ",
+        "author": "村田昭治",
+        "isbn": "9784833414616"
+      }
+    },
+    {
+      "personId": "fj11577",
+      "sourceId": "s_fj11577",
+      "book": {
+        "title": "医療防衛",
+        "subtitle": "なぜ日本医師会は闘うのか",
+        "author": "今村聡、海堂尊",
+        "isbn": "9784041102060"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://forbesjapan.com/articles/detail/9057",
+      "result": "candidate",
+      "reason": "No.1（2015-10-10）。リード文に書名なし（著者名・社名・肩書きのみ）。人物と書名の両方が分からないため載せない",
+      "person": "菅野隆二（ヒューマン・メタボローム・テクノロジーズ社長）"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/11195",
+      "result": "candidate",
+      "reason": "No.2（2016-02-23）。リード文に書名なし（人物名・肩書きのみ。タイトルは「アップルに代表されるアジルカンパニーとは？」）。人物と書名の両方が分からないため載せない",
+      "person": "酒巻久（キヤノン電子代表取締役社長）"
+    },
+    {
+      "url": "https://forbesjapan.com/series/list/ceo_book",
+      "result": "index",
+      "reason": "2026-11-17確認。連載「CEOがすすめる一冊」全84回（No.1〜84、2015-10〜2024-03）を /series/list/ceo_book/page1〜9 で全件確認（page10 は404）。No.10 以外は有料記事のため、記事冒頭のリード文（本文先頭の<br>までの1文）・タイトル・公開日だけを使用。最新は No.84（2024-03-16）で、以降の新着なし"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/67178",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『世界の再生可能エネルギーと電力システム［風力発電編］』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "秋元博路"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/37194",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『すべては人なんだ』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "小濱英之"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/35291",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『スクラム』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "進藤達也"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/30048",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『関ヶ原』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "天野豊美"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/28986",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『水滸伝』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "松本直人"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/27594",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『誰でもジョブズのような斬新な発想ができるのか』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "土屋裕雅"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/24647",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『山岡鉄舟 剣禅話』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "田中仁"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/24314",
+      "result": "candidate",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」。リード文の書名『脳の習慣』だけでは本を1冊に決められず未掲載（有料部分は読まない）",
+      "person": "火浦俊彦"
+    }
+  ]
+}
