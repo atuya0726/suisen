@@ -103,7 +103,7 @@ const itemListLd = {
                 </p>
                 <ul class="rec-list">
                   {g.map((rec) => (
-                    <Recommendation recs={[rec]} show="book" hideSource />
+                    <Recommendation recs={[rec]} show="book" hideSource buy />
                   ))}
                 </ul>
               </div>
@@ -111,6 +111,7 @@ const itemListLd = {
           })
         }
       </div>
+      <p class="caption tertiary rec-buy-note">リンク先で購入されると、suisen に紹介料が入ることがあります。</p>
     </section>
 
     {

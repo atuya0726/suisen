@@ -1,5 +1,6 @@
 ---
 import BookCover from "./BookCover.astro";
+import BuyButtons from "./BuyButtons.astro";
 import type { Rec } from "../lib/data";
 import { authorsLabel, formatDate } from "../lib/site";
 
@@ -10,8 +11,10 @@ interface Props {
   show: "book" | "person" | "both";
   /** 出典の行を出さない（出典ごとにまとめて、見出しで1回だけ出すとき） */
   hideSource?: boolean;
+  /** 購入ボタンを出す（人物ページ用。検索の入口になるページから直接買えるようにする） */
+  buy?: boolean;
 }
-const { recs, show, hideSource = false } = Astro.props;
+const { recs, show, hideSource = false, buy = false } = Astro.props;
 const { person, book } = recs[0]!;
 const bookHref = `/books/${book.isbn13}/`;
 const personHref = `/people/${person.id}/`;
@@ -71,4 +74,5 @@ const typeLabel = { article: "記事", interview: "インタビュー", podcast:
       ))
     }
   </div>
+  {buy && <div class="rec-buy"><BuyButtons book={book} /></div>}
 </li>

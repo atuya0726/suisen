@@ -736,10 +736,38 @@ a.tag:hover {
   display: none;
 }
 
+/* 人物ページの購入ボタン。SP は書影の下に全幅で2つ並べ、PC は書名の列にそろえる */
+.rec-buy {
+  grid-column: 1 / -1;
+}
+
+.rec-buy .button {
+  flex: 1;
+  padding-inline: var(--space-2);
+}
+
+.rec-buy-note {
+  margin-top: var(--space-4);
+}
+
 @media (min-width: 768px) {
   .rec.has-cover {
     grid-template-columns: var(--space-9) minmax(0, 1fr);
     gap: var(--space-5);
+  }
+
+  .rec:has(.rec-buy) .cover-link {
+    grid-row: span 2;
+  }
+
+  .rec-buy {
+    grid-column: 2;
+    align-self: end;
+  }
+
+  .rec-buy .button {
+    flex: none;
+    padding-inline: var(--space-5);
   }
 }
 
