@@ -13401,5 +13401,464 @@
     "title": "The Best Books on Dissent | Five Books Expert Recommendations",
     "url": "https://fivebooks.com/best-books/timothy-snyder-on-dissent/",
     "publishedAt": "2012-01-25"
+  },
+  {
+    "id": "ath-flash-saito",
+    "type": "interview",
+    "media": "Smart FLASH",
+    "title": "斎藤佑樹　結果が出ない時期に出会った『嫌われる勇気』で「一喜一憂するのをやめたんです」【アスリート「座右の書」】",
+    "url": "https://smart-flash.jp/sports/332143/",
+    "publishedAt": "2025-03-01"
+  },
+  {
+    "id": "ath-flash-shimizu",
+    "type": "interview",
+    "media": "Smart FLASH",
+    "title": "空手「銀」清水希容が「目指す境地を思い出させてくれる」一冊は江戸の剣術書『猫の妙術』【アスリート「座右の書」】",
+    "url": "https://smart-flash.jp/sports/332134/",
+    "publishedAt": "2025-03-01"
+  },
+  {
+    "id": "ath-bleague-back",
+    "type": "interview",
+    "media": "B.LEAGUE公式サイト",
+    "title": "【夏休み特別企画】読書感想文にもおすすめ！B.LEAGUE選手たちの推薦図書をご紹介《後編》",
+    "url": "https://www.bleague.jp/bmagazine/detail/id=620470",
+    "publishedAt": "2026-08-21"
+  },
+  {
+    "id": "ath-bleague-front",
+    "type": "interview",
+    "media": "B.LEAGUE公式サイト",
+    "title": "【夏休み特別企画】読書感想文にもおすすめ！B.LEAGUE選手たちの推薦図書をご紹介《前編》",
+    "url": "https://www.bleague.jp/bmagazine/detail/id=620468",
+    "publishedAt": "2026-08-21"
+  },
+  {
+    "id": "ath-it-itandi-2",
+    "type": "interview",
+    "media": "ITmedia NEWS",
+    "title": "不動産業界向けSaaSベンダー・イタンジ経営陣の愛読書は？　“本棚”をのぞき見（2/3 ページ）",
+    "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/2",
+    "publishedAt": "2025-04-21"
+  },
+  {
+    "id": "ath-it-itandi-1",
+    "type": "interview",
+    "media": "ITmedia NEWS",
+    "title": "不動産業界向けSaaSベンダー・イタンジ経営陣の愛読書は？　“本棚”をのぞき見（1/3 ページ）",
+    "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/",
+    "publishedAt": "2025-04-21"
+  },
+  {
+    "id": "ath-it-lm-1",
+    "type": "interview",
+    "media": "ITmedia NEWS",
+    "title": "リンクアンドモチベーション経営層の本棚をのぞき見　愛読書は？（1/3 ページ）",
+    "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/",
+    "publishedAt": "2024-10-21"
+  },
+  {
+    "id": "ath-flash-hosogai",
+    "type": "interview",
+    "media": "Smart FLASH",
+    "title": "ザスパ群馬次期社長・細貝萌　元日本代表が「経営に興味を持った」きっかけの3冊「僕も“変革のプロセス”を」【アスリート「座右の書」】",
+    "url": "https://smart-flash.jp/sports/332151/",
+    "publishedAt": "2025-03-01"
+  },
+  {
+    "id": "ath-it-itandi-3",
+    "type": "interview",
+    "media": "ITmedia NEWS",
+    "title": "不動産業界向けSaaSベンダー・イタンジ経営陣の愛読書は？　“本棚”をのぞき見（3/3 ページ）",
+    "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/3",
+    "publishedAt": "2025-04-21"
+  },
+  {
+    "id": "tm-small-8-1",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第８回 池上 彰さん ▶︎▷01",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/8-1",
+    "publishedAt": "2019-03-17"
+  },
+  {
+    "id": "tm-small-4-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第４回 出口治明さん ▶︎▷03",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/4-3",
+    "publishedAt": "2018-09-14"
+  },
+  {
+    "id": "tm-hon-8608",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "松久淳『走る奴なんて馬鹿だと思ってた』に共感しすぎる件【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/8608"
+  },
+  {
+    "id": "tm-small-7-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第７回 水野 学さん ▶︎▷03",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/7-3",
+    "publishedAt": "2019-02-22"
+  },
+  {
+    "id": "tm-cro-240607",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "夫婦の蔵書が混じり合う大きな棚を家の中心に　KIKIさんの個性あふれる本棚",
+    "url": "https://croissant-online.jp/life/240607/",
+    "publishedAt": "2025-03-28"
+  },
+  {
+    "id": "tm-small-16-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "けんご＠小説紹介さん インタビュー連載「私の本」vol.16 第２回",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/16-2",
+    "publishedAt": "2021-10-22"
+  },
+  {
+    "id": "tm-hon-10079",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "好奇心、プライスレス【小塚舞子】",
+    "url": "https://honcierge.jp/articles/shelf_story/10079"
+  },
+  {
+    "id": "tm-small-9-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第９回 三浦瑠麗さん ▶︎▷03",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/9-3",
+    "publishedAt": "2020-10-09"
+  },
+  {
+    "id": "tm-small-7-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第７回 水野 学さん ▶︎▷02",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/7-2",
+    "publishedAt": "2019-02-21"
+  },
+  {
+    "id": "tm-hon-11651",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "赤ノ宮翼の今月の偏愛本  B面｜第5回『爆弾』ノンストップ・ミステリーと立ち止まって考えさせられる社会問題が並行する傑作",
+    "url": "https://honcierge.jp/articles/shelf_story/11651"
+  },
+  {
+    "id": "tm-small-4-1",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第４回 出口治明さん ▶︎▷01",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/4-1",
+    "publishedAt": "2018-09-12"
+  },
+  {
+    "id": "tm-small-6-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第６回 大澤真幸さん ▶︎▷03",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/6-3",
+    "publishedAt": "2018-12-13"
+  },
+  {
+    "id": "tm-small-15-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "酒村ゆっけ、さん インタビュー連載「私の本」vol.15 第３回",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/15-3",
+    "publishedAt": "2021-09-30"
+  },
+  {
+    "id": "tm-hon-8178",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【第24回】真夏の内見ツアーの話",
+    "url": "https://honcierge.jp/articles/shelf_story/8178"
+  },
+  {
+    "id": "tm-small-6-1",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第６回 大澤真幸さん ▶︎▷01",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/6-1",
+    "publishedAt": "2018-12-11"
+  },
+  {
+    "id": "tm-small-5-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第５回 今泉忠明さん ▶︎▷03",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/5-3",
+    "publishedAt": "2018-10-19"
+  },
+  {
+    "id": "tm-small-5-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第５回 今泉忠明さん ▶︎▷02",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/5-2",
+    "publishedAt": "2018-10-18"
+  },
+  {
+    "id": "tm-small-14-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "杉田陽平さん インタビュー連載「私の本」vol.14 第２回",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/14-2",
+    "publishedAt": "2021-02-16"
+  },
+  {
+    "id": "tm-small-15-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "酒村ゆっけ、さん インタビュー連載「私の本」vol.15 第２回",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/15-2",
+    "publishedAt": "2021-09-29"
+  },
+  {
+    "id": "tm-cro-78818",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "【紫原明子のお悩み相談】スマホ依存のリハビリにおすすめの本を教えてください。",
+    "url": "https://croissant-online.jp/life/78818/",
+    "publishedAt": "2018-11-15"
+  },
+  {
+    "id": "tm-cro-57120",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "柚木麻子さん「私の新刊『BUTTER』も経済小説だと知ってびっくり」",
+    "url": "https://croissant-online.jp/life/57120/",
+    "publishedAt": "2017-09-16"
+  },
+  {
+    "id": "tm-small-6-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第６回 大澤真幸さん ▶︎▷02",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/6-2",
+    "publishedAt": "2018-12-12"
+  },
+  {
+    "id": "tm-small-3-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第３回 白井 聡さん ▶︎▷03",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/3-3",
+    "publishedAt": "2018-08-16"
+  },
+  {
+    "id": "tm-small-4-2",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第４回 出口治明さん ▶︎▷02",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/4-2",
+    "publishedAt": "2018-09-13"
+  },
+  {
+    "id": "tm-small-7-1",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第７回 水野 学さん ▶︎▷01",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/7-1",
+    "publishedAt": "2019-02-20"
+  },
+  {
+    "id": "tm-cro-56885",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "島田順子さんのいつも胸の中にある言葉“なんじ自身を知れ”",
+    "url": "https://croissant-online.jp/life/56885/",
+    "publishedAt": "2017-08-31"
+  },
+  {
+    "id": "tm-small-14-3",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "杉田陽平さん インタビュー連載「私の本」vol.14 第３回",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/14-3",
+    "publishedAt": "2021-02-17"
+  },
+  {
+    "id": "tm-small-9-1",
+    "type": "interview",
+    "media": "小説丸（小学館）",
+    "title": "私の本 第９回 三浦瑠麗さん ▶︎▷01",
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/9-1",
+    "publishedAt": "2020-10-07"
+  },
+  {
+    "id": "dd21",
+    "type": "article",
+    "media": "ダ・ヴィンチWeb",
+    "title": "『アメトーーク！』「本屋で読書芸人」で紹介された本は…？ 読書芸人の「最近読んだお気に入り本」",
+    "url": "https://ddnavi.com/article/d895139/a/",
+    "publishedAt": "2021-12-03"
+  },
+  {
+    "id": "bb16-kazu",
+    "type": "article",
+    "media": "Book Bang",
+    "title": "年間200冊を読むカズレーザー「アメトーーク！読書芸人」に参戦［アメトーーク！読書芸人特集④］",
+    "url": "https://www.bookbang.jp/article/521192",
+    "publishedAt": "2016-11-11"
+  },
+  {
+    "id": "bb16-matayoshi",
+    "type": "article",
+    "media": "Book Bang",
+    "title": "又吉直樹が「今年読んだオススメの5冊」を発表［アメトーーク！読書芸人特集①］",
+    "url": "https://www.bookbang.jp/article/521195",
+    "publishedAt": "2016-11-11"
+  },
+  {
+    "id": "bb16-mitsuura",
+    "type": "article",
+    "media": "Book Bang",
+    "title": "「読んでほしい！ これめっちゃ面白い！」光浦靖子が絶賛した「書き出し小説」 [アメトーーク！読書芸人特集②]",
+    "url": "https://www.bookbang.jp/article/521194",
+    "publishedAt": "2016-11-11"
+  },
+  {
+    "id": "bb17",
+    "type": "article",
+    "media": "Book Bang",
+    "title": "カズレーザーが「15年ぶりに泣いた」本とは 「アメトーーク！ 読書芸人」で紹介された本まとめ",
+    "url": "https://www.bookbang.jp/article/542108",
+    "publishedAt": "2017-11-17"
+  },
+  {
+    "id": "bb16-wakabayashi",
+    "type": "article",
+    "media": "Book Bang",
+    "title": "オードリー若林『特定の人としかうまく付き合えないのは、結局、あなたの心が冷めているからだ』を買う [アメトーーク！読書芸人特集③]",
+    "url": "https://www.bookbang.jp/article/521258",
+    "publishedAt": "2016-11-11"
+  },
+  {
+    "id": "bb16-taisho",
+    "type": "article",
+    "media": "Book Bang",
+    "title": "又吉・光浦・若林・カズレーザー「アメトーーク！」読書芸人が「読書芸人大賞2016」を発表！",
+    "url": "https://www.bookbang.jp/article/521193",
+    "publishedAt": "2016-11-11"
+  },
+  {
+    "id": "brutus-murakami-list",
+    "type": "article",
+    "media": "BRUTUS",
+    "title": "村上春樹が手放すことのできない私的読書一覧",
+    "url": "https://brutus.jp/murakami-haruki-book/",
+    "publishedAt": "2022-10-25"
+  },
+  {
+    "id": "yoro-1",
+    "type": "interview",
+    "media": "BRUTUS",
+    "title": "養老孟司は、こんな本を読んできた。 1930年生まれの読書歴〜前編〜",
+    "url": "https://brutus.jp/post-57412/",
+    "publishedAt": "2022-08-30"
+  },
+  {
+    "id": "yoro-2",
+    "type": "interview",
+    "media": "BRUTUS",
+    "title": "養老孟司は、こんな本を読んできた。 1930年生まれの読書歴〜後編〜",
+    "url": "https://brutus.jp/post-57431/",
+    "publishedAt": "2022-08-30"
+  },
+  {
+    "id": "hug2",
+    "type": "interview",
+    "media": "HugKum",
+    "title": "パパママ必読！本好き・芦田愛菜さんが幼少期に愛した絵本とは？",
+    "url": "https://hugkum.sho.jp/72750",
+    "publishedAt": "2019-08-06"
+  },
+  {
+    "id": "hobo",
+    "type": "interview",
+    "media": "ほぼ日刊イトイ新聞",
+    "title": "あのひとの本棚。 第6回 堺雅人さんの本棚「酩酊状態で読む5冊」",
+    "url": "https://www.1101.com/hondana/sakai.html",
+    "publishedAt": "2007-09-20"
+  },
+  {
+    "id": "hug1",
+    "type": "interview",
+    "media": "HugKum",
+    "title": "自称「活字中毒」！芦田愛菜さんに聞く、読書好きになる秘訣とは？",
+    "url": "https://hugkum.sho.jp/72748",
+    "publishedAt": "2019-08-03"
+  },
+  {
+    "id": "kumon",
+    "type": "interview",
+    "media": "mi:te（KUMON）",
+    "title": "人気子役・芦田愛菜ちゃんスペシャルインタビュー",
+    "url": "https://mi-te.kumon.ne.jp/contents/article/9-314/"
+  },
+  {
+    "id": "ddnavi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "吉沢 亮「中村文則さんの描く人物と、どこか自分は似ていると感じることがあります」",
+    "url": "https://ddnavi.com/article/d289988/a/",
+    "publishedAt": "2016-03-06"
+  },
+  {
+    "id": "aso-fsa-0706",
+    "type": "interview",
+    "media": "金融庁",
+    "title": "麻生副総理兼財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和3年7月6日）",
+    "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210706-1.html",
+    "publishedAt": "2021-07-06"
+  },
+  {
+    "id": "hayashi-nps",
+    "type": "interview",
+    "media": "NEWSポストセブン",
+    "title": "今でしょ先生「1ページ読むだけでガツンと来る本」を熱く語る",
+    "url": "https://www.news-postseven.com/archives/20130224_173041.html",
+    "publishedAt": "2013-02-24"
+  },
+  {
+    "id": "aso-fsa-0720",
+    "type": "interview",
+    "media": "金融庁",
+    "title": "麻生副総理兼財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和3年7月20日）",
+    "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210720-1.html",
+    "publishedAt": "2021-07-20"
+  },
+  {
+    "id": "miyake-artovilla",
+    "type": "interview",
+    "media": "ARToVILLA",
+    "title": "忙しい日々であっても、アートには触れていたい / 文芸評論家・三宅香帆が選ぶ「忙しい社会人でもアートを楽しめる」ブックリスト4冊",
+    "url": "https://artovilla.jp/articles/interview_kaho-miyake.html",
+    "publishedAt": "2025-02-05"
+  },
+  {
+    "id": "ishiba-jimin",
+    "type": "article",
+    "media": "自由民主党",
+    "title": "第20回まなびとプロジェクト（講師：石破茂前政務調査会長）を開催しました",
+    "url": "https://www.jimin.jp/daigakuin/manabito/2011/10/114262.html",
+    "publishedAt": "2011-10-31"
+  },
+  {
+    "id": "ishiba-massken",
+    "type": "interview",
+    "media": "早稲田大学マスコミ研究会",
+    "title": "「勇気と真心をもって真実を語る」政治家の仕事とは　石破茂インタビュー",
+    "url": "https://waseda-massken.com/shigeruishiba/",
+    "publishedAt": "2026-10-24"
   }
 ]

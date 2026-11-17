@@ -1,0 +1,897 @@
+{
+  "people": [
+    {
+      "id": "tm-person-1",
+      "name": "白井聡",
+      "title": "政治学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "tm-person-2",
+      "name": "出口治明",
+      "title": "ライフネット生命創業者・立命館アジア太平洋大学学長（2018年掲載時）",
+      "tags": [
+        "経営者"
+      ]
+    },
+    {
+      "id": "tm-person-3",
+      "name": "今泉忠明",
+      "title": "動物学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "tm-person-4",
+      "name": "大澤真幸",
+      "title": "社会学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "tm-person-5",
+      "name": "水野学",
+      "title": "クリエイティブディレクター",
+      "tags": [
+        "デザイナー"
+      ]
+    },
+    {
+      "id": "tm-person-6",
+      "name": "池上彰",
+      "title": "ジャーナリスト",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "tm-person-7",
+      "name": "三浦瑠麗",
+      "title": "国際政治学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "tm-person-8",
+      "name": "杉田陽平",
+      "title": "現代美術家",
+      "tags": []
+    },
+    {
+      "id": "tm-person-9",
+      "name": "酒村ゆっけ、",
+      "title": "YouTuber・作家",
+      "tags": [
+        "芸能",
+        "作家"
+      ]
+    },
+    {
+      "id": "tm-person-10",
+      "name": "けんご＠小説紹介",
+      "title": "小説紹介クリエイター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tm-person-11",
+      "name": "KIKI",
+      "title": "モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tm-person-12",
+      "name": "島田順子",
+      "title": "ファッションデザイナー",
+      "tags": [
+        "デザイナー"
+      ]
+    },
+    {
+      "id": "tm-person-13",
+      "name": "紫原明子",
+      "title": "エッセイスト",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "tm-person-14",
+      "name": "堺憲一",
+      "title": "経済史研究者・東京経済大学学長（2017年掲載時）",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "tm-person-15",
+      "name": "柚木麻子",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "tm-person-16",
+      "name": "小塚舞子",
+      "title": "タレント・俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tm-person-17",
+      "name": "山本裕子",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tm-person-18",
+      "name": "石山蓮華",
+      "title": "俳優・文筆家",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tm-person-19",
+      "name": "谷口つばさ",
+      "title": "お笑い芸人（記事中の筆名は赤ノ宮翼）",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "tm-small-3-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第３回 白井 聡さん ▶︎▷03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/3-3",
+      "publishedAt": "2018-08-16"
+    },
+    {
+      "id": "tm-small-4-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第４回 出口治明さん ▶︎▷01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/4-1",
+      "publishedAt": "2018-09-12"
+    },
+    {
+      "id": "tm-small-4-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第４回 出口治明さん ▶︎▷02",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/4-2",
+      "publishedAt": "2018-09-13"
+    },
+    {
+      "id": "tm-small-4-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第４回 出口治明さん ▶︎▷03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/4-3",
+      "publishedAt": "2018-09-14"
+    },
+    {
+      "id": "tm-small-5-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第５回 今泉忠明さん ▶︎▷02",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/5-2",
+      "publishedAt": "2018-10-18"
+    },
+    {
+      "id": "tm-small-5-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第５回 今泉忠明さん ▶︎▷03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/5-3",
+      "publishedAt": "2018-10-19"
+    },
+    {
+      "id": "tm-small-6-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第６回 大澤真幸さん ▶︎▷01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/6-1",
+      "publishedAt": "2018-12-11"
+    },
+    {
+      "id": "tm-small-6-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第６回 大澤真幸さん ▶︎▷02",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/6-2",
+      "publishedAt": "2018-12-12"
+    },
+    {
+      "id": "tm-small-6-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第６回 大澤真幸さん ▶︎▷03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/6-3",
+      "publishedAt": "2018-12-13"
+    },
+    {
+      "id": "tm-small-7-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第７回 水野 学さん ▶︎▷01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/7-1",
+      "publishedAt": "2019-02-20"
+    },
+    {
+      "id": "tm-small-7-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第７回 水野 学さん ▶︎▷02",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/7-2",
+      "publishedAt": "2019-02-21"
+    },
+    {
+      "id": "tm-small-7-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第７回 水野 学さん ▶︎▷03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/7-3",
+      "publishedAt": "2019-02-22"
+    },
+    {
+      "id": "tm-small-8-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第８回 池上 彰さん ▶︎▷01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/8-1",
+      "publishedAt": "2019-03-17"
+    },
+    {
+      "id": "tm-small-9-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第９回 三浦瑠麗さん ▶︎▷01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/9-1",
+      "publishedAt": "2020-10-07"
+    },
+    {
+      "id": "tm-small-9-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第９回 三浦瑠麗さん ▶︎▷03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/9-3",
+      "publishedAt": "2020-10-09"
+    },
+    {
+      "id": "tm-small-14-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "杉田陽平さん インタビュー連載「私の本」vol.14 第２回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/14-2",
+      "publishedAt": "2021-02-16"
+    },
+    {
+      "id": "tm-small-14-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "杉田陽平さん インタビュー連載「私の本」vol.14 第３回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/14-3",
+      "publishedAt": "2021-02-17"
+    },
+    {
+      "id": "tm-small-15-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "酒村ゆっけ、さん インタビュー連載「私の本」vol.15 第２回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/15-2",
+      "publishedAt": "2021-09-29"
+    },
+    {
+      "id": "tm-small-15-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "酒村ゆっけ、さん インタビュー連載「私の本」vol.15 第３回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/15-3",
+      "publishedAt": "2021-09-30"
+    },
+    {
+      "id": "tm-small-16-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "けんご＠小説紹介さん インタビュー連載「私の本」vol.16 第２回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/16-2",
+      "publishedAt": "2021-10-22"
+    },
+    {
+      "id": "tm-cro-240607",
+      "type": "article",
+      "media": "クロワッサン オンライン",
+      "title": "夫婦の蔵書が混じり合う大きな棚を家の中心に　KIKIさんの個性あふれる本棚",
+      "url": "https://croissant-online.jp/life/240607/",
+      "publishedAt": "2025-03-28"
+    },
+    {
+      "id": "tm-cro-56885",
+      "type": "article",
+      "media": "クロワッサン オンライン",
+      "title": "島田順子さんのいつも胸の中にある言葉“なんじ自身を知れ”",
+      "url": "https://croissant-online.jp/life/56885/",
+      "publishedAt": "2017-08-31"
+    },
+    {
+      "id": "tm-cro-78818",
+      "type": "article",
+      "media": "クロワッサン オンライン",
+      "title": "【紫原明子のお悩み相談】スマホ依存のリハビリにおすすめの本を教えてください。",
+      "url": "https://croissant-online.jp/life/78818/",
+      "publishedAt": "2018-11-15"
+    },
+    {
+      "id": "tm-cro-57120",
+      "type": "article",
+      "media": "クロワッサン オンライン",
+      "title": "柚木麻子さん「私の新刊『BUTTER』も経済小説だと知ってびっくり」",
+      "url": "https://croissant-online.jp/life/57120/",
+      "publishedAt": "2017-09-16"
+    },
+    {
+      "id": "tm-hon-10079",
+      "type": "article",
+      "media": "ホンシェルジュ",
+      "title": "好奇心、プライスレス【小塚舞子】",
+      "url": "https://honcierge.jp/articles/shelf_story/10079"
+    },
+    {
+      "id": "tm-hon-8608",
+      "type": "article",
+      "media": "ホンシェルジュ",
+      "title": "松久淳『走る奴なんて馬鹿だと思ってた』に共感しすぎる件【山本裕子】",
+      "url": "https://honcierge.jp/articles/shelf_story/8608"
+    },
+    {
+      "id": "tm-hon-8178",
+      "type": "article",
+      "media": "ホンシェルジュ",
+      "title": "【第24回】真夏の内見ツアーの話",
+      "url": "https://honcierge.jp/articles/shelf_story/8178"
+    },
+    {
+      "id": "tm-hon-11651",
+      "type": "article",
+      "media": "ホンシェルジュ",
+      "title": "赤ノ宮翼の今月の偏愛本  B面｜第5回『爆弾』ノンストップ・ミステリーと立ち止まって考えさせられる社会問題が並行する傑作",
+      "url": "https://honcierge.jp/articles/shelf_story/11651"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "tm-person-1",
+      "sourceId": "tm-small-3-3",
+      "book": {
+        "title": "金閣寺",
+        "author": "三島由紀夫"
+      }
+    },
+    {
+      "personId": "tm-person-1",
+      "sourceId": "tm-small-3-3",
+      "book": {
+        "title": "家畜人ヤプー",
+        "author": "沼正三",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tm-person-2",
+      "sourceId": "tm-small-4-1",
+      "book": {
+        "title": "ハドリアヌス帝の回想",
+        "author": "マルグリット・ユルスナール",
+        "edition": "多田智満子訳"
+      }
+    },
+    {
+      "personId": "tm-person-2",
+      "sourceId": "tm-small-4-1",
+      "book": {
+        "title": "預言者",
+        "author": "カリール・ジブラン"
+      }
+    },
+    {
+      "personId": "tm-person-2",
+      "sourceId": "tm-small-4-1",
+      "book": {
+        "title": "道しるべ",
+        "author": "ダグ・ハマーショルド"
+      }
+    },
+    {
+      "personId": "tm-person-2",
+      "sourceId": "tm-small-4-2",
+      "book": {
+        "title": "革命",
+        "author": "エマニュエル・マクロン"
+      }
+    },
+    {
+      "personId": "tm-person-2",
+      "sourceId": "tm-small-4-3",
+      "book": {
+        "title": "社会心理学講義 〈閉ざされた社会〉と〈開かれた社会〉",
+        "author": "小坂井敏晶"
+      }
+    },
+    {
+      "personId": "tm-person-3",
+      "sourceId": "tm-small-5-2",
+      "book": {
+        "title": "芙蓉の人",
+        "author": "新田次郎"
+      }
+    },
+    {
+      "personId": "tm-person-3",
+      "sourceId": "tm-small-5-3",
+      "book": {
+        "title": "シートン動物記",
+        "author": "アーネスト・トンプソン・シートン",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tm-person-3",
+      "sourceId": "tm-small-5-3",
+      "book": {
+        "title": "シートンの自然観察",
+        "author": "E.T.シートン",
+        "publisher": "どうぶつ社"
+      }
+    },
+    {
+      "personId": "tm-person-4",
+      "sourceId": "tm-small-6-1",
+      "book": {
+        "title": "飛ぶ教室",
+        "author": "エーリッヒ・ケストナー"
+      }
+    },
+    {
+      "personId": "tm-person-4",
+      "sourceId": "tm-small-6-2",
+      "book": {
+        "title": "次郎物語",
+        "author": "下村湖人",
+        "edition": "シリーズ"
+      },
+      "note": "上巻を掲載"
+    },
+    {
+      "personId": "tm-person-4",
+      "sourceId": "tm-small-6-3",
+      "book": {
+        "title": "ツァラトゥストラ",
+        "author": "ニーチェ",
+        "publisher": "中央公論新社",
+        "edition": "手塚富雄訳・中公文庫（2018年改版）"
+      }
+    },
+    {
+      "personId": "tm-person-4",
+      "sourceId": "tm-small-6-3",
+      "book": {
+        "title": "金閣寺",
+        "author": "三島由紀夫"
+      }
+    },
+    {
+      "personId": "tm-person-5",
+      "sourceId": "tm-small-7-1",
+      "book": {
+        "title": "サハラに死す",
+        "author": "上温湯隆"
+      }
+    },
+    {
+      "personId": "tm-person-5",
+      "sourceId": "tm-small-7-2",
+      "book": {
+        "title": "深夜特急",
+        "author": "沢木耕太郎",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tm-person-5",
+      "sourceId": "tm-small-7-3",
+      "book": {
+        "title": "生物と無生物のあいだ",
+        "author": "福岡伸一"
+      }
+    },
+    {
+      "personId": "tm-person-5",
+      "sourceId": "tm-small-7-3",
+      "book": {
+        "title": "安全な妄想",
+        "author": "長嶋有"
+      }
+    },
+    {
+      "personId": "tm-person-6",
+      "sourceId": "tm-small-8-1",
+      "book": {
+        "title": "君たちはどう生きるか",
+        "author": "吉野源三郎"
+      }
+    },
+    {
+      "personId": "tm-person-7",
+      "sourceId": "tm-small-9-1",
+      "book": {
+        "title": "パットお嬢さん",
+        "author": "ルーシー・モード・モンゴメリ"
+      }
+    },
+    {
+      "personId": "tm-person-7",
+      "sourceId": "tm-small-9-1",
+      "book": {
+        "title": "ジェーン・エア",
+        "author": "シャーロット・ブロンテ",
+        "edition": "上巻"
+      },
+      "note": "上巻を掲載"
+    },
+    {
+      "personId": "tm-person-7",
+      "sourceId": "tm-small-9-3",
+      "book": {
+        "title": "白人ナショナリズム",
+        "author": "渡辺靖"
+      }
+    },
+    {
+      "personId": "tm-person-7",
+      "sourceId": "tm-small-9-3",
+      "book": {
+        "title": "平成デモクラシー史",
+        "author": "清水真人"
+      }
+    },
+    {
+      "personId": "tm-person-8",
+      "sourceId": "tm-small-14-2",
+      "book": {
+        "title": "スイミー",
+        "author": "レオ・レオニ"
+      }
+    },
+    {
+      "personId": "tm-person-8",
+      "sourceId": "tm-small-14-3",
+      "book": {
+        "title": "画風泥棒 12人のアーティストの場合",
+        "author": "佐々木豊"
+      }
+    },
+    {
+      "personId": "tm-person-8",
+      "sourceId": "tm-small-14-3",
+      "book": {
+        "title": "ブラック・ジャック",
+        "author": "手塚治虫",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tm-person-8",
+      "sourceId": "tm-small-14-3",
+      "book": {
+        "title": "A2Z",
+        "author": "山田詠美"
+      }
+    },
+    {
+      "personId": "tm-person-9",
+      "sourceId": "tm-small-15-2",
+      "book": {
+        "title": "パプリカ",
+        "author": "筒井康隆"
+      }
+    },
+    {
+      "personId": "tm-person-9",
+      "sourceId": "tm-small-15-2",
+      "book": {
+        "title": "人間失格",
+        "author": "太宰治"
+      }
+    },
+    {
+      "personId": "tm-person-9",
+      "sourceId": "tm-small-15-2",
+      "book": {
+        "title": "バンド・オブ・ザ・ナイト",
+        "author": "中島らも"
+      }
+    },
+    {
+      "personId": "tm-person-9",
+      "sourceId": "tm-small-15-3",
+      "book": {
+        "title": "正欲",
+        "author": "朝井リョウ"
+      }
+    },
+    {
+      "personId": "tm-person-10",
+      "sourceId": "tm-small-16-2",
+      "book": {
+        "title": "白夜行",
+        "author": "東野圭吾"
+      }
+    },
+    {
+      "personId": "tm-person-10",
+      "sourceId": "tm-small-16-2",
+      "book": {
+        "title": "死にたがりの君に贈る物語",
+        "author": "綾崎隼"
+      }
+    },
+    {
+      "personId": "tm-person-10",
+      "sourceId": "tm-small-16-2",
+      "book": {
+        "title": "余命10年",
+        "author": "小坂流加"
+      }
+    },
+    {
+      "personId": "tm-person-11",
+      "sourceId": "tm-cro-240607",
+      "book": {
+        "title": "光の犬",
+        "author": "松家仁之"
+      }
+    },
+    {
+      "personId": "tm-person-11",
+      "sourceId": "tm-cro-240607",
+      "book": {
+        "title": "カンバセイション・ピース",
+        "author": "保坂和志"
+      }
+    },
+    {
+      "personId": "tm-person-11",
+      "sourceId": "tm-cro-240607",
+      "book": {
+        "title": "河岸忘日抄",
+        "author": "堀江敏幸"
+      }
+    },
+    {
+      "personId": "tm-person-11",
+      "sourceId": "tm-cro-240607",
+      "book": {
+        "title": "小屋を燃す",
+        "author": "南木佳士"
+      }
+    },
+    {
+      "personId": "tm-person-12",
+      "sourceId": "tm-cro-56885",
+      "book": {
+        "title": "ソクラテス最後の十三日",
+        "author": "森本哲郎",
+        "publisher": "PHP研究所",
+        "edition": "PHP文庫"
+      }
+    },
+    {
+      "personId": "tm-person-13",
+      "sourceId": "tm-cro-78818",
+      "book": {
+        "title": "絶叫委員会",
+        "author": "穂村弘",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫"
+      }
+    },
+    {
+      "personId": "tm-person-13",
+      "sourceId": "tm-cro-78818",
+      "book": {
+        "title": "すばらしい日々",
+        "author": "よしもとばなな",
+        "publisher": "幻冬舎",
+        "edition": "文庫"
+      }
+    },
+    {
+      "personId": "tm-person-13",
+      "sourceId": "tm-cro-78818",
+      "book": {
+        "title": "ヴェネツィアの宿",
+        "author": "須賀敦子",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "tm-person-13",
+      "sourceId": "tm-cro-78818",
+      "book": {
+        "title": "孤独な夜のココア",
+        "author": "田辺聖子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tm-person-14",
+      "sourceId": "tm-cro-57120",
+      "book": {
+        "title": "トヨトミの野望 小説・巨大自動車企業",
+        "author": "梶山三郎",
+        "publisher": "講談社",
+        "edition": "2016年刊単行本"
+      }
+    },
+    {
+      "personId": "tm-person-14",
+      "sourceId": "tm-cro-57120",
+      "book": {
+        "title": "本日は、お日柄もよく",
+        "author": "原田マハ",
+        "publisher": "徳間書店",
+        "edition": "徳間文庫"
+      }
+    },
+    {
+      "personId": "tm-person-14",
+      "sourceId": "tm-cro-57120",
+      "book": {
+        "title": "辞めない理由",
+        "author": "碧野圭",
+        "publisher": "実業之日本社",
+        "edition": "文庫"
+      }
+    },
+    {
+      "personId": "tm-person-14",
+      "sourceId": "tm-cro-57120",
+      "book": {
+        "title": "そうだ、星を売ろう",
+        "author": "永井孝尚",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "tm-person-14",
+      "sourceId": "tm-cro-57120",
+      "book": {
+        "title": "ガール",
+        "author": "奥田英朗",
+        "publisher": "講談社",
+        "edition": "文庫"
+      }
+    },
+    {
+      "personId": "tm-person-15",
+      "sourceId": "tm-cro-57120",
+      "book": {
+        "title": "トヨトミの野望 小説・巨大自動車企業",
+        "author": "梶山三郎",
+        "publisher": "講談社",
+        "edition": "2016年刊単行本"
+      }
+    },
+    {
+      "personId": "tm-person-16",
+      "sourceId": "tm-hon-10079",
+      "book": {
+        "title": "子育てベスト100",
+        "author": "加藤紀子"
+      }
+    },
+    {
+      "personId": "tm-person-16",
+      "sourceId": "tm-hon-10079",
+      "book": {
+        "title": "ピンポンさん",
+        "author": "城島充",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "tm-person-17",
+      "sourceId": "tm-hon-8608",
+      "book": {
+        "title": "走る奴なんて馬鹿だと思ってた",
+        "author": "松久淳"
+      }
+    },
+    {
+      "personId": "tm-person-18",
+      "sourceId": "tm-hon-8178",
+      "book": {
+        "title": "お家賃ですけど",
+        "author": "能町みね子",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "tm-person-19",
+      "sourceId": "tm-hon-11651",
+      "book": {
+        "title": "爆弾",
+        "author": "呉勝浩",
+        "publisher": "講談社",
+        "edition": "2022年刊単行本"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/11843",
+      "result": "unreachable",
+      "reason": "HTTP 404。本文を確認できないため未採用"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/7043",
+      "result": "unreachable",
+      "reason": "ページの見出しは取得できるが、本文は書籍カードの51文字のみ。本人の発言を確認できず未採用"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/10096",
+      "result": "rejected",
+      "reason": "荒井沙織のコラム本文は確認。3冊の商品カードはあるが、本人の愛読・評価・推薦の発言を確認できず未採用"
+    },
+    {
+      "url": "https://croissant-online.jp/life/110033/",
+      "result": "unreachable",
+      "reason": "複数回取得を試みたがタイムアウト。本文を確認できず未採用"
+    },
+    {
+      "url": "https://croissant-online.jp/life/238185/",
+      "result": "index",
+      "reason": "特集号の案内。石田ひかり・中江有里の対談は案内のみで、本の題名や個々の推薦は本文から確認できない"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/3-1",
+      "result": "index",
+      "reason": "全3回を取得。主な愛読・推薦の紹介は第3回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/14-1",
+      "result": "index",
+      "reason": "全3回を取得。主な愛読・推薦の紹介は第14回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/15-1",
+      "result": "index",
+      "reason": "全3回を取得。主な愛読・推薦の紹介は第15回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/16-1",
+      "result": "index",
+      "reason": "全3回を取得。主な愛読・推薦の紹介は第16回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "people": [
+    {
+      "id": "person-1",
+      "name": "石井講祐",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "シーホース三河"
+    },
+    {
+      "id": "person-2",
+      "name": "木村圭吾",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "神戸ストークス"
+    },
+    {
+      "id": "person-3",
+      "name": "西村優真",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "レバンガ北海道"
+    },
+    {
+      "id": "person-4",
+      "name": "大﨑翔太",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "立川ダイス"
+    },
+    {
+      "id": "person-5",
+      "name": "村上駿斗",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "金沢サムライズ"
+    },
+    {
+      "id": "person-6",
+      "name": "中野広大",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "ウォルガ湘南"
+    },
+    {
+      "id": "person-7",
+      "name": "坂口竜也",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "バンビシャス奈良"
+    },
+    {
+      "id": "person-8",
+      "name": "山本楓己",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "東京八王子ビートレインズ"
+    },
+    {
+      "id": "person-9",
+      "name": "関野日久",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "しながわシティバスケットボールクラブ"
+    },
+    {
+      "id": "person-10",
+      "name": "寺嶋良",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "広島ドラゴンフライズ"
+    },
+    {
+      "id": "person-11",
+      "name": "星川開聖",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "宇都宮ブレックス"
+    },
+    {
+      "id": "person-12",
+      "name": "大森康瑛",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "山形ワイヴァンズ"
+    },
+    {
+      "id": "person-13",
+      "name": "菊地広人",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "レバンガ北海道"
+    },
+    {
+      "id": "person-14",
+      "name": "ザック遼モーア",
+      "title": "バスケットボール選手（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "横浜エクセレンス"
+    },
+    {
+      "id": "person-15",
+      "name": "遙天翼",
+      "title": "元バスケットボール選手・アシスタントコーチ（2026年8月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "熊本ヴォルターズ"
+    },
+    {
+      "id": "person-16",
+      "name": "斎藤佑樹",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "person-17",
+      "name": "清水希容",
+      "title": "空手家・東京五輪女子形銀メダリスト",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "person-18",
+      "name": "細貝萌",
+      "title": "元サッカー日本代表選手・ザスパ群馬社長代行兼GM（2025年3月掲載時）",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "affiliation": "ザスパ群馬"
+    },
+    {
+      "id": "person-19",
+      "name": "永嶋章弘",
+      "title": "代表取締役社長執行役員CEO（2025年4月掲載時）",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "イタンジ"
+    },
+    {
+      "id": "person-20",
+      "name": "井口俊介",
+      "title": "取締役副社長執行役員COO（2025年4月掲載時）",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "イタンジ"
+    },
+    {
+      "id": "person-21",
+      "name": "中村友拓",
+      "title": "執行役員（2025年4月掲載時）",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "イタンジ"
+    },
+    {
+      "id": "person-22",
+      "name": "大島崇",
+      "title": "執行役員・モチベーションエンジニアリング研究所所長（2024年10月掲載時）",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "リンクアンドモチベーション"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ath-bleague-front",
+      "type": "interview",
+      "media": "B.LEAGUE公式サイト",
+      "title": "【夏休み特別企画】読書感想文にもおすすめ！B.LEAGUE選手たちの推薦図書をご紹介《前編》",
+      "url": "https://www.bleague.jp/bmagazine/detail/id=620468",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "ath-bleague-back",
+      "type": "interview",
+      "media": "B.LEAGUE公式サイト",
+      "title": "【夏休み特別企画】読書感想文にもおすすめ！B.LEAGUE選手たちの推薦図書をご紹介《後編》",
+      "url": "https://www.bleague.jp/bmagazine/detail/id=620470",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "ath-flash-saito",
+      "type": "interview",
+      "media": "Smart FLASH",
+      "title": "斎藤佑樹　結果が出ない時期に出会った『嫌われる勇気』で「一喜一憂するのをやめたんです」【アスリート「座右の書」】",
+      "url": "https://smart-flash.jp/sports/332143/",
+      "publishedAt": "2025-03-01"
+    },
+    {
+      "id": "ath-flash-shimizu",
+      "type": "interview",
+      "media": "Smart FLASH",
+      "title": "空手「銀」清水希容が「目指す境地を思い出させてくれる」一冊は江戸の剣術書『猫の妙術』【アスリート「座右の書」】",
+      "url": "https://smart-flash.jp/sports/332134/",
+      "publishedAt": "2025-03-01"
+    },
+    {
+      "id": "ath-flash-hosogai",
+      "type": "interview",
+      "media": "Smart FLASH",
+      "title": "ザスパ群馬次期社長・細貝萌　元日本代表が「経営に興味を持った」きっかけの3冊「僕も“変革のプロセス”を」【アスリート「座右の書」】",
+      "url": "https://smart-flash.jp/sports/332151/",
+      "publishedAt": "2025-03-01"
+    },
+    {
+      "id": "ath-it-itandi-1",
+      "type": "interview",
+      "media": "ITmedia NEWS",
+      "title": "不動産業界向けSaaSベンダー・イタンジ経営陣の愛読書は？　“本棚”をのぞき見（1/3 ページ）",
+      "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/",
+      "publishedAt": "2025-04-21"
+    },
+    {
+      "id": "ath-it-itandi-2",
+      "type": "interview",
+      "media": "ITmedia NEWS",
+      "title": "不動産業界向けSaaSベンダー・イタンジ経営陣の愛読書は？　“本棚”をのぞき見（2/3 ページ）",
+      "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/2",
+      "publishedAt": "2025-04-21"
+    },
+    {
+      "id": "ath-it-itandi-3",
+      "type": "interview",
+      "media": "ITmedia NEWS",
+      "title": "不動産業界向けSaaSベンダー・イタンジ経営陣の愛読書は？　“本棚”をのぞき見（3/3 ページ）",
+      "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/3",
+      "publishedAt": "2025-04-21"
+    },
+    {
+      "id": "ath-it-lm-1",
+      "type": "interview",
+      "media": "ITmedia NEWS",
+      "title": "リンクアンドモチベーション経営層の本棚をのぞき見　愛読書は？（1/3 ページ）",
+      "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/",
+      "publishedAt": "2024-10-21"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "person-1",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "心を整える。",
+        "author": "長谷部誠"
+      }
+    },
+    {
+      "personId": "person-1",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "ウチダメンタル 心の幹を太くする術",
+        "author": "内田篤人"
+      }
+    },
+    {
+      "personId": "person-2",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "心を整える。",
+        "author": "長谷部誠"
+      }
+    },
+    {
+      "personId": "person-3",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "99％が後悔でも。",
+        "author": "折茂武彦"
+      }
+    },
+    {
+      "personId": "person-4",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "負けるが勝ちだわや",
+        "author": "陸川章"
+      }
+    },
+    {
+      "personId": "person-5",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "休養学 あなたを疲れから救う",
+        "author": "片野秀樹"
+      }
+    },
+    {
+      "personId": "person-6",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "凛と生きるための禅メンタル",
+        "author": "枡野俊明"
+      }
+    },
+    {
+      "personId": "person-7",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "知らない間に嫌われる言葉、話すたびに好かれる言葉",
+        "author": "つみきち"
+      }
+    },
+    {
+      "personId": "person-8",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "DIE WITH ZERO 人生が豊かになりすぎる究極のルール",
+        "author": "ビル・パーキンス"
+      }
+    },
+    {
+      "personId": "person-9",
+      "sourceId": "ath-bleague-front",
+      "book": {
+        "title": "幸せについて",
+        "author": "谷川俊太郎"
+      }
+    },
+    {
+      "personId": "person-10",
+      "sourceId": "ath-bleague-back",
+      "book": {
+        "title": "青天",
+        "author": "若林正恭"
+      }
+    },
+    {
+      "personId": "person-11",
+      "sourceId": "ath-bleague-back",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香"
+      }
+    },
+    {
+      "personId": "person-12",
+      "sourceId": "ath-bleague-back",
+      "book": {
+        "title": "葉桜の季節に君を想うということ",
+        "author": "歌野晶午"
+      }
+    },
+    {
+      "personId": "person-13",
+      "sourceId": "ath-bleague-back",
+      "book": {
+        "title": "正欲",
+        "author": "朝井リョウ"
+      }
+    },
+    {
+      "personId": "person-14",
+      "sourceId": "ath-bleague-back",
+      "book": {
+        "title": "シッダールタ",
+        "author": "ヘルマン・ヘッセ"
+      }
+    },
+    {
+      "personId": "person-15",
+      "sourceId": "ath-bleague-back",
+      "book": {
+        "title": "だるまさんが",
+        "author": "かがくいひろし"
+      }
+    },
+    {
+      "personId": "person-16",
+      "sourceId": "ath-flash-saito",
+      "book": {
+        "title": "嫌われる勇気",
+        "author": "岸見一郎、古賀史健",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "person-16",
+      "sourceId": "ath-flash-saito",
+      "book": {
+        "title": "監督の財産",
+        "author": "栗山英樹",
+        "publisher": "日本ビジネスプレス"
+      }
+    },
+    {
+      "personId": "person-17",
+      "sourceId": "ath-flash-shimizu",
+      "book": {
+        "title": "新釈 猫の妙術 武道哲学が教える「人生の達人」への道",
+        "author": "佚斎樗山、高橋有",
+        "publisher": "草思社"
+      }
+    },
+    {
+      "personId": "person-17",
+      "sourceId": "ath-flash-shimizu",
+      "book": {
+        "title": "チーム・ブライアン 新たな旅",
+        "author": "ブライアン・オーサー",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "person-18",
+      "sourceId": "ath-flash-hosogai",
+      "book": {
+        "title": "チーズはどこへ消えた？",
+        "author": "スペンサー・ジョンソン",
+        "publisher": "扶桑社"
+      }
+    },
+    {
+      "personId": "person-18",
+      "sourceId": "ath-flash-hosogai",
+      "book": {
+        "title": "カモメになったペンギン",
+        "author": "ジョン・P・コッター、ホルガー・ラスゲバー",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "person-18",
+      "sourceId": "ath-flash-hosogai",
+      "book": {
+        "title": "Good Luck",
+        "author": "アレックス・ロビラ、フェルナンド・トリアス・デ・ベス",
+        "publisher": "ポプラ社",
+        "isbn": "9784591081457"
+      }
+    },
+    {
+      "personId": "person-19",
+      "sourceId": "ath-it-itandi-1",
+      "book": {
+        "title": "世界標準の経営理論",
+        "author": "入山章栄"
+      }
+    },
+    {
+      "personId": "person-19",
+      "sourceId": "ath-it-itandi-1",
+      "book": {
+        "title": "世界のエリートはなぜ「美意識」を鍛えるのか？",
+        "author": "山口周"
+      }
+    },
+    {
+      "personId": "person-19",
+      "sourceId": "ath-it-itandi-1",
+      "book": {
+        "title": "13歳からのアート思考",
+        "author": "末永幸歩"
+      }
+    },
+    {
+      "personId": "person-20",
+      "sourceId": "ath-it-itandi-2",
+      "book": {
+        "title": "感動をつくれますか？",
+        "author": "久石譲"
+      }
+    },
+    {
+      "personId": "person-20",
+      "sourceId": "ath-it-itandi-2",
+      "book": {
+        "title": "峠 上",
+        "author": "司馬遼太郎",
+        "publisher": "新潮社"
+      },
+      "note": "上巻を掲載"
+    },
+    {
+      "personId": "person-21",
+      "sourceId": "ath-it-itandi-3",
+      "book": {
+        "title": "あなたの人生の物語",
+        "author": "テッド・チャン"
+      },
+      "note": "表題作を紹介"
+    },
+    {
+      "personId": "person-21",
+      "sourceId": "ath-it-itandi-3",
+      "book": {
+        "title": "ニコマコス倫理学 上",
+        "author": "アリストテレス",
+        "publisher": "岩波書店",
+        "isbn": "4003360419"
+      },
+      "note": "上巻を掲載"
+    },
+    {
+      "personId": "person-22",
+      "sourceId": "ath-it-lm-1",
+      "book": {
+        "title": "社会学入門 人間と社会の未来",
+        "author": "見田宗介"
+      }
+    },
+    {
+      "personId": "person-22",
+      "sourceId": "ath-it-lm-1",
+      "book": {
+        "title": "現代社会はどこに向かうか 高原の見晴らしを切り開くこと",
+        "author": "見田宗介"
+      }
+    },
+    {
+      "personId": "person-22",
+      "sourceId": "ath-it-lm-1",
+      "book": {
+        "title": "組織戦略の考え方 企業経営の健全性のために",
+        "author": "沼上幹"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/2",
+      "result": "unreachable",
+      "reason": "本文を取得できず。リンクアンドモチベーション回の2ページ目。再調査候補"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/3",
+      "result": "unreachable",
+      "reason": "本文を取得できず。リンクアンドモチベーション回の3ページ目。再調査候補"
+    },
+    {
+      "url": "https://smart-flash.jp/tag/読書/",
+      "result": "index",
+      "reason": "アスリート「座右の書」の斎藤佑樹・清水希容・細貝萌の3記事を採用。本人の取材部分だけ抽出、他選手の伝聞の紹介は未採用"
+    }
+  ]
+}

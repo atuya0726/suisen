@@ -1,0 +1,228 @@
+{
+ "people": [
+  {
+   "id": "miyake",
+   "name": "三宅香帆",
+   "title": "文芸評論家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "aso",
+   "name": "麻生太郎",
+   "title": "衆議院議員、元内閣総理大臣",
+   "tags": []
+  },
+  {
+   "id": "ishiba",
+   "name": "石破茂",
+   "title": "衆議院議員、元内閣総理大臣",
+   "tags": []
+  },
+  {
+   "id": "hayashi",
+   "name": "林修",
+   "title": "予備校講師、タレント",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "miyake-artovilla",
+   "type": "interview",
+   "media": "ARToVILLA",
+   "title": "忙しい日々であっても、アートには触れていたい / 文芸評論家・三宅香帆が選ぶ「忙しい社会人でもアートを楽しめる」ブックリスト4冊",
+   "url": "https://artovilla.jp/articles/interview_kaho-miyake.html",
+   "publishedAt": "2025-02-05"
+  },
+  {
+   "id": "aso-fsa-0706",
+   "type": "interview",
+   "media": "金融庁",
+   "title": "麻生副総理兼財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和3年7月6日）",
+   "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210706-1.html",
+   "publishedAt": "2021-07-06"
+  },
+  {
+   "id": "aso-fsa-0720",
+   "type": "interview",
+   "media": "金融庁",
+   "title": "麻生副総理兼財務大臣兼内閣府特命担当大臣閣議後記者会見の概要（令和3年7月20日）",
+   "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210720-1.html",
+   "publishedAt": "2021-07-20"
+  },
+  {
+   "id": "ishiba-massken",
+   "type": "interview",
+   "media": "早稲田大学マスコミ研究会",
+   "title": "「勇気と真心をもって真実を語る」政治家の仕事とは　石破茂インタビュー",
+   "url": "https://waseda-massken.com/shigeruishiba/",
+   "publishedAt": "2026-10-24"
+  },
+  {
+   "id": "ishiba-jimin",
+   "type": "article",
+   "media": "自由民主党",
+   "title": "第20回まなびとプロジェクト（講師：石破茂前政務調査会長）を開催しました",
+   "url": "https://www.jimin.jp/daigakuin/manabito/2011/10/114262.html",
+   "publishedAt": "2011-10-31"
+  },
+  {
+   "id": "hayashi-nps",
+   "type": "interview",
+   "media": "NEWSポストセブン",
+   "title": "今でしょ先生「1ページ読むだけでガツンと来る本」を熱く語る",
+   "url": "https://www.news-postseven.com/archives/20130224_173041.html",
+   "publishedAt": "2013-02-24"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "miyake",
+   "sourceId": "miyake-artovilla",
+   "book": {
+    "title": "西洋絵画のお約束",
+    "author": "中野京子",
+    "publisher": "中央公論新社"
+   }
+  },
+  {
+   "personId": "miyake",
+   "sourceId": "miyake-artovilla",
+   "book": {
+    "title": "センスの哲学",
+    "author": "千葉雅也",
+    "publisher": "文藝春秋"
+   }
+  },
+  {
+   "personId": "miyake",
+   "sourceId": "miyake-artovilla",
+   "book": {
+    "title": "ちぐはぐな身体 -ファッションって何？-",
+    "author": "鷲田清一",
+    "publisher": "筑摩書房"
+   }
+  },
+  {
+   "personId": "miyake",
+   "sourceId": "miyake-artovilla",
+   "book": {
+    "title": "泉に聴く",
+    "author": "東山魁夷",
+    "publisher": "講談社"
+   }
+  },
+  {
+   "personId": "aso",
+   "sourceId": "aso-fsa-0706",
+   "book": {
+    "title": "ゴルゴ13",
+    "author": "さいとう・たかを",
+    "edition": "シリーズ"
+   },
+   "note": "27〜28歳で読み始めたと発言"
+  },
+  {
+   "personId": "aso",
+   "sourceId": "aso-fsa-0720",
+   "book": {
+    "title": "風の大地",
+    "author": "坂田信弘",
+    "edition": "シリーズ"
+   },
+   "note": "今も読んでいると発言"
+  },
+  {
+   "personId": "ishiba",
+   "sourceId": "ishiba-massken",
+   "book": {
+    "title": "日本人のための憲法原論",
+    "author": "小室直樹"
+   }
+  },
+  {
+   "personId": "ishiba",
+   "sourceId": "ishiba-jimin",
+   "book": {
+    "title": "昭和16年夏の敗戦",
+    "author": "猪瀬直樹",
+    "edition": "日本人はなぜ戦争をしたか"
+   },
+   "note": "必読の一冊として紹介"
+  },
+  {
+   "personId": "hayashi",
+   "sourceId": "hayashi-nps",
+   "book": {
+    "title": "吾輩は猫である",
+    "author": "夏目漱石"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://baila.hpplus.jp/lifestyle/entertainment/78923",
+   "result": "unreachable",
+   "reason": "Client Challenge（JS認証）で本文を取得できず",
+   "person": "三宅香帆"
+  },
+  {
+   "url": "https://baila.hpplus.jp/lifestyle/entertainment/78922",
+   "result": "unreachable",
+   "reason": "Client Challenge（JS認証）で本文を取得できず",
+   "person": "三宅香帆"
+  },
+  {
+   "url": "https://baila.hpplus.jp/lifestyle/entertainment/70665",
+   "result": "unreachable",
+   "reason": "Client Challenge（JS認証）で本文を取得できず",
+   "person": "三宅香帆"
+  },
+  {
+   "url": "https://baila.hpplus.jp/lifestyle/entertainment/78919",
+   "result": "unreachable",
+   "reason": "Client Challenge（JS認証）で本文を取得できず",
+   "person": "三宅香帆"
+  },
+  {
+   "url": "https://artovilla.jp/articles/interview_kaho-miyake.html",
+   "result": "index",
+   "reason": "採用（4冊）",
+   "person": "三宅香帆"
+  },
+  {
+   "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210706-1.html",
+   "result": "index",
+   "reason": "採用（ゴルゴ13）",
+   "person": "麻生太郎"
+  },
+  {
+   "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210720-1.html",
+   "result": "index",
+   "reason": "採用（風の大地）。こち亀は記者の質問で言及されただけで除外",
+   "person": "麻生太郎"
+  },
+  {
+   "url": "https://waseda-massken.com/shigeruishiba/",
+   "result": "index",
+   "reason": "採用（小室直樹の1冊）。寺島実郎・田中美知太郎・辻田真佐憲は書名なしで除外",
+   "person": "石破茂"
+  },
+  {
+   "url": "https://www.jimin.jp/daigakuin/manabito/2011/10/114262.html",
+   "result": "index",
+   "reason": "採用（昭和16年夏の敗戦）。佐瀬昌盛『集団的自衛権』は推薦でなく言及のため除外",
+   "person": "石破茂"
+  },
+  {
+   "url": "https://www.news-postseven.com/archives/20130224_173041.html",
+   "result": "index",
+   "reason": "採用（吾輩は猫である）。他の作品は名前が出ただけ・否定的（こころ）で除外",
+   "person": "林修"
+  }
+ ]
+}

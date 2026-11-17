@@ -7375,10 +7375,10 @@
   },
   {
     "url": "https://croissant-online.jp/life/238185/",
-    "result": "candidate",
-    "reason": "「人生を充たす本。」特集号の案内ページ。石田ひかり・中江有里が互いに薦める本の記事が関連（未開封）",
+    "result": "index",
+    "reason": "特集号の案内。石田ひかり・中江有里の対談は案内のみで、本の題名や個々の推薦は本文から確認できない",
     "person": "石田ひかり・中江有里",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://brutus.jp/daily-b/20231222-549/",
@@ -7684,9 +7684,9 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11843",
-    "result": "candidate",
-    "reason": "個人の「今年の5冊」。1人の企画で他の選者がいないため対象外として未取得",
-    "checkedAt": "2026-11-15"
+    "result": "unreachable",
+    "reason": "HTTP 404。本文を確認できないため未採用",
+    "checkedAt": "2026-11-17"
   },
   {
     "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/page/3/",
@@ -13743,14 +13743,14 @@
   },
   {
     "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/",
-    "result": "candidate",
-    "reason": "ITmedia IT経営者の本棚 イタンジ回。未読",
+    "result": "adopted",
+    "reason": "sources.json の ath-it-itandi-1",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/",
-    "result": "candidate",
-    "reason": "ITmedia IT経営者の本棚 リンクアンドモチベーション回。未読",
+    "result": "adopted",
+    "reason": "sources.json の ath-it-lm-1",
     "checkedAt": "2026-11-17"
   },
   {
@@ -13851,14 +13851,14 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/10079",
-    "result": "candidate",
-    "reason": "小塚舞子の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "result": "adopted",
+    "reason": "sources.json の tm-hon-10079",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8608",
-    "result": "candidate",
-    "reason": "山本裕子の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "result": "adopted",
+    "reason": "sources.json の tm-hon-8608",
     "checkedAt": "2026-11-17"
   },
   {
@@ -13869,14 +13869,14 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8178",
-    "result": "candidate",
-    "reason": "石山蓮華の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "result": "adopted",
+    "reason": "sources.json の tm-hon-8178",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7043",
-    "result": "candidate",
-    "reason": "つぶやきシローの連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "result": "unreachable",
+    "reason": "ページの見出しは取得できるが、本文は書籍カードの51文字のみ。本人の発言を確認できず未採用",
     "checkedAt": "2026-11-17"
   },
   {
@@ -13887,8 +13887,8 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/10096",
-    "result": "candidate",
-    "reason": "荒井沙織の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "result": "rejected",
+    "reason": "荒井沙織のコラム本文は確認。3冊の商品カードはあるが、本人の愛読・評価・推薦の発言を確認できず未採用",
     "checkedAt": "2026-11-17"
   },
   {
@@ -13899,8 +13899,8 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11651",
-    "result": "candidate",
-    "reason": "谷口つばさ（赤ノ宮翼）の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "result": "adopted",
+    "reason": "sources.json の tm-hon-11651",
     "checkedAt": "2026-11-17"
   },
   {
@@ -14174,90 +14174,90 @@
   },
   {
     "url": "https://croissant-online.jp/life/240607/",
-    "result": "candidate",
-    "reason": "KIKIさんの本棚の4冊（松家仁之・保坂和志・堀江敏幸・南木佳士）。本文で肩書きを確認できず見送り。肩書きを確かめれば使える",
+    "result": "adopted",
+    "reason": "sources.json の tm-cro-240607",
     "person": "KIKI",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/240617/",
     "result": "candidate",
-    "reason": "森田紗都姫さんの本棚（レイチェル・カーソン等5冊）。肩書き未確認、知名度も要確認",
+    "reason": "本文確認済み。森田紗都姫はガーデンデザイナー・維苑代表。『センス・オブ・ワンダー』森田真生訳などを愛読。今回は文化人の主な推薦を優先し未取り込み",
     "person": "森田紗都姫",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/110000/",
     "result": "candidate",
-    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "reason": "杉江松恋の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
     "person": "杉江松恋",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/110010/",
     "result": "candidate",
-    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "reason": "島﨑今日子の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
     "person": "島﨑今日子",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/110020/",
     "result": "candidate",
-    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "reason": "三浦天紗子の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
     "person": "三浦天紗子",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/110027/",
     "result": "candidate",
-    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "reason": "井川直子の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
     "person": "井川直子",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/110033/",
-    "result": "candidate",
-    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "result": "unreachable",
+    "reason": "複数回取得を試みたがタイムアウト。本文を確認できず未採用",
     "person": "永江朗",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/240338/",
     "result": "candidate",
-    "reason": "「名作はなぜこんなに面白いのか」日本文学編。誰が選んだかは未読",
+    "reason": "日本文学編の対談を確認済み。大岡玲・三宅香帆の作品ごとの推薦の帰属と、採用する版を追加確認してから取り込む",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/240351/",
     "result": "candidate",
-    "reason": "「名作はなぜこんなに面白いのか」世界文学編。未読",
+    "reason": "世界文学編の対談を確認済み。大岡玲・三宅香帆の作品ごとの推薦の帰属と、明示された訳者を追加確認してから取り込む",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/229830/",
     "result": "candidate",
-    "reason": "斉藤紳士さん（芸人）と間室道子さん（書店員）の読書案内。未読",
+    "reason": "本人同士の対談を確認済み。斉藤紳士・間室道子が明示的に本を選んでいる。今回は未取り込み。書店員は選書家・noPageとして扱う候補",
     "person": "斉藤紳士・間室道子",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/78818/",
-    "result": "candidate",
-    "reason": "紫原明子さんのお悩み相談。おすすめ本が出る形式。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-cro-78818",
     "person": "紫原明子",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/56885/",
-    "result": "candidate",
-    "reason": "島田順子さんの胸にある言葉（本の引用の可能性）。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-cro-56885",
     "person": "島田順子",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://croissant-online.jp/life/57120/",
-    "result": "candidate",
-    "reason": "柚木麻子さんの記事。選書か未確認で未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-cro-57120",
     "person": "柚木麻子",
     "checkedAt": "2026-11-17"
   },
@@ -14347,50 +14347,50 @@
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/3-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "index",
+    "reason": "全3回を取得。主な愛読・推薦の紹介は第3回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心",
     "person": "白井聡",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/4-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-4-1",
     "person": "出口治明",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/5-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "index",
+    "reason": "全3回を取得。今泉忠明の主な愛読書3件は5-2と5-3から取り込み済み。前編は幼少期に読んだ本や自著の紹介が中心",
     "person": "今泉忠明",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/6-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-6-1",
     "person": "大澤真幸",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/7-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-7-1",
     "person": "水野学",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/8-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-8-1",
     "person": "池上彰",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/9-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-9-1",
     "person": "三浦瑠麗",
     "checkedAt": "2026-11-17"
   },
@@ -14403,29 +14403,29 @@
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/14-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "index",
+    "reason": "全3回を取得。主な愛読・推薦の紹介は第14回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心",
     "person": "杉田陽平",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/15-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "index",
+    "reason": "全3回を取得。主な愛読・推薦の紹介は第15回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心",
     "person": "酒村ゆっけ、",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/16-1",
-    "result": "candidate",
-    "reason": "小説丸「私の本」。未読",
+    "result": "index",
+    "reason": "全3回を取得。主な愛読・推薦の紹介は第16回の後編から取り込み済み。前編は本として採らない番組名・自著・読了言及が中心",
     "person": "けんご＠小説紹介",
     "checkedAt": "2026-11-17"
   },
   {
     "url": "https://shosetsu-maru.com/interviews/watashinohon/18-1",
     "result": "candidate",
-    "reason": "小説丸「私の本」vol.18 森本萌乃（Chapters書店主。第1回は『アルケミスト』など。選書家として登録するかは未判断）",
+    "reason": "全3回を取得済み。森本萌乃本人の愛読書があるが今回は未取り込み。既存の選書家としてnoPageで扱う人物",
     "person": "森本萌乃",
     "checkedAt": "2026-11-17"
   },
@@ -15373,5 +15373,487 @@
     "reason": "ダニエル・ゴールマン。日本語版は未確認（今回は選ばず）",
     "person": "ダニエル・ゴールマン",
     "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://smart-flash.jp/sports/332143/",
+    "result": "adopted",
+    "reason": "sources.json の ath-flash-saito",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://smart-flash.jp/sports/332134/",
+    "result": "adopted",
+    "reason": "sources.json の ath-flash-shimizu",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bleague.jp/bmagazine/detail/id=620470",
+    "result": "adopted",
+    "reason": "sources.json の ath-bleague-back",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bleague.jp/bmagazine/detail/id=620468",
+    "result": "adopted",
+    "reason": "sources.json の ath-bleague-front",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/2",
+    "result": "adopted",
+    "reason": "sources.json の ath-it-itandi-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://smart-flash.jp/sports/332151/",
+    "result": "adopted",
+    "reason": "sources.json の ath-flash-hosogai",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2504/18/1250418173/3",
+    "result": "adopted",
+    "reason": "sources.json の ath-it-itandi-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/2",
+    "result": "unreachable",
+    "reason": "本文を取得できず。リンクアンドモチベーション回の2ページ目。再調査候補",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.itmedia.co.jp/news/article/2410/18/1241018028/3",
+    "result": "unreachable",
+    "reason": "本文を取得できず。リンクアンドモチベーション回の3ページ目。再調査候補",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://smart-flash.jp/tag/読書/",
+    "result": "index",
+    "reason": "アスリート「座右の書」の斎藤佑樹・清水希容・細貝萌の3記事を採用。本人の取材部分だけ抽出、他選手の伝聞の紹介は未採用",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/4-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-4-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/7-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-7-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/16-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-16-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/9-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-9-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/7-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-7-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/6-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-6-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/15-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-15-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/5-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-5-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/5-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-5-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/14-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-14-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/15-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-15-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/6-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-6-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/3-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-3-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/4-2",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-4-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/14-3",
+    "result": "adopted",
+    "reason": "sources.json の tm-small-14-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ddnavi.com/article/d895139/a/",
+    "result": "adopted",
+    "reason": "sources.json の dd21",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/521192",
+    "result": "adopted",
+    "reason": "sources.json の bb16-kazu",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/521195",
+    "result": "adopted",
+    "reason": "sources.json の bb16-matayoshi",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/521194",
+    "result": "adopted",
+    "reason": "sources.json の bb16-mitsuura",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/542108",
+    "result": "adopted",
+    "reason": "sources.json の bb17",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/521258",
+    "result": "adopted",
+    "reason": "sources.json の bb16-wakabayashi",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/521193",
+    "result": "adopted",
+    "reason": "sources.json の bb16-taisho",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://kai-you.net/article/35292",
+    "result": "rejected",
+    "reason": "KAI-YOU 2016年放送の予告記事。会員限定で本文に本の記述なし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7906",
+    "result": "rejected",
+    "reason": "カズレーザーおすすめ本の紹介記事。個別の番組名・放送日が特定できず",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8062",
+    "result": "rejected",
+    "reason": "光浦靖子の本の紹介記事。放送回ごとの特定が不十分",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://renote.net/articles/76297",
+    "result": "rejected",
+    "reason": "まとめ記事。番組名・放送日なし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://nlab.itmedia.co.jp/cont/articles/3282432/",
+    "result": "rejected",
+    "reason": "光浦靖子の読書観のインタビュー。紹介本の記載なし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ddnavi.com/article/1430286/a/",
+    "result": "rejected",
+    "reason": "別連載の紹介記事。対象外",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/521647",
+    "result": "rejected",
+    "reason": "売上ランキング記事。個別の紹介は他記事で採用済み",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://natalie.mu/owarai/news/208704",
+    "result": "rejected",
+    "reason": "2016年放送の予告記事。本のタイトルなし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://natalie.mu/owarai/news/256775",
+    "result": "rejected",
+    "reason": "2017年放送の予告記事。本のタイトルなし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://natalie.mu/owarai/news/455945",
+    "result": "rejected",
+    "reason": "2021年放送の予告記事。本のタイトルなし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://natalie.mu/owarai/news/521413",
+    "result": "rejected",
+    "reason": "2023年放送の予告記事。本のタイトルなし",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://tsutaya.tsite.jp/news/book/37726518/",
+    "result": "unreachable",
+    "reason": "404（2016年回のまとめ）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://tsutaya.tsite.jp/news/magazine/i/32444424",
+    "result": "candidate",
+    "reason": "TSUTAYA 2017年回まとめ。未取得（既にBook Bangで採用）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ddnavi.com/news/896845/a/",
+    "result": "candidate",
+    "reason": "2021年回のカズレーザー記事。未取得（一覧は採用済み）",
+    "person": "カズレーザー",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/04/post-1310451.html",
+    "result": "candidate",
+    "reason": "2023年4月20日放送回（ヒコロヒー・加納・大木ら）の解説。未取得",
+    "person": "ヒコロヒー",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/754378",
+    "result": "candidate",
+    "reason": "西加奈子『くもをさがす』がブランチ・アメトーークで話題。未取得",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://booklog.jp/hon/news/dokusyo-20211203",
+    "result": "candidate",
+    "reason": "2021年回のまとめ（ブクログ）。媒体の適格性が不明で未取得",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.sanyodo.co.jp/news/bks_ametalk230420",
+    "result": "rejected",
+    "reason": "書店の販促ページ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.kinokuniya.co.jp/f/dsd-107004001036001009--",
+    "result": "rejected",
+    "reason": "書店の販促ページ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.hayakawabooks.com/n/n99a0c106b929",
+    "result": "rejected",
+    "reason": "出版社の販促ページ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://brutus.jp/murakami-haruki-book/",
+    "result": "adopted",
+    "reason": "sources.json の brutus-murakami-list",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ebook.shinchosha.co.jp/nami/202009_01/",
+    "result": "rejected",
+    "reason": "『心は孤独な狩人』訳者あとがき。愛読書と語られるのは本人訳の同書、影響を受けた作品として挙がるギャツビー・ロング・グッドバイ・キャッチャー・フラニーとズーイ・ティファニーで朝食をも本人訳で除外。他に拾える本なし",
+    "person": "村上春樹",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://brutus.jp/post-57412/",
+    "result": "adopted",
+    "reason": "sources.json の yoro-1",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://brutus.jp/post-57431/",
+    "result": "adopted",
+    "reason": "sources.json の yoro-2",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://brutus.jp/en/post-57431/",
+    "result": "index",
+    "reason": "採用。日本語記事。x-default の URL は https://brutus.jp/post-57431/",
+    "person": "養老孟司",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.bookbang.jp/article/786298",
+    "result": "rejected",
+    "reason": "新刊『人生の壁』の抜粋記事で本人の語りの再掲。使わない",
+    "person": "養老孟司",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.newsweekjapan.jp/articles/-/39870",
+    "result": "rejected",
+    "reason": "robots.txt で ClaudeBot を拒否。本文は使っていない",
+    "person": "太田光",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://hugkum.sho.jp/72750",
+    "result": "adopted",
+    "reason": "sources.json の hug2",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.1101.com/hondana/sakai.html",
+    "result": "adopted",
+    "reason": "sources.json の hobo",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://hugkum.sho.jp/72748",
+    "result": "adopted",
+    "reason": "sources.json の hug1",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://mi-te.kumon.ne.jp/contents/article/9-314/",
+    "result": "adopted",
+    "reason": "sources.json の kumon",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d289988/a/",
+    "result": "adopted",
+    "reason": "sources.json の ddnavi",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kateigaho.com/culture/hobby/175601",
+    "result": "rejected",
+    "reason": "本文を読んだが、芦田さん本人が薦める本の語りは無い（五木寛之の著書への礼辞のみ。断定できず除外）",
+    "person": "芦田愛菜",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyobun.co.jp/article/2024021607",
+    "result": "rejected",
+    "reason": "robots.txt（ClaudeBot等を拒否）",
+    "person": "堺雅人",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://mi-mollet.com/articles/-/41776?page=4",
+    "result": "rejected",
+    "reason": "robots.txt（ClaudeBot等を拒否）",
+    "person": "吉沢亮",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://alu.jp/article/kuBiyieLnVH5RJ3TBwWe",
+    "result": "rejected",
+    "reason": "robots.txt（ClaudeBot等を拒否）",
+    "person": "本田圭佑",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210706-1.html",
+    "result": "adopted",
+    "reason": "sources.json の aso-fsa-0706",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.news-postseven.com/archives/20130224_173041.html",
+    "result": "adopted",
+    "reason": "sources.json の hayashi-nps",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.fsa.go.jp/common/conference/minister/2021b/20210720-1.html",
+    "result": "adopted",
+    "reason": "sources.json の aso-fsa-0720",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://artovilla.jp/articles/interview_kaho-miyake.html",
+    "result": "adopted",
+    "reason": "sources.json の miyake-artovilla",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.jimin.jp/daigakuin/manabito/2011/10/114262.html",
+    "result": "adopted",
+    "reason": "sources.json の ishiba-jimin",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://waseda-massken.com/shigeruishiba/",
+    "result": "adopted",
+    "reason": "sources.json の ishiba-massken",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://baila.hpplus.jp/lifestyle/entertainment/78923",
+    "result": "unreachable",
+    "reason": "Client Challenge（JS認証）で本文を取得できず",
+    "person": "三宅香帆",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://baila.hpplus.jp/lifestyle/entertainment/78922",
+    "result": "unreachable",
+    "reason": "Client Challenge（JS認証）で本文を取得できず",
+    "person": "三宅香帆",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://baila.hpplus.jp/lifestyle/entertainment/70665",
+    "result": "unreachable",
+    "reason": "Client Challenge（JS認証）で本文を取得できず",
+    "person": "三宅香帆",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://baila.hpplus.jp/lifestyle/entertainment/78919",
+    "result": "unreachable",
+    "reason": "Client Challenge（JS認証）で本文を取得できず",
+    "person": "三宅香帆",
+    "checkedAt": "2026-11-18"
   }
 ]

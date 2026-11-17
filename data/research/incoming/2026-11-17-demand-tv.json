@@ -1,0 +1,979 @@
+{
+  "people": [
+    {
+      "id": "matayoshi",
+      "name": "又吉直樹",
+      "title": "お笑い芸人（ピース）・作家",
+      "tags": [
+        "芸能",
+        "作家"
+      ]
+    },
+    {
+      "id": "mitsuura",
+      "name": "光浦靖子",
+      "title": "お笑い芸人（オアシズ）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "wakabayashi",
+      "name": "若林正恭",
+      "title": "お笑い芸人（オードリー）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kazu",
+      "name": "カズレーザー",
+      "title": "お笑い芸人（メイプル超合金）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kano",
+      "name": "加納愛子",
+      "title": "お笑い芸人（Aマッソ）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "maeda",
+      "name": "前田裕太",
+      "title": "お笑い芸人（ティモンディ）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "nishida",
+      "name": "ニシダ",
+      "title": "お笑い芸人（ラランド）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ueda",
+      "name": "上田航平",
+      "title": "お笑い芸人（ゾフィー）",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bb16-matayoshi",
+      "type": "article",
+      "media": "Book Bang",
+      "title": "又吉直樹が「今年読んだオススメの5冊」を発表［アメトーーク！読書芸人特集①］",
+      "url": "https://www.bookbang.jp/article/521195",
+      "publishedAt": "2016-11-11"
+    },
+    {
+      "id": "bb16-mitsuura",
+      "type": "article",
+      "media": "Book Bang",
+      "title": "「読んでほしい！ これめっちゃ面白い！」光浦靖子が絶賛した「書き出し小説」 [アメトーーク！読書芸人特集②]",
+      "url": "https://www.bookbang.jp/article/521194",
+      "publishedAt": "2016-11-11"
+    },
+    {
+      "id": "bb16-wakabayashi",
+      "type": "article",
+      "media": "Book Bang",
+      "title": "オードリー若林『特定の人としかうまく付き合えないのは、結局、あなたの心が冷めているからだ』を買う [アメトーーク！読書芸人特集③]",
+      "url": "https://www.bookbang.jp/article/521258",
+      "publishedAt": "2016-11-11"
+    },
+    {
+      "id": "bb16-kazu",
+      "type": "article",
+      "media": "Book Bang",
+      "title": "年間200冊を読むカズレーザー「アメトーーク！読書芸人」に参戦［アメトーーク！読書芸人特集④］",
+      "url": "https://www.bookbang.jp/article/521192",
+      "publishedAt": "2016-11-11"
+    },
+    {
+      "id": "bb16-taisho",
+      "type": "article",
+      "media": "Book Bang",
+      "title": "又吉・光浦・若林・カズレーザー「アメトーーク！」読書芸人が「読書芸人大賞2016」を発表！",
+      "url": "https://www.bookbang.jp/article/521193",
+      "publishedAt": "2016-11-11"
+    },
+    {
+      "id": "bb17",
+      "type": "article",
+      "media": "Book Bang",
+      "title": "カズレーザーが「15年ぶりに泣いた」本とは 「アメトーーク！ 読書芸人」で紹介された本まとめ",
+      "url": "https://www.bookbang.jp/article/542108",
+      "publishedAt": "2017-11-17"
+    },
+    {
+      "id": "dd21",
+      "type": "article",
+      "media": "ダ・ヴィンチWeb",
+      "title": "『アメトーーク！』「本屋で読書芸人」で紹介された本は…？ 読書芸人の「最近読んだお気に入り本」",
+      "url": "https://ddnavi.com/article/d895139/a/",
+      "publishedAt": "2021-12-03"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-matayoshi",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-matayoshi",
+      "book": {
+        "title": "マチネの終わりに",
+        "author": "平野啓一郎"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-matayoshi",
+      "book": {
+        "title": "異類婚姻譚",
+        "author": "本谷有希子"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-matayoshi",
+      "book": {
+        "title": "夏の裁断",
+        "author": "島本理生"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-matayoshi",
+      "book": {
+        "title": "私の恋人",
+        "author": "上田岳弘"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-matayoshi",
+      "book": {
+        "title": "私の消滅",
+        "author": "中村文則"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb16-taisho",
+      "book": {
+        "title": "祐介",
+        "author": "尾崎世界観"
+      },
+      "note": "アメトーーク！読書芸人大賞2016（2016年11月10日放送）"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb16-mitsuura",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb16-mitsuura",
+      "book": {
+        "title": "鳥打ちも夜更けには",
+        "author": "金子薫"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb16-mitsuura",
+      "book": {
+        "title": "グローバライズ",
+        "author": "木下古栗"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb16-mitsuura",
+      "book": {
+        "title": "少年聖女",
+        "author": "鹿島田真希"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb16-mitsuura",
+      "book": {
+        "title": "挫折を経て、猫は丸くなった。",
+        "author": "天久聖一",
+        "edition": "書き出し小説名作集"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "wakabayashi",
+      "sourceId": "bb16-wakabayashi",
+      "book": {
+        "title": "森に眠る魚",
+        "author": "角田光代"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "wakabayashi",
+      "sourceId": "bb16-wakabayashi",
+      "book": {
+        "title": "服従",
+        "author": "ミシェル・ウエルベック"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "wakabayashi",
+      "sourceId": "bb16-wakabayashi",
+      "book": {
+        "title": "美しい距離",
+        "author": "山崎ナオコーラ"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "wakabayashi",
+      "sourceId": "bb16-wakabayashi",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "wakabayashi",
+      "sourceId": "bb16-wakabayashi",
+      "book": {
+        "title": "マチネの終わりに",
+        "author": "平野啓一郎"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb16-kazu",
+      "book": {
+        "title": "ジョン・レノン対火星人",
+        "author": "高橋源一郎"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb16-kazu",
+      "book": {
+        "title": "高い城の男",
+        "author": "フィリップ・K・ディック"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb16-kazu",
+      "book": {
+        "title": "幻獣遁走曲",
+        "author": "倉知淳"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb16-kazu",
+      "book": {
+        "title": "アライバル",
+        "author": "ショーン・タン"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb16-kazu",
+      "book": {
+        "title": "中を そうぞうしてみよ",
+        "author": "佐藤雅彦、ユーフラテス"
+      },
+      "note": "アメトーーク！読書芸人（2016年11月10日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb17",
+      "book": {
+        "title": "応仁の乱",
+        "author": "呉座勇一",
+        "edition": "戦国時代を生んだ大乱"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb17",
+      "book": {
+        "title": "サピエンス全史 上",
+        "author": "ユヴァル・ノア・ハラリ",
+        "edition": "上・下"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb17",
+      "book": {
+        "title": "妻に捧げた1778話",
+        "author": "眉村卓"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb17",
+      "book": {
+        "title": "ムー公式 実践・超日常英会話",
+        "author": "宇佐和通"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "bb17",
+      "book": {
+        "title": "スティーブ・ジョブズ",
+        "author": "上川敦志"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb17",
+      "book": {
+        "title": "i",
+        "author": "西加奈子"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb17",
+      "book": {
+        "title": "臣女",
+        "author": "吉村萬壱"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb17",
+      "book": {
+        "title": "星の子",
+        "author": "今村夏子"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb17",
+      "book": {
+        "title": "ピンポン",
+        "author": "パク・ミンギュ"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb17",
+      "book": {
+        "title": "東京自叙伝",
+        "author": "奥泉光"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "mitsuura",
+      "sourceId": "bb17",
+      "book": {
+        "title": "罪の声",
+        "author": "塩田武士"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "ビニール傘",
+        "author": "岸政彦"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "歩道橋の魔術師",
+        "author": "呉明益"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "成功者K",
+        "author": "羽田圭介"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+        "author": "若林正恭"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "R帝国",
+        "author": "中村文則"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "1990年、何もないと思っていた私にハガキがあった",
+        "author": "せきしろ"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "しんせかい",
+        "author": "山下澄人"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "i",
+        "author": "西加奈子"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "ゆらぐ玉の緒",
+        "author": "古井由吉"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "bb17",
+      "book": {
+        "title": "神秘大通り 上",
+        "author": "ジョン・アーヴィング",
+        "edition": "上・下"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2017年11月16日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "解きたくなる数学",
+        "author": "佐藤雅彦、大島遼、廣瀬隼也"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "世界のすごい巨像",
+        "edition": "地球の歩き方編集室／地球の歩き方"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "NEO HUMAN ネオ・ヒューマン",
+        "author": "ピーター・スコット・モーガン",
+        "edition": "究極の自由を得る未来"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "Humankind 希望の歴史",
+        "author": "ルトガー・ブレグマン"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "ビジュアル 世界一の昆虫",
+        "author": "リチャード・ジョーンズ",
+        "edition": "コンパクト版"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "新明解国語辞典",
+        "edition": "第八版 青版／三省堂"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "どうぶつの目",
+        "edition": "増井光子監修／偕成社"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "dd21",
+      "book": {
+        "title": "完売画家",
+        "author": "中島健太"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "十二月の十日",
+        "author": "ジョージ・ソーンダーズ"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "短くて恐ろしいフィルの時代",
+        "author": "ジョージ・ソーンダーズ",
+        "edition": "河出文庫"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "ずっと喪",
+        "author": "洛田二十日"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "無限の玄/風下の朱",
+        "author": "古谷田奈月"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "おもろい以外いらんねん",
+        "author": "大前粟生"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "静かに、ねぇ、静かに",
+        "author": "本谷有希子"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "スヌーピーの父 チャールズ・シュルツ伝",
+        "author": "デイヴィッド・マイケリス"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "kano",
+      "sourceId": "dd21",
+      "book": {
+        "title": "銀色の青",
+        "author": "笑い飯 哲夫"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "三体",
+        "author": "劉慈欣"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "どうやら僕の日常生活はまちがっている",
+        "author": "岩井勇気"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "幸福な食卓",
+        "author": "瀬尾まいこ"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "バーティミアス1 サマルカンドの秘宝",
+        "author": "ジョナサン・ストラウド"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "百年法",
+        "author": "山田宗樹"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "逆ソクラテス",
+        "author": "伊坂幸太郎"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "現代語裏辞典",
+        "author": "筒井康隆"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "この世界が消えたあとの科学文明のつくりかた",
+        "author": "ルイス・ダートネル"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "maeda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "新釈 走れメロス 他四篇",
+        "author": "森見登美彦"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "dd21",
+      "book": {
+        "title": "いつか深い穴に落ちるまで",
+        "author": "山野辺太郎"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "dd21",
+      "book": {
+        "title": "百鬼園随筆",
+        "author": "内田百閒",
+        "edition": "新潮文庫"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "dd21",
+      "book": {
+        "title": "アロハで猟師、はじめました",
+        "author": "近藤康太郎"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "dd21",
+      "book": {
+        "title": "天才による凡人のための短歌教室",
+        "author": "木下龍也"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "dd21",
+      "book": {
+        "title": "コンプレックス・プリズム",
+        "author": "最果タヒ"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "ueda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "禁色",
+        "author": "三島由紀夫",
+        "edition": "新潮文庫"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "ueda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "怒らないこと",
+        "author": "アルボムッレ・スマナサーラ"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "ueda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "いたずらの天才",
+        "author": "アレン・スミス",
+        "edition": "文春文庫"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "ueda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "息吹",
+        "author": "テッド・チャン"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "ueda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "その可能性はすでに考えた",
+        "author": "井上真偽"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    },
+    {
+      "personId": "ueda",
+      "sourceId": "dd21",
+      "book": {
+        "title": "地下室の手記",
+        "author": "ドストエフスキー",
+        "edition": "光文社古典新訳文庫"
+      },
+      "note": "アメトーーク！本屋で読書芸人（2021年12月2日放送）で紹介"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://kai-you.net/article/35292",
+      "result": "rejected",
+      "reason": "KAI-YOU 2016年放送の予告記事。会員限定で本文に本の記述なし",
+      "person": ""
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/7906",
+      "result": "rejected",
+      "reason": "カズレーザーおすすめ本の紹介記事。個別の番組名・放送日が特定できず",
+      "person": ""
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/8062",
+      "result": "rejected",
+      "reason": "光浦靖子の本の紹介記事。放送回ごとの特定が不十分",
+      "person": ""
+    },
+    {
+      "url": "https://renote.net/articles/76297",
+      "result": "rejected",
+      "reason": "まとめ記事。番組名・放送日なし",
+      "person": ""
+    },
+    {
+      "url": "https://nlab.itmedia.co.jp/cont/articles/3282432/",
+      "result": "rejected",
+      "reason": "光浦靖子の読書観のインタビュー。紹介本の記載なし",
+      "person": ""
+    },
+    {
+      "url": "https://ddnavi.com/article/1430286/a/",
+      "result": "rejected",
+      "reason": "別連載の紹介記事。対象外",
+      "person": ""
+    },
+    {
+      "url": "https://www.bookbang.jp/article/521647",
+      "result": "rejected",
+      "reason": "売上ランキング記事。個別の紹介は他記事で採用済み",
+      "person": ""
+    },
+    {
+      "url": "https://natalie.mu/owarai/news/208704",
+      "result": "rejected",
+      "reason": "2016年放送の予告記事。本のタイトルなし",
+      "person": ""
+    },
+    {
+      "url": "https://natalie.mu/owarai/news/256775",
+      "result": "rejected",
+      "reason": "2017年放送の予告記事。本のタイトルなし",
+      "person": ""
+    },
+    {
+      "url": "https://natalie.mu/owarai/news/455945",
+      "result": "rejected",
+      "reason": "2021年放送の予告記事。本のタイトルなし",
+      "person": ""
+    },
+    {
+      "url": "https://natalie.mu/owarai/news/521413",
+      "result": "rejected",
+      "reason": "2023年放送の予告記事。本のタイトルなし",
+      "person": ""
+    },
+    {
+      "url": "https://tsutaya.tsite.jp/news/book/37726518/",
+      "result": "unreachable",
+      "reason": "404（2016年回のまとめ）",
+      "person": ""
+    },
+    {
+      "url": "https://tsutaya.tsite.jp/news/magazine/i/32444424",
+      "result": "candidate",
+      "reason": "TSUTAYA 2017年回まとめ。未取得（既にBook Bangで採用）",
+      "person": ""
+    },
+    {
+      "url": "https://ddnavi.com/news/896845/a/",
+      "result": "candidate",
+      "reason": "2021年回のカズレーザー記事。未取得（一覧は採用済み）",
+      "person": "カズレーザー"
+    },
+    {
+      "url": "https://realsound.jp/book/2023/04/post-1310451.html",
+      "result": "candidate",
+      "reason": "2023年4月20日放送回（ヒコロヒー・加納・大木ら）の解説。未取得",
+      "person": "ヒコロヒー"
+    },
+    {
+      "url": "https://www.bookbang.jp/article/754378",
+      "result": "candidate",
+      "reason": "西加奈子『くもをさがす』がブランチ・アメトーークで話題。未取得",
+      "person": ""
+    },
+    {
+      "url": "https://booklog.jp/hon/news/dokusyo-20211203",
+      "result": "candidate",
+      "reason": "2021年回のまとめ（ブクログ）。媒体の適格性が不明で未取得",
+      "person": ""
+    },
+    {
+      "url": "https://www.sanyodo.co.jp/news/bks_ametalk230420",
+      "result": "rejected",
+      "reason": "書店の販促ページ",
+      "person": ""
+    },
+    {
+      "url": "https://www.kinokuniya.co.jp/f/dsd-107004001036001009--",
+      "result": "rejected",
+      "reason": "書店の販促ページ",
+      "person": ""
+    },
+    {
+      "url": "https://www.hayakawabooks.com/n/n99a0c106b929",
+      "result": "rejected",
+      "reason": "出版社の販促ページ",
+      "person": ""
+    },
+    {
+      "url": "https://www.bookbang.jp/article/542108",
+      "result": "index",
+      "reason": "2017年回。採用済み（東野幸治の9冊と、プレゼン・お勧めの本は件数上限のため見送り）",
+      "person": "東野幸治"
+    }
+  ]
+}

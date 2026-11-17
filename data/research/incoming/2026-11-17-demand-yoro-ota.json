@@ -1,0 +1,173 @@
+{
+ "people": [
+  {
+   "id": "yoro",
+   "name": "養老孟司",
+   "title": "解剖学者",
+   "tags": [
+    "研究者",
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "yoro-1",
+   "type": "interview",
+   "media": "BRUTUS",
+   "title": "養老孟司は、こんな本を読んできた。 1930年生まれの読書歴〜前編〜",
+   "url": "https://brutus.jp/post-57412/",
+   "publishedAt": "2022-08-30"
+  },
+  {
+   "id": "yoro-2",
+   "type": "interview",
+   "media": "BRUTUS",
+   "title": "養老孟司は、こんな本を読んできた。 1930年生まれの読書歴〜後編〜",
+   "url": "https://brutus.jp/post-57431/",
+   "publishedAt": "2022-08-30"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-1",
+   "book": {
+    "title": "完訳 ファーブル昆虫記",
+    "author": "アンリ・ファーブル",
+    "publisher": "岩波文庫",
+    "edition": "山田吉彦、林達夫訳"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-1",
+   "book": {
+    "title": "沈黙の春",
+    "author": "レイチェル・カーソン",
+    "publisher": "新潮文庫",
+    "edition": "青樹簗一訳"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-1",
+   "book": {
+    "title": "ひき裂かれた自己",
+    "author": "R・D・レイン"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-1",
+   "book": {
+    "title": "私の中の日本軍",
+    "author": "山本七平"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-1",
+   "book": {
+    "title": "日本人とユダヤ人",
+    "author": "イザヤ・ベンダサン",
+    "publisher": "角川ソフィア文庫"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-1",
+   "book": {
+    "title": "ディック・フランシスの競馬小説",
+    "author": "ディック・フランシス",
+    "publisher": "ハヤカワ・ミステリ文庫",
+    "edition": "シリーズ。菊池光訳"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-2",
+   "book": {
+    "title": "めぞん一刻",
+    "author": "高橋留美子",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-2",
+   "book": {
+    "title": "妻を帽子とまちがえた男",
+    "author": "オリヴァー・サックス",
+    "publisher": "ハヤカワ文庫NF",
+    "edition": "高見幸郎、金沢泰子訳"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-2",
+   "book": {
+    "title": "中年クライシス",
+    "author": "河合隼雄",
+    "publisher": "朝日文庫"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-2",
+   "book": {
+    "title": "クリスマスのフロスト",
+    "author": "R・D・ウィングフィールド",
+    "publisher": "創元推理文庫",
+    "edition": "芹澤恵訳"
+   }
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-2",
+   "book": {
+    "title": "嘘つきアーニャの真っ赤な真実",
+    "author": "米原万里"
+   },
+   "note": "人によく薦める本として言及",
+   "context": "その他"
+  },
+  {
+   "personId": "yoro",
+   "sourceId": "yoro-2",
+   "book": {
+    "title": "脳のなかの天使",
+    "author": "V・S・ラマチャンドラン",
+    "publisher": "角川書店",
+    "edition": "山下篤子訳"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://brutus.jp/post-57412/",
+   "result": "index",
+   "reason": "採用",
+   "person": "養老孟司"
+  },
+  {
+   "url": "https://brutus.jp/en/post-57431/",
+   "result": "index",
+   "reason": "採用。日本語記事。x-default の URL は https://brutus.jp/post-57431/",
+   "person": "養老孟司"
+  },
+  {
+   "url": "https://www.bookbang.jp/article/786298",
+   "result": "rejected",
+   "reason": "新刊『人生の壁』の抜粋記事で本人の語りの再掲。使わない",
+   "person": "養老孟司"
+  },
+  {
+   "url": "https://www.newsweekjapan.jp/articles/-/39870",
+   "result": "rejected",
+   "reason": "robots.txt で ClaudeBot を拒否。本文は使っていない",
+   "person": "太田光"
+  }
+ ]
+}

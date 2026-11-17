@@ -1,0 +1,402 @@
+{
+ "people": [
+  {
+   "id": "murakami",
+   "name": "村上春樹",
+   "title": "小説家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "brutus-murakami-list",
+   "type": "article",
+   "media": "BRUTUS",
+   "title": "村上春樹が手放すことのできない私的読書一覧",
+   "url": "https://brutus.jp/murakami-haruki-book/",
+   "publishedAt": "2022-10-25"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "街の草",
+    "author": "ピエール・ガスカール",
+    "publisher": "晶文社",
+    "edition": "訳者: 篠田浩一郎訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "ロード・ジム",
+    "author": "ジョゼフ・コンラッド",
+    "publisher": "河出書房新社",
+    "edition": "訳者: 柴田元幸訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "リタ・ヘイワースの背信",
+    "author": "マヌエル・プイグ",
+    "publisher": "国書刊行会",
+    "edition": "訳者: 内田吉彦訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "マーティン・イーデン",
+    "author": "ジャック・ロンドン",
+    "publisher": "白水社",
+    "edition": "訳者: 辻井栄滋訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "初恋、その他の悲しみ",
+    "author": "ハロルド・ブロドキー",
+    "publisher": "東京著書",
+    "edition": "訳者: 森田義信訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "アメリカン・スクール",
+    "author": "小島信夫",
+    "publisher": "みすず書房"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "シャイニング",
+    "author": "スティーヴン・キング",
+    "publisher": "パシフィカ",
+    "edition": "訳者: 深町真理子訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "スローターハウス5",
+    "author": "カート・ヴォネガット・ジュニア",
+    "publisher": "早川書房",
+    "edition": "訳者: 伊藤典夫訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "幻想旅行記 グランド・ガラバーニュの旅",
+    "author": "アンリ・ミショー",
+    "publisher": "青土社",
+    "edition": "訳者: 小海永二訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "殺戮へのバイパス",
+    "author": "ミッキー・スピレイン",
+    "publisher": "早川書房",
+    "edition": "訳者: 田中小実昌訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "アメリカの鱒釣り",
+    "author": "リチャード・ブローティガン",
+    "publisher": "晶文社",
+    "edition": "訳者: 藤本和子訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "樹影譚",
+    "author": "丸谷才一",
+    "publisher": "文藝春秋"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "安岡章太郎集1",
+    "author": "安岡章太郎",
+    "publisher": "岩波書店"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "チューサン階級ノトモ",
+    "author": "嵐山光三郎",
+    "publisher": "徳間書店"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "木山捷平全詩集",
+    "author": "木山捷平",
+    "publisher": "三茶書房"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "生きるよすがとしての神話",
+    "author": "ジョーゼフ・キャンベル",
+    "publisher": "角川書店",
+    "edition": "訳者: 飛田茂雄、古川奈々子、武舎るみ訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "神々の沈黙 意識の誕生と文明の興亡",
+    "author": "ジュリアン・ジェインズ",
+    "publisher": "紀伊國屋書店",
+    "edition": "訳者: 柴田裕之訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "今昔物語",
+    "author": "福永武彦",
+    "publisher": "筑摩書房",
+    "edition": "訳者: 福永武彦訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "日本古典文学全集 英草紙／西山物語／雨月物語／春雨物語",
+    "author": "中村幸彦、高田衛、中村博保",
+    "publisher": "小学館",
+    "edition": "訳者: 中村幸彦、高田衛、中村博保校注・訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "くず屋の息子（カーク・ダグラス自伝）",
+    "author": "カーク・ダグラス",
+    "publisher": "早川書房",
+    "edition": "訳者: 金丸美南子訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "よい戦争",
+    "author": "スタッズ・ターケル",
+    "publisher": "晶文社",
+    "edition": "訳者: 中山容ほか訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "羽根むしられて",
+    "author": "ウディ・アレン",
+    "publisher": "CBS・ソニー出版",
+    "edition": "訳者: 伊藤典夫、堤雅久、芹沢のえ訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "文盲 アゴタ・クリストフ自伝",
+    "author": "アゴタ・クリストフ",
+    "publisher": "白水社",
+    "edition": "訳者: 堀茂樹訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "馬に乗った水夫 ジャック・ロンドン、創作と冒険と革命",
+    "author": "アーヴィング・ストーン",
+    "publisher": "早川書房",
+    "edition": "訳者: 橋本福夫訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "武装せる予言者・トロツキー 1879-1921",
+    "author": "アイザック・ドイッチャー",
+    "publisher": "新潮社",
+    "edition": "訳者: 田中西二郎、橋本福夫、山西栄一訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "完訳フィッツジェラルド伝",
+    "author": "アンドリュー・ターンブル",
+    "publisher": "こびあん書房",
+    "edition": "訳者: 永岡定夫、坪井清彦訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "ジャズ・イズ",
+    "author": "ナット・ヘントフ",
+    "publisher": "白水社",
+    "edition": "訳者: 志村正雄訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "ボブ・ディラン全詩302篇 LYRICS 1962-1985",
+    "author": "ボブ・ディラン",
+    "publisher": "晶文社",
+    "edition": "訳者: 片桐ユズル、中山容訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "ボーン・トゥ・ラン ブルース・スプリングスティーン自伝",
+    "author": "ブルース・スプリングスティーン",
+    "publisher": "早川書房",
+    "edition": "訳者: 鈴木恵、加賀山卓朗ほか訳"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "ジャズ・レコード・ブック キング・オリヴァーからアルバート・アイラーまで",
+    "author": "粟村政昭",
+    "publisher": "東亜音楽社"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "おそうざい十二ヵ月",
+    "author": "小島信平、松本政利",
+    "publisher": "暮しの手帖"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "モルトウィスキー大全",
+    "author": "土屋守",
+    "publisher": "小学館"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "普通の人",
+    "author": "安西水丸",
+    "publisher": "JICC出版局"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "brutus-murakami-list",
+   "book": {
+    "title": "うみべのまち 佐々木マキのマンガ 1967-81",
+    "author": "佐々木マキ",
+    "publisher": "太田出版"
+   },
+   "note": "村上春樹が選んだ手放せない51冊のうち"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://brutus.jp/murakami-haruki-book/",
+   "result": "index",
+   "reason": "一覧ページを全文確認。51冊中、日本語版のある34冊を採用。個別ページは未取得（一覧で書名・著者・訳者・出版社が分かるため）",
+   "person": "村上春樹"
+  },
+  {
+   "url": "https://ebook.shinchosha.co.jp/nami/202009_01/",
+   "result": "rejected",
+   "reason": "『心は孤独な狩人』訳者あとがき。愛読書と語られるのは本人訳の同書、影響を受けた作品として挙がるギャツビー・ロング・グッドバイ・キャッチャー・フラニーとズーイ・ティファニーで朝食をも本人訳で除外。他に拾える本なし",
+   "person": "村上春樹"
+  }
+ ]
+}
