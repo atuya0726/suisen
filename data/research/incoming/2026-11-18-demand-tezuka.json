@@ -1,0 +1,102 @@
+{
+  "people": [
+    {
+      "id": "tezuka",
+      "name": "手塚治虫",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_mushi201410",
+      "type": "article",
+      "media": "虫ん坊（手塚プロダクション）",
+      "title": "手塚マンガあの日あの時 2014年10月号（151）コラム",
+      "url": "https://tezukaosamu.net/jp/mushi/201410/column.html"
+    },
+    {
+      "id": "s_mushi16401",
+      "type": "article",
+      "media": "虫ん坊（手塚プロダクション）",
+      "title": "手塚マンガあの日あの時＋ 手塚マンガのルーツを調査せよ！ 第3回：手塚SFに多大な影響を与えた古典ファンタジーの傑作とは!?",
+      "url": "https://tezukaosamu.net/jp/mushi/entry/16401.html",
+      "publishedAt": "2019-04-24"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "tezuka",
+      "sourceId": "s_mushi201410",
+      "book": {
+        "title": "トンネル",
+        "author": "ベルンハルト・ケラーマン"
+      },
+      "note": "朝日新聞 1977年5月16日のエッセイを引用",
+      "quote": "ぼくの心をもっともゆさぶった小説なのだった"
+    },
+    {
+      "personId": "tezuka",
+      "sourceId": "s_mushi201410",
+      "book": {
+        "title": "罪と罰",
+        "author": "ドストエフスキー"
+      },
+      "note": "朝日社『のびのび』1975年のエッセイを引用",
+      "quote": "ついに三十数回読み返してしまった"
+    },
+    {
+      "personId": "tezuka",
+      "sourceId": "s_mushi201410",
+      "book": {
+        "title": "シラノ・ド・ベルジュラック",
+        "author": "エドモン・ロスタン"
+      },
+      "note": "朝日社『のびのび』1975年のエッセイを引用",
+      "quote": "そのセリフをそらんじたくらいだった"
+    },
+    {
+      "personId": "tezuka",
+      "sourceId": "s_mushi16401",
+      "book": {
+        "title": "火星年代記",
+        "author": "レイ・ブラッドベリ"
+      },
+      "note": "キネマ旬報 1983年のエッセイを引用"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/201405/column.html",
+      "result": "rejected",
+      "reason": "2014年5月号はマスコットキャラの回で、ファウスト・本の推薦の記述なし。『ファウスト』の回は2014年10月号に含まれる",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/201407/column.html",
+      "result": "candidate",
+      "reason": "201410から前回コラムとして参照。今回開けなかった",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/14171.html",
+      "result": "candidate",
+      "reason": "16401の関連記事（手塚マンガのルーツを調査せよ！の前回までの可能性）。今回開けなかった",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/14205.html",
+      "result": "candidate",
+      "reason": "16401の関連記事。今回開けなかった",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/16380.html",
+      "result": "candidate",
+      "reason": "16401の関連記事（ルーツ調査の第2回の可能性）。今回開けなかった",
+      "person": "手塚治虫"
+    }
+  ]
+}

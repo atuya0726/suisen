@@ -42067,5 +42067,33 @@
     "isbn13": "9784061853829",
     "sourceId": "s-fujii",
     "verified": true
+  },
+  {
+    "personId": "p1322",
+    "isbn13": "9784336066664",
+    "sourceId": "s-mushi201410-39dbf3",
+    "note": "朝日新聞 1977年5月16日のエッセイを引用",
+    "verified": true
+  },
+  {
+    "personId": "p1322",
+    "isbn13": "9784102010211",
+    "sourceId": "s-mushi201410-39dbf3",
+    "note": "朝日社『のびのび』1975年のエッセイを引用",
+    "verified": true
+  },
+  {
+    "personId": "p1322",
+    "isbn13": "9784334751715",
+    "sourceId": "s-mushi201410-39dbf3",
+    "note": "朝日社『のびのび』1975年のエッセイを引用",
+    "verified": true
+  },
+  {
+    "personId": "p1322",
+    "isbn13": "9784150117641",
+    "sourceId": "s-mushi16401-37f0fd",
+    "note": "キネマ旬報 1983年のエッセイを引用",
+    "verified": true
   }
 ]

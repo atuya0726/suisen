@@ -62135,5 +62135,45 @@
     "publisher": "みすず書房",
     "publishedAt": "1984-08",
     "rakutenUrl": "https://books.rakuten.co.jp/rb/32388/"
+  },
+  {
+    "isbn13": "9784336066664",
+    "title": "トンネル",
+    "authors": [
+      "ベルンハルト・ケラーマン",
+      "秦豊吉"
+    ],
+    "publisher": "国書刊行会",
+    "publishedAt": "2020-09-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16417838/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6664/9784336066664.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784334751715",
+    "title": "シラノ・ド・ベルジュラック",
+    "authors": [
+      "エドモン・ロスタン",
+      "渡辺守章"
+    ],
+    "publisher": "光文社",
+    "publishedAt": "2008-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5900111/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1715/9784334751715.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784150117641",
+    "title": "火星年代記新版",
+    "authors": [
+      "レイ・ブラッドベリ",
+      "小笠原 豊樹",
+      "木島 始"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2010-07-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6554632/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7641/9784150117641.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

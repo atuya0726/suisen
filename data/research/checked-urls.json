@@ -16379,5 +16379,52 @@
     "reason": "本人が書いた短い書評（『コルシア書店の仲間たち』）。書評は出典にしない方針のため不採用",
     "person": "ヤマザキマリ",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/entry/16401.html",
+    "result": "adopted",
+    "reason": "sources.json の s-mushi16401-37f0fd",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/201410/column.html",
+    "result": "adopted",
+    "reason": "sources.json の s-mushi201410-39dbf3",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/201405/column.html",
+    "result": "rejected",
+    "reason": "2014年5月号はマスコットキャラの回で、ファウスト・本の推薦の記述なし。『ファウスト』の回は2014年10月号に含まれる",
+    "person": "手塚治虫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/201407/column.html",
+    "result": "candidate",
+    "reason": "201410から前回コラムとして参照。今回開けなかった",
+    "person": "手塚治虫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/entry/14171.html",
+    "result": "candidate",
+    "reason": "16401の関連記事（手塚マンガのルーツを調査せよ！の前回までの可能性）。今回開けなかった",
+    "person": "手塚治虫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/entry/14205.html",
+    "result": "candidate",
+    "reason": "16401の関連記事。今回開けなかった",
+    "person": "手塚治虫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/entry/16380.html",
+    "result": "candidate",
+    "reason": "16401の関連記事（ルーツ調査の第2回の可能性）。今回開けなかった",
+    "person": "手塚治虫",
+    "checkedAt": "2026-11-18"
   }
 ]
