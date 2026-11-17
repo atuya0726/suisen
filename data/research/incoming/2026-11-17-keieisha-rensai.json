@@ -1,0 +1,832 @@
+{
+  "people": [
+    {
+      "id": "mn1",
+      "name": "林部正樹",
+      "title": "フラッグス 代表",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "フラッグス"
+    },
+    {
+      "id": "mn2",
+      "name": "加藤將倫",
+      "title": "Progate CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Progate"
+    },
+    {
+      "id": "mn3",
+      "name": "大下幸一郎",
+      "title": "USEN Smart Works 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "USEN Smart Works"
+    },
+    {
+      "id": "mn4",
+      "name": "洛西一周",
+      "title": "Helpfeel 代表取締役 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Helpfeel"
+    },
+    {
+      "id": "mn5",
+      "name": "村上建治郎",
+      "title": "Spectee 代表取締役 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Spectee"
+    },
+    {
+      "id": "mn6",
+      "name": "三浦美穂",
+      "title": "レッドハット 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "レッドハット"
+    },
+    {
+      "id": "mn7",
+      "name": "永嶋章弘",
+      "title": "イタンジ 代表取締役 社長執行役員 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "イタンジ"
+    },
+    {
+      "id": "mn8",
+      "name": "李昌珍",
+      "title": "トゥモロー・ネット 代表取締役社長 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "トゥモロー・ネット"
+    },
+    {
+      "id": "mn10",
+      "name": "浮田竜路",
+      "title": "Snowflake 社長執行役員",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "Snowflake"
+    },
+    {
+      "id": "mn11",
+      "name": "中村崇則",
+      "title": "ラクス 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ラクス"
+    },
+    {
+      "id": "mn12",
+      "name": "工藤潤一",
+      "title": "NTTPCコミュニケーションズ 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "NTTPCコミュニケーションズ"
+    },
+    {
+      "id": "mn13",
+      "name": "野田知寛",
+      "title": "チェンジ 代表取締役 兼 執行役員社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "チェンジ"
+    },
+    {
+      "id": "mn14",
+      "name": "三浦純揮",
+      "title": "ニューステクノロジー 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ニューステクノロジー"
+    },
+    {
+      "id": "zu295469",
+      "name": "佐藤朋也",
+      "title": "ヒューマンホールディングス 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ヒューマンホールディングス"
+    },
+    {
+      "id": "zu278370",
+      "name": "髙野明彦",
+      "title": "メンバーズ 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "メンバーズ"
+    },
+    {
+      "id": "zu269677",
+      "name": "金木竜介",
+      "title": "UPWARD 代表取締役社長 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "UPWARD"
+    },
+    {
+      "id": "zu267729",
+      "name": "室田茂樹",
+      "title": "プラスバイプラス 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "プラスバイプラス"
+    },
+    {
+      "id": "zu275049",
+      "name": "熊田貴之",
+      "title": "ブルーイノベーション 代表取締役社長 最高執行役員",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ブルーイノベーション"
+    },
+    {
+      "id": "zu268602",
+      "name": "松尾幸治",
+      "title": "リチカ 代表取締役 Co-CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "リチカ"
+    },
+    {
+      "id": "zu274569",
+      "name": "柄本真吾",
+      "title": "メイキップ 代表取締役CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "メイキップ"
+    },
+    {
+      "id": "zu275152",
+      "name": "本田英貴",
+      "title": "KAKEAI 代表取締役社長 兼 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "KAKEAI"
+    },
+    {
+      "id": "zu268293",
+      "name": "後藤裕幸",
+      "title": "グローバルトラストネットワークス 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "グローバルトラストネットワークス"
+    },
+    {
+      "id": "zu274622",
+      "name": "染谷剛史",
+      "title": "HataLuck and Person 代表取締役 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "HataLuck and Person"
+    },
+    {
+      "id": "zu274674",
+      "name": "渡辺健太郎",
+      "title": "マイクロアド 代表取締役 社長執行役員",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "マイクロアド"
+    },
+    {
+      "id": "zu275042",
+      "name": "中谷圭吾",
+      "title": "UcarPAC 代表取締役",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "UcarPAC"
+    },
+    {
+      "id": "zu269009",
+      "name": "佐川隼人",
+      "title": "テモナ 代表取締役社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "テモナ"
+    },
+    {
+      "id": "zu274362",
+      "name": "森川春菜",
+      "title": "オングリットホールディングス 代表取締役 社長",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "オングリットホールディングス"
+    },
+    {
+      "id": "zu275160",
+      "name": "ソン・マルガリータ",
+      "title": "ZenGroup CO-FOUNDER, CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ZenGroup"
+    },
+    {
+      "id": "zu275065",
+      "name": "赤司征大",
+      "title": "WHITE CROSS 代表取締役 CEO",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "WHITE CROSS"
+    }
+  ],
+  "sources": [
+    {
+      "id": "mn-src1",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "フラッグス CEO 林部正樹氏が選ぶ一冊『ザ・ゴール ― 企業の究極の目的とは何か』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-1/",
+      "publishedAt": "2025-01-28"
+    },
+    {
+      "id": "mn-src2",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "Progate CEO 加藤將倫氏が選ぶ一冊『どう生きるか つらかったときの話をしよう』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-2/",
+      "publishedAt": "2025-02-25"
+    },
+    {
+      "id": "mn-src3",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "USEN Smart Works社長 大下幸一郎氏が選ぶ一冊『カルチャーモデル 最高の組織文化のつくり方』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-3/",
+      "publishedAt": "2025-03-28"
+    },
+    {
+      "id": "mn-src4",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "Helpfeel CEO 洛西一周氏が選ぶ一冊『サピエンス全史』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-4/",
+      "publishedAt": "2025-04-23"
+    },
+    {
+      "id": "mn-src5",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "Spectee CEO 村上建治郎氏が選ぶ一冊『成瀬は天下を取りにいく』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-5/",
+      "publishedAt": "2025-05-28"
+    },
+    {
+      "id": "mn-src6",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "レッドハット 社長 三浦美穂氏が選ぶ一冊『傲慢と善良』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-6/",
+      "publishedAt": "2025-06-25"
+    },
+    {
+      "id": "mn-src7",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "イタンジ CEO 永嶋章弘氏が選ぶ一冊『歩く マジで人生が変わる習慣』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-7/",
+      "publishedAt": "2025-07-29"
+    },
+    {
+      "id": "mn-src8",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "トゥモロー・ネット CEO 李昌珍氏が選ぶ一冊『ポップス歌手の耐えられない軽さ』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-8/",
+      "publishedAt": "2025-08-29"
+    },
+    {
+      "id": "mn-src10",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "Snowflake 社長 浮田竜路氏が選ぶ一冊『キャプテン』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-10/",
+      "publishedAt": "2025-10-28"
+    },
+    {
+      "id": "mn-src11",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "ラクス 社長 中村崇則氏が選ぶ一冊『誰が勇者を殺したか』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-11/",
+      "publishedAt": "2025-11-27"
+    },
+    {
+      "id": "mn-src12",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "NTTPCコミュニケーションズ 社長 工藤潤一氏が選ぶ一冊『利己的な遺伝子』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-12/",
+      "publishedAt": "2025-12-26"
+    },
+    {
+      "id": "mn-src13",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "チェンジ 社長 野田知寛氏が選ぶ一冊『100年カレンダー』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-13/",
+      "publishedAt": "2026-01-30"
+    },
+    {
+      "id": "mn-src14",
+      "type": "interview",
+      "media": "TECH+（マイナビニュース）",
+      "title": "ニューステクノロジー 社長 三浦純揮氏が選ぶ一冊『俺はまだ本気出してないだけ』",
+      "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-14/",
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "zu-src295469",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "佐藤 朋也が語る！「入門・マーケティング戦略」ーーヒューマンホールディングス株式会社",
+      "url": "https://zuuonline.com/archives/295469",
+      "publishedAt": "2025-04-17"
+    },
+    {
+      "id": "zu-src278370",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "髙野 明彦が語る！「ビジョナリーカンパニー2」",
+      "url": "https://zuuonline.com/archives/278370",
+      "publishedAt": "2024-04-04"
+    },
+    {
+      "id": "zu-src269677",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "金木 竜介が語る！「HARD THINGS 答えがない難問と困難にきみはどう立ち向かうか」",
+      "url": "https://zuuonline.com/archives/269677",
+      "publishedAt": "2024-03-25"
+    },
+    {
+      "id": "zu-src267729",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "室田 茂樹が語る！「未来を拓く君たちへ なぜ、我々は「志」を抱いて生きるのか」",
+      "url": "https://zuuonline.com/archives/267729",
+      "publishedAt": "2024-03-01"
+    },
+    {
+      "id": "zu-src275049",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "熊田 貴之が語る！『ビジョナリーカンパニー』",
+      "url": "https://zuuonline.com/archives/275049",
+      "publishedAt": "2024-02-27"
+    },
+    {
+      "id": "zu-src268602",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "松尾 幸治が語る！「七つの習慣」",
+      "url": "https://zuuonline.com/archives/268602",
+      "publishedAt": "2024-02-22"
+    },
+    {
+      "id": "zu-src274569",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "柄本 真吾が語る！『奇跡の経営 一週間毎日が週末発想のススメ』",
+      "url": "https://zuuonline.com/archives/274569",
+      "publishedAt": "2024-02-19"
+    },
+    {
+      "id": "zu-src275152",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "本田 英貴が語る！「なぜ、我々はマネジメントの道を歩むのか」",
+      "url": "https://zuuonline.com/archives/275152",
+      "publishedAt": "2024-02-12"
+    },
+    {
+      "id": "zu-src268293",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "後藤 裕幸が語る！「人徳経営のすすめ: ヨコ型時代の経営学」",
+      "url": "https://zuuonline.com/archives/268293",
+      "publishedAt": "2024-02-09"
+    },
+    {
+      "id": "zu-src274622",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "染谷 剛史が語る！『経営者の役割』",
+      "url": "https://zuuonline.com/archives/274622",
+      "publishedAt": "2024-02-07"
+    },
+    {
+      "id": "zu-src274674",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "データプラットフォームを提供する株式会社マイクロアド代表取締役社長 渡辺 健太郎が語る！「サピエンス全史」",
+      "url": "https://zuuonline.com/archives/274674",
+      "publishedAt": "2024-02-07"
+    },
+    {
+      "id": "zu-src275042",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "中谷 圭吾が語る！『ユダヤの商法』",
+      "url": "https://zuuonline.com/archives/275042",
+      "publishedAt": "2024-02-05"
+    },
+    {
+      "id": "zu-src269009",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "佐川 隼人が語る！「キャズム」",
+      "url": "https://zuuonline.com/archives/269009",
+      "publishedAt": "2024-02-05"
+    },
+    {
+      "id": "zu-src274362",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "森川 春菜が語る！「やり抜く力 GRIT(グリット)――人生のあらゆる成功を決める「究極の能力」を身につける」",
+      "url": "https://zuuonline.com/archives/274362",
+      "publishedAt": "2024-01-30"
+    },
+    {
+      "id": "zu-src275160",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "ソン・マルガリータが語る！「ブラック・スワン」",
+      "url": "https://zuuonline.com/archives/275160",
+      "publishedAt": "2024-01-30"
+    },
+    {
+      "id": "zu-src275065",
+      "type": "interview",
+      "media": "ZUU online",
+      "title": "赤司 征大が語る！『ビジョナリーカンパニーゼロ』",
+      "url": "https://zuuonline.com/archives/275065",
+      "publishedAt": "2024-01-29"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "mn1",
+      "sourceId": "mn-src1",
+      "book": {
+        "title": "ザ・ゴール",
+        "author": "エリヤフ・ゴールドラット",
+        "publisher": "ダイヤモンド社",
+        "subtitle": "企業の究極の目的とは何か"
+      }
+    },
+    {
+      "personId": "mn2",
+      "sourceId": "mn-src2",
+      "book": {
+        "title": "どう生きるか つらかったときの話をしよう",
+        "author": "野口聡一",
+        "publisher": "アスコム",
+        "subtitle": "自分らしく生きていくために必要な22のこと"
+      }
+    },
+    {
+      "personId": "mn3",
+      "sourceId": "mn-src3",
+      "book": {
+        "title": "カルチャーモデル",
+        "author": "唐澤俊輔",
+        "publisher": "ディスカヴァー・トゥエンティワン",
+        "subtitle": "最高の組織文化のつくり方"
+      }
+    },
+    {
+      "personId": "mn4",
+      "sourceId": "mn-src4",
+      "book": {
+        "title": "サピエンス全史",
+        "author": "ユヴァル・ノア・ハラリ",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "mn5",
+      "sourceId": "mn-src5",
+      "book": {
+        "title": "成瀬は天下を取りにいく",
+        "author": "宮島未奈",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "mn6",
+      "sourceId": "mn-src6",
+      "book": {
+        "title": "傲慢と善良",
+        "author": "辻村深月",
+        "publisher": "朝日新聞出版"
+      }
+    },
+    {
+      "personId": "mn7",
+      "sourceId": "mn-src7",
+      "book": {
+        "title": "歩く マジで人生が変わる習慣",
+        "author": "池田光史",
+        "publisher": "NewsPicksパブリッシング"
+      }
+    },
+    {
+      "personId": "mn8",
+      "sourceId": "mn-src8",
+      "book": {
+        "title": "ポップス歌手の耐えられない軽さ",
+        "author": "桑田佳祐",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "mn10",
+      "sourceId": "mn-src10",
+      "book": {
+        "title": "キャプテン",
+        "author": "ちばあきお",
+        "publisher": "集英社",
+        "edition": "シリーズ",
+        "isbn": "9784086170611"
+      }
+    },
+    {
+      "personId": "mn11",
+      "sourceId": "mn-src11",
+      "book": {
+        "title": "誰が勇者を殺したか",
+        "author": "駄犬",
+        "publisher": "角川スニーカー文庫"
+      }
+    },
+    {
+      "personId": "mn12",
+      "sourceId": "mn-src12",
+      "book": {
+        "title": "利己的な遺伝子",
+        "author": "リチャード・ドーキンス",
+        "publisher": "紀伊國屋書店"
+      }
+    },
+    {
+      "personId": "mn13",
+      "sourceId": "mn-src13",
+      "book": {
+        "title": "100年カレンダー",
+        "author": "大住力",
+        "publisher": "ディスカヴァー・トゥエンティワン",
+        "subtitle": "一度しかない人生を「どう生きるか」がわかる"
+      }
+    },
+    {
+      "personId": "mn14",
+      "sourceId": "mn-src14",
+      "book": {
+        "title": "俺はまだ本気出してないだけ",
+        "author": "青野春秋",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "zu295469",
+      "sourceId": "zu-src295469",
+      "book": {
+        "title": "入門・マーケティング戦略",
+        "author": "池尾恭一",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "zu278370",
+      "sourceId": "zu-src278370",
+      "book": {
+        "title": "ビジョナリー・カンパニー2",
+        "author": "ジム・コリンズ",
+        "publisher": "",
+        "isbn": "9784822242633"
+      }
+    },
+    {
+      "personId": "zu278370",
+      "sourceId": "zu-src278370",
+      "book": {
+        "title": "勝ち続けるために何をすべきか",
+        "author": "森祇晶",
+        "publisher": "",
+        "subtitle": "強い集団は、こう作る"
+      }
+    },
+    {
+      "personId": "zu269677",
+      "sourceId": "zu-src269677",
+      "book": {
+        "title": "HARD THINGS",
+        "author": "ベン・ホロウィッツ",
+        "publisher": "",
+        "subtitle": "答えがない難問と困難にきみはどう立ち向かうか"
+      }
+    },
+    {
+      "personId": "zu267729",
+      "sourceId": "zu-src267729",
+      "book": {
+        "title": "未来を拓く君たちへ",
+        "author": "田坂広志",
+        "publisher": "",
+        "subtitle": "なぜ、我々は「志」を抱いて生きるのか"
+      }
+    },
+    {
+      "personId": "zu275049",
+      "sourceId": "zu-src275049",
+      "book": {
+        "title": "ビジョナリー・カンパニー",
+        "author": "ジム・コリンズ",
+        "publisher": "",
+        "isbn": "9784822740313"
+      }
+    },
+    {
+      "personId": "zu268602",
+      "sourceId": "zu-src268602",
+      "book": {
+        "title": "七つの習慣",
+        "author": "スティーブン・R・コヴィー",
+        "publisher": "",
+        "isbn": "9784863940246"
+      }
+    },
+    {
+      "personId": "zu274569",
+      "sourceId": "zu-src274569",
+      "book": {
+        "title": "奇跡の経営",
+        "author": "リカルド・セムラー",
+        "publisher": "",
+        "subtitle": "一週間毎日が週末発想のススメ"
+      }
+    },
+    {
+      "personId": "zu275152",
+      "sourceId": "zu-src275152",
+      "book": {
+        "title": "なぜ、我々はマネジメントの道を歩むのか",
+        "author": "田坂広志",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "zu268293",
+      "sourceId": "zu-src268293",
+      "book": {
+        "title": "人徳経営のすすめ",
+        "author": "江口克彦",
+        "publisher": "",
+        "subtitle": "ヨコ型時代の経営学"
+      }
+    },
+    {
+      "personId": "zu274622",
+      "sourceId": "zu-src274622",
+      "book": {
+        "title": "経営者の役割",
+        "author": "C.I.バーナード",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "zu274674",
+      "sourceId": "zu-src274674",
+      "book": {
+        "title": "サピエンス全史",
+        "author": "ユヴァル・ノア・ハラリ",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "zu275042",
+      "sourceId": "zu-src275042",
+      "book": {
+        "title": "ユダヤの商法",
+        "author": "藤田田",
+        "publisher": "",
+        "isbn": "9784584139004"
+      }
+    },
+    {
+      "personId": "zu269009",
+      "sourceId": "zu-src269009",
+      "book": {
+        "title": "キャズム",
+        "author": "ジェフリー・A・ムーア",
+        "publisher": "",
+        "isbn": "9784798101521"
+      }
+    },
+    {
+      "personId": "zu274362",
+      "sourceId": "zu-src274362",
+      "book": {
+        "title": "やり抜く力 GRIT",
+        "author": "アンジェラ・ダックワース",
+        "publisher": "",
+        "subtitle": "人生のあらゆる成功を決める「究極の能力」を身につける",
+        "isbn": "9784478064801"
+      }
+    },
+    {
+      "personId": "zu275160",
+      "sourceId": "zu-src275160",
+      "book": {
+        "title": "ブラック・スワン",
+        "author": "ナシーム・ニコラス・タレブ",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "zu275065",
+      "sourceId": "zu-src275065",
+      "book": {
+        "title": "ビジョナリーカンパニーゼロ",
+        "author": "ジム・コリンズ",
+        "publisher": "",
+        "isbn": "9784296000326"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://news.mynavi.jp/techplus/series/executive_bookshelf/",
+      "result": "index",
+      "reason": "TECH+「経営者たちの書架」全15回（2026-11-17時点）、全文無料。15回すべて読んだ。第9回(DUNE・英語版 Ace Books)と第15回(チーズはどこへ消えた？・英語版 Vermilion)は日本語版でない洋書のため載せず"
+    },
+    {
+      "url": "https://zuuonline.com/features/ceos_library",
+      "result": "index",
+      "reason": "ZUU online「CEO's library」。一覧の1ページ目(21件)のみ取得（2ページ目以降は robots.txt の Disallow /*? のため取らない）。うち「〇〇が語る！」形式の16件を読み、記事は全文無料。企業紹介型の5件(トリケミカル研究所・ラクーン・ヨシムラ・エイチーム・ほか)は本の紹介でないため読まず。児玉康孝(孫子の兵法)は版が決められず載せず"
+    },
+    {
+      "url": "https://www.nikkan-gendai.com/articles/columns/2255",
+      "result": "index",
+      "reason": "日刊ゲンダイ「社長の本棚」2016年〜2020年の連載、一覧は6ページ以上・100回超。記事は有料会員限定で、無料で見えるのは見出しとリード文のみ。新しい順に9件(2019-11〜2020-01)の見出しを確認し、本が見出しに明記された1件(有吉徳洋)だけ採用。残りは未読"
+    },
+    {
+      "url": "https://www.nikkan-gendai.com/articles/view/life/265621",
+      "result": "candidate",
+      "reason": "藤倉尚(ユニバーサル ミュージック社長兼CEO)『インビクタス 負けざる者たち』。見出しだけで、本人が薦めた本かが無料部分から判断できず載せない",
+      "person": "藤倉尚"
+    },
+    {
+      "url": "https://www.nikkan-gendai.com/articles/view/life/268198",
+      "result": "rejected",
+      "reason": "見出しの「心得帖」シリーズは書名・著者を特定できない。本文は有料",
+      "person": "加藤友康"
+    },
+    {
+      "url": "https://www.nikkan-gendai.com/articles/view/life/265972",
+      "result": "rejected",
+      "reason": "見出しは「藤田晋さんの本」のみで書名が分からない。本文は有料",
+      "person": "伊達晃洋"
+    },
+    {
+      "url": "https://www.nikkan-gendai.com/articles/view/life/267846",
+      "result": "candidate",
+      "reason": "日刊ゲンダイ「社長の本棚」。有料記事で、無料の見出しだけでは薦めた本と言い切れず未掲載",
+      "person": "有吉徳洋"
+    }
+  ]
+}
