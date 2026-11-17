@@ -1,0 +1,294 @@
+{
+  "people": [
+    {
+      "id": "nakatani",
+      "name": "中谷美紀",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "hashimoto",
+      "name": "橋本愛",
+      "title": "女優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tanaka",
+      "name": "田中みな実",
+      "title": "フリーアナウンサー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "higashide",
+      "name": "東出昌大",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "pre-nakatani",
+      "type": "interview",
+      "media": "Precious.jp",
+      "title": "俳優・中谷美紀さん「親愛なる本」と過ごす、陽だまりの午後",
+      "url": "https://precious.jp/articles/-/61739",
+      "publishedAt": "2026-07-15"
+    },
+    {
+      "id": "bs-hashimoto",
+      "type": "interview",
+      "media": "文春オンライン",
+      "title": "「自分の中を変えていくのが大好き」女優・橋本愛が書評連載『私の読書日記』を通じて掴んだ「愛」の定義とは《お金の大学、養老孟司、アドラー心理学》",
+      "url": "https://bunshun.jp/articles/-/69015",
+      "publishedAt": "2024-02-22"
+    },
+    {
+      "id": "bt-tanaka",
+      "type": "article",
+      "media": "美的.com",
+      "title": "田中みな実さん「おうち時間は緑の観葉植物と江國香織さんの本が癒し」｜田中みな実 Color me Happy Vol.5",
+      "url": "https://www.biteki.com/life-style/others/596077",
+      "publishedAt": "2020-07-23"
+    },
+    {
+      "id": "bs-higashide1",
+      "type": "interview",
+      "media": "文春オンライン",
+      "title": "東出昌大が選ぶ“司馬遼太郎ベスト3”「歴史嫌いだった自分の目を開いてくれた」父の書棚で出会った“ダイナミックなドラマ”",
+      "url": "https://bunshun.jp/articles/-/87854",
+      "publishedAt": "2026-04-20"
+    },
+    {
+      "id": "bs-higashide2",
+      "type": "interview",
+      "media": "文春オンライン",
+      "title": "「竜馬になりたい、ああいう大志を抱くんだ」東出昌大が愛する司馬遼太郎『関ヶ原』『峠』を演じた俳優が受け取った人生観とは",
+      "url": "https://bunshun.jp/articles/-/87855"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "nakatani",
+      "sourceId": "pre-nakatani",
+      "book": {
+        "title": "イザベラ・バードの日本紀行 上",
+        "author": "イザベラ・バード",
+        "publisher": "講談社学術文庫",
+        "edition": "上下巻のうち上巻"
+      }
+    },
+    {
+      "personId": "nakatani",
+      "sourceId": "pre-nakatani",
+      "book": {
+        "title": "マザーツリー",
+        "author": "スザンヌ・シマード",
+        "publisher": "ダイヤモンド社",
+        "edition": "日本語版"
+      }
+    },
+    {
+      "personId": "nakatani",
+      "sourceId": "pre-nakatani",
+      "book": {
+        "title": "悪童日記",
+        "author": "アゴタ・クリストフ",
+        "publisher": "ハヤカワepi文庫"
+      }
+    },
+    {
+      "personId": "nakatani",
+      "sourceId": "pre-nakatani",
+      "book": {
+        "title": "木",
+        "author": "幸田文",
+        "publisher": "新潮社",
+        "edition": "新潮文庫で発売"
+      }
+    },
+    {
+      "personId": "nakatani",
+      "sourceId": "pre-nakatani",
+      "book": {
+        "title": "かくれ里",
+        "author": "白洲正子",
+        "publisher": "講談社文芸文庫"
+      }
+    },
+    {
+      "personId": "nakatani",
+      "sourceId": "pre-nakatani",
+      "book": {
+        "title": "ハンナ・アーレント、三つの逃亡",
+        "author": "ケン・クリムスティーン",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "hashimoto",
+      "sourceId": "bs-hashimoto",
+      "book": {
+        "title": "アドラー心理学入門",
+        "edition": "ベスト新書",
+        "author": "岸見一郎",
+        "isbn": "9784584103128",
+        "publisher": "ベストセラーズ"
+      }
+    },
+    {
+      "personId": "tanaka",
+      "sourceId": "bt-tanaka",
+      "book": {
+        "title": "スイートリトルライズ",
+        "author": "江國香織"
+      }
+    },
+    {
+      "personId": "tanaka",
+      "sourceId": "bt-tanaka",
+      "book": {
+        "title": "東京タワー",
+        "author": "江國香織"
+      }
+    },
+    {
+      "personId": "tanaka",
+      "sourceId": "bt-tanaka",
+      "book": {
+        "title": "ホリー・ガーデン",
+        "author": "江國香織"
+      }
+    },
+    {
+      "personId": "tanaka",
+      "sourceId": "bt-tanaka",
+      "book": {
+        "title": "落下する夕方",
+        "author": "江國香織"
+      }
+    },
+    {
+      "personId": "higashide",
+      "sourceId": "bs-higashide1",
+      "book": {
+        "title": "項羽と劉邦 上",
+        "author": "司馬遼太郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "higashide",
+      "sourceId": "bs-higashide1",
+      "book": {
+        "title": "花神 上",
+        "author": "司馬遼太郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "higashide",
+      "sourceId": "bs-higashide2",
+      "book": {
+        "title": "竜馬がゆく",
+        "author": "司馬遼太郎",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/9598",
+      "result": "rejected",
+      "reason": "杉咲花の出演作の原作紹介で、本人が薦めた記事ではない",
+      "person": "杉咲花"
+    },
+    {
+      "url": "https://ginzamag.com/categories/fashion/209810",
+      "result": "rejected",
+      "reason": "別人（中島沙希）の記事",
+      "person": "杉咲花"
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/88029",
+      "result": "rejected",
+      "reason": "Aマッソ加納の記事（対象外）",
+      "person": "東出昌大"
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/88030",
+      "result": "rejected",
+      "reason": "Aマッソ加納の記事（対象外）",
+      "person": "東出昌大"
+    },
+    {
+      "url": "https://bunshun.jp/bungeishunju/articles/h11929",
+      "result": "rejected",
+      "reason": "文藝春秋PLUS（robots.txt で不可の既知サイト）",
+      "person": "東出昌大"
+    },
+    {
+      "url": "https://ddnavi.com/person_tag/%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%81%B5%E3%81%BF/past/",
+      "result": "candidate",
+      "reason": "二階堂ふみ「あの人と本の話」(2022-07-09)の記事への入口。未確認",
+      "person": "二階堂ふみ"
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/85",
+      "result": "candidate",
+      "reason": "星野源のインタビュー。安部公房『壁』、ガルシア=マルケス等に言及。未確認",
+      "person": "星野源"
+    },
+    {
+      "url": "https://ginzamag.com/culture/24books-2",
+      "result": "candidate",
+      "reason": "GINZA 24人の1冊の連載。対象の人物が含まれるか未確認",
+      "person": ""
+    },
+    {
+      "url": "https://ginzamag.com/culture/24books-6",
+      "result": "candidate",
+      "reason": "GINZA 24人の1冊の連載。対象の人物が含まれるか未確認",
+      "person": ""
+    },
+    {
+      "url": "https://ginzamag.com/interview/genhoshino",
+      "result": "candidate",
+      "reason": "星野源のインタビュー。本の言及があるか未確認",
+      "person": "星野源"
+    },
+    {
+      "url": "https://www.cinematoday.jp/interview/A0006949",
+      "result": "candidate",
+      "reason": "二階堂ふみのインタビュー。本の言及があるか未確認",
+      "person": "二階堂ふみ"
+    },
+    {
+      "url": "https://i-voce.jp/feed/757072/2/",
+      "result": "candidate",
+      "reason": "田中みな実の質問企画。本の言及があるか未確認",
+      "person": "田中みな実"
+    },
+    {
+      "url": "https://press.moviewalker.jp/news/article/58499/",
+      "result": "candidate",
+      "reason": "杉咲花に聞く15の質問（影響を受けたものの質問）。未確認",
+      "person": "杉咲花"
+    },
+    {
+      "url": "https://books.bunshun.jp/articles/-/2137",
+      "result": "rejected",
+      "reason": "文春文庫フェアの宣伝企画（出版社の販促）のため不採用",
+      "person": "星野源"
+    }
+  ]
+}

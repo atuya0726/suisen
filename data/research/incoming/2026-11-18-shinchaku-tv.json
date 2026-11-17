@@ -1,0 +1,33 @@
+{
+  "people": [
+    {"id": "fujimoto", "name": "藤本真樹", "title": "グリー 取締役、デジタル庁 初代CTO", "tags": ["エンジニア", "経営者"], "affiliation": "グリー"},
+    {"id": "hicoroh", "name": "ヒコロヒー", "title": "お笑い芸人", "tags": ["芸能"]},
+    {"id": "kano", "name": "加納愛子", "title": "お笑い芸人（Aマッソ）", "tags": ["芸能"]},
+    {"id": "nishida", "name": "ニシダ", "title": "お笑い芸人（ラランド）", "tags": ["芸能"]}
+  ],
+  "sources": [
+    {"id": "nikkei-bookplus-2026-11-18-fujimoto", "type": "interview", "media": "日経BOOKプラス", "title": "デジタル庁初代CTO・藤本真樹が「エンジニアに薦める」視野が広がる本", "url": "https://bookplus.nikkei.com/atcl/column/070300541/102600016/", "publishedAt": "2026-11-18"},
+    {"id": "realsound-2023-04-24-dokusho-geinin", "type": "article", "media": "Real Sound", "title": "ビビる大木、Aマッソ・加納、ヒロコヒー……芸人はなぜ本が好き？　「読書芸人」が今注目されるわけ", "url": "https://realsound.jp/book/2023/04/post-1310451.html", "publishedAt": "2023-04-24"}
+  ],
+  "recommendations": [
+    {"personId": "fujimoto", "sourceId": "nikkei-bookplus-2026-11-18-fujimoto", "book": {"title": "独学大全", "author": "読書猿", "publisher": "ダイヤモンド社", "edition": "絶対に「学ぶこと」をあきらめたくない人のための55の技法"}, "context": "その他"},
+    {"personId": "fujimoto", "sourceId": "nikkei-bookplus-2026-11-18-fujimoto", "book": {"title": "オリエンタリズム", "author": "エドワード・W・サイード", "publisher": "平凡社", "edition": "平凡社ライブラリー、板垣雄三・杉田英明監修、今沢紀子訳"}, "context": "その他"},
+    {"personId": "fujimoto", "sourceId": "nikkei-bookplus-2026-11-18-fujimoto", "book": {"title": "PLURALITY", "author": "オードリー・タン、E・グレン・ワイル、⿻Community", "publisher": "サイボウズ式ブックス", "edition": "対立を創造に変える、協働テクノロジーと民主主義の未来。山形浩生訳"}, "context": "その他"},
+    {"personId": "kano", "sourceId": "realsound-2023-04-24-dokusho-geinin", "book": {"title": "僕の心臓は右にある", "author": "大城文章", "edition": "チャンス大城"}, "context": "その他", "note": "アメトーーク！読書芸人（2023年4月20日放送）"},
+    {"personId": "nishida", "sourceId": "realsound-2023-04-24-dokusho-geinin", "book": {"title": "教育", "author": "遠野遥"}, "context": "その他", "note": "アメトーーク！読書芸人（2023年4月20日放送）"},
+    {"personId": "nishida", "sourceId": "realsound-2023-04-24-dokusho-geinin", "book": {"title": "とんこつQ＆A", "author": "今村夏子"}, "context": "その他", "note": "アメトーーク！読書芸人（2023年4月20日放送）"},
+    {"personId": "hicoroh", "sourceId": "realsound-2023-04-24-dokusho-geinin", "book": {"title": "宇宙人と出会う前に読む本", "author": "高水裕一", "edition": "全宇宙で共通の教養を身につけよう"}, "context": "その他", "note": "アメトーーク！読書芸人（2023年4月20日放送）"}
+  ],
+  "checkedUrls": [
+    {"url": "https://bookplus.nikkei.com/atcl/column/070300541/102600016/", "result": "adopted", "reason": "CTOの本棚・藤本真樹 後編（2026-11-18）。無料で全文が読める。3冊", "person": "藤本真樹"},
+    {"url": "https://realsound.jp/book/2023/04/post-1310451.html", "result": "adopted", "reason": "アメトーーク！読書芸人（2023-04-20放送）の報道記事。紹介者が明記された4冊（加納1、ニシダ2、ヒコロヒー1）。ビビる大木・カモシダせぶんは具体的な本が本文に無く拾わず。robots.txt は /wp-admin/ のみ禁止", "person": "ヒコロヒー"},
+    {"url": "https://ddnavi.com/aidokusho/", "result": "index", "reason": "最新は 2026-08-28（早瀬憩）。新着なし"},
+    {"url": "https://book.asahi.com/series/11039124", "result": "index", "reason": "最新は 2026-11-11 沼田真佑（取り込み済み）。新着なし"},
+    {"url": "https://book.asahi.com/series/11015845", "result": "index", "reason": "最新は 2026-10-30 山田五郎。新着なし"},
+    {"url": "https://bookplus.nikkei.com/atcl/column/091300565/", "result": "index", "reason": "第6回は未公開（確認 2026-11-18）。最新は第5回"},
+    {"url": "https://news.mynavi.jp/techplus/series/executive_bookshelf/", "result": "index", "reason": "最新は 2026-03-25 日隈寛和。新着なし"},
+    {"url": "https://sportiva.shueisha.co.jp/search_keyword/?SearchWord=アスリートと読書&tag=1", "result": "index", "reason": "最新は 2026-11-01 姫野和樹。新着なし"},
+    {"url": "https://www.webdoku.jp/rensai/sakka/list.html", "result": "index", "reason": "最新は第292回（2026-10-23 佐原ひかり）。新着なし"},
+    {"url": "https://ddnavi.com/genre/%e3%81%82%e3%81%ae%e4%ba%ba%e3%81%a8%e6%9c%ac%e3%81%ae%e8%a9%b1-and-more/", "result": "index", "reason": "最新は 2026-11-05 萩原利久。新着なし"}
+  ]
+}

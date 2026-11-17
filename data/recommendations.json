@@ -41728,5 +41728,344 @@
     "isbn13": "9784041001011",
     "sourceId": "hayashi-nps",
     "verified": true
+  },
+  {
+    "personId": "p0562",
+    "isbn13": "9784910413105",
+    "sourceId": "rs-mone",
+    "verified": true
+  },
+  {
+    "personId": "p0562",
+    "isbn13": "9784334039899",
+    "sourceId": "rs-mone",
+    "verified": true
+  },
+  {
+    "personId": "p0562",
+    "isbn13": "9784592762744",
+    "sourceId": "bs-mone",
+    "verified": true
+  },
+  {
+    "personId": "p0562",
+    "isbn13": "9784813804215",
+    "sourceId": "bs-mone",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784592762744",
+    "sourceId": "dd-moka",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784592763000",
+    "sourceId": "dd-moka",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784591154441",
+    "sourceId": "dd-moka",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784575847727",
+    "sourceId": "daily-alice",
+    "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784107723420",
+    "sourceId": "daily-alice",
+    "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784537127386",
+    "sourceId": "daily-alice",
+    "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784107719973",
+    "sourceId": "daily-alice",
+    "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784098502974",
+    "sourceId": "daily-alice",
+    "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784478064801",
+    "sourceId": "nk-yusei",
+    "verified": true
+  },
+  {
+    "personId": "p0005",
+    "isbn13": "9784062171267",
+    "sourceId": "nk-yusei",
+    "verified": true
+  },
+  {
+    "personId": "p0120",
+    "isbn13": "9784044007263",
+    "sourceId": "dime-rena",
+    "verified": true
+  },
+  {
+    "personId": "p0120",
+    "isbn13": "9784767829616",
+    "sourceId": "dime-rena",
+    "verified": true
+  },
+  {
+    "personId": "p0120",
+    "isbn13": "9784043574018",
+    "sourceId": "dime-rena",
+    "verified": true
+  },
+  {
+    "personId": "p0309",
+    "isbn13": "9784065358542",
+    "sourceId": "s-hayashi",
+    "note": "本屋大賞の候補作のうち「推している」と発言",
+    "verified": true
+  },
+  {
+    "personId": "p0309",
+    "isbn13": "9784065401880",
+    "sourceId": "s-hayashi",
+    "note": "本屋大賞の候補作のうち「推している」と発言",
+    "verified": true
+  },
+  {
+    "personId": "p0518",
+    "isbn13": "9784041086025",
+    "sourceId": "s-yamada",
+    "verified": true
+  },
+  {
+    "personId": "p0518",
+    "isbn13": "9784061961845",
+    "sourceId": "s-yamada",
+    "verified": true
+  },
+  {
+    "personId": "p0518",
+    "isbn13": "9784120053535",
+    "sourceId": "s-yamada",
+    "note": "「著者が薦める本」欄",
+    "verified": true
+  },
+  {
+    "personId": "p0269",
+    "isbn13": "9784592883524",
+    "sourceId": "s-yoshimoto",
+    "verified": true
+  },
+  {
+    "personId": "p0029",
+    "isbn13": "9784478108536",
+    "sourceId": "nikkei-bookplus-2026-11-18-fujimoto",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0029",
+    "isbn13": "9784582760118",
+    "sourceId": "nikkei-bookplus-2026-11-18-fujimoto",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0029",
+    "isbn13": "9784909044570",
+    "sourceId": "nikkei-bookplus-2026-11-18-fujimoto",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1300",
+    "isbn13": "9784023322592",
+    "sourceId": "realsound-2023-04-24-dokusho-geinin",
+    "note": "アメトーーク！読書芸人（2023年4月20日放送）",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784309030142",
+    "sourceId": "realsound-2023-04-24-dokusho-geinin",
+    "note": "アメトーーク！読書芸人（2023年4月20日放送）",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784065283967",
+    "sourceId": "realsound-2023-04-24-dokusho-geinin",
+    "note": "アメトーーク！読書芸人（2023年4月20日放送）",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784065449981",
+    "sourceId": "realsound-2023-04-24-dokusho-geinin",
+    "note": "アメトーーク！読書芸人（2023年4月20日放送）",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1313",
+    "isbn13": "9784061598713",
+    "sourceId": "pre-nakatani",
+    "verified": true
+  },
+  {
+    "personId": "p1313",
+    "isbn13": "9784478107003",
+    "sourceId": "pre-nakatani",
+    "verified": true
+  },
+  {
+    "personId": "p1313",
+    "isbn13": "9784151200021",
+    "sourceId": "pre-nakatani",
+    "verified": true
+  },
+  {
+    "personId": "p1313",
+    "isbn13": "9784101116129",
+    "sourceId": "pre-nakatani",
+    "verified": true
+  },
+  {
+    "personId": "p1313",
+    "isbn13": "9784061961227",
+    "sourceId": "pre-nakatani",
+    "verified": true
+  },
+  {
+    "personId": "p1313",
+    "isbn13": "9784622096054",
+    "sourceId": "pre-nakatani",
+    "verified": true
+  },
+  {
+    "personId": "p1314",
+    "isbn13": "9784584103128",
+    "sourceId": "bs-hashimoto",
+    "verified": true
+  },
+  {
+    "personId": "p1315",
+    "isbn13": "9784344408203",
+    "sourceId": "bt-tanaka",
+    "verified": true
+  },
+  {
+    "personId": "p1315",
+    "isbn13": "9784101339214",
+    "sourceId": "bt-tanaka",
+    "verified": true
+  },
+  {
+    "personId": "p1315",
+    "isbn13": "9784101339146",
+    "sourceId": "bt-tanaka",
+    "verified": true
+  },
+  {
+    "personId": "p1315",
+    "isbn13": "9784048729482",
+    "sourceId": "bt-tanaka",
+    "verified": true
+  },
+  {
+    "personId": "p1316",
+    "isbn13": "9784101152318",
+    "sourceId": "bs-higashide1",
+    "verified": true
+  },
+  {
+    "personId": "p1316",
+    "isbn13": "9784101152172",
+    "sourceId": "bs-higashide1",
+    "verified": true
+  },
+  {
+    "personId": "p1316",
+    "isbn13": "9784163630106",
+    "sourceId": "bs-higashide2",
+    "verified": true
+  },
+  {
+    "personId": "p1317",
+    "isbn13": "9784309256283",
+    "sourceId": "s-yama-realsound",
+    "verified": true
+  },
+  {
+    "personId": "p1318",
+    "isbn13": "9784000256742",
+    "sourceId": "s-suzuki",
+    "verified": true
+  },
+  {
+    "personId": "p1318",
+    "isbn13": "9784488006693",
+    "sourceId": "s-suzuki",
+    "verified": true
+  },
+  {
+    "personId": "p1318",
+    "isbn13": "9784480022639",
+    "sourceId": "s-suzuki",
+    "verified": true
+  },
+  {
+    "personId": "p1318",
+    "isbn13": "9784622019084",
+    "sourceId": "s-suzuki",
+    "verified": true
+  },
+  {
+    "personId": "p1318",
+    "isbn13": "9784488006518",
+    "sourceId": "s-suzuki",
+    "verified": true
+  },
+  {
+    "personId": "p1319",
+    "isbn13": "9784480065353",
+    "sourceId": "s-kuri",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784140816875",
+    "sourceId": "s-ochiai",
+    "note": "「平成の1冊」として選書",
+    "verified": true
+  },
+  {
+    "personId": "p1321",
+    "isbn13": "9784061853829",
+    "sourceId": "s-fujii",
+    "verified": true
   }
 ]

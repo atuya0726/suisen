@@ -13860,5 +13860,170 @@
     "title": "「勇気と真心をもって真実を語る」政治家の仕事とは　石破茂インタビュー",
     "url": "https://waseda-massken.com/shigeruishiba/",
     "publishedAt": "2026-10-24"
+  },
+  {
+    "id": "nk-yusei",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "菊池雄星　怪物たちの中で生き残る方法は本が教えてくれた",
+    "url": "https://bookplus.nikkei.com/atcl/column/041500053/030600489/",
+    "publishedAt": "2026-03-17"
+  },
+  {
+    "id": "dime-rena",
+    "type": "article",
+    "media": "@DIME",
+    "title": "【山崎怜奈の好奇心のとびら】光る君へ",
+    "url": "https://dime.jp/genre/1842318/",
+    "publishedAt": "2024-08-31"
+  },
+  {
+    "id": "daily-alice",
+    "type": "article",
+    "media": "デイリースポーツ",
+    "title": "広瀬アリスの好きなマンガに蛍原ドン引き…ネットも「闇が深い」の反響",
+    "url": "https://www.daily.co.jp/gossip/2021/04/16/0014245131.shtml",
+    "publishedAt": "2021-04-16"
+  },
+  {
+    "id": "rs-mone",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "上白石萌音にとっての読書とは？",
+    "url": "https://realsound.jp/book/2024/12/post-1846698_2.html"
+  },
+  {
+    "id": "bs-mone",
+    "type": "interview",
+    "media": "文春オンライン",
+    "title": "上白石萌音が姉妹で愛読するヨシタケシンスケ作品「『ちょっと足の裏、地面から離そう』って」",
+    "url": "https://bunshun.jp/articles/-/67583",
+    "publishedAt": "2023-12-09"
+  },
+  {
+    "id": "dd-moka",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "上白石萌歌「枕元のテーブルにはいつもヨシタケシンスケさんの絵本を並べています」",
+    "url": "https://ddnavi.com/article/d980708/a/",
+    "publishedAt": "2022-04-29"
+  },
+  {
+    "id": "s-yamada",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "「虚構を支える根は作家の真実」自伝小説刊行の山田詠美氏に聞く",
+    "url": "https://bookplus.nikkei.com/atcl/column/050800242/080300022/",
+    "publishedAt": "2023-11-13"
+  },
+  {
+    "id": "s-yoshimoto",
+    "type": "interview",
+    "media": "幻冬舎ルネッサンス",
+    "title": "吉本ばなな｜特別インタビュー",
+    "url": "https://www.gentosha-book.com/special_interview/yoshimoto/02.html"
+  },
+  {
+    "id": "s-hayashi",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "『SPY×FAMILY』編集者・林士平氏の作家と向き合う覚悟",
+    "url": "https://bookplus.nikkei.com/atcl/column/041500053/031000124/",
+    "publishedAt": "2023-03-23"
+  },
+  {
+    "id": "nikkei-bookplus-2026-11-18-fujimoto",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "デジタル庁初代CTO・藤本真樹が「エンジニアに薦める」視野が広がる本",
+    "url": "https://bookplus.nikkei.com/atcl/column/070300541/102600016/",
+    "publishedAt": "2026-11-18"
+  },
+  {
+    "id": "realsound-2023-04-24-dokusho-geinin",
+    "type": "article",
+    "media": "Real Sound",
+    "title": "ビビる大木、Aマッソ・加納、ヒロコヒー……芸人はなぜ本が好き？　「読書芸人」が今注目されるわけ",
+    "url": "https://realsound.jp/book/2023/04/post-1310451.html",
+    "publishedAt": "2023-04-24"
+  },
+  {
+    "id": "pre-nakatani",
+    "type": "interview",
+    "media": "Precious.jp",
+    "title": "俳優・中谷美紀さん「親愛なる本」と過ごす、陽だまりの午後",
+    "url": "https://precious.jp/articles/-/61739",
+    "publishedAt": "2026-07-15"
+  },
+  {
+    "id": "bs-hashimoto",
+    "type": "interview",
+    "media": "文春オンライン",
+    "title": "「自分の中を変えていくのが大好き」女優・橋本愛が書評連載『私の読書日記』を通じて掴んだ「愛」の定義とは《お金の大学、養老孟司、アドラー心理学》",
+    "url": "https://bunshun.jp/articles/-/69015",
+    "publishedAt": "2024-02-22"
+  },
+  {
+    "id": "bs-higashide2",
+    "type": "interview",
+    "media": "文春オンライン",
+    "title": "「竜馬になりたい、ああいう大志を抱くんだ」東出昌大が愛する司馬遼太郎『関ヶ原』『峠』を演じた俳優が受け取った人生観とは",
+    "url": "https://bunshun.jp/articles/-/87855"
+  },
+  {
+    "id": "bs-higashide1",
+    "type": "interview",
+    "media": "文春オンライン",
+    "title": "東出昌大が選ぶ“司馬遼太郎ベスト3”「歴史嫌いだった自分の目を開いてくれた」父の書棚で出会った“ダイナミックなドラマ”",
+    "url": "https://bunshun.jp/articles/-/87854",
+    "publishedAt": "2026-04-20"
+  },
+  {
+    "id": "bt-tanaka",
+    "type": "article",
+    "media": "美的.com",
+    "title": "田中みな実さん「おうち時間は緑の観葉植物と江國香織さんの本が癒し」｜田中みな実 Color me Happy Vol.5",
+    "url": "https://www.biteki.com/life-style/others/596077",
+    "publishedAt": "2020-07-23"
+  },
+  {
+    "id": "s-suzuki",
+    "type": "article",
+    "media": "文春オンライン（文藝春秋SPECIAL 2015年季刊夏号）",
+    "title": "鈴木敏夫が選ぶ3冊 映画宣伝の参考になった歴史の本",
+    "url": "https://bunshun.jp/articles/-/3048",
+    "publishedAt": "2015-06-09"
+  },
+  {
+    "id": "s-fujii",
+    "type": "interview",
+    "media": "マイナビニュース",
+    "title": "18連勝の藤井聡太四段「強くなることが僕の使命」",
+    "url": "https://news.mynavi.jp/article/20170518-fujii/4",
+    "publishedAt": "2017-05-18"
+  },
+  {
+    "id": "s-yama-realsound",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "ヤマザキマリが語る、『美術の物語』の普遍的な魅力 「何世紀も残り続けていく書籍であることは間違いない」",
+    "url": "https://realsound.jp/book/2024/12/post-1871753.html",
+    "publishedAt": "2024-12-18"
+  },
+  {
+    "id": "s-ochiai",
+    "type": "article",
+    "media": "ダ・ヴィンチWeb",
+    "title": "落合陽一が選んだ、次の時代に残したい平成の1冊は？",
+    "url": "https://ddnavi.com/news/511116/a/",
+    "publishedAt": "2018-12-30"
+  },
+  {
+    "id": "s-kuri",
+    "type": "interview",
+    "media": "文春オンライン（文藝春秋 電子版オリジナル）",
+    "title": "栗山英樹が語った「大谷翔平の二刀流」と「中国古典」の関係とは？〈大昔の人は、なぜこれほど分かっていたのか！〉",
+    "url": "https://bunshun.jp/articles/-/73148",
+    "publishedAt": "2024-09-05"
   }
 ]

@@ -15653,10 +15653,10 @@
   },
   {
     "url": "https://realsound.jp/book/2023/04/post-1310451.html",
-    "result": "candidate",
-    "reason": "2023年4月20日放送回（ヒコロヒー・加納・大木ら）の解説。未取得",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2023-04-24-dokusho-geinin",
     "person": "ヒコロヒー",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-18"
   },
   {
     "url": "https://www.bookbang.jp/article/754378",
@@ -15854,6 +15854,530 @@
     "result": "unreachable",
     "reason": "Client Challenge（JS認証）で本文を取得できず",
     "person": "三宅香帆",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/041500053/030600489/",
+    "result": "adopted",
+    "reason": "sources.json の nk-yusei",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://dime.jp/genre/1842318/",
+    "result": "adopted",
+    "reason": "sources.json の dime-rena",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.daily.co.jp/gossip/2021/04/16/0014245131.shtml",
+    "result": "adopted",
+    "reason": "sources.json の daily-alice",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/12/post-1846698_2.html",
+    "result": "adopted",
+    "reason": "sources.json の rs-mone",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/67583",
+    "result": "adopted",
+    "reason": "sources.json の bs-mone",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d980708/a/",
+    "result": "adopted",
+    "reason": "sources.json の dd-moka",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.lifehacker.jp/article/2603-book_to_read-1913/",
+    "result": "rejected",
+    "reason": "robots.txt（ClaudeBot を拒否）",
+    "person": "菊池雄星",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202311/14178.html",
+    "result": "rejected",
+    "reason": "robots.txt（anthropic-ai を拒否）。内容も鈴木保奈美の推薦",
+    "person": "山崎怜奈",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.daily.co.jp/newsflash/gossip/2014/01/19/1p_0006648180.shtml",
+    "result": "rejected",
+    "reason": "本の書名の言及なし（検索結果の要約のみ確認、未取得）",
+    "person": "風間俊介",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/50902",
+    "result": "rejected",
+    "reason": "PRESIDENT Online は robots.txt で不可",
+    "person": "山崎怜奈",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://gendai.media/articles/-/125186",
+    "result": "rejected",
+    "reason": "現代ビジネスは robots.txt で不可",
+    "person": "山崎怜奈",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://koubo.jp/press-release/prtimes/c34798_r487",
+    "result": "rejected",
+    "reason": "プレスリリース（番組告知）",
+    "person": "菊池雄星",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1444938/a/",
+    "result": "rejected",
+    "reason": "本人の自著『いろいろ』の話のみ",
+    "person": "上白石萌音",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5713",
+    "result": "rejected",
+    "reason": "本人と無関係の一般ブックリスト",
+    "person": "風間俊介",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2020/11/post-663002_2.html",
+    "result": "rejected",
+    "reason": "福徳秀介のインタビュー。具体的な愛読書の書名なし（自著の話のみ）",
+    "person": "福徳秀介",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/09/post-858448_2.html",
+    "result": "candidate",
+    "reason": "上白石萌音の読書インタビュー（2021）。時間切れで未読",
+    "person": "上白石萌音",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/03/post-717588.html",
+    "result": "candidate",
+    "reason": "山崎怜奈インタビュー（歴史）。未読",
+    "person": "山崎怜奈",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.jprime.jp/articles/-/38341",
+    "result": "candidate",
+    "reason": "上白石萌音『あさイチ』（2024-09-10放送）の報道記事。未読",
+    "person": "上白石萌音",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/photo/76497",
+    "result": "candidate",
+    "reason": "上白石萌音関連の文春記事。未読",
+    "person": "上白石萌音",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://dime.jp/genre/1894807/",
+    "result": "candidate",
+    "reason": "山崎怜奈の連載「マイ・ラブ・キッチンツール」。本の紹介の有無は未確認",
+    "person": "山崎怜奈",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ginzamag.com/culture/24books-2",
+    "result": "candidate",
+    "reason": "GINZA の本好き24人連載。対象者が載っているか未確認",
+    "person": "風間俊介",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/050800242/080300022/",
+    "result": "adopted",
+    "reason": "sources.json の s-yamada",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.gentosha-book.com/special_interview/yoshimoto/02.html",
+    "result": "adopted",
+    "reason": "sources.json の s-yoshimoto",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/041500053/031000124/",
+    "result": "adopted",
+    "reason": "sources.json の s-hayashi",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2022/09/post-1133976.html",
+    "result": "rejected",
+    "reason": "本文（1・2ページ）を読んだが、本人が薦める個別の本の記述なし（自著『私の文学史』の話）",
+    "person": "町田康",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/282",
+    "result": "rejected",
+    "reason": "対象人物本人の推薦ではない（他人が小泉今日子の本を紹介）",
+    "person": "小泉今日子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/112000604/112000003/",
+    "result": "rejected",
+    "reason": "町田康ではなく小川哲の記事（町田康の『告白』を小川氏が薦めるもの）",
+    "person": "町田康",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://futabasha-change.com/articles/-/311?page=2",
+    "result": "rejected",
+    "reason": "影響元は映画監督ダリオ・アルジェントで、本の記述なし",
+    "person": "吉本ばなな",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.gentosha-book.com/special_interview/yoshimoto/03.html",
+    "result": "rejected",
+    "reason": "『ジョン・チーヴァー』を読んだ旨の言及のみで書名の特定なし",
+    "person": "吉本ばなな",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://mykoho.jp/article/142123/9875185/9929275",
+    "result": "unreachable",
+    "reason": "404（広報紙の小泉今日子インタビュー）",
+    "person": "小泉今日子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kanaloco.jp/news/life/article-1228175.html",
+    "result": "candidate",
+    "reason": "小泉今日子の厚木市での講演（本のこと）の報道。未読、本を挙げているかは不明",
+    "person": "小泉今日子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://eclat.hpplus.jp/article/133443",
+    "result": "candidate",
+    "reason": "小泉今日子インタビュー。未読",
+    "person": "小泉今日子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://kompass.cinra.net/article/202309-koizumikyoko_ysdmscl",
+    "result": "candidate",
+    "reason": "小泉今日子インタビュー（旅）。本の言及は不明、未読",
+    "person": "小泉今日子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.bookbang.jp/review/article/513162",
+    "result": "candidate",
+    "reason": "吉本ばなな『イヤシノウタ』刊行インタビュー。忌野清志郎『十年ゴム消し』が好きとの発言あり、未読",
+    "person": "吉本ばなな",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1209647/a/",
+    "result": "candidate",
+    "reason": "筒井康隆の記事。未読",
+    "person": "筒井康隆",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/08/post-1760910_2.html",
+    "result": "candidate",
+    "reason": "町田康『宇治拾遺物語』インタビュー。古典の話。未読",
+    "person": "町田康",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1207963/a/",
+    "result": "rejected",
+    "reason": "『星新一 一〇〇一話をつくった人』を読み返していると記者の地の文にあるだけで、本人の発言として確認できず不採用",
+    "person": "筒井康隆",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/070300541/102600016/",
+    "result": "adopted",
+    "reason": "sources.json の nikkei-bookplus-2026-11-18-fujimoto",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://sportiva.shueisha.co.jp/search_keyword/?SearchWord=アスリートと読書&tag=1",
+    "result": "index",
+    "reason": "最新は 2026-11-01 姫野和樹。新着なし",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://precious.jp/articles/-/61739",
+    "result": "adopted",
+    "reason": "sources.json の pre-nakatani",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/69015",
+    "result": "adopted",
+    "reason": "sources.json の bs-hashimoto",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/87855",
+    "result": "adopted",
+    "reason": "sources.json の bs-higashide2",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/87854",
+    "result": "adopted",
+    "reason": "sources.json の bs-higashide1",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.biteki.com/life-style/others/596077",
+    "result": "adopted",
+    "reason": "sources.json の bt-tanaka",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9598",
+    "result": "rejected",
+    "reason": "杉咲花の出演作の原作紹介で、本人が薦めた記事ではない",
+    "person": "杉咲花",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ginzamag.com/categories/fashion/209810",
+    "result": "rejected",
+    "reason": "別人（中島沙希）の記事",
+    "person": "杉咲花",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/88029",
+    "result": "rejected",
+    "reason": "Aマッソ加納の記事（対象外）",
+    "person": "東出昌大",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/88030",
+    "result": "rejected",
+    "reason": "Aマッソ加納の記事（対象外）",
+    "person": "東出昌大",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h11929",
+    "result": "rejected",
+    "reason": "文藝春秋PLUS（robots.txt で不可の既知サイト）",
+    "person": "東出昌大",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/person_tag/%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%81%B5%E3%81%BF/past/",
+    "result": "candidate",
+    "reason": "二階堂ふみ「あの人と本の話」(2022-07-09)の記事への入口。未確認",
+    "person": "二階堂ふみ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/85",
+    "result": "candidate",
+    "reason": "星野源のインタビュー。安部公房『壁』、ガルシア=マルケス等に言及。未確認",
+    "person": "星野源",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ginzamag.com/culture/24books-6",
+    "result": "candidate",
+    "reason": "GINZA 24人の1冊の連載。対象の人物が含まれるか未確認",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ginzamag.com/interview/genhoshino",
+    "result": "candidate",
+    "reason": "星野源のインタビュー。本の言及があるか未確認",
+    "person": "星野源",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.cinematoday.jp/interview/A0006949",
+    "result": "candidate",
+    "reason": "二階堂ふみのインタビュー。本の言及があるか未確認",
+    "person": "二階堂ふみ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://i-voce.jp/feed/757072/2/",
+    "result": "candidate",
+    "reason": "田中みな実の質問企画。本の言及があるか未確認",
+    "person": "田中みな実",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://press.moviewalker.jp/news/article/58499/",
+    "result": "candidate",
+    "reason": "杉咲花に聞く15の質問（影響を受けたものの質問）。未確認",
+    "person": "杉咲花",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://books.bunshun.jp/articles/-/2137",
+    "result": "rejected",
+    "reason": "文春文庫フェアの宣伝企画（出版社の販促）のため不採用",
+    "person": "星野源",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/3048",
+    "result": "adopted",
+    "reason": "sources.json の s-suzuki",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://news.mynavi.jp/article/20170518-fujii/4",
+    "result": "adopted",
+    "reason": "sources.json の s-fujii",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/12/post-1871753.html",
+    "result": "adopted",
+    "reason": "sources.json の s-yama-realsound",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/news/511116/a/",
+    "result": "adopted",
+    "reason": "sources.json の s-ochiai",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/73148",
+    "result": "adopted",
+    "reason": "sources.json の s-kuri",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h5983",
+    "result": "rejected",
+    "reason": "文藝春秋PLUS（会員限定記事）。成田悠輔本人の寄稿で『グレープフルーツ・ジュース』『神聖喜劇』『HERE』を挙げているが、有料記事のため不採用",
+    "person": "成田悠輔",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h6046",
+    "result": "rejected",
+    "reason": "文藝春秋PLUS（会員限定）。成田悠輔の選書特集の入口、本文未確認",
+    "person": "成田悠輔",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.daily.co.jp/opinion-d/2020/05/01/0013310070.shtml",
+    "result": "rejected",
+    "reason": "栗山英樹の読書術の記事。本の名は記者の地の文で、本人の発言として確認できず（葉隠入門・本日はお日柄もよく）",
+    "person": "栗山英樹",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7529",
+    "result": "rejected",
+    "reason": "落合陽一の自著の紹介で他者の本ではない（本文は開かず検索結果の概要で判断）",
+    "person": "落合陽一",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://books.bunshun.jp/articles/-/4912",
+    "result": "rejected",
+    "reason": "落合陽一の推薦文（出版社の宣伝ページ）。『デカルトからベイトソンへ』は出版社の販促で出典にしない",
+    "person": "落合陽一",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/64784",
+    "result": "candidate",
+    "reason": "藤井聡太が最近読み始めたものの記事。本文未確認",
+    "person": "藤井聡太",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/79373",
+    "result": "candidate",
+    "reason": "『達人の虎の巻』まとめ。栗山英樹ほか。個別記事を要確認",
+    "person": "栗山英樹",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h8383",
+    "result": "candidate",
+    "reason": "栗山英樹『中国古典を読んで…』（文藝春秋PLUS・会員限定の可能性）",
+    "person": "栗山英樹",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/05/post-2025050.html",
+    "result": "candidate",
+    "reason": "宮崎駿・鈴木敏夫に影響を与える作家・石坂洋次郎。鈴木敏夫の選書の可能性、本文未確認",
+    "person": "鈴木敏夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h10806",
+    "result": "candidate",
+    "reason": "『“世界のジブリ”を作った本たち』鈴木敏夫（文藝春秋PLUS、会員限定の可能性）",
+    "person": "鈴木敏夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://oggi.jp/137463",
+    "result": "candidate",
+    "reason": "ヤマザキマリのインタビュー（手塚治虫・藤子不二雄を読み返すと発言。本文未確認）",
+    "person": "ヤマザキマリ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://baila.hpplus.jp/lifestyle/entertainment/46800",
+    "result": "unreachable",
+    "reason": "BAILA は JS 認証で取得不可（ヤマザキマリ『砂の女』『地球家族』の記事）",
+    "person": "ヤマザキマリ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://baila.hpplus.jp/lifestyle/entertainment/46535",
+    "result": "unreachable",
+    "reason": "BAILA は JS 認証で取得不可",
+    "person": "ヤマザキマリ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2611",
+    "result": "candidate",
+    "reason": "堀江貴文の記事（検索結果に出たが未確認）",
+    "person": "堀江貴文",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://dime.jp/genre/1036028/",
+    "result": "candidate",
+    "reason": "堀江貴文の読書に関する記事（服役中の読書）。本文未確認",
+    "person": "堀江貴文",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://books.bunshun.jp/articles/-/3676",
+    "result": "rejected",
+    "reason": "本人が書いた短い書評（『コルシア書店の仲間たち』）。書評は出典にしない方針のため不採用",
+    "person": "ヤマザキマリ",
     "checkedAt": "2026-11-18"
   }
 ]

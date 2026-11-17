@@ -1,0 +1,369 @@
+{
+  "people": [
+    {
+      "id": "mone",
+      "name": "上白石萌音",
+      "title": "俳優・歌手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "moka",
+      "name": "上白石萌歌",
+      "title": "俳優・歌手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "alice",
+      "name": "広瀬アリス",
+      "title": "女優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "yusei",
+      "name": "菊池雄星",
+      "title": "ロサンゼルス・エンゼルス投手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "rena",
+      "name": "山崎怜奈",
+      "title": "タレント",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "rs-mone",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "上白石萌音にとっての読書とは？",
+      "url": "https://realsound.jp/book/2024/12/post-1846698_2.html"
+    },
+    {
+      "id": "bs-mone",
+      "type": "interview",
+      "media": "文春オンライン",
+      "title": "上白石萌音が姉妹で愛読するヨシタケシンスケ作品「『ちょっと足の裏、地面から離そう』って」",
+      "url": "https://bunshun.jp/articles/-/67583",
+      "publishedAt": "2023-12-09"
+    },
+    {
+      "id": "dd-moka",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "上白石萌歌「枕元のテーブルにはいつもヨシタケシンスケさんの絵本を並べています」",
+      "url": "https://ddnavi.com/article/d980708/a/",
+      "publishedAt": "2022-04-29"
+    },
+    {
+      "id": "daily-alice",
+      "type": "article",
+      "media": "デイリースポーツ",
+      "title": "広瀬アリスの好きなマンガに蛍原ドン引き…ネットも「闇が深い」の反響",
+      "url": "https://www.daily.co.jp/gossip/2021/04/16/0014245131.shtml",
+      "publishedAt": "2021-04-16"
+    },
+    {
+      "id": "nk-yusei",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "菊池雄星　怪物たちの中で生き残る方法は本が教えてくれた",
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/030600489/",
+      "publishedAt": "2026-03-17"
+    },
+    {
+      "id": "dime-rena",
+      "type": "article",
+      "media": "@DIME",
+      "title": "【山崎怜奈の好奇心のとびら】光る君へ",
+      "url": "https://dime.jp/genre/1842318/",
+      "publishedAt": "2024-08-31"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "mone",
+      "sourceId": "rs-mone",
+      "book": {
+        "title": "ちょっと踊ったりすぐにかけだす",
+        "author": "古賀及子",
+        "publisher": "素粒社",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "rs-mone",
+      "book": {
+        "title": "バッタを倒しにアフリカへ",
+        "author": "前野ウルド浩太郎",
+        "publisher": "光文社",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "bs-mone",
+      "book": {
+        "title": "あつかったら ぬげばいい",
+        "author": "ヨシタケシンスケ",
+        "publisher": "白泉社",
+        "edition": "2020年"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "bs-mone",
+      "book": {
+        "title": "日々臆測",
+        "author": "ヨシタケシンスケ",
+        "publisher": "光村図書",
+        "edition": "2022年"
+      }
+    },
+    {
+      "personId": "moka",
+      "sourceId": "dd-moka",
+      "book": {
+        "title": "あつかったら ぬげばいい",
+        "author": "ヨシタケシンスケ",
+        "publisher": "",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "moka",
+      "sourceId": "dd-moka",
+      "book": {
+        "title": "かみはこんなに くちゃくちゃだけど",
+        "author": "ヨシタケシンスケ",
+        "publisher": "白泉社",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "moka",
+      "sourceId": "dd-moka",
+      "book": {
+        "title": "あるかしら書店",
+        "author": "ヨシタケシンスケ",
+        "publisher": "",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "alice",
+      "sourceId": "daily-alice",
+      "book": {
+        "title": "復讐の未亡人",
+        "author": "黒澤R",
+        "publisher": "双葉社",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送"
+    },
+    {
+      "personId": "alice",
+      "sourceId": "daily-alice",
+      "book": {
+        "title": "ケーキの切れない非行少年たち",
+        "author": "宮口幸治、鈴木マサカズ",
+        "publisher": "新潮社",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送"
+    },
+    {
+      "personId": "alice",
+      "sourceId": "daily-alice",
+      "book": {
+        "title": "リバーシブルマン",
+        "author": "ナカタニD.",
+        "publisher": "日本文芸社",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送"
+    },
+    {
+      "personId": "alice",
+      "sourceId": "daily-alice",
+      "book": {
+        "title": "「子供を殺してください」という親たち",
+        "author": "押川剛、鈴木マサカズ",
+        "publisher": "新潮社",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送"
+    },
+    {
+      "personId": "alice",
+      "sourceId": "daily-alice",
+      "book": {
+        "title": "私の夫は冷凍庫に眠っている",
+        "author": "八月美咲、高良百",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク「マンガ大好き芸人」2021年4月15日放送"
+    },
+    {
+      "personId": "yusei",
+      "sourceId": "nk-yusei",
+      "book": {
+        "title": "やり抜く力 GRIT",
+        "author": "アンジェラ・ダックワース",
+        "publisher": "ダイヤモンド社",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "yusei",
+      "sourceId": "nk-yusei",
+      "book": {
+        "title": "スティーブ・ジョブズ",
+        "author": "ウォルター・アイザックソン",
+        "publisher": "講談社",
+        "edition": "",
+        "isbn": "9784062171267"
+      }
+    },
+    {
+      "personId": "rena",
+      "sourceId": "dime-rena",
+      "book": {
+        "title": "小右記 ビギナーズ・クラシックス 日本の古典",
+        "author": "藤原実資（倉本一宏編）",
+        "publisher": "KADOKAWA／角川ソフィア文庫",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "rena",
+      "sourceId": "dime-rena",
+      "book": {
+        "title": "源氏物語 解剖図鑑",
+        "author": "佐藤晃子",
+        "publisher": "エクスナレッジ",
+        "edition": ""
+      }
+    },
+    {
+      "personId": "rena",
+      "sourceId": "dime-rena",
+      "book": {
+        "title": "枕草子 ビギナーズ・クラシックス 日本の古典",
+        "author": "清少納言",
+        "publisher": "KADOKAWA／角川ソフィア文庫",
+        "edition": ""
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.lifehacker.jp/article/2603-book_to_read-1913/",
+      "result": "rejected",
+      "reason": "robots.txt（ClaudeBot を拒否）",
+      "person": "菊池雄星"
+    },
+    {
+      "url": "https://www.tv-tokyo.co.jp/plus/entertainment/entry/202311/14178.html",
+      "result": "rejected",
+      "reason": "robots.txt（anthropic-ai を拒否）。内容も鈴木保奈美の推薦",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://www.daily.co.jp/newsflash/gossip/2014/01/19/1p_0006648180.shtml",
+      "result": "rejected",
+      "reason": "本の書名の言及なし（検索結果の要約のみ確認、未取得）",
+      "person": "風間俊介"
+    },
+    {
+      "url": "https://president.jp/articles/-/50902",
+      "result": "rejected",
+      "reason": "PRESIDENT Online は robots.txt で不可",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://gendai.media/articles/-/125186",
+      "result": "rejected",
+      "reason": "現代ビジネスは robots.txt で不可",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://koubo.jp/press-release/prtimes/c34798_r487",
+      "result": "rejected",
+      "reason": "プレスリリース（番組告知）",
+      "person": "菊池雄星"
+    },
+    {
+      "url": "https://ddnavi.com/article/d1444938/a/",
+      "result": "rejected",
+      "reason": "本人の自著『いろいろ』の話のみ",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/5713",
+      "result": "rejected",
+      "reason": "本人と無関係の一般ブックリスト",
+      "person": "風間俊介"
+    },
+    {
+      "url": "https://realsound.jp/book/2020/11/post-663002_2.html",
+      "result": "rejected",
+      "reason": "福徳秀介のインタビュー。具体的な愛読書の書名なし（自著の話のみ）",
+      "person": "福徳秀介"
+    },
+    {
+      "url": "https://realsound.jp/book/2021/09/post-858448_2.html",
+      "result": "candidate",
+      "reason": "上白石萌音の読書インタビュー（2021）。時間切れで未読",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://realsound.jp/book/2021/03/post-717588.html",
+      "result": "candidate",
+      "reason": "山崎怜奈インタビュー（歴史）。未読",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://www.jprime.jp/articles/-/38341",
+      "result": "candidate",
+      "reason": "上白石萌音『あさイチ』（2024-09-10放送）の報道記事。未読",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://ddnavi.com/article/1435572/a/",
+      "result": "candidate",
+      "reason": "「私の愛読書」弘中綾香の回の可能性（2022-11-25）。既に d1049797 が採用済みか要確認、未読",
+      "person": "弘中綾香"
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/76497",
+      "result": "candidate",
+      "reason": "上白石萌音関連の文春記事。未読",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://dime.jp/genre/1894807/",
+      "result": "candidate",
+      "reason": "山崎怜奈の連載「マイ・ラブ・キッチンツール」。本の紹介の有無は未確認",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://ginzamag.com/culture/24books-2",
+      "result": "candidate",
+      "reason": "GINZA の本好き24人連載。対象者が載っているか未確認",
+      "person": "風間俊介"
+    }
+  ]
+}

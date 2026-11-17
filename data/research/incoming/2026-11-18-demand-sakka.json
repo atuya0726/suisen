@@ -1,0 +1,207 @@
+{
+  "people": [
+    {
+      "id": "hayashi",
+      "name": "林士平",
+      "title": "漫画編集者（少年ジャンプ＋編集部）",
+      "tags": []
+    },
+    {
+      "id": "yamada",
+      "name": "山田詠美",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "yoshimoto",
+      "name": "吉本ばなな",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-hayashi",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "『SPY×FAMILY』編集者・林士平氏の作家と向き合う覚悟",
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/031000124/",
+      "publishedAt": "2023-03-23"
+    },
+    {
+      "id": "s-yamada",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "「虚構を支える根は作家の真実」自伝小説刊行の山田詠美氏に聞く",
+      "url": "https://bookplus.nikkei.com/atcl/column/050800242/080300022/",
+      "publishedAt": "2023-11-13"
+    },
+    {
+      "id": "s-yoshimoto",
+      "type": "interview",
+      "media": "幻冬舎ルネッサンス",
+      "title": "吉本ばなな｜特別インタビュー",
+      "url": "https://www.gentosha-book.com/special_interview/yoshimoto/02.html"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "hayashi",
+      "sourceId": "s-hayashi",
+      "book": {
+        "title": "方舟",
+        "author": "夕木春央",
+        "publisher": "講談社"
+      },
+      "note": "本屋大賞の候補作のうち「推している」と発言"
+    },
+    {
+      "personId": "hayashi",
+      "sourceId": "s-hayashi",
+      "book": {
+        "title": "汝、星のごとく",
+        "author": "凪良ゆう",
+        "publisher": "講談社"
+      },
+      "note": "本屋大賞の候補作のうち「推している」と発言"
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s-yamada",
+      "book": {
+        "title": "生きて行く私",
+        "author": "宇野千代",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s-yamada",
+      "book": {
+        "title": "贅沢貧乏",
+        "author": "森茉莉",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s-yamada",
+      "book": {
+        "title": "同意",
+        "author": "ヴァネッサ・スプリンゴラ",
+        "publisher": "中央公論新社"
+      },
+      "note": "「著者が薦める本」欄"
+    },
+    {
+      "personId": "yoshimoto",
+      "sourceId": "s-yoshimoto",
+      "book": {
+        "title": "バナナブレッドのプディング",
+        "author": "大島弓子"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900002/",
+      "result": "rejected",
+      "reason": "本文を読んだが、本人が薦める本の記述なし（英語学習の教材の話）",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900003/",
+      "result": "rejected",
+      "reason": "本文を読んだが、薦めている本の特定なし（『DIE WITH ZERO』は知人に薦められて気になる段階、『ただ君に幸あらんことを』は併読中の言及のみ）",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900004/",
+      "result": "rejected",
+      "reason": "本文を読んだが、薦める本の記述なし（学びと活動の話）",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://realsound.jp/book/2022/09/post-1133976.html",
+      "result": "rejected",
+      "reason": "本文（1・2ページ）を読んだが、本人が薦める個別の本の記述なし（自著『私の文学史』の話）",
+      "person": "町田康"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/282",
+      "result": "rejected",
+      "reason": "対象人物本人の推薦ではない（他人が小泉今日子の本を紹介）",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/112000604/112000003/",
+      "result": "rejected",
+      "reason": "町田康ではなく小川哲の記事（町田康の『告白』を小川氏が薦めるもの）",
+      "person": "町田康"
+    },
+    {
+      "url": "https://futabasha-change.com/articles/-/311?page=2",
+      "result": "rejected",
+      "reason": "影響元は映画監督ダリオ・アルジェントで、本の記述なし",
+      "person": "吉本ばなな"
+    },
+    {
+      "url": "https://www.gentosha-book.com/special_interview/yoshimoto/03.html",
+      "result": "rejected",
+      "reason": "『ジョン・チーヴァー』を読んだ旨の言及のみで書名の特定なし",
+      "person": "吉本ばなな"
+    },
+    {
+      "url": "https://mykoho.jp/article/142123/9875185/9929275",
+      "result": "unreachable",
+      "reason": "404（広報紙の小泉今日子インタビュー）",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://www.kanaloco.jp/news/life/article-1228175.html",
+      "result": "candidate",
+      "reason": "小泉今日子の厚木市での講演（本のこと）の報道。未読、本を挙げているかは不明",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://eclat.hpplus.jp/article/133443",
+      "result": "candidate",
+      "reason": "小泉今日子インタビュー。未読",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://kompass.cinra.net/article/202309-koizumikyoko_ysdmscl",
+      "result": "candidate",
+      "reason": "小泉今日子インタビュー（旅）。本の言及は不明、未読",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://www.bookbang.jp/review/article/513162",
+      "result": "candidate",
+      "reason": "吉本ばなな『イヤシノウタ』刊行インタビュー。忌野清志郎『十年ゴム消し』が好きとの発言あり、未読",
+      "person": "吉本ばなな"
+    },
+    {
+      "url": "https://ddnavi.com/article/d1209647/a/",
+      "result": "candidate",
+      "reason": "筒井康隆の記事。未読",
+      "person": "筒井康隆"
+    },
+    {
+      "url": "https://realsound.jp/book/2024/08/post-1760910_2.html",
+      "result": "candidate",
+      "reason": "町田康『宇治拾遺物語』インタビュー。古典の話。未読",
+      "person": "町田康"
+    },
+    {
+      "url": "https://ddnavi.com/article/d1207963/a/",
+      "result": "rejected",
+      "reason": "『星新一 一〇〇一話をつくった人』を読み返していると記者の地の文にあるだけで、本人の発言として確認できず不採用",
+      "person": "筒井康隆"
+    }
+  ]
+}
