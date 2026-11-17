@@ -13233,5 +13233,173 @@
     "title": "フラッグス CEO 林部正樹氏が選ぶ一冊『ザ・ゴール ― 企業の究極の目的とは何か』",
     "url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-1/",
     "publishedAt": "2025-01-28"
+  },
+  {
+    "id": "fb-walter-isaacson-on-einstein",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Einstein",
+    "url": "https://fivebooks.com/best-books/walter-isaacson-on-einstein/",
+    "publishedAt": "2010-12-17"
+  },
+  {
+    "id": "fb-sean-carroll-cosmology",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Cosmology",
+    "url": "https://fivebooks.com/best-books/sean-carroll-cosmology/",
+    "publishedAt": "2011-07-20"
+  },
+  {
+    "id": "fb-introductions-economics-tim-harford",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Best Introductions to Economics | Five Books Expert Recommendations",
+    "url": "https://fivebooks.com/best-books/introductions-economics-tim-harford/",
+    "publishedAt": "2017-10-09"
+  },
+  {
+    "id": "fb-matt-ridley-technology-optimism",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Technology and Optimism - Five Books Recommendations",
+    "url": "https://fivebooks.com/best-books/matt-ridley-technology-optimism/",
+    "publishedAt": "2010-12-17"
+  },
+  {
+    "id": "fb-robert-shiller-on-capitalism-and-human-nature",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Capitalism and Human Nature - Robert Shiller on Five Books",
+    "url": "https://fivebooks.com/best-books/robert-shiller-on-capitalism-and-human-nature/",
+    "publishedAt": "2018-01-23"
+  },
+  {
+    "id": "fb-globalisation-dani-rodrik",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Globalisation",
+    "url": "https://fivebooks.com/best-books/globalisation-dani-rodrik/",
+    "publishedAt": "2010-12-17"
+  },
+  {
+    "id": "fb-best-books-unexpected-economics-tim-harford",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Unexpected Economics Books",
+    "url": "https://fivebooks.com/best-books/best-books-unexpected-economics-tim-harford/",
+    "publishedAt": "2012-09-10"
+  },
+  {
+    "id": "fb-behavioural-economics-dan-ariely",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Behavioural Economics",
+    "url": "https://fivebooks.com/best-books/behavioural-economics-dan-ariely/",
+    "publishedAt": "2016-08-27"
+  },
+  {
+    "id": "fb-anne-applebaum-on-memoirs-of-communism",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Memoirs of Communism",
+    "url": "https://fivebooks.com/best-books/anne-applebaum-on-memoirs-of-communism/",
+    "publishedAt": "2012-03-05"
+  },
+  {
+    "id": "fb-tyler-cowen-on-information",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Information",
+    "url": "https://fivebooks.com/best-books/tyler-cowen-on-information/",
+    "publishedAt": "2013-01-02"
+  },
+  {
+    "id": "fb-character-development-angela-duckworth",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Character Development | Five Books Expert Recommendations",
+    "url": "https://fivebooks.com/best-books/character-development-angela-duckworth/",
+    "publishedAt": "2019-04-01"
+  },
+  {
+    "id": "fb-daniel-dennett-book-recommendations",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Favorite Books",
+    "url": "https://fivebooks.com/best-books/daniel-dennett-book-recommendations/",
+    "publishedAt": "2023-09-25"
+  },
+  {
+    "id": "fb-nineteenth-century-philosophy-peter-singer",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Nineteenth Century Philosophy | Peter Singer on Five Books",
+    "url": "https://fivebooks.com/best-books/nineteenth-century-philosophy-peter-singer/",
+    "publishedAt": "2018-05-18"
+  },
+  {
+    "id": "fb-paul-krugman-readinglist",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Books that Inspired a Liberal Economist - Paul Krugman on Five Books",
+    "url": "https://fivebooks.com/best-books/paul-krugman-readinglist/",
+    "publishedAt": "2012-06-19"
+  },
+  {
+    "id": "fb-francis-fukuyama-on-the-financial-crisis",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on The Financial Crisis - Francis Fukuyama on Five Books",
+    "url": "https://fivebooks.com/best-books/francis-fukuyama-on-the-financial-crisis/",
+    "publishedAt": "2017-01-27"
+  },
+  {
+    "id": "fb-niall-ferguson-on-intellectual-influences",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Niall Ferguson on His Intellectual Influences - Five Books",
+    "url": "https://fivebooks.com/best-books/niall-ferguson-on-intellectual-influences/",
+    "publishedAt": "2012-04-13"
+  },
+  {
+    "id": "fb-global-power-joseph-nye",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Global Power",
+    "url": "https://fivebooks.com/best-books/global-power-joseph-nye/",
+    "publishedAt": "2018-06-03"
+  },
+  {
+    "id": "fb-liberal-democracy-francis-fukuyama",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Best Books on Liberal Democracy",
+    "url": "https://fivebooks.com/best-books/liberal-democracy-francis-fukuyama/",
+    "publishedAt": "2021-07-26"
+  },
+  {
+    "id": "fb-time-carlo-rovelli",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Time | Carlo Rovelli on Five Books",
+    "url": "https://fivebooks.com/best-books/time-carlo-rovelli/",
+    "publishedAt": "2018-05-11"
+  },
+  {
+    "id": "fb-ian-mcewan-books-that-shape-his-novels",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "Ian McEwan on Books That Shaped His Novels - Five Books",
+    "url": "https://fivebooks.com/best-books/ian-mcewan-books-that-shape-his-novels/",
+    "publishedAt": "2017-09-03"
+  },
+  {
+    "id": "fb-timothy-snyder-on-dissent",
+    "type": "interview",
+    "media": "Five Books",
+    "title": "The Best Books on Dissent | Five Books Expert Recommendations",
+    "url": "https://fivebooks.com/best-books/timothy-snyder-on-dissent/",
+    "publishedAt": "2012-01-25"
   }
 ]

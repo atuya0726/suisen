@@ -15193,5 +15193,185 @@
     "reason": "日刊ゲンダイ「社長の本棚」。有料記事で、無料の見出しだけでは薦めた本と言い切れず未掲載",
     "person": "有吉徳洋",
     "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/walter-isaacson-on-einstein/",
+    "result": "adopted",
+    "reason": "sources.json の fb-walter-isaacson-on-einstein",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/sean-carroll-cosmology/",
+    "result": "adopted",
+    "reason": "sources.json の fb-sean-carroll-cosmology",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/introductions-economics-tim-harford/",
+    "result": "adopted",
+    "reason": "sources.json の fb-introductions-economics-tim-harford",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/matt-ridley-technology-optimism/",
+    "result": "adopted",
+    "reason": "sources.json の fb-matt-ridley-technology-optimism",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/robert-shiller-on-capitalism-and-human-nature/",
+    "result": "adopted",
+    "reason": "sources.json の fb-robert-shiller-on-capitalism-and-human-nature",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/globalisation-dani-rodrik/",
+    "result": "adopted",
+    "reason": "sources.json の fb-globalisation-dani-rodrik",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/best-books-unexpected-economics-tim-harford/",
+    "result": "adopted",
+    "reason": "sources.json の fb-best-books-unexpected-economics-tim-harford",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/behavioural-economics-dan-ariely/",
+    "result": "adopted",
+    "reason": "sources.json の fb-behavioural-economics-dan-ariely",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/anne-applebaum-on-memoirs-of-communism/",
+    "result": "adopted",
+    "reason": "sources.json の fb-anne-applebaum-on-memoirs-of-communism",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/tyler-cowen-on-information/",
+    "result": "adopted",
+    "reason": "sources.json の fb-tyler-cowen-on-information",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/character-development-angela-duckworth/",
+    "result": "adopted",
+    "reason": "sources.json の fb-character-development-angela-duckworth",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/daniel-dennett-book-recommendations/",
+    "result": "adopted",
+    "reason": "sources.json の fb-daniel-dennett-book-recommendations",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/nineteenth-century-philosophy-peter-singer/",
+    "result": "adopted",
+    "reason": "sources.json の fb-nineteenth-century-philosophy-peter-singer",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/paul-krugman-readinglist/",
+    "result": "adopted",
+    "reason": "sources.json の fb-paul-krugman-readinglist",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/francis-fukuyama-on-the-financial-crisis/",
+    "result": "adopted",
+    "reason": "sources.json の fb-francis-fukuyama-on-the-financial-crisis",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/niall-ferguson-on-intellectual-influences/",
+    "result": "adopted",
+    "reason": "sources.json の fb-niall-ferguson-on-intellectual-influences",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/global-power-joseph-nye/",
+    "result": "adopted",
+    "reason": "sources.json の fb-global-power-joseph-nye",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/liberal-democracy-francis-fukuyama/",
+    "result": "adopted",
+    "reason": "sources.json の fb-liberal-democracy-francis-fukuyama",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/time-carlo-rovelli/",
+    "result": "adopted",
+    "reason": "sources.json の fb-time-carlo-rovelli",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/ian-mcewan-books-that-shape-his-novels/",
+    "result": "adopted",
+    "reason": "sources.json の fb-ian-mcewan-books-that-shape-his-novels",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/timothy-snyder-on-dissent/",
+    "result": "adopted",
+    "reason": "sources.json の fb-timothy-snyder-on-dissent",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/sitemap_index.xml",
+    "result": "index",
+    "reason": "interview-sitemap 1-3 から2,364件のインタビューURLを取り、題名の人名から日本で知名度の高い人19人（読んで採用）を選んだ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/people-sitemap.xml",
+    "result": "index",
+    "reason": "インタビューを受けた人の一覧（347件、全員ではない）。インタビューURLは interview-sitemap から取った",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/decline-violence-steven-pinker/",
+    "result": "rejected",
+    "reason": "日本語版を確かめられた本がない（6冊中。原書の邦訳は検索で見つからず）",
+    "person": "スティーブン・ピンカー",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/economic-ideology-thomas-piketty/",
+    "result": "rejected",
+    "reason": "5冊とも専門書で日本語版を確かめられなかった",
+    "person": "トマ・ピケティ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/inequality-daron-acemoglu/",
+    "result": "rejected",
+    "reason": "本人の自著を除くと日本語版を確かめられた本がない（13 Bankers は検索で見つからず）",
+    "person": "ダロン・アセモグル",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/jeffrey-d-sachs-on-the-millennium-development-goals/",
+    "result": "rejected",
+    "reason": "自著を除き日本語版を確かめられた本がない",
+    "person": "ジェフリー・サックス",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/biology-sean-carroll/",
+    "result": "rejected",
+    "reason": "生物学者ショーン・B・キャロルで日本での知名度が低いため対象外（読んだが不採用）",
+    "person": "Sean B. Carroll",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://fivebooks.com/best-books/emotional-intelligence-daniel-goleman/",
+    "result": "candidate",
+    "reason": "ダニエル・ゴールマン。日本語版は未確認（今回は選ばず）",
+    "person": "ダニエル・ゴールマン",
+    "checkedAt": "2026-11-17"
   }
 ]

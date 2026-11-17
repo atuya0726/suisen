@@ -39846,5 +39846,365 @@
     "isbn13": "9784296000326",
     "sourceId": "zu-src275065",
     "verified": true
+  },
+  {
+    "personId": "p1240",
+    "isbn13": "9784764103665",
+    "sourceId": "fb-anne-applebaum-on-memoirs-of-communism",
+    "verified": true
+  },
+  {
+    "personId": "p1240",
+    "isbn13": "9784861825361",
+    "sourceId": "fb-anne-applebaum-on-memoirs-of-communism",
+    "verified": true
+  },
+  {
+    "personId": "p1241",
+    "isbn13": "9784163736709",
+    "sourceId": "fb-behavioural-economics-dan-ariely",
+    "verified": true
+  },
+  {
+    "personId": "p1241",
+    "isbn13": "9784414304299",
+    "sourceId": "fb-behavioural-economics-dan-ariely",
+    "verified": true
+  },
+  {
+    "personId": "p1241",
+    "isbn13": "9784822247478",
+    "sourceId": "fb-behavioural-economics-dan-ariely",
+    "verified": true
+  },
+  {
+    "personId": "p1242",
+    "isbn13": "9784167651862",
+    "sourceId": "fb-best-books-unexpected-economics-tim-harford",
+    "verified": true
+  },
+  {
+    "personId": "p1242",
+    "isbn13": "9784309252506",
+    "sourceId": "fb-best-books-unexpected-economics-tim-harford",
+    "verified": true
+  },
+  {
+    "personId": "p1242",
+    "isbn13": "9784484911236",
+    "sourceId": "fb-introductions-economics-tim-harford",
+    "verified": true
+  },
+  {
+    "personId": "p1242",
+    "isbn13": "9784502657603",
+    "sourceId": "fb-introductions-economics-tim-harford",
+    "verified": true
+  },
+  {
+    "personId": "p1242",
+    "isbn13": "9784105415020",
+    "sourceId": "fb-introductions-economics-tim-harford",
+    "verified": true
+  },
+  {
+    "personId": "p1243",
+    "isbn13": "9784150505004",
+    "sourceId": "fb-character-development-angela-duckworth",
+    "verified": true
+  },
+  {
+    "personId": "p1243",
+    "isbn13": "9784794221780",
+    "sourceId": "fb-character-development-angela-duckworth",
+    "verified": true
+  },
+  {
+    "personId": "p1244",
+    "isbn13": "9784326198733",
+    "sourceId": "fb-daniel-dennett-book-recommendations",
+    "verified": true
+  },
+  {
+    "personId": "p1244",
+    "isbn13": "9784314005562",
+    "sourceId": "fb-daniel-dennett-book-recommendations",
+    "verified": true
+  },
+  {
+    "personId": "p1244",
+    "isbn13": "9784826902007",
+    "sourceId": "fb-daniel-dennett-book-recommendations",
+    "verified": true
+  },
+  {
+    "personId": "p1245",
+    "isbn13": "9784167651862",
+    "sourceId": "fb-francis-fukuyama-on-the-financial-crisis",
+    "verified": true
+  },
+  {
+    "personId": "p1245",
+    "isbn13": "9784105063313",
+    "sourceId": "fb-francis-fukuyama-on-the-financial-crisis",
+    "verified": true
+  },
+  {
+    "personId": "p1245",
+    "isbn13": "9784105070618",
+    "sourceId": "fb-liberal-democracy-francis-fukuyama",
+    "verified": true
+  },
+  {
+    "personId": "p1245",
+    "isbn13": "9784003402917",
+    "sourceId": "fb-liberal-democracy-francis-fukuyama",
+    "verified": true
+  },
+  {
+    "personId": "p1245",
+    "isbn13": "9784003400920",
+    "sourceId": "fb-liberal-democracy-francis-fukuyama",
+    "verified": true
+  },
+  {
+    "personId": "p1246",
+    "isbn13": "9784003340615",
+    "sourceId": "fb-global-power-joseph-nye",
+    "verified": true
+  },
+  {
+    "personId": "p1246",
+    "isbn13": "9784624300876",
+    "sourceId": "fb-global-power-joseph-nye",
+    "verified": true
+  },
+  {
+    "personId": "p1246",
+    "isbn13": "9784198631406",
+    "sourceId": "fb-global-power-joseph-nye",
+    "verified": true
+  },
+  {
+    "personId": "p1247",
+    "isbn13": "9784812205211",
+    "sourceId": "fb-globalisation-dani-rodrik",
+    "verified": true
+  },
+  {
+    "personId": "p1248",
+    "isbn13": "9784105001148",
+    "sourceId": "fb-ian-mcewan-books-that-shape-his-novels",
+    "verified": true
+  },
+  {
+    "personId": "p1248",
+    "isbn13": "9784314010498",
+    "sourceId": "fb-ian-mcewan-books-that-shape-his-novels",
+    "verified": true
+  },
+  {
+    "personId": "p1248",
+    "isbn13": "9784270006498",
+    "sourceId": "fb-ian-mcewan-books-that-shape-his-novels",
+    "verified": true
+  },
+  {
+    "personId": "p1249",
+    "isbn13": "9784122005334",
+    "sourceId": "fb-niall-ferguson-on-intellectual-influences",
+    "verified": true
+  },
+  {
+    "personId": "p1249",
+    "isbn13": "9784121600844",
+    "sourceId": "fb-niall-ferguson-on-intellectual-influences",
+    "verified": true
+  },
+  {
+    "personId": "p1249",
+    "isbn13": "9784102060131",
+    "sourceId": "fb-niall-ferguson-on-intellectual-influences",
+    "verified": true
+  },
+  {
+    "personId": "p1250",
+    "isbn13": "9784582762006",
+    "sourceId": "fb-nineteenth-century-philosophy-peter-singer",
+    "verified": true
+  },
+  {
+    "personId": "p1250",
+    "isbn13": "9784334754204",
+    "sourceId": "fb-nineteenth-century-philosophy-peter-singer",
+    "verified": true
+  },
+  {
+    "personId": "p1250",
+    "isbn13": "9784003900024",
+    "sourceId": "fb-nineteenth-century-philosophy-peter-singer",
+    "verified": true
+  },
+  {
+    "personId": "p1250",
+    "isbn13": "9784062923705",
+    "sourceId": "fb-nineteenth-century-philosophy-peter-singer",
+    "verified": true
+  },
+  {
+    "personId": "p1251",
+    "isbn13": "9784150105556",
+    "sourceId": "fb-paul-krugman-readinglist",
+    "verified": true
+  },
+  {
+    "personId": "p1251",
+    "isbn13": "9784588121944",
+    "sourceId": "fb-paul-krugman-readinglist",
+    "verified": true
+  },
+  {
+    "personId": "p1251",
+    "isbn13": "9784003414514",
+    "sourceId": "fb-paul-krugman-readinglist",
+    "verified": true
+  },
+  {
+    "personId": "p1251",
+    "isbn13": "9784532240141",
+    "sourceId": "fb-paul-krugman-readinglist",
+    "verified": true
+  },
+  {
+    "personId": "p1252",
+    "isbn13": "9784062921763",
+    "sourceId": "fb-robert-shiller-on-capitalism-and-human-nature",
+    "verified": true
+  },
+  {
+    "personId": "p1252",
+    "isbn13": "9784588001659",
+    "sourceId": "fb-robert-shiller-on-capitalism-and-human-nature",
+    "verified": true
+  },
+  {
+    "personId": "p1252",
+    "isbn13": "9784822247478",
+    "sourceId": "fb-robert-shiller-on-capitalism-and-human-nature",
+    "verified": true
+  },
+  {
+    "personId": "p1252",
+    "isbn13": "9784105063313",
+    "sourceId": "fb-robert-shiller-on-capitalism-and-human-nature",
+    "verified": true
+  },
+  {
+    "personId": "p1253",
+    "isbn13": "9784794217004",
+    "sourceId": "fb-sean-carroll-cosmology",
+    "verified": true
+  },
+  {
+    "personId": "p1253",
+    "isbn13": "9784826900775",
+    "sourceId": "fb-sean-carroll-cosmology",
+    "verified": true
+  },
+  {
+    "personId": "p1253",
+    "isbn13": "9784822283650",
+    "sourceId": "fb-sean-carroll-cosmology",
+    "verified": true
+  },
+  {
+    "personId": "p1254",
+    "isbn13": "9784480027214",
+    "sourceId": "fb-time-carlo-rovelli",
+    "verified": true
+  },
+  {
+    "personId": "p1255",
+    "isbn13": "9784480011664",
+    "sourceId": "fb-timothy-snyder-on-dissent",
+    "verified": true
+  },
+  {
+    "personId": "p1255",
+    "isbn13": "9784764103665",
+    "sourceId": "fb-timothy-snyder-on-dissent",
+    "verified": true
+  },
+  {
+    "personId": "p1255",
+    "isbn13": "9784087606775",
+    "sourceId": "fb-timothy-snyder-on-dissent",
+    "verified": true
+  },
+  {
+    "personId": "p1255",
+    "isbn13": "9784409031049",
+    "sourceId": "fb-timothy-snyder-on-dissent",
+    "verified": true
+  },
+  {
+    "personId": "p1256",
+    "isbn13": "9784480863997",
+    "sourceId": "fb-tyler-cowen-on-information",
+    "verified": true
+  },
+  {
+    "personId": "p1256",
+    "isbn13": "9784393800218",
+    "sourceId": "fb-tyler-cowen-on-information",
+    "verified": true
+  },
+  {
+    "personId": "p1256",
+    "isbn13": "9784822245870",
+    "sourceId": "fb-tyler-cowen-on-information",
+    "verified": true
+  },
+  {
+    "personId": "p1256",
+    "isbn13": "9784783724360",
+    "sourceId": "fb-tyler-cowen-on-information",
+    "verified": true
+  },
+  {
+    "personId": "p1257",
+    "isbn13": "9784815808198",
+    "sourceId": "fb-walter-isaacson-on-einstein",
+    "verified": true
+  },
+  {
+    "personId": "p1257",
+    "isbn13": "9784794217004",
+    "sourceId": "fb-walter-isaacson-on-einstein",
+    "verified": true
+  },
+  {
+    "personId": "p1257",
+    "isbn13": "9784004000143",
+    "sourceId": "fb-walter-isaacson-on-einstein",
+    "verified": true
+  },
+  {
+    "personId": "p1257",
+    "isbn13": "9784152035547",
+    "sourceId": "fb-walter-isaacson-on-einstein",
+    "verified": true
+  },
+  {
+    "personId": "p1258",
+    "isbn13": "9784163650807",
+    "sourceId": "fb-matt-ridley-technology-optimism",
+    "verified": true
+  },
+  {
+    "personId": "p1258",
+    "isbn13": "9784622077534",
+    "sourceId": "fb-matt-ridley-technology-optimism",
+    "verified": true
   }
 ]
