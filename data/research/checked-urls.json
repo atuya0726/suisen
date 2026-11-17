@@ -13712,8 +13712,8 @@
   },
   {
     "url": "https://ginzamag.com/categories/culture/213208",
-    "result": "index",
-    "reason": "GINZA「24人の愛読書「私のいちばん好きな本」」vol.1-6（2021、俳優・デザイナー等24人が各1冊）。無料だが本文がJS描画でHTMLにもWebFetchにも本文が出ず、書名を確認できない。robotsは許可。vol.1-6は /culture/24books-1〜6",
+    "result": "adopted",
+    "reason": "sources.json の ginza4",
     "checkedAt": "2026-11-17"
   },
   {
@@ -13736,8 +13736,8 @@
   },
   {
     "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2026/11/01/post_6/",
-    "result": "candidate",
-    "reason": "Sportiva不定期連載「アスリートと読書のいいつながり」姫野和樹（ラグビー）後編。一覧ページが見つからず連載の回数不明。本文は無料で読める（前編『海賊とよばれた男』）。今回は取り込まず",
+    "result": "adopted",
+    "reason": "sources.json の hm2",
     "person": "姫野和樹",
     "checkedAt": "2026-11-17"
   },
@@ -13757,6 +13757,707 @@
     "url": "https://www.itmedia.co.jp/news/article/2310/11/1231011127/",
     "result": "candidate",
     "reason": "ITmedia IT経営者の本棚 法務SaaS企業回(2023-10)。未読。ほか2023-05 チームスピリット、2022-12 freee、2022-11 マネーフォワード×2回も未読",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3678",
+    "result": "adopted",
+    "reason": "sources.json の hon3678",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/212772",
+    "result": "adopted",
+    "reason": "sources.json の ginza2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/426",
+    "result": "adopted",
+    "reason": "sources.json の hon426",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11470",
+    "result": "adopted",
+    "reason": "sources.json の hon11470",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3752",
+    "result": "adopted",
+    "reason": "sources.json の hon3752",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/213231",
+    "result": "adopted",
+    "reason": "sources.json の ginza6",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/212714",
+    "result": "adopted",
+    "reason": "sources.json の ginza1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7332",
+    "result": "adopted",
+    "reason": "sources.json の hon7332",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/213186",
+    "result": "adopted",
+    "reason": "sources.json の ginza3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6274",
+    "result": "adopted",
+    "reason": "sources.json の hon6274",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ginzamag.com/categories/culture/213221",
+    "result": "adopted",
+    "reason": "sources.json の ginza5",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5742",
+    "result": "adopted",
+    "reason": "sources.json の hon5742",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h5972",
+    "result": "rejected",
+    "reason": "文藝春秋PLUS「私の人生を決めた本」の記事。有料会員向けで、無料では冒頭（記事の半分以下）までしか読めない。特集の約20記事（h5899,h5929,h5937,h5940,h5943,h5945,h5958,h5962,h5963,h5965,h5967,h5969,h5970,h5972,h5975,h5978,h5979,h5993,h6009,h6011）も同様と判断。robots.txt は許可",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookscan.co.jp/interviewlist",
+    "result": "index",
+    "reason": "BOOKSCAN 著者インタビュー一覧。/interviewarticle/1〜597。全件は未確認、587〜597と101,596,586を確認",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/351",
+    "result": "rejected",
+    "reason": "写真家・北沢美樹。紹介本が洋書の写真集と深瀬昌久『鴉』で、論考形式の書評。洋書は対象外",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/10079",
+    "result": "candidate",
+    "reason": "小塚舞子の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8608",
+    "result": "candidate",
+    "reason": "山本裕子の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8025",
+    "result": "candidate",
+    "reason": "わちゅ～＠の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8178",
+    "result": "candidate",
+    "reason": "石山蓮華の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7043",
+    "result": "candidate",
+    "reason": "つぶやきシローの連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/10190",
+    "result": "candidate",
+    "reason": "山中志歩の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/10096",
+    "result": "candidate",
+    "reason": "荒井沙織の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11702",
+    "result": "candidate",
+    "reason": "西川あやのの連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11651",
+    "result": "candidate",
+    "reason": "谷口つばさ（赤ノ宮翼）の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/12231",
+    "result": "rejected",
+    "reason": "藤原努（元ホリプロプロデューサー）の連載書評。書評・感想で薦める形ではないため保留（候補としては連載40記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/12216",
+    "result": "rejected",
+    "reason": "藤原努（元ホリプロプロデューサー）の連載書評。書評・感想で薦める形ではないため保留（候補としては連載40記事）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/12229",
+    "result": "rejected",
+    "reason": "岡山天音の連載はフィクションの短編。本の推薦ではない",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800001/",
+    "result": "adopted",
+    "reason": "sources.json の nk1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800003/",
+    "result": "adopted",
+    "reason": "sources.json の nk3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jfa.jp/grass_roots/sportsassistyou/my_favorite_book/news/00024884/",
+    "result": "adopted",
+    "reason": "sources.json の hr1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900001/",
+    "result": "adopted",
+    "reason": "sources.json の sj1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2026/11/01/post_5/",
+    "result": "adopted",
+    "reason": "sources.json の hm1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082800769/",
+    "result": "index",
+    "reason": "日経BOOKプラス「走る文学青年・中島佑気ジョセフの読書遍歴」全3回（2026-09-14〜24）、無料で全文閲覧可。第1・3回を読んだ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800002/",
+    "result": "candidate",
+    "reason": "第2回（2026-09-17）。競技への影響が中心で、本は未抽出",
+    "person": "中島佑気ジョセフ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/120900616/",
+    "result": "index",
+    "reason": "日経BOOKプラス「庄司浩平 食べるように本を読む」全4回、無料。第1回のみ読んだ",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900003/",
+    "result": "candidate",
+    "reason": "第3回。『DIE WITH ZERO』『ただ君に幸あらんことを』などに言及するが、薦めたとは読めず未採用。本文は2ページ構成で2ページ目は未読",
+    "person": "庄司浩平",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900004/",
+    "result": "candidate",
+    "reason": "第4回。冒頭のみ確認、本の言及なし",
+    "person": "庄司浩平",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900002/",
+    "result": "candidate",
+    "reason": "第2回。英語学習の教材が中心で本の推薦ではなさそう（未読）",
+    "person": "庄司浩平",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://sportiva.shueisha.co.jp/search_keyword/?SearchWord=%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%A8%E8%AA%AD%E6%9B%B8&tag=1",
+    "result": "index",
+    "reason": "web Sportiva 不定期連載「アスリートと読書のいいつながり」（タグ #アスリートと読書）。2026-11-17 時点で姫野和樹の前編・後編の2本のみ。新しい回が出たら見る。無料・全4ページ構成（?page=2〜4）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jfa.jp/grass_roots/sportsassistyou/my_favorite_book/",
+    "result": "index",
+    "reason": "JFA「私の好きな本」（2020年のコロナ禍企画）。前田大然・平尾知佳の2本だけで完結。無料。前田回は絵本『いないいないばあ』のみで、著者・版元が本文に無く単なる読み聞かせのため不採用",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.jfa.jp/grass_roots/sportsassistyou/my_favorite_book/news/00024859/",
+    "result": "rejected",
+    "reason": "絵本『いないいないばあ』を娘に読み聞かせしているという話で、著者・版元が本文に無く、同名の本が複数あり1冊に決められない",
+    "person": "前田大然",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://forbesjapan.com/series/list/ceo_book",
+    "result": "rejected",
+    "reason": "Forbes JAPAN「CEOがすすめる一冊」（CEO'S BOOKSHELF）全84回（2021-2024）。一覧で83回に「有料記事」アイコン。curl では本文が取れるが媒体が有料記事と表示しているため使わない（無料の1回のみ）。ユーザーの判断があれば再検討",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/845406",
+    "result": "rejected",
+    "reason": "Number Web 村田諒太「王者の本棚」。NumberWeb有料会員限定（冒頭のみ）",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h8737",
+    "result": "rejected",
+    "reason": "文藝春秋PLUS「達人の虎の巻 ～人生を変えた座右の書～」（電子版ORIGINAL、会員向け）。登場者も作家・学者・官僚が中心で対象の属性が少ない",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://keiei.freee.co.jp/articles/i0100073/",
+    "result": "candidate",
+    "reason": "経営ハッカー「ベンチャーCFO36人に聞いた座右の書」（2019、無料・全文）。CFOが1冊ずつ。名前で検索される人は少ないので後回し",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://news.livedoor.com/article/detail/12506680/",
+    "result": "unreachable",
+    "reason": "新刊JP「BUSINESS BOOK RUN」（2017、経営者の座右の書）。新刊JPのサイトは公開終了、livedoor の転載のみ。単発の転載で連載の一覧が取れない",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240453/",
+    "result": "adopted",
+    "reason": "sources.json の cro-240453",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/74434/",
+    "result": "adopted",
+    "reason": "sources.json の cro-74434",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/56847/",
+    "result": "adopted",
+    "reason": "sources.json の cro-56847",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/74420/",
+    "result": "adopted",
+    "reason": "sources.json の cro-74420",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/109986/",
+    "result": "adopted",
+    "reason": "sources.json の cro-109986",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/56892/",
+    "result": "adopted",
+    "reason": "sources.json の cro-56892",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/75603/",
+    "result": "adopted",
+    "reason": "sources.json の cro-75603",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/56897/",
+    "result": "adopted",
+    "reason": "sources.json の cro-56897",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/74414/",
+    "result": "adopted",
+    "reason": "sources.json の cro-74414",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240628/",
+    "result": "adopted",
+    "reason": "sources.json の cro-240628",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/74442/",
+    "result": "adopted",
+    "reason": "sources.json の cro-74442",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/74760/",
+    "result": "adopted",
+    "reason": "sources.json の cro-74760",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/56932/",
+    "result": "adopted",
+    "reason": "sources.json の cro-56932",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240444/",
+    "result": "adopted",
+    "reason": "sources.json の cro-240444",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240462/",
+    "result": "rejected",
+    "reason": "アロマセラピスト。名前で検索される著名人か疑問のため見送り（漫画『ピアノの森』）",
+    "person": "中村姿乃",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240600/",
+    "result": "rejected",
+    "reason": "作家（2022年デビュー）。本棚の紹介で、知名度の面で見送り",
+    "person": "篠友子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240550/",
+    "result": "rejected",
+    "reason": "角田光代さんが薦めるのは書店で、本ではない",
+    "person": "角田光代",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/128202/",
+    "result": "rejected",
+    "reason": "谷川俊太郎さんのインタビュー。他人の本を薦める記事ではない（自身の翻訳『ピーナッツ全集』のみ）",
+    "person": "谷川俊太郎",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/109881/",
+    "result": "rejected",
+    "reason": "対談で瀧井朝世さんが選んだ本を深緑野分さんが語る形。誰が選んだ本か分けにくく見送り",
+    "person": "深緑野分・瀧井朝世",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/109943/",
+    "result": "rejected",
+    "reason": "絵本専門店の書店員の選書。個人名で検索される人ではない",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/57062/",
+    "result": "rejected",
+    "reason": "大森望さんが角田光代さんのために選んだSF。角田さん本人の選書ではない",
+    "person": "角田光代",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240607/",
+    "result": "candidate",
+    "reason": "KIKIさんの本棚の4冊（松家仁之・保坂和志・堀江敏幸・南木佳士）。本文で肩書きを確認できず見送り。肩書きを確かめれば使える",
+    "person": "KIKI",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240617/",
+    "result": "candidate",
+    "reason": "森田紗都姫さんの本棚（レイチェル・カーソン等5冊）。肩書き未確認、知名度も要確認",
+    "person": "森田紗都姫",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/110000/",
+    "result": "candidate",
+    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "person": "杉江松恋",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/110010/",
+    "result": "candidate",
+    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "person": "島﨑今日子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/110020/",
+    "result": "candidate",
+    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "person": "三浦天紗子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/110027/",
+    "result": "candidate",
+    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "person": "井川直子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/110033/",
+    "result": "candidate",
+    "reason": "『〜さんが薦める、〇〇の2〜3作品』シリーズ（クロワッサン2020年）。書評家・ライター等で知名度は要判断、未読",
+    "person": "永江朗",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240338/",
+    "result": "candidate",
+    "reason": "「名作はなぜこんなに面白いのか」日本文学編。誰が選んだかは未読",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/240351/",
+    "result": "candidate",
+    "reason": "「名作はなぜこんなに面白いのか」世界文学編。未読",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/229830/",
+    "result": "candidate",
+    "reason": "斉藤紳士さん（芸人）と間室道子さん（書店員）の読書案内。未読",
+    "person": "斉藤紳士・間室道子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/78818/",
+    "result": "candidate",
+    "reason": "紫原明子さんのお悩み相談。おすすめ本が出る形式。未読",
+    "person": "紫原明子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/56885/",
+    "result": "candidate",
+    "reason": "島田順子さんの胸にある言葉（本の引用の可能性）。未読",
+    "person": "島田順子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://croissant-online.jp/life/57120/",
+    "result": "candidate",
+    "reason": "柚木麻子さんの記事。選書か未確認で未読",
+    "person": "柚木麻子",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/10-3",
+    "result": "adopted",
+    "reason": "sources.json の sm-10-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/1-3",
+    "result": "adopted",
+    "reason": "sources.json の sm-1-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/1-2",
+    "result": "adopted",
+    "reason": "sources.json の sm-1-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/17-3",
+    "result": "adopted",
+    "reason": "sources.json の sm-17-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/2-1",
+    "result": "adopted",
+    "reason": "sources.json の sm-2-1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/11-3",
+    "result": "adopted",
+    "reason": "sources.json の sm-11-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/12-2",
+    "result": "adopted",
+    "reason": "sources.json の sm-12-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/2-2",
+    "result": "adopted",
+    "reason": "sources.json の sm-2-2",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/1-1",
+    "result": "adopted",
+    "reason": "sources.json の sm-1-1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/12-3",
+    "result": "adopted",
+    "reason": "sources.json の sm-12-3",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/17-1",
+    "result": "adopted",
+    "reason": "sources.json の sm-17-1",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon",
+    "result": "index",
+    "reason": "小説丸（小学館）連載「私の本」。2018〜2022年、全18回（各3〜4本に分割）。無料。作家に限らず著名人が「この本のおかげで今の私がある」を語る。今回は若松英輔・福岡伸一・岸田奈美・福徳秀介・滝沢カレン・和田靜香の6回分を読んだ。残りは candidate。",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/booktalk",
+    "result": "index",
+    "reason": "小説丸「本と私」。第27〜32回など（福田進一・尾崎浩司・小松美羽・水野仁輔・石黒浩・瀬川晶司。作家は少ない）。一覧のみ確認、記事は未読",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://ddnavi.com/n-book-watchers/",
+    "result": "index",
+    "reason": "ダ・ヴィンチWeb 新連載「n人のブックウォッチャー」（2026-08〜、月1回程度、無料）。永井玲衣・浅井音楽・世界（EXILE）・ナツイ・モモコグミカンパニー・加賀翔など。各回は1冊を「読む」形で書評に近い。一覧の12本を確認、未読。作家の割合は低い",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/3-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "白井聡",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/4-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "出口治明",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/5-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "今泉忠明",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/6-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "大澤真幸",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/7-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "水野学",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/8-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "池上彰",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/9-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "三浦瑠麗",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/13-1",
+    "result": "rejected",
+    "reason": "小説丸「私の本」vol.13。第1〜3回の本文を読んだが、取り上げた本は映画の原案『身分帳』（宣伝対象）が中心で、愛読書として特定できる本が無く不採用",
+    "person": "西川美和",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/14-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "杉田陽平",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/15-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "酒村ゆっけ、",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/16-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」。未読",
+    "person": "けんご＠小説紹介",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://shosetsu-maru.com/interviews/watashinohon/18-1",
+    "result": "candidate",
+    "reason": "小説丸「私の本」vol.18 森本萌乃（Chapters書店主。第1回は『アルケミスト』など。選書家として登録するかは未判断）",
+    "person": "森本萌乃",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://gendai.media/articles/-/45050",
+    "result": "rejected",
+    "reason": "robots.txt で ClaudeBot・anthropic-ai を Disallow:/。現代ビジネス『わが人生最高の10冊』（週刊現代、作家・著名人の10冊）は使えない。記事1本を誤って取得したが内容は使っていない",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://tree-novel.com/",
+    "result": "rejected",
+    "reason": "robots.txt で ClaudeBot・anthropic-ai を Disallow:/",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://www.bookbang.jp/serial/readinghistory",
+    "result": "rejected",
+    "reason": "Book Bang「こんな本を読んできた」は新刊の抜粋・紹介記事の連載で、作家が愛読書を挙げる企画ではない。「あの人の憧れの一冊」は4回（2024年頃）で本文が取れず、書評・新刊紹介が中心。サイト全体も書評の再掲が中心で不採用",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h1182",
+    "result": "rejected",
+    "reason": "文藝春秋PLUS「どんな未来になっても わたしのベスト3」（角田光代ほか）。有料会員限定で冒頭しか読めない",
+    "person": "角田光代",
+    "checkedAt": "2026-11-17"
+  },
+  {
+    "url": "https://books.bunshun.jp/category/outset",
+    "result": "rejected",
+    "reason": "文藝春秋BOOKS「作家の書き出し」は新刊のロングインタビューで、自著が中心。愛読書を挙げる企画ではない",
     "checkedAt": "2026-11-17"
   }
 ]

@@ -1,0 +1,806 @@
+{
+ "people": [
+  {
+   "id": "g01",
+   "name": "夏帆",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g02",
+   "name": "清水奈緒美",
+   "title": "スタイリスト",
+   "tags": []
+  },
+  {
+   "id": "g03",
+   "name": "井野将之",
+   "title": "〈ダブレット〉デザイナー",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "g04",
+   "name": "井之脇海",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g05",
+   "name": "吉開菜央",
+   "title": "映像作家、振付師、ダンサー",
+   "tags": []
+  },
+  {
+   "id": "g06",
+   "name": "近田まりこ",
+   "title": "スタイリスト",
+   "tags": []
+  },
+  {
+   "id": "g07",
+   "name": "高良健吾",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g08",
+   "name": "平野太呂",
+   "title": "写真家",
+   "tags": []
+  },
+  {
+   "id": "g09",
+   "name": "松田ゆう姫",
+   "title": "アーティスト",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g10",
+   "name": "鈴木みのり",
+   "title": "ライター",
+   "tags": []
+  },
+  {
+   "id": "g11",
+   "name": "落合宏理",
+   "title": "〈ファセッタズム〉デザイナー",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "g12",
+   "name": "佐久間宣行",
+   "title": "テレビ東京制作局・プロデューサー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g13",
+   "name": "DAICHI YAMAMOTO",
+   "title": "ラッパー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g14",
+   "name": "岡山天音",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g15",
+   "name": "仁村紗和",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g16",
+   "name": "秋元才加",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g17",
+   "name": "間部百合",
+   "title": "写真家",
+   "tags": []
+  },
+  {
+   "id": "g18",
+   "name": "ユザーン",
+   "title": "タブラ奏者",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g19",
+   "name": "白武ときお",
+   "title": "放送作家",
+   "tags": []
+  },
+  {
+   "id": "g20",
+   "name": "荒神明香",
+   "title": "現代アートチーム目［mé］ アーティスト",
+   "tags": []
+  },
+  {
+   "id": "g21",
+   "name": "南雲詩乃",
+   "title": "〈shinonagumo〉デザイナー",
+   "tags": [
+    "デザイナー"
+   ]
+  },
+  {
+   "id": "g22",
+   "name": "芋生悠",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "g23",
+   "name": "荒内佑",
+   "title": "ミュージシャン",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "h1",
+   "name": "KUSHIDA",
+   "title": "新日本プロレス所属 プロレスラー",
+   "tags": [
+    "スポーツ選手"
+   ]
+  },
+  {
+   "id": "h2",
+   "name": "松原汐織",
+   "title": "モデル、女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "h3",
+   "name": "藤森真一",
+   "title": "ロックバンド藍坊主",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "h4",
+   "name": "内村莉彩",
+   "title": "SUPER☆GiRLS",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "h5",
+   "name": "文月悠光",
+   "title": "詩人",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "h6",
+   "name": "橋本薫",
+   "title": "バンド Helsinki Lambda Club",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "h7",
+   "name": "佐藤千亜妃",
+   "title": "ミュージシャン（元きのこ帝国）",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ginza1",
+   "type": "article",
+   "media": "GINZA",
+   "title": "24人の愛読書「私のいちばん好きな本」vol.1",
+   "url": "https://ginzamag.com/categories/culture/212714",
+   "publishedAt": "2021-05-03"
+  },
+  {
+   "id": "ginza2",
+   "type": "article",
+   "media": "GINZA",
+   "title": "24人の愛読書「私のいちばん好きな本」vol.2",
+   "url": "https://ginzamag.com/categories/culture/212772",
+   "publishedAt": "2021-05-05"
+  },
+  {
+   "id": "ginza3",
+   "type": "article",
+   "media": "GINZA",
+   "title": "24人の愛読書「私のいちばん好きな本」vol.3",
+   "url": "https://ginzamag.com/categories/culture/213186",
+   "publishedAt": "2021-05-07"
+  },
+  {
+   "id": "ginza4",
+   "type": "article",
+   "media": "GINZA",
+   "title": "24人の愛読書「私のいちばん好きな本」vol.4",
+   "url": "https://ginzamag.com/categories/culture/213208",
+   "publishedAt": "2021-05-16"
+  },
+  {
+   "id": "ginza5",
+   "type": "article",
+   "media": "GINZA",
+   "title": "24人の愛読書「私のいちばん好きな本」vol.5",
+   "url": "https://ginzamag.com/categories/culture/213221",
+   "publishedAt": "2021-05-22"
+  },
+  {
+   "id": "ginza6",
+   "type": "article",
+   "media": "GINZA",
+   "title": "24人の愛読書「私のいちばん好きな本」vol.6",
+   "url": "https://ginzamag.com/categories/culture/213231",
+   "publishedAt": "2021-05-29"
+  },
+  {
+   "id": "hon5742",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ロサンゼルス遠征！機内に持ち込む4冊【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/5742",
+   "publishedAt": "2018-03-29"
+  },
+  {
+   "id": "hon6274",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "マンネリや退屈から脱したいと思ったときに読みたい3冊【松原汐織】",
+   "url": "https://honcierge.jp/articles/shelf_story/6274",
+   "publishedAt": "2018-06-27"
+  },
+  {
+   "id": "hon426",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ランチの前にパラパラと読む３冊",
+   "url": "https://honcierge.jp/articles/shelf_story/426",
+   "publishedAt": "2016-09-16"
+  },
+  {
+   "id": "hon7332",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "最終回：内村莉彩が最後におすすめする本",
+   "url": "https://honcierge.jp/articles/shelf_story/7332",
+   "publishedAt": "2019-01-25"
+  },
+  {
+   "id": "hon3678",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "がんじがらめになった心の呪いを解く本",
+   "url": "https://honcierge.jp/articles/shelf_story/3678",
+   "publishedAt": "2017-07-27"
+  },
+  {
+   "id": "hon3752",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "意外と堅くない？ 新書の世界",
+   "url": "https://honcierge.jp/articles/shelf_story/3752",
+   "publishedAt": "2017-07-28"
+  },
+  {
+   "id": "hon11470",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "佐藤千亜妃インタビュー・前編『リリカルな世界観』の原点／特集！あの人の本棚",
+   "url": "https://honcierge.jp/articles/shelf_story/11470",
+   "publishedAt": "2022-06-20"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "g01",
+   "sourceId": "ginza1",
+   "book": {
+    "title": "好きになった人",
+    "author": "梯久美子",
+    "publisher": "筑摩書房"
+   }
+  },
+  {
+   "personId": "g02",
+   "sourceId": "ginza1",
+   "book": {
+    "title": "仮縫",
+    "author": "有吉佐和子",
+    "publisher": "集英社"
+   }
+  },
+  {
+   "personId": "g03",
+   "sourceId": "ginza1",
+   "book": {
+    "title": "荒木飛呂彦の漫画術",
+    "author": "荒木飛呂彦",
+    "publisher": "集英社"
+   }
+  },
+  {
+   "personId": "g04",
+   "sourceId": "ginza1",
+   "book": {
+    "title": "旅をする木",
+    "author": "星野道夫",
+    "publisher": "文藝春秋"
+   }
+  },
+  {
+   "personId": "g05",
+   "sourceId": "ginza2",
+   "book": {
+    "title": "このあたりの人たち",
+    "author": "川上弘美",
+    "publisher": "文藝春秋"
+   }
+  },
+  {
+   "personId": "g06",
+   "sourceId": "ginza2",
+   "book": {
+    "title": "豊饒の海",
+    "author": "三島由紀夫",
+    "publisher": "新潮社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "g07",
+   "sourceId": "ginza2",
+   "book": {
+    "title": "火の誓い",
+    "author": "河井寛次郎",
+    "publisher": "講談社"
+   }
+  },
+  {
+   "personId": "g08",
+   "sourceId": "ginza2",
+   "book": {
+    "title": "アイヌ神謡集",
+    "author": "知里幸惠",
+    "publisher": "岩波書店"
+   }
+  },
+  {
+   "personId": "g09",
+   "sourceId": "ginza3",
+   "book": {
+    "title": "不道徳的倫理学講義",
+    "author": "古田徹也",
+    "subtitle": "人生にとって運とは何か",
+    "publisher": "筑摩書房"
+   }
+  },
+  {
+   "personId": "g10",
+   "sourceId": "ginza3",
+   "book": {
+    "title": "公園へ行かないか？火曜日に",
+    "author": "柴崎友香",
+    "publisher": "新潮社"
+   }
+  },
+  {
+   "personId": "g11",
+   "sourceId": "ginza3",
+   "book": {
+    "title": "聖なるズー",
+    "author": "濱野ちひろ",
+    "publisher": "集英社"
+   }
+  },
+  {
+   "personId": "g12",
+   "sourceId": "ginza3",
+   "book": {
+    "title": "フィフティ・ピープル",
+    "author": "チョン・セラン",
+    "publisher": "亜紀書房"
+   }
+  },
+  {
+   "personId": "g13",
+   "sourceId": "ginza4",
+   "book": {
+    "title": "LIFE SHIFT",
+    "author": "アンドリュー・スコット、リンダ・グラットン",
+    "subtitle": "100年時代の人生戦略",
+    "publisher": "東洋経済新報社"
+   }
+  },
+  {
+   "personId": "g14",
+   "sourceId": "ginza4",
+   "book": {
+    "title": "中国魅録",
+    "author": "香川照之",
+    "subtitle": "「鬼が来た!」撮影日記",
+    "publisher": "キネマ旬報社"
+   }
+  },
+  {
+   "personId": "g15",
+   "sourceId": "ginza4",
+   "book": {
+    "title": "欲望の植物誌",
+    "author": "マイケル・ポーラン",
+    "subtitle": "人をあやつる4つの植物",
+    "publisher": "八坂書房"
+   }
+  },
+  {
+   "personId": "g16",
+   "sourceId": "ginza4",
+   "book": {
+    "title": "愛するということ",
+    "author": "エーリッヒ・フロム",
+    "publisher": "紀伊國屋書店"
+   }
+  },
+  {
+   "personId": "g17",
+   "sourceId": "ginza5",
+   "book": {
+    "title": "ある協会",
+    "author": "ヴァージニア・ウルフ",
+    "publisher": "エトセトラブックス"
+   }
+  },
+  {
+   "personId": "g18",
+   "sourceId": "ginza5",
+   "book": {
+    "title": "ワセダ三畳青春記",
+    "author": "高野秀行",
+    "publisher": "集英社"
+   }
+  },
+  {
+   "personId": "g19",
+   "sourceId": "ginza5",
+   "book": {
+    "title": "いじわるな天使",
+    "author": "穂村弘",
+    "publisher": "アスペクト"
+   }
+  },
+  {
+   "personId": "g20",
+   "sourceId": "ginza5",
+   "book": {
+    "title": "自閉症の僕が跳びはねる理由",
+    "author": "東田直樹",
+    "subtitle": "会話のできない中学生がつづる内なる心",
+    "publisher": "エスコアール"
+   }
+  },
+  {
+   "personId": "g21",
+   "sourceId": "ginza6",
+   "book": {
+    "title": "シャルロット・ペリアン自伝",
+    "author": "シャルロット・ペリアン",
+    "publisher": "みすず書房"
+   }
+  },
+  {
+   "personId": "g22",
+   "sourceId": "ginza6",
+   "book": {
+    "title": "チョコレートコスモス",
+    "author": "恩田陸",
+    "publisher": "角川書店"
+   }
+  },
+  {
+   "personId": "g23",
+   "sourceId": "ginza6",
+   "book": {
+    "title": "映画は語る",
+    "author": "淀川長治、山田宏一",
+    "publisher": "中央公論新社"
+   }
+  },
+  {
+   "personId": "h1",
+   "sourceId": "hon5742",
+   "book": {
+    "title": "「とりあえず」は英語でなんと言う？",
+    "author": "ルーク・タニクリフ"
+   }
+  },
+  {
+   "personId": "h1",
+   "sourceId": "hon5742",
+   "book": {
+    "title": "「さすが！」は英語でなんと言う？",
+    "author": "ルーク・タニクリフ"
+   }
+  },
+  {
+   "personId": "h1",
+   "sourceId": "hon5742",
+   "book": {
+    "title": "借金2000万円を抱えた僕にドSの宇宙さんが教えてくれた超うまくいく口ぐせ",
+    "author": "小池浩"
+   }
+  },
+  {
+   "personId": "h1",
+   "sourceId": "hon5742",
+   "book": {
+    "title": "世界中で迷子になって",
+    "author": "角田光代"
+   }
+  },
+  {
+   "personId": "h2",
+   "sourceId": "hon6274",
+   "book": {
+    "title": "一九八四年",
+    "author": "ジョージ・オーウェル"
+   }
+  },
+  {
+   "personId": "h2",
+   "sourceId": "hon6274",
+   "book": {
+    "title": "大人の語彙力ノート",
+    "author": "齋藤孝"
+   }
+  },
+  {
+   "personId": "h2",
+   "sourceId": "hon6274",
+   "book": {
+    "title": "読書という荒野",
+    "author": "見城徹"
+   }
+  },
+  {
+   "personId": "h3",
+   "sourceId": "hon426",
+   "book": {
+    "title": "ありあまるごちそう",
+    "author": "エルヴィン・ヴァーゲンホーファー"
+   }
+  },
+  {
+   "personId": "h3",
+   "sourceId": "hon426",
+   "book": {
+    "title": "図解 次世代エネルギーの基本からカラクリまでわかる本",
+    "author": "漆原次郎"
+   }
+  },
+  {
+   "personId": "h3",
+   "sourceId": "hon426",
+   "book": {
+    "title": "67億人の水",
+    "author": "橋本淳司"
+   }
+  },
+  {
+   "personId": "h4",
+   "sourceId": "hon7332",
+   "book": {
+    "title": "侠飯",
+    "author": "福澤徹三"
+   }
+  },
+  {
+   "personId": "h4",
+   "sourceId": "hon7332",
+   "book": {
+    "title": "ちょっと今から仕事やめてくる",
+    "author": "北川恵海"
+   }
+  },
+  {
+   "personId": "h5",
+   "sourceId": "hon3678",
+   "book": {
+    "title": "大きらいなやつがいる君のためのリベンジマニュアル",
+    "author": "豊島ミホ"
+   }
+  },
+  {
+   "personId": "h5",
+   "sourceId": "hon3678",
+   "book": {
+    "title": "百合のリアル",
+    "author": "牧村朝子"
+   }
+  },
+  {
+   "personId": "h5",
+   "sourceId": "hon3678",
+   "book": {
+    "title": "果てしのない世界め",
+    "author": "少年アヤ"
+   }
+  },
+  {
+   "personId": "h6",
+   "sourceId": "hon3752",
+   "book": {
+    "title": "ゾウの時間 ネズミの時間",
+    "author": "本川達雄"
+   }
+  },
+  {
+   "personId": "h6",
+   "sourceId": "hon3752",
+   "book": {
+    "title": "たのしいプロパガンダ",
+    "author": "辻田真佐憲"
+   }
+  },
+  {
+   "personId": "h6",
+   "sourceId": "hon3752",
+   "book": {
+    "title": "聞く力",
+    "author": "阿川佐和子"
+   }
+  },
+  {
+   "personId": "h7",
+   "sourceId": "hon11470",
+   "book": {
+    "title": "クレヨン王国 月のたまご",
+    "author": "福永令三"
+   }
+  },
+  {
+   "personId": "h7",
+   "sourceId": "hon11470",
+   "book": {
+    "title": "ムーミン谷の十一月",
+    "author": "トーベ・ヤンソン"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://bunshun.jp/bungeishunju/articles/h5972",
+   "result": "rejected",
+   "reason": "文藝春秋PLUS「私の人生を決めた本」の記事。有料会員向けで、無料では冒頭（記事の半分以下）までしか読めない。特集の約20記事（h5899,h5929,h5937,h5940,h5943,h5945,h5958,h5962,h5963,h5965,h5967,h5969,h5970,h5972,h5975,h5978,h5979,h5993,h6009,h6011）も同様と判断。robots.txt は許可"
+  },
+  {
+   "url": "https://bunshun.jp/bungeishunju/feature/%E7%A7%81%E3%81%AE%E4%BA%BA%E7%94%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%81%9F%E6%9C%AC",
+   "result": "rejected",
+   "reason": "文藝春秋PLUS特集。各記事は有料会員向けで本文が全文読めないため対象外（2026-11-17確認）"
+  },
+  {
+   "url": "https://ginzamag.com/categories/culture/213208",
+   "result": "index",
+   "reason": "GINZA「24人の愛読書」vol.1-6の全24人を取り込み（本文は api.ginzamag.com/wp-json/wp/v2/posts?slug=24books-N の custom_fields.pages に入っている。vol.1=212714, 2=212772, 3=213186, 4=213208, 5=213221, 6=213231）"
+  },
+  {
+   "url": "https://www.bookscan.co.jp/interviewarticle/101/all",
+   "result": "rejected",
+   "reason": "BOOKSCAN 著者インタビュー（約597件）。自著・電子書籍化・読書習慣の話が中心で、本人が薦めた本が出る回は少ない（上野千鶴子の回は『人生を変えた一冊』への回答を断っている、出口治明の回は自分の古典リストの紹介、ピーター・フランクルの回は読んだ本の思い出と読み切れなかった本）。収穫が見込めず対象外。robots.txt は許可"
+  },
+  {
+   "url": "https://www.bookscan.co.jp/interviewlist",
+   "result": "index",
+   "reason": "BOOKSCAN 著者インタビュー一覧。/interviewarticle/1〜597。全件は未確認、587〜597と101,596,586を確認"
+  },
+  {
+   "url": "https://honcierge.jp/education/celebrities",
+   "result": "index",
+   "reason": "ホンシェルジュ「著名人」カテゴリ（一覧に約470記事、1ページで取得可）。多くが著名人本人の連載コラムで本人が本を選ぶ。連載の主な人物: 小塚舞子43記事、藤原努(元ホリプロ)40、岡山天音35(フィクション連載)、山本裕子34、わちゅ～＠(バンドThinking Dogs)34、石山蓮華24、つぶやきシロー24、山中志歩20、荒井沙織19、吉村卓也14、KUSHIDA13、結城洋平12、チョーヒカル12、西川あやの11、谷口つばさ(本好き芸人)10、松原汐織10、橋本淳9ほか。今回は8記事のみ取り込み。残りは連載ごとに1〜2記事見て採否を決める"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/351",
+   "result": "rejected",
+   "reason": "写真家・北沢美樹。紹介本が洋書の写真集と深瀬昌久『鴉』で、論考形式の書評。洋書は対象外"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/10079",
+   "result": "candidate",
+   "reason": "小塚舞子の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8608",
+   "result": "candidate",
+   "reason": "山本裕子の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8025",
+   "result": "candidate",
+   "reason": "わちゅ～＠の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8178",
+   "result": "candidate",
+   "reason": "石山蓮華の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7043",
+   "result": "candidate",
+   "reason": "つぶやきシローの連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/10190",
+   "result": "candidate",
+   "reason": "山中志歩の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/10096",
+   "result": "candidate",
+   "reason": "荒井沙織の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11702",
+   "result": "candidate",
+   "reason": "西川あやのの連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11651",
+   "result": "candidate",
+   "reason": "谷口つばさ（赤ノ宮翼）の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/12231",
+   "result": "rejected",
+   "reason": "藤原努（元ホリプロプロデューサー）の連載書評。書評・感想で薦める形ではないため保留（候補としては連載40記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/12216",
+   "result": "rejected",
+   "reason": "藤原努（元ホリプロプロデューサー）の連載書評。書評・感想で薦める形ではないため保留（候補としては連載40記事）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/12229",
+   "result": "rejected",
+   "reason": "岡山天音の連載はフィクションの短編。本の推薦ではない"
+  }
+ ]
+}

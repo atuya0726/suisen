@@ -1,0 +1,282 @@
+{
+  "people": [
+    {
+      "id": "nakajima",
+      "name": "中島佑気ジョセフ",
+      "title": "陸上選手（富士通所属）・男子400m日本記録保持者",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "himeno",
+      "name": "姫野和樹",
+      "title": "ラグビー選手（トヨタヴェルブリッツ）・元ラグビー日本代表キャプテン",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "shoji",
+      "name": "庄司浩平",
+      "title": "俳優・モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "hirao",
+      "name": "平尾知佳",
+      "title": "サッカー選手（アルビレックス新潟レディース、2020年当時）",
+      "tags": [
+        "スポーツ選手"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "nk1",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "中島佑気ジョセフ　暇つぶしで開いた一冊から読書人生が始まった",
+      "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800001/",
+      "publishedAt": "2026-09-14"
+    },
+    {
+      "id": "nk3",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "中島佑気ジョセフ　ロシア文学、歴史小説…世界を広げ、今の自分をつくる5冊",
+      "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800003/",
+      "publishedAt": "2026-09-24"
+    },
+    {
+      "id": "hm1",
+      "type": "interview",
+      "media": "web Sportiva",
+      "title": "読書家・姫野和樹のラグビー人生を変えた一冊　感銘を受けた「リーダーシップと、生き方を曲げない信念」",
+      "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2026/11/01/post_5/",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "id": "hm2",
+      "type": "interview",
+      "media": "web Sportiva",
+      "title": "姫野和樹「読書をしていなかったら、今の自分はない」　マルクスの『資本論』に関心を持ち、渋沢栄一の『論語と算盤』からも影響",
+      "url": "https://sportiva.shueisha.co.jp/clm/otherballgame/rugby/2026/11/01/post_6/",
+      "publishedAt": "2026-11-01"
+    },
+    {
+      "id": "sj1",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "俳優・庄司浩平　子ども時代から大人になるまで「読書を好きでいる」方法",
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900001/"
+    },
+    {
+      "id": "hr1",
+      "type": "interview",
+      "media": "JFA（日本サッカー協会）",
+      "title": "【私の好きな本】平尾知佳選手（アルビレックス新潟レディース）～知識をサッカーに生かすことが喜び～",
+      "url": "https://www.jfa.jp/grass_roots/sportsassistyou/my_favorite_book/news/00024884/",
+      "publishedAt": "2020-05-13"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "nakajima",
+      "sourceId": "nk1",
+      "book": {
+        "title": "ウサイン・ボルト自伝",
+        "author": "ウサイン・ボルト",
+        "publisher": "集英社インターナショナル"
+      },
+      "context": "人生を変えた一冊"
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nk1",
+      "book": {
+        "title": "ジョコビッチの生まれ変わる食事",
+        "author": "ノバク・ジョコビッチ",
+        "publisher": "扶桑社"
+      },
+      "context": "その他"
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nk3",
+      "book": {
+        "title": "アンナ・カレーニナ 上",
+        "author": "トルストイ",
+        "publisher": "新潮社",
+        "edition": "木村浩訳 新潮文庫"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nk3",
+      "book": {
+        "title": "グロリアソサエテ",
+        "author": "朝井まかて",
+        "publisher": "KADOKAWA"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nk3",
+      "book": {
+        "title": "李朝を巡る心",
+        "author": "李鳳來",
+        "publisher": "新潮社",
+        "edition": "工芸青花"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nk3",
+      "book": {
+        "title": "水源",
+        "author": "アイン・ランド",
+        "publisher": "ビジネス社",
+        "edition": "藤森かよこ訳"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nk3",
+      "book": {
+        "title": "アメリカ紀行",
+        "author": "千葉雅也",
+        "edition": "文藝文庫"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "himeno",
+      "sourceId": "hm1",
+      "book": {
+        "title": "海賊とよばれた男",
+        "author": "百田尚樹"
+      },
+      "context": "人生を変えた一冊"
+    },
+    {
+      "personId": "himeno",
+      "sourceId": "hm2",
+      "book": {
+        "title": "影法師",
+        "author": "百田尚樹"
+      }
+    },
+    {
+      "personId": "himeno",
+      "sourceId": "hm2",
+      "book": {
+        "title": "論語と算盤",
+        "author": "渋沢栄一"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "sj1",
+      "book": {
+        "title": "パン屋を襲う",
+        "author": "村上春樹",
+        "publisher": "新潮社"
+      },
+      "context": "その他"
+    },
+    {
+      "personId": "hirao",
+      "sourceId": "hr1",
+      "book": {
+        "title": "ニューエリート",
+        "author": "ピョートル・フェリークス・グジバチ",
+        "subtitle": "グーグル流・新しい価値を生み出し世界を変える人たち"
+      },
+      "context": "人生を変えた一冊"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/082800769/",
+      "result": "index",
+      "reason": "日経BOOKプラス「走る文学青年・中島佑気ジョセフの読書遍歴」全3回（2026-09-14〜24）、無料で全文閲覧可。第1・3回を読んだ"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800002/",
+      "result": "candidate",
+      "reason": "第2回（2026-09-17）。競技への影響が中心で、本は未抽出",
+      "person": "中島佑気ジョセフ"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/",
+      "result": "index",
+      "reason": "日経BOOKプラス「庄司浩平 食べるように本を読む」全4回、無料。第1回のみ読んだ"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900003/",
+      "result": "candidate",
+      "reason": "第3回。『DIE WITH ZERO』『ただ君に幸あらんことを』などに言及するが、薦めたとは読めず未採用。本文は2ページ構成で2ページ目は未読",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900004/",
+      "result": "candidate",
+      "reason": "第4回。冒頭のみ確認、本の言及なし",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/120900616/120900002/",
+      "result": "candidate",
+      "reason": "第2回。英語学習の教材が中心で本の推薦ではなさそう（未読）",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://sportiva.shueisha.co.jp/search_keyword/?SearchWord=%E3%82%A2%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%88%E3%81%A8%E8%AA%AD%E6%9B%B8&tag=1",
+      "result": "index",
+      "reason": "web Sportiva 不定期連載「アスリートと読書のいいつながり」（タグ #アスリートと読書）。2026-11-17 時点で姫野和樹の前編・後編の2本のみ。新しい回が出たら見る。無料・全4ページ構成（?page=2〜4）"
+    },
+    {
+      "url": "https://www.jfa.jp/grass_roots/sportsassistyou/my_favorite_book/",
+      "result": "index",
+      "reason": "JFA「私の好きな本」（2020年のコロナ禍企画）。前田大然・平尾知佳の2本だけで完結。無料。前田回は絵本『いないいないばあ』のみで、著者・版元が本文に無く単なる読み聞かせのため不採用"
+    },
+    {
+      "url": "https://www.jfa.jp/grass_roots/sportsassistyou/my_favorite_book/news/00024859/",
+      "result": "rejected",
+      "reason": "絵本『いないいないばあ』を娘に読み聞かせしているという話で、著者・版元が本文に無く、同名の本が複数あり1冊に決められない",
+      "person": "前田大然"
+    },
+    {
+      "url": "https://forbesjapan.com/series/list/ceo_book",
+      "result": "rejected",
+      "reason": "Forbes JAPAN「CEOがすすめる一冊」（CEO'S BOOKSHELF）全84回（2021-2024）。一覧で83回に「有料記事」アイコン。curl では本文が取れるが媒体が有料記事と表示しているため使わない（無料の1回のみ）。ユーザーの判断があれば再検討"
+    },
+    {
+      "url": "https://number.bunshun.jp/articles/-/845406",
+      "result": "rejected",
+      "reason": "Number Web 村田諒太「王者の本棚」。NumberWeb有料会員限定（冒頭のみ）"
+    },
+    {
+      "url": "https://bunshun.jp/bungeishunju/articles/h8737",
+      "result": "rejected",
+      "reason": "文藝春秋PLUS「達人の虎の巻 ～人生を変えた座右の書～」（電子版ORIGINAL、会員向け）。登場者も作家・学者・官僚が中心で対象の属性が少ない"
+    },
+    {
+      "url": "https://keiei.freee.co.jp/articles/i0100073/",
+      "result": "candidate",
+      "reason": "経営ハッカー「ベンチャーCFO36人に聞いた座右の書」（2019、無料・全文）。CFOが1冊ずつ。名前で検索される人は少ないので後回し"
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/12506680/",
+      "result": "unreachable",
+      "reason": "新刊JP「BUSINESS BOOK RUN」（2017、経営者の座右の書）。新刊JPのサイトは公開終了、livedoor の転載のみ。単発の転載で連載の一覧が取れない"
+    }
+  ]
+}

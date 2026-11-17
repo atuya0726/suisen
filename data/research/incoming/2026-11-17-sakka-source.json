@@ -1,0 +1,456 @@
+{
+  "people": [
+    {
+      "id": "wakamatsu",
+      "name": "若松英輔",
+      "title": "批評家・随筆家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "fukuoka",
+      "name": "福岡伸一",
+      "title": "生物学者。青山学院大学教授・ロックフェラー大学客員教授（2018年当時）",
+      "tags": [
+        "研究者",
+        "作家"
+      ],
+      "affiliation": "青山学院大学"
+    },
+    {
+      "id": "kishida",
+      "name": "岸田奈美",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "fukutoku",
+      "name": "福徳秀介",
+      "title": "お笑いコンビ「ジャルジャル」。小説家",
+      "tags": [
+        "芸能",
+        "作家"
+      ]
+    },
+    {
+      "id": "takizawa",
+      "name": "滝沢カレン",
+      "title": "モデル・タレント",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "wada",
+      "name": "和田靜香",
+      "title": "相撲・音楽ライター",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "sm-1-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第１回 若松英輔さん 01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/1-1",
+      "publishedAt": "2018-06-04"
+    },
+    {
+      "id": "sm-1-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第１回 若松英輔さん 02",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/1-2",
+      "publishedAt": "2018-06-05"
+    },
+    {
+      "id": "sm-1-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第１回 若松英輔さん 03",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/1-3",
+      "publishedAt": "2018-06-06"
+    },
+    {
+      "id": "sm-2-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第２回 福岡伸一さん 01",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/2-1",
+      "publishedAt": "2018-07-06"
+    },
+    {
+      "id": "sm-2-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "私の本 第２回 福岡伸一さん 02",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/2-2",
+      "publishedAt": "2018-07-09"
+    },
+    {
+      "id": "sm-12-2",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "岸田奈美さん 第２回 インタビュー連載「私の本」vol.12",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/12-2",
+      "publishedAt": "2020-12-17"
+    },
+    {
+      "id": "sm-12-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "岸田奈美さん 第３回 インタビュー連載「私の本」vol.12",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/12-3",
+      "publishedAt": "2020-12-18"
+    },
+    {
+      "id": "sm-11-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "福徳秀介さん（ジャルジャル）第３回 インタビュー連載「私の本」vol.11",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/11-3",
+      "publishedAt": "2020-11-28"
+    },
+    {
+      "id": "sm-10-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "滝沢カレンさん 第３回 インタビュー連載「私の本」vol.10",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/10-3",
+      "publishedAt": "2020-11-05"
+    },
+    {
+      "id": "sm-17-1",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "和田靜香さん インタビュー連載「私の本」vol.17 第１回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/17-1",
+      "publishedAt": "2022-01-27"
+    },
+    {
+      "id": "sm-17-3",
+      "type": "interview",
+      "media": "小説丸（小学館）",
+      "title": "和田靜香さん インタビュー連載「私の本」vol.17 第３回",
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/17-3",
+      "publishedAt": "2022-01-31"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "wakamatsu",
+      "sourceId": "sm-1-1",
+      "book": {
+        "title": "後世への最大遺物",
+        "author": "内村鑑三",
+        "edition": "岩波文庫"
+      },
+      "context": "人生を変えた一冊"
+    },
+    {
+      "personId": "wakamatsu",
+      "sourceId": "sm-1-2",
+      "book": {
+        "title": "生きがいについて",
+        "author": "神谷美恵子",
+        "isbn": "9784622081814"
+      }
+    },
+    {
+      "personId": "wakamatsu",
+      "sourceId": "sm-1-3",
+      "book": {
+        "title": "意識と本質",
+        "author": "井筒俊彦"
+      }
+    },
+    {
+      "personId": "fukuoka",
+      "sourceId": "sm-2-1",
+      "book": {
+        "title": "生命とは何か",
+        "author": "シュレーディンガー"
+      },
+      "context": "座右の書"
+    },
+    {
+      "personId": "fukuoka",
+      "sourceId": "sm-2-2",
+      "book": {
+        "title": "微生物の狩人 上",
+        "author": "ポール・ド・クライフ",
+        "isbn": "9784003392812"
+      }
+    },
+    {
+      "personId": "kishida",
+      "sourceId": "sm-12-2",
+      "book": {
+        "title": "わたしたちのトビアス",
+        "author": "セシリア・スベドベリ",
+        "subtitle": "障害者を理解する本",
+        "isbn": "9784036310203"
+      }
+    },
+    {
+      "personId": "kishida",
+      "sourceId": "sm-12-2",
+      "book": {
+        "title": "不思議の国のアリス",
+        "author": "ルイス・キャロル"
+      }
+    },
+    {
+      "personId": "kishida",
+      "sourceId": "sm-12-3",
+      "book": {
+        "title": "バッテリー",
+        "author": "あさのあつこ"
+      }
+    },
+    {
+      "personId": "fukutoku",
+      "sourceId": "sm-11-3",
+      "book": {
+        "title": "夜は短し歩けよ乙女",
+        "author": "森見登美彦"
+      }
+    },
+    {
+      "personId": "fukutoku",
+      "sourceId": "sm-11-3",
+      "book": {
+        "title": "鴨川ホルモー",
+        "author": "万城目学"
+      }
+    },
+    {
+      "personId": "takizawa",
+      "sourceId": "sm-10-3",
+      "book": {
+        "title": "霧のむこうのふしぎな町",
+        "author": "柏葉幸子",
+        "isbn": "9784061486683"
+      }
+    },
+    {
+      "personId": "takizawa",
+      "sourceId": "sm-10-3",
+      "book": {
+        "title": "アシュリー",
+        "author": "アシュリー・ヘギ",
+        "subtitle": "All About Ashley",
+        "isbn": "9784594051143"
+      }
+    },
+    {
+      "personId": "takizawa",
+      "sourceId": "sm-10-3",
+      "book": {
+        "title": "もものかんづめ",
+        "author": "さくらももこ"
+      }
+    },
+    {
+      "personId": "takizawa",
+      "sourceId": "sm-10-3",
+      "book": {
+        "title": "さるのこしかけ",
+        "author": "さくらももこ"
+      }
+    },
+    {
+      "personId": "takizawa",
+      "sourceId": "sm-10-3",
+      "book": {
+        "title": "生きがいの創造",
+        "author": "飯田史彦"
+      }
+    },
+    {
+      "personId": "wada",
+      "sourceId": "sm-17-1",
+      "book": {
+        "title": "民主主義とは何か",
+        "author": "宇野重規"
+      }
+    },
+    {
+      "personId": "wada",
+      "sourceId": "sm-17-1",
+      "book": {
+        "title": "オードリー・タンの思考",
+        "author": "近藤弥生子",
+        "subtitle": "IQよりも大切なこと"
+      }
+    },
+    {
+      "personId": "wada",
+      "sourceId": "sm-17-3",
+      "book": {
+        "title": "沢野ひとしの片手間仕事",
+        "author": "沢野ひとし"
+      },
+      "context": "座右の書"
+    },
+    {
+      "personId": "wada",
+      "sourceId": "sm-17-3",
+      "book": {
+        "title": "長田弘詩集",
+        "author": "長田弘"
+      }
+    },
+    {
+      "personId": "wada",
+      "sourceId": "sm-17-3",
+      "book": {
+        "title": "放浪記",
+        "author": "林芙美子"
+      }
+    },
+    {
+      "personId": "wada",
+      "sourceId": "sm-17-3",
+      "book": {
+        "title": "里山資本主義",
+        "author": "藻谷浩介",
+        "subtitle": "日本経済は「安心の原理」で動く"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon",
+      "result": "index",
+      "reason": "小説丸（小学館）連載「私の本」。2018〜2022年、全18回（各3〜4本に分割）。無料。作家に限らず著名人が「この本のおかげで今の私がある」を語る。今回は若松英輔・福岡伸一・岸田奈美・福徳秀介・滝沢カレン・和田靜香の6回分を読んだ。残りは candidate。",
+      "person": ""
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/booktalk",
+      "result": "index",
+      "reason": "小説丸「本と私」。第27〜32回など（福田進一・尾崎浩司・小松美羽・水野仁輔・石黒浩・瀬川晶司。作家は少ない）。一覧のみ確認、記事は未読",
+      "person": ""
+    },
+    {
+      "url": "https://ddnavi.com/n-book-watchers/",
+      "result": "index",
+      "reason": "ダ・ヴィンチWeb 新連載「n人のブックウォッチャー」（2026-08〜、月1回程度、無料）。永井玲衣・浅井音楽・世界（EXILE）・ナツイ・モモコグミカンパニー・加賀翔など。各回は1冊を「読む」形で書評に近い。一覧の12本を確認、未読。作家の割合は低い",
+      "person": ""
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/3-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "白井聡"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/4-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "出口治明"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/5-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "今泉忠明"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/6-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "大澤真幸"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/7-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "水野学"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/8-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "池上彰"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/9-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "三浦瑠麗"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/13-1",
+      "result": "rejected",
+      "reason": "小説丸「私の本」vol.13。第1〜3回の本文を読んだが、取り上げた本は映画の原案『身分帳』（宣伝対象）が中心で、愛読書として特定できる本が無く不採用",
+      "person": "西川美和"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/14-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "杉田陽平"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/15-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "酒村ゆっけ、"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/16-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」。未読",
+      "person": "けんご＠小説紹介"
+    },
+    {
+      "url": "https://shosetsu-maru.com/interviews/watashinohon/18-1",
+      "result": "candidate",
+      "reason": "小説丸「私の本」vol.18 森本萌乃（Chapters書店主。第1回は『アルケミスト』など。選書家として登録するかは未判断）",
+      "person": "森本萌乃"
+    },
+    {
+      "url": "https://gendai.media/articles/-/45050",
+      "result": "rejected",
+      "reason": "robots.txt で ClaudeBot・anthropic-ai を Disallow:/。現代ビジネス『わが人生最高の10冊』（週刊現代、作家・著名人の10冊）は使えない。記事1本を誤って取得したが内容は使っていない",
+      "person": ""
+    },
+    {
+      "url": "https://kadobun.jp/",
+      "result": "rejected",
+      "reason": "robots.txt が ClaudeBot・anthropic-ai に /feature/interview/ /feature/talks/ /feature/readings/ /special/ /reviews/ などを Disallow。作家が他社本を薦める企画の入口が塞がれており、自社本中心でもあるため不採用",
+      "person": ""
+    },
+    {
+      "url": "https://tree-novel.com/",
+      "result": "rejected",
+      "reason": "robots.txt で ClaudeBot・anthropic-ai を Disallow:/",
+      "person": ""
+    },
+    {
+      "url": "https://www.bookbang.jp/serial/readinghistory",
+      "result": "rejected",
+      "reason": "Book Bang「こんな本を読んできた」は新刊の抜粋・紹介記事の連載で、作家が愛読書を挙げる企画ではない。「あの人の憧れの一冊」は4回（2024年頃）で本文が取れず、書評・新刊紹介が中心。サイト全体も書評の再掲が中心で不採用",
+      "person": ""
+    },
+    {
+      "url": "https://bunshun.jp/bungeishunju/articles/h1182",
+      "result": "rejected",
+      "reason": "文藝春秋PLUS「どんな未来になっても わたしのベスト3」（角田光代ほか）。有料会員限定で冒頭しか読めない",
+      "person": "角田光代"
+    },
+    {
+      "url": "https://books.bunshun.jp/category/outset",
+      "result": "rejected",
+      "reason": "文藝春秋BOOKS「作家の書き出し」は新刊のロングインタビューで、自著が中心。愛読書を挙げる企画ではない",
+      "person": ""
+    }
+  ]
+}
