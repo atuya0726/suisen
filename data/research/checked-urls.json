@@ -16080,10 +16080,10 @@
   },
   {
     "url": "https://www.bookbang.jp/review/article/513162",
-    "result": "candidate",
-    "reason": "吉本ばなな『イヤシノウタ』刊行インタビュー。忌野清志郎『十年ゴム消し』が好きとの発言あり、未読",
+    "result": "adopted",
+    "reason": "sources.json の src-bookbang-banana-2016",
     "person": "吉本ばなな",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-19"
   },
   {
     "url": "https://ddnavi.com/article/d1209647/a/",
@@ -16340,10 +16340,10 @@
   },
   {
     "url": "https://oggi.jp/137463",
-    "result": "candidate",
-    "reason": "ヤマザキマリのインタビュー（手塚治虫・藤子不二雄を読み返すと発言。本文未確認）",
+    "result": "adopted",
+    "reason": "sources.json の oggi-yamazaki",
     "person": "ヤマザキマリ",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-19"
   },
   {
     "url": "https://baila.hpplus.jp/lifestyle/entertainment/46800",
@@ -17497,10 +17497,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/537",
-    "result": "candidate",
-    "reason": "橋本淳（俳優）の選書コラム。未開封（同連載 2641,3828,4217,4938,5529,5659,5782,6136 など）",
+    "result": "adopted",
+    "reason": "sources.json の hc-537",
     "person": "橋本淳",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-19"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/3968",
@@ -17518,10 +17518,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7984",
-    "result": "candidate",
-    "reason": "山中志歩（女優）。本の紹介記事 7984,8023,8065,8117,8177,8356 は未開封",
+    "result": "adopted",
+    "reason": "sources.json の hc-7984",
     "person": "山中志歩",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-19"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11490",
@@ -17532,10 +17532,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11751",
-    "result": "candidate",
-    "reason": "三田紀房（マンガ家）インタビュー。本の話が出るか未確認（11803,11804）",
+    "result": "adopted",
+    "reason": "sources.json の hc-11751",
     "person": "三田紀房",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-19"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11838",
@@ -17752,5 +17752,151 @@
     "reason": "プロフィールのみで推薦本なし",
     "person": "稲盛和夫",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1004558/a/",
+    "result": "adopted",
+    "reason": "sources.json の src-ddnavi-nikaido-2022",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/09/post-858448.html",
+    "result": "adopted",
+    "reason": "sources.json の src-rs-kamishiraishi-2021",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3828",
+    "result": "adopted",
+    "reason": "sources.json の hc-3828",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8023",
+    "result": "adopted",
+    "reason": "sources.json の hc-8023",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5529",
+    "result": "adopted",
+    "reason": "sources.json の hc-5529",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8065",
+    "result": "adopted",
+    "reason": "sources.json の hc-8065",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8117",
+    "result": "adopted",
+    "reason": "sources.json の hc-8117",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4217",
+    "result": "adopted",
+    "reason": "sources.json の hc-4217",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5659",
+    "result": "adopted",
+    "reason": "sources.json の hc-5659",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2641",
+    "result": "adopted",
+    "reason": "sources.json の hc-2641",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5782",
+    "result": "adopted",
+    "reason": "sources.json の hc-5782",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6136",
+    "result": "adopted",
+    "reason": "sources.json の hc-6136",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8177",
+    "result": "adopted",
+    "reason": "sources.json の hc-8177",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4938",
+    "result": "adopted",
+    "reason": "sources.json の hc-4938",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8356",
+    "result": "adopted",
+    "reason": "sources.json の hc-8356",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11803",
+    "result": "rejected",
+    "reason": "インタビュー後編・中編。創作の方法の話で、本人が好き・薦めると語った本はない（前編のみ採用）",
+    "person": "三田紀房",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11804",
+    "result": "rejected",
+    "reason": "インタビュー後編・中編。創作の方法の話で、本人が好き・薦めると語った本はない（前編のみ採用）",
+    "person": "三田紀房",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11839",
+    "result": "rejected",
+    "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+    "person": "今泉力哉",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11840",
+    "result": "rejected",
+    "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+    "person": "今泉力哉",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11841",
+    "result": "rejected",
+    "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+    "person": "今泉力哉",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11805",
+    "result": "rejected",
+    "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+    "person": "菅野祐悟",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11809",
+    "result": "rejected",
+    "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+    "person": "菅野祐悟",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11810",
+    "result": "rejected",
+    "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+    "person": "菅野祐悟",
+    "checkedAt": "2026-11-19"
   }
 ]

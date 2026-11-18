@@ -1,0 +1,677 @@
+{
+ "people": [
+  {
+   "id": "hashimoto-jun",
+   "name": "橋本淳",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yamanaka-shiho",
+   "name": "山中志歩",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "mita-norifusa",
+   "name": "三田紀房",
+   "title": "マンガ家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "hc-537",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "俳優・橋本淳が選ぶ「気づけば手の中に収まっていた」おすすめの本",
+   "url": "https://honcierge.jp/articles/shelf_story/537",
+   "publishedAt": "2016-11-04"
+  },
+  {
+   "id": "hc-2641",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "人生の視野が左右1度ずつ広くなる本【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/2641",
+   "publishedAt": "2017-05-05"
+  },
+  {
+   "id": "hc-3828",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "英語習得を、今度こそあきらめない3冊【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/3828",
+   "publishedAt": "2017-08-04"
+  },
+  {
+   "id": "hc-4217",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "女性作家ならではの視点が光る本3冊【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/4217",
+   "publishedAt": "2017-09-06"
+  },
+  {
+   "id": "hc-4938",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "それぞれの人間が抱えるモノ【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/4938",
+   "publishedAt": "2017-11-07"
+  },
+  {
+   "id": "hc-5529",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「水と家族」をテーマにした3冊【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/5529",
+   "publishedAt": "2018-02-05"
+  },
+  {
+   "id": "hc-5659",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「本物とは何か」を追い求める本【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/5659",
+   "publishedAt": "2018-03-07"
+  },
+  {
+   "id": "hc-5782",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "魚喃キリコ特集〜目の奥で涙が流れる〜【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/5782",
+   "publishedAt": "2018-04-06"
+  },
+  {
+   "id": "hc-6136",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "夢の話【橋本淳】",
+   "url": "https://honcierge.jp/articles/shelf_story/6136",
+   "publishedAt": "2018-06-07"
+  },
+  {
+   "id": "hc-7984",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "女優・青柳いづみの正体とは？　個性派女優・山中志歩が読んだ『いづみさん』",
+   "url": "https://honcierge.jp/articles/shelf_story/7984",
+   "publishedAt": "2019-07-04"
+  },
+  {
+   "id": "hc-8023",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "60年代の原風景が広がる『長嶋少年』、山中志歩のおすすめポイント",
+   "url": "https://honcierge.jp/articles/shelf_story/8023",
+   "publishedAt": "2019-07-18"
+  },
+  {
+   "id": "hc-8065",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山中志歩がおすすめする「面白い演劇」がよくわかる青春小説",
+   "url": "https://honcierge.jp/articles/shelf_story/8065",
+   "publishedAt": "2019-08-03"
+  },
+  {
+   "id": "hc-8117",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山中志歩が選んだ「寂しい」の理由が分かる漫画",
+   "url": "https://honcierge.jp/articles/shelf_story/8117",
+   "publishedAt": "2019-08-24"
+  },
+  {
+   "id": "hc-8177",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山中志歩が元気づけられた小説『ひと呼んでミツコ』",
+   "url": "https://honcierge.jp/articles/shelf_story/8177",
+   "publishedAt": "2019-09-05"
+  },
+  {
+   "id": "hc-8356",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「墓場、女子高生」に出演する山中志歩が選ぶ「良い案が浮かびそうな」一冊",
+   "url": "https://honcierge.jp/articles/shelf_story/8356",
+   "publishedAt": "2019-10-09"
+  },
+  {
+   "id": "hc-11751",
+   "type": "interview",
+   "media": "ホンシェルジュ",
+   "title": "売れるマンガはパターンでつくれる （マンガ家・三田紀房インタビュー）【前編】",
+   "url": "https://honcierge.jp/articles/shelf_story/11751",
+   "publishedAt": "2023-10-13"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-537",
+   "book": {
+    "title": "色彩を持たない多崎つくると、彼の巡礼の年",
+    "subtitle": "",
+    "author": "村上 春樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-537",
+   "book": {
+    "title": "MAJOR",
+    "subtitle": "",
+    "author": "満田 拓也",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-2641",
+   "book": {
+    "title": "白いページ",
+    "subtitle": "開高健エッセイ選集",
+    "author": "開高 健",
+    "publisher": "",
+    "isbn": "",
+    "edition": "光文社文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-2641",
+   "book": {
+    "title": "天に遊ぶ",
+    "subtitle": "",
+    "author": "吉村 昭",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-2641",
+   "book": {
+    "title": "あおなり道場始末",
+    "subtitle": "",
+    "author": "葉室 麟",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-3828",
+   "book": {
+    "title": "一億人の英文法",
+    "subtitle": "すべての日本人に贈る「話すため」の英文法",
+    "author": "大西 泰斗、ポール・マクベイ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "東進ブックス"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-3828",
+   "book": {
+    "title": "何でも英語で言ってみる!シンプル英語フレーズ2000",
+    "subtitle": "",
+    "author": "光藤 京子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "CD2枚付"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-3828",
+   "book": {
+    "title": "究極の英単語",
+    "subtitle": "SVL Vol.1 初級の3000語",
+    "author": "アルク英語出版編集部、阿川 イチロヲ、小石 裕子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-4217",
+   "book": {
+    "title": "今日のハチミツ、あしたの私",
+    "subtitle": "",
+    "author": "寺地 はるな",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-4217",
+   "book": {
+    "title": "ニュータウンクロニクル",
+    "subtitle": "",
+    "author": "中澤 日菜子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-4217",
+   "book": {
+    "title": "まく子",
+    "subtitle": "",
+    "author": "西 加奈子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "福音館の単行本"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-4938",
+   "book": {
+    "title": "孤狼の血",
+    "subtitle": "",
+    "author": "柚月 裕子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "角川文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-4938",
+   "book": {
+    "title": "動機",
+    "subtitle": "",
+    "author": "横山 秀夫",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-4938",
+   "book": {
+    "title": "みちづれはいても、ひとり",
+    "subtitle": "",
+    "author": "寺地 はるな",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5529",
+   "book": {
+    "title": "何もかも憂鬱な夜に",
+    "subtitle": "",
+    "author": "中村 文則",
+    "publisher": "",
+    "isbn": "",
+    "edition": "集英社文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5529",
+   "book": {
+    "title": "水声",
+    "subtitle": "",
+    "author": "川上 弘美",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5529",
+   "book": {
+    "title": "架空の犬と嘘をつく猫",
+    "subtitle": "",
+    "author": "寺地 はるな",
+    "publisher": "",
+    "isbn": "",
+    "edition": "単行本"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5659",
+   "book": {
+    "title": "壁",
+    "subtitle": "",
+    "author": "安部 公房",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5659",
+   "book": {
+    "title": "女たちよ！",
+    "subtitle": "",
+    "author": "伊丹 十三",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5659",
+   "book": {
+    "title": "あなたの明かりが消えること",
+    "subtitle": "",
+    "author": "柴崎 竜人",
+    "publisher": "",
+    "isbn": "",
+    "edition": "小学館文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5782",
+   "book": {
+    "title": "南瓜とマヨネーズ",
+    "subtitle": "",
+    "author": "魚喃 キリコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5782",
+   "book": {
+    "title": "Blue",
+    "subtitle": "",
+    "author": "魚喃 キリコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "Mag comics"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-5782",
+   "book": {
+    "title": "痛々しいラヴ",
+    "subtitle": "",
+    "author": "魚喃 キリコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "Mag comics"
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-6136",
+   "book": {
+    "title": "Team383",
+    "subtitle": "",
+    "author": "中澤 日菜子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "hashimoto-jun",
+   "sourceId": "hc-6136",
+   "book": {
+    "title": "きみは白鳥の死体を踏んだことがあるか（下駄で）",
+    "subtitle": "",
+    "author": "宮藤 官九郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "yamanaka-shiho",
+   "sourceId": "hc-7984",
+   "book": {
+    "title": "いづみさん",
+    "subtitle": "",
+    "author": "今日 マチ子、青柳 いづみ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "単行本"
+   },
+   "note": ""
+  },
+  {
+   "personId": "yamanaka-shiho",
+   "sourceId": "hc-8023",
+   "book": {
+    "title": "長嶋少年",
+    "subtitle": "",
+    "author": "ねじめ 正一",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "yamanaka-shiho",
+   "sourceId": "hc-8065",
+   "book": {
+    "title": "濡れた太陽 上",
+    "subtitle": "高校演劇の話",
+    "author": "前田 司郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "yamanaka-shiho",
+   "sourceId": "hc-8117",
+   "book": {
+    "title": "棒がいっぽん",
+    "subtitle": "",
+    "author": "高野 文子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "yamanaka-shiho",
+   "sourceId": "hc-8177",
+   "book": {
+    "title": "ひと呼んでミツコ",
+    "subtitle": "",
+    "author": "姫野 カオルコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "集英社文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "yamanaka-shiho",
+   "sourceId": "hc-8356",
+   "book": {
+    "title": "まさかジープで来るとは",
+    "subtitle": "",
+    "author": "せきしろ、又吉 直樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "幻冬舎文庫"
+   },
+   "note": ""
+  },
+  {
+   "personId": "mita-norifusa",
+   "sourceId": "hc-11751",
+   "book": {
+    "title": "こゝろ",
+    "subtitle": "",
+    "author": "夏目 漱石",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "mita-norifusa",
+   "sourceId": "hc-11751",
+   "book": {
+    "title": "高校生日記",
+    "subtitle": "",
+    "author": "加藤 諦三",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  },
+  {
+   "personId": "mita-norifusa",
+   "sourceId": "hc-11751",
+   "book": {
+    "title": "のたり松太郎",
+    "subtitle": "",
+    "author": "ちば てつや",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "note": ""
+  },
+  {
+   "personId": "mita-norifusa",
+   "sourceId": "hc-11751",
+   "book": {
+    "title": "蛍三七子",
+    "subtitle": "",
+    "author": "ちば てつや",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "note": ""
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11803",
+   "result": "rejected",
+   "reason": "インタビュー後編・中編。創作の方法の話で、本人が好き・薦めると語った本はない（前編のみ採用）",
+   "person": "三田紀房"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11804",
+   "result": "rejected",
+   "reason": "インタビュー後編・中編。創作の方法の話で、本人が好き・薦めると語った本はない（前編のみ採用）",
+   "person": "三田紀房"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11838",
+   "result": "rejected",
+   "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+   "person": "今泉力哉"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11839",
+   "result": "rejected",
+   "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+   "person": "今泉力哉"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11840",
+   "result": "rejected",
+   "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+   "person": "今泉力哉"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11841",
+   "result": "rejected",
+   "reason": "制作手法・キャリアの話。本人が好き・薦めると語った本はない（登場するのは自作の原作・自作映画のみ）",
+   "person": "今泉力哉"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11797",
+   "result": "rejected",
+   "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+   "person": "菅野祐悟"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11805",
+   "result": "rejected",
+   "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+   "person": "菅野祐悟"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11809",
+   "result": "rejected",
+   "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+   "person": "菅野祐悟"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11810",
+   "result": "rejected",
+   "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
+   "person": "菅野祐悟"
+  }
+ ]
+}

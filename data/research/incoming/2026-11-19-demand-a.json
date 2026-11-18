@@ -1,0 +1,166 @@
+{
+  "people": [
+    {
+      "id": "kamishiraishi-mone",
+      "name": "上白石萌音",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "yoshimoto-banana",
+      "name": "吉本ばなな",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "nikaido-fumi",
+      "name": "二階堂ふみ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-rs-kamishiraishi-2021",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "上白石萌音が語る本への愛情、そして初の著作へのこだわり 「私の趣味趣向が随所に表れた本になった」",
+      "url": "https://realsound.jp/book/2021/09/post-858448.html",
+      "publishedAt": "2021-09-18"
+    },
+    {
+      "id": "src-bookbang-banana-2016",
+      "type": "interview",
+      "media": "Book Bang",
+      "title": "吉本ばなな・インタビュー　新たなスタートという気持ち【『イヤシノウタ』刊行記念】",
+      "url": "https://www.bookbang.jp/review/article/513162",
+      "publishedAt": "2016-04-27"
+    },
+    {
+      "id": "src-ddnavi-nikaido-2022",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "二階堂ふみさんが選んだ1冊は？「日常に隠れているものを見つけられる大人になりたい」",
+      "url": "https://ddnavi.com/article/d1004558/a/",
+      "publishedAt": "2022-07-09"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "kamishiraishi-mone",
+      "sourceId": "src-rs-kamishiraishi-2021",
+      "book": {
+        "title": "リボルバー",
+        "author": "原田マハ"
+      },
+      "context": "最近読んだ"
+    },
+    {
+      "personId": "kamishiraishi-mone",
+      "sourceId": "src-rs-kamishiraishi-2021",
+      "book": {
+        "title": "チルドレン",
+        "author": "伊坂幸太郎"
+      },
+      "context": "その他"
+    },
+    {
+      "personId": "kamishiraishi-mone",
+      "sourceId": "src-rs-kamishiraishi-2021",
+      "book": {
+        "title": "砂漠",
+        "author": "伊坂幸太郎"
+      },
+      "context": "その他"
+    },
+    {
+      "personId": "yoshimoto-banana",
+      "sourceId": "src-bookbang-banana-2016",
+      "book": {
+        "title": "十年ゴム消し",
+        "author": "忌野清志郎",
+        "publisher": "河出書房新社"
+      },
+      "context": "その他"
+    },
+    {
+      "personId": "nikaido-fumi",
+      "sourceId": "src-ddnavi-nikaido-2022",
+      "book": {
+        "title": "父の縁側、私の書斎",
+        "author": "檀ふみ",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      },
+      "context": "その他"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.jprime.jp/articles/-/38341",
+      "result": "rejected",
+      "reason": "あさイチ2024-09-10放送の報道だが本文に具体的な書名がない",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/76497",
+      "result": "rejected",
+      "reason": "元記事 /articles/-/76497 を確認。経歴紹介で、本を薦める発言なし（赤毛のアン原書は洋書）",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://realsound.jp/book/2021/03/post-717588.html",
+      "result": "rejected",
+      "reason": "1・2ページとも自著『歴史のじかん』の話のみで、他の本を薦める発言なし",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://www.kanaloco.jp/news/life/article-1228175.html",
+      "result": "rejected",
+      "reason": "robots.txt（ClaudeBot・anthropic-ai を拒否）",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://eclat.hpplus.jp/article/133443",
+      "result": "unreachable",
+      "reason": "ボット対策のクライアントチャレンジ（JavaScript必須）で本文を取得できず",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://kompass.cinra.net/article/202309-koizumikyoko_ysdmscl",
+      "result": "rejected",
+      "reason": "本文は旅の話と自身の書籍化の紹介のみで、本を薦める発言なし（Spotify提供のスポンサード記事）",
+      "person": "小泉今日子"
+    },
+    {
+      "url": "https://ddnavi.com/article/d1209647/a/",
+      "result": "rejected",
+      "reason": "筒井康隆の自著『誰にもわかるハイデガー』の書評。ハイデガー『存在と時間』の影響は書評者の地の文で本人の発言ではない",
+      "person": "筒井康隆"
+    },
+    {
+      "url": "https://realsound.jp/book/2024/08/post-1760910_2.html",
+      "result": "rejected",
+      "reason": "1・2ページとも自身の訳書『宇治拾遺物語』の話。『金閣寺』は例示のみで薦める発言なし",
+      "person": "町田康"
+    },
+    {
+      "url": "https://ddnavi.com/person_tag/%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%81%B5%E3%81%BF/past/",
+      "result": "index",
+      "reason": "タグ一覧。「あの人と本の話」2022-07 の記事 d1004558 を採用",
+      "person": "二階堂ふみ"
+    },
+    {
+      "url": "https://www.cinematoday.jp/interview/A0006949",
+      "result": "rejected",
+      "reason": "映画『生理ちゃん』の宣伝インタビューで、薦める本の発言なし（原作は出演作の原作）",
+      "person": "二階堂ふみ"
+    }
+  ]
+}

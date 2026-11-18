@@ -14662,5 +14662,165 @@
     "title": "内田真礼 老後に想いを馳せるエッセイ。年上の女性が描く「人生の可能性」を楽しむ【私の愛読書】",
     "url": "https://ddnavi.com/article/d1096750/a/",
     "publishedAt": "2023-03-09"
+  },
+  {
+    "id": "src-ddnavi-nikaido-2022",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "二階堂ふみさんが選んだ1冊は？「日常に隠れているものを見つけられる大人になりたい」",
+    "url": "https://ddnavi.com/article/d1004558/a/",
+    "publishedAt": "2022-07-09"
+  },
+  {
+    "id": "src-bookbang-banana-2016",
+    "type": "interview",
+    "media": "Book Bang",
+    "title": "吉本ばなな・インタビュー　新たなスタートという気持ち【『イヤシノウタ』刊行記念】",
+    "url": "https://www.bookbang.jp/review/article/513162",
+    "publishedAt": "2016-04-27"
+  },
+  {
+    "id": "src-rs-kamishiraishi-2021",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "上白石萌音が語る本への愛情、そして初の著作へのこだわり 「私の趣味趣向が随所に表れた本になった」",
+    "url": "https://realsound.jp/book/2021/09/post-858448.html",
+    "publishedAt": "2021-09-18"
+  },
+  {
+    "id": "oggi-yamazaki",
+    "type": "interview",
+    "media": "Oggi.jp",
+    "title": "【ヤマザキマリ】インタビュー｜先が読めない今の時代だからこそ、教養が必要なんです",
+    "url": "https://oggi.jp/137463",
+    "publishedAt": "2018-11-15"
+  },
+  {
+    "id": "hc-7984",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "女優・青柳いづみの正体とは？　個性派女優・山中志歩が読んだ『いづみさん』",
+    "url": "https://honcierge.jp/articles/shelf_story/7984",
+    "publishedAt": "2019-07-04"
+  },
+  {
+    "id": "hc-3828",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "英語習得を、今度こそあきらめない3冊【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/3828",
+    "publishedAt": "2017-08-04"
+  },
+  {
+    "id": "hc-8023",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "60年代の原風景が広がる『長嶋少年』、山中志歩のおすすめポイント",
+    "url": "https://honcierge.jp/articles/shelf_story/8023",
+    "publishedAt": "2019-07-18"
+  },
+  {
+    "id": "hc-5529",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "「水と家族」をテーマにした3冊【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/5529",
+    "publishedAt": "2018-02-05"
+  },
+  {
+    "id": "hc-8065",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "山中志歩がおすすめする「面白い演劇」がよくわかる青春小説",
+    "url": "https://honcierge.jp/articles/shelf_story/8065",
+    "publishedAt": "2019-08-03"
+  },
+  {
+    "id": "hc-8117",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "山中志歩が選んだ「寂しい」の理由が分かる漫画",
+    "url": "https://honcierge.jp/articles/shelf_story/8117",
+    "publishedAt": "2019-08-24"
+  },
+  {
+    "id": "hc-11751",
+    "type": "interview",
+    "media": "ホンシェルジュ",
+    "title": "売れるマンガはパターンでつくれる （マンガ家・三田紀房インタビュー）【前編】",
+    "url": "https://honcierge.jp/articles/shelf_story/11751",
+    "publishedAt": "2023-10-13"
+  },
+  {
+    "id": "hc-4217",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "女性作家ならではの視点が光る本3冊【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/4217",
+    "publishedAt": "2017-09-06"
+  },
+  {
+    "id": "hc-5659",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "「本物とは何か」を追い求める本【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/5659",
+    "publishedAt": "2018-03-07"
+  },
+  {
+    "id": "hc-2641",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "人生の視野が左右1度ずつ広くなる本【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/2641",
+    "publishedAt": "2017-05-05"
+  },
+  {
+    "id": "hc-5782",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "魚喃キリコ特集〜目の奥で涙が流れる〜【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/5782",
+    "publishedAt": "2018-04-06"
+  },
+  {
+    "id": "hc-6136",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "夢の話【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/6136",
+    "publishedAt": "2018-06-07"
+  },
+  {
+    "id": "hc-8177",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "山中志歩が元気づけられた小説『ひと呼んでミツコ』",
+    "url": "https://honcierge.jp/articles/shelf_story/8177",
+    "publishedAt": "2019-09-05"
+  },
+  {
+    "id": "hc-4938",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "それぞれの人間が抱えるモノ【橋本淳】",
+    "url": "https://honcierge.jp/articles/shelf_story/4938",
+    "publishedAt": "2017-11-07"
+  },
+  {
+    "id": "hc-8356",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "「墓場、女子高生」に出演する山中志歩が選ぶ「良い案が浮かびそうな」一冊",
+    "url": "https://honcierge.jp/articles/shelf_story/8356",
+    "publishedAt": "2019-10-09"
+  },
+  {
+    "id": "hc-537",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "俳優・橋本淳が選ぶ「気づけば手の中に収まっていた」おすすめの本",
+    "url": "https://honcierge.jp/articles/shelf_story/537",
+    "publishedAt": "2016-11-04"
   }
 ]

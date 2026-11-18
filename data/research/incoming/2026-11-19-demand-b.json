@@ -1,0 +1,135 @@
+{
+  "people": [
+    {
+      "id": "yamazaki-mari",
+      "name": "ヤマザキマリ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "oggi-yamazaki",
+      "type": "interview",
+      "media": "Oggi.jp",
+      "title": "【ヤマザキマリ】インタビュー｜先が読めない今の時代だからこそ、教養が必要なんです",
+      "url": "https://oggi.jp/137463",
+      "publishedAt": "2018-11-15"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "yamazaki-mari",
+      "sourceId": "oggi-yamazaki",
+      "book": {
+        "title": "るきさん",
+        "author": "高野文子",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "yamazaki-mari",
+      "sourceId": "oggi-yamazaki",
+      "book": {
+        "title": "21エモン",
+        "author": "藤子・F・不二雄",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://bunshun.jp/articles/-/85",
+      "result": "rejected",
+      "reason": "星野智幸（作家）の著者インタビュー（2015）。星野源の記事ではなく、本人が本を薦める内容もない",
+      "person": "星野源"
+    },
+    {
+      "url": "https://ginzamag.com/interview/genhoshino",
+      "result": "rejected",
+      "reason": "API本文を確認。映画『引っ越し大名！』とリーダー論の話のみで、本を薦める発言なし",
+      "person": "星野源"
+    },
+    {
+      "url": "https://press.moviewalker.jp/news/article/58499/",
+      "result": "rejected",
+      "reason": "Part2。影響を受けたのは映画・好きな作品も映画のみ。Part1（58498）・Part3（58500）にも本の質問なし",
+      "person": "杉咲花"
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/64784",
+      "result": "unreachable",
+      "reason": "404（ページが見つかりません）",
+      "person": "藤井聡太"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/05/post-2025050.html",
+      "result": "rejected",
+      "reason": "ライターのコラム。鈴木敏夫が『NHK 心おどる あの人の本棚』第5回で挙げた本に『陽のあたる坂道』が含まれるという地の文のみで、放送日が特定できず本人の発言の引用も薄い",
+      "person": "鈴木敏夫"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/2611",
+      "result": "rejected",
+      "reason": "堀江貴文の自著の紹介記事（ライターの文）。本人が薦める他人の本の発言なし",
+      "person": "堀江貴文"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/11609",
+      "result": "rejected",
+      "reason": "芸能プロデューサーが椎名林檎について書いたコラム。椎名林檎本人の選書ではない",
+      "person": "椎名林檎"
+    },
+    {
+      "url": "https://www.jprime.jp/articles/-/13460",
+      "result": "rejected",
+      "reason": "自著『ナナメの夕暮れ』の宣伝インタビュー（全3ページ確認）。他の本を薦める発言なし",
+      "person": "若林正恭"
+    },
+    {
+      "url": "https://realsound.jp/book/2020/04/post-542123.html",
+      "result": "rejected",
+      "reason": "ライター（タカモトアキ）が自分の所有本から選んだ記事で、芸人本人の選書ではない",
+      "person": ""
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/201407/column.html",
+      "result": "rejected",
+      "reason": "モブシーンの作品論。手塚本人が愛読した本の話ではない",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/14171.html",
+      "result": "rejected",
+      "reason": "1979年ファン大会の回顧。愛読・影響を受けた本の話なし",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/14205.html",
+      "result": "rejected",
+      "reason": "ファン大会の回顧。愛読・影響を受けた本の話なし",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/16380.html",
+      "result": "rejected",
+      "reason": "手塚本人の文章（『ピンピン生ちゃん』あとがき）は田河水泡という作者への傾倒のみで書名なし。『フクちゃん』『頑太郎日記』は妹の証言と編集部の推測",
+      "person": "手塚治虫"
+    },
+    {
+      "url": "https://dime.jp/genre/1036028/",
+      "result": "rejected",
+      "reason": "ライターの文が堀江の言葉を引く形で『とんび』を挙げるが、発言の出どころを確認できず見送り（2026-11-19）",
+      "person": "堀江貴文"
+    },
+    {
+      "url": "https://www.cinematoday.jp/interview/A0007379",
+      "result": "rejected",
+      "reason": "本人が『アオハライド』を大好きと語るが、宣伝中の映画の原作者の別作品で宣伝の文脈が強く見送り（2026-11-19）",
+      "person": "浜辺美波"
+    }
+  ]
+}
