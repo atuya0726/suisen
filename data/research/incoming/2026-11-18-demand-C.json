@@ -1,0 +1,264 @@
+{
+ "people": [
+  {
+   "id": "kendo",
+   "name": "ケンドーコバヤシ",
+   "title": "お笑い芸人",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "urasawa",
+   "name": "浦沢直樹",
+   "title": "漫画家",
+   "tags": [
+    "作家"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "rs-kendo-2020",
+   "type": "interview",
+   "media": "リアルサウンド ブック",
+   "title": "ケンドーコバヤシが語る、人生に影響を与えた漫画たち 「ゴルゴ13の影響で、パンツは今だにブリーフ派」",
+   "url": "https://realsound.jp/book/2020/05/post-559993.html",
+   "publishedAt": "2020-05-31"
+  },
+  {
+   "id": "nikkei-urasawa-2023",
+   "type": "interview",
+   "media": "日経BOOKプラス",
+   "title": "浦沢直樹に聞く〈後編〉　「漫勉」で一番勉強しているのは僕自身",
+   "url": "https://bookplus.nikkei.com/atcl/column/050800242/051700003/",
+   "publishedAt": "2023-06-19"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kendo",
+   "sourceId": "rs-kendo-2020",
+   "book": {
+    "title": "ジョジョの奇妙な冒険",
+    "author": "荒木飛呂彦",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他",
+   "note": "人生に影響を与えた3作品のひとつ"
+  },
+  {
+   "personId": "kendo",
+   "sourceId": "rs-kendo-2020",
+   "book": {
+    "title": "ゴルゴ13",
+    "author": "さいとう・たかを",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "その他",
+   "note": "人生に影響を与えた3作品のひとつ"
+  },
+  {
+   "personId": "kendo",
+   "sourceId": "rs-kendo-2020",
+   "book": {
+    "title": "サザエさん",
+    "author": "長谷川町子",
+    "publisher": "朝日新聞出版",
+    "edition": "シリーズ"
+   },
+   "context": "その他",
+   "note": "人生に影響を与えた3作品のひとつ"
+  },
+  {
+   "personId": "kendo",
+   "sourceId": "rs-kendo-2020",
+   "book": {
+    "title": "呪術廻戦",
+    "author": "",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "その他",
+   "note": "今読んでほしい作品として紹介（週刊少年ジャンプ連載）"
+  },
+  {
+   "personId": "urasawa",
+   "sourceId": "nikkei-urasawa-2023",
+   "book": {
+    "title": "火の鳥",
+    "author": "手塚治虫",
+    "publisher": "",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊",
+   "note": "中学2年で全巻を読んだ"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://realsound.jp/book/2020/05/post-559993.html",
+   "result": "adopted",
+   "reason": "本文2ページを読んだ。ケンドーコバヤシが影響を受けた3作品と注目作を挙げる",
+   "person": "ケンドーコバヤシ"
+  },
+  {
+   "url": "https://realsound.jp/book/2020/05/post-559993_2.html",
+   "result": "adopted",
+   "reason": "同記事の2ページ目（呪術廻戦）",
+   "person": "ケンドーコバヤシ"
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/050800242/051700003/",
+   "result": "adopted",
+   "reason": "本文を読んだ。無料。robots.txt は /err/ のみ禁止",
+   "person": "浦沢直樹"
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/050800242/051700002/",
+   "result": "rejected",
+   "reason": "浦沢直樹インタビュー前編。薦める本の言及を確認できず（火の鳥は後編で採用）",
+   "person": "浦沢直樹"
+  },
+  {
+   "url": "https://realsound.jp/book/2021/09/post-861503.html",
+   "result": "rejected",
+   "reason": "アメトーーク『マンガ大好き芸人II』のまとめ。記事に放送日の記載がなく、番組放送日を特定できない（記事公開2021-09-18）。ケンドーコバヤシは『僕とロボコ』",
+   "person": "ケンドーコバヤシ"
+  },
+  {
+   "url": "https://realsound.jp/book/2024/09/post-1789606.html",
+   "result": "rejected",
+   "reason": "荒木飛呂彦の画風を論じた解説記事（前編）。本人が薦めた本の記事ではない",
+   "person": "荒木飛呂彦"
+  },
+  {
+   "url": "https://realsound.jp/book/2024/10/post-1806451.html",
+   "result": "rejected",
+   "reason": "荒木飛呂彦の画風を論じた解説記事（後編）。本人が薦めた本の記事ではない",
+   "person": "荒木飛呂彦"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7203",
+   "result": "rejected",
+   "reason": "荒木飛呂彦についての豆知識記事。本人が薦めた本の記事ではない",
+   "person": "荒木飛呂彦"
+  },
+  {
+   "url": "https://www.jprime.jp/articles/-/4132",
+   "result": "rejected",
+   "reason": "中居正広『葉桜の季節に君を想うということ』をSMAP×SMAPで紹介と報じるが、放送は「今年1月」とだけで放送日を特定できない。ファン・スタッフ談の二次記事",
+   "person": "中居正広"
+  },
+  {
+   "url": "https://www.jprime.jp/articles/-/4133",
+   "result": "rejected",
+   "reason": "中居正広の愛読書をラジオ番組スタッフ・ファンの談話で伝える二次記事。本人の発言の出典が特定できない",
+   "person": "中居正広"
+  },
+  {
+   "url": "https://www.daily.co.jp/gossip/2021/06/12/0014409218.shtml",
+   "result": "rejected",
+   "reason": "構成作家のコラム。さんまが読書家だと書くだけで本人の薦めた本の記載なし。肉子ちゃんは本人がプロデュースした映画の原作で宣伝対象",
+   "person": "明石家さんま"
+  },
+  {
+   "url": "https://books.bunshun.jp/articles/-/1518",
+   "result": "rejected",
+   "reason": "太田光の著書『向田邦子の陽射し』の書評。本人が薦めた本の記事ではなく、自著",
+   "person": "太田光"
+  },
+  {
+   "url": "https://bunshun.jp/bungeishunju/articles/h6054",
+   "result": "rejected",
+   "reason": "宮崎美子ほかの記事。対象の人物が登場しない",
+   "person": "太田光"
+  },
+  {
+   "url": "https://gendai.media/articles/-/87271",
+   "result": "rejected",
+   "reason": "宮崎美子の愛読書記事。対象の人物が登場しない",
+   "person": "安住紳一郎"
+  },
+  {
+   "url": "https://bunshun.jp/articles/-/426",
+   "result": "rejected",
+   "reason": "又吉直樹『夜を乗り越える』の著者インタビュー。対象の人物の推薦ではない",
+   "person": "太田光"
+  },
+  {
+   "url": "https://bookplus.nikkei.com/atcl/column/051100705/051100004/",
+   "result": "rejected",
+   "reason": "中澤有美子（日曜天国アシスタント）の回で安住紳一郎の推薦ではない",
+   "person": "安住紳一郎"
+  },
+  {
+   "url": "https://ddnavi.com/aidokusho/",
+   "result": "index",
+   "reason": "ダ・ヴィンチWeb「私の愛読書」一覧。今回の対象人物の回は見つからなかった（台帳に既出）",
+   "person": "劇団ひとり"
+  },
+  {
+   "url": "https://realsound.jp/book/2020/04/post-542123.html",
+   "result": "candidate",
+   "reason": "芸人の本5選（又吉・じろう・東野ほか）。対象人物が見当たらず開かなかった",
+   "person": "太田光"
+  },
+  {
+   "url": "https://www.newsweekjapan.jp/articles/-/39870",
+   "result": "rejected",
+   "reason": "台帳に既出（robots.txt で ClaudeBot 拒否）。開かなかった",
+   "person": "太田光"
+  },
+  {
+   "url": "https://forbesjapan.com/articles/detail/48191",
+   "result": "rejected",
+   "reason": "高橋留美子の記事ではない（別人の話）",
+   "person": "高橋留美子"
+  },
+  {
+   "url": "https://ddnavi.com/article/d696257/a/",
+   "result": "rejected",
+   "reason": "高橋留美子の『犬夜叉』『MAO』インタビュー。愛読書の言及なし（検索結果の要約のみ、本文は開いていない）",
+   "person": "高橋留美子"
+  },
+  {
+   "url": "https://sites.google.com/view/one-piece-eiichiro-oda/creator",
+   "result": "rejected",
+   "reason": "非公式の個人サイト。出典にしない",
+   "person": "尾田栄一郎"
+  },
+  {
+   "url": "https://renote.net/articles/32530",
+   "result": "rejected",
+   "reason": "まとめ記事（二次）。出典にしない",
+   "person": "尾田栄一郎"
+  },
+  {
+   "url": "https://president.jp/articles/-/79583",
+   "result": "rejected",
+   "reason": "鳥山明関連の書評。本人が薦めた本の記事ではない（本文は開いていない）",
+   "person": "鳥山明"
+  },
+  {
+   "url": "https://gendai.media/articles/-/45974",
+   "result": "rejected",
+   "reason": "タモリについて書かれた本の記事。本人の推薦ではない",
+   "person": "タモリ"
+  },
+  {
+   "url": "https://www.jprime.jp/articles/-/13460",
+   "result": "candidate",
+   "reason": "若林正恭の読書関連記事。検索結果の要約のみで開いていない",
+   "person": "若林正恭"
+  },
+  {
+   "url": "https://realsound.jp/book/2026/08/post-2497022",
+   "result": "rejected",
+   "reason": "東野圭吾の小峰元『アルキメデスは手を汚さない』への言及があるが、記事は論評で本人の発言の出典が確認できず、開いていない",
+   "person": "東野圭吾"
+  }
+ ]
+}

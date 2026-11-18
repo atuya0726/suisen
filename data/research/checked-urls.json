@@ -16426,5 +16426,535 @@
     "reason": "16401の関連記事（ルーツ調査の第2回の可能性）。今回開けなかった",
     "person": "手塚治虫",
     "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honto.jp/article/honnofes.html",
+    "result": "adopted",
+    "reason": "sources.json の honto-kakegurui",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://forbesjapan.com/articles/detail/28795",
+    "result": "rejected",
+    "reason": "筆者（編集者）による第三者のコラムで、本人の発言による出典ではない",
+    "person": "宇多田ヒカル",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/zadankai/s5.html",
+    "result": "rejected",
+    "reason": "座談会の雑談で『青白い炎』が出るが、本人が薦めているか文脈で断定できない（人名・作家名中心）",
+    "person": "宇多田ヒカル",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://serai.jp/living/392375",
+    "result": "rejected",
+    "reason": "書籍紹介記事で、遺された蔵書の紹介であり本人が薦めた記事ではない（本文未確認）",
+    "person": "樹木希林",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.thefirsttimes.jp/?p=46450",
+    "result": "rejected",
+    "reason": "カドフェスのイメージキャラクター決定記事で、具体的な本の言及なし",
+    "person": "北村匠海",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.newsweekjapan.jp/articles/-/339526",
+    "result": "rejected",
+    "reason": "言葉の力のインタビューで、愛読書の本題は無し（本文を grep、書名の言及なし）",
+    "person": "大森元貴",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://press.moviewalker.jp/news/article/58498/",
+    "result": "rejected",
+    "reason": "杉咲花15の質問Part1。本の言及なし",
+    "person": "杉咲花",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/2015/12/post-5663_3.html",
+    "result": "rejected",
+    "reason": "あいみょんが作家名（太宰治）・人物名を挙げるのみで、特定の本の言及なし",
+    "person": "あいみょん",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://mdpr.jp/news/amp/2190051",
+    "result": "rejected",
+    "reason": "テレビ番組の発言を伝える記事で書名の言及なし",
+    "person": "浜辺美波",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/denshiban/articles/b12517",
+    "result": "rejected",
+    "reason": "有料会員向けで本文が読めない",
+    "person": "目黒蓮",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.commonhealth.com.tw/article/81295",
+    "result": "rejected",
+    "reason": "台湾メディアの二次情報で出どころ不明（福岡伸一『生物と無生物のあいだ』）",
+    "person": "蒼井優",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9647",
+    "result": "unreachable",
+    "reason": "本文が取得できなかった（20字）",
+    "person": "北村匠海",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.cinematoday.jp/page/A0004675",
+    "result": "rejected",
+    "reason": "映画『図書館戦争』の出演作インタビューで、愛読書ではない",
+    "person": "岡田準一",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://brutus.jp/en/post-351920",
+    "result": "rejected",
+    "reason": "別人（黒島結菜）の記事",
+    "person": "満島ひかり",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11609",
+    "result": "candidate",
+    "reason": "椎名林檎の検索で出たが未開封（本人の選書か不明）",
+    "person": "椎名林檎",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://i-voce.jp/feed/669359/",
+    "result": "candidate",
+    "reason": "浜辺美波の読書の話か未確認、開けなかった",
+    "person": "浜辺美波",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.cinematoday.jp/interview/A0007379",
+    "result": "candidate",
+    "reason": "浜辺美波のインタビュー、開けなかった",
+    "person": "浜辺美波",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/1552",
+    "result": "adopted",
+    "reason": "sources.json の s-yanai-pm",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210426.html",
+    "result": "adopted",
+    "reason": "sources.json の s-ina-shackleton",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210812.html",
+    "result": "adopted",
+    "reason": "sources.json の s-ina-daihyoteki",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/research/explore.html",
+    "result": "adopted",
+    "reason": "sources.json の s-ina-explore",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2018/20181023.html",
+    "result": "adopted",
+    "reason": "sources.json の s-ina-sakanoue",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://dime.jp/genre/1740892/",
+    "result": "adopted",
+    "reason": "sources.json の s-ishi-dime",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2020/20200601.html",
+    "result": "rejected",
+    "reason": "読書の心構えの紹介のみで、特定の本の記載なし",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2019/20190319.html",
+    "result": "rejected",
+    "reason": "『生命の実相』の展示紹介。explore.html で採用済みのため重複",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2022/20220719.html",
+    "result": "rejected",
+    "reason": "稲盛関連のマンガ書籍の案内で、本人が読んだ本ではない",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2022/20221201.html",
+    "result": "rejected",
+    "reason": "隠れ念仏の話で、本の記載なし",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/about/history/thinker.html",
+    "result": "rejected",
+    "reason": "年表のみ。『生命の実相』は explore.html で採用済み",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/",
+    "result": "index",
+    "reason": "稲盛ライブラリーのFacebookアーカイブ。「稲盛和夫の好きな〇〇」「稲盛和夫の読書」の続きが他の年にある可能性あり（未確認）",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://toyokeizai.net/articles/-/283218",
+    "result": "rejected",
+    "reason": "東洋経済オンライン有料会員限定",
+    "person": "稲盛和夫",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/102911",
+    "result": "rejected",
+    "reason": "楠木建による解説記事で、柳井本人の語りではない（バイブルとの記述は編集者の文）",
+    "person": "柳井正",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/3459",
+    "result": "rejected",
+    "reason": "プレジデント社の編集者の回想。第三者の文",
+    "person": "柳井正",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/8087",
+    "result": "rejected",
+    "reason": "有料会員限定",
+    "person": "柳井正",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/26475",
+    "result": "rejected",
+    "reason": "柳井正×山中伸弥の対談。有料会員限定（冒頭のみ）",
+    "person": "柳井正",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.hitachi.com/ja-jp/products/digital/highlights/insights/business-review/17774175/",
+    "result": "rejected",
+    "reason": "楠木建が柳井の発言を伝聞で紹介する第三者の記事",
+    "person": "柳井正",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://rank-king.jp/article/13262",
+    "result": "rejected",
+    "reason": "ランキングまとめサイト。本人の発言の出典ではない",
+    "person": "柳井正",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/104912",
+    "result": "rejected",
+    "reason": "北尾吉孝の読書記事。有料会員限定（冒頭のみ）",
+    "person": "北尾吉孝",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://agora-web.jp/?p=322601",
+    "result": "index",
+    "reason": "北尾吉孝日記の転載。『論語』『老子』を採用",
+    "person": "北尾吉孝",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://agora-web.jp/?p=368524",
+    "result": "rejected",
+    "reason": "『論語』の解説のみで、愛読の明言が前記記事と重複",
+    "person": "北尾吉孝",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://agora-web.jp/?p=372663",
+    "result": "rejected",
+    "reason": "『論語』の引用のみ。愛読の明言なし",
+    "person": "北尾吉孝",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://agora-web.jp/?p=275018",
+    "result": "rejected",
+    "reason": "著書『心を養う』の紹介のみ",
+    "person": "北尾吉孝",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://agora-web.jp/?p=228584",
+    "result": "candidate",
+    "reason": "「古典を読む」。北尾の他の記事に古典の書名が出る可能性。今回は開かず（本文確認できず）",
+    "person": "北尾吉孝",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://shogipenclublog.com/blog/2020/08/19/habu-163/",
+    "result": "index",
+    "reason": "将棋世界1994年8月号のインタビューの転載ブログ。氷点を採用（転載ブログのため要判断）",
+    "person": "羽生善治",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://toyokeizai.net/articles/-/935427",
+    "result": "rejected",
+    "reason": "東洋経済オンライン有料会員限定。山中伸弥を支えた本の書名は読めず",
+    "person": "山中伸弥",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ciatr.jp/topics/324276",
+    "result": "rejected",
+    "reason": "第三者のまとめ記事（名言集）",
+    "person": "本田圭佑",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://number.bunshun.jp/premier/articles/12909",
+    "result": "rejected",
+    "reason": "Number PREMIER 有料。本田圭佑の評伝書の紹介",
+    "person": "本田圭佑",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://news.panasonic.com/jp/group-magazine/articles/15921",
+    "result": "rejected",
+    "reason": "パナソニック社長の愛読書の記事で、対象の松下幸之助ではない",
+    "person": "松下幸之助",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/24701",
+    "result": "rejected",
+    "reason": "有料会員限定。松下幸之助の著作を愛読する第三者の記事",
+    "person": "松下幸之助",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/99660",
+    "result": "rejected",
+    "reason": "野村克也『徒然草』の記事。有料会員限定（続きは有料）",
+    "person": "野村克也",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/104919",
+    "result": "rejected",
+    "reason": "東浩紀。有料会員限定（冒頭のみ、書名なし）",
+    "person": "東浩紀",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.businessinsider.jp/article/226908/",
+    "result": "rejected",
+    "reason": "東浩紀の自著『ゲンロン戦記』のインタビューで、推薦本の記載なし",
+    "person": "東浩紀",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/854450",
+    "result": "candidate",
+    "reason": "村田諒太「王者の本棚」（Number Web）。同連載は有料会員限定のため開かず（台帳に既に rejected あり）",
+    "person": "村田諒太",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2020/05/post-559993.html",
+    "result": "adopted",
+    "reason": "sources.json の rs-kendo-2020",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/050800242/051700003/",
+    "result": "adopted",
+    "reason": "sources.json の nikkei-urasawa-2023",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2020/05/post-559993_2.html",
+    "result": "adopted",
+    "reason": "同記事の2ページ目（呪術廻戦）",
+    "person": "ケンドーコバヤシ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/050800242/051700002/",
+    "result": "rejected",
+    "reason": "浦沢直樹インタビュー前編。薦める本の言及を確認できず（火の鳥は後編で採用）",
+    "person": "浦沢直樹",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/09/post-861503.html",
+    "result": "rejected",
+    "reason": "アメトーーク『マンガ大好き芸人II』のまとめ。記事に放送日の記載がなく、番組放送日を特定できない（記事公開2021-09-18）。ケンドーコバヤシは『僕とロボコ』",
+    "person": "ケンドーコバヤシ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/09/post-1789606.html",
+    "result": "rejected",
+    "reason": "荒木飛呂彦の画風を論じた解説記事（前編）。本人が薦めた本の記事ではない",
+    "person": "荒木飛呂彦",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/10/post-1806451.html",
+    "result": "rejected",
+    "reason": "荒木飛呂彦の画風を論じた解説記事（後編）。本人が薦めた本の記事ではない",
+    "person": "荒木飛呂彦",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7203",
+    "result": "rejected",
+    "reason": "荒木飛呂彦についての豆知識記事。本人が薦めた本の記事ではない",
+    "person": "荒木飛呂彦",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.jprime.jp/articles/-/4132",
+    "result": "rejected",
+    "reason": "中居正広『葉桜の季節に君を想うということ』をSMAP×SMAPで紹介と報じるが、放送は「今年1月」とだけで放送日を特定できない。ファン・スタッフ談の二次記事",
+    "person": "中居正広",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.jprime.jp/articles/-/4133",
+    "result": "rejected",
+    "reason": "中居正広の愛読書をラジオ番組スタッフ・ファンの談話で伝える二次記事。本人の発言の出典が特定できない",
+    "person": "中居正広",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.daily.co.jp/gossip/2021/06/12/0014409218.shtml",
+    "result": "rejected",
+    "reason": "構成作家のコラム。さんまが読書家だと書くだけで本人の薦めた本の記載なし。肉子ちゃんは本人がプロデュースした映画の原作で宣伝対象",
+    "person": "明石家さんま",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://books.bunshun.jp/articles/-/1518",
+    "result": "rejected",
+    "reason": "太田光の著書『向田邦子の陽射し』の書評。本人が薦めた本の記事ではなく、自著",
+    "person": "太田光",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/bungeishunju/articles/h6054",
+    "result": "rejected",
+    "reason": "宮崎美子ほかの記事。対象の人物が登場しない",
+    "person": "太田光",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://gendai.media/articles/-/87271",
+    "result": "rejected",
+    "reason": "宮崎美子の愛読書記事。対象の人物が登場しない",
+    "person": "安住紳一郎",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bunshun.jp/articles/-/426",
+    "result": "rejected",
+    "reason": "又吉直樹『夜を乗り越える』の著者インタビュー。対象の人物の推薦ではない",
+    "person": "太田光",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/051100705/051100004/",
+    "result": "rejected",
+    "reason": "中澤有美子（日曜天国アシスタント）の回で安住紳一郎の推薦ではない",
+    "person": "安住紳一郎",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2020/04/post-542123.html",
+    "result": "candidate",
+    "reason": "芸人の本5選（又吉・じろう・東野ほか）。対象人物が見当たらず開かなかった",
+    "person": "太田光",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://forbesjapan.com/articles/detail/48191",
+    "result": "rejected",
+    "reason": "高橋留美子の記事ではない（別人の話）",
+    "person": "高橋留美子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://ddnavi.com/article/d696257/a/",
+    "result": "rejected",
+    "reason": "高橋留美子の『犬夜叉』『MAO』インタビュー。愛読書の言及なし（検索結果の要約のみ、本文は開いていない）",
+    "person": "高橋留美子",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://sites.google.com/view/one-piece-eiichiro-oda/creator",
+    "result": "rejected",
+    "reason": "非公式の個人サイト。出典にしない",
+    "person": "尾田栄一郎",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://renote.net/articles/32530",
+    "result": "rejected",
+    "reason": "まとめ記事（二次）。出典にしない",
+    "person": "尾田栄一郎",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://president.jp/articles/-/79583",
+    "result": "rejected",
+    "reason": "鳥山明関連の書評。本人が薦めた本の記事ではない（本文は開いていない）",
+    "person": "鳥山明",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://gendai.media/articles/-/45974",
+    "result": "rejected",
+    "reason": "タモリについて書かれた本の記事。本人の推薦ではない",
+    "person": "タモリ",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://www.jprime.jp/articles/-/13460",
+    "result": "candidate",
+    "reason": "若林正恭の読書関連記事。検索結果の要約のみで開いていない",
+    "person": "若林正恭",
+    "checkedAt": "2026-11-18"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/08/post-2497022",
+    "result": "rejected",
+    "reason": "東野圭吾の小峰元『アルキメデスは手を汚さない』への言及があるが、記事は論評で本人の発言の出典が確認できず、開いていない",
+    "person": "東野圭吾",
+    "checkedAt": "2026-11-18"
   }
 ]

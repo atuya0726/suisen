@@ -1,0 +1,158 @@
+{
+ "people": [
+  {
+   "id": "hamabe",
+   "name": "浜辺美波",
+   "kana": "はまべみなみ",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "honto-kakegurui",
+   "type": "interview",
+   "media": "honto",
+   "title": "映画＆実写ドラマ『賭ケグルイ』キャスト4人にインタビュー！",
+   "url": "https://honto.jp/article/honnofes.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hamabe",
+   "sourceId": "honto-kakegurui",
+   "book": {
+    "title": "マスカレード・ホテル",
+    "author": "東野圭吾",
+    "publisher": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "『映画 賭ケグルイ』出演者のおすすめ本インタビュー"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honto.jp/article/honnofes.html",
+   "result": "candidate",
+   "reason": "採用（浜辺美波の1冊。『君の膵臓をたべたい』は主演映画の原作なので除外）。robots.txt は許可、公開日は本文・メタに無し",
+   "person": "浜辺美波"
+  },
+  {
+   "url": "https://forbesjapan.com/articles/detail/28795",
+   "result": "rejected",
+   "reason": "筆者（編集者）による第三者のコラムで、本人の発言による出典ではない",
+   "person": "宇多田ヒカル"
+  },
+  {
+   "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/zadankai/s5.html",
+   "result": "rejected",
+   "reason": "座談会の雑談で『青白い炎』が出るが、本人が薦めているか文脈で断定できない（人名・作家名中心）",
+   "person": "宇多田ヒカル"
+  },
+  {
+   "url": "https://ddnavi.com/aidokusho/",
+   "result": "index",
+   "reason": "ダ・ヴィンチWeb『私の愛読書』連載一覧。対象24人の回は見つからず",
+   "person": "A群"
+  },
+  {
+   "url": "https://serai.jp/living/392375",
+   "result": "rejected",
+   "reason": "書籍紹介記事で、遺された蔵書の紹介であり本人が薦めた記事ではない（本文未確認）",
+   "person": "樹木希林"
+  },
+  {
+   "url": "https://www.thefirsttimes.jp/?p=46450",
+   "result": "rejected",
+   "reason": "カドフェスのイメージキャラクター決定記事で、具体的な本の言及なし",
+   "person": "北村匠海"
+  },
+  {
+   "url": "https://ginzamag.com/culture/24books-2",
+   "result": "rejected",
+   "reason": "24人の連載で対象者の回ではない（高橋一生は最新記事欄の出演作紹介のみ）",
+   "person": "高橋一生"
+  },
+  {
+   "url": "https://www.newsweekjapan.jp/articles/-/339526",
+   "result": "rejected",
+   "reason": "言葉の力のインタビューで、愛読書の本題は無し（本文を grep、書名の言及なし）",
+   "person": "大森元貴"
+  },
+  {
+   "url": "https://press.moviewalker.jp/news/article/58499/",
+   "result": "rejected",
+   "reason": "杉咲花15の質問Part2。Q8は映画・人物が中心で本の言及なし（台帳の候補を確認済み）",
+   "person": "杉咲花"
+  },
+  {
+   "url": "https://press.moviewalker.jp/news/article/58498/",
+   "result": "rejected",
+   "reason": "杉咲花15の質問Part1。本の言及なし",
+   "person": "杉咲花"
+  },
+  {
+   "url": "https://realsound.jp/2015/12/post-5663_3.html",
+   "result": "rejected",
+   "reason": "あいみょんが作家名（太宰治）・人物名を挙げるのみで、特定の本の言及なし",
+   "person": "あいみょん"
+  },
+  {
+   "url": "https://mdpr.jp/news/amp/2190051",
+   "result": "rejected",
+   "reason": "テレビ番組の発言を伝える記事で書名の言及なし",
+   "person": "浜辺美波"
+  },
+  {
+   "url": "https://bunshun.jp/denshiban/articles/b12517",
+   "result": "rejected",
+   "reason": "有料会員向けで本文が読めない",
+   "person": "目黒蓮"
+  },
+  {
+   "url": "https://www.commonhealth.com.tw/article/81295",
+   "result": "rejected",
+   "reason": "台湾メディアの二次情報で出どころ不明（福岡伸一『生物と無生物のあいだ』）",
+   "person": "蒼井優"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9647",
+   "result": "unreachable",
+   "reason": "本文が取得できなかった（20字）",
+   "person": "北村匠海"
+  },
+  {
+   "url": "https://www.cinematoday.jp/page/A0004675",
+   "result": "rejected",
+   "reason": "映画『図書館戦争』の出演作インタビューで、愛読書ではない",
+   "person": "岡田準一"
+  },
+  {
+   "url": "https://brutus.jp/en/post-351920",
+   "result": "rejected",
+   "reason": "別人（黒島結菜）の記事",
+   "person": "満島ひかり"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11609",
+   "result": "candidate",
+   "reason": "椎名林檎の検索で出たが未開封（本人の選書か不明）",
+   "person": "椎名林檎"
+  },
+  {
+   "url": "https://i-voce.jp/feed/669359/",
+   "result": "candidate",
+   "reason": "浜辺美波の読書の話か未確認、開けなかった",
+   "person": "浜辺美波"
+  },
+  {
+   "url": "https://www.cinematoday.jp/interview/A0007379",
+   "result": "candidate",
+   "reason": "浜辺美波のインタビュー、開けなかった",
+   "person": "浜辺美波"
+  }
+ ]
+}

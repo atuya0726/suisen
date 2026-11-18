@@ -1,0 +1,465 @@
+{
+ "people": [
+  {
+   "id": "inamori",
+   "name": "稲盛和夫",
+   "title": "京セラ創業者",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "京セラ"
+  },
+  {
+   "id": "yanai",
+   "name": "柳井正",
+   "title": "ファーストリテイリング会長兼社長（2010年冬時点）",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ファーストリテイリング"
+  },
+  {
+   "id": "kitao",
+   "name": "北尾吉孝",
+   "title": "SBIホールディングス社長",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "SBIホールディングス"
+  },
+  {
+   "id": "ishimaru",
+   "name": "石丸伸二",
+   "title": "安芸高田市長（2024年時点）",
+   "tags": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "s-ina-explore",
+   "type": "article",
+   "media": "稲盛和夫 オフィシャルサイト（京セラ）",
+   "title": "思想の源流を探る｜稲盛和夫研究",
+   "url": "https://www.kyocera.co.jp/inamori/research/explore.html"
+  },
+  {
+   "id": "s-ina-sakanoue",
+   "type": "article",
+   "media": "稲盛ライブラリー（京セラ）",
+   "title": "稲盛和夫の読書②『坂の上の雲』",
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2018/20181023.html",
+   "publishedAt": "2018-10-23"
+  },
+  {
+   "id": "s-ina-daihyoteki",
+   "type": "article",
+   "media": "稲盛ライブラリー（京セラ）",
+   "title": "稲盛和夫の好きな本 内村鑑三 著『代表的日本人』",
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210812.html",
+   "publishedAt": "2021-08-12"
+  },
+  {
+   "id": "s-ina-shackleton",
+   "type": "article",
+   "media": "稲盛ライブラリー（京セラ）",
+   "title": "稲盛和夫の好きな本",
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210426.html",
+   "publishedAt": "2021-04-26"
+  },
+  {
+   "id": "s-yanai-pm",
+   "type": "article",
+   "media": "PRESIDENT Online",
+   "title": "柳井 正:プロマネ・ノートはこう読んでほしい！",
+   "url": "https://president.jp/articles/-/1552",
+   "publishedAt": "2011-01-23"
+  },
+  {
+   "id": "s-kitao-agora",
+   "type": "article",
+   "media": "アゴラ 言論プラットフォーム（北尾吉孝日記の転載）",
+   "title": "「論語」に学ぶ",
+   "url": "https://agora-web.jp/?p=322601",
+   "publishedAt": "2022-04-29"
+  },
+  {
+   "id": "s-ishi-dime",
+   "type": "interview",
+   "media": "@DIME",
+   "title": "生涯で読んだマンガは2万冊以上！安芸高田市長・石丸伸二さんに聞く為政者としての参考書4選",
+   "url": "https://dime.jp/genre/1740892/",
+   "publishedAt": "2024-05-05"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-explore",
+   "book": {
+    "title": "生命の実相",
+    "author": "谷口雅春",
+    "publisher": "日本教文社",
+    "edition": "1932年（復刻版は1982年）"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-explore",
+   "book": {
+    "title": "南洲翁遺訓",
+    "author": "西郷隆盛",
+    "publisher": "荘内南洲会",
+    "edition": ""
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-explore",
+   "book": {
+    "title": "運命と立命",
+    "author": "安岡正篤",
+    "publisher": "関西師友協会（改題版は致知出版社）",
+    "edition": "1978年（改題版は1993年）",
+    "isbn": "9784884741815"
+   }
+  },
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-explore",
+   "book": {
+    "title": "研心抄",
+    "author": "中村天風",
+    "publisher": "天風会",
+    "edition": "1948年（初版）",
+    "isbn": "9784902579017"
+   }
+  },
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-sakanoue",
+   "book": {
+    "title": "坂の上の雲",
+    "author": "司馬遼太郎",
+    "publisher": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-daihyoteki",
+   "book": {
+    "title": "代表的日本人",
+    "author": "内村鑑三",
+    "publisher": "講談社インターナショナル",
+    "edition": "対訳・2002年"
+   }
+  },
+  {
+   "personId": "inamori",
+   "sourceId": "s-ina-shackleton",
+   "book": {
+    "title": "史上最強のリーダー シャクルトン",
+    "author": "マーゴ・モレル",
+    "publisher": "PHP研究所",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yanai",
+   "sourceId": "s-yanai-pm",
+   "book": {
+    "title": "プロフェッショナルマネジャー",
+    "author": "ハロルド・ジェニーン",
+    "publisher": "プレジデント社",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "kitao",
+   "sourceId": "s-kitao-agora",
+   "book": {
+    "title": "論語",
+    "author": "",
+    "publisher": "",
+    "edition": ""
+   },
+   "note": "「私のバックボーン」と本人が記述"
+  },
+  {
+   "personId": "kitao",
+   "sourceId": "s-kitao-agora",
+   "book": {
+    "title": "老子",
+    "author": "",
+    "publisher": "",
+    "edition": ""
+   },
+   "context": "最近読んだ",
+   "note": "70歳を過ぎて読み始めたと本人が記述"
+  },
+  {
+   "personId": "ishimaru",
+   "sourceId": "s-ishi-dime",
+   "book": {
+    "title": "働きマン",
+    "author": "安野モヨコ",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "ishimaru",
+   "sourceId": "s-ishi-dime",
+   "book": {
+    "title": "蒼天航路",
+    "author": "王欣太",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "ishimaru",
+   "sourceId": "s-ishi-dime",
+   "book": {
+    "title": "ヴラド・ドラクラ",
+    "author": "大窪晶与",
+    "publisher": "KADOKAWA",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "ishimaru",
+   "sourceId": "s-ishi-dime",
+   "book": {
+    "title": "東京トイボックス",
+    "author": "うめ",
+    "publisher": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "ishimaru",
+   "sourceId": "s-ishi-dime",
+   "book": {
+    "title": "医龍",
+    "author": "乃木坂太郎",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.kyocera.co.jp/inamori/research/explore.html",
+   "result": "index",
+   "reason": "稲盛和夫オフィシャルサイトの「思想の源流を探る」。4冊を採用（書名・著者・版元・ISBN は掲載どおり）",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2020/20200601.html",
+   "result": "rejected",
+   "reason": "読書の心構えの紹介のみで、特定の本の記載なし",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2019/20190319.html",
+   "result": "rejected",
+   "reason": "『生命の実相』の展示紹介。explore.html で採用済みのため重複",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2022/20220719.html",
+   "result": "rejected",
+   "reason": "稲盛関連のマンガ書籍の案内で、本人が読んだ本ではない",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2022/20221201.html",
+   "result": "rejected",
+   "reason": "隠れ念仏の話で、本の記載なし",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://www.kyocera.co.jp/inamori/about/history/thinker.html",
+   "result": "rejected",
+   "reason": "年表のみ。『生命の実相』は explore.html で採用済み",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/",
+   "result": "index",
+   "reason": "稲盛ライブラリーのFacebookアーカイブ。「稲盛和夫の好きな〇〇」「稲盛和夫の読書」の続きが他の年にある可能性あり（未確認）",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://toyokeizai.net/articles/-/283218",
+   "result": "rejected",
+   "reason": "東洋経済オンライン有料会員限定",
+   "person": "稲盛和夫"
+  },
+  {
+   "url": "https://president.jp/articles/-/1552",
+   "result": "index",
+   "reason": "柳井正本人の文章。『プロフェッショナルマネジャー』を採用",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://president.jp/articles/-/102911",
+   "result": "rejected",
+   "reason": "楠木建による解説記事で、柳井本人の語りではない（バイブルとの記述は編集者の文）",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://president.jp/articles/-/15588",
+   "result": "rejected",
+   "reason": "筆者（元コンサル）が柳井に渡されたという回想。第三者の証言",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://president.jp/articles/-/3459",
+   "result": "rejected",
+   "reason": "プレジデント社の編集者の回想。第三者の文",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://president.jp/articles/-/8087",
+   "result": "rejected",
+   "reason": "有料会員限定",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://president.jp/articles/-/26475",
+   "result": "rejected",
+   "reason": "柳井正×山中伸弥の対談。有料会員限定（冒頭のみ）",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://www.hitachi.com/ja-jp/products/digital/highlights/insights/business-review/17774175/",
+   "result": "rejected",
+   "reason": "楠木建が柳井の発言を伝聞で紹介する第三者の記事",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://rank-king.jp/article/13262",
+   "result": "rejected",
+   "reason": "ランキングまとめサイト。本人の発言の出典ではない",
+   "person": "柳井正"
+  },
+  {
+   "url": "https://president.jp/articles/-/104912",
+   "result": "rejected",
+   "reason": "北尾吉孝の読書記事。有料会員限定（冒頭のみ）",
+   "person": "北尾吉孝"
+  },
+  {
+   "url": "https://agora-web.jp/?p=322601",
+   "result": "index",
+   "reason": "北尾吉孝日記の転載。『論語』『老子』を採用",
+   "person": "北尾吉孝"
+  },
+  {
+   "url": "https://agora-web.jp/?p=368524",
+   "result": "rejected",
+   "reason": "『論語』の解説のみで、愛読の明言が前記記事と重複",
+   "person": "北尾吉孝"
+  },
+  {
+   "url": "https://agora-web.jp/?p=372663",
+   "result": "rejected",
+   "reason": "『論語』の引用のみ。愛読の明言なし",
+   "person": "北尾吉孝"
+  },
+  {
+   "url": "https://agora-web.jp/?p=275018",
+   "result": "rejected",
+   "reason": "著書『心を養う』の紹介のみ",
+   "person": "北尾吉孝"
+  },
+  {
+   "url": "https://agora-web.jp/?p=228584",
+   "result": "candidate",
+   "reason": "「古典を読む」。北尾の他の記事に古典の書名が出る可能性。今回は開かず（本文確認できず）",
+   "person": "北尾吉孝"
+  },
+  {
+   "url": "https://dime.jp/genre/1740892/",
+   "result": "index",
+   "reason": "石丸伸二のマンガ5作品を採用（1〜2ページ目）",
+   "person": "石丸伸二"
+  },
+  {
+   "url": "https://shogipenclublog.com/blog/2020/08/19/habu-163/",
+   "result": "index",
+   "reason": "将棋世界1994年8月号のインタビューの転載ブログ。氷点を採用（転載ブログのため要判断）",
+   "person": "羽生善治"
+  },
+  {
+   "url": "https://toyokeizai.net/articles/-/935427",
+   "result": "rejected",
+   "reason": "東洋経済オンライン有料会員限定。山中伸弥を支えた本の書名は読めず",
+   "person": "山中伸弥"
+  },
+  {
+   "url": "https://ciatr.jp/topics/324276",
+   "result": "rejected",
+   "reason": "第三者のまとめ記事（名言集）",
+   "person": "本田圭佑"
+  },
+  {
+   "url": "https://number.bunshun.jp/premier/articles/12909",
+   "result": "rejected",
+   "reason": "Number PREMIER 有料。本田圭佑の評伝書の紹介",
+   "person": "本田圭佑"
+  },
+  {
+   "url": "https://news.panasonic.com/jp/group-magazine/articles/15921",
+   "result": "rejected",
+   "reason": "パナソニック社長の愛読書の記事で、対象の松下幸之助ではない",
+   "person": "松下幸之助"
+  },
+  {
+   "url": "https://president.jp/articles/-/24701",
+   "result": "rejected",
+   "reason": "有料会員限定。松下幸之助の著作を愛読する第三者の記事",
+   "person": "松下幸之助"
+  },
+  {
+   "url": "https://president.jp/articles/-/99660",
+   "result": "rejected",
+   "reason": "野村克也『徒然草』の記事。有料会員限定（続きは有料）",
+   "person": "野村克也"
+  },
+  {
+   "url": "https://president.jp/articles/-/104919",
+   "result": "rejected",
+   "reason": "東浩紀。有料会員限定（冒頭のみ、書名なし）",
+   "person": "東浩紀"
+  },
+  {
+   "url": "https://www.businessinsider.jp/article/226908/",
+   "result": "rejected",
+   "reason": "東浩紀の自著『ゲンロン戦記』のインタビューで、推薦本の記載なし",
+   "person": "東浩紀"
+  },
+  {
+   "url": "https://number.bunshun.jp/articles/-/854450",
+   "result": "candidate",
+   "reason": "村田諒太「王者の本棚」（Number Web）。同連載は有料会員限定のため開かず（台帳に既に rejected あり）",
+   "person": "村田諒太"
+  },
+  {
+   "url": "https://bunshun.jp/articles/-/79373",
+   "result": "candidate",
+   "reason": "文藝春秋PLUS「達人の虎の巻 座右の書」の一覧。今回の対象者は含まれていない"
+  },
+  {
+   "url": "https://shogipenclublog.com/blog/2020/08/19/habu-163/",
+   "result": "rejected",
+   "reason": "転載ブログ（個人ブログは出典にしない）",
+   "person": "羽生善治"
+  }
+ ]
+}

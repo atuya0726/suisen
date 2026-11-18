@@ -42095,5 +42095,121 @@
     "sourceId": "s-mushi16401-37f0fd",
     "note": "キネマ旬報 1983年のエッセイを引用",
     "verified": true
+  },
+  {
+    "personId": "p1323",
+    "isbn13": "9784087452068",
+    "sourceId": "honto-kakegurui",
+    "note": "『映画 賭ケグルイ』出演者のおすすめ本インタビュー",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1324",
+    "isbn13": "9784044002572",
+    "sourceId": "s-ina-explore",
+    "context": "座右の書",
+    "verified": true
+  },
+  {
+    "personId": "p1324",
+    "isbn13": "9784902579017",
+    "sourceId": "s-ina-explore",
+    "verified": true
+  },
+  {
+    "personId": "p1324",
+    "isbn13": "9784167105280",
+    "sourceId": "s-ina-sakanoue",
+    "verified": true
+  },
+  {
+    "personId": "p1324",
+    "isbn13": "9784770024015",
+    "sourceId": "s-ina-daihyoteki",
+    "verified": true
+  },
+  {
+    "personId": "p1324",
+    "isbn13": "9784569617602",
+    "sourceId": "s-ina-shackleton",
+    "verified": true
+  },
+  {
+    "personId": "p1325",
+    "isbn13": "9784833450027",
+    "sourceId": "s-yanai-pm",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p1327",
+    "isbn13": "9784063289992",
+    "sourceId": "s-ishi-dime",
+    "verified": true
+  },
+  {
+    "personId": "p1327",
+    "isbn13": "9784063284348",
+    "sourceId": "s-ishi-dime",
+    "verified": true
+  },
+  {
+    "personId": "p1327",
+    "isbn13": "9784047348370",
+    "sourceId": "s-ishi-dime",
+    "verified": true
+  },
+  {
+    "personId": "p1327",
+    "isbn13": "9784063725070",
+    "sourceId": "s-ishi-dime",
+    "verified": true
+  },
+  {
+    "personId": "p1327",
+    "isbn13": "9784091865618",
+    "sourceId": "s-ishi-dime",
+    "verified": true
+  },
+  {
+    "personId": "p1328",
+    "isbn13": "9784088511269",
+    "sourceId": "rs-kendo-2020",
+    "note": "人生に影響を与えた3作品のひとつ",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1328",
+    "isbn13": "9784845800018",
+    "sourceId": "rs-kendo-2020",
+    "note": "人生に影響を与えた3作品のひとつ",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1328",
+    "isbn13": "9784022588012",
+    "sourceId": "rs-kendo-2020",
+    "note": "人生に影響を与えた3作品のひとつ",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1328",
+    "isbn13": "9784088815169",
+    "sourceId": "rs-kendo-2020",
+    "note": "今読んでほしい作品として紹介（週刊少年ジャンプ連載）",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1329",
+    "isbn13": "9784041066300",
+    "sourceId": "nikkei-urasawa-2023",
+    "note": "中学2年で全巻を読んだ",
+    "context": "人生を変えた一冊",
+    "verified": true
   }
 ]

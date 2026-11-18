@@ -62175,5 +62175,167 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/6554632/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7641/9784150117641.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087452068",
+    "title": "マスカレード・ホテル",
+    "authors": [
+      "東野 圭吾"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2014-07-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12831753/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2068/9784087452068.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784884741815",
+    "title": "立命の書「陰　録」を読む",
+    "authors": [
+      "安岡正篤"
+    ],
+    "publisher": "致知出版社",
+    "publishedAt": "1990-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/400784/"
+  },
+  {
+    "isbn13": "9784044002572",
+    "title": "新版　南洲翁遺訓 ビギナーズ　日本の思想",
+    "authors": [
+      "西郷 隆盛",
+      "猪飼 隆明"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2017-07-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15014532/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2572/9784044002572_1_28.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784902579017",
+    "title": "研心抄",
+    "authors": [
+      "中村天風"
+    ],
+    "publisher": "天風会"
+  },
+  {
+    "isbn13": "9784770024015",
+    "title": "代表的日本人",
+    "authors": [
+      "内村鑑三",
+      "稲盛和夫"
+    ],
+    "publisher": "講談社インタ-ナショナル",
+    "publishedAt": "1999-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1050325/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7700/77002401.gif?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784569617602",
+    "title": "史上最強のリーダー シャクルトン",
+    "authors": [
+      "マーゴ・モレル"
+    ],
+    "publisher": "PHP研究所"
+  },
+  {
+    "isbn13": "9784063289992",
+    "title": "働きマン",
+    "authors": [
+      "安野 モヨコ"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2004-11-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1733861/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9992/9784063289992.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784063284348",
+    "title": "蒼天航路",
+    "authors": [
+      "イハギン",
+      "王欣太"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1995-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/760160/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4348/9784063284348.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784047348370",
+    "title": "ヴラド・ドラクラ",
+    "authors": [
+      "大窪 晶与"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2018-02-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15300333/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8370/9784047348370_1_6.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784063725070",
+    "title": "東京トイボックス",
+    "authors": [
+      "うめ"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2006-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3735182/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5070/9784063725070.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784091865618",
+    "title": "医龍",
+    "authors": [
+      "乃木坂 太郎",
+      "永井 明"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2002-09-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1488968/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0918/09186561.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088511269",
+    "title": "ジョジョの奇妙な冒険",
+    "authors": [
+      "荒木飛呂彦"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1987-08-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1070477/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1269/9784088511269.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784022588012",
+    "title": "サザエさん",
+    "authors": [
+      "長谷川町子"
+    ],
+    "publisher": "朝日新聞出版",
+    "publishedAt": "2020-01-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16128681/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8012/9784022588012.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784041066300",
+    "title": "火の鳥1 黎明編",
+    "authors": [
+      "手塚 治虫"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2018-06-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15467311/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6300/9784041066300_1_8.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

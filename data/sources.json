@@ -14040,5 +14040,75 @@
     "media": "虫ん坊（手塚プロダクション）",
     "title": "手塚マンガあの日あの時 2014年10月号（151）コラム",
     "url": "https://tezukaosamu.net/jp/mushi/201410/column.html"
+  },
+  {
+    "id": "honto-kakegurui",
+    "type": "interview",
+    "media": "honto",
+    "title": "映画＆実写ドラマ『賭ケグルイ』キャスト4人にインタビュー！",
+    "url": "https://honto.jp/article/honnofes.html"
+  },
+  {
+    "id": "s-yanai-pm",
+    "type": "article",
+    "media": "PRESIDENT Online",
+    "title": "柳井 正:プロマネ・ノートはこう読んでほしい！",
+    "url": "https://president.jp/articles/-/1552",
+    "publishedAt": "2011-01-23"
+  },
+  {
+    "id": "s-ina-shackleton",
+    "type": "article",
+    "media": "稲盛ライブラリー（京セラ）",
+    "title": "稲盛和夫の好きな本",
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210426.html",
+    "publishedAt": "2021-04-26"
+  },
+  {
+    "id": "s-ina-daihyoteki",
+    "type": "article",
+    "media": "稲盛ライブラリー（京セラ）",
+    "title": "稲盛和夫の好きな本 内村鑑三 著『代表的日本人』",
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210812.html",
+    "publishedAt": "2021-08-12"
+  },
+  {
+    "id": "s-ina-explore",
+    "type": "article",
+    "media": "稲盛和夫 オフィシャルサイト（京セラ）",
+    "title": "思想の源流を探る｜稲盛和夫研究",
+    "url": "https://www.kyocera.co.jp/inamori/research/explore.html"
+  },
+  {
+    "id": "s-ina-sakanoue",
+    "type": "article",
+    "media": "稲盛ライブラリー（京セラ）",
+    "title": "稲盛和夫の読書②『坂の上の雲』",
+    "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2018/20181023.html",
+    "publishedAt": "2018-10-23"
+  },
+  {
+    "id": "s-ishi-dime",
+    "type": "interview",
+    "media": "@DIME",
+    "title": "生涯で読んだマンガは2万冊以上！安芸高田市長・石丸伸二さんに聞く為政者としての参考書4選",
+    "url": "https://dime.jp/genre/1740892/",
+    "publishedAt": "2024-05-05"
+  },
+  {
+    "id": "rs-kendo-2020",
+    "type": "interview",
+    "media": "リアルサウンド ブック",
+    "title": "ケンドーコバヤシが語る、人生に影響を与えた漫画たち 「ゴルゴ13の影響で、パンツは今だにブリーフ派」",
+    "url": "https://realsound.jp/book/2020/05/post-559993.html",
+    "publishedAt": "2020-05-31"
+  },
+  {
+    "id": "nikkei-urasawa-2023",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "浦沢直樹に聞く〈後編〉　「漫勉」で一番勉強しているのは僕自身",
+    "url": "https://bookplus.nikkei.com/atcl/column/050800242/051700003/",
+    "publishedAt": "2023-06-19"
   }
 ]
