@@ -1,0 +1,121 @@
+{
+  "people": [],
+  "sources": [],
+  "recommendations": [],
+  "checkedUrls": [
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/json/archive-list.json",
+      "result": "index",
+      "reason": "稲盛ライブラリー Facebookアーカイブの全記事一覧（912件、2017-09〜2026-10-29、JSON）。題名を全件走査し、読書・本に関わる回は開封済み。今後の新着確認はこの一覧の date が 2026-10-29 より新しいものを見る",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2018/20181005.html",
+      "result": "rejected",
+      "reason": "「稲盛和夫の読書①」。哲学・宗教書が7割という話だけで、特定の書名なし",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2024/20241024.html",
+      "result": "rejected",
+      "reason": "読書の日。引用は自著『心を高める、経営を伸ばす』のみ（自著は除く）",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2024/20240118.html",
+      "result": "candidate",
+      "reason": "テレビ朝日「Qさま」で大谷翔平が愛読と紹介された稲盛著『成功への情熱』の報告。稲盛の著書で、大谷の愛読書は番組内クイズの出題であり本人の発言ではない。載せるなら大谷翔平の推薦として別途判断（番組名・放送日 2023-12-18 は特定できるが、本人の語りではないため今回は見送り）",
+      "person": "大谷翔平"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2025/20250327.html",
+      "result": "rejected",
+      "reason": "『京セラフィロソフィ』（自著）に収録された詩「青春」の引用。稲盛が薦めた本ではない",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2019/20190814.html",
+      "result": "rejected",
+      "reason": "恩師・内野正夫の著書『寒巖禅師伝』への言及。稲盛が薦めた・愛読したとは書かれていない",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2019/20190909.html",
+      "result": "rejected",
+      "reason": "得度の話で書名なし",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2021/20210715.html",
+      "result": "rejected",
+      "reason": "稲盛自身の備忘録（手帳）の紹介で本ではない",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2023/20230925.html",
+      "result": "rejected",
+      "reason": "書名なし",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/library/facebook-archive/2024/20240909.html",
+      "result": "candidate",
+      "reason": "「この逸品」で『耐火物工学』（吉木文平著）を稲盛が松風工業時代から精読し手元に置き続けたと紹介。ただし編集部の記述で本人の発言の引用ではなく、古い専門書で ISBN も無いと思われるため、公式サイト引用の基準（本人の言葉か出どころの明示）を満たさず見送り",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/research/know.html",
+      "result": "rejected",
+      "reason": "書名の記載なし",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://www.kyocera.co.jp/inamori/about/profile.html",
+      "result": "rejected",
+      "reason": "プロフィールのみで推薦本なし",
+      "person": "稲盛和夫"
+    },
+    {
+      "url": "https://i-voce.jp/feed/669359/",
+      "result": "rejected",
+      "reason": "robots.txt で ClaudeBot / anthropic-ai / Claude-Web が Disallow: / のため使わない（取得時に確認が遅れ HTML は一度取得したが、内容は採用しない）",
+      "person": "浜辺美波"
+    },
+    {
+      "url": "https://www.cinematoday.jp/interview/A0007379",
+      "result": "rejected",
+      "reason": "映画『アオハライド』出演作のインタビュー。語られる本は出演作の原作で、除外対象",
+      "person": "浜辺美波"
+    },
+    {
+      "url": "https://honcierge.jp/articles/shelf_story/11609",
+      "result": "rejected",
+      "reason": "元ホリプロ・藤原努のコラム。椎名林檎本人が挙げた本はなく、筆者が読んだ『椎名林檎論』『意味がなければスイングはない』の話",
+      "person": "椎名林檎"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/092200433/",
+      "result": "rejected",
+      "reason": "三谷宏治の特別講演の抄録。『経営戦略全史』の内容として他者の著書に触れるだけで、本人が薦めた本ではない",
+      "person": "三谷宏治"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/092200432/",
+      "result": "rejected",
+      "reason": "同上。経営学の歴史の解説で、推薦ではない",
+      "person": "三谷宏治"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/041400501/",
+      "result": "rejected",
+      "reason": "澤円×水谷享平の対談後編。挙がる本は両氏の自著のみ",
+      "person": "澤円"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/041500053/041700502/",
+      "result": "candidate",
+      "reason": "彬子女王×三宅香帆のトーク。三宅が『赤と青のガウン』（彬子女王著、漫画化の刊行記念イベント）を「すごく好き」と話すが、イベントの宣伝対象の本で本人の選書ではなく、薦めたというより対談相手の本への感想のため見送り。載せるなら三宅香帆の推薦として判断",
+      "person": "三宅香帆"
+    }
+  ]
+}

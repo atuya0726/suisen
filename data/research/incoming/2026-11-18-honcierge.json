@@ -1,0 +1,1787 @@
+{
+ "people": [
+  {
+   "id": "chiaki",
+   "name": "佐藤千亜妃",
+   "title": "ミュージシャン（元きのこ帝国）",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "fuzuki",
+   "name": "文月悠光",
+   "title": "詩人",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "tsubasa",
+   "name": "谷口つばさ",
+   "title": "本好き芸人",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "renge",
+   "name": "石山蓮華",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "shiori",
+   "name": "松原汐織",
+   "title": "モデル・女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "kushida",
+   "name": "KUSHIDA",
+   "title": "プロレスラー（新日本プロレス所属）",
+   "tags": [
+    "スポーツ選手"
+   ]
+  },
+  {
+   "id": "gaku",
+   "name": "ガク（真空ジェシカ）",
+   "title": "漫才師（真空ジェシカ）",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "aida",
+   "name": "相田周二（三四郎）",
+   "title": "お笑い芸人（三四郎）",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "ueda",
+   "name": "上田浩二郎（Hi-Hi）",
+   "title": "お笑い芸人（Hi-Hi）",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "hon11471",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "佐藤千亜妃インタビュー・後編 逃すと一生捕まえられない表現がある／特集！あの人の本棚",
+   "url": "https://honcierge.jp/articles/shelf_story/11471",
+   "publishedAt": "2022-06-20"
+  },
+  {
+   "id": "hon330",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "人生の「声」を丁寧に集めた本",
+   "url": "https://honcierge.jp/articles/shelf_story/330",
+   "publishedAt": "2016-06-09"
+  },
+  {
+   "id": "hon11575",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  A面｜第1回『月の満ち欠け』ミステリーと恋愛小説の二重構造で唯一無二の読後感を",
+   "url": "https://honcierge.jp/articles/shelf_story/11575",
+   "publishedAt": "2022-10-29"
+  },
+  {
+   "id": "hon11577",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  B面｜第1回『掏摸』純文学の固定観念を崩してくれた本",
+   "url": "https://honcierge.jp/articles/shelf_story/11577",
+   "publishedAt": "2022-10-30"
+  },
+  {
+   "id": "hon11599",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  A面｜第2回『むらさきのスカートの女』小説は、物語が無くても面白い！",
+   "url": "https://honcierge.jp/articles/shelf_story/11599",
+   "publishedAt": "2022-11-26"
+  },
+  {
+   "id": "hon11600",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  B面｜第2回『かわいそ笑』読者が参加することによって完成する体験型ホラー小説",
+   "url": "https://honcierge.jp/articles/shelf_story/11600",
+   "publishedAt": "2022-11-27"
+  },
+  {
+   "id": "hon11616",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  A面｜第3回『かがみの孤城 』大人も間違えることがある。 …とは知らなかったあの頃の自分に読ませたい物語",
+   "url": "https://honcierge.jp/articles/shelf_story/11616",
+   "publishedAt": "2022-12-24"
+  },
+  {
+   "id": "hon11617",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  B面｜第3回『傲慢と善良』自分の人生を生きようとする大人が、ヒントをもらえる本",
+   "url": "https://honcierge.jp/articles/shelf_story/11617",
+   "publishedAt": "2022-12-25"
+  },
+  {
+   "id": "hon11632",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "赤ノ宮翼の今月の偏愛本  A面｜第4回『本と鍵の季節』もはや青春小説！ 初心者でも感じられるミステリーの幅広さ",
+   "url": "https://honcierge.jp/articles/shelf_story/11632",
+   "publishedAt": "2023-01-28"
+  },
+  {
+   "id": "hon11633",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "レッドブルつばさの今月の偏愛本  B面｜第4回『雪の練習生』あらすじでは伝えきれない物語を、文体や構造から味わう小説",
+   "url": "https://honcierge.jp/articles/shelf_story/11633",
+   "publishedAt": "2023-01-30"
+  },
+  {
+   "id": "hon11650",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "赤ノ宮翼の今月の偏愛本  A面｜第5回『君のクイズ』無駄が一切ない、一気読み間違いなしのクイズ小説",
+   "url": "https://honcierge.jp/articles/shelf_story/11650",
+   "publishedAt": "2023-03-01"
+  },
+  {
+   "id": "hon2972",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第1回】夜は短し歩けよ乙女",
+   "url": "https://honcierge.jp/articles/shelf_story/2972",
+   "publishedAt": "2017-05-26"
+  },
+  {
+   "id": "hon3299",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第2回】赤い傘と電柱",
+   "url": "https://honcierge.jp/articles/shelf_story/3299",
+   "publishedAt": "2017-06-26"
+  },
+  {
+   "id": "hon3661",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第3回】幻想のいきもの",
+   "url": "https://honcierge.jp/articles/shelf_story/3661",
+   "publishedAt": "2017-07-22"
+  },
+  {
+   "id": "hon4139",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第4回】‪愛を買う",
+   "url": "https://honcierge.jp/articles/shelf_story/4139",
+   "publishedAt": "2017-08-30"
+  },
+  {
+   "id": "hon4809",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第6回】復讐心を燃やして同窓会へ行った話",
+   "url": "https://honcierge.jp/articles/shelf_story/4809",
+   "publishedAt": "2017-10-25"
+  },
+  {
+   "id": "hon5082",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第7回】生垣に突っ込んで転んだ話（25歳・晩秋）",
+   "url": "https://honcierge.jp/articles/shelf_story/5082",
+   "publishedAt": "2017-11-30"
+  },
+  {
+   "id": "hon5320",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第8回】耳から妊娠した話",
+   "url": "https://honcierge.jp/articles/shelf_story/5320",
+   "publishedAt": "2018-01-02"
+  },
+  {
+   "id": "hon5470",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第9回】下顎の親知らずを抜いた。",
+   "url": "https://honcierge.jp/articles/shelf_story/5470",
+   "publishedAt": "2018-01-30"
+  },
+  {
+   "id": "hon5690",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第10回】りんごの皮剥きが出来ない話",
+   "url": "https://honcierge.jp/articles/shelf_story/5690",
+   "publishedAt": "2018-03-08"
+  },
+  {
+   "id": "hon5937",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第12回】優柔不断な買い物の話",
+   "url": "https://honcierge.jp/articles/shelf_story/5937",
+   "publishedAt": "2018-05-13"
+  },
+  {
+   "id": "hon6276",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第13回】度数のずれた顔の話",
+   "url": "https://honcierge.jp/articles/shelf_story/6276",
+   "publishedAt": "2018-06-28"
+  },
+  {
+   "id": "hon6521",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第14回】思い出せない夏の話",
+   "url": "https://honcierge.jp/articles/shelf_story/6521",
+   "publishedAt": "2018-08-03"
+  },
+  {
+   "id": "hon6687",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第15回】屈辱の土曜日の話",
+   "url": "https://honcierge.jp/articles/shelf_story/6687",
+   "publishedAt": "2018-09-06"
+  },
+  {
+   "id": "hon7329",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第17回】袖から観る舞台の話",
+   "url": "https://honcierge.jp/articles/shelf_story/7329",
+   "publishedAt": "2019-01-26"
+  },
+  {
+   "id": "hon7330",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第18回】普通の容姿の話",
+   "url": "https://honcierge.jp/articles/shelf_story/7330",
+   "publishedAt": "2019-01-27"
+  },
+  {
+   "id": "hon7410",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第19回】自撮りに悶々とする話",
+   "url": "https://honcierge.jp/articles/shelf_story/7410",
+   "publishedAt": "2019-02-16"
+  },
+  {
+   "id": "hon7520",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第20回】「遊ぶ金欲しさにやりました」の話",
+   "url": "https://honcierge.jp/articles/shelf_story/7520",
+   "publishedAt": "2019-03-09"
+  },
+  {
+   "id": "hon7640",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第21回】会社を辞め、髪を切って倒れた3月末の話",
+   "url": "https://honcierge.jp/articles/shelf_story/7640",
+   "publishedAt": "2019-04-04"
+  },
+  {
+   "id": "hon7817",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第22回】令和婚した友達の話",
+   "url": "https://honcierge.jp/articles/shelf_story/7817",
+   "publishedAt": "2019-05-11"
+  },
+  {
+   "id": "hon7909",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【第23回】逃げられない算数の話",
+   "url": "https://honcierge.jp/articles/shelf_story/7909",
+   "publishedAt": "2019-06-10"
+  },
+  {
+   "id": "hon1645",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "モデル松原汐織が選ぶ「読むとキレイに近づく一冊」",
+   "url": "https://honcierge.jp/articles/shelf_story/1645",
+   "publishedAt": "2017-02-25"
+  },
+  {
+   "id": "hon2005",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "モデル松原汐織が選ぶ「通勤時間別！第一印象をUPする一冊」",
+   "url": "https://honcierge.jp/articles/shelf_story/2005",
+   "publishedAt": "2017-03-24"
+  },
+  {
+   "id": "hon2475",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "モデル松原汐織が選ぶ「カフェで読みたい一冊」",
+   "url": "https://honcierge.jp/articles/shelf_story/2475",
+   "publishedAt": "2017-04-25"
+  },
+  {
+   "id": "hon2908",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "モデル松原汐織が選ぶ「続！カフェで読みたい一冊」",
+   "url": "https://honcierge.jp/articles/shelf_story/2908",
+   "publishedAt": "2017-05-23"
+  },
+  {
+   "id": "hon3327",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "キャリーバッグに迷わず入れたい一冊【松原汐織】",
+   "url": "https://honcierge.jp/articles/shelf_story/3327",
+   "publishedAt": "2017-06-23"
+  },
+  {
+   "id": "hon3673",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "モデル松原汐織が選ぶ「オトナの夏休みの課題図書として提案したい一冊」",
+   "url": "https://honcierge.jp/articles/shelf_story/3673",
+   "publishedAt": "2017-07-25"
+  },
+  {
+   "id": "hon4138",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "モデル松原汐織が選ぶ「続！オトナの夏休みの課題図書として提案したい一冊」",
+   "url": "https://honcierge.jp/articles/shelf_story/4138",
+   "publishedAt": "2017-08-29"
+  },
+  {
+   "id": "hon5785",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "新年度に合わせてマンネリを打破したい！そんなあなたに送る発見の3冊",
+   "url": "https://honcierge.jp/articles/shelf_story/5785",
+   "publishedAt": "2018-04-10"
+  },
+  {
+   "id": "hon5936",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "五月病のモヤモヤを吹き飛ばす本【松原汐織】",
+   "url": "https://honcierge.jp/articles/shelf_story/5936",
+   "publishedAt": "2018-05-14"
+  },
+  {
+   "id": "hon329",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "小説を書くこととプロレスは似ていた",
+   "url": "https://honcierge.jp/articles/shelf_story/329",
+   "publishedAt": "2016-05-21"
+  },
+  {
+   "id": "hon380",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「さようなら」ではなく「またね」の精神 ―― 旅を物語る本",
+   "url": "https://honcierge.jp/articles/shelf_story/380",
+   "publishedAt": "2016-07-20"
+  },
+  {
+   "id": "hon429",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": " 趣味を仕事にして続けていく喜びと苦しみ",
+   "url": "https://honcierge.jp/articles/shelf_story/429",
+   "publishedAt": "2016-09-21"
+  },
+  {
+   "id": "hon457",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "生きると死ぬの境界線を考える",
+   "url": "https://honcierge.jp/articles/shelf_story/457",
+   "publishedAt": "2016-10-21"
+  },
+  {
+   "id": "hon967",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "こたつでミカンを食べながら年末年始に読む本",
+   "url": "https://honcierge.jp/articles/shelf_story/967",
+   "publishedAt": "2016-12-25"
+  },
+  {
+   "id": "hon2479",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "仕事に対する姿勢に影響を与える本【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/2479",
+   "publishedAt": "2017-04-29"
+  },
+  {
+   "id": "hon4068",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "こんな素敵な歳の取り方したい！と思える本3冊【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/4068",
+   "publishedAt": "2017-08-23"
+  },
+  {
+   "id": "hon4382",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "プロレス遠征中に読んだ、男のロマンを感じる旅の本3冊【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/4382",
+   "publishedAt": "2017-09-21"
+  },
+  {
+   "id": "hon4801",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "睡眠への意識を高める話題の本【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/4801",
+   "publishedAt": "2017-10-23"
+  },
+  {
+   "id": "hon5026",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "プロレスラー的視点で読んだ人体の不思議【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/5026",
+   "publishedAt": "2017-11-21"
+  },
+  {
+   "id": "hon5296",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "イッテンヨン目前、新年を迎えるにあたって読む本【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/5296",
+   "publishedAt": "2017-12-29"
+  },
+  {
+   "id": "hon5609",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "春！新しいことを始めたくなる本【KUSHIDA】",
+   "url": "https://honcierge.jp/articles/shelf_story/5609",
+   "publishedAt": "2018-02-21"
+  },
+  {
+   "id": "hon11466",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#1】真空ジェシカ ガクの「岳漫読」／多分僕のおもしろに一番影響を与えている漫画",
+   "url": "https://honcierge.jp/articles/shelf_story/11466",
+   "publishedAt": "2022-06-18"
+  },
+  {
+   "id": "hon11489",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#2】真空ジェシカ ガクの「岳漫読」／父親が買ってきて家に置いてあった漫画",
+   "url": "https://honcierge.jp/articles/shelf_story/11489",
+   "publishedAt": "2022-07-16"
+  },
+  {
+   "id": "hon11524",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#3】真空ジェシカ ガクの「岳漫読」／黒歴史と言えるような時代が僕にもありました",
+   "url": "https://honcierge.jp/articles/shelf_story/11524",
+   "publishedAt": "2022-08-20"
+  },
+  {
+   "id": "hon11542",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#4】真空ジェシカ ガクの「岳漫読」／理想の学生生活のさなかに読んだ、理想の日常漫画",
+   "url": "https://honcierge.jp/articles/shelf_story/11542",
+   "publishedAt": "2022-09-17"
+  },
+  {
+   "id": "hon11571",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#5】真空ジェシカ ガクの「岳漫読」／ほとんどがモノローグで進む、現実寄りの漫画",
+   "url": "https://honcierge.jp/articles/shelf_story/11571",
+   "publishedAt": "2022-10-15"
+  },
+  {
+   "id": "hon11592",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#6】【最終回】真空ジェシカ ガクの「ガクマンドク」／自分なりの戦い方",
+   "url": "https://honcierge.jp/articles/shelf_story/11592",
+   "publishedAt": "2022-11-19"
+  },
+  {
+   "id": "hon9363",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "三四郎相田周二のべしゃり書き漫画道【連載初回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9363",
+   "publishedAt": "2020-08-05"
+  },
+  {
+   "id": "hon9548",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "三四郎相田周二のべしゃり書き漫画道【連載第2回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9548",
+   "publishedAt": "2020-09-02"
+  },
+  {
+   "id": "hon9692",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "三四郎相田周二のべしゃり書き漫画道【連載第3回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9692",
+   "publishedAt": "2020-09-30"
+  },
+  {
+   "id": "hon9693",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "三四郎相田周二のべしゃり書き漫画道【連載第4回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9693",
+   "publishedAt": "2020-11-04"
+  },
+  {
+   "id": "hon9694",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "三四郎相田周二のべしゃり書き漫画道【連載第5回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9694",
+   "publishedAt": "2020-12-02"
+  },
+  {
+   "id": "hon9506",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "Hi-Hi上田浩二郎のツカみよければ全てよし【連載初回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9506",
+   "publishedAt": "2020-08-19"
+  },
+  {
+   "id": "hon9615",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "Hi-Hi上田浩二郎のツカみよければ全てよし【連載第2回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9615",
+   "publishedAt": "2020-09-16"
+  },
+  {
+   "id": "hon9616",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "Hi-Hi上田浩二郎のツカみよければ全てよし【連載第3回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9616",
+   "publishedAt": "2020-10-21"
+  },
+  {
+   "id": "hon9617",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "Hi-Hi上田浩二郎のツカみよければ全てよし【連載第4回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9617",
+   "publishedAt": "2020-11-18"
+  },
+  {
+   "id": "hon9619",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "Hi-Hi上田浩二郎のツカみよければ全てよし【連載第6回】",
+   "url": "https://honcierge.jp/articles/shelf_story/9619",
+   "publishedAt": "2021-01-20"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "chiaki",
+   "sourceId": "hon11471",
+   "book": {
+    "title": "いしいしんじのごはん日記",
+    "author": "いしいしんじ",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "chiaki",
+   "sourceId": "hon11471",
+   "book": {
+    "title": "ぶらんこ乗り",
+    "author": "いしいしんじ",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "chiaki",
+   "sourceId": "hon11471",
+   "book": {
+    "title": "ニシノユキヒコの恋と冒険",
+    "author": "川上弘美"
+   }
+  },
+  {
+   "personId": "chiaki",
+   "sourceId": "hon11471",
+   "book": {
+    "title": "流しのしたの骨",
+    "author": "江國香織",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "fuzuki",
+   "sourceId": "hon330",
+   "book": {
+    "title": "街の人生",
+    "author": "岸政彦"
+   }
+  },
+  {
+   "personId": "fuzuki",
+   "sourceId": "hon330",
+   "book": {
+    "title": "ぼくはこうやって詩を書いてきた 谷川俊太郎、詩と人生を語る",
+    "author": "谷川俊太郎、山田馨"
+   }
+  },
+  {
+   "personId": "fuzuki",
+   "sourceId": "hon330",
+   "book": {
+    "title": "大野一雄 稽古の言葉",
+    "author": "大野一雄"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11575",
+   "book": {
+    "title": "月の満ち欠け",
+    "author": "佐藤正午"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11577",
+   "book": {
+    "title": "掏摸",
+    "author": "中村文則"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11599",
+   "book": {
+    "title": "むらさきのスカートの女",
+    "author": "今村夏子",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11600",
+   "book": {
+    "title": "かわいそ笑",
+    "author": "梨"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11616",
+   "book": {
+    "title": "かがみの孤城",
+    "author": "辻村深月"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11617",
+   "book": {
+    "title": "傲慢と善良",
+    "author": "辻村深月",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11632",
+   "book": {
+    "title": "本と鍵の季節",
+    "author": "米澤穂信"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11633",
+   "book": {
+    "title": "雪の練習生",
+    "author": "多和田葉子",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "tsubasa",
+   "sourceId": "hon11650",
+   "book": {
+    "title": "君のクイズ",
+    "author": "小川哲"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon2972",
+   "book": {
+    "title": "夜は短し歩けよ乙女",
+    "author": "森見登美彦",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon3299",
+   "book": {
+    "title": "私の男",
+    "author": "桜庭一樹",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon3661",
+   "book": {
+    "title": "トーキョーエイリアンブラザーズ",
+    "author": "真造圭伍",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon4139",
+   "book": {
+    "title": "浪費図鑑 悪友たちのないしょ話",
+    "author": "劇団雌猫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon4809",
+   "book": {
+    "title": "はれた日は学校をやすんで",
+    "author": "西原理恵子",
+    "edition": "双葉文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5082",
+   "book": {
+    "title": "同級生",
+    "author": "中村明日美子"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5320",
+   "book": {
+    "title": "陰翳礼讃",
+    "author": "谷崎潤一郎",
+    "edition": "角川ソフィア文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5320",
+   "book": {
+    "title": "ドレス",
+    "author": "藤野可織"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5470",
+   "book": {
+    "title": "わたくし率 イン 歯ー、または世界",
+    "author": "川上未映子",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5470",
+   "book": {
+    "title": "春琴抄",
+    "author": "谷崎潤一郎",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5690",
+   "book": {
+    "title": "こちらあみ子",
+    "author": "今村夏子",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon5937",
+   "book": {
+    "title": "おめかしの引力",
+    "author": "川上未映子"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon6276",
+   "book": {
+    "title": "新訳 チェーホフ短篇集",
+    "author": "チェーホフ"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon6521",
+   "book": {
+    "title": "バレエ・メカニック",
+    "author": "津原泰水",
+    "edition": "ハヤカワ文庫JA"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon6687",
+   "book": {
+    "title": "しき",
+    "author": "町屋良平"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7329",
+   "book": {
+    "title": "やっかいな男",
+    "author": "岩井秀人"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7330",
+   "book": {
+    "title": "悲しくてかっこいい人",
+    "author": "イ・ラン"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7410",
+   "book": {
+    "title": "ホンマタカシの換骨奪胎",
+    "author": "ホンマタカシ"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7520",
+   "book": {
+    "title": "ものするひと",
+    "author": "オカヤイヅミ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7640",
+   "book": {
+    "title": "ぼくを探しに",
+    "author": "シェル・シルヴァスタイン"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7817",
+   "book": {
+    "title": "夫婦ってなんだ?",
+    "author": "トミヤマユキコ"
+   }
+  },
+  {
+   "personId": "renge",
+   "sourceId": "hon7909",
+   "book": {
+    "title": "自立する子どもになろう",
+    "author": "マリリン・バーンズ"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon1645",
+   "book": {
+    "title": "あなたには\"躾\"があるか?",
+    "author": "齋藤薫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon1645",
+   "book": {
+    "title": "日本の七十二候を楽しむ 旧暦のある暮らし",
+    "author": "白井明大"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2005",
+   "book": {
+    "title": "日本の言葉の由来を愛おしむ 語源が伝える日本人の心",
+    "author": "高橋こうじ"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2005",
+   "book": {
+    "title": "仕事。",
+    "author": "川村元気"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2005",
+   "book": {
+    "title": "HAPPINESS IS... 幸せを感じる500のこと",
+    "author": "リサ・スウェーリング、ラルフ・レザー",
+    "edition": "日本語版"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2475",
+   "book": {
+    "title": "いつかティファニーで朝食を",
+    "author": "マキヒロチ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2475",
+   "book": {
+    "title": "ティファニーで朝食を",
+    "author": "トルーマン・カポーティ",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2475",
+   "book": {
+    "title": "結婚のずっと前",
+    "author": "坂之上洋子"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2908",
+   "book": {
+    "title": "斉藤アリスのときめきカフェめぐり",
+    "author": "斉藤アリス"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2908",
+   "book": {
+    "title": "ジヴェルニーの食卓",
+    "author": "原田マハ",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon2908",
+   "book": {
+    "title": "あさきゆめみし",
+    "author": "大和和紀",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon3327",
+   "book": {
+    "title": "無意識の構造",
+    "author": "河合隼雄",
+    "edition": "中公新書"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon3327",
+   "book": {
+    "title": "自分の中に毒を持て",
+    "author": "岡本太郎",
+    "edition": "青春文庫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon3327",
+   "book": {
+    "title": "四月になれば彼女は",
+    "author": "川村元気"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon3673",
+   "book": {
+    "title": "サピエンス全史",
+    "author": "ユヴァル・ノア・ハラリ",
+    "edition": "上"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon3673",
+   "book": {
+    "title": "阿・吽",
+    "author": "おかざき真里",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon3673",
+   "book": {
+    "title": "グレート・ギャツビー",
+    "author": "スコット・フィッツジェラルド",
+    "edition": "村上春樹翻訳ライブラリー"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon4138",
+   "book": {
+    "title": "マチネの終わりに",
+    "author": "平野啓一郎"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon4138",
+   "book": {
+    "title": "空海の風景 上",
+    "author": "司馬遼太郎",
+    "edition": "中公文庫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon4138",
+   "book": {
+    "title": "女の子が生きていくときに、覚えていてほしいこと",
+    "author": "西原理恵子"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon5785",
+   "book": {
+    "title": "アルフレッド・アドラー 人生に革命が起きる100の言葉",
+    "author": "小倉広"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon5785",
+   "book": {
+    "title": "娼年",
+    "author": "石田衣良",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon5785",
+   "book": {
+    "title": "日本の知恵ぐすりを暮らしに 身近な食材でからだ調う",
+    "author": "瀬戸内和美"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon5936",
+   "book": {
+    "title": "株主総会",
+    "author": "牛島信",
+    "edition": "幻冬舎文庫"
+   }
+  },
+  {
+   "personId": "shiori",
+   "sourceId": "hon5936",
+   "book": {
+    "title": "もう、家に帰ろう",
+    "author": "田辺あゆみ、藤代冥砂"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon329",
+   "book": {
+    "title": "職業としての小説家",
+    "author": "村上春樹"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon329",
+   "book": {
+    "title": "火花",
+    "author": "又吉直樹"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon380",
+   "book": {
+    "title": "メキシコホテル ペンション・アミーゴの旅人たち",
+    "author": "大倉直、稲垣徳文"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon380",
+   "book": {
+    "title": "旅する力 深夜特急ノート",
+    "author": "沢木耕太郎",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon429",
+   "book": {
+    "title": "バクマン。",
+    "author": "小畑健",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon429",
+   "book": {
+    "title": "相方は、統合失調症",
+    "author": "松本キック"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon429",
+   "book": {
+    "title": "ウディ・アレンのすべて",
+    "author": "井上一馬"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon429",
+   "book": {
+    "title": "自分の運命に楯を突け",
+    "author": "岡本太郎",
+    "edition": "青春文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon457",
+   "book": {
+    "title": "ぼくがいま、死について思うこと",
+    "author": "椎名誠",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon457",
+   "book": {
+    "title": "裁判長!おもいっきり悩んでもいいすか",
+    "author": "北尾トロ",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon457",
+   "book": {
+    "title": "死刑のための殺人 土浦連続通り魔事件・死刑囚の記録",
+    "author": "読売新聞水戸支局取材班"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon457",
+   "book": {
+    "title": "裁かれた命 死刑囚から届いた手紙",
+    "author": "堀川惠子",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon967",
+   "book": {
+    "title": "私はいったい、何と闘っているのか",
+    "author": "つぶやきシロー"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon967",
+   "book": {
+    "title": "「踊る大捜査線」あの名台詞が書けたわけ",
+    "author": "君塚良一",
+    "edition": "朝日新書"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon967",
+   "book": {
+    "title": "なやむ前のどんぶり君 世界は最初から君に与えられている",
+    "author": "明川哲也",
+    "edition": "ちくまプリマー新書"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon2479",
+   "book": {
+    "title": "路上の視野 1 紙のライオン",
+    "author": "沢木耕太郎",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon2479",
+   "book": {
+    "title": "路上の視野 3 地図を燃やす",
+    "author": "沢木耕太郎",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon2479",
+   "book": {
+    "title": "公園対談 クリエイティブな仕事はどこにある?",
+    "author": "是枝裕和、樋口景一"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4068",
+   "book": {
+    "title": "獣神サンダー・ライガー自伝 上",
+    "author": "獣神サンダー・ライガー",
+    "edition": "新日本プロレスブックス"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4068",
+   "book": {
+    "title": "9番目の音を探して 47歳からのニューヨークジャズ留学",
+    "author": "大江千里"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4068",
+   "book": {
+    "title": "世界の混沌を歩く ダークツーリスト",
+    "author": "丸山ゴンザレス"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4382",
+   "book": {
+    "title": "旅人よ どの街で死ぬか。 男の美眺",
+    "author": "伊集院静"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4382",
+   "book": {
+    "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+    "author": "若林正恭"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4801",
+   "book": {
+    "title": "スタンフォード式 最高の睡眠",
+    "author": "西野精治"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon4801",
+   "book": {
+    "title": "朝昼夕3つのことを心がければOK! あなたの人生を変える睡眠の法則",
+    "author": "菅原洋平"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5026",
+   "book": {
+    "title": "久米宏です。 ニュースステーションはザ・ベストテンだった",
+    "author": "久米宏"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5026",
+   "book": {
+    "title": "海馬 脳は疲れない",
+    "author": "池谷裕二、糸井重里",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5296",
+   "book": {
+    "title": "記者たちは海に向かった 津波と放射能と福島民友新聞",
+    "author": "門田隆将",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5296",
+   "book": {
+    "title": "まいにち富士山",
+    "author": "佐々木茂良",
+    "edition": "新潮新書"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5296",
+   "book": {
+    "title": "考える力",
+    "author": "羽生善治、茂木健一郎",
+    "edition": "だいわ文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5609",
+   "book": {
+    "title": "ニューヨークで考え中",
+    "author": "近藤聡乃"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5609",
+   "book": {
+    "title": "孤独と不安のレッスン",
+    "author": "鴻上尚史",
+    "edition": "だいわ文庫"
+   }
+  },
+  {
+   "personId": "kushida",
+   "sourceId": "hon5609",
+   "book": {
+    "title": "ブルックリンでジャズを耕す 52歳から始めるひとりビジネス",
+    "author": "大江千里"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11466",
+   "book": {
+    "title": "世紀末リーダー伝たけし!",
+    "author": "島袋光年",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11489",
+   "book": {
+    "title": "らんま1/2",
+    "author": "高橋留美子",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11524",
+   "book": {
+    "title": "惡の華",
+    "author": "押見修造",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11542",
+   "book": {
+    "title": "サナギさん",
+    "author": "施川ユウキ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11571",
+   "book": {
+    "title": "福島鉄平短編集 スイミング",
+    "author": "福島鉄平"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11571",
+   "book": {
+    "title": "福島鉄平短編集 アマリリス",
+    "author": "福島鉄平"
+   }
+  },
+  {
+   "personId": "gaku",
+   "sourceId": "hon11592",
+   "book": {
+    "title": "あさひなぐ",
+    "author": "こざき亜衣",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "aida",
+   "sourceId": "hon9363",
+   "book": {
+    "title": "地獄甲子園",
+    "author": "漫☆画太郎",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "aida",
+   "sourceId": "hon9548",
+   "book": {
+    "title": "ドラゴンクエスト ダイの大冒険",
+    "author": "三条陸、稲田浩司",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "aida",
+   "sourceId": "hon9692",
+   "book": {
+    "title": "鉄コン筋クリート",
+    "author": "松本大洋",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "aida",
+   "sourceId": "hon9693",
+   "book": {
+    "title": "アルスラーン戦記",
+    "author": "荒川弘",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "aida",
+   "sourceId": "hon9694",
+   "book": {
+    "title": "葬送のフリーレン",
+    "author": "山田鐘人、アベツカサ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "hon9506",
+   "book": {
+    "title": "無人島に生きる十六人",
+    "author": "須川邦彦",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "hon9615",
+   "book": {
+    "title": "プリズン・ガール アメリカ女子刑務所での22か月",
+    "author": "有村朋美",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "hon9616",
+   "book": {
+    "title": "ワセダ三畳青春記",
+    "author": "高野秀行",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "hon9617",
+   "book": {
+    "title": "ストーリー・セラー",
+    "author": "有川浩"
+   }
+  },
+  {
+   "personId": "ueda",
+   "sourceId": "hon9619",
+   "book": {
+    "title": "リンダリンダラバーソール いかす!バンドブーム天国",
+    "author": "大槻ケンヂ",
+    "edition": "ダ・ヴィンチ・ブックス"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11609",
+   "result": "rejected",
+   "reason": "藤原努（元ホリプロプロデューサー）の連載「ダメ業界人の戯れ言」#5。椎名林檎は話題の対象で、本人の選書ではない。起点の記事はゲストの本棚ではなかった",
+   "person": "椎名林檎"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11508",
+   "result": "rejected",
+   "reason": "藤原努の連載「ダメ業界人の戯れ言」。タイトルのみ確認。ゲストの本棚ではなく書き手本人の読書コラム（連載は#1〜#23＋書評#1〜#19前後、既に台帳で保留）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11527",
+   "result": "rejected",
+   "reason": "藤原努の連載「ダメ業界人の戯れ言」。タイトルのみ確認。ゲストの本棚ではなく書き手本人の読書コラム（連載は#1〜#23＋書評#1〜#19前後、既に台帳で保留）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11585",
+   "result": "rejected",
+   "reason": "藤原努の連載「ダメ業界人の戯れ言」。タイトルのみ確認。ゲストの本棚ではなく書き手本人の読書コラム（連載は#1〜#23＋書評#1〜#19前後、既に台帳で保留）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11566",
+   "result": "rejected",
+   "reason": "谷口つばさ。編集部が題材を渡した新刊レビューで、本人が選んだ本か不明（選書コラム「偏愛本」だけ採用）",
+   "person": "谷口つばさ"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11577",
+   "result": "rejected",
+   "reason": "同記事の『王国』『教団X』『カード師』は関連書の商品カードで、本人が薦めた本は『掏摸』のみ採用",
+   "person": "谷口つばさ"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/4483",
+   "result": "rejected",
+   "reason": "石山蓮華の連載。柴田聡子詩集の商品カードのみで、本人の本への言及を本文で確認できない",
+   "person": "石山蓮華"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5784",
+   "result": "rejected",
+   "reason": "石山蓮華の連載。『性食考』は同行した友人が持参した本で、本人の推薦ではない",
+   "person": "石山蓮華"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6969",
+   "result": "rejected",
+   "reason": "石山蓮華の連載。文学ムック掲載の短編に触れるのみで、薦める形ではない",
+   "person": "石山蓮華"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11348",
+   "result": "rejected",
+   "reason": "パンプキンポテトフライ谷拓哉「本飲み」。編集部から渡された本の感想で、本人が選んだ本ではない（第2〜6回 11376/11413/11453/11469/11505 も同形式のため開かず）",
+   "person": "谷拓哉"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5018",
+   "result": "candidate",
+   "reason": "つぶやきシロー「つぶやき読書」第2回。本の選び方（本人選か依頼か）が未確認。同連載は第2〜26回（5019,5375,5465,5523,5617,5703,5768,5831,5885,5981,6088,6207,6311,6422,6490,6617,6688,6761,6819,6875,6928,6994）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5375",
+   "result": "candidate",
+   "reason": "つぶやきシロー「つぶやき読書」第4回。5018と同じ理由で未確認",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9695",
+   "result": "unreachable",
+   "reason": "三四郎相田周二のべしゃり書き漫画道 第6回。本文に本の商品カードがなく確認できず",
+   "person": "相田周二"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9618",
+   "result": "rejected",
+   "reason": "Hi-Hi上田浩二郎の連載第5回。編集部から「これ読んでみ」と渡された本で、本人の選書ではない",
+   "person": "上田浩二郎"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9700",
+   "result": "rejected",
+   "reason": "錦鯉長谷川まさのり絵日記（連載初回）。日記で本の紹介がない（9701〜9704も同連載のため開かず）",
+   "person": "長谷川雅紀"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9875",
+   "result": "rejected",
+   "reason": "トンツカタン森本晋太郎の大喜利連載。読者投稿の漫画要約で、本人の推薦ではない",
+   "person": "森本晋太郎"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11725",
+   "result": "rejected",
+   "reason": "岡山天音「※この岡山天音はフィクションです。」。フィクションの短編連載（#1〜#35、台帳の12229と同じ）",
+   "person": "岡山天音"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/380",
+   "result": "candidate",
+   "reason": "KUSHIDA。ガイドブック2冊（地球の歩き方・旅の指さし会話帳）は実用書のため除外。他2冊のみ採用",
+   "person": "KUSHIDA"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/1100",
+   "result": "candidate",
+   "reason": "ハナエ（シンガー）。未開封",
+   "person": "ハナエ"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/228",
+   "result": "candidate",
+   "reason": "ハッカドロップス（ミュージシャン）。未開封",
+   "person": "ハッカドロップス"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/287",
+   "result": "candidate",
+   "reason": "今川宇宙（アーティスト）。未開封",
+   "person": "今川宇宙"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/392",
+   "result": "candidate",
+   "reason": "結城洋平（役者）の連載。名前で検索される度合いが低く未開封（同連載多数）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/537",
+   "result": "candidate",
+   "reason": "橋本淳（俳優）の選書コラム。未開封（同連載 2641,3828,4217,4938,5529,5659,5782,6136 など）",
+   "person": "橋本淳"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/3968",
+   "result": "candidate",
+   "reason": "山本裕子（俳優）。ランニング本4冊の記事。未開封（連載はほぼエッセイ）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/1983",
+   "result": "candidate",
+   "reason": "小塚舞子（タレント）の連載。エッセイ中心で未開封",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7984",
+   "result": "candidate",
+   "reason": "山中志歩（女優）。本の紹介記事 7984,8023,8065,8117,8177,8356 は未開封",
+   "person": "山中志歩"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11490",
+   "result": "candidate",
+   "reason": "西川あやの（文化放送アナウンサー）の読書コラム。名前で検索される度合いが低く未開封（11702 と同連載）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11751",
+   "result": "candidate",
+   "reason": "三田紀房（マンガ家）インタビュー。本の話が出るか未確認（11803,11804）",
+   "person": "三田紀房"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11838",
+   "result": "candidate",
+   "reason": "今泉力哉（映画監督）インタビュー。未開封（11839〜11841）",
+   "person": "今泉力哉"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11797",
+   "result": "candidate",
+   "reason": "菅野祐悟（作曲家）インタビュー。未開封（11805,11809,11810）",
+   "person": "菅野祐悟"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9376",
+   "result": "candidate",
+   "reason": "「フリースタイル書評バトル-芸人編-」第2回（9473,9780,9962 も）。複数芸人が書評で競う企画で、誰がどの本かの確認が未了"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11645",
+   "result": "candidate",
+   "reason": "羽鳥好之（元文藝春秋文芸局長）の歴史本連載。名前で検索される度合いが低く未開封",
+   "person": "羽鳥好之"
+  },
+  {
+   "url": "https://honcierge.jp/education/celebrities",
+   "result": "index",
+   "reason": "ホンシェルジュ「著名人」一覧（472記事、全件のID・見出し・筆者を取得）。今回は需要ありの人（谷口つばさ・文月悠光・石山蓮華・松原汐織・KUSHIDA・佐藤千亜妃）の記事と、真空ジェシカ・ガク／三四郎相田／Hi-Hi上田を開いた。未開封は上記candidateと、小塚舞子・山本裕子・結城洋平・橋本淳・山中志歩・つぶやきシロー・チョーヒカル等の連載。一覧ページは1枚で全件が返る（ページ送りなし）"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story",
+   "result": "unreachable",
+   "reason": "HTTP 404。「本棚の物語」の一覧ページは存在せず、shelf_story/ は全記事共通のパス。起点の11609は藤原努の連載で、ゲスト著名人の本棚連載ではない"
+  }
+ ]
+}

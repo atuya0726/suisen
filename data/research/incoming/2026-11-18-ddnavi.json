@@ -1,0 +1,161 @@
+{
+ "people": [
+  {
+   "id": "uchida-maaya",
+   "name": "内田真礼",
+   "title": "声優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "matsushima-nanako",
+   "name": "松嶋菜々子",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "dv-2023-03-09-uchida-maaya",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "内田真礼 老後に想いを馳せるエッセイ。年上の女性が描く「人生の可能性」を楽しむ【私の愛読書】",
+   "url": "https://ddnavi.com/article/d1096750/a/",
+   "publishedAt": "2023-03-09"
+  },
+  {
+   "id": "dv-2026-01-27-matsushima-nanako",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "松嶋菜々子さんが選んだ一冊とは？「やなせさんの言葉には、苦しくても頑張ろうという温かい強さがあります」",
+   "url": "https://ddnavi.com/article/1318209/a/",
+   "publishedAt": "2026-01-27"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "uchida-maaya",
+   "sourceId": "dv-2023-03-09-uchida-maaya",
+   "book": {
+    "title": "89歳、ひとり暮らし。",
+    "author": "大崎博子",
+    "publisher": "宝島社"
+   }
+  },
+  {
+   "personId": "matsushima-nanako",
+   "sourceId": "dv-2026-01-27-matsushima-nanako",
+   "book": {
+    "title": "愛・LOVE・優",
+    "author": "やなせたかし",
+    "publisher": "やなせスタジオ"
+   },
+   "note": "香美市立やなせたかし記念館で購入した自費出版の詩画集"
+  },
+  {
+   "personId": "matsushima-nanako",
+   "sourceId": "dv-2026-01-27-matsushima-nanako",
+   "book": {
+    "title": "優・LOVE・美",
+    "author": "やなせたかし"
+   },
+   "note": "『愛・LOVE・優』と併せて購入"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://ddnavi.com/aidokusho/",
+   "result": "index",
+   "reason": "連載「私の愛読書」一覧1ページ目を再取得。全58回(第1回2022-11〜第58回2026-08)。台帳は既に2ページ分(page/2まで)を確認済みと記録済みで、page/3は404。今回、台帳に無かった記事は第8回(内田真礼)・第21回(神木隆之介)のみで、本文を読んだ。2026-08以降の新着回は無い(最新話は第58回の早瀬憩)。",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/aidokusho/page/2/",
+   "result": "index",
+   "reason": "連載一覧2ページ目(第31〜58回)。全件が台帳に既出。連載はこれで尽きており、残りの一覧ページは無い。"
+  },
+  {
+   "url": "https://ddnavi.com/aidokusho/page/3/",
+   "result": "unreachable",
+   "reason": "404（2ページで終わり）"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1096750/a/",
+   "result": "adopted",
+   "reason": "内田真礼『89歳、ひとり暮らし。』を本文で確認",
+   "person": "内田真礼"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1142281/a/",
+   "result": "adopted",
+   "reason": "神木隆之介『DEATH NOTE』。sources.json に既出（台帳に無かっただけ）。末尾の少女マンガ（『たいがー＆どらごん』等）は最近読んでいる作品の話で、著者名もなく採らない",
+   "person": "神木隆之介"
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/",
+   "result": "index",
+   "reason": "「あの人と本の話 and more」1ページ目を再取得。選書回は台帳の分と、sources.json 既出の3本（1437782・1450604・1318202）、新規1本（1318209）。それ以外は書評・著者インタビュー。2ページ目(/page/2/)は全件台帳既出で、3ページ目は404。"
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/page/2/",
+   "result": "index",
+   "reason": "2ページ目。全件台帳に既出（採用済み、1269635のみ不採用）。"
+  },
+  {
+   "url": "https://ddnavi.com/article/1318209/a/",
+   "result": "adopted",
+   "reason": "松嶋菜々子『愛・LOVE・優』『優・LOVE・美』（やなせたかし）。『愛・LOVE・優』は書誌が記事にあるが、自費出版でISBNがない可能性が高い。取り込み時に特定できなければ載せない",
+   "person": "松嶋菜々子"
+  },
+  {
+   "url": "https://ddnavi.com/article/1437782/a/",
+   "result": "adopted",
+   "reason": "広瀬アリス『呪術廻戦』。sources.json に既出（台帳に無かっただけ）",
+   "person": "広瀬アリス"
+  },
+  {
+   "url": "https://ddnavi.com/article/1450604/a/",
+   "result": "adopted",
+   "reason": "萩原利久『チ。』。sources.json に既出（台帳に無かっただけ）",
+   "person": "萩原利久"
+  },
+  {
+   "url": "https://ddnavi.com/article/1318202/a/",
+   "result": "adopted",
+   "reason": "高杉真宙『チ。』。sources.json に既出（台帳に無かっただけ）",
+   "person": "高杉真宙"
+  },
+  {
+   "url": "https://ddnavi.com/article/1456061/a/",
+   "result": "rejected",
+   "reason": "上白石萌音の新刊エッセイ『そもそも』の著者インタビュー（自著）。本文は開いていない",
+   "person": "上白石萌音"
+  },
+  {
+   "url": "https://ddnavi.com/article/1452260/a/",
+   "result": "rejected",
+   "reason": "佐々木希のフォトエッセイの書評（自著）。本文は開いていない",
+   "person": "佐々木希"
+  },
+  {
+   "url": "https://ddnavi.com/article/1455182/a/",
+   "result": "candidate",
+   "reason": "「救いがないのに心に残る小説7選」。編集部の選書記事で、佐々木希の発言が一部ある。誰がどの本を挙げたか未確認。本文は開いていない",
+   "person": "佐々木希"
+  },
+  {
+   "url": "https://ddnavi.com/article/1443715/a/",
+   "result": "rejected",
+   "reason": "町田そのこ新刊の書評（自著）。本文は開いていない",
+   "person": "町田そのこ"
+  },
+  {
+   "url": "https://ddnavi.com/article/1448798/a/",
+   "result": "rejected",
+   "reason": "書評。選書記事ではない。本文は開いていない"
+  }
+ ]
+}
