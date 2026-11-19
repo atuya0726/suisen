@@ -16853,5 +16853,581 @@
     "title": "感涙必至！ミステリーと人間ドラマが美しく融合された小説",
     "url": "https://honto.jp/booktree/detail_00005050.html",
     "publishedAt": "2017-11-16"
+  },
+  {
+    "id": "s-kiyohara",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "清原果耶さんが選んだ1冊は？「どんな感情のときにも必ずどこかに導いてくれます」",
+    "url": "https://ddnavi.com/article/d1145887/a/",
+    "publishedAt": "2023-07-13"
+  },
+  {
+    "id": "s-ayano",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "綾野剛が選んだ1冊は？「打ちのめされても、瞼を閉じず世界を見つめ続けなければならない」",
+    "url": "https://ddnavi.com/article/d1237909/a/",
+    "publishedAt": "2024-01-13"
+  },
+  {
+    "id": "s-miyase",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "宮世琉弥が選んだ1冊は？「大好きな画家たちの言葉に心を救われ、今では役者の仕事にも活かされてます」",
+    "url": "https://ddnavi.com/article/d1269055/a/",
+    "publishedAt": "2024-03-14"
+  },
+  {
+    "id": "s-morita",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "森田剛が選んだ1冊は？「植物と一緒に生きている、暮らしているような感覚です」",
+    "url": "https://ddnavi.com/article/d1365100/a/",
+    "publishedAt": "2024-08-14"
+  },
+  {
+    "id": "s-hagiwara",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "萩原利久が選んだ1冊は？「プレーも生き方も、すべてが憧れ。この本で初めて知った事実もありました」",
+    "url": "https://ddnavi.com/article/d1330149/a/",
+    "publishedAt": "2024-06-14"
+  },
+  {
+    "id": "s-kaho",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "夏帆さんが選んだ1冊は？「うまく言葉にしづらいことの中にこそ、大切なものがたくさん詰まってる」",
+    "url": "https://ddnavi.com/article/d1161145/a/",
+    "publishedAt": "2023-08-11"
+  },
+  {
+    "id": "s-suzumura",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "鈴村健一「河童さんのような天才に打ち勝つこと。それが僕の人生の目標です」【あの人と本の話】",
+    "url": "https://ddnavi.com/article/d806615/a/",
+    "publishedAt": "2021-07-14"
+  },
+  {
+    "id": "s-kadowaki",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "門脇麦さんが選んだ1冊は？「本当につらい時は誰かに頼ってもいい。そう考えられることがひと筋の光」",
+    "url": "https://ddnavi.com/article/d1177602/a/",
+    "publishedAt": "2023-09-13"
+  },
+  {
+    "id": "s-aoi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "葵わかなが選んだ1冊は？「不器用に生きる主人公の姿を通して気づかされることがたくさんありました」",
+    "url": "https://ddnavi.com/article/d1391189/a/",
+    "publishedAt": "2024-09-14"
+  },
+  {
+    "id": "s-kasamatsu",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "笠松将さんが選んだ1冊は？「“できないこと\"があるのが嫌。だからこの本で、毎日勉強してます」",
+    "url": "https://ddnavi.com/article/d1057360/a/",
+    "publishedAt": "2022-12-15"
+  },
+  {
+    "id": "s-fukada",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "深田竜生が選んだ1冊は？「いろんな想像力を掻き立てられる絵本　この一冊から多くのことを学びました」",
+    "url": "https://ddnavi.com/article/d1469653/a/",
+    "publishedAt": "2024-12-16"
+  },
+  {
+    "id": "s-kataoka",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "片岡健太（sumika）さんが選んだ1冊は？「クリエイティブをするうえで何度も読み返す、お守りのような一冊」",
+    "url": "https://ddnavi.com/article/d1004600/a/",
+    "publishedAt": "2022-07-11"
+  },
+  {
+    "id": "s-igashira",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "井頭愛海「初めての“ハッちゃけた”役で、演じることの楽しさを痛感しました」【あの人と本の話『アーモンド』】",
+    "url": "https://ddnavi.com/article/d789271/a/",
+    "publishedAt": "2021-06-12"
+  },
+  {
+    "id": "s-mikami",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "見上愛さんが選んだ1冊は？「思春期の整理のつかない自意識に、主人公の不安定な自我が響きました」",
+    "url": "https://ddnavi.com/article/d1046690/a/",
+    "publishedAt": "2022-11-14"
+  },
+  {
+    "id": "s-nagasaku",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "永作博美さんが選んだ1冊は？「言葉の背後にあるのは究極的には愛や優しさなんですね」",
+    "url": "https://ddnavi.com/article/d1206310/a/",
+    "publishedAt": "2023-11-13"
+  },
+  {
+    "id": "s-sakurai",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "桜井日奈子が選んだ1冊は？「弘前の街やご家族のこと、じろうさんの“好き”が詰まった本です」",
+    "url": "https://ddnavi.com/article/d1438813/a/",
+    "publishedAt": "2024-11-15"
+  },
+  {
+    "id": "s-takahashi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "高橋李依が選んだ1冊は？「脳のクセを把握しておけばもっと自分と付き合いやすくなる」",
+    "url": "https://ddnavi.com/article/d1414171/a/",
+    "publishedAt": "2024-10-13"
+  },
+  {
+    "id": "s-nakajo",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "中条あやみさんが選んだ1冊は？「さまざまな感情が描かれて、言葉の豊かさや情緒に魅了されます」",
+    "url": "https://ddnavi.com/article/d943500/a/",
+    "publishedAt": "2022-03-12"
+  },
+  {
+    "id": "s-tamaki",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "珠城りょうさんが選んだ1冊は？「自分の足で力強く人生を歩む主人公の姿が心に沁みました」",
+    "url": "https://ddnavi.com/article/d1037534/a/",
+    "publishedAt": "2022-10-10"
+  },
+  {
+    "id": "s-mitsuishi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "三石琴乃さんが選んだ1冊は？「自分の中の虚しさを埋めてくれた一冊。今も読み返すたびに印象が変わります」",
+    "url": "https://ddnavi.com/article/d1113853/a/",
+    "publishedAt": "2023-04-15"
+  },
+  {
+    "id": "s-sakurada",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "桜田ひよりが選んだ1冊は？「ひと言で恋愛小説と括れない二人の感情と想像を全て覆された展開に魅了されました」",
+    "url": "https://ddnavi.com/article/d1295640/a/",
+    "publishedAt": "2024-04-15"
+  },
+  {
+    "id": "s-setoa",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "瀬戸麻沙美さんが選んだ1冊は？「恋愛の過程以上に、登場人物たちの孤独が胸に突き刺さりました」",
+    "url": "https://ddnavi.com/article/d1026109/a/",
+    "publishedAt": "2022-09-11"
+  },
+  {
+    "id": "s-narita",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "成田 凌さんが選んだ1冊は？「まだ何者でもない自分にとって生き方を軽くしてくれる一冊です」",
+    "url": "https://ddnavi.com/article/d980431/a/",
+    "publishedAt": "2022-05-14"
+  },
+  {
+    "id": "s-setok",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "瀬戸康史さんが選んだ1冊は？「霊との距離感や各エピソードがリアルで思わず共感しながら読んでました」",
+    "url": "https://ddnavi.com/article/d1015072/a/",
+    "publishedAt": "2022-08-10"
+  },
+  {
+    "id": "s-shuri",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "趣里が選んだ1冊は？「次第に気になり始める語り手の異常性。その歪みや気持ち悪さがクセになる」",
+    "url": "https://ddnavi.com/article/d1414124/a/",
+    "publishedAt": "2024-10-12"
+  },
+  {
+    "id": "s-ikuta",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "生田絵梨花さんが選んだ1冊は？「大竹さんのように『まあいいか』と全てを受け止められる強さに憧れます」",
+    "url": "https://ddnavi.com/article/d1057354/a/",
+    "publishedAt": "2022-12-14"
+  },
+  {
+    "id": "s-kato-ryo",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "加藤諒「騙される快感の裏に、シリアスなメッセージがあるんです」【あの人と本の話】",
+    "url": "https://ddnavi.com/article/d810369/a/",
+    "publishedAt": "2021-07-13"
+  },
+  {
+    "id": "s-fukuchi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "福地桃子さんが選んだ1冊は？「偶然手にした一冊が私の心を満たす──そんな運命的な出会いを楽しんでます」",
+    "url": "https://ddnavi.com/article/d1026089/a/",
+    "publishedAt": "2022-09-10"
+  },
+  {
+    "id": "s-nanami",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "七海ひろきさんが選んだ1冊は『チ。』――「何かを伝えようとする人間の情熱。その力に強い憧れを抱きました」",
+    "url": "https://ddnavi.com/article/d943460/a/",
+    "publishedAt": "2022-03-11"
+  },
+  {
+    "id": "s-hotta",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "堀田茜が選んだ1冊は？「偏見や思想の違いから生まれるテロや争い。読みながら考えさせられることばかりです」",
+    "url": "https://ddnavi.com/article/d1295582/a/",
+    "publishedAt": "2024-04-14"
+  },
+  {
+    "id": "s-uchida",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "内田雄馬さんが選んだ1冊は？「自分らしくマイペースに戦うしかない。その姿に勇気をもらいました」",
+    "url": "https://ddnavi.com/article/d1046562/a/",
+    "publishedAt": "2022-11-13"
+  },
+  {
+    "id": "s-hamada",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "濱田龍臣「キラキラした青春がてんこ盛り。こんな青春があったらよかった」【あの人と本の話『SPY×FAMILY』】",
+    "url": "https://ddnavi.com/article/d789131/a/",
+    "publishedAt": "2021-06-11"
+  },
+  {
+    "id": "s-kuroki",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "黒木渚さんが選んだ1冊は？「この読みづらさは彼の生きづらさ。“少し誇張された私”を主人公に感じた」",
+    "url": "https://ddnavi.com/article/d995602/a/",
+    "publishedAt": "2022-06-12"
+  },
+  {
+    "id": "s-takahashi-b",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "高橋文哉さんが選んだ1冊は「本質を突いた言葉に、悩みを見透かされ、しかも心を軽くしてもらえる」",
+    "url": "https://ddnavi.com/article/d926302/a/",
+    "publishedAt": "2022-02-08"
+  },
+  {
+    "id": "s-onishi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "大西礼芳さんが選んだ1冊は？「少年の心が動けば、川が流れて螢が飛びます」",
+    "url": "https://ddnavi.com/article/d1037552/a/",
+    "publishedAt": "2022-10-09"
+  },
+  {
+    "id": "s-funakoshi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "船越英一郎さんが選んだ1冊は？「渡辺くんのすべてが詰まった一冊。彼と友達になった気持ちになりました」",
+    "url": "https://ddnavi.com/article/d1134636/a/",
+    "publishedAt": "2023-06-13"
+  },
+  {
+    "id": "s-ogawa",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "緒川たまきさんが選んだ1冊は？「読んだあと、さらに広がりを見せる景色。願わくば、新作舞台もそうでありたい」",
+    "url": "https://ddnavi.com/article/d1177634/a/",
+    "publishedAt": "2023-09-15"
+  },
+  {
+    "id": "s-yoshikawa",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "吉川ひなのさんが選んだ1冊は？「幼い頃の私を守ってくれるような、自分の気持ちを代弁してくれた一冊」",
+    "url": "https://ddnavi.com/article/d1161163/a/",
+    "publishedAt": "2023-08-13"
+  },
+  {
+    "id": "s-furukawa",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "古川琴音さんが選んだ1冊は？「自分の中に溜まっているものを、ふわっと手放させてくれる」",
+    "url": "https://ddnavi.com/article/d1070933/a/",
+    "publishedAt": "2023-01-14"
+  },
+  {
+    "id": "s-okudaira",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "奥平大兼が選んだ1冊は？「一枚の絵から人生まで想像させるゴッホの魅力を感じました」",
+    "url": "https://ddnavi.com/article/d1369251/a/",
+    "publishedAt": "2024-08-16"
+  },
+  {
+    "id": "s-minami",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "南沙良さんが選んだ1冊は？「古本屋は私にとって出会いの場。この本も運命的に巡り合った一冊」",
+    "url": "https://ddnavi.com/article/d1015052/a/",
+    "publishedAt": "2022-08-09"
+  },
+  {
+    "id": "s-utaha",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "詩羽さんが選んだ1冊は？「誰になんと言われようと、自分の“好き”を貫く強さを教えてもらった」",
+    "url": "https://ddnavi.com/article/d1145883/a/",
+    "publishedAt": "2023-07-15"
+  },
+  {
+    "id": "s-terada",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "寺田心が選んだ1冊は？「目を背けてはいけない現実に直面し、命の尊さを強く感じました」",
+    "url": "https://ddnavi.com/article/d1222755/a/",
+    "publishedAt": "2023-12-15"
+  },
+  {
+    "id": "s-honda",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "本田望結が選んだ1冊は？「本を読んでいろんなことを想像する。その楽しさを教えてくれました」",
+    "url": "https://ddnavi.com/article/d1438743/a/",
+    "publishedAt": "2024-11-14"
+  },
+  {
+    "id": "s-koike",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "小池徹平さんが選んだ1冊は？「バトルのなかにある深い人間ドラマ　虚構と現実をたゆたう距離感が絶妙」",
+    "url": "https://ddnavi.com/article/d980427/a/",
+    "publishedAt": "2022-05-13"
+  },
+  {
+    "id": "s-kato-shiho",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "加藤史帆が選んだ1冊は？「諫山さんだけが持っている“記憶”なんじゃないかと思ったくらいです。」",
+    "url": "https://ddnavi.com/article/d1346308/a/",
+    "publishedAt": "2024-07-13"
+  },
+  {
+    "id": "s-ihara",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "伊原六花が選んだ1冊は？「希望を捨てなければ、いつだってワクワクできる。そう教えられました」",
+    "url": "https://ddnavi.com/article/d1469611/a/",
+    "publishedAt": "2024-12-15"
+  },
+  {
+    "id": "s-fukushi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "福士蒼汰さんが選んだ1冊は？「大人になって気づいた物語の深み　東洋の思想も感じる色褪せない名作」",
+    "url": "https://ddnavi.com/article/d964087/a/",
+    "publishedAt": "2022-04-13"
+  },
+  {
+    "id": "s-matsumura",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "松村沙友理さんが選んだ1冊は？「友人の恋バナを聞いているようなリアルさ。男性側の感想も聞いてみたくなります（笑）」",
+    "url": "https://ddnavi.com/article/d1124277/a/",
+    "publishedAt": "2023-05-15"
+  },
+  {
+    "id": "s-matsumoto",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "松本穂香さんが選んだ1冊は？「考えすぎる自分、生きづらい自分も全部許していけたらいい」",
+    "url": "https://ddnavi.com/article/d1026069/a/",
+    "publishedAt": "2022-09-09"
+  },
+  {
+    "id": "s-nao",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "奈緒さんが選んだ1冊は？「ひとりが好きでいいのだと安堵した優しさのかたまりのような一冊」",
+    "url": "https://ddnavi.com/article/d995596/a/",
+    "publishedAt": "2022-06-11"
+  },
+  {
+    "id": "s-maeda",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "前田公輝さんが選んだ1冊は？「肩の力が抜けた自分に重なったのは超サイヤ人、最強の形態でした」",
+    "url": "https://ddnavi.com/article/d1037573/a/",
+    "publishedAt": "2022-10-08"
+  },
+  {
+    "id": "s-ryusei",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "竜星涼さんが選んだ1冊は？「どう価値のある生き方をするのかが一番大切なんだと思います」",
+    "url": "https://ddnavi.com/article/d1177625/a/",
+    "publishedAt": "2023-09-14"
+  },
+  {
+    "id": "s-okamiya",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "岡宮来夢が選んだ1冊は？「世界中の人が同じ言葉を使ったら、争いごとはなくなると信じています」",
+    "url": "https://ddnavi.com/article/d1312582/a/",
+    "publishedAt": "2024-05-16"
+  },
+  {
+    "id": "s-mashima",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "眞島秀和が選んだ1冊は？「舞台の稽古は言葉と向き合う時間。言葉遣いに不安を感じ、手に取りました」",
+    "url": "https://ddnavi.com/article/d1222738/a/",
+    "publishedAt": "2023-12-13"
+  },
+  {
+    "id": "s-sugino",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "杉野遥亮が選んだ1冊は？「日本古来の“心”がここにある。僕にとっては人生の教科書のような一冊」",
+    "url": "https://ddnavi.com/article/d1346444/a/",
+    "publishedAt": "2024-07-12"
+  },
+  {
+    "id": "s-iijima",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "飯島寛騎さんが選んだ1冊は？「見ているだけで感性が刺激される。そんな贅沢な時間を味わってます」",
+    "url": "https://ddnavi.com/article/d1015015/a/",
+    "publishedAt": "2022-08-08"
+  },
+  {
+    "id": "s-kishii",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "岸井ゆきのさんが選んだ1冊は？「たったひとり大宇宙を行く、主人公のポジティブさ、驚きの展開に大興奮！」",
+    "url": "https://ddnavi.com/article/d943405/a/",
+    "publishedAt": "2022-03-10"
+  },
+  {
+    "id": "s-miyoshi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "三吉彩花が選んだ1冊は？「心を込めて料理を作れば、必ずそれが相手に伝わるんだと思いました」",
+    "url": "https://ddnavi.com/article/d1438655/a/",
+    "publishedAt": "2024-11-13"
+  },
+  {
+    "id": "s-tachibana",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "橘ケンチさんが選んだ1冊は？「最後、鈴さんの抱えていた想いがほろっとほどける。泣いてしまいました」",
+    "url": "https://ddnavi.com/article/d1098419/a/",
+    "publishedAt": "2023-03-13"
+  },
+  {
+    "id": "s-megumi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "MEGUMIさんが選んだ1冊は？「怖さがあり、羨ましさもある愛の形。こんな役を一度は演じてみたいですね」",
+    "url": "https://ddnavi.com/article/d1046479/a/",
+    "publishedAt": "2022-11-12"
+  },
+  {
+    "id": "s-asumi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "明日海りおが選んだ1冊は？「さくらももこさんの描く世界はすごく身近で、他人事とは思えません」",
+    "url": "https://ddnavi.com/article/d1414069/a/",
+    "publishedAt": "2024-10-11"
+  },
+  {
+    "id": "s-watanabe",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "渡邊圭祐さんが選んだ1冊は？「野宮朋美の言葉は、格言として僕の心に刻まれています」",
+    "url": "https://ddnavi.com/article/d1070925/a/",
+    "publishedAt": "2023-01-13"
+  },
+  {
+    "id": "s-eguchi",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "江口のりこが選んだ1冊は？「不思議なだけでなく、どこか懐かしい。私もそんなところに行きたいのかも」",
+    "url": "https://ddnavi.com/article/d1368896/a/",
+    "publishedAt": "2024-08-15"
+  },
+  {
+    "id": "s-shiroiwa",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "白岩瑠姫さん（JO1）が選んだ1冊は？「マンガで泣いたのは、これが最初で最後。ラストは涙が止まりませんでした」",
+    "url": "https://ddnavi.com/article/d1161213/a/",
+    "publishedAt": "2023-08-12"
+  },
+  {
+    "id": "s-hata",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "畑芽育が選んだ1冊は？「優しさのある最果さんの言葉に、少しだけ生き方が楽になりました」",
+    "url": "https://ddnavi.com/article/d1469483/a/",
+    "publishedAt": "2024-12-14"
+  },
+  {
+    "id": "s-yoshine",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "読書は苦手⁉ 芳根京子が“不老不死”の女性を演じる映画『Arc アーク』「きっとこの映画を何度も見返すと思う」【あの人と本の話】",
+    "url": "https://ddnavi.com/article/d787046/a/",
+    "publishedAt": "2021-06-10"
+  },
+  {
+    "id": "s-higa",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "比嘉愛未さんが選んだ1冊は？「苦しくなるけど何度も読んでしまう、私にとって最高のバイブルです!」",
+    "url": "https://ddnavi.com/article/d1057346/a/",
+    "publishedAt": "2022-12-13"
+  },
+  {
+    "id": "s-isomura",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "磯村勇斗さんがおすすめする「いろいろな想像力を膨らませてくれる、ロマンのある本」とは？",
+    "url": "https://ddnavi.com/article/d893230/a/",
+    "publishedAt": "2021-12-10"
+  },
+  {
+    "id": "s-itagaki",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "板垣李光人が選んだ1冊は？「人間の本質的な部分を突くような人間らしさのある作品が好き」",
+    "url": "https://ddnavi.com/article/d1237919/a/",
+    "publishedAt": "2024-01-14"
+  },
+  {
+    "id": "s-fukumoto",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "福本莉子さんが選んだ1冊は、読むだけで心穏やかになる『日日是好日』",
+    "url": "https://ddnavi.com/article/d926290/a/",
+    "publishedAt": "2022-02-07"
+  },
+  {
+    "id": "s-koshiba",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "小芝風花さんが選んだ1冊は？「周りがどう言おうと、『私は私』って思えるように強くありたいです」",
+    "url": "https://ddnavi.com/article/d1145980/a/",
+    "publishedAt": "2023-07-14"
   }
 ]

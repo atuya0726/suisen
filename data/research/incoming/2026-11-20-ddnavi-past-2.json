@@ -1,0 +1,699 @@
+{
+ "people": [
+  {
+   "id": "ihara",
+   "name": "伊原六花",
+   "kana": "いはら りっか",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "honda",
+   "name": "本田望結",
+   "kana": "ほんだ みゆ",
+   "title": "俳優・フィギュアスケーター",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "shuri",
+   "name": "趣里",
+   "kana": "しゅり",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "okudaira",
+   "name": "奥平大兼",
+   "kana": "おくだいら だいけん",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "kato-shiho",
+   "name": "加藤史帆",
+   "kana": "かとう しほ",
+   "title": "アイドル・日向坂46",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "anne",
+   "name": "杏",
+   "kana": "あん",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "hotta",
+   "name": "堀田茜",
+   "kana": "ほった あかね",
+   "title": "モデル",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "terada",
+   "name": "寺田心",
+   "kana": "てらだ こころ",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "ogawa",
+   "name": "緒川たまき",
+   "kana": "おがわ たまき",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yoshikawa",
+   "name": "吉川ひなの",
+   "title": "モデル",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "utaha",
+   "name": "詩羽",
+   "kana": "うたは",
+   "title": "歌手・水曜日のカンパネラ",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "funakoshi",
+   "name": "船越英一郎",
+   "kana": "ふなこし えいいちろう",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "kimata",
+   "name": "木全翔也",
+   "kana": "きまた しょうや",
+   "title": "歌手・JO1",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "furukawa",
+   "name": "古川琴音",
+   "kana": "ふるかわ ことね",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "ikuta",
+   "name": "生田絵梨花",
+   "kana": "いくた えりか",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "uchida",
+   "name": "内田雄馬",
+   "kana": "うちだ ゆうま",
+   "title": "声優・アーティスト",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "onishi",
+   "name": "大西礼芳",
+   "kana": "おおにし あやか",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "fukuchi",
+   "name": "福地桃子",
+   "kana": "ふくち ももこ",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "minami",
+   "name": "南沙良",
+   "kana": "みなみ さら",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "kuroki",
+   "name": "黒木渚",
+   "kana": "くろき なぎさ",
+   "title": "歌手",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "koike",
+   "name": "小池徹平",
+   "kana": "こいけ てっぺい",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "nanami",
+   "name": "七海ひろき",
+   "kana": "ななみ ひろき",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "takahashi",
+   "name": "高橋文哉",
+   "kana": "たかはし ふみや",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "kato-ryo",
+   "name": "加藤諒",
+   "kana": "かとう りょう",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "hamada",
+   "name": "濱田龍臣",
+   "kana": "はまだ たつおみ",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s-ihara",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "伊原六花が選んだ1冊は？「希望を捨てなければ、いつだってワクワクできる。そう教えられました」",
+   "url": "https://ddnavi.com/article/d1469611/a/",
+   "publishedAt": "2024-12-15"
+  },
+  {
+   "id": "s-honda",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "本田望結が選んだ1冊は？「本を読んでいろんなことを想像する。その楽しさを教えてくれました」",
+   "url": "https://ddnavi.com/article/d1438743/a/",
+   "publishedAt": "2024-11-14"
+  },
+  {
+   "id": "s-shuri",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "趣里が選んだ1冊は？「次第に気になり始める語り手の異常性。その歪みや気持ち悪さがクセになる」",
+   "url": "https://ddnavi.com/article/d1414124/a/",
+   "publishedAt": "2024-10-12"
+  },
+  {
+   "id": "s-okudaira",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "奥平大兼が選んだ1冊は？「一枚の絵から人生まで想像させるゴッホの魅力を感じました」",
+   "url": "https://ddnavi.com/article/d1369251/a/",
+   "publishedAt": "2024-08-16"
+  },
+  {
+   "id": "s-kato-shiho",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "加藤史帆が選んだ1冊は？「諫山さんだけが持っている“記憶”なんじゃないかと思ったくらいです。」",
+   "url": "https://ddnavi.com/article/d1346308/a/",
+   "publishedAt": "2024-07-13"
+  },
+  {
+   "id": "s-anne",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "杏が選んだ1冊は？「子どもたちが手にするその日まで、この作品は黙って置いておきたい」",
+   "url": "https://ddnavi.com/article/d1329841/a/",
+   "publishedAt": "2024-06-13"
+  },
+  {
+   "id": "s-hotta",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "堀田茜が選んだ1冊は？「偏見や思想の違いから生まれるテロや争い。読みながら考えさせられることばかりです」",
+   "url": "https://ddnavi.com/article/d1295582/a/",
+   "publishedAt": "2024-04-14"
+  },
+  {
+   "id": "s-terada",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "寺田心が選んだ1冊は？「目を背けてはいけない現実に直面し、命の尊さを強く感じました」",
+   "url": "https://ddnavi.com/article/d1222755/a/",
+   "publishedAt": "2023-12-15"
+  },
+  {
+   "id": "s-ogawa",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "緒川たまきさんが選んだ1冊は？「読んだあと、さらに広がりを見せる景色。願わくば、新作舞台もそうでありたい」",
+   "url": "https://ddnavi.com/article/d1177634/a/",
+   "publishedAt": "2023-09-15"
+  },
+  {
+   "id": "s-yoshikawa",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "吉川ひなのさんが選んだ1冊は？「幼い頃の私を守ってくれるような、自分の気持ちを代弁してくれた一冊」",
+   "url": "https://ddnavi.com/article/d1161163/a/",
+   "publishedAt": "2023-08-13"
+  },
+  {
+   "id": "s-utaha",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "詩羽さんが選んだ1冊は？「誰になんと言われようと、自分の“好き”を貫く強さを教えてもらった」",
+   "url": "https://ddnavi.com/article/d1145883/a/",
+   "publishedAt": "2023-07-15"
+  },
+  {
+   "id": "s-funakoshi",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "船越英一郎さんが選んだ1冊は？「渡辺くんのすべてが詰まった一冊。彼と友達になった気持ちになりました」",
+   "url": "https://ddnavi.com/article/d1134636/a/",
+   "publishedAt": "2023-06-13"
+  },
+  {
+   "id": "s-kimata",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "木全翔也さんが選んだ1冊は？「気付いたら泣いていたこの絵本を、僕は勝手に“もりちい”と呼んでます」",
+   "url": "https://ddnavi.com/article/d1098465/a/",
+   "publishedAt": "2023-03-15"
+  },
+  {
+   "id": "s-furukawa",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "古川琴音さんが選んだ1冊は？「自分の中に溜まっているものを、ふわっと手放させてくれる」",
+   "url": "https://ddnavi.com/article/d1070933/a/",
+   "publishedAt": "2023-01-14"
+  },
+  {
+   "id": "s-ikuta",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "生田絵梨花さんが選んだ1冊は？「大竹さんのように『まあいいか』と全てを受け止められる強さに憧れます」",
+   "url": "https://ddnavi.com/article/d1057354/a/",
+   "publishedAt": "2022-12-14"
+  },
+  {
+   "id": "s-uchida",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "内田雄馬さんが選んだ1冊は？「自分らしくマイペースに戦うしかない。その姿に勇気をもらいました」",
+   "url": "https://ddnavi.com/article/d1046562/a/",
+   "publishedAt": "2022-11-13"
+  },
+  {
+   "id": "s-onishi",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "大西礼芳さんが選んだ1冊は？「少年の心が動けば、川が流れて螢が飛びます」",
+   "url": "https://ddnavi.com/article/d1037552/a/",
+   "publishedAt": "2022-10-09"
+  },
+  {
+   "id": "s-fukuchi",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "福地桃子さんが選んだ1冊は？「偶然手にした一冊が私の心を満たす──そんな運命的な出会いを楽しんでます」",
+   "url": "https://ddnavi.com/article/d1026089/a/",
+   "publishedAt": "2022-09-10"
+  },
+  {
+   "id": "s-minami",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "南沙良さんが選んだ1冊は？「古本屋は私にとって出会いの場。この本も運命的に巡り合った一冊」",
+   "url": "https://ddnavi.com/article/d1015052/a/",
+   "publishedAt": "2022-08-09"
+  },
+  {
+   "id": "s-kuroki",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "黒木渚さんが選んだ1冊は？「この読みづらさは彼の生きづらさ。“少し誇張された私”を主人公に感じた」",
+   "url": "https://ddnavi.com/article/d995602/a/",
+   "publishedAt": "2022-06-12"
+  },
+  {
+   "id": "s-koike",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "小池徹平さんが選んだ1冊は？「バトルのなかにある深い人間ドラマ　虚構と現実をたゆたう距離感が絶妙」",
+   "url": "https://ddnavi.com/article/d980427/a/",
+   "publishedAt": "2022-05-13"
+  },
+  {
+   "id": "s-nanami",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "七海ひろきさんが選んだ1冊は『チ。』――「何かを伝えようとする人間の情熱。その力に強い憧れを抱きました」",
+   "url": "https://ddnavi.com/article/d943460/a/",
+   "publishedAt": "2022-03-11"
+  },
+  {
+   "id": "s-takahashi",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "高橋文哉さんが選んだ1冊は「本質を突いた言葉に、悩みを見透かされ、しかも心を軽くしてもらえる」",
+   "url": "https://ddnavi.com/article/d926302/a/",
+   "publishedAt": "2022-02-08"
+  },
+  {
+   "id": "s-kato-ryo",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "加藤諒「騙される快感の裏に、シリアスなメッセージがあるんです」【あの人と本の話】",
+   "url": "https://ddnavi.com/article/d810369/a/",
+   "publishedAt": "2021-07-13"
+  },
+  {
+   "id": "s-hamada",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "濱田龍臣「キラキラした青春がてんこ盛り。こんな青春があったらよかった」【あの人と本の話『SPY×FAMILY』】",
+   "url": "https://ddnavi.com/article/d789131/a/",
+   "publishedAt": "2021-06-11"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "ihara",
+   "sourceId": "s-ihara",
+   "book": {
+    "title": "星の王子さま",
+    "author": "サン＝テグジュペリ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "honda",
+   "sourceId": "s-honda",
+   "book": {
+    "title": "おおきなおおきな木",
+    "author": "よこたきよし、いもとようこ",
+    "publisher": "金の星社"
+   }
+  },
+  {
+   "personId": "shuri",
+   "sourceId": "s-shuri",
+   "book": {
+    "title": "むらさきのスカートの女",
+    "author": "今村夏子",
+    "publisher": "朝日新聞出版",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "okudaira",
+   "sourceId": "s-okudaira",
+   "book": {
+    "title": "リボルバー",
+    "author": "原田マハ",
+    "publisher": "幻冬舎",
+    "edition": "幻冬舎文庫"
+   }
+  },
+  {
+   "personId": "kato-shiho",
+   "sourceId": "s-kato-shiho",
+   "book": {
+    "title": "進撃の巨人",
+    "author": "諫山創",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "anne",
+   "sourceId": "s-anne",
+   "book": {
+    "title": "おーい！竜馬",
+    "author": "武田鉄矢、小山ゆう",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "hotta",
+   "sourceId": "s-hotta",
+   "book": {
+    "title": "ダーウィン事変",
+    "author": "うめざわしゅん",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "terada",
+   "sourceId": "s-terada",
+   "book": {
+    "title": "ある犬のおはなし",
+    "author": "kaisei",
+    "publisher": "トゥーヴァージンズ"
+   }
+  },
+  {
+   "personId": "ogawa",
+   "sourceId": "s-ogawa",
+   "book": {
+    "title": "悪魔の涎・追い求める男 他八篇",
+    "subtitle": "コルタサル短篇集",
+    "author": "コルタサル",
+    "publisher": "岩波書店",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "yoshikawa",
+   "sourceId": "s-yoshikawa",
+   "book": {
+    "title": "毒になる親 完全版",
+    "author": "スーザン・フォワード",
+    "publisher": "毎日新聞出版"
+   }
+  },
+  {
+   "personId": "utaha",
+   "sourceId": "s-utaha",
+   "book": {
+    "title": "ご近所物語",
+    "author": "矢沢あい",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "funakoshi",
+   "sourceId": "s-funakoshi",
+   "book": {
+    "title": "すべては出会い",
+    "subtitle": "渡辺徹の愛され人生",
+    "author": "渡辺徹",
+    "publisher": "きずな出版"
+   }
+  },
+  {
+   "personId": "kimata",
+   "sourceId": "s-kimata",
+   "book": {
+    "title": "もりのちいさなはいしゃさん",
+    "author": "かみひらかわゆり、はっとりみほ",
+    "publisher": "山画廊"
+   }
+  },
+  {
+   "personId": "furukawa",
+   "sourceId": "s-furukawa",
+   "book": {
+    "title": "ヒーシーイット",
+    "author": "ウィスット・ポンニミット",
+    "publisher": "ナナロク社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "ikuta",
+   "sourceId": "s-ikuta",
+   "book": {
+    "title": "母との食卓",
+    "subtitle": "まあいいか3",
+    "author": "大竹しのぶ",
+    "publisher": "幻冬舎"
+   }
+  },
+  {
+   "personId": "uchida",
+   "sourceId": "s-uchida",
+   "book": {
+    "title": "ヒカルの碁",
+    "author": "ほったゆみ、小畑健",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "onishi",
+   "sourceId": "s-onishi",
+   "book": {
+    "title": "螢川・泥の河",
+    "author": "宮本輝",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "fukuchi",
+   "sourceId": "s-fukuchi",
+   "book": {
+    "title": "どきん",
+    "subtitle": "谷川俊太郎少年詩集",
+    "author": "谷川俊太郎",
+    "publisher": "理論社"
+   }
+  },
+  {
+   "personId": "minami",
+   "sourceId": "s-minami",
+   "book": {
+    "title": "神様のいる街",
+    "author": "吉田篤弘",
+    "publisher": "夏葉社"
+   }
+  },
+  {
+   "personId": "kuroki",
+   "sourceId": "s-kuroki",
+   "book": {
+    "title": "夜中に犬に起こった奇妙な事件",
+    "author": "マーク・ハッドン",
+    "publisher": "早川書房",
+    "edition": "ハヤカワepi文庫"
+   }
+  },
+  {
+   "personId": "koike",
+   "sourceId": "s-koike",
+   "book": {
+    "title": "GANTZ",
+    "author": "奥浩哉",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nanami",
+   "sourceId": "s-nanami",
+   "book": {
+    "title": "チ。",
+    "subtitle": "地球の運動について",
+    "author": "魚豊",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "takahashi",
+   "sourceId": "s-takahashi",
+   "book": {
+    "title": "嫌われる勇気",
+    "subtitle": "自己啓発の源流「アドラー」の教え",
+    "author": "岸見一郎、古賀史健",
+    "publisher": "ダイヤモンド社"
+   }
+  },
+  {
+   "personId": "kato-ryo",
+   "sourceId": "s-kato-ryo",
+   "book": {
+    "title": "ピンポン",
+    "author": "松本大洋",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "hamada",
+   "sourceId": "s-hamada",
+   "book": {
+    "title": "SPY×FAMILY",
+    "author": "遠藤達哉",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://ddnavi.com/article/d1252188/a/",
+   "result": "rejected",
+   "reason": "対象は『60年代ビザール・ギターズ』（ギター・マガジン編集部のムック）で、ムックのため除外",
+   "person": "半田健人"
+  },
+  {
+   "url": "https://ddnavi.com/article/d964114/a/",
+   "result": "rejected",
+   "reason": "テレビ朝日の社員プロデューサー（名前で検索されない人）",
+   "person": "芦田太郎"
+  },
+  {
+   "url": "https://ddnavi.com/article/d893350/a/",
+   "result": "rejected",
+   "reason": "選んだ本はアントン・コービンの洋書の写真集『Mood/Mode』で、洋書・写真集のため除外",
+   "person": "崎山つばさ"
+  }
+ ]
+}

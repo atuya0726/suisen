@@ -1,0 +1,9 @@
+{
+  "people": [],
+  "sources": [],
+  "recommendations": [],
+  "checkedUrls": [
+    {"url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-15/", "result": "rejected", "reason": "選ばれた本が洋書（Vermilion版 Who Moved My Cheese?）のため除外", "person": "日隈寛和"},
+    {"url": "https://news.mynavi.jp/techplus/article/executive_bookshelf-9/", "result": "rejected", "reason": "選ばれた本が洋書（Ace Books版 DUNE）のため除外", "person": "武藤健一郎"}
+  ]
+}

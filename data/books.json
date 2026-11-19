@@ -73399,5 +73399,654 @@
     ],
     "publisher": "小学館",
     "publishedAt": "2016-11"
+  },
+  {
+    "isbn13": "9784054067882",
+    "title": "スーパー戦隊",
+    "authors": [
+      "東映株式会社",
+      "松井 大"
+    ],
+    "publisher": "学研プラス",
+    "publishedAt": "2021-04-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16608069/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7882/9784054067882.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784033280103",
+    "title": "はらぺこあおむし",
+    "authors": [
+      "エリック・カール",
+      "森 比左志"
+    ],
+    "publisher": "偕成社",
+    "publishedAt": "1997-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/901935/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0103/9784033280103_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784885612756",
+    "title": "シソンヌじろうの自分探し",
+    "authors": [
+      "シソンヌじろう"
+    ],
+    "publisher": "東奥日報社",
+    "publishedAt": "2024-02-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17725414/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2756/9784885612756_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784815617240",
+    "title": "あなたの世界をガラリと変える 認知バイアスの教科書",
+    "authors": [
+      "西剛志"
+    ],
+    "publisher": "SBクリエイティブ",
+    "publishedAt": "2023-02-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17335884/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7240/9784815617240_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087446609",
+    "title": "オーラの発表会",
+    "authors": [
+      "綿矢 りさ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2024-06-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17880157/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6609/9784087446609_1_11.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784866733319",
+    "title": "THE POT　現代植木鉢図鑑",
+    "authors": [
+      "石井和昭"
+    ],
+    "publisher": "三才ブックス",
+    "publishedAt": "2022-10-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17306484/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3319/9784866733319_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784341087722",
+    "title": "ステフィン・カリー　努力、努力、努力",
+    "authors": [
+      "マーカス・トンプソン2",
+      "東山真"
+    ],
+    "publisher": "ごま書房新社",
+    "publishedAt": "2020-11-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16485219/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7722/9784341087722.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101023526",
+    "title": "この気持ちもいつか忘れる",
+    "authors": [
+      "住野 よる"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2023-06-26",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17510906/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3526/9784101023526_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784810913170",
+    "title": "心に響く印象派 画家の言葉46",
+    "authors": [
+      "Moderna Classica"
+    ],
+    "publisher": "青月社"
+  },
+  {
+    "isbn13": "9784761230647",
+    "title": "国語の成績は観察力で必ず伸びる",
+    "authors": [
+      "久松 由理"
+    ],
+    "publisher": "かんき出版",
+    "publishedAt": "2022-04-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17106299/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0647/9784761230647.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784103070436",
+    "title": "夜が明ける",
+    "authors": [
+      "西 加奈子"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2021-10-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16891664/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0436/9784103070436_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784760153497",
+    "title": "まとまらない言葉を生きる",
+    "authors": [
+      "荒井 裕樹"
+    ],
+    "publisher": "柏書房",
+    "publishedAt": "2021-05-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16672663/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3497/9784760153497.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784622089124",
+    "title": "誰も気づかなかった",
+    "authors": [
+      "長田弘"
+    ],
+    "publisher": "みすず書房",
+    "publishedAt": "2020-05-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16281234/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9124/9784622089124.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784865313642",
+    "title": "速読英単語　入門編［改訂第3版］",
+    "authors": [
+      "風早 寛"
+    ],
+    "publisher": "Z会",
+    "publishedAt": "2021-03-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16636928/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3642/9784865313642.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101121017",
+    "title": "他人の顔",
+    "authors": [
+      "安部 公房"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "1968-12-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/136484/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1017/9784101121017.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101327181",
+    "title": "ふたり",
+    "authors": [
+      "赤川 次郎"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "1991-11-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/503323/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7181/9784101327181.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784594089344",
+    "title": "憑きそい",
+    "authors": [
+      "山森めぐみ"
+    ],
+    "publisher": "扶桑社",
+    "publishedAt": "2022-02-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16987169/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9344/9784594089344_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784046047991",
+    "title": "20代で得た知見",
+    "authors": [
+      "F"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2020-09-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16409984/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7991/9784046047991_1_18.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784761275259",
+    "title": "花を見るように君を見る",
+    "authors": [
+      "ナ・テジュ",
+      "黒河 星子"
+    ],
+    "publisher": "かんき出版",
+    "publishedAt": "2020-12-16",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16504346/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5259/9784761275259_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784103568049",
+    "title": "河童が覗いたヨーロッパ",
+    "authors": [
+      "妹尾河童"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "1997-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/9348386/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8049/9784103568049.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478109915",
+    "title": "ビジネスエリートになるための 教養としての投資",
+    "authors": [
+      "奥野 一成"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2020-05-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16312763/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9915/9784478109915.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784396635688",
+    "title": "アーモンド",
+    "authors": [
+      "ソン・ウォンピョン"
+    ],
+    "publisher": "祥伝社",
+    "publishedAt": "2019-07-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15959754/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5688/9784396635688.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784323013671",
+    "title": "おおきなおおきな木",
+    "authors": [
+      "横田清",
+      "いもとようこ"
+    ],
+    "publisher": "金の星社",
+    "publishedAt": "2005-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3591087/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3230/32301367.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784908406003",
+    "title": "ある犬のおはなし",
+    "authors": [
+      "kaisei"
+    ],
+    "publisher": "トゥーヴァージンズ",
+    "publishedAt": "2015-11-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13489214/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6003/9784908406003.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784620326740",
+    "title": "毒になる親",
+    "authors": [
+      "スーザン・フォワード",
+      "玉置 悟"
+    ],
+    "publisher": "毎日新聞出版",
+    "publishedAt": "2021-03-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16622488/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6740/9784620326740.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088538204",
+    "title": "ご近所物語",
+    "authors": [
+      "矢沢あい"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1995-10-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1072426/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8204/9784088538204.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784866631981",
+    "title": "すべては出会い",
+    "authors": [
+      "渡辺 徹"
+    ],
+    "publisher": "きずな出版",
+    "publishedAt": "2023-03-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17434508/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1981/9784866631981_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784904292020",
+    "title": "ヒーシーイット　アクア",
+    "authors": [
+      "ウィスット ポンニミット"
+    ],
+    "publisher": "ナナロク社",
+    "publishedAt": "2009-05-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6063448/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2020/9784904292020_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344038202",
+    "title": "母との食卓　まあいいか3",
+    "authors": [
+      "大竹 しのぶ"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2021-10-27",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16903510/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8202/9784344038202_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784652038086",
+    "title": "どきん",
+    "authors": [
+      "谷川俊太郎",
+      "和田誠"
+    ],
+    "publisher": "理論社",
+    "publishedAt": "1983-02-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/103332/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8086/9784652038086_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784904816271",
+    "title": "神様のいる街",
+    "authors": [
+      "吉田篤弘"
+    ],
+    "publisher": "夏葉社",
+    "publishedAt": "2018-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15471576/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6271/9784904816271.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784151200854",
+    "title": "夜中に犬に起こった奇妙な事件",
+    "authors": [
+      "マーク・ハッドン",
+      "小尾 芙佐"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2016-04-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13844415/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0854/9784151200854.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088761053",
+    "title": "GANTZ",
+    "authors": [
+      "奥浩哉"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2000-12-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1213883/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0887/08876105.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784091847362",
+    "title": "ピンポン",
+    "authors": [
+      "松本 大洋"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "1996-07-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/820357/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7362/9784091847362.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088820118",
+    "title": "SPY×FAMILY",
+    "authors": [
+      "遠藤 達哉"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2019-07-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15924058/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0118/9784088820118_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309417066",
+    "title": "きみの言い訳は最高の芸術",
+    "authors": [
+      "最果 タヒ"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2019-09-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16014143/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7066/9784309417066_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784074454983",
+    "title": "おむすび",
+    "authors": [
+      "佐藤初女"
+    ],
+    "publisher": "主婦の友社"
+  },
+  {
+    "isbn13": "9784091897732",
+    "title": "諸星大二郎劇場 第1集 雨の日はお化けがいるから",
+    "authors": [
+      "諸星 大二郎"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2017-12-27",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15232105/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7732/9784091897732_1_31.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784331523995",
+    "title": "今日、誰のために生きる？",
+    "authors": [
+      "ひすいこたろう",
+      "SHOGEN"
+    ],
+    "publisher": "廣済堂出版",
+    "publishedAt": "2023-10-23",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17623003/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3995/9784331523995_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784048834001",
+    "title": "不道徳教育講座",
+    "authors": [
+      "三島 由紀夫"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "1995-04-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/723727/"
+  },
+  {
+    "isbn13": "9784872426519",
+    "title": "正しい敬語",
+    "authors": [
+      "末岡実"
+    ],
+    "publisher": "阿部出版",
+    "publishedAt": "2017-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14649858/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6519/9784872426519.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062053679",
+    "title": "何者でもない",
+    "authors": [
+      "原田宗典"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1992-06-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/539666/"
+  },
+  {
+    "isbn13": "9784088704937",
+    "title": "あの日見た花の名前を僕達はまだ知らない。",
+    "authors": [
+      "泉光",
+      "超平和バスターズ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2012-09-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11842110/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4937/9784088704937.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784594089757",
+    "title": "いい人にだけいい人でいればいい",
+    "authors": [
+      "キム・ジェシク",
+      "藤田麗子"
+    ],
+    "publisher": "扶桑社",
+    "publishedAt": "2022-01-31",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17002335/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9757/9784594089757_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784785967109",
+    "title": "トーキョーカモフラージュアワー",
+    "authors": [
+      "松本 千秋"
+    ],
+    "publisher": "少年画報社",
+    "publishedAt": "2020-07-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16332622/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7109/9784785967109_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784167923969",
+    "title": "ミス・サンシャイン",
+    "authors": [
+      "吉田 修一"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "2025-08-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18264431/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3969/9784167923969_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088761435",
+    "title": "REAL",
+    "authors": [
+      "井上 雄彦"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2001-03-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1325387/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1435/9784088761435.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087443615",
+    "title": "雨心中",
+    "authors": [
+      "唯川 恵"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2022-03-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17062950/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3615/9784087443615_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784041026144",
+    "title": "完全版 社会人大学人見知り学部　卒業見込",
+    "authors": [
+      "若林 正恭"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2015-12-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13516177/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6144/9784041026144.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784909087058",
+    "title": "MONDO映画ポスターアート集",
+    "authors": [
+      "MONDO",
+      "河村 めぐみ"
+    ],
+    "publisher": "トゥーヴァージンズ",
+    "publishedAt": "2017-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15204287/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7058/9784909087058.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344416499",
+    "title": "ひとりが好きなあなたへ",
+    "authors": [
+      "銀色夏生"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2011-04-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11146280/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6499/9784344416499.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101363516",
+    "title": "日日是好日",
+    "authors": [
+      "森下 典子"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2008-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5888146/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3516/9784101363516.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784864108515",
+    "title": "私が見た未来　完全版",
+    "authors": [
+      "たつき諒"
+    ],
+    "publisher": "飛鳥新社",
+    "publishedAt": "2021-10-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16761260/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8515/9784864108515_1_7.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784434269776",
+    "title": "魔法の言葉不思議な写真",
+    "authors": [
+      "本田健",
+      "宮澤正明（写真家）"
+    ],
+    "publisher": "サンライズパブリッシング",
+    "publishedAt": "2019-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16164617/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9776/9784434269776.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

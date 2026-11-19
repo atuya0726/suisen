@@ -1,0 +1,697 @@
+{
+  "people": [
+    {
+      "id": "fukada",
+      "name": "深田竜生",
+      "kana": "ふかだ りゅうせい",
+      "title": "アイドル・少年忍者",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "sakurai",
+      "name": "桜井日奈子",
+      "kana": "さくらい ひなこ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "takahashi",
+      "name": "高橋李依",
+      "kana": "たかはし りえ",
+      "title": "声優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "aoi",
+      "name": "葵わかな",
+      "kana": "あおい わかな",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "morita",
+      "name": "森田剛",
+      "kana": "もりた ごう",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "hagiwara",
+      "name": "萩原利久",
+      "kana": "はぎわら りく",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "sakurada",
+      "name": "桜田ひより",
+      "kana": "さくらだ ひより",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "miyase",
+      "name": "宮世琉弥",
+      "kana": "みやせ りゅうび",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ayano",
+      "name": "綾野剛",
+      "kana": "あやの ごう",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "nagasaku",
+      "name": "永作博美",
+      "kana": "ながさく ひろみ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kadowaki",
+      "name": "門脇麦",
+      "kana": "かどわき むぎ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kaho",
+      "name": "夏帆",
+      "kana": "かほ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kiyohara",
+      "name": "清原果耶",
+      "kana": "きよはら かや",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mitsuishi",
+      "name": "三石琴乃",
+      "kana": "みついし ことの",
+      "title": "声優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kasamatsu",
+      "name": "笠松将",
+      "kana": "かさまつ しょう",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mikami",
+      "name": "見上愛",
+      "kana": "みかみ あい",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tamaki",
+      "name": "珠城りょう",
+      "kana": "たまき りょう",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "setoa",
+      "name": "瀬戸麻沙美",
+      "kana": "せと あさみ",
+      "title": "声優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "setok",
+      "name": "瀬戸康史",
+      "kana": "せと こうじ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kataoka",
+      "name": "片岡健太",
+      "kana": "かたおか けんた",
+      "title": "歌手・sumika",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "narita",
+      "name": "成田凌",
+      "kana": "なりた りょう",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "nakajo",
+      "name": "中条あやみ",
+      "kana": "なかじょう あやみ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "suzumura",
+      "name": "鈴村健一",
+      "kana": "すずむら けんいち",
+      "title": "声優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "igashira",
+      "name": "井頭愛海",
+      "kana": "いがしら まなみ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s-fukada",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "深田竜生が選んだ1冊は？「いろんな想像力を掻き立てられる絵本　この一冊から多くのことを学びました」",
+      "url": "https://ddnavi.com/article/d1469653/a/",
+      "publishedAt": "2024-12-16"
+    },
+    {
+      "id": "s-sakurai",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "桜井日奈子が選んだ1冊は？「弘前の街やご家族のこと、じろうさんの“好き”が詰まった本です」",
+      "url": "https://ddnavi.com/article/d1438813/a/",
+      "publishedAt": "2024-11-15"
+    },
+    {
+      "id": "s-takahashi",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "高橋李依が選んだ1冊は？「脳のクセを把握しておけばもっと自分と付き合いやすくなる」",
+      "url": "https://ddnavi.com/article/d1414171/a/",
+      "publishedAt": "2024-10-13"
+    },
+    {
+      "id": "s-aoi",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "葵わかなが選んだ1冊は？「不器用に生きる主人公の姿を通して気づかされることがたくさんありました」",
+      "url": "https://ddnavi.com/article/d1391189/a/",
+      "publishedAt": "2024-09-14"
+    },
+    {
+      "id": "s-morita",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "森田剛が選んだ1冊は？「植物と一緒に生きている、暮らしているような感覚です」",
+      "url": "https://ddnavi.com/article/d1365100/a/",
+      "publishedAt": "2024-08-14"
+    },
+    {
+      "id": "s-hagiwara",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "萩原利久が選んだ1冊は？「プレーも生き方も、すべてが憧れ。この本で初めて知った事実もありました」",
+      "url": "https://ddnavi.com/article/d1330149/a/",
+      "publishedAt": "2024-06-14"
+    },
+    {
+      "id": "s-sakurada",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "桜田ひよりが選んだ1冊は？「ひと言で恋愛小説と括れない二人の感情と想像を全て覆された展開に魅了されました」",
+      "url": "https://ddnavi.com/article/d1295640/a/",
+      "publishedAt": "2024-04-15"
+    },
+    {
+      "id": "s-miyase",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "宮世琉弥が選んだ1冊は？「大好きな画家たちの言葉に心を救われ、今では役者の仕事にも活かされてます」",
+      "url": "https://ddnavi.com/article/d1269055/a/",
+      "publishedAt": "2024-03-14"
+    },
+    {
+      "id": "s-ayano",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "綾野剛が選んだ1冊は？「打ちのめされても、瞼を閉じず世界を見つめ続けなければならない」",
+      "url": "https://ddnavi.com/article/d1237909/a/",
+      "publishedAt": "2024-01-13"
+    },
+    {
+      "id": "s-nagasaku",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "永作博美さんが選んだ1冊は？「言葉の背後にあるのは究極的には愛や優しさなんですね」",
+      "url": "https://ddnavi.com/article/d1206310/a/",
+      "publishedAt": "2023-11-13"
+    },
+    {
+      "id": "s-kadowaki",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "門脇麦さんが選んだ1冊は？「本当につらい時は誰かに頼ってもいい。そう考えられることがひと筋の光」",
+      "url": "https://ddnavi.com/article/d1177602/a/",
+      "publishedAt": "2023-09-13"
+    },
+    {
+      "id": "s-kaho",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "夏帆さんが選んだ1冊は？「うまく言葉にしづらいことの中にこそ、大切なものがたくさん詰まってる」",
+      "url": "https://ddnavi.com/article/d1161145/a/",
+      "publishedAt": "2023-08-11"
+    },
+    {
+      "id": "s-kiyohara",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "清原果耶さんが選んだ1冊は？「どんな感情のときにも必ずどこかに導いてくれます」",
+      "url": "https://ddnavi.com/article/d1145887/a/",
+      "publishedAt": "2023-07-13"
+    },
+    {
+      "id": "s-mitsuishi",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "三石琴乃さんが選んだ1冊は？「自分の中の虚しさを埋めてくれた一冊。今も読み返すたびに印象が変わります」",
+      "url": "https://ddnavi.com/article/d1113853/a/",
+      "publishedAt": "2023-04-15"
+    },
+    {
+      "id": "s-kasamatsu",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "笠松将さんが選んだ1冊は？「“できないこと\"があるのが嫌。だからこの本で、毎日勉強してます」",
+      "url": "https://ddnavi.com/article/d1057360/a/",
+      "publishedAt": "2022-12-15"
+    },
+    {
+      "id": "s-mikami",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "見上愛さんが選んだ1冊は？「思春期の整理のつかない自意識に、主人公の不安定な自我が響きました」",
+      "url": "https://ddnavi.com/article/d1046690/a/",
+      "publishedAt": "2022-11-14"
+    },
+    {
+      "id": "s-tamaki",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "珠城りょうさんが選んだ1冊は？「自分の足で力強く人生を歩む主人公の姿が心に沁みました」",
+      "url": "https://ddnavi.com/article/d1037534/a/",
+      "publishedAt": "2022-10-10"
+    },
+    {
+      "id": "s-setoa",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "瀬戸麻沙美さんが選んだ1冊は？「恋愛の過程以上に、登場人物たちの孤独が胸に突き刺さりました」",
+      "url": "https://ddnavi.com/article/d1026109/a/",
+      "publishedAt": "2022-09-11"
+    },
+    {
+      "id": "s-setok",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "瀬戸康史さんが選んだ1冊は？「霊との距離感や各エピソードがリアルで思わず共感しながら読んでました」",
+      "url": "https://ddnavi.com/article/d1015072/a/",
+      "publishedAt": "2022-08-10"
+    },
+    {
+      "id": "s-kataoka",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "片岡健太（sumika）さんが選んだ1冊は？「クリエイティブをするうえで何度も読み返す、お守りのような一冊」",
+      "url": "https://ddnavi.com/article/d1004600/a/",
+      "publishedAt": "2022-07-11"
+    },
+    {
+      "id": "s-narita",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "成田 凌さんが選んだ1冊は？「まだ何者でもない自分にとって生き方を軽くしてくれる一冊です」",
+      "url": "https://ddnavi.com/article/d980431/a/",
+      "publishedAt": "2022-05-14"
+    },
+    {
+      "id": "s-nakajo",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "中条あやみさんが選んだ1冊は？「さまざまな感情が描かれて、言葉の豊かさや情緒に魅了されます」",
+      "url": "https://ddnavi.com/article/d943500/a/",
+      "publishedAt": "2022-03-12"
+    },
+    {
+      "id": "s-suzumura",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "鈴村健一「河童さんのような天才に打ち勝つこと。それが僕の人生の目標です」【あの人と本の話】",
+      "url": "https://ddnavi.com/article/d806615/a/",
+      "publishedAt": "2021-07-14"
+    },
+    {
+      "id": "s-igashira",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "井頭愛海「初めての“ハッちゃけた”役で、演じることの楽しさを痛感しました」【あの人と本の話『アーモンド』】",
+      "url": "https://ddnavi.com/article/d789271/a/",
+      "publishedAt": "2021-06-12"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "fukada",
+      "sourceId": "s-fukada",
+      "book": {
+        "title": "はらぺこあおむし",
+        "author": "エリック・カール",
+        "publisher": "偕成社"
+      }
+    },
+    {
+      "personId": "sakurai",
+      "sourceId": "s-sakurai",
+      "book": {
+        "title": "シソンヌじろうの自分探し",
+        "author": "じろう",
+        "publisher": "東奥日報社"
+      }
+    },
+    {
+      "personId": "takahashi",
+      "sourceId": "s-takahashi",
+      "book": {
+        "title": "認知バイアスの教科書",
+        "subtitle": "あなたの世界をガラリと変える",
+        "author": "西剛志",
+        "publisher": "SBクリエイティブ"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "s-aoi",
+      "book": {
+        "title": "オーラの発表会",
+        "author": "綿矢りさ",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "morita",
+      "sourceId": "s-morita",
+      "book": {
+        "title": "THE POT",
+        "subtitle": "現代植木鉢図鑑",
+        "author": "石井和昭",
+        "publisher": "三才ブックス"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s-hagiwara",
+      "book": {
+        "title": "ステフィン・カリー 努力、努力、努力",
+        "subtitle": "自分を証明できるのは、自分だけ",
+        "author": "マーカス・トンプソンⅡ",
+        "publisher": "ごま書房新社"
+      }
+    },
+    {
+      "personId": "sakurada",
+      "sourceId": "s-sakurada",
+      "book": {
+        "title": "この気持ちもいつか忘れる",
+        "author": "住野よる",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "miyase",
+      "sourceId": "s-miyase",
+      "book": {
+        "title": "心に響く印象派 画家の言葉46",
+        "author": "Moderna Classica",
+        "publisher": "青月社",
+        "isbn": "9784810913170"
+      }
+    },
+    {
+      "personId": "ayano",
+      "sourceId": "s-ayano",
+      "book": {
+        "title": "ひとのこ 上",
+        "author": "新井英樹",
+        "publisher": "リイド社"
+      }
+    },
+    {
+      "personId": "ayano",
+      "sourceId": "s-ayano",
+      "book": {
+        "title": "ザ・ワールド・イズ・マイン",
+        "author": "新井英樹"
+      }
+    },
+    {
+      "personId": "nagasaku",
+      "sourceId": "s-nagasaku",
+      "book": {
+        "title": "国語の成績は観察力で必ず伸びる",
+        "author": "久松由理",
+        "publisher": "かんき出版"
+      }
+    },
+    {
+      "personId": "kadowaki",
+      "sourceId": "s-kadowaki",
+      "book": {
+        "title": "夜が明ける",
+        "author": "西加奈子",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "kaho",
+      "sourceId": "s-kaho",
+      "book": {
+        "title": "まとまらない言葉を生きる",
+        "author": "荒井裕樹",
+        "publisher": "柏書房"
+      }
+    },
+    {
+      "personId": "kiyohara",
+      "sourceId": "s-kiyohara",
+      "book": {
+        "title": "誰も気づかなかった",
+        "author": "長田弘",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "mitsuishi",
+      "sourceId": "s-mitsuishi",
+      "book": {
+        "title": "ぼくを探しに",
+        "author": "シェル・シルヴァスタイン",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "kasamatsu",
+      "sourceId": "s-kasamatsu",
+      "book": {
+        "title": "速読英単語 入門編",
+        "author": "風早寛",
+        "publisher": "Z会",
+        "edition": "改訂第3版"
+      }
+    },
+    {
+      "personId": "mikami",
+      "sourceId": "s-mikami",
+      "book": {
+        "title": "他人の顔",
+        "author": "安部公房",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tamaki",
+      "sourceId": "s-tamaki",
+      "book": {
+        "title": "ふたり",
+        "author": "赤川次郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "setoa",
+      "sourceId": "s-setoa",
+      "book": {
+        "title": "すべて真夜中の恋人たち",
+        "author": "川上未映子",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "setok",
+      "sourceId": "s-setok",
+      "book": {
+        "title": "憑きそい",
+        "author": "山森めぐみ",
+        "publisher": "扶桑社"
+      }
+    },
+    {
+      "personId": "kataoka",
+      "sourceId": "s-kataoka",
+      "book": {
+        "title": "思考の整理学",
+        "author": "外山滋比古",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫"
+      }
+    },
+    {
+      "personId": "narita",
+      "sourceId": "s-narita",
+      "book": {
+        "title": "20代で得た知見",
+        "author": "F",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "nakajo",
+      "sourceId": "s-nakajo",
+      "book": {
+        "title": "花を見るように君を見る",
+        "author": "ナ・テジュ",
+        "publisher": "かんき出版"
+      }
+    },
+    {
+      "personId": "suzumura",
+      "sourceId": "s-suzumura",
+      "book": {
+        "title": "河童が覗いたヨーロッパ",
+        "author": "妹尾河童",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "suzumura",
+      "sourceId": "s-suzumura",
+      "book": {
+        "title": "教養としての投資",
+        "author": "奥野一成"
+      }
+    },
+    {
+      "personId": "suzumura",
+      "sourceId": "s-suzumura",
+      "book": {
+        "title": "スーパー戦隊",
+        "author": "松井大",
+        "publisher": "学研",
+        "edition": "学研の図鑑",
+        "isbn": "9784054067882"
+      }
+    },
+    {
+      "personId": "igashira",
+      "sourceId": "s-igashira",
+      "book": {
+        "title": "アーモンド",
+        "author": "ソン・ウォンピン",
+        "publisher": "祥伝社"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://ddnavi.com/article/d964150/a/",
+      "result": "rejected",
+      "reason": "選んだ本『トップリーグ』は本人が主演したドラマの原作（出演作の関連本）",
+      "person": "玉山鉄二"
+    },
+    {
+      "url": "https://ddnavi.com/article/d926312/a/",
+      "result": "rejected",
+      "reason": "選んだ本『トップナイフ』は本人が出演したドラマの小説版（出演作の関連本）",
+      "person": "古川雄大"
+    },
+    {
+      "url": "https://ddnavi.com/article/d893318/a/",
+      "result": "rejected",
+      "reason": "選んだ本『私はいったい、何と闘っているのか』は本人の出演映画の原作（出演作の関連本）",
+      "person": "金子大地"
+    },
+    {
+      "url": "https://ddnavi.com/article/d1083262/a/",
+      "result": "candidate",
+      "reason": "「あの人と本の話」過去回。本文は確認済みで選んだ一冊あり。記事時点の名義は五代目尾上菊之助で、現在の名義と食い違う可能性があるため、人物の表示名をユーザーと決めてから取り込む",
+      "person": "尾上菊之助"
+    }
+  ]
+}
