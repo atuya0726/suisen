@@ -19,3 +19,11 @@ console.log(
   `[validate-data] OK  人物 ${data.people.length}（掲載 ${withRec.people}） / 本 ${data.books.length}（掲載 ${withRec.books}） / 出典 ${data.sources.length} / 推薦 ${data.recommendations.length}`,
 );
 console.log(`[validate-data] verified: false のため掲載しない推薦: ${data.recommendations.length - verified.length} 件`);
+
+// 所属別ページ（/affiliations/[slug]/）は slug が決まっている所属だけ作る。人数が足りているのに slug が無い所属を知らせる
+const { affiliationsWithoutSlug } = await import("../src/lib/data");
+if (affiliationsWithoutSlug.length > 0) {
+  console.warn(
+    `[validate-data] 警告: 3人以上いるのに所属別ページが無い所属: ${affiliationsWithoutSlug.join("、")}（src/lib/affiliations.json に slug を足す）`,
+  );
+}

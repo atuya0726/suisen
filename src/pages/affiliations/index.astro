@@ -1,0 +1,53 @@
+---
+import Base from "../../layouts/Base.astro";
+import { affiliations } from "../../lib/data";
+import { SITE_NAME, truncate } from "../../lib/site";
+
+const itemListLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "所属から探す",
+  numberOfItems: affiliations.length,
+  itemListElement: affiliations.map((a, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: a.name,
+    url: new URL(`/affiliations/${a.slug}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title={`所属から探す（大学・会社）｜${SITE_NAME}`}
+  description={truncate(
+    `大学・会社ごとに、所属する人が記事や大学のページで紹介した本をまとめました。${affiliations.length}の所属から探せます。`,
+    120,
+  )}
+  breadcrumbs={[{ name: "所属から探す" }]}
+  jsonLd={[itemListLd]}
+>
+  <div class="container">
+    <header class="page-head">
+      <span class="label">affiliations</span>
+      <h1 class="h1">所属から探す</h1>
+      <p class="lead secondary prose">
+        大学・会社ごとに、所属する人が紹介した本をまとめています。3人以上を掲載している所属を、人数の多い順に並べています。
+      </p>
+    </header>
+
+    <div class="page-body">
+      <ul class="entrance-list prose">
+        {
+          affiliations.map((a) => (
+            <li>
+              <a href={`/affiliations/${a.slug}/`}>
+                <span>{a.name}</span>
+                <span class="caption tertiary num">{a.people.length}人 / {a.books.length}冊</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+</Base>

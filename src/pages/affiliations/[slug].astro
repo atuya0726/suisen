@@ -1,0 +1,78 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import BookCard from "../../components/BookCard.astro";
+import PersonRow from "../../components/PersonRow.astro";
+import { affiliations, bookCountOfPerson, recommenderCount } from "../../lib/data";
+import { AFFILIATION_BOOKS, titles, truncate } from "../../lib/site";
+
+export const getStaticPaths = (() =>
+  affiliations.map((affiliation) => ({
+    params: { slug: affiliation.slug },
+    props: { affiliation },
+  }))) satisfies GetStaticPaths;
+
+const { affiliation } = Astro.props;
+const { name, people, books } = affiliation;
+const shown = books.slice(0, AFFILIATION_BOOKS);
+
+const description = truncate(
+  `${name}に所属する${people.length}人が、記事や大学・会社のページで紹介した本${books.length}冊を、出典つきでまとめました。`,
+  120,
+);
+
+const itemListLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: `${name}の人が紹介した本`,
+  numberOfItems: books.length,
+  itemListElement: shown.map(({ book }, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: book.title,
+    url: new URL(`/books/${book.isbn13}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title={titles.affiliation(name, people.length, books.length)}
+  description={description}
+  breadcrumbs={[{ name: "所属から探す", href: "/affiliations/" }, { name }]}
+  jsonLd={[itemListLd]}
+>
+  <div class="container">
+    <header class="page-head">
+      <span class="label">affiliation</span>
+      <h1 class="h1">{name}の人が紹介した本</h1>
+      <p class="lead secondary prose">
+        {name}に所属する<span class="num">{people.length}</span>人が紹介した本は、あわせて<span class="num">{books.length}</span>冊です。それぞれの出典は、人物ページで確認できます。{name}が公式に選んだ一覧ではありません。
+      </p>
+    </header>
+
+    <section class="section" aria-labelledby="h-books">
+      <div class="section-head">
+        <h2 class="h2" id="h-books">紹介された本</h2>
+      </div>
+      <ul class="book-grid">
+        {shown.map(({ book }, i) => <BookCard book={book} count={recommenderCount(book.isbn13)} eager={i < 3} />)}
+      </ul>
+      {
+        books.length > shown.length && (
+          <p class="caption tertiary rec-buy-note">
+            {name}の中で紹介した人が多い順に{shown.length}冊を載せています（「推薦」の人数はサイト全体の数）。ほかの本は、下の人物ページにあります。
+          </p>
+        )
+      }
+    </section>
+
+    <section class="section" aria-labelledby="h-people">
+      <div class="section-head">
+        <h2 class="h2" id="h-people">紹介した人 <span class="num">{people.length}</span>人</h2>
+      </div>
+      <ul class="person-list">
+        {people.map((person) => <PersonRow person={person} count={bookCountOfPerson(person.id)} />)}
+      </ul>
+    </section>
+  </div>
+</Base>

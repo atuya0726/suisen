@@ -4,6 +4,7 @@ import Base from "../../layouts/Base.astro";
 import PersonRow from "../../components/PersonRow.astro";
 import Recommendation from "../../components/Recommendation.astro";
 import {
+  affiliationSlug,
   bookCountOfPerson,
   groupRecs,
   groupRecsBySource,
@@ -24,6 +25,7 @@ const bySource = groupRecsBySource(recsOfPerson(person.id));
 const typeLabel = { article: "記事", interview: "インタビュー", podcast: "音声", video: "動画", book: "書籍", sns: "SNS" };
 const n = bookCountOfPerson(person.id);
 const similar = similarPeople(person.id);
+const affSlug = affiliationSlug(person.affiliation);
 
 const isOrg = person.kind === "organization";
 const description = truncate(
@@ -66,8 +68,15 @@ const itemListLd = {
       <h1 class="h1">{person.name}</h1>
       <p class="person-title secondary" data-pagefind-meta="sub">{person.title}</p>
       {
-        person.tags.length > 0 && (
+        (person.tags.length > 0 || affSlug) && (
           <ul class="tags" data-pagefind-ignore>
+            {affSlug && (
+              <li>
+                <a class="tag" href={`/affiliations/${affSlug}/`}>
+                  {person.affiliation}
+                </a>
+              </li>
+            )}
             {person.tags.slice(0, 5).map((tag) => {
               const slug = tagRankingSlug(tag);
               return (

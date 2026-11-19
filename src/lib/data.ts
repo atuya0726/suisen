@@ -1,3 +1,4 @@
+import affiliationSlugs from "./affiliations.json";
 import indexing from "./indexing.json";
 import { loadRaw } from "./load";
 import { TAG_SLUGS, validateAll, type Book, type Person, type Recommendation, type Source, type Tag } from "./schema";
@@ -131,6 +132,60 @@ export const tagRankings: TagRanking[] = (Object.keys(TAG_SLUGS) as Tag[])
   .filter((t) => t.peopleCount >= 3 && t.items.length >= 3);
 
 export const tagRankingSlug = (tag: Tag): string | undefined => tagRankings.find((t) => t.tag === tag)?.slug;
+
+export interface Affiliation {
+  name: string;
+  slug: string;
+  /** 個別ページのある人（よみ順） */
+  people: Person[];
+  /** 所属する人が紹介した本。所属内の推薦者数 降順 → 全体の推薦者数 降順 → 最新の推薦日 降順 → isbn13 昇順 */
+  books: { book: Book; count: number }[];
+}
+
+export const MIN_PEOPLE_FOR_AFFILIATION = 3;
+
+const peopleByAffiliation = groupBy(
+  people.filter((p) => p.affiliation),
+  (p) => p.affiliation!,
+);
+const slugOfAffiliation: Record<string, string | undefined> = affiliationSlugs;
+
+/**
+ * 所属別ページ。個別ページのある人が3人以上いて、URL 用の slug（affiliations.json）が決まっている所属だけ。
+ * noPage の人は載せない（その人たちの選書記事の再現になるため）。人数の多い順
+ */
+export const affiliations: Affiliation[] = [...peopleByAffiliation]
+  .filter(([name, list]) => list.length >= MIN_PEOPLE_FOR_AFFILIATION && slugOfAffiliation[name])
+  .map(([name, list]) => {
+    const tally = new Map<string, { count: number; latest: string }>();
+    for (const person of list) {
+      for (const g of groupRecs(recsOfPerson(person.id), "book")) {
+        const t = tally.get(g[0]!.isbn13) ?? { count: 0, latest: "" };
+        t.count += 1;
+        for (const r of g) if ((r.source.publishedAt ?? "") > t.latest) t.latest = r.source.publishedAt!;
+        tally.set(g[0]!.isbn13, t);
+      }
+    }
+    const books = [...tally]
+      .sort(
+        (a, b) =>
+          b[1].count - a[1].count ||
+          recommenderCount(b[0]) - recommenderCount(a[0]) ||
+          b[1].latest.localeCompare(a[1].latest) ||
+          a[0].localeCompare(b[0]),
+      )
+      .map(([isbn, t]) => ({ book: bookByIsbn.get(isbn)!, count: t.count }));
+    return { name, slug: slugOfAffiliation[name]!, people: list, books };
+  })
+  .sort((a, b) => b.people.length - a.people.length || a.slug.localeCompare(b.slug));
+
+/** 3人以上いるのに slug が無く、ページを作れていない所属（validate-data が警告する） */
+export const affiliationsWithoutSlug: string[] = [...peopleByAffiliation]
+  .filter(([name, list]) => list.length >= MIN_PEOPLE_FOR_AFFILIATION && !slugOfAffiliation[name])
+  .map(([name]) => name);
+
+export const affiliationSlug = (name: string | undefined): string | undefined =>
+  name ? affiliations.find((a) => a.name === name)?.slug : undefined;
 
 /** 「この本を推薦した人は、こんな本も推薦」: 共通の推薦者が多い順に最大12冊 */
 export function alsoRecommended(isbn13: string): { book: Book; shared: number }[] {

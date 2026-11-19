@@ -32,6 +32,11 @@ export const titles = {
   organization: (name: string, n: number) => `${name}の推薦本 ${n}冊｜${SITE_NAME}`,
   book: (title: string, authors: string[], n: number) =>
     `${title}（${authorsLabel(authors)}）を推薦した人 ${n}人｜${SITE_NAME}`,
+  /** 所属別ページ。大学は「〇〇大学 推薦図書」で探されるので、その語を入れる */
+  affiliation: (name: string, people: number, books: number) =>
+    name.endsWith("大学")
+      ? `${name}の推薦図書｜${people}人が薦める本 ${books}冊｜${SITE_NAME}`
+      : `${name}の${people}人が薦める本 ${books}冊｜${SITE_NAME}`,
   tagRanking: (tag: string) => `${tag}が推薦する本ランキング｜${SITE_NAME}`,
 };
 
@@ -43,3 +48,5 @@ export interface Crumb {
 
 export const RANKING_PAGE_SIZE = 50;
 export const PEOPLE_PAGE_SIZE = 100;
+/** 所属別ページに書影つきで出す本の数 */
+export const AFFILIATION_BOOKS = 24;

@@ -3,7 +3,7 @@ import Base from "../layouts/Base.astro";
 import BookCard from "../components/BookCard.astro";
 import PrNotice from "../components/PrNotice.astro";
 import Recommendation from "../components/Recommendation.astro";
-import { people, ranking, recs, tagRankings } from "../lib/data";
+import { affiliations, people, ranking, recs, tagRankings } from "../lib/data";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE } from "../lib/site";
 
 const top = ranking.slice(0, 12);
@@ -83,6 +83,28 @@ const websiteLd = {
           <span class="caption tertiary num">{people.length}人</span>
         </a>
       </li>
+    </ul>
+  </section>
+
+  <section class="section container" aria-labelledby="h-affiliations">
+    <div class="section-head">
+      <div>
+        <span class="label">affiliations</span>
+        <h2 class="h2" id="h-affiliations">所属から探す</h2>
+      </div>
+      <a class="more" href="/affiliations/">すべての所属を見る</a>
+    </div>
+    <ul class="entrance-list prose">
+      {
+        affiliations.slice(0, 6).map((a) => (
+          <li>
+            <a href={`/affiliations/${a.slug}/`}>
+              <span>{a.name}の人が紹介した本</span>
+              <span class="caption tertiary num">{a.people.length}人 / {a.books.length}冊</span>
+            </a>
+          </li>
+        ))
+      }
     </ul>
   </section>
 </Base>
