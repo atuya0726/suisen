@@ -18595,9 +18595,9 @@
   {
     "url": "https://ddnavi.com/article/d1329841/a/",
     "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 杏が選んだ1冊は？「子どもたちが手にするその日まで、この作品は黙って置いておきたい」",
+    "reason": "本文確認済み。杏が選んだ一冊は『おーい！竜馬』（小学館文庫 全14巻）。第1巻の ISBN を書誌データで確かめられず未掲載。ISBN が分かれば取り込める",
     "person": "杏",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d1312582/a/",
@@ -18622,10 +18622,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d1269063/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 鈴鹿央士が選んだ1冊は？「普段見ている景色とはまったく違う、インドの風景が新鮮。旅したくなりました」",
+    "result": "rejected",
+    "reason": "選んだ本は写真集『Achcha』（ブランドseya.とのコラボ、同ブランドサイトでのみ購入可）で、洋書・流通外の扱いのため除外",
     "person": "鈴鹿央士",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d1269055/a/",
@@ -18636,10 +18636,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d1252188/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 半田健人が選んだ1冊は？「高度成長期の日本人が精一杯作った、その健気さが愛おしくなります」",
+    "result": "rejected",
+    "reason": "対象は『60年代ビザール・ギターズ』（ギター・マガジン編集部のムック）で、ムックのため除外",
     "person": "半田健人",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d1237919/a/",
@@ -18762,10 +18762,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d1098465/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 木全翔也さんが選んだ1冊は？「気付いたら泣いていたこの絵本を、僕は勝手に“もりちい”と呼んでます」",
+    "result": "rejected",
+    "reason": "本文確認済み。木全翔也が選んだ『もりのちいさなはいしゃさん』（山画廊 2004）は ISBN が無く登録できない",
     "person": "木全翔也",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d1098419/a/",
@@ -18777,9 +18777,9 @@
   {
     "url": "https://ddnavi.com/article/d1083262/a/",
     "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 尾上菊之助さんが選んだ1冊は？「日常の中で見逃してしまう自然の息吹や、人の心の豊かさを思い出させてく",
+    "reason": "「あの人と本の話」過去回。本文は確認済みで選んだ一冊あり。記事時点の名義は五代目尾上菊之助で、現在の名義と食い違う可能性があるため、人物の表示名をユーザーと決めてから取り込む",
     "person": "尾上菊之助",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d1070933/a/",
@@ -18937,24 +18937,24 @@
   },
   {
     "url": "https://ddnavi.com/article/d980392/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 阿部サダヲさんが選んだ1冊は？「旅行誌を手に、どこに行こうか考える。それも旅の醍醐味の一つですよね」",
+    "result": "rejected",
+    "reason": "選んだ本は旅行誌『ことりっぷ』で、雑誌・旅行誌のため除外",
     "person": "阿部サダヲ",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d964150/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 玉山鉄二さんが選んだ1冊は？「ニュースをいかに“選択”できるか。受け取る側の姿勢に気づかされた」",
+    "result": "rejected",
+    "reason": "選んだ本『トップリーグ』は本人が主演したドラマの原作（出演作の関連本）",
     "person": "玉山鉄二",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d964114/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 芦田太郎さんが選んだ1冊は？「“あざとさ”を知ることは、人に対する想像力を育む手段でもあるんです」",
+    "result": "rejected",
+    "reason": "テレビ朝日の社員プロデューサー（名前で検索されない人）",
     "person": "芦田太郎",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d964087/a/",
@@ -18986,10 +18986,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d926312/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 古川雄大さんが選んだ1冊は？「天才脳外科医たちの戦い続ける姿に共感します」",
+    "result": "rejected",
+    "reason": "選んだ本『トップナイフ』は本人が出演したドラマの小説版（出演作の関連本）",
     "person": "古川雄大",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d926302/a/",
@@ -19007,17 +19007,17 @@
   },
   {
     "url": "https://ddnavi.com/article/d893318/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 金子大地さんがおすすめする1冊は 「不器用で損をする……そんな人たちを肯定してくれる物語」",
+    "result": "rejected",
+    "reason": "選んだ本『私はいったい、何と闘っているのか』は本人の出演映画の原作（出演作の関連本）",
     "person": "金子大地",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d893350/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: “表現者として衝撃を受けた”――崎山つばささんがおすすめする「モノクロなのにどこか新しい」1冊とは？",
-    "person": "“表現者として衝撃を受けた”――崎山つばさ",
-    "checkedAt": "2026-11-19"
+    "result": "rejected",
+    "reason": "選んだ本はアントン・コービンの洋書の写真集『Mood/Mode』で、洋書・写真集のため除外",
+    "person": "崎山つばさ",
+    "checkedAt": "2026-11-20"
   },
   {
     "url": "https://ddnavi.com/article/d893230/a/",
@@ -19040,9 +19040,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d810671/a/",
-    "result": "candidate",
-    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 映画『犬部！』公開間近！ 林遣都さんが、ファンにおすすめされた1冊『そのままでいい』とは？【あの人と",
-    "checkedAt": "2026-11-19"
+    "result": "rejected",
+    "reason": "選んだ本『そのままでいい』はファンから送られた本で、本人が選んだ愛読書とは言えないため除外",
+    "checkedAt": "2026-11-20",
+    "person": "林遣都"
   },
   {
     "url": "https://ddnavi.com/article/d789271/a/",
