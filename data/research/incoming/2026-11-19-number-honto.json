@@ -1,0 +1,506 @@
+{
+ "people": [
+  {
+   "id": "n1",
+   "name": "森絵梨佳",
+   "title": "ビューティモデル・女優",
+   "tags": [
+    "芸能"
+   ],
+   "kana": "もりえりか"
+  },
+  {
+   "id": "n2",
+   "name": "恒松祐里",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ],
+   "kana": "つねまつゆり"
+  },
+  {
+   "id": "n3",
+   "name": "萩原利久",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ],
+   "kana": "はぎわらりく"
+  },
+  {
+   "id": "n4",
+   "name": "今泉力哉",
+   "title": "映画監督",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "n5",
+   "name": "赤江珠緒",
+   "title": "アナウンサー・ラジオパーソナリティ",
+   "tags": [
+    "芸能"
+   ],
+   "kana": "あかえたまお"
+  },
+  {
+   "id": "n6",
+   "name": "池上彰",
+   "title": "ジャーナリスト",
+   "tags": [
+    "作家"
+   ],
+   "kana": "いけがみあきら"
+  },
+  {
+   "id": "n7",
+   "name": "いとうせいこう",
+   "title": "作家・クリエイター",
+   "tags": [
+    "作家"
+   ],
+   "kana": "いとうせいこう"
+  },
+  {
+   "id": "n8",
+   "name": "新井真一",
+   "title": "プロゴルファー",
+   "tags": [
+    "スポーツ選手"
+   ],
+   "kana": "あらいしんいち"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "type": "interview",
+   "media": "honto",
+   "title": "第4回 森絵梨佳の本と映画の話 人生を変えた本との出会い",
+   "url": "https://honto.jp/article/einekleine/4.html"
+  },
+  {
+   "id": "s2",
+   "type": "interview",
+   "media": "honto",
+   "title": "第6回 恒松祐里の本と映画の話 人生を変えた本との出会い",
+   "url": "https://honto.jp/article/einekleine/6.html"
+  },
+  {
+   "id": "s3",
+   "type": "interview",
+   "media": "honto",
+   "title": "第8回 萩原利久の本と映画の話 人生を変えた本との出会い",
+   "url": "https://honto.jp/article/einekleine/8.html"
+  },
+  {
+   "id": "s4",
+   "type": "interview",
+   "media": "honto",
+   "title": "第10回 今泉力哉監督の本と映画の話 映画『アイネクライネナハトムジーク』について",
+   "url": "https://honto.jp/article/einekleine/10.html"
+  },
+  {
+   "id": "s5",
+   "type": "article",
+   "media": "honto",
+   "title": "赤江珠緒が選ぶ、男性も女性もご年配の方も若い方にも読んで欲しい「たまむすび」的珠玉の5冊（hontoブックツリー）",
+   "url": "https://honto.jp/booktree/detail_00002757.html"
+  },
+  {
+   "id": "s6",
+   "type": "article",
+   "media": "honto",
+   "title": "池上彰の推薦する名著5冊（hontoブックツリー）",
+   "url": "https://honto.jp/booktree/detail_00016078.html"
+  },
+  {
+   "id": "s7",
+   "type": "article",
+   "media": "honto",
+   "title": "私（いとうせいこう）が近頃読んで刺激的だった本（hontoブックツリー）",
+   "url": "https://honto.jp/booktree/detail_00003745.html"
+  },
+  {
+   "id": "s8",
+   "type": "article",
+   "media": "honto",
+   "title": "ゴルフが上手くなる！ゴルフはビジネス・子育てにも役に立つ！（hontoブックツリー）",
+   "url": "https://honto.jp/booktree/detail_00004873.html"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "n1",
+   "sourceId": "s1",
+   "book": {
+    "title": "100万回生きたねこ",
+    "author": "佐野洋子",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "n2",
+   "sourceId": "s2",
+   "book": {
+    "title": "クリエイターになりたい！",
+    "author": "ミータ・ワグナー（著）,小林 玲子（訳）",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "n3",
+   "sourceId": "s3",
+   "book": {
+    "title": "ドラゴンボール",
+    "author": "鳥山 明",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "n3",
+   "sourceId": "s3",
+   "book": {
+    "title": "Dr.スランプ",
+    "author": "鳥山 明",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "n3",
+   "sourceId": "s3",
+   "book": {
+    "title": "ヒカルの碁",
+    "author": "ほったゆみ（原作）,小畑健（漫画）,梅沢由香里（監修）",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "n4",
+   "sourceId": "s4",
+   "book": {
+    "title": "告白",
+    "author": "町田 康",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "n5",
+   "sourceId": "s5",
+   "book": {
+    "title": "スキップ",
+    "author": "北村薫",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n5",
+   "sourceId": "s5",
+   "book": {
+    "title": "羆嵐",
+    "author": "吉村昭",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n5",
+   "sourceId": "s5",
+   "book": {
+    "title": "下流の宴",
+    "author": "林真理子",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n5",
+   "sourceId": "s5",
+   "book": {
+    "title": "一日江戸人",
+    "author": "杉浦 日向子",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n5",
+   "sourceId": "s5",
+   "book": {
+    "title": "恋する歌音　こころに効く恋愛短歌50",
+    "author": "佐藤真由美",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n6",
+   "sourceId": "s6",
+   "book": {
+    "title": "黄禍論　百年の系譜",
+    "author": "廣部泉",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n6",
+   "sourceId": "s6",
+   "book": {
+    "title": "いつもそばには本があった。",
+    "author": "國分功一郎,互盛央",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n6",
+   "sourceId": "s6",
+   "book": {
+    "title": "日本史サイエンス　蒙古襲来、秀吉の大返し、戦艦大和の謎に迫る",
+    "author": "播田安弘",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n6",
+   "sourceId": "s6",
+   "book": {
+    "title": "還暦からの底力―歴史・人・旅に学ぶ生き方",
+    "author": "出口治明",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n6",
+   "sourceId": "s6",
+   "book": {
+    "title": "韓国　行き過ぎた資本主義　「無限競争社会」の苦悩",
+    "author": "金敬哲",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n7",
+   "sourceId": "s7",
+   "book": {
+    "title": "中動態の世界 意志と責任の考古学",
+    "author": "國分 功一郎",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "n7",
+   "sourceId": "s7",
+   "book": {
+    "title": "死してなお踊れ",
+    "author": "栗原康",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "n7",
+   "sourceId": "s7",
+   "book": {
+    "title": "怪物君",
+    "author": "吉増 剛造",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "n7",
+   "sourceId": "s7",
+   "book": {
+    "title": "和漢朗詠集",
+    "author": "川口 久雄（全訳注）",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "n8",
+   "sourceId": "s8",
+   "book": {
+    "title": "新インナーゴルフ",
+    "author": "Ｗ．Ｔ．ガルウェイ（著）,後藤 新弥（訳 構成）",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n8",
+   "sourceId": "s8",
+   "book": {
+    "title": "コーチング・マネジメント",
+    "author": "伊藤守",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n8",
+   "sourceId": "s8",
+   "book": {
+    "title": "働く君に贈る２５の言葉",
+    "author": "佐々木 常夫",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "n8",
+   "sourceId": "s8",
+   "book": {
+    "title": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
+    "author": "岩崎夏海",
+    "publisher": "",
+    "isbn": ""
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://number.bunshun.jp/articles/-/848098",
+   "result": "rejected",
+   "reason": "開くと体操のNHK杯の記事（橋本大輝ら）で読書記事ではない。ほかに「王者の本棚」と取り違えた候補",
+   "person": "村田諒太"
+  },
+  {
+   "url": "https://number.bunshun.jp/articles/-/841267",
+   "result": "rejected",
+   "reason": "開くと菅原由勢のAZ記事で読書記事ではない（候補の取り違え）",
+   "person": "田中碧"
+  },
+  {
+   "url": "https://number.bunshun.jp/articles/-/852403",
+   "result": "rejected",
+   "reason": "選手会長の本棚（小川泰弘）。有料会員限定で途中までしか読めない",
+   "person": "小川泰弘"
+  },
+  {
+   "url": "https://number.bunshun.jp/articles/-/857951",
+   "result": "rejected",
+   "reason": "王者の本棚（村田諒太）。有料会員限定で途中までしか読めない。連載は有料",
+   "person": "村田諒太"
+  },
+  {
+   "url": "https://number.bunshun.jp/list/numberbooks",
+   "result": "index",
+   "reason": "Number Books 一覧（未開封）",
+   "person": ""
+  },
+  {
+   "url": "https://number.bunshun.jp/category/sportsbookrelay",
+   "result": "index",
+   "reason": "本継！SPORTS BOOKリレー 一覧（未開封、有料の可能性）",
+   "person": ""
+  },
+  {
+   "url": "https://number.bunshun.jp/category/book-sommelier_old",
+   "result": "index",
+   "reason": "ブックソムリエ 一覧（未開封）",
+   "person": ""
+  },
+  {
+   "url": "https://honto.jp/article/einekleine/2.html",
+   "result": "rejected",
+   "reason": "三浦春馬の映画の話。新しい本の言及なし",
+   "person": "三浦春馬"
+  },
+  {
+   "url": "https://honto.jp/article/einekleine/3.html",
+   "result": "rejected",
+   "reason": "三浦春馬の映画の話。本の推薦は第1回のみ（未精読、内容はタイトルと書名検索で判断）",
+   "person": "三浦春馬"
+  },
+  {
+   "url": "https://honto.jp/article/einekleine/5.html",
+   "result": "rejected",
+   "reason": "森絵梨佳の映画の話。本の推薦なし",
+   "person": "森絵梨佳"
+  },
+  {
+   "url": "https://honto.jp/article/einekleine/7.html",
+   "result": "rejected",
+   "reason": "恒松祐里の映画の話。本の推薦は第6回に採用済み",
+   "person": "恒松祐里"
+  },
+  {
+   "url": "https://honto.jp/article/einekleine/9.html",
+   "result": "rejected",
+   "reason": "萩原利久の映画の話。本の推薦なし",
+   "person": "萩原利久"
+  },
+  {
+   "url": "https://honto.jp/booktree/pickup/list.html",
+   "result": "index",
+   "reason": "hontoブックキュレーター一覧（約800人。著者・著名人・経営者・書店員などを含む）",
+   "person": ""
+  },
+  {
+   "url": "https://honto.jp/article/book.html",
+   "result": "index",
+   "reason": "選書特集 honto+（未開封）",
+   "person": ""
+  },
+  {
+   "url": "https://honto.jp/article/hontoplus.html",
+   "result": "index",
+   "reason": "honto+ フリーマガジン（未開封）",
+   "person": ""
+  },
+  {
+   "url": "https://honto.jp/booktree/detail_00008988.html",
+   "result": "candidate",
+   "reason": "映画の本、シナリオの本（選者未確認）",
+   "person": ""
+  },
+  {
+   "url": "https://honto.jp/booktree/detail_00004493.html",
+   "result": "candidate",
+   "reason": "あの人は何を読んでいる？作家が選ぶ本の紹介本（選者未確認）",
+   "person": ""
+  }
+ ]
+}

@@ -44987,5 +44987,173 @@
     "sourceId": "ts29",
     "context": "その他",
     "verified": true
+  },
+  {
+    "personId": "p1382",
+    "isbn13": "9784061272743",
+    "sourceId": "s1-b",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p1383",
+    "isbn13": "9784760149810",
+    "sourceId": "s2-b",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0516",
+    "isbn13": "9784088518312",
+    "sourceId": "s3-b-b",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0516",
+    "isbn13": "9784087825015",
+    "sourceId": "s3-b-b",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0516",
+    "isbn13": "9784088727172",
+    "sourceId": "s3-b-b",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p1384",
+    "isbn13": "9784122049697",
+    "sourceId": "s4-b",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p1385",
+    "isbn13": "9784101373218",
+    "sourceId": "s5-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1385",
+    "isbn13": "9784101117133",
+    "sourceId": "s5-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1385",
+    "isbn13": "9784167476403",
+    "sourceId": "s5-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1385",
+    "isbn13": "9784101149172",
+    "sourceId": "s5-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1385",
+    "isbn13": "9784087477764",
+    "sourceId": "s5-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0107",
+    "isbn13": "9784065209219",
+    "sourceId": "s6-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0107",
+    "isbn13": "9784065150122",
+    "sourceId": "s6-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0107",
+    "isbn13": "9784065209578",
+    "sourceId": "s6-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0107",
+    "isbn13": "9784065149874",
+    "sourceId": "s6-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0107",
+    "isbn13": "9784065181942",
+    "sourceId": "s6-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784260031578",
+    "sourceId": "s7-b",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784309416861",
+    "sourceId": "s7-b",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784622079866",
+    "sourceId": "s7-b",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784061583252",
+    "sourceId": "s7-b",
+    "context": "最近読んだ",
+    "verified": true
+  },
+  {
+    "personId": "p1386",
+    "isbn13": "9784817202161",
+    "sourceId": "s8-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1386",
+    "isbn13": "9784887592056",
+    "sourceId": "s8-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1386",
+    "isbn13": "9784872905007",
+    "sourceId": "s8-b-b",
+    "context": "その他",
+    "verified": true
+  },
+  {
+    "personId": "p1386",
+    "isbn13": "9784478012031",
+    "sourceId": "s8-b-b",
+    "context": "その他",
+    "verified": true
   }
 ]

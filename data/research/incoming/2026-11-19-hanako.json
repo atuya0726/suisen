@@ -1,0 +1,43 @@
+{
+ "people": [],
+ "sources": [],
+ "recommendations": [],
+ "checkedUrls": [
+  {
+   "url": "https://hanako.tokyo/feature/feature-411075/",
+   "result": "index",
+   "reason": "2023年マイベスト3まとめ。本は山崎怜奈（採用済み）のみ。他はドラマ・韓国カルチャー・アート・ビューティー",
+   "person": ""
+  },
+  {
+   "url": "https://hanako.tokyo/tags/2023%E5%B9%B4%E3%81%AE%E3%83%9E%E3%82%A4%E3%83%99%E3%82%B9%E3%83%88/",
+   "result": "index",
+   "reason": "2023年のマイベストのタグ一覧。本の記事は山崎怜奈のみ",
+   "person": ""
+  },
+  {
+   "url": "https://hanako.tokyo/culture/408701/",
+   "result": "rejected",
+   "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+   "person": "前田エマ"
+  },
+  {
+   "url": "https://hanako.tokyo/culture/408705/",
+   "result": "rejected",
+   "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+   "person": "オラリー"
+  },
+  {
+   "url": "https://hanako.tokyo/culture/408915/",
+   "result": "rejected",
+   "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+   "person": "大澤実音穂"
+  },
+  {
+   "url": "https://hanako.tokyo/culture/408940/",
+   "result": "rejected",
+   "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+   "person": "苅田梨都子"
+  }
+ ]
+}

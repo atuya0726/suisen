@@ -19068,5 +19068,184 @@
     "reason": "太田光×宮島未奈の対談。未読（『成瀬は天下を取りにいく』を太田が選んだ・薦めた形か不明）",
     "person": "太田光",
     "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/tags/2023%E5%B9%B4%E3%81%AE%E3%83%9E%E3%82%A4%E3%83%99%E3%82%B9%E3%83%88/",
+    "result": "index",
+    "reason": "2023年のマイベストのタグ一覧。本の記事は山崎怜奈のみ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/culture/408701/",
+    "result": "rejected",
+    "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+    "person": "前田エマ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/culture/408705/",
+    "result": "rejected",
+    "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+    "person": "オラリー",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/culture/408915/",
+    "result": "rejected",
+    "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+    "person": "大澤実音穂",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/culture/408940/",
+    "result": "rejected",
+    "reason": "本以外のマイベスト（一覧ページの紹介文のみで判断、記事は開いていない）",
+    "person": "苅田梨都子",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00016078.html",
+    "result": "adopted",
+    "reason": "sources.json の s6-b-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/4.html",
+    "result": "adopted",
+    "reason": "sources.json の s1-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/10.html",
+    "result": "adopted",
+    "reason": "sources.json の s4-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00004873.html",
+    "result": "adopted",
+    "reason": "sources.json の s8-b-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00002757.html",
+    "result": "adopted",
+    "reason": "sources.json の s5-b-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00003745.html",
+    "result": "adopted",
+    "reason": "sources.json の s7-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/6.html",
+    "result": "adopted",
+    "reason": "sources.json の s2-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/8.html",
+    "result": "adopted",
+    "reason": "sources.json の s3-b-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/852403",
+    "result": "rejected",
+    "reason": "選手会長の本棚（小川泰弘）。有料会員限定で途中までしか読めない",
+    "person": "小川泰弘",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/857951",
+    "result": "rejected",
+    "reason": "王者の本棚（村田諒太）。有料会員限定で途中までしか読めない。連載は有料",
+    "person": "村田諒太",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/list/numberbooks",
+    "result": "index",
+    "reason": "Number Books 一覧（未開封）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/category/sportsbookrelay",
+    "result": "index",
+    "reason": "本継！SPORTS BOOKリレー 一覧（未開封、有料の可能性）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/category/book-sommelier_old",
+    "result": "index",
+    "reason": "ブックソムリエ 一覧（未開封）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/2.html",
+    "result": "rejected",
+    "reason": "三浦春馬の映画の話。新しい本の言及なし",
+    "person": "三浦春馬",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/3.html",
+    "result": "rejected",
+    "reason": "三浦春馬の映画の話。本の推薦は第1回のみ（未精読、内容はタイトルと書名検索で判断）",
+    "person": "三浦春馬",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/5.html",
+    "result": "rejected",
+    "reason": "森絵梨佳の映画の話。本の推薦なし",
+    "person": "森絵梨佳",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/7.html",
+    "result": "rejected",
+    "reason": "恒松祐里の映画の話。本の推薦は第6回に採用済み",
+    "person": "恒松祐里",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/9.html",
+    "result": "rejected",
+    "reason": "萩原利久の映画の話。本の推薦なし",
+    "person": "萩原利久",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/pickup/list.html",
+    "result": "index",
+    "reason": "hontoブックキュレーター一覧（約800人。著者・著名人・経営者・書店員などを含む）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/book.html",
+    "result": "index",
+    "reason": "選書特集 honto+（未開封）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/hontoplus.html",
+    "result": "index",
+    "reason": "honto+ フリーマガジン（未開封）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00008988.html",
+    "result": "candidate",
+    "reason": "映画の本、シナリオの本（選者未確認）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00004493.html",
+    "result": "candidate",
+    "reason": "あの人は何を読んでいる？作家が選ぶ本の紹介本（選者未確認）",
+    "checkedAt": "2026-11-19"
   }
 ]

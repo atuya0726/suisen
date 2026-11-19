@@ -66031,5 +66031,236 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/43195/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10116807.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784760149810",
+    "title": "クリエイターになりたい！",
+    "authors": [
+      "ミータ・ワグナー",
+      "小林玲子（翻訳家）"
+    ],
+    "publisher": "柏書房",
+    "publishedAt": "2018-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15433857/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9810/9784760149810.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087825015",
+    "title": "Dr．スランプ",
+    "authors": [
+      "鳥山明"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1990-05-16",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/412106/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5015/9784087825015.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101117133",
+    "title": "羆嵐",
+    "authors": [
+      "吉村 昭"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2013-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/23514/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7133/9784101117133.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784167476403",
+    "title": "下流の宴",
+    "authors": [
+      "林 真理子"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "2013-01-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12121343/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6403/9784167476403.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101149172",
+    "title": "一日江戸人",
+    "authors": [
+      "杉浦 日向子"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2005-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1778360/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9172/9784101149172.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087477764",
+    "title": "恋する歌音",
+    "authors": [
+      "佐藤真由美（歌人）"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2005-01-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1755132/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0874/08747776.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065209219",
+    "title": "黄禍論　百年の系譜",
+    "authors": [
+      "廣部 泉"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2020-09-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16405069/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9219/9784065209219.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065150122",
+    "title": "いつもそばには本があった。",
+    "authors": [
+      "國分 功一郎",
+      "互 盛央"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2019-03-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15799576/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0122/9784065150122.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065209578",
+    "title": "日本史サイエンス　蒙古襲来、秀吉の大返し、戦艦大和の謎に迫る",
+    "authors": [
+      "播田 安弘"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2020-09-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16398422/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9578/9784065209578.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065149874",
+    "title": "還暦からの底力ー歴史・人・旅に学ぶ生き方",
+    "authors": [
+      "出口 治明"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2020-05-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16257528/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9874/9784065149874_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065181942",
+    "title": "韓国　行き過ぎた資本主義　「無限競争社会」の苦悩",
+    "authors": [
+      "金 敬哲"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2019-11-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16092477/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1942/9784065181942_1_14.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784260031578",
+    "title": "中動態の世界",
+    "authors": [
+      "國分 功一郎"
+    ],
+    "publisher": "医学書院",
+    "publishedAt": "2017-03-27",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14768998/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1578/9784260031578_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309416861",
+    "title": "死してなお踊れ",
+    "authors": [
+      "栗原 康"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2019-06-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15907759/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6861/9784309416861_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784622079866",
+    "title": "怪物君",
+    "authors": [
+      "吉増剛造"
+    ],
+    "publisher": "みすず書房",
+    "publishedAt": "2016-06-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14272452/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9866/9784622079866.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784061583252",
+    "title": "和漢朗詠集",
+    "authors": [
+      "川口 久雄"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1982-02-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/97859/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0615/06158325.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784817202161",
+    "title": "新インナーゴルフ",
+    "authors": [
+      "W．ティモシー・ガルウェイ",
+      "後藤新弥"
+    ],
+    "publisher": "日刊スポーツ新聞東京本社",
+    "publishedAt": "2002-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1432000/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8172/81720216.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784887592056",
+    "title": "コーチング・マネジメントー人と組織のハイパフォーマンスをつくる (コーチ・エィ監修コーチングシリーズ)",
+    "authors": [
+      "伊藤 守"
+    ],
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "publishedAt": "2002-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3264660/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2056/9784887592056.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784872905007",
+    "title": "働く君に贈る25の言葉",
+    "authors": [
+      "佐々木常夫"
+    ],
+    "publisher": "WAVE出版",
+    "publishedAt": "2010-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6810422/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5007/9784872905007.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478012031",
+    "title": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
+    "authors": [
+      "岩崎 夏海"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2009-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6251307/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2031/9784478012031.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]
