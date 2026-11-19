@@ -1,0 +1,410 @@
+{
+ "people": [
+  {
+   "id": "b-tsuneta",
+   "name": "常田大希",
+   "title": "King Gnu・PERIMETRON主宰",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "b-muraki",
+   "name": "村木厚子",
+   "title": "全国社会福祉協議会 会長",
+   "tags": []
+  },
+  {
+   "id": "b-kitamura",
+   "name": "北村匠海",
+   "title": "俳優・DISH//メンバー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "b-hoshino",
+   "name": "星野源",
+   "title": "音楽家・俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "b-kimura",
+   "name": "木村拓哉",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "bs-tsuneta",
+   "type": "interview",
+   "media": "Rolling Stone Japan",
+   "title": "King Gnu常田大希が「憧れの気持ち」を抱く14冊",
+   "url": "https://rollingstonejapan.com/articles/detail/29330",
+   "publishedAt": "2018-11-01"
+  },
+  {
+   "id": "bs-muraki",
+   "type": "article",
+   "media": "PRESIDENT Online",
+   "title": "無実の罪、苦しかった20日間を「支えてくれた1冊」",
+   "url": "https://president.jp/articles/-/19212",
+   "publishedAt": "2015-12-29"
+  },
+  {
+   "id": "bs-kitamura",
+   "type": "interview",
+   "media": "Precious.jp",
+   "title": "【北村匠海さん】本誌未公開、Precious.jp独占インタビュー！　人生の悔いは｢キャンパスライフを味わいたかった｣",
+   "url": "https://precious.jp/articles/-/27830",
+   "publishedAt": "2021-07-09"
+  },
+  {
+   "id": "bs-hoshino",
+   "type": "article",
+   "media": "ORICON NEWS",
+   "title": "星野源、療養前後で読んだ“3冊の本” 衝撃のデビュー作に触れ「生きていてよかったって思った」",
+   "url": "https://www.oricon.co.jp/news/2321150/full/",
+   "publishedAt": "2024-04-03"
+  },
+  {
+   "id": "bs-kimura",
+   "type": "article",
+   "media": "WEBザテレビジョン",
+   "title": "木村拓哉、ページをめくる楽しさを知った本などおススメ書籍ベスト5を発表！",
+   "url": "https://thetv.jp/news/detail/231559/",
+   "publishedAt": "2020-04-26"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "音楽",
+    "author": "小澤征爾×武満徹",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "芸術起業論",
+    "author": "村上隆",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "ソール・ライターのすべて",
+    "author": "ソール・ライター",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "ヒプノシス・アーカイヴズ",
+    "author": "オーブリー・パウエル",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "アーブル美術館 大贋作展",
+    "author": "アーブル美術館",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "希望の国のエクソダス",
+    "author": "村上龍",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "砂の女",
+    "author": "安部公房",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "恐るべき子供たち",
+    "author": "コクトー",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "七色いんこ",
+    "author": "手塚治虫",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-tsuneta",
+   "sourceId": "bs-tsuneta",
+   "book": {
+    "title": "Monster",
+    "author": "浦沢直樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-muraki",
+   "sourceId": "bs-muraki",
+   "book": {
+    "title": "一日一生",
+    "author": "酒井雄哉",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "b-kitamura",
+   "sourceId": "bs-kitamura",
+   "book": {
+    "title": "アルケミスト 夢を旅した少年",
+    "author": "パウロ・コエーリョ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-kitamura",
+   "sourceId": "bs-kitamura",
+   "book": {
+    "title": "アミ 小さな宇宙人",
+    "author": "エンリケ・バリオス",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "b-hoshino",
+   "sourceId": "bs-hoshino",
+   "book": {
+    "title": "ここはすべての夜明けまえ",
+    "author": "間宮改衣",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "最近読んだ",
+   "note": "星野源のオールナイトニッポン（2024-04-02 放送）"
+  },
+  {
+   "personId": "b-kimura",
+   "sourceId": "bs-kimura",
+   "book": {
+    "title": "文明の子",
+    "author": "太田光",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "配信番組『木村さ～～ん！』#91（2020-04-26）"
+  },
+  {
+   "personId": "b-kimura",
+   "sourceId": "bs-kimura",
+   "book": {
+    "title": "ジェノサイド",
+    "author": "高野和明",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "配信番組『木村さ～～ん！』#91（2020-04-26）"
+  },
+  {
+   "personId": "b-kimura",
+   "sourceId": "bs-kimura",
+   "book": {
+    "title": "稚拙なる者は去れ 天才心臓外科医・渡邊剛の覚悟",
+    "author": "細井勝",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "配信番組『木村さ～～ん！』#91（2020-04-26）"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://natalie.mu/comic/news/234382",
+   "result": "unreachable",
+   "reason": "指定URLは別記事を返し対談記事ではなかった。検索でも原典の掲載場所を確認できず",
+   "person": "藤本タツキ"
+  },
+  {
+   "url": "https://shonenjump.com/p/sp/1706/samura_fujimoto",
+   "result": "candidate",
+   "reason": "時間切れで未取得（対談記事は shonenjump.com 掲載とのこと）。本人が沙村作品を好きと語る箇所の本文確認が必要",
+   "person": "藤本タツキ"
+  },
+  {
+   "url": "https://www.ghibli.jp/info/007358",
+   "result": "candidate",
+   "reason": "時間切れで未取得。『本へのとびら』は書籍で、Webの本文での確認が必要",
+   "person": "宮崎駿"
+  },
+  {
+   "url": "https://hon-hikidashi.jp/honyoubi/158478",
+   "result": "unreachable",
+   "reason": "404。正しいURLは /bookstore/14465/（採用）",
+   "person": "林士平"
+  },
+  {
+   "url": "https://rollingstonejapan.com/articles/detail/29326",
+   "result": "unreachable",
+   "reason": "別記事。正しいURLは 29330（採用）",
+   "person": "常田大希"
+  },
+  {
+   "url": "https://book.asahi.com/article/16855907",
+   "result": "unreachable",
+   "reason": "404。検索でも記事を特定できず",
+   "person": "ニシダ"
+  },
+  {
+   "url": "https://www.bookbang.jp/review/article/769741",
+   "result": "unreachable",
+   "reason": "別内容のページを返した。記事を特定できず",
+   "person": "田中希実"
+  },
+  {
+   "url": "https://ameblo.jp/shinjifujita/entry-12502120042.html",
+   "result": "unreachable",
+   "reason": "404",
+   "person": "藤田晋"
+  },
+  {
+   "url": "https://number.bunshun.jp/articles/-/848098",
+   "result": "candidate",
+   "reason": "時間切れで未取得。Number Web は冒頭のみのことが多い",
+   "person": "村田諒太"
+  },
+  {
+   "url": "https://number.bunshun.jp/articles/-/841267",
+   "result": "candidate",
+   "reason": "時間切れで未取得。Number Web は冒頭のみのことが多い",
+   "person": "田中碧"
+  },
+  {
+   "url": "https://www.news-postseven.com/archives/20200429_1557981.html",
+   "result": "rejected",
+   "reason": "樹木希林さんの蔵書を親交のあった編集者が語る第三者の記事で、本人の言葉ではない",
+   "person": "樹木希林"
+  },
+  {
+   "url": "https://natalie.mu/owarai/news/468762",
+   "result": "rejected",
+   "reason": "アメトーーク！ヤンマガ芸人の放送予告。バカリズムが紹介する作品名が書かれていない",
+   "person": "バカリズム"
+  },
+  {
+   "url": "https://natalie.mu/comic/news/468624",
+   "result": "rejected",
+   "reason": "同上。作品名なし",
+   "person": "バカリズム"
+  },
+  {
+   "url": "https://brutus.jp/en/post-71697/",
+   "result": "rejected",
+   "reason": "濱口竜介の挙げる本は映画『ドライブ・マイ・カー』の原作で宣伝対象の本のため除外（本文は未取得）",
+   "person": "濱口竜介"
+  },
+  {
+   "url": "https://kai-you.net/article/88323",
+   "result": "candidate",
+   "reason": "ヒデミス2023のフェア告知記事。販促・プレスリリース寄りで未取得",
+   "person": "小島秀夫"
+  },
+  {
+   "url": "https://croissant-online.jp/culture/244304",
+   "result": "candidate",
+   "reason": "robots.txt が404でサイト構造不明、記事を特定できず未取得",
+   "person": "山田詠美"
+  },
+  {
+   "url": "https://natalie.mu/music/news/16453",
+   "result": "candidate",
+   "reason": "宇多田書店の関連記事。2009年のオープン記事を特定できず未取得",
+   "person": "宇多田ヒカル"
+  },
+  {
+   "url": "https://thetv.jp/news/detail/232100/",
+   "result": "candidate",
+   "reason": "木村拓哉のおススメ漫画ベスト5の記事。時間切れで未取得（漫画は巻指定の確認が必要）",
+   "person": "木村拓哉"
+  },
+  {
+   "url": "https://hon-hikidashi.jp/bookstore/14465/",
+   "result": "rejected",
+   "reason": "#木曜日は本曜日の紹介記事。公式ページ（honyoubi.com）を出典にしたので重複",
+   "person": "林士平"
+  }
+ ]
+}

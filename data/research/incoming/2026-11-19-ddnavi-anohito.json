@@ -1,0 +1,1392 @@
+{
+ "people": [
+  {
+   "id": "tp01",
+   "name": "齋藤飛鳥",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp02",
+   "name": "与田祐希",
+   "title": "乃木坂46",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp03",
+   "name": "黒島結菜",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp04",
+   "name": "杉咲花",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp05",
+   "name": "金子隼也",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp06",
+   "name": "深田恭子",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp07",
+   "name": "早見沙織",
+   "title": "声優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp08",
+   "name": "窪塚愛流",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp09",
+   "name": "波瑠",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp10",
+   "name": "川口春奈",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp11",
+   "name": "小芝風花",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp12",
+   "name": "安達祐実",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp13",
+   "name": "吉岡里帆",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp14",
+   "name": "河合優実",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp15",
+   "name": "岡山天音",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp16",
+   "name": "玉城ティナ",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp17",
+   "name": "綾野剛",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp18",
+   "name": "堀田茜",
+   "title": "モデル",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp19",
+   "name": "柳楽優弥",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp20",
+   "name": "岡田将生",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp21",
+   "name": "上白石萌音",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp22",
+   "name": "稲垣吾郎",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp23",
+   "name": "永山瑛太",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp24",
+   "name": "浜辺美波",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp25",
+   "name": "吉田羊",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp26",
+   "name": "松本まりか",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp27",
+   "name": "唐沢寿明",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp28",
+   "name": "前田敦子",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "tp29",
+   "name": "中川大志",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "ts01",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "齋藤飛鳥さんが選んだ1冊は？「ああ、自分の感情ってこう言葉にすればいいんだなと思いました」",
+   "url": "https://ddnavi.com/article/d1191673/a/",
+   "publishedAt": "2023-10-14"
+  },
+  {
+   "id": "ts02",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "与田祐希さんが選んだ1冊は？「自分が生きる世界がすべてじゃないと作品に“海の広さ”を教わりました」",
+   "url": "https://ddnavi.com/article/d1134652/a/",
+   "publishedAt": "2023-06-14"
+  },
+  {
+   "id": "ts03",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "黒島結菜さんが選んだ1冊は？「私の知らない世界を読み聞かせてくれるこの本に初恋した気分です」",
+   "url": "https://ddnavi.com/article/d1123909/a/",
+   "publishedAt": "2023-05-13"
+  },
+  {
+   "id": "ts04",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "杉咲花さんが選んだ1冊は？「生活の隅に転がっている、眩しい欠片を拾い集めていくような日記」",
+   "url": "https://ddnavi.com/article/d1206319/a/",
+   "publishedAt": "2023-11-15"
+  },
+  {
+   "id": "ts05",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "金子隼也さんが選んだ1冊は？「人間ドラマが最高に熱い。今まで読んだ中で一番面白い本です」",
+   "url": "https://ddnavi.com/article/d1083317/a/",
+   "publishedAt": "2023-02-15"
+  },
+  {
+   "id": "ts06",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "深田恭子さんが選んだ1冊は？「私は忘れられてもいい。でも、大切な人たちのことを忘れたくない」",
+   "url": "https://ddnavi.com/article/d1083205/a/",
+   "publishedAt": "2023-02-13"
+  },
+  {
+   "id": "ts07",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "早見沙織さんが選んだ1冊は？「描き出される今を生きることの刹那が美しく、涙がこぼれてしまった」",
+   "url": "https://ddnavi.com/article/d1134643/a/",
+   "publishedAt": "2023-06-15"
+  },
+  {
+   "id": "ts08",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "窪塚愛流が選んだ1冊は？「自分の命に代えても守りたいモノは何だろう。当時、本当に繰り返し考えました」",
+   "url": "https://ddnavi.com/article/d1391235/a/",
+   "publishedAt": "2024-09-15"
+  },
+  {
+   "id": "ts09",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "波瑠さんが選んだ1冊は？「読むたびに最初は気づけなかった人の温もりを感じる大人の青春物語」",
+   "url": "https://ddnavi.com/article/d1191655/a/",
+   "publishedAt": "2023-10-13"
+  },
+  {
+   "id": "ts10",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "川口春奈さんが選んだ1冊は？「同じ年に“デビュー”したこの本は、自分の軸みたいなものになっている」",
+   "url": "https://ddnavi.com/article/d995588/a/",
+   "publishedAt": "2022-06-10"
+  },
+  {
+   "id": "ts11",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "小芝風花さんが選んだ1冊は？「周りがどう言おうと、『私は私』って思えるように強くありたいです」",
+   "url": "https://ddnavi.com/interview/1145980/a/",
+   "publishedAt": "2023-07-14"
+  },
+  {
+   "id": "ts12",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "安達祐実「小説がないと現実がつまらなくなっちゃう」　書店で出会った1冊とは？",
+   "url": "https://ddnavi.com/interview/609588/a/",
+   "publishedAt": "2020-04-11"
+  },
+  {
+   "id": "ts13",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "吉岡里帆さんが選んだ1冊は？「人生を見つめ直すきっかけにもなる、100人の素敵な夢が詰まった本」",
+   "url": "https://ddnavi.com/article/d1004563/a/",
+   "publishedAt": "2022-07-10"
+  },
+  {
+   "id": "ts14",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "河合優実が選んだ1冊は？「書き手の視点によって作品の印象も変わる。翻訳という仕事にすごく心を惹かれました」",
+   "url": "https://ddnavi.com/article/d1330848/a/",
+   "publishedAt": "2024-06-15"
+  },
+  {
+   "id": "ts15",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "岡山天音が選んだ1冊は？「上手すぎて隙がない作品。主人公のトーシローを演じてみたい」",
+   "url": "https://ddnavi.com/article/d1222749/a/",
+   "publishedAt": "2023-12-14"
+  },
+  {
+   "id": "ts16",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "玉城ティナ「よく読まれているから”という理由で、本を選んだことはこれまで一度もないかもしれません」",
+   "url": "https://ddnavi.com/article/d574569/a/",
+   "publishedAt": "2019-11-16"
+  },
+  {
+   "id": "ts17",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "綾野剛が選んだ1冊は？「打ちのめされても、瞼を閉じず世界を見つめ続けなければならない」",
+   "url": "https://ddnavi.com/article/1237909/a/",
+   "publishedAt": "2024-01-13"
+  },
+  {
+   "id": "ts18",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "堀田茜が選んだ1冊は？「偏見や思想の違いから生まれるテロや争い。読みながら考えさせられることばかりです」",
+   "url": "https://ddnavi.com/article/1295582/a/",
+   "publishedAt": "2024-04-14"
+  },
+  {
+   "id": "ts19",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "柳楽優弥が選んだ1冊は？「未来への期待と不安を感じていたとき、ここから多くのことを受け取りました」",
+   "url": "https://ddnavi.com/article/d1391039/a/",
+   "publishedAt": "2024-09-13"
+  },
+  {
+   "id": "ts20",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "岡田将生が選んだ1冊は？「ここまで心血を注げるものに出会えるなんてうらやましい」",
+   "url": "https://ddnavi.com/article/d1269050/a/",
+   "publishedAt": "2024-03-13"
+  },
+  {
+   "id": "ts21",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "上白石萌音が選んだ1冊は？「大きなものをかみ砕き、真理を得る。そんな考え方の癖を自分もつけたい」",
+   "url": "https://ddnavi.com/article/d1252176/a/",
+   "publishedAt": "2024-02-15"
+  },
+  {
+   "id": "ts22",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "稲垣吾郎が選んだ1冊は？「僕自身、当時やり残したことがあると感じ続けているんだと思います。」",
+   "url": "https://ddnavi.com/article/d1206442/a/",
+   "publishedAt": "2023-11-14"
+  },
+  {
+   "id": "ts23",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "永山瑛太が選んだ1冊は？「人生に答えを探そうとしなくてもいい。ねじれた自分をリセットしてくれる詩集」",
+   "url": "https://ddnavi.com/article/d1252161/a/",
+   "publishedAt": "2024-02-13"
+  },
+  {
+   "id": "ts24",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "浜辺美波が選んだ1冊は？「衝撃的な事件の背景にある真実から目を背けないために手にした一冊です」",
+   "url": "https://ddnavi.com/article/d1237941/a/",
+   "publishedAt": "2024-01-15"
+  },
+  {
+   "id": "ts25",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "吉田羊が選んだ1冊は？「余計なことを考えず、ただシンプルに生きればいいと思わせてくれました」",
+   "url": "https://ddnavi.com/article/d1312571/a/",
+   "publishedAt": "2024-05-14"
+  },
+  {
+   "id": "ts26",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "松本まりかが選んだ1冊は？「自分を鍛えてくれた本のなかの言葉は血肉となり、“私の言葉”になった」",
+   "url": "https://ddnavi.com/article/d1312576/a/",
+   "publishedAt": "2024-05-15"
+  },
+  {
+   "id": "ts27",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "唐沢寿明さんが選んだ1冊は？「車を通じて大切な人脈を得ました。そのすべての始まりが『サーキットの狼』です」",
+   "url": "https://ddnavi.com/article/d1113831/a/",
+   "publishedAt": "2023-04-13"
+  },
+  {
+   "id": "ts28",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "前田敦子さんが選んだ1冊は？「一人で頑張ろうとしていたときに読んだ一冊。加賀さんの生き方に励まされました」",
+   "url": "https://ddnavi.com/article/d1113839/a/",
+   "publishedAt": "2023-04-14"
+  },
+  {
+   "id": "ts29",
+   "type": "interview",
+   "media": "ダ・ヴィンチWeb",
+   "title": "中川大志が選んだ1冊は？「どんな境遇の人にも、励みになるような言葉が見つかる本だと思います」",
+   "url": "https://ddnavi.com/article/d1295574/a/",
+   "publishedAt": "2024-04-13"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "tp01",
+   "sourceId": "ts01",
+   "book": {
+    "title": "女生徒",
+    "author": "太宰治",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp02",
+   "sourceId": "ts02",
+   "book": {
+    "title": "ONE PIECE",
+    "author": "尾田栄一郎",
+    "publisher": "集英社",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp03",
+   "sourceId": "ts03",
+   "book": {
+    "title": "地球を抱いて眠る",
+    "author": "駒沢敏器",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp04",
+   "sourceId": "ts04",
+   "book": {
+    "title": "家族カレンダー",
+    "author": "中村暁野",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp05",
+   "sourceId": "ts05",
+   "book": {
+    "title": "ケインとアベル 上",
+    "author": "ジェフリー・アーチャー",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp06",
+   "sourceId": "ts06",
+   "book": {
+    "title": "大恋愛〜僕を忘れる君と 上",
+    "author": "大石静",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp07",
+   "sourceId": "ts07",
+   "book": {
+    "title": "つめたいよるに",
+    "author": "江國香織",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp08",
+   "sourceId": "ts08",
+   "book": {
+    "title": "世界から猫が消えたなら",
+    "author": "川村元気",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp09",
+   "sourceId": "ts09",
+   "book": {
+    "title": "めぞん一刻",
+    "author": "高橋留美子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp10",
+   "sourceId": "ts10",
+   "book": {
+    "title": "夢をかなえるゾウ",
+    "author": "水野敬也",
+    "publisher": "",
+    "isbn": "",
+    "edition": "1"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp11",
+   "sourceId": "ts11",
+   "book": {
+    "title": "いい人にだけいい人でいればいい",
+    "author": "",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp12",
+   "sourceId": "ts12",
+   "book": {
+    "title": "狂王の庭",
+    "author": "小池真理子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp13",
+   "sourceId": "ts13",
+   "book": {
+    "title": "1歳から100歳の夢",
+    "author": "いろは出版",
+    "publisher": "いろは出版",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp14",
+   "sourceId": "ts14",
+   "book": {
+    "title": "本当の翻訳の話をしよう",
+    "author": "村上春樹、柴田元幸",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp15",
+   "sourceId": "ts15",
+   "book": {
+    "title": "フールナイト",
+    "author": "安田佳澄",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp16",
+   "sourceId": "ts16",
+   "book": {
+    "title": "愛のゆくえ",
+    "author": "リチャード・ブローティガン",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp17",
+   "sourceId": "ts17",
+   "book": {
+    "title": "ひとのこ",
+    "author": "新井英樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp18",
+   "sourceId": "ts18",
+   "book": {
+    "title": "ダーウィン事変",
+    "author": "うめざわしゅん",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp19",
+   "sourceId": "ts19",
+   "book": {
+    "title": "アミ 小さな宇宙人",
+    "author": "エンリケ・バリオス",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp20",
+   "sourceId": "ts20",
+   "book": {
+    "title": "エヴァーグリーン・ゲーム",
+    "author": "石井仁蔵",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp21",
+   "sourceId": "ts21",
+   "book": {
+    "title": "崩れ",
+    "author": "幸田文",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp22",
+   "sourceId": "ts22",
+   "book": {
+    "title": "少女は卒業しない",
+    "author": "朝井リョウ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp23",
+   "sourceId": "ts23",
+   "book": {
+    "title": "まるむし帳",
+    "author": "さくらももこ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp24",
+   "sourceId": "ts24",
+   "book": {
+    "title": "彼女は頭が悪いから",
+    "author": "姫野カオルコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp25",
+   "sourceId": "ts25",
+   "book": {
+    "title": "アマゾンのふしぎな森へようこそ!",
+    "author": "南研子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp26",
+   "sourceId": "ts26",
+   "book": {
+    "title": "媚びない人生",
+    "author": "ジョン・キム",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp27",
+   "sourceId": "ts27",
+   "book": {
+    "title": "サーキットの狼",
+    "author": "池沢さとし",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp28",
+   "sourceId": "ts28",
+   "book": {
+    "title": "純情ババァになりました。",
+    "author": "加賀まりこ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "tp29",
+   "sourceId": "ts29",
+   "book": {
+    "title": "覚悟の磨き方 超訳 吉田松陰",
+    "author": "池田貴将",
+    "publisher": "サンクチュアリ出版",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://ddnavi.com/article/d1124218/a/",
+   "result": "rejected",
+   "reason": "森崎ウィン: ドローン飛行計画通報の実用書。手続きのために読んだ本で、推薦・愛読とは言い難く不採用",
+   "person": "森崎ウィン"
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/",
+   "result": "index",
+   "reason": "連載「あの人と本の話」の過去回一覧（全体を網羅。page/2〜8まで取得でき、約120回分の記事URLあり）",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/2/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/3/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/4/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/5/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/6/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/7/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/8/",
+   "result": "index",
+   "reason": "同一覧の続き",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/aidokusho/",
+   "result": "index",
+   "reason": "連載「私の愛読書」一覧（既出）",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d1469653/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 深田竜生が選んだ1冊は？「いろんな想像力を掻き立てられる絵本　この一冊から多くのことを学びました」",
+   "person": "深田竜生"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1469611/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 伊原六花が選んだ1冊は？「希望を捨てなければ、いつだってワクワクできる。そう教えられました」",
+   "person": "伊原六花"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1469483/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 畑芽育が選んだ1冊は？「優しさのある最果さんの言葉に、少しだけ生き方が楽になりました」",
+   "person": "畑芽育"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1438813/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 桜井日奈子が選んだ1冊は？「弘前の街やご家族のこと、じろうさんの“好き”が詰まった本です」",
+   "person": "桜井日奈子"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1438743/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 本田望結が選んだ1冊は？「本を読んでいろんなことを想像する。その楽しさを教えてくれました」",
+   "person": "本田望結"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1438655/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 三吉彩花が選んだ1冊は？「心を込めて料理を作れば、必ずそれが相手に伝わるんだと思いました」",
+   "person": "三吉彩花"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1414171/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 高橋李依が選んだ1冊は？「脳のクセを把握しておけばもっと自分と付き合いやすくなる」",
+   "person": "高橋李依"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1414124/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 趣里が選んだ1冊は？「次第に気になり始める語り手の異常性。その歪みや気持ち悪さがクセになる」",
+   "person": "趣里"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1414069/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 明日海りおが選んだ1冊は？「さくらももこさんの描く世界はすごく身近で、他人事とは思えません」",
+   "person": "明日海りお"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1391189/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 葵わかなが選んだ1冊は？「不器用に生きる主人公の姿を通して気づかされることがたくさんありました」",
+   "person": "葵わかな"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1369251/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 奥平大兼が選んだ1冊は？「一枚の絵から人生まで想像させるゴッホの魅力を感じました」",
+   "person": "奥平大兼"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1368896/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 江口のりこが選んだ1冊は？「不思議なだけでなく、どこか懐かしい。私もそんなところに行きたいのかも」",
+   "person": "江口のりこ"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1365100/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 森田剛が選んだ1冊は？「植物と一緒に生きている、暮らしているような感覚です」",
+   "person": "森田剛"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1346308/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 加藤史帆が選んだ1冊は？「諫山さんだけが持っている“記憶”なんじゃないかと思ったくらいです。」",
+   "person": "加藤史帆"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1346444/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 杉野遥亮が選んだ1冊は？「日本古来の“心”がここにある。僕にとっては人生の教科書のような一冊」",
+   "person": "杉野遥亮"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1330149/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 萩原利久が選んだ1冊は？「プレーも生き方も、すべてが憧れ。この本で初めて知った事実もありました」",
+   "person": "萩原利久"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1329841/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 杏が選んだ1冊は？「子どもたちが手にするその日まで、この作品は黙って置いておきたい」",
+   "person": "杏"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1312582/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 岡宮来夢が選んだ1冊は？「世界中の人が同じ言葉を使ったら、争いごとはなくなると信じています」",
+   "person": "岡宮来夢"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1295640/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 桜田ひよりが選んだ1冊は？「ひと言で恋愛小説と括れない二人の感情と想像を全て覆された展開に魅了されま",
+   "person": "桜田ひより"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1295582/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 堀田茜が選んだ1冊は？「偏見や思想の違いから生まれるテロや争い。読みながら考えさせられることばかりで",
+   "person": "堀田茜"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1269063/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 鈴鹿央士が選んだ1冊は？「普段見ている景色とはまったく違う、インドの風景が新鮮。旅したくなりました」",
+   "person": "鈴鹿央士"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1269055/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 宮世琉弥が選んだ1冊は？「大好きな画家たちの言葉に心を救われ、今では役者の仕事にも活かされてます」",
+   "person": "宮世琉弥"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1252188/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 半田健人が選んだ1冊は？「高度成長期の日本人が精一杯作った、その健気さが愛おしくなります」",
+   "person": "半田健人"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1237919/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 板垣李光人が選んだ1冊は？「人間の本質的な部分を突くような人間らしさのある作品が好き」",
+   "person": "板垣李光人"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1237909/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 綾野剛が選んだ1冊は？「打ちのめされても、瞼を閉じず世界を見つめ続けなければならない」",
+   "person": "綾野剛"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1222755/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 寺田心が選んだ1冊は？「目を背けてはいけない現実に直面し、命の尊さを強く感じました」",
+   "person": "寺田心"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1222738/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 眞島秀和が選んだ1冊は？「舞台の稽古は言葉と向き合う時間。言葉遣いに不安を感じ、手に取りました」",
+   "person": "眞島秀和"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1206310/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 永作博美さんが選んだ1冊は？「言葉の背後にあるのは究極的には愛や優しさなんですね」",
+   "person": "永作博美"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1177634/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 緒川たまきさんが選んだ1冊は？「読んだあと、さらに広がりを見せる景色。願わくば、新作舞台もそうであり",
+   "person": "緒川たまき"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1177625/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 竜星涼さんが選んだ1冊は？「どう価値のある生き方をするのかが一番大切なんだと思います」",
+   "person": "竜星涼"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1177602/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 門脇麦さんが選んだ1冊は？「本当につらい時は誰かに頼ってもいい。そう考えられることがひと筋の光」",
+   "person": "門脇麦"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1161163/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 吉川ひなのさんが選んだ1冊は？「幼い頃の私を守ってくれるような、自分の気持ちを代弁してくれた一冊」",
+   "person": "吉川ひなの"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1161213/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 白岩瑠姫さん（JO1）が選んだ1冊は？「マンガで泣いたのは、これが最初で最後。ラストは涙が止まりませ",
+   "person": "白岩瑠姫さん（JO1）"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1161145/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 夏帆さんが選んだ1冊は？「うまく言葉にしづらいことの中にこそ、大切なものがたくさん詰まってる」",
+   "person": "夏帆"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1145883/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 詩羽さんが選んだ1冊は？「誰になんと言われようと、自分の“好き”を貫く強さを教えてもらった」",
+   "person": "詩羽"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1145980/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 小芝風花さんが選んだ1冊は？「周りがどう言おうと、『私は私』って思えるように強くありたいです」",
+   "person": "小芝風花"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1145887/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 清原果耶さんが選んだ1冊は？「どんな感情のときにも必ずどこかに導いてくれます」",
+   "person": "清原果耶"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1134636/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 船越英一郎さんが選んだ1冊は？「渡辺くんのすべてが詰まった一冊。彼と友達になった気持ちになりました」",
+   "person": "船越英一郎"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1124277/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 松村沙友理さんが選んだ1冊は？「友人の恋バナを聞いているようなリアルさ。男性側の感想も聞いてみたくな",
+   "person": "松村沙友理"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1113853/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 三石琴乃さんが選んだ1冊は？「自分の中の虚しさを埋めてくれた一冊。今も読み返すたびに印象が変わります",
+   "person": "三石琴乃"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1098465/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 木全翔也さんが選んだ1冊は？「気付いたら泣いていたこの絵本を、僕は勝手に“もりちい”と呼んでます」",
+   "person": "木全翔也"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1098419/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 橘ケンチさんが選んだ1冊は？「最後、鈴さんの抱えていた想いがほろっとほどける。泣いてしまいました」",
+   "person": "橘ケンチ"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1083262/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 尾上菊之助さんが選んだ1冊は？「日常の中で見逃してしまう自然の息吹や、人の心の豊かさを思い出させてく",
+   "person": "尾上菊之助"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1070933/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 古川琴音さんが選んだ1冊は？「自分の中に溜まっているものを、ふわっと手放させてくれる」",
+   "person": "古川琴音"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1070925/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 渡邊圭祐さんが選んだ1冊は？「野宮朋美の言葉は、格言として僕の心に刻まれています」",
+   "person": "渡邊圭祐"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1057360/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 笠松将さんが選んだ1冊は？「“できないこと\"があるのが嫌。だからこの本で、毎日勉強してます」",
+   "person": "笠松将"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1057354/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 生田絵梨花さんが選んだ1冊は？「大竹さんのように『まあいいか』と全てを受け止められる強さに憧れます」",
+   "person": "生田絵梨花"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1057346/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 比嘉愛未さんが選んだ1冊は？「苦しくなるけど何度も読んでしまう、私にとって最高のバイブルです!」",
+   "person": "比嘉愛未"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1046690/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 見上愛さんが選んだ1冊は？「思春期の整理のつかない自意識に、主人公の不安定な自我が響きました」",
+   "person": "見上愛"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1046562/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 内田雄馬さんが選んだ1冊は？「自分らしくマイペースに戦うしかない。その姿に勇気をもらいました」",
+   "person": "内田雄馬"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1046479/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: MEGUMIさんが選んだ1冊は？「怖さがあり、羨ましさもある愛の形。こんな役を一度は演じてみたいです",
+   "person": "MEGUMI"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1037534/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 珠城りょうさんが選んだ1冊は？「自分の足で力強く人生を歩む主人公の姿が心に沁みました」",
+   "person": "珠城りょう"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1037552/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 大西礼芳さんが選んだ1冊は？「少年の心が動けば、川が流れて螢が飛びます」",
+   "person": "大西礼芳"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1037573/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 前田公輝さんが選んだ1冊は？「肩の力が抜けた自分に重なったのは超サイヤ人、最強の形態でした」",
+   "person": "前田公輝"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1026109/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 瀬戸麻沙美さんが選んだ1冊は？「恋愛の過程以上に、登場人物たちの孤独が胸に突き刺さりました」",
+   "person": "瀬戸麻沙美"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1026089/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 福地桃子さんが選んだ1冊は？「偶然手にした一冊が私の心を満たす──そんな運命的な出会いを楽しんでます",
+   "person": "福地桃子"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1026069/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 松本穂香さんが選んだ1冊は？「考えすぎる自分、生きづらい自分も全部許していけたらいい」",
+   "person": "松本穂香"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1015072/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 瀬戸康史さんが選んだ1冊は？「霊との距離感や各エピソードがリアルで思わず共感しながら読んでました」",
+   "person": "瀬戸康史"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1015052/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 南沙良さんが選んだ1冊は？「古本屋は私にとって出会いの場。この本も運命的に巡り合った一冊」",
+   "person": "南沙良"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1015015/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 飯島寛騎さんが選んだ1冊は？「見ているだけで感性が刺激される。そんな贅沢な時間を味わってます」",
+   "person": "飯島寛騎"
+  },
+  {
+   "url": "https://ddnavi.com/article/d1004600/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 片岡健太（sumika）さんが選んだ1冊は？「クリエイティブをするうえで何度も読み返す、お守りのよう",
+   "person": "片岡健太（sumika）"
+  },
+  {
+   "url": "https://ddnavi.com/article/d995602/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 黒木渚さんが選んだ1冊は？「この読みづらさは彼の生きづらさ。“少し誇張された私”を主人公に感じた」",
+   "person": "黒木渚"
+  },
+  {
+   "url": "https://ddnavi.com/article/d995596/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 奈緒さんが選んだ1冊は？「ひとりが好きでいいのだと安堵した優しさのかたまりのような一冊」",
+   "person": "奈緒"
+  },
+  {
+   "url": "https://ddnavi.com/article/d980431/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 成田 凌さんが選んだ1冊は？「まだ何者でもない自分にとって生き方を軽くしてくれる一冊です」",
+   "person": "成田 凌"
+  },
+  {
+   "url": "https://ddnavi.com/article/d980427/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 小池徹平さんが選んだ1冊は？「バトルのなかにある深い人間ドラマ　虚構と現実をたゆたう距離感が絶妙」",
+   "person": "小池徹平"
+  },
+  {
+   "url": "https://ddnavi.com/article/d980392/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 阿部サダヲさんが選んだ1冊は？「旅行誌を手に、どこに行こうか考える。それも旅の醍醐味の一つですよね」",
+   "person": "阿部サダヲ"
+  },
+  {
+   "url": "https://ddnavi.com/article/d964150/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 玉山鉄二さんが選んだ1冊は？「ニュースをいかに“選択”できるか。受け取る側の姿勢に気づかされた」",
+   "person": "玉山鉄二"
+  },
+  {
+   "url": "https://ddnavi.com/article/d964114/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 芦田太郎さんが選んだ1冊は？「“あざとさ”を知ることは、人に対する想像力を育む手段でもあるんです」",
+   "person": "芦田太郎"
+  },
+  {
+   "url": "https://ddnavi.com/article/d964087/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 福士蒼汰さんが選んだ1冊は？「大人になって気づいた物語の深み　東洋の思想も感じる色褪せない名作」",
+   "person": "福士蒼汰"
+  },
+  {
+   "url": "https://ddnavi.com/article/d943500/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 中条あやみさんが選んだ1冊は？「さまざまな感情が描かれて、言葉の豊かさや情緒に魅了されます」",
+   "person": "中条あやみ"
+  },
+  {
+   "url": "https://ddnavi.com/article/d943460/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 七海ひろきさんが選んだ1冊は『チ。』――「何かを伝えようとする人間の情熱。その力に強い憧れを抱きまし",
+   "person": "七海ひろき"
+  },
+  {
+   "url": "https://ddnavi.com/article/d943405/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 岸井ゆきのさんが選んだ1冊は？「たったひとり大宇宙を行く、主人公のポジティブさ、驚きの展開に大興奮！",
+   "person": "岸井ゆきの"
+  },
+  {
+   "url": "https://ddnavi.com/article/d926312/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 古川雄大さんが選んだ1冊は？「天才脳外科医たちの戦い続ける姿に共感します」",
+   "person": "古川雄大"
+  },
+  {
+   "url": "https://ddnavi.com/article/d926302/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 高橋文哉さんが選んだ1冊は「本質を突いた言葉に、悩みを見透かされ、しかも心を軽くしてもらえる」",
+   "person": "高橋文哉"
+  },
+  {
+   "url": "https://ddnavi.com/article/d926290/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 福本莉子さんが選んだ1冊は、読むだけで心穏やかになる『日日是好日』",
+   "person": "福本莉子"
+  },
+  {
+   "url": "https://ddnavi.com/article/d893318/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 金子大地さんがおすすめする1冊は 「不器用で損をする……そんな人たちを肯定してくれる物語」",
+   "person": "金子大地"
+  },
+  {
+   "url": "https://ddnavi.com/article/d893350/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: “表現者として衝撃を受けた”――崎山つばささんがおすすめする「モノクロなのにどこか新しい」1冊とは？",
+   "person": "“表現者として衝撃を受けた”――崎山つばさ"
+  },
+  {
+   "url": "https://ddnavi.com/article/d893230/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 磯村勇斗さんがおすすめする「いろいろな想像力を膨らませてくれる、ロマンのある本」とは？",
+   "person": "磯村勇斗"
+  },
+  {
+   "url": "https://ddnavi.com/article/d806615/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 鈴村健一「河童さんのような天才に打ち勝つこと。それが僕の人生の目標です」【あの人と本の話】",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d810369/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 加藤諒「騙される快感の裏に、シリアスなメッセージがあるんです」【あの人と本の話】",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d810671/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 映画『犬部！』公開間近！ 林遣都さんが、ファンにおすすめされた1冊『そのままでいい』とは？【あの人と",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d789271/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 井頭愛海「初めての“ハッちゃけた”役で、演じることの楽しさを痛感しました」【あの人と本の話『アーモン",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d789131/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 濱田龍臣「キラキラした青春がてんこ盛り。こんな青春があったらよかった」【あの人と本の話『SPY×FA",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d787046/a/",
+   "result": "candidate",
+   "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 読書は苦手⁉ 芳根京子が“不老不死”の女性を演じる映画『Arc アーク』「きっとこの映画を何度も見返",
+   "person": ""
+  },
+  {
+   "url": "https://ddnavi.com/article/d1331002/a/",
+   "result": "candidate",
+   "reason": "太田光×宮島未奈の対談。未読（『成瀬は天下を取りにいく』を太田が選んだ・薦めた形か不明）",
+   "person": "太田光"
+  }
+ ]
+}

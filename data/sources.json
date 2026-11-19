@@ -14982,5 +14982,324 @@
     "title": "東京岸田奈美書店｜#木曜日は本曜日",
     "url": "https://honyoubi.com/007/",
     "publishedAt": "2022-11-10"
+  },
+  {
+    "id": "s4",
+    "type": "interview",
+    "media": "Hanako Web",
+    "title": "山崎怜奈が選ぶ、2023年のマイベスト「ブック」3冊",
+    "url": "https://hanako.tokyo/culture/408957/",
+    "publishedAt": "2023-12-20"
+  },
+  {
+    "id": "s9-b",
+    "type": "interview",
+    "media": "WEB chichi（致知出版社）",
+    "title": "京都大学iPS細胞研究所名誉所長・山中伸弥氏の人生を変えた２冊の本",
+    "url": "https://www.chichi.co.jp/web/20250608_andou_yamanaka/",
+    "publishedAt": "2025-06-08"
+  },
+  {
+    "id": "s6-b",
+    "type": "interview",
+    "media": "honto",
+    "title": "第1回 三浦春馬の本と映画の話 人生を変えた本との出会い",
+    "url": "https://honto.jp/article/einekleine/1.html"
+  },
+  {
+    "id": "s8-b",
+    "type": "interview",
+    "media": "WEB chichi（致知出版社）",
+    "title": "侍ジャパン前監督・栗山英樹の苦境を支えた『論語と算盤』",
+    "url": "https://www.chichi.co.jp/web/20230315_kuriyama_yasuoka/",
+    "publishedAt": "2025-09-12"
+  },
+  {
+    "id": "s3-b",
+    "type": "article",
+    "media": "デイリースポーツ",
+    "title": "阪神・藤川監督 「準備とは、言い訳をすべてつぶすこと」 24時間、監督を支えるバイブルは吉田松陰の超訳書「覚悟の磨き方」",
+    "url": "https://www.daily.co.jp/tigers/2026/04/27/0020289419.shtml",
+    "publishedAt": "2026-04-27"
+  },
+  {
+    "id": "s2",
+    "type": "interview",
+    "media": "Number Web",
+    "title": "読書家・菊池雄星が薦める12冊。「1日1冊は読みたいですね」",
+    "url": "https://number.bunshun.jp/articles/-/843513",
+    "publishedAt": "2020-05-17"
+  },
+  {
+    "id": "s5-b",
+    "type": "interview",
+    "media": "まいにちdoda",
+    "title": "“現代の魔法使い”メディアアーティスト落合陽一の人生に影響を与えた3冊とは？",
+    "url": "https://mainichi.doda.jp/article/2018/10/01/389.html",
+    "publishedAt": "2018-10-01"
+  },
+  {
+    "id": "s1",
+    "type": "article",
+    "media": "ダイヤモンド・オンライン",
+    "title": "ひろゆきが語る「ラクしてうまく生きる方法」",
+    "url": "https://diamond.jp/articles/-/270126",
+    "publishedAt": "2021-05-11"
+  },
+  {
+    "id": "bs-kitamura",
+    "type": "interview",
+    "media": "Precious.jp",
+    "title": "【北村匠海さん】本誌未公開、Precious.jp独占インタビュー！　人生の悔いは｢キャンパスライフを味わいたかった｣",
+    "url": "https://precious.jp/articles/-/27830",
+    "publishedAt": "2021-07-09"
+  },
+  {
+    "id": "bs-muraki",
+    "type": "article",
+    "media": "PRESIDENT Online",
+    "title": "無実の罪、苦しかった20日間を「支えてくれた1冊」",
+    "url": "https://president.jp/articles/-/19212",
+    "publishedAt": "2015-12-29"
+  },
+  {
+    "id": "bs-tsuneta",
+    "type": "interview",
+    "media": "Rolling Stone Japan",
+    "title": "King Gnu常田大希が「憧れの気持ち」を抱く14冊",
+    "url": "https://rollingstonejapan.com/articles/detail/29330",
+    "publishedAt": "2018-11-01"
+  },
+  {
+    "id": "bs-hoshino",
+    "type": "article",
+    "media": "ORICON NEWS",
+    "title": "星野源、療養前後で読んだ“3冊の本” 衝撃のデビュー作に触れ「生きていてよかったって思った」",
+    "url": "https://www.oricon.co.jp/news/2321150/full/",
+    "publishedAt": "2024-04-03"
+  },
+  {
+    "id": "bs-kimura",
+    "type": "article",
+    "media": "WEBザテレビジョン",
+    "title": "木村拓哉、ページをめくる楽しさを知った本などおススメ書籍ベスト5を発表！",
+    "url": "https://thetv.jp/news/detail/231559/",
+    "publishedAt": "2020-04-26"
+  },
+  {
+    "id": "ts14",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "河合優実が選んだ1冊は？「書き手の視点によって作品の印象も変わる。翻訳という仕事にすごく心を惹かれました」",
+    "url": "https://ddnavi.com/article/d1330848/a/",
+    "publishedAt": "2024-06-15"
+  },
+  {
+    "id": "ts04",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "杉咲花さんが選んだ1冊は？「生活の隅に転がっている、眩しい欠片を拾い集めていくような日記」",
+    "url": "https://ddnavi.com/article/d1206319/a/",
+    "publishedAt": "2023-11-15"
+  },
+  {
+    "id": "ts28",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "前田敦子さんが選んだ1冊は？「一人で頑張ろうとしていたときに読んだ一冊。加賀さんの生き方に励まされました」",
+    "url": "https://ddnavi.com/article/d1113839/a/",
+    "publishedAt": "2023-04-14"
+  },
+  {
+    "id": "ts20",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "岡田将生が選んだ1冊は？「ここまで心血を注げるものに出会えるなんてうらやましい」",
+    "url": "https://ddnavi.com/article/d1269050/a/",
+    "publishedAt": "2024-03-13"
+  },
+  {
+    "id": "ts08",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "窪塚愛流が選んだ1冊は？「自分の命に代えても守りたいモノは何だろう。当時、本当に繰り返し考えました」",
+    "url": "https://ddnavi.com/article/d1391235/a/",
+    "publishedAt": "2024-09-15"
+  },
+  {
+    "id": "ts19",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "柳楽優弥が選んだ1冊は？「未来への期待と不安を感じていたとき、ここから多くのことを受け取りました」",
+    "url": "https://ddnavi.com/article/d1391039/a/",
+    "publishedAt": "2024-09-13"
+  },
+  {
+    "id": "ts17",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "綾野剛が選んだ1冊は？「打ちのめされても、瞼を閉じず世界を見つめ続けなければならない」",
+    "url": "https://ddnavi.com/article/1237909/a/",
+    "publishedAt": "2024-01-13"
+  },
+  {
+    "id": "ts22",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "稲垣吾郎が選んだ1冊は？「僕自身、当時やり残したことがあると感じ続けているんだと思います。」",
+    "url": "https://ddnavi.com/article/d1206442/a/",
+    "publishedAt": "2023-11-14"
+  },
+  {
+    "id": "ts24",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "浜辺美波が選んだ1冊は？「衝撃的な事件の背景にある真実から目を背けないために手にした一冊です」",
+    "url": "https://ddnavi.com/article/d1237941/a/",
+    "publishedAt": "2024-01-15"
+  },
+  {
+    "id": "ts15",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "岡山天音が選んだ1冊は？「上手すぎて隙がない作品。主人公のトーシローを演じてみたい」",
+    "url": "https://ddnavi.com/article/d1222749/a/",
+    "publishedAt": "2023-12-14"
+  },
+  {
+    "id": "ts25",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "吉田羊が選んだ1冊は？「余計なことを考えず、ただシンプルに生きればいいと思わせてくれました」",
+    "url": "https://ddnavi.com/article/d1312571/a/",
+    "publishedAt": "2024-05-14"
+  },
+  {
+    "id": "ts06",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "深田恭子さんが選んだ1冊は？「私は忘れられてもいい。でも、大切な人たちのことを忘れたくない」",
+    "url": "https://ddnavi.com/article/d1083205/a/",
+    "publishedAt": "2023-02-13"
+  },
+  {
+    "id": "ts07",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "早見沙織さんが選んだ1冊は？「描き出される今を生きることの刹那が美しく、涙がこぼれてしまった」",
+    "url": "https://ddnavi.com/article/d1134643/a/",
+    "publishedAt": "2023-06-15"
+  },
+  {
+    "id": "ts27",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "唐沢寿明さんが選んだ1冊は？「車を通じて大切な人脈を得ました。そのすべての始まりが『サーキットの狼』です」",
+    "url": "https://ddnavi.com/article/d1113831/a/",
+    "publishedAt": "2023-04-13"
+  },
+  {
+    "id": "ts23",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "永山瑛太が選んだ1冊は？「人生に答えを探そうとしなくてもいい。ねじれた自分をリセットしてくれる詩集」",
+    "url": "https://ddnavi.com/article/d1252161/a/",
+    "publishedAt": "2024-02-13"
+  },
+  {
+    "id": "ts09",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "波瑠さんが選んだ1冊は？「読むたびに最初は気づけなかった人の温もりを感じる大人の青春物語」",
+    "url": "https://ddnavi.com/article/d1191655/a/",
+    "publishedAt": "2023-10-13"
+  },
+  {
+    "id": "ts13",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "吉岡里帆さんが選んだ1冊は？「人生を見つめ直すきっかけにもなる、100人の素敵な夢が詰まった本」",
+    "url": "https://ddnavi.com/article/d1004563/a/",
+    "publishedAt": "2022-07-10"
+  },
+  {
+    "id": "ts02",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "与田祐希さんが選んだ1冊は？「自分が生きる世界がすべてじゃないと作品に“海の広さ”を教わりました」",
+    "url": "https://ddnavi.com/article/d1134652/a/",
+    "publishedAt": "2023-06-14"
+  },
+  {
+    "id": "ts29",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "中川大志が選んだ1冊は？「どんな境遇の人にも、励みになるような言葉が見つかる本だと思います」",
+    "url": "https://ddnavi.com/article/d1295574/a/",
+    "publishedAt": "2024-04-13"
+  },
+  {
+    "id": "ts16",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "玉城ティナ「よく読まれているから”という理由で、本を選んだことはこれまで一度もないかもしれません」",
+    "url": "https://ddnavi.com/article/d574569/a/",
+    "publishedAt": "2019-11-16"
+  },
+  {
+    "id": "ts26",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "松本まりかが選んだ1冊は？「自分を鍛えてくれた本のなかの言葉は血肉となり、“私の言葉”になった」",
+    "url": "https://ddnavi.com/article/d1312576/a/",
+    "publishedAt": "2024-05-15"
+  },
+  {
+    "id": "ts01",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "齋藤飛鳥さんが選んだ1冊は？「ああ、自分の感情ってこう言葉にすればいいんだなと思いました」",
+    "url": "https://ddnavi.com/article/d1191673/a/",
+    "publishedAt": "2023-10-14"
+  },
+  {
+    "id": "ts10",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "川口春奈さんが選んだ1冊は？「同じ年に“デビュー”したこの本は、自分の軸みたいなものになっている」",
+    "url": "https://ddnavi.com/article/d995588/a/",
+    "publishedAt": "2022-06-10"
+  },
+  {
+    "id": "ts18",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "堀田茜が選んだ1冊は？「偏見や思想の違いから生まれるテロや争い。読みながら考えさせられることばかりです」",
+    "url": "https://ddnavi.com/article/1295582/a/",
+    "publishedAt": "2024-04-14"
+  },
+  {
+    "id": "ts03",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "黒島結菜さんが選んだ1冊は？「私の知らない世界を読み聞かせてくれるこの本に初恋した気分です」",
+    "url": "https://ddnavi.com/article/d1123909/a/",
+    "publishedAt": "2023-05-13"
+  },
+  {
+    "id": "ts12",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "安達祐実「小説がないと現実がつまらなくなっちゃう」　書店で出会った1冊とは？",
+    "url": "https://ddnavi.com/interview/609588/a/",
+    "publishedAt": "2020-04-11"
+  },
+  {
+    "id": "ts21",
+    "type": "interview",
+    "media": "ダ・ヴィンチWeb",
+    "title": "上白石萌音が選んだ1冊は？「大きなものをかみ砕き、真理を得る。そんな考え方の癖を自分もつけたい」",
+    "url": "https://ddnavi.com/article/d1252176/a/",
+    "publishedAt": "2024-02-15"
   }
 ]

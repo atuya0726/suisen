@@ -1,0 +1,450 @@
+{
+ "people": [
+  {
+   "id": "t1",
+   "name": "西村博之",
+   "title": "実業家・論客",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "t2",
+   "name": "菊池雄星",
+   "title": "マリナーズ投手",
+   "tags": [
+    "スポーツ選手"
+   ]
+  },
+  {
+   "id": "t3",
+   "name": "藤川球児",
+   "title": "阪神タイガース監督",
+   "tags": [
+    "スポーツ選手"
+   ]
+  },
+  {
+   "id": "t4",
+   "name": "山崎怜奈",
+   "title": "ラジオパーソナリティ（元乃木坂46）",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "t5",
+   "name": "落合陽一",
+   "title": "メディアアーティスト",
+   "tags": []
+  },
+  {
+   "id": "t6",
+   "name": "三浦春馬",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "t8",
+   "name": "栗山英樹",
+   "title": "侍ジャパン前監督",
+   "tags": [
+    "スポーツ選手"
+   ]
+  },
+  {
+   "id": "t9",
+   "name": "山中伸弥",
+   "title": "京都大学iPS細胞研究所名誉所長",
+   "tags": [
+    "研究者"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "type": "article",
+   "media": "ダイヤモンド・オンライン",
+   "title": "ひろゆきが語る「ラクしてうまく生きる方法」",
+   "url": "https://diamond.jp/articles/-/270126",
+   "publishedAt": "2021-05-11"
+  },
+  {
+   "id": "s2",
+   "type": "interview",
+   "media": "Number Web",
+   "title": "読書家・菊池雄星が薦める12冊。「1日1冊は読みたいですね」",
+   "url": "https://number.bunshun.jp/articles/-/843513",
+   "publishedAt": "2020-05-17"
+  },
+  {
+   "id": "s3",
+   "type": "article",
+   "media": "デイリースポーツ",
+   "title": "阪神・藤川監督 「準備とは、言い訳をすべてつぶすこと」 24時間、監督を支えるバイブルは吉田松陰の超訳書「覚悟の磨き方」",
+   "url": "https://www.daily.co.jp/tigers/2026/04/27/0020289419.shtml",
+   "publishedAt": "2026-04-27"
+  },
+  {
+   "id": "s4",
+   "type": "interview",
+   "media": "Hanako Web",
+   "title": "山崎怜奈が選ぶ、2023年のマイベスト「ブック」3冊",
+   "url": "https://hanako.tokyo/culture/408957/",
+   "publishedAt": "2023-12-20"
+  },
+  {
+   "id": "s5",
+   "type": "interview",
+   "media": "まいにちdoda",
+   "title": "“現代の魔法使い”メディアアーティスト落合陽一の人生に影響を与えた3冊とは？",
+   "url": "https://mainichi.doda.jp/article/2018/10/01/389.html",
+   "publishedAt": "2018-10-01"
+  },
+  {
+   "id": "s6",
+   "type": "interview",
+   "media": "honto",
+   "title": "第1回 三浦春馬の本と映画の話 人生を変えた本との出会い",
+   "url": "https://honto.jp/article/einekleine/1.html"
+  },
+  {
+   "id": "s8",
+   "type": "interview",
+   "media": "WEB chichi（致知出版社）",
+   "title": "侍ジャパン前監督・栗山英樹の苦境を支えた『論語と算盤』",
+   "url": "https://www.chichi.co.jp/web/20230315_kuriyama_yasuoka/",
+   "publishedAt": "2025-09-12"
+  },
+  {
+   "id": "s9",
+   "type": "interview",
+   "media": "WEB chichi（致知出版社）",
+   "title": "京都大学iPS細胞研究所名誉所長・山中伸弥氏の人生を変えた２冊の本",
+   "url": "https://www.chichi.co.jp/web/20250608_andou_yamanaka/",
+   "publishedAt": "2025-06-08"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "t1",
+   "sourceId": "s1",
+   "book": {
+    "title": "銃・病原菌・鉄 上",
+    "author": "ジャレド・ダイアモンド",
+    "publisher": "",
+    "isbn": "9784794210050",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "革命前夜",
+    "author": "須賀しのぶ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "夏の騎士",
+    "author": "百田尚樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "一瞬の夏",
+    "author": "沢木耕太郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "深夜特急",
+    "author": "沢木耕太郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "殺人犯はそこにいる",
+    "author": "清水潔",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "動的平衡",
+    "author": "福岡伸一",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "ONE PIECE",
+    "author": "尾田栄一郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "キングダム",
+    "author": "原泰久",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "SLAM DUNK",
+    "author": "井上雄彦",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "いないいないばあ",
+    "author": "松谷みよ子・瀬川康男",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t2",
+   "sourceId": "s2",
+   "book": {
+    "title": "SHOE DOG",
+    "author": "フィル・ナイト",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "最近読んだ"
+  },
+  {
+   "personId": "t3",
+   "sourceId": "s3",
+   "book": {
+    "title": "覚悟の磨き方",
+    "author": "吉田松陰",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "t4",
+   "sourceId": "s4",
+   "book": {
+    "title": "##NAME##",
+    "author": "児玉雨子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "2023年のマイベストブック"
+  },
+  {
+   "personId": "t4",
+   "sourceId": "s4",
+   "book": {
+    "title": "ざくろちゃん、はじめまして",
+    "author": "藤崎沙織",
+    "publisher": "水鈴社",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "2023年のマイベストブック"
+  },
+  {
+   "personId": "t4",
+   "sourceId": "s4",
+   "book": {
+    "title": "深くしっかり息をして",
+    "author": "川上未映子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他",
+   "note": "2023年のマイベストブック"
+  },
+  {
+   "personId": "t5",
+   "sourceId": "s5",
+   "book": {
+    "title": "イリヤの空、UFOの夏",
+    "author": "秋山瑞人",
+    "publisher": "アスキー・メディアワークス",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t5",
+   "sourceId": "s5",
+   "book": {
+    "title": "ツァラトゥストラかく語りき",
+    "author": "ニーチェ",
+    "publisher": "河出書房新社",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t5",
+   "sourceId": "s5",
+   "book": {
+    "title": "デカルトからベイトソンへ 世界の再魔術化",
+    "author": "モリス・バーマン",
+    "publisher": "国文社",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t6",
+   "sourceId": "s6",
+   "book": {
+    "title": "旅をする木",
+    "author": "星野道夫",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t6",
+   "sourceId": "s6",
+   "book": {
+    "title": "メソード演技",
+    "author": "エドワード・D.イースティ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "その他"
+  },
+  {
+   "personId": "t8",
+   "sourceId": "s8",
+   "book": {
+    "title": "論語と算盤",
+    "author": "渋沢栄一",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "座右の書"
+  },
+  {
+   "personId": "t9",
+   "sourceId": "s9",
+   "book": {
+    "title": "がん遺伝子の発見",
+    "author": "黒木登志夫",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "t9",
+   "sourceId": "s9",
+   "book": {
+    "title": "仕事は楽しいかね？",
+    "author": "デイル・ドーテン",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   },
+   "context": "人生を変えた一冊"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://diamond.jp/articles/-/282660",
+   "result": "rejected",
+   "reason": "ひろゆき記事だが書籍の推薦なし",
+   "person": "ひろゆき（西村博之）"
+  },
+  {
+   "url": "https://hanako.tokyo/feature/feature-411075/",
+   "result": "index",
+   "reason": "2023年マイベスト3まとめ（他の著名人分の候補）",
+   "person": ""
+  },
+  {
+   "url": "https://www.oricon.co.jp/news/2465191/",
+   "result": "candidate",
+   "reason": "URL特定のみ。本文未確認（キャプテン翼の発言記事。見出しのみ確認）",
+   "person": "中田英寿"
+  },
+  {
+   "url": "https://classy-online.jp/lifestyle/357538/",
+   "result": "rejected",
+   "reason": "最近読んで印象に残った本で、推薦とまでは言えない",
+   "person": "古川琴音"
+  }
+ ]
+}

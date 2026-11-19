@@ -18024,5 +18024,1049 @@
     "result": "index",
     "reason": "#木曜日は本曜日 公式。2022年度の20人で完結",
     "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/culture/408957/",
+    "result": "adopted",
+    "reason": "sources.json の s4",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.chichi.co.jp/web/20250608_andou_yamanaka/",
+    "result": "adopted",
+    "reason": "sources.json の s9-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honto.jp/article/einekleine/1.html",
+    "result": "adopted",
+    "reason": "sources.json の s6-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.chichi.co.jp/web/20230315_kuriyama_yasuoka/",
+    "result": "adopted",
+    "reason": "sources.json の s8-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.daily.co.jp/tigers/2026/04/27/0020289419.shtml",
+    "result": "adopted",
+    "reason": "sources.json の s3-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/843513",
+    "result": "adopted",
+    "reason": "sources.json の s2",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://mainichi.doda.jp/article/2018/10/01/389.html",
+    "result": "adopted",
+    "reason": "sources.json の s5-b",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://diamond.jp/articles/-/270126",
+    "result": "adopted",
+    "reason": "sources.json の s1",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://diamond.jp/articles/-/282660",
+    "result": "rejected",
+    "reason": "ひろゆき記事だが書籍の推薦なし",
+    "person": "ひろゆき（西村博之）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hanako.tokyo/feature/feature-411075/",
+    "result": "index",
+    "reason": "2023年マイベスト3まとめ（他の著名人分の候補）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.oricon.co.jp/news/2465191/",
+    "result": "candidate",
+    "reason": "URL特定のみ。本文未確認（キャプテン翼の発言記事。見出しのみ確認）",
+    "person": "中田英寿",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://classy-online.jp/lifestyle/357538/",
+    "result": "rejected",
+    "reason": "最近読んで印象に残った本で、推薦とまでは言えない",
+    "person": "古川琴音",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://precious.jp/articles/-/27830",
+    "result": "adopted",
+    "reason": "sources.json の bs-kitamura",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://president.jp/articles/-/19212",
+    "result": "adopted",
+    "reason": "sources.json の bs-muraki",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://rollingstonejapan.com/articles/detail/29330",
+    "result": "adopted",
+    "reason": "sources.json の bs-tsuneta",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.oricon.co.jp/news/2321150/full/",
+    "result": "adopted",
+    "reason": "sources.json の bs-hoshino",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://thetv.jp/news/detail/231559/",
+    "result": "adopted",
+    "reason": "sources.json の bs-kimura",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://natalie.mu/comic/news/234382",
+    "result": "unreachable",
+    "reason": "指定URLは別記事を返し対談記事ではなかった。検索でも原典の掲載場所を確認できず",
+    "person": "藤本タツキ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://shonenjump.com/p/sp/1706/samura_fujimoto",
+    "result": "candidate",
+    "reason": "時間切れで未取得（対談記事は shonenjump.com 掲載とのこと）。本人が沙村作品を好きと語る箇所の本文確認が必要",
+    "person": "藤本タツキ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.ghibli.jp/info/007358",
+    "result": "candidate",
+    "reason": "時間切れで未取得。『本へのとびら』は書籍で、Webの本文での確認が必要",
+    "person": "宮崎駿",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/honyoubi/158478",
+    "result": "unreachable",
+    "reason": "404。正しいURLは /bookstore/14465/（採用）",
+    "person": "林士平",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://rollingstonejapan.com/articles/detail/29326",
+    "result": "unreachable",
+    "reason": "別記事。正しいURLは 29330（採用）",
+    "person": "常田大希",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://book.asahi.com/article/16855907",
+    "result": "unreachable",
+    "reason": "404。検索でも記事を特定できず",
+    "person": "ニシダ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.bookbang.jp/review/article/769741",
+    "result": "unreachable",
+    "reason": "別内容のページを返した。記事を特定できず",
+    "person": "田中希実",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ameblo.jp/shinjifujita/entry-12502120042.html",
+    "result": "unreachable",
+    "reason": "404",
+    "person": "藤田晋",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/848098",
+    "result": "candidate",
+    "reason": "時間切れで未取得。Number Web は冒頭のみのことが多い",
+    "person": "村田諒太",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://number.bunshun.jp/articles/-/841267",
+    "result": "candidate",
+    "reason": "時間切れで未取得。Number Web は冒頭のみのことが多い",
+    "person": "田中碧",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://www.news-postseven.com/archives/20200429_1557981.html",
+    "result": "rejected",
+    "reason": "樹木希林さんの蔵書を親交のあった編集者が語る第三者の記事で、本人の言葉ではない",
+    "person": "樹木希林",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://natalie.mu/owarai/news/468762",
+    "result": "rejected",
+    "reason": "アメトーーク！ヤンマガ芸人の放送予告。バカリズムが紹介する作品名が書かれていない",
+    "person": "バカリズム",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://natalie.mu/comic/news/468624",
+    "result": "rejected",
+    "reason": "同上。作品名なし",
+    "person": "バカリズム",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://brutus.jp/en/post-71697/",
+    "result": "rejected",
+    "reason": "濱口竜介の挙げる本は映画『ドライブ・マイ・カー』の原作で宣伝対象の本のため除外（本文は未取得）",
+    "person": "濱口竜介",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://kai-you.net/article/88323",
+    "result": "candidate",
+    "reason": "ヒデミス2023のフェア告知記事。販促・プレスリリース寄りで未取得",
+    "person": "小島秀夫",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://croissant-online.jp/culture/244304",
+    "result": "candidate",
+    "reason": "robots.txt が404でサイト構造不明、記事を特定できず未取得",
+    "person": "山田詠美",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://natalie.mu/music/news/16453",
+    "result": "candidate",
+    "reason": "宇多田書店の関連記事。2009年のオープン記事を特定できず未取得",
+    "person": "宇多田ヒカル",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://thetv.jp/news/detail/232100/",
+    "result": "candidate",
+    "reason": "木村拓哉のおススメ漫画ベスト5の記事。時間切れで未取得（漫画は巻指定の確認が必要）",
+    "person": "木村拓哉",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/bookstore/14465/",
+    "result": "rejected",
+    "reason": "#木曜日は本曜日の紹介記事。公式ページ（honyoubi.com）を出典にしたので重複",
+    "person": "林士平",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1330848/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts14",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1206319/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts04",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1113839/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts28",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1269050/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts20",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1391235/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts08",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1391039/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts19",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/1237909/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts17",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1206442/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts22",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1237941/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts24",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1222749/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts15",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1312571/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts25",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1083205/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts06",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1134643/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts07",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1113831/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts27",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1252161/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts23",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1191655/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts09",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1004563/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts13",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1134652/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts02",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1295574/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts29",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d574569/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts16",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1312576/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts26",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1191673/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts01",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d995588/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts10",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/1295582/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts18",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1123909/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts03",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/interview/609588/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts12",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1252176/a/",
+    "result": "adopted",
+    "reason": "sources.json の ts21",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1124218/a/",
+    "result": "rejected",
+    "reason": "森崎ウィン: ドローン飛行計画通報の実用書。手続きのために読んだ本で、推薦・愛読とは言い難く不採用",
+    "person": "森崎ウィン",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/",
+    "result": "index",
+    "reason": "連載「あの人と本の話」の過去回一覧（全体を網羅。page/2〜8まで取得でき、約120回分の記事URLあり）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/2/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/3/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/4/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/5/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/6/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/7/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/genre/%E3%81%82%E3%81%AE%E4%BA%BA%E3%81%A8%E6%9C%AC%E3%81%AE%E8%A9%B1-and-more/past/page/8/",
+    "result": "index",
+    "reason": "同一覧の続き",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1469653/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 深田竜生が選んだ1冊は？「いろんな想像力を掻き立てられる絵本　この一冊から多くのことを学びました」",
+    "person": "深田竜生",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1469611/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 伊原六花が選んだ1冊は？「希望を捨てなければ、いつだってワクワクできる。そう教えられました」",
+    "person": "伊原六花",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1469483/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 畑芽育が選んだ1冊は？「優しさのある最果さんの言葉に、少しだけ生き方が楽になりました」",
+    "person": "畑芽育",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1438813/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 桜井日奈子が選んだ1冊は？「弘前の街やご家族のこと、じろうさんの“好き”が詰まった本です」",
+    "person": "桜井日奈子",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1438743/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 本田望結が選んだ1冊は？「本を読んでいろんなことを想像する。その楽しさを教えてくれました」",
+    "person": "本田望結",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1438655/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 三吉彩花が選んだ1冊は？「心を込めて料理を作れば、必ずそれが相手に伝わるんだと思いました」",
+    "person": "三吉彩花",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1414171/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 高橋李依が選んだ1冊は？「脳のクセを把握しておけばもっと自分と付き合いやすくなる」",
+    "person": "高橋李依",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1414124/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 趣里が選んだ1冊は？「次第に気になり始める語り手の異常性。その歪みや気持ち悪さがクセになる」",
+    "person": "趣里",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1414069/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 明日海りおが選んだ1冊は？「さくらももこさんの描く世界はすごく身近で、他人事とは思えません」",
+    "person": "明日海りお",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1391189/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 葵わかなが選んだ1冊は？「不器用に生きる主人公の姿を通して気づかされることがたくさんありました」",
+    "person": "葵わかな",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1369251/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 奥平大兼が選んだ1冊は？「一枚の絵から人生まで想像させるゴッホの魅力を感じました」",
+    "person": "奥平大兼",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1368896/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 江口のりこが選んだ1冊は？「不思議なだけでなく、どこか懐かしい。私もそんなところに行きたいのかも」",
+    "person": "江口のりこ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1365100/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 森田剛が選んだ1冊は？「植物と一緒に生きている、暮らしているような感覚です」",
+    "person": "森田剛",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1346308/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 加藤史帆が選んだ1冊は？「諫山さんだけが持っている“記憶”なんじゃないかと思ったくらいです。」",
+    "person": "加藤史帆",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1346444/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 杉野遥亮が選んだ1冊は？「日本古来の“心”がここにある。僕にとっては人生の教科書のような一冊」",
+    "person": "杉野遥亮",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1330149/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 萩原利久が選んだ1冊は？「プレーも生き方も、すべてが憧れ。この本で初めて知った事実もありました」",
+    "person": "萩原利久",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1329841/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 杏が選んだ1冊は？「子どもたちが手にするその日まで、この作品は黙って置いておきたい」",
+    "person": "杏",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1312582/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 岡宮来夢が選んだ1冊は？「世界中の人が同じ言葉を使ったら、争いごとはなくなると信じています」",
+    "person": "岡宮来夢",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1295640/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 桜田ひよりが選んだ1冊は？「ひと言で恋愛小説と括れない二人の感情と想像を全て覆された展開に魅了されま",
+    "person": "桜田ひより",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1295582/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 堀田茜が選んだ1冊は？「偏見や思想の違いから生まれるテロや争い。読みながら考えさせられることばかりで",
+    "person": "堀田茜",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1269063/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 鈴鹿央士が選んだ1冊は？「普段見ている景色とはまったく違う、インドの風景が新鮮。旅したくなりました」",
+    "person": "鈴鹿央士",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1269055/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 宮世琉弥が選んだ1冊は？「大好きな画家たちの言葉に心を救われ、今では役者の仕事にも活かされてます」",
+    "person": "宮世琉弥",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1252188/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 半田健人が選んだ1冊は？「高度成長期の日本人が精一杯作った、その健気さが愛おしくなります」",
+    "person": "半田健人",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1237919/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 板垣李光人が選んだ1冊は？「人間の本質的な部分を突くような人間らしさのある作品が好き」",
+    "person": "板垣李光人",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1237909/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 綾野剛が選んだ1冊は？「打ちのめされても、瞼を閉じず世界を見つめ続けなければならない」",
+    "person": "綾野剛",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1222755/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 寺田心が選んだ1冊は？「目を背けてはいけない現実に直面し、命の尊さを強く感じました」",
+    "person": "寺田心",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1222738/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 眞島秀和が選んだ1冊は？「舞台の稽古は言葉と向き合う時間。言葉遣いに不安を感じ、手に取りました」",
+    "person": "眞島秀和",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1206310/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 永作博美さんが選んだ1冊は？「言葉の背後にあるのは究極的には愛や優しさなんですね」",
+    "person": "永作博美",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1177634/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 緒川たまきさんが選んだ1冊は？「読んだあと、さらに広がりを見せる景色。願わくば、新作舞台もそうであり",
+    "person": "緒川たまき",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1177625/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 竜星涼さんが選んだ1冊は？「どう価値のある生き方をするのかが一番大切なんだと思います」",
+    "person": "竜星涼",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1177602/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 門脇麦さんが選んだ1冊は？「本当につらい時は誰かに頼ってもいい。そう考えられることがひと筋の光」",
+    "person": "門脇麦",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1161163/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 吉川ひなのさんが選んだ1冊は？「幼い頃の私を守ってくれるような、自分の気持ちを代弁してくれた一冊」",
+    "person": "吉川ひなの",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1161213/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 白岩瑠姫さん（JO1）が選んだ1冊は？「マンガで泣いたのは、これが最初で最後。ラストは涙が止まりませ",
+    "person": "白岩瑠姫さん（JO1）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1161145/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 夏帆さんが選んだ1冊は？「うまく言葉にしづらいことの中にこそ、大切なものがたくさん詰まってる」",
+    "person": "夏帆",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1145883/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 詩羽さんが選んだ1冊は？「誰になんと言われようと、自分の“好き”を貫く強さを教えてもらった」",
+    "person": "詩羽",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1145980/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 小芝風花さんが選んだ1冊は？「周りがどう言おうと、『私は私』って思えるように強くありたいです」",
+    "person": "小芝風花",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1145887/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 清原果耶さんが選んだ1冊は？「どんな感情のときにも必ずどこかに導いてくれます」",
+    "person": "清原果耶",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1134636/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 船越英一郎さんが選んだ1冊は？「渡辺くんのすべてが詰まった一冊。彼と友達になった気持ちになりました」",
+    "person": "船越英一郎",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1124277/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 松村沙友理さんが選んだ1冊は？「友人の恋バナを聞いているようなリアルさ。男性側の感想も聞いてみたくな",
+    "person": "松村沙友理",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1113853/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 三石琴乃さんが選んだ1冊は？「自分の中の虚しさを埋めてくれた一冊。今も読み返すたびに印象が変わります",
+    "person": "三石琴乃",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1098465/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 木全翔也さんが選んだ1冊は？「気付いたら泣いていたこの絵本を、僕は勝手に“もりちい”と呼んでます」",
+    "person": "木全翔也",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1098419/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 橘ケンチさんが選んだ1冊は？「最後、鈴さんの抱えていた想いがほろっとほどける。泣いてしまいました」",
+    "person": "橘ケンチ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1083262/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 尾上菊之助さんが選んだ1冊は？「日常の中で見逃してしまう自然の息吹や、人の心の豊かさを思い出させてく",
+    "person": "尾上菊之助",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1070933/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 古川琴音さんが選んだ1冊は？「自分の中に溜まっているものを、ふわっと手放させてくれる」",
+    "person": "古川琴音",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1070925/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 渡邊圭祐さんが選んだ1冊は？「野宮朋美の言葉は、格言として僕の心に刻まれています」",
+    "person": "渡邊圭祐",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1057360/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 笠松将さんが選んだ1冊は？「“できないこと\"があるのが嫌。だからこの本で、毎日勉強してます」",
+    "person": "笠松将",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1057354/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 生田絵梨花さんが選んだ1冊は？「大竹さんのように『まあいいか』と全てを受け止められる強さに憧れます」",
+    "person": "生田絵梨花",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1057346/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 比嘉愛未さんが選んだ1冊は？「苦しくなるけど何度も読んでしまう、私にとって最高のバイブルです!」",
+    "person": "比嘉愛未",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1046690/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 見上愛さんが選んだ1冊は？「思春期の整理のつかない自意識に、主人公の不安定な自我が響きました」",
+    "person": "見上愛",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1046562/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 内田雄馬さんが選んだ1冊は？「自分らしくマイペースに戦うしかない。その姿に勇気をもらいました」",
+    "person": "内田雄馬",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1046479/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: MEGUMIさんが選んだ1冊は？「怖さがあり、羨ましさもある愛の形。こんな役を一度は演じてみたいです",
+    "person": "MEGUMI",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1037534/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 珠城りょうさんが選んだ1冊は？「自分の足で力強く人生を歩む主人公の姿が心に沁みました」",
+    "person": "珠城りょう",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1037552/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 大西礼芳さんが選んだ1冊は？「少年の心が動けば、川が流れて螢が飛びます」",
+    "person": "大西礼芳",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1037573/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 前田公輝さんが選んだ1冊は？「肩の力が抜けた自分に重なったのは超サイヤ人、最強の形態でした」",
+    "person": "前田公輝",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1026109/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 瀬戸麻沙美さんが選んだ1冊は？「恋愛の過程以上に、登場人物たちの孤独が胸に突き刺さりました」",
+    "person": "瀬戸麻沙美",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1026089/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 福地桃子さんが選んだ1冊は？「偶然手にした一冊が私の心を満たす──そんな運命的な出会いを楽しんでます",
+    "person": "福地桃子",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1026069/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 松本穂香さんが選んだ1冊は？「考えすぎる自分、生きづらい自分も全部許していけたらいい」",
+    "person": "松本穂香",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1015072/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 瀬戸康史さんが選んだ1冊は？「霊との距離感や各エピソードがリアルで思わず共感しながら読んでました」",
+    "person": "瀬戸康史",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1015052/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 南沙良さんが選んだ1冊は？「古本屋は私にとって出会いの場。この本も運命的に巡り合った一冊」",
+    "person": "南沙良",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1015015/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 飯島寛騎さんが選んだ1冊は？「見ているだけで感性が刺激される。そんな贅沢な時間を味わってます」",
+    "person": "飯島寛騎",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1004600/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 片岡健太（sumika）さんが選んだ1冊は？「クリエイティブをするうえで何度も読み返す、お守りのよう",
+    "person": "片岡健太（sumika）",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d995602/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 黒木渚さんが選んだ1冊は？「この読みづらさは彼の生きづらさ。“少し誇張された私”を主人公に感じた」",
+    "person": "黒木渚",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d995596/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 奈緒さんが選んだ1冊は？「ひとりが好きでいいのだと安堵した優しさのかたまりのような一冊」",
+    "person": "奈緒",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d980431/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 成田 凌さんが選んだ1冊は？「まだ何者でもない自分にとって生き方を軽くしてくれる一冊です」",
+    "person": "成田 凌",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d980427/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 小池徹平さんが選んだ1冊は？「バトルのなかにある深い人間ドラマ　虚構と現実をたゆたう距離感が絶妙」",
+    "person": "小池徹平",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d980392/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 阿部サダヲさんが選んだ1冊は？「旅行誌を手に、どこに行こうか考える。それも旅の醍醐味の一つですよね」",
+    "person": "阿部サダヲ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d964150/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 玉山鉄二さんが選んだ1冊は？「ニュースをいかに“選択”できるか。受け取る側の姿勢に気づかされた」",
+    "person": "玉山鉄二",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d964114/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 芦田太郎さんが選んだ1冊は？「“あざとさ”を知ることは、人に対する想像力を育む手段でもあるんです」",
+    "person": "芦田太郎",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d964087/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 福士蒼汰さんが選んだ1冊は？「大人になって気づいた物語の深み　東洋の思想も感じる色褪せない名作」",
+    "person": "福士蒼汰",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d943500/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 中条あやみさんが選んだ1冊は？「さまざまな感情が描かれて、言葉の豊かさや情緒に魅了されます」",
+    "person": "中条あやみ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d943460/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 七海ひろきさんが選んだ1冊は『チ。』――「何かを伝えようとする人間の情熱。その力に強い憧れを抱きまし",
+    "person": "七海ひろき",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d943405/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 岸井ゆきのさんが選んだ1冊は？「たったひとり大宇宙を行く、主人公のポジティブさ、驚きの展開に大興奮！",
+    "person": "岸井ゆきの",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d926312/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 古川雄大さんが選んだ1冊は？「天才脳外科医たちの戦い続ける姿に共感します」",
+    "person": "古川雄大",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d926302/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 高橋文哉さんが選んだ1冊は「本質を突いた言葉に、悩みを見透かされ、しかも心を軽くしてもらえる」",
+    "person": "高橋文哉",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d926290/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 福本莉子さんが選んだ1冊は、読むだけで心穏やかになる『日日是好日』",
+    "person": "福本莉子",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d893318/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 金子大地さんがおすすめする1冊は 「不器用で損をする……そんな人たちを肯定してくれる物語」",
+    "person": "金子大地",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d893350/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: “表現者として衝撃を受けた”――崎山つばささんがおすすめする「モノクロなのにどこか新しい」1冊とは？",
+    "person": "“表現者として衝撃を受けた”――崎山つばさ",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d893230/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 磯村勇斗さんがおすすめする「いろいろな想像力を膨らませてくれる、ロマンのある本」とは？",
+    "person": "磯村勇斗",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d806615/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 鈴村健一「河童さんのような天才に打ち勝つこと。それが僕の人生の目標です」【あの人と本の話】",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d810369/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 加藤諒「騙される快感の裏に、シリアスなメッセージがあるんです」【あの人と本の話】",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d810671/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 映画『犬部！』公開間近！ 林遣都さんが、ファンにおすすめされた1冊『そのままでいい』とは？【あの人と",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d789271/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 井頭愛海「初めての“ハッちゃけた”役で、演じることの楽しさを痛感しました」【あの人と本の話『アーモン",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d789131/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 濱田龍臣「キラキラした青春がてんこ盛り。こんな青春があったらよかった」【あの人と本の話『SPY×FA",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d787046/a/",
+    "result": "candidate",
+    "reason": "連載「あの人と本の話」の過去回。時間切れで未読: 読書は苦手⁉ 芳根京子が“不老不死”の女性を演じる映画『Arc アーク』「きっとこの映画を何度も見返",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://ddnavi.com/article/d1331002/a/",
+    "result": "candidate",
+    "reason": "太田光×宮島未奈の対談。未読（『成瀬は天下を取りにいく』を太田が選んだ・薦めた形か不明）",
+    "person": "太田光",
+    "checkedAt": "2026-11-19"
   }
 ]
