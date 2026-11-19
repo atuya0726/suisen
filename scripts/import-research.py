@@ -19,6 +19,8 @@
   3. 人物に連番の ID（p0001…）を振る。同じ名前の人がいれば、その人に足す。
   4. data/*.json と、調査済み URL の台帳（data/research/checked-urls.json）を更新する。
   5. 取り込んだ本の書名が、出典の書名と食い違っていないかを人ごとに突き合わせて報告する。
+     あわせて、版の疑い（漫画版・児童向け・大活字本、出版社の違い、出典より後に出た版）を editionWarnings に出す。
+     同じ作品の別の版に寄せただけのことも多いので、中身を見て、直すなら pick.json で ISBN を指定する。
 
 同じ場所に NAME.pick.json（{"書名": "ISBN13" または null}）を置くと、版を手で指定できる（null は取り込まない）。
 """
@@ -286,6 +288,7 @@ def main():
     # ---- 推薦を足す
     keys = {(r["personId"], r["isbn13"], r["sourceId"]) for r in recs}
     added, skipped, used_sources, used_people, used_titles = [], [], set(), set(), {}
+    matched = []
     for r in wanted:
         title = r["book"]["title"]
         pid, sid = idmap.get(r["personId"]), src_map.get(r["sourceId"])
@@ -314,6 +317,7 @@ def main():
             have[book["isbn13"]] = book
         key = (pid, book["isbn13"], sid)
         used_titles.setdefault(pid, []).append((title, have[book["isbn13"]]["title"]))
+        matched.append((pid, sid, r, have[book["isbn13"]]))
         if key in keys:
             continue
         keys.add(key)
@@ -349,12 +353,31 @@ def main():
             if not (a[:3] == b[:3] or a in b or b in a):
                 suspects.append({"person": next(p["name"] for p in people + new_people if p["id"] == pid), "source": asked, "matched": got})
 
+    # ---- 版の点検: 書名は合っていても、漫画版・児童向け・大活字本や、出典より後に出た版に当たっていないか
+    ODD = re.compile(r"まんが|マンガ|漫画|コミック|大活字|オーディオ|ＣＤ|CD|カセット|青い鳥文庫|つばさ文庫|みらい文庫|ジュニア|埼玉福祉会")
+    pubkey = lambda s: re.sub(r"株式会社|\s", "", NFKC(s or "")).lower().replace("角川書店", "kadokawa")[:2]
+    src_date = {s["id"]: s.get("publishedAt") for s in sources}
+    src_date.update({src_map[k]: v.get("publishedAt") for k, v in src_in.items() if k in src_map and v.get("publishedAt")})
+    edition_warnings = []
+    for pid, sid, r, got in matched:
+        q, why = r["book"], []
+        text = got["title"] + " " + (got.get("publisher") or "")
+        if ODD.search(NFKC(text)) and not ODD.search(NFKC(q["title"] + " " + (q.get("publisher") or "") + " " + (q.get("edition") or ""))):
+            why.append("漫画版・児童向け・大活字本などの疑い")
+        if q.get("publisher") and got.get("publisher") and pubkey(q["publisher"]) != pubkey(got["publisher"]):
+            why.append(f"出版社が違う（出典: {q['publisher']}）")
+        if src_date.get(sid) and got.get("publishedAt") and got["publishedAt"][:7] > src_date[sid][:7]:
+            why.append(f"出典（{src_date[sid]}）より後に出た版")
+        if why:
+            edition_warnings.append({"title": q["title"], "matched": f"{got['isbn13']} {got['title']}（{got.get('publisher', '')} {got.get('publishedAt', '')}）", "why": "、".join(why)})
+
     summary = {
         "added": len(added),
         "newPeople": len([p for p in new_people if p["id"] in used_people]),
         "skipped": skipped,
         "droppedNoAuthor": dropped,
         "suspects": suspects,
+        "editionWarnings": edition_warnings,
         "totals": {"people": len(people), "books": len(books), "sources": len(sources), "recommendations": len(recs)},
         "dryRun": dry,
     }
