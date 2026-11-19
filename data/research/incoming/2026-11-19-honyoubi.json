@@ -1,0 +1,2320 @@
+{
+ "people": [
+  {
+   "id": "001",
+   "name": "上白石萌音",
+   "title": "俳優・歌手",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "002",
+   "name": "深井龍之介",
+   "title": "株式会社COTEN 代表取締役",
+   "tags": [
+    "経営者"
+   ]
+  },
+  {
+   "id": "003",
+   "name": "宇賀なつみ",
+   "title": "フリーアナウンサー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "006",
+   "name": "ニシダ",
+   "title": "お笑い芸人（ラランド）",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "008",
+   "name": "佐久間宣行",
+   "title": "テレビプロデューサー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "007",
+   "name": "岸田奈美",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "011",
+   "name": "林士平",
+   "title": "漫画編集者",
+   "tags": []
+  },
+  {
+   "id": "005",
+   "name": "松井玲奈",
+   "title": "俳優・作家",
+   "tags": [
+    "芸能",
+    "作家"
+   ]
+  },
+  {
+   "id": "009",
+   "name": "カツセマサヒコ",
+   "title": "小説家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "010",
+   "name": "鈴木涼美",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "004",
+   "name": "成田悠輔",
+   "title": "経済学者",
+   "tags": [
+    "研究者"
+   ]
+  },
+  {
+   "id": "013",
+   "name": "呂布カルマ",
+   "title": "ラッパー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "014",
+   "name": "加藤シゲアキ",
+   "title": "作家・NEWSメンバー",
+   "tags": [
+    "作家",
+    "芸能"
+   ]
+  },
+  {
+   "id": "012",
+   "name": "羽田圭介",
+   "title": "作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "015",
+   "name": "鈴木おさむ",
+   "title": "放送作家",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "016",
+   "name": "本谷有希子",
+   "title": "作家・劇作家",
+   "tags": [
+    "作家"
+   ]
+  },
+  {
+   "id": "018",
+   "name": "尾崎世界観",
+   "title": "ミュージシャン・小説家",
+   "tags": [
+    "芸能",
+    "作家"
+   ]
+  },
+  {
+   "id": "017",
+   "name": "松岡茉優",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "019",
+   "name": "梶裕貴",
+   "title": "声優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "020",
+   "name": "きゃりーぱみゅぱみゅ",
+   "title": "アーティスト",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s001",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京上白石萌音書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/001/",
+   "publishedAt": "2022-10-06"
+  },
+  {
+   "id": "s002",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京COTEN 深井龍之介書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/002/",
+   "publishedAt": "2022-10-13"
+  },
+  {
+   "id": "s003",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京宇賀なつみ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/003/",
+   "publishedAt": "2022-10-20"
+  },
+  {
+   "id": "s006",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京ラランド ニシダ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/006/",
+   "publishedAt": "2022-10-27"
+  },
+  {
+   "id": "s008",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京佐久間宣行書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/008/",
+   "publishedAt": "2022-11-03"
+  },
+  {
+   "id": "s007",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京岸田奈美書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/007/",
+   "publishedAt": "2022-11-10"
+  },
+  {
+   "id": "s011",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京林士平書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/011/",
+   "publishedAt": "2022-11-17"
+  },
+  {
+   "id": "s005",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京松井玲奈書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/005/",
+   "publishedAt": "2022-11-24"
+  },
+  {
+   "id": "s009",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京カツセマサヒコ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/009/",
+   "publishedAt": "2022-12-01"
+  },
+  {
+   "id": "s010",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京鈴木涼美書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/010/",
+   "publishedAt": "2022-12-08"
+  },
+  {
+   "id": "s004",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京成田悠輔書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/004/",
+   "publishedAt": "2022-12-15"
+  },
+  {
+   "id": "s013",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京呂布カルマ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/013/",
+   "publishedAt": "2022-12-22"
+  },
+  {
+   "id": "s014",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京加藤シゲアキ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/014/",
+   "publishedAt": "2023-01-05"
+  },
+  {
+   "id": "s012",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京羽田圭介書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/012/",
+   "publishedAt": "2023-01-12"
+  },
+  {
+   "id": "s015",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京鈴木おさむ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/015/",
+   "publishedAt": "2023-01-19"
+  },
+  {
+   "id": "s016",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京本谷有希子書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/016/",
+   "publishedAt": "2023-01-26"
+  },
+  {
+   "id": "s018",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京尾崎世界観書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/018/",
+   "publishedAt": "2023-02-02"
+  },
+  {
+   "id": "s017",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京松岡茉優書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/017/",
+   "publishedAt": "2023-02-09"
+  },
+  {
+   "id": "s019",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京梶裕貴書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/019/",
+   "publishedAt": "2023-02-16"
+  },
+  {
+   "id": "s020",
+   "type": "article",
+   "media": "#木曜日は本曜日（東京都書店商業組合）",
+   "title": "東京きゃりーぱみゅぱみゅ書店｜#木曜日は本曜日",
+   "url": "https://honyoubi.com/020/",
+   "publishedAt": "2023-02-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "アイネクライネナハトムジーク",
+    "author": "伊坂幸太郎",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "悲しみよ こんにちは",
+    "author": "フランソワーズ・サガン",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "こんとあき",
+    "author": "林明子",
+    "publisher": "福音館書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "さがしもの",
+    "author": "角田光代",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "常設展示室",
+    "author": "原田マハ",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "もものかんづめ",
+    "author": "さくらももこ",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "うたうおばけ",
+    "author": "くどうれいん",
+    "publisher": "書肆侃侃房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "チャックより愛をこめて",
+    "author": "黒柳徹子",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "バカの壁",
+    "author": "養老孟司",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "001",
+   "sourceId": "s001",
+   "book": {
+    "title": "夜と霧",
+    "author": "ヴィクトール・E・フランクル",
+    "publisher": "みすず書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "ニコマコス倫理学 上",
+    "author": "アリストテレス",
+    "publisher": "岩波書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "老子",
+    "author": "老子",
+    "publisher": "岩波書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "社会契約論",
+    "author": "ジャン＝ジャック・ルソー",
+    "publisher": "岩波書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "進化論はいかに進化したか",
+    "author": "更科功",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "イスラーム文化 その根柢にあるもの",
+    "author": "井筒俊彦",
+    "publisher": "岩波書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "道徳形而上学原論",
+    "author": "イマヌエル・カント",
+    "publisher": "岩波書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "法の哲学 1",
+    "author": "ゲオルク・ヴィルヘルム・フリードリヒ・ヘーゲル",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "世界は善に満ちている トマス・アクィナス哲学講義",
+    "author": "山本芳久",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "伝習録",
+    "author": "王陽明",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "002",
+   "sourceId": "s002",
+   "book": {
+    "title": "唯識の思想",
+    "author": "横山紘一",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "あ・うん",
+    "author": "向田邦子",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "アルケミスト",
+    "author": "パウロ・コエーリョ",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "いつも旅のなか",
+    "author": "角田光代",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "姥ざかり",
+    "author": "田辺聖子",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "江戸川乱歩傑作選",
+    "author": "江戸川乱歩",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "心の中がグチャグチャで捨てられないあなたへ",
+    "author": "ブルックス・パーマー",
+    "publisher": "ディスカヴァー・トゥエンティワン"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "古都",
+    "author": "川端康成",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "天使なんかじゃない",
+    "author": "矢沢あい",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "なつみはなんにでもなれる",
+    "author": "ヨシタケシンスケ",
+    "publisher": "PHP研究所"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "003",
+   "sourceId": "s003",
+   "book": {
+    "title": "もの食う人びと",
+    "author": "辺見庸",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "アロハで猟師、はじめました",
+    "author": "近藤康太郎",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "孤島の飛来人",
+    "author": "山野辺太郎",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "ぼくらが漁師だったころ",
+    "author": "チゴズィエ・オビオマ",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "コンプレックス・プリズム",
+    "author": "最果タヒ",
+    "publisher": "大和書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "つけびの村 噂が５人を殺したのか？",
+    "author": "高橋ユキ",
+    "publisher": "晶文社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "人間の建設",
+    "author": "岡潔、小林秀雄",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "密やかな結晶",
+    "author": "小川洋子",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "火守",
+    "author": "劉慈欣",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "ポロポロ",
+    "author": "田中小実昌",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "006",
+   "sourceId": "s006",
+   "book": {
+    "title": "レトリック感覚",
+    "author": "佐藤信夫",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "アイの物語",
+    "author": "山本弘",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "あなたの人生の物語",
+    "author": "テッド・チャン",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "虐殺器官",
+    "author": "伊藤計劃",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "すいか",
+    "author": "木皿泉",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "調理場という戦場 「コート・ドール」斉須政雄の仕事論",
+    "author": "斉須政雄",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "ナナメの夕暮れ",
+    "author": "若林正恭",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "フィフティ・ピープル",
+    "author": "チョン・セラン",
+    "publisher": "亜紀書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "八日目の蝉",
+    "author": "角田光代",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "レベルE",
+    "author": "冨樫義博",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "008",
+   "sourceId": "s008",
+   "book": {
+    "title": "われはロボット",
+    "author": "アイザック・アシモフ",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "こちら葛飾区亀有公園前派出所 56",
+    "author": "秋本治",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "こんとあき",
+    "author": "林明子",
+    "publisher": "福音館書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "ズッコケ文化祭事件",
+    "author": "那須正幹",
+    "publisher": "ポプラ社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "世界は贈与でできている 資本主義の「すきま」を埋める倫理学",
+    "author": "近内悠太",
+    "publisher": "NewsPicksパブリッシング"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "なぜあなたは「愛してくれない人」を好きになるのか",
+    "author": "二村ヒトシ",
+    "publisher": "イースト・プレス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "波よ聞いてくれ",
+    "author": "沙村広明",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "向田邦子ベスト・エッセイ",
+    "author": "向田邦子",
+    "publisher": "筑摩書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "もものかんづめ",
+    "author": "さくらももこ",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "LOVE理論",
+    "author": "水野敬也",
+    "publisher": "文響社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "007",
+   "sourceId": "s007",
+   "book": {
+    "title": "笑える革命",
+    "author": "小国士朗",
+    "publisher": "光文社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "アラビアの夜の種族",
+    "author": "古川日出男",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "火星の人",
+    "author": "アンディ・ウィアー",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "クライマーズ・ハイ",
+    "author": "横山秀夫",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "獣の奏者",
+    "author": "上橋菜穂子",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "コンビニ人間",
+    "author": "村田沙耶香",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "ザリガニの鳴くところ",
+    "author": "ディーリア・オーエンズ",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "新世界より",
+    "author": "貴志祐介",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "夏の朝の成層圏",
+    "author": "池澤夏樹",
+    "publisher": "中央公論社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "二年間の休暇",
+    "author": "ジュール・ヴェルヌ",
+    "publisher": "福音館書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "011",
+   "sourceId": "s011",
+   "book": {
+    "title": "バトル・ロワイアル",
+    "author": "高見広春",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "よだかの片想い",
+    "author": "島本理生",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "わるい食べもの",
+    "author": "千早茜",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "ぼくが子どものころ、ほしかった親になる。",
+    "author": "幡野広志",
+    "publisher": "PHP研究所"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "菜食主義者",
+    "author": "ハン・ガン",
+    "publisher": "CUON"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "幸せについて",
+    "author": "谷川俊太郎",
+    "publisher": "ナナロク社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "盲目的な恋と友情",
+    "author": "辻村深月",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "星の王子さま",
+    "author": "サン=テグジュペリ",
+    "publisher": "岩波文庫"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "ハチミツとクローバー",
+    "author": "羽海野チカ",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "時をかけるゆとり",
+    "author": "朝井リョウ",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "005",
+   "sourceId": "s005",
+   "book": {
+    "title": "くちなし",
+    "author": "彩瀬まる",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "800",
+    "author": "川島誠",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "GO",
+    "author": "金城一紀",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "池袋ウエストゲートパーク",
+    "author": "石田衣良",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "キスまでの距離",
+    "author": "村山由佳",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "死にたくなったら電話して",
+    "author": "李龍徳",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "白いしるし",
+    "author": "西加奈子",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "ボクたちはみんな大人になれなかった",
+    "author": "燃え殻",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "ぼくらの七日間戦争",
+    "author": "宗田理",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "陽気なギャングが地球を回す",
+    "author": "伊坂幸太郎",
+    "publisher": "祥伝社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "009",
+   "sourceId": "s009",
+   "book": {
+    "title": "リリアン",
+    "author": "岸政彦",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "カストロの尻",
+    "author": "金井美恵子",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "邪宗門",
+    "author": "高橋和巳",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "新釈 遠野物語",
+    "author": "井上ひさし",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "賢者の愛",
+    "author": "山田詠美",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "構造と力",
+    "author": "浅田彰",
+    "publisher": "勁草書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "コクトー詩集",
+    "author": "ジャン・コクトー",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "社会学入門 人間と社会の未来",
+    "author": "見田宗介",
+    "publisher": "岩波書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "セロトニン",
+    "author": "ミシェル・ウエルベック",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "花咲く乙女たちのキンピラゴボウ",
+    "author": "橋本治",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "母性のディストピア",
+    "author": "宇野常寛",
+    "publisher": "ハヤカワ文庫JA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "010",
+   "sourceId": "s010",
+   "book": {
+    "title": "野生の探偵たち",
+    "author": "ロベルト・ボラーニョ",
+    "publisher": "白水社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "神聖喜劇",
+    "author": "大西巨人",
+    "publisher": "光文社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "グレープフルーツ・ジュース",
+    "author": "オノ・ヨーコ",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "ルネッサンス 経験の条件",
+    "author": "岡崎乾二郎",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "池袋・母子餓死日記 覚え書き",
+    "author": "公人の友社",
+    "publisher": "公人の友社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "桶川ストーカー殺人事件",
+    "author": "清水潔",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "血が、汗が、涙がデザインできるか",
+    "author": "石岡瑛子",
+    "publisher": "小学館"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "クリストファー男娼窟",
+    "author": "草間彌生",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "004",
+   "sourceId": "s004",
+   "book": {
+    "title": "HERE ヒア",
+    "author": "リチャード・マグワイア",
+    "publisher": "国書刊行会"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "精霊の守り人",
+    "author": "上橋菜穂子",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "新ジャングルの王者ターちゃん",
+    "author": "徳弘正也",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "死にたい夜にかぎって",
+    "author": "爪切男",
+    "publisher": "扶桑社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "寺田克也SKETCH",
+    "author": "寺田克也",
+    "publisher": "パイ インターナショナル"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "蒲田行進曲",
+    "author": "つかこうへい",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "ルックバック",
+    "author": "藤本タツキ",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "劇光仮面",
+    "author": "山口貴由",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "013",
+   "sourceId": "s013",
+   "book": {
+    "title": "鈴木ふみ奈写真集 Leap",
+    "author": "鈴木ふみ奈",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "愛するということ",
+    "author": "エーリッヒ・フロム",
+    "publisher": "紀伊國屋書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "一一一一一",
+    "author": "福永信",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "Carver's dozen―レイモンド・カーヴァー傑作選",
+    "author": "レイモンド・カーヴァー",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "キャッチャー・イン・ザ・ライ",
+    "author": "J.D.サリンジャー",
+    "publisher": "白水社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "新訳 弓と禅",
+    "author": "オイゲン・ヘリゲル",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "罪と罰",
+    "author": "ドストエフスキー",
+    "publisher": "光文社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "寝ながら学べる構造主義",
+    "author": "内田樹",
+    "publisher": "文藝春秋"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "文体練習",
+    "author": "レーモン・クノー",
+    "publisher": "朝日出版社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "ヘヴン",
+    "author": "川上未映子",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "014",
+   "sourceId": "s014",
+   "book": {
+    "title": "蛇にピアス",
+    "author": "金原ひとみ",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "群青の夜の羽毛布",
+    "author": "山本文緒",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "ブエノスアイレス午前零時",
+    "author": "藤沢周",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "罪と罰",
+    "author": "ドストエフスキー",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "掃除婦のための手引き書",
+    "author": "ルシア・ベルリン",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "雨の島",
+    "author": "呉明益",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "シンセミア",
+    "author": "阿部和重",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "リヴィエラを撃て",
+    "author": "髙村薫",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "砲艦銀鼠号",
+    "author": "椎名誠",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "超男性",
+    "author": "アルフレッド・ジャリ",
+    "publisher": "白水社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "012",
+   "sourceId": "s012",
+   "book": {
+    "title": "人生は驚きに充ちている",
+    "author": "中原昌也",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "浅草キッド",
+    "author": "ビートたけし",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "遺書",
+    "author": "松本人志",
+    "publisher": "朝日新聞出版"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "映画を撮りながら考えたこと",
+    "author": "是枝裕和",
+    "publisher": "ミシマ社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "かくかくしかじか",
+    "author": "東村アキコ",
+    "publisher": "集英社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "GEQ 大地震",
+    "author": "柴田哲孝",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "毎月新聞",
+    "author": "佐藤雅彦",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "闇の子供たち",
+    "author": "梁石日",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "羅生門・鼻",
+    "author": "芥川龍之介",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "ラブレター",
+    "author": "幡野広志",
+    "publisher": "ネコノス"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "015",
+   "sourceId": "s015",
+   "book": {
+    "title": "ONE PIECE 104",
+    "author": "尾田栄一郎",
+    "publisher": "集英社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "愛",
+    "author": "ウラジーミル・ソローキン",
+    "publisher": "国書刊行会"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "輝く断片",
+    "author": "シオドア・スタージョン",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "コンスエラ―七つの愛の狂気",
+    "author": "ダン・ローズ",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "結婚",
+    "author": "末井昭",
+    "publisher": "平凡社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "最初の恋、最後の儀式",
+    "author": "イアン・マキューアン",
+    "publisher": "早川書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "真贋",
+    "author": "吉本隆明",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "楢山節考",
+    "author": "深沢七郎",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "にんじん",
+    "author": "ジュール・ルナール",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "母の発達",
+    "author": "笙野頼子",
+    "publisher": "河出書房新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "016",
+   "sourceId": "s016",
+   "book": {
+    "title": "フラナリー・オコナー全短篇 上",
+    "author": "フラナリー・オコナー",
+    "publisher": "筑摩書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "誰にも相談できません",
+    "author": "高橋源一郎",
+    "publisher": "毎日新聞出版"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "死にカタログ",
+    "author": "寄藤文平",
+    "publisher": "大和書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "閑な老人",
+    "author": "尾崎一雄",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "歌集 海蛇と珊瑚",
+    "author": "藪内亮輔",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "言わなければよかったのに日記",
+    "author": "深沢七郎",
+    "publisher": "中央公論新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "20歳の自分に受けさせたい文章講義",
+    "author": "古賀史健",
+    "publisher": "星海社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "ライン",
+    "author": "村上龍",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "疾走",
+    "author": "重松清",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "一私小説書きの日乗",
+    "author": "西村賢太",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "018",
+   "sourceId": "s018",
+   "book": {
+    "title": "夏の流れ",
+    "author": "丸山健二",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "とにかくさけんでにげるんだ",
+    "author": "ベティー・ボガホールド",
+    "publisher": "岩崎書店"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "ドミノ",
+    "author": "恩田陸",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "きみの隣りで",
+    "author": "益田ミリ",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "おしゃべりなたまごやき",
+    "author": "寺村輝夫",
+    "publisher": "理論社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "あたしンち ＳＵＰＥＲ",
+    "author": "けらえいこ",
+    "publisher": "朝日新聞出版",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "こっちむいて！みい子 29",
+    "author": "おのえりこ",
+    "publisher": "小学館"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "夜廻り猫",
+    "author": "深谷かほる",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "放課後の音符",
+    "author": "山田詠美",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "自分の感受性くらい",
+    "author": "茨木のり子",
+    "publisher": "花神社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "017",
+   "sourceId": "s017",
+   "book": {
+    "title": "料理と利他",
+    "author": "土井善晴/中島岳志",
+    "publisher": "ミシマ社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "目の見えない人は世界をどう見ているのか",
+    "author": "伊藤亜紗",
+    "publisher": "光文社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "嫌われる勇気",
+    "author": "岸見 一郎/古賀 史健",
+    "publisher": "ダイヤモンド社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "アレクサンダとぜんまいねずみ",
+    "author": "レオ・レオニ",
+    "publisher": "好学社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "贋作 桜の森の満開の下／足跡姫 時代錯誤冬幽霊",
+    "author": "野田秀樹",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "進撃の巨人",
+    "author": "諫山創",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "海辺のカフカ",
+    "author": "村上春樹",
+    "publisher": "新潮社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "あなたのための短歌集",
+    "author": "木下龍也",
+    "publisher": "ナナロク社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "男子",
+    "author": "梅佳代",
+    "publisher": "リトルモア"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "銀河鉄道の夜",
+    "author": "宮沢賢治",
+    "publisher": "リトルモア"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "019",
+   "sourceId": "s019",
+   "book": {
+    "title": "夜は短し歩けよ乙女",
+    "author": "森見登美彦",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "血の轍",
+    "author": "押見修造",
+    "publisher": "小学館",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "ダルちゃん",
+    "author": "はるな檸檬",
+    "publisher": "小学館"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "座敷女",
+    "author": "望月峯太郎",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "ギャルと恐竜",
+    "author": "森もり子",
+    "publisher": "講談社",
+    "edition": "シリーズ"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "野心のすすめ",
+    "author": "林真理子",
+    "publisher": "講談社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "変な家",
+    "author": "雨穴",
+    "publisher": "飛鳥新社"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "天狗にさらわれた少年",
+    "author": "平田篤胤",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "消えない月",
+    "author": "畑野智美",
+    "publisher": "KADOKAWA"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "ココ・シャネルの言葉",
+    "author": "山口路子",
+    "publisher": "大和書房"
+   },
+   "context": "人生を変えた一冊"
+  },
+  {
+   "personId": "020",
+   "sourceId": "s020",
+   "book": {
+    "title": "阿佐ヶ谷姉妹の のほほんふたり暮らし",
+    "author": "阿佐ヶ谷姉妹",
+    "publisher": "幻冬舎"
+   },
+   "context": "人生を変えた一冊"
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honyoubi.com/",
+   "result": "index",
+   "reason": "#木曜日は本曜日 公式。2022年度の20人で完結",
+   "person": ""
+  }
+ ]
+}

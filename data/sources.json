@@ -14822,5 +14822,165 @@
     "title": "俳優・橋本淳が選ぶ「気づけば手の中に収まっていた」おすすめの本",
     "url": "https://honcierge.jp/articles/shelf_story/537",
     "publishedAt": "2016-11-04"
+  },
+  {
+    "id": "s005",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京松井玲奈書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/005/",
+    "publishedAt": "2022-11-24"
+  },
+  {
+    "id": "s020",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京きゃりーぱみゅぱみゅ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/020/",
+    "publishedAt": "2023-02-23"
+  },
+  {
+    "id": "s015",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京鈴木おさむ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/015/",
+    "publishedAt": "2023-01-19"
+  },
+  {
+    "id": "s012",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京羽田圭介書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/012/",
+    "publishedAt": "2023-01-12"
+  },
+  {
+    "id": "s010",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京鈴木涼美書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/010/",
+    "publishedAt": "2022-12-08"
+  },
+  {
+    "id": "s009",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京カツセマサヒコ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/009/",
+    "publishedAt": "2022-12-01"
+  },
+  {
+    "id": "s014",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京加藤シゲアキ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/014/",
+    "publishedAt": "2023-01-05"
+  },
+  {
+    "id": "s004",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京成田悠輔書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/004/",
+    "publishedAt": "2022-12-15"
+  },
+  {
+    "id": "s002",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京COTEN 深井龍之介書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/002/",
+    "publishedAt": "2022-10-13"
+  },
+  {
+    "id": "s001",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京上白石萌音書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/001/",
+    "publishedAt": "2022-10-06"
+  },
+  {
+    "id": "s011",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京林士平書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/011/",
+    "publishedAt": "2022-11-17"
+  },
+  {
+    "id": "s006",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京ラランド ニシダ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/006/",
+    "publishedAt": "2022-10-27"
+  },
+  {
+    "id": "s016",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京本谷有希子書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/016/",
+    "publishedAt": "2023-01-26"
+  },
+  {
+    "id": "s008",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京佐久間宣行書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/008/",
+    "publishedAt": "2022-11-03"
+  },
+  {
+    "id": "s013",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京呂布カルマ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/013/",
+    "publishedAt": "2022-12-22"
+  },
+  {
+    "id": "s018",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京尾崎世界観書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/018/",
+    "publishedAt": "2023-02-02"
+  },
+  {
+    "id": "s017",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京松岡茉優書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/017/",
+    "publishedAt": "2023-02-09"
+  },
+  {
+    "id": "s019",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京梶裕貴書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/019/",
+    "publishedAt": "2023-02-16"
+  },
+  {
+    "id": "s003",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京宇賀なつみ書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/003/",
+    "publishedAt": "2022-10-20"
+  },
+  {
+    "id": "s007",
+    "type": "article",
+    "media": "#木曜日は本曜日（東京都書店商業組合）",
+    "title": "東京岸田奈美書店｜#木曜日は本曜日",
+    "url": "https://honyoubi.com/007/",
+    "publishedAt": "2022-11-10"
   }
 ]

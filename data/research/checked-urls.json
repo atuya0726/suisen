@@ -17898,5 +17898,131 @@
     "reason": "制作・キャリアの話。本人が好き・薦めると語った本はない（挙がるのは音楽家・自作のみ）",
     "person": "菅野祐悟",
     "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/005/",
+    "result": "adopted",
+    "reason": "sources.json の s005",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/020/",
+    "result": "adopted",
+    "reason": "sources.json の s020",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/015/",
+    "result": "adopted",
+    "reason": "sources.json の s015",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/012/",
+    "result": "adopted",
+    "reason": "sources.json の s012",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/010/",
+    "result": "adopted",
+    "reason": "sources.json の s010",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/009/",
+    "result": "adopted",
+    "reason": "sources.json の s009",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/014/",
+    "result": "adopted",
+    "reason": "sources.json の s014",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/004/",
+    "result": "adopted",
+    "reason": "sources.json の s004",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/002/",
+    "result": "adopted",
+    "reason": "sources.json の s002",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/001/",
+    "result": "adopted",
+    "reason": "sources.json の s001",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/011/",
+    "result": "adopted",
+    "reason": "sources.json の s011",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/006/",
+    "result": "adopted",
+    "reason": "sources.json の s006",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/016/",
+    "result": "adopted",
+    "reason": "sources.json の s016",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/008/",
+    "result": "adopted",
+    "reason": "sources.json の s008",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/013/",
+    "result": "adopted",
+    "reason": "sources.json の s013",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/018/",
+    "result": "adopted",
+    "reason": "sources.json の s018",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/017/",
+    "result": "adopted",
+    "reason": "sources.json の s017",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/019/",
+    "result": "adopted",
+    "reason": "sources.json の s019",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/003/",
+    "result": "adopted",
+    "reason": "sources.json の s003",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/007/",
+    "result": "adopted",
+    "reason": "sources.json の s007",
+    "checkedAt": "2026-11-19"
+  },
+  {
+    "url": "https://honyoubi.com/",
+    "result": "index",
+    "reason": "#木曜日は本曜日 公式。2022年度の20人で完結",
+    "checkedAt": "2026-11-19"
   }
 ]
