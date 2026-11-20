@@ -1,0 +1,235 @@
+{
+  "people": [
+    {
+      "id": "ota",
+      "name": "太田光",
+      "title": "お笑いタレント（爆笑問題）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "miyajima",
+      "name": "宮島未奈",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "kimura",
+      "name": "木村拓哉",
+      "title": "俳優・タレント",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ddnavi-ota-miyajima",
+      "type": "interview",
+      "media": "ダ・ヴィンチWeb",
+      "title": "爆笑問題・太田「すぐに炎上して、その度に落ち込む」。本屋大賞受賞『成瀬は天下を取りにいく』著者に明かした「言いたいことを言う」と決めた理由【太田光×宮島未奈対談】",
+      "url": "https://ddnavi.com/article/d1331002/a/",
+      "publishedAt": "2024-06-12"
+    },
+    {
+      "id": "thetv-kimura-manga",
+      "type": "article",
+      "media": "WEBザテレビジョン",
+      "title": "木村拓哉、おススメ漫画のベスト5を熱く語る！",
+      "url": "https://thetv.jp/news/detail/232100/",
+      "publishedAt": "2020-05-03"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "ota",
+      "sourceId": "ddnavi-ota-miyajima",
+      "book": {
+        "title": "桃尻娘",
+        "author": "橋本治",
+        "edition": "シリーズ",
+        "isbn": "9784591117552"
+      }
+    },
+    {
+      "personId": "ota",
+      "sourceId": "ddnavi-ota-miyajima",
+      "book": {
+        "title": "疫病神",
+        "author": "黒川博行",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "miyajima",
+      "sourceId": "ddnavi-ota-miyajima",
+      "book": {
+        "title": "爆笑問題の日本原論",
+        "author": "爆笑問題"
+      }
+    },
+    {
+      "personId": "miyajima",
+      "sourceId": "ddnavi-ota-miyajima",
+      "book": {
+        "title": "カラス",
+        "author": "太田光"
+      }
+    },
+    {
+      "personId": "miyajima",
+      "sourceId": "ddnavi-ota-miyajima",
+      "book": {
+        "title": "こちら葛飾区亀有公園前派出所",
+        "author": "秋本治",
+        "edition": "シリーズ",
+        "isbn": "9784088528113"
+      }
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "thetv-kimura-manga",
+      "book": {
+        "title": "六三四の剣",
+        "author": "村上もとか",
+        "edition": "シリーズ",
+        "isbn": "9784091933317",
+        "publisher": "小学館"
+      },
+      "note": "ネット番組「木村さ～～ん！」#92（2020-05-03）"
+    },
+    {
+      "personId": "kimura",
+      "sourceId": "thetv-kimura-manga",
+      "book": {
+        "title": "鬼滅の刃",
+        "author": "吾峠呼世晴",
+        "edition": "シリーズ",
+        "isbn": "9784088807232"
+      },
+      "note": "ネット番組「木村さ～～ん！」#92（2020-05-03）"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://realsound.jp/book/2021/09/post-858448_2.html",
+      "result": "rejected",
+      "reason": "2ページ目に本人が挙げる書名なし（和菓子の事典等の一般的言及のみ）",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://www.jprime.jp/articles/-/38341",
+      "result": "rejected",
+      "reason": "あさイチ放送の読書特集の報道だが、本文に具体的な書名なし",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://bunshun.jp/articles/photo/76497",
+      "result": "rejected",
+      "reason": "写真ページのみで本の言及なし",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://ddnavi.com/article/1455182/a/",
+      "result": "rejected",
+      "reason": "編集部の7選記事。佐々木希は『告白』を「気になる1冊」と挙げるのみで、薦めた・好きと断定できない",
+      "person": "佐々木希"
+    },
+    {
+      "url": "https://www.oricon.co.jp/news/2465191/",
+      "result": "rejected",
+      "reason": "キャプテン翼のパートナーシップ発表会の記事で宣伝対象の本",
+      "person": "中田英寿"
+    },
+    {
+      "url": "https://shonenjump.com/p/sp/1706/samura_fujimoto",
+      "result": "unreachable",
+      "reason": "404（www付き・末尾スラッシュ付きも404）",
+      "person": "藤本タツキ"
+    },
+    {
+      "url": "https://www.ghibli.jp/info/007358",
+      "result": "unreachable",
+      "reason": "404",
+      "person": "宮崎駿"
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/64784",
+      "result": "unreachable",
+      "reason": "404（URL違いの可能性）",
+      "person": "藤井聡太"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/05/post-2025050.html",
+      "result": "rejected",
+      "reason": "NHK『心おどる あの人の本棚』第5回の言及はあるが放送日が特定できず、記事は石坂洋次郎の論評が中心",
+      "person": "鈴木敏夫"
+    },
+    {
+      "url": "https://dime.jp/genre/1036028/",
+      "result": "rejected",
+      "reason": "PR記事（2020-12-11, 広告表示）で出典にしない",
+      "person": "堀江貴文"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/77315/",
+      "result": "rejected",
+      "reason": "B+LIBRARYの宣伝インタビュー。挙がる本は出演作が中心で、薦めと断定できない",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://press.moviewalker.jp/news/article/58499/",
+      "result": "rejected",
+      "reason": "2015年の映画の質問インタビューで本の言及なし",
+      "person": "杉咲花"
+    },
+    {
+      "url": "https://book.asahi.com/series/11039124",
+      "result": "index",
+      "reason": "最新は2026-11-11沼田真佑（取り込み済みの範囲）"
+    },
+    {
+      "url": "https://book.asahi.com/series/11015845",
+      "result": "index",
+      "reason": "最新は2026-10-30の回"
+    },
+    {
+      "url": "https://www.webdoku.jp/rensai/sakka/list.html",
+      "result": "index",
+      "reason": "最新は第292回（2026-10-23）"
+    },
+    {
+      "url": "https://news.mynavi.jp/techplus/series/executive_bookshelf/",
+      "result": "index",
+      "reason": "最新は第15回（2026-03-25）"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/070300541/",
+      "result": "index",
+      "reason": "最新は2026-11-18"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/091300565/",
+      "result": "index",
+      "reason": "最新は2025-12-12（第5回まで）"
+    },
+    {
+      "url": "https://bookplus.nikkei.com/atcl/column/111500600/",
+      "result": "index",
+      "reason": "最新は2026-03-12"
+    },
+    {
+      "url": "https://ddnavi.com/aidokusho/",
+      "result": "index",
+      "reason": "最新は2026-08-28"
+    },
+    {
+      "url": "https://ddnavi.com/genre/%e3%81%82%e3%81%ae%e4%ba%ba%e3%81%a8%e6%9c%ac%e3%81%ae%e8%a9%b1-and-more/",
+      "result": "index",
+      "reason": "最新は2026-11-05萩原利久"
+    }
+  ]
+}

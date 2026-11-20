@@ -1,0 +1,1594 @@
+{
+ "people": [
+  {
+   "id": "hanae",
+   "name": "ハナエ",
+   "title": "シンガー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "hakka",
+   "name": "ハッカドロップス",
+   "title": "ミュージシャン",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "imagawa",
+   "name": "今川宇宙",
+   "title": "アーティスト",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yuki",
+   "name": "結城洋平",
+   "title": "役者",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yamanaka",
+   "name": "山中志歩",
+   "title": "女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "koduka",
+   "name": "小塚舞子",
+   "title": "タレント、女優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yamamoto",
+   "name": "山本裕子",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "nishikawa",
+   "name": "西川あやの",
+   "title": "文化放送アナウンサー",
+   "tags": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "hc1100",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "食事を読み、本を食べる",
+   "url": "https://honcierge.jp/articles/shelf_story/1100",
+   "publishedAt": "2021-11-30"
+  },
+  {
+   "id": "hc228",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "事実と嘘と、ファンタジーと真実との関係",
+   "url": "https://honcierge.jp/articles/shelf_story/228",
+   "publishedAt": "2021-11-30"
+  },
+  {
+   "id": "hc287",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "本当はずっと信じてたい、ドラゴンにまつわる本",
+   "url": "https://honcierge.jp/articles/shelf_story/287",
+   "publishedAt": "2021-12-13"
+  },
+  {
+   "id": "hc392",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「嘘」と「正直」について",
+   "url": "https://honcierge.jp/articles/shelf_story/392",
+   "publishedAt": "2021-12-13"
+  },
+  {
+   "id": "hc4904",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "具体性の強い独特な世界へと連れ去ってくれた村田沙耶香さんの本【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/4904",
+   "publishedAt": "2021-11-11"
+  },
+  {
+   "id": "hc4590",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "“大人”が表題になっている本【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/4590",
+   "publishedAt": "2021-11-10"
+  },
+  {
+   "id": "hc4050",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "演劇のニオイがする表題の本3冊【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/4050",
+   "publishedAt": "2021-11-09"
+  },
+  {
+   "id": "hc9951",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "不忠臣蔵【山中志歩】",
+   "url": "https://honcierge.jp/articles/shelf_story/9951",
+   "publishedAt": "2023-11-09"
+  },
+  {
+   "id": "hc9416",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "『岡崎に捧ぐ』 よっしゃ！頑張るぞ！じゃなくてもいい【山中志歩】",
+   "url": "https://honcierge.jp/articles/shelf_story/9416",
+   "publishedAt": "2021-11-30"
+  },
+  {
+   "id": "hc8356",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「墓場、女子高生」に出演する山中志歩が選ぶ「良い案が浮かびそうな」一冊",
+   "url": "https://honcierge.jp/articles/shelf_story/8356",
+   "publishedAt": "2021-12-11"
+  },
+  {
+   "id": "hc8177",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山中志歩が元気づけられた小説『ひと呼んでミツコ』",
+   "url": "https://honcierge.jp/articles/shelf_story/8177",
+   "publishedAt": "2021-12-06"
+  },
+  {
+   "id": "hc8117",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山中志歩が選んだ「寂しい」の理由が分かる漫画",
+   "url": "https://honcierge.jp/articles/shelf_story/8117",
+   "publishedAt": "2021-11-30"
+  },
+  {
+   "id": "hc8065",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山中志歩がおすすめする「面白い演劇」がよくわかる青春小説",
+   "url": "https://honcierge.jp/articles/shelf_story/8065",
+   "publishedAt": "2021-11-30"
+  },
+  {
+   "id": "hc8023",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "60年代の原風景が広がる『長嶋少年』、山中志歩のおすすめポイント",
+   "url": "https://honcierge.jp/articles/shelf_story/8023",
+   "publishedAt": "2021-12-06"
+  },
+  {
+   "id": "hc10079",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "好奇心、プライスレス【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/10079",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc10009",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "mottainai【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/10009",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc9926",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "どうすればよかったのと考えないために【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/9926",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc9736",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ダサいことのダサさ【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/9736",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc9423",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ややこしいの魔法【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/9423",
+   "publishedAt": "2021-12-03"
+  },
+  {
+   "id": "hc9293",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "生活を眺めてみる【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/9293",
+   "publishedAt": "2021-12-03"
+  },
+  {
+   "id": "hc9020",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "あなたの今は、どんな今ですか？【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/9020",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc8959",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "おふくろののびしろ【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8959",
+   "publishedAt": "2021-12-03"
+  },
+  {
+   "id": "hc8871",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "集中せよ【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8871",
+   "publishedAt": "2021-12-06"
+  },
+  {
+   "id": "hc8692",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "娘と私の時間【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8692",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc8580",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "竜宮東京城【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8580",
+   "publishedAt": "2021-12-07"
+  },
+  {
+   "id": "hc8454",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "置いていく人と、置いていかれる人【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8454",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc8290",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "育児、いちねんせい【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8290",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc7967",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "サマー★コンプレックス【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7967",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc7763",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "恥ずかしくて人の名前を呼べない【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7763",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc7605",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "出産のリアル（後編）【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7605",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc7425",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "子どもが産まれました。【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7425",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc8775",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "茶を濁すと損をする【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8775",
+   "publishedAt": "2021-12-02"
+  },
+  {
+   "id": "hc1983",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "その一皿には作った人の人生が盛り付けられている【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/1983",
+   "publishedAt": "2021-11-29"
+  },
+  {
+   "id": "hc3968",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "走る村上、ぼやく角田【ランニングにおすすめの本4冊】",
+   "url": "https://honcierge.jp/articles/shelf_story/3968",
+   "publishedAt": "2021-12-02"
+  },
+  {
+   "id": "hc6277",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "昼間っから本読みながら酒飲んで、一日棒に振りたい【山本裕子（やまゆう）】",
+   "url": "https://honcierge.jp/articles/shelf_story/6277",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc5731",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "サバイバるおとこはいいおとこ、に見える。【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5731",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc5608",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "通りすがりのニンプさんに、むやみやたらと手渡したい。【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5608",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc5027",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "山登りを楽しみたい。でもこたつからは出たくない【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5027",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc3562",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "便乗商法！和田竜『忍びの国』をおススメしたい",
+   "url": "https://honcierge.jp/articles/shelf_story/3562",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc3208",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "書をよこせ草刈り鎌をぶん投げるぞ【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/3208",
+   "publishedAt": "2021-12-02"
+  },
+  {
+   "id": "hc8432",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ねこ×ラグビーで『ラガーにゃん』て、ずっこくない!?【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8432",
+   "publishedAt": "2021-12-03"
+  },
+  {
+   "id": "hc7628",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ここにきて俄然、柳美里に興味が湧いてきました（敬称略）【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7628",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc8608",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "松久淳『走る奴なんて馬鹿だと思ってた』に共感しすぎる件【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8608",
+   "publishedAt": "2021-11-28"
+  },
+  {
+   "id": "hc4302",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ぼくのかんがえたさいきょうの『ガラスの仮面』演目ランキング【前編】",
+   "url": "https://honcierge.jp/articles/shelf_story/4302",
+   "publishedAt": "2021-12-06"
+  },
+  {
+   "id": "hc11514",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#2】文化放送アナウンサー西川あやのの読書コラム／1番好きな作品なに～？から始まる羞恥心",
+   "url": "https://honcierge.jp/articles/shelf_story/11514",
+   "publishedAt": "2022-08-10"
+  },
+  {
+   "id": "hc11531",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#3】文化放送アナウンサー西川あやのの読書コラム／そうです。私が“ご飯食べ子”です。",
+   "url": "https://honcierge.jp/articles/shelf_story/11531",
+   "publishedAt": "2022-09-10"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "hanae",
+   "sourceId": "hc1100",
+   "book": {
+    "title": "貧乏サヴァラン",
+    "author": "森 茉莉",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "hanae",
+   "sourceId": "hc1100",
+   "book": {
+    "title": "泳ぐのに、安全でも適切でもありません",
+    "author": "江國 香織",
+    "edition": "集英社"
+   },
+   "note": "収録短編「うんとお腹をすかせてきてね」を紹介"
+  },
+  {
+   "personId": "hakka",
+   "sourceId": "hc228",
+   "book": {
+    "title": "絵のない絵本",
+    "author": "アンデルセン",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "hakka",
+   "sourceId": "hc228",
+   "book": {
+    "title": "少女地獄",
+    "author": "夢野 久作",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "hakka",
+   "sourceId": "hc228",
+   "book": {
+    "title": "イビサ",
+    "author": "村上 龍",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "hakka",
+   "sourceId": "hc228",
+   "book": {
+    "title": "夕闇の川のざくろ",
+    "author": "江國 香織",
+    "edition": "ポプラ文庫"
+   }
+  },
+  {
+   "personId": "hakka",
+   "sourceId": "hc228",
+   "book": {
+    "title": "かもめのジョナサン",
+    "author": "リチャード バック",
+    "edition": "新潮文庫 完成版"
+   }
+  },
+  {
+   "personId": "imagawa",
+   "sourceId": "hc287",
+   "book": {
+    "title": "ドラゴン・キーパー",
+    "author": "キャロル・ウイルキンソン",
+    "subtitle": "最後の宮廷龍"
+   }
+  },
+  {
+   "personId": "imagawa",
+   "sourceId": "hc287",
+   "book": {
+    "title": "聖ドラゴンガール",
+    "author": "松本 夏実",
+    "edition": "りぼんマスコットコミックス シリーズ全8巻"
+   }
+  },
+  {
+   "personId": "imagawa",
+   "sourceId": "hc287",
+   "book": {
+    "title": "ドラゴン学",
+    "author": "",
+    "edition": "ドラゴンの秘密完全収録版"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc392",
+   "book": {
+    "title": "正直",
+    "author": "松浦 弥太郎"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc392",
+   "book": {
+    "title": "イソップ物語",
+    "author": "イソップ"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc392",
+   "book": {
+    "title": "義務について",
+    "author": "キケロー",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4904",
+   "book": {
+    "title": "コンビニ人間",
+    "author": "村田 沙耶香"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4904",
+   "book": {
+    "title": "消滅世界",
+    "author": "村田 沙耶香"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4590",
+   "book": {
+    "title": "ボクたちはみんな大人になれなかった",
+    "author": "燃え殻"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4590",
+   "book": {
+    "title": "大人計画社長日記",
+    "author": "長坂 まき子",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4050",
+   "book": {
+    "title": "舞台",
+    "author": "西 加奈子",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4050",
+   "book": {
+    "title": "劇場",
+    "author": "又吉 直樹"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "hc4050",
+   "book": {
+    "title": "マチネの終わりに",
+    "author": "平野 啓一郎"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc9951",
+   "book": {
+    "title": "不忠臣蔵",
+    "author": "井上 ひさし",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc9416",
+   "book": {
+    "title": "岡崎に捧ぐ",
+    "author": "山本 さほ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc8356",
+   "book": {
+    "title": "まさかジープで来るとは",
+    "author": "せきしろ、又吉 直樹",
+    "edition": "幻冬舎文庫"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc8177",
+   "book": {
+    "title": "ひと呼んでミツコ",
+    "author": "姫野 カオルコ",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc8117",
+   "book": {
+    "title": "棒がいっぽん",
+    "author": "高野 文子",
+    "edition": "「美しき町」収録"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc8065",
+   "book": {
+    "title": "濡れた太陽 高校演劇の話 上",
+    "author": "前田 司郎"
+   }
+  },
+  {
+   "personId": "yamanaka",
+   "sourceId": "hc8023",
+   "book": {
+    "title": "長嶋少年",
+    "author": "ねじめ 正一",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc10079",
+   "book": {
+    "title": "ピンポンさん",
+    "author": "城島 充",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc10009",
+   "book": {
+    "title": "ボッコちゃん",
+    "author": "星 新一",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9926",
+   "book": {
+    "title": "春の庭",
+    "author": "柴崎 友香",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9926",
+   "book": {
+    "title": "デッドエンドの思い出",
+    "author": "よしもと ばなな",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9736",
+   "book": {
+    "title": "あなたは何で食べてますか?",
+    "author": "有北 雅彦",
+    "edition": "偶然を仕事にする方法"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9423",
+   "book": {
+    "title": "世にも奇妙な君物語",
+    "author": "朝井 リョウ",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9293",
+   "book": {
+    "title": "モダンタイムス 上",
+    "author": "伊坂 幸太郎",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9293",
+   "book": {
+    "title": "騎士団長殺し 第1部 上",
+    "author": "村上 春樹",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc9020",
+   "book": {
+    "title": "僕のなかの壊れていない部分",
+    "author": "白石 一文",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8959",
+   "book": {
+    "title": "BUTTER",
+    "author": "柚木 麻子",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8871",
+   "book": {
+    "title": "夜行",
+    "author": "森見 登美彦",
+    "edition": "小学館文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8692",
+   "book": {
+    "title": "月の満ち欠け",
+    "author": "佐藤 正午",
+    "edition": "岩波文庫的"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8580",
+   "book": {
+    "title": "LOVE",
+    "author": "古川 日出男",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8454",
+   "book": {
+    "title": "オートリバース",
+    "author": "高崎 卓馬",
+    "edition": "単行本"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8290",
+   "book": {
+    "title": "十代に共感する奴はみんな嘘つき",
+    "author": "最果 タヒ",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8290",
+   "book": {
+    "title": "卵の緒",
+    "author": "瀬尾 まいこ",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc7967",
+   "book": {
+    "title": "きれいなシワの作り方",
+    "author": "村田 沙耶香",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc7967",
+   "book": {
+    "title": "明るい夜に出かけて",
+    "author": "佐藤 多佳子",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc7763",
+   "book": {
+    "title": "社会人大学人見知り学部 卒業見込",
+    "author": "若林 正恭",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc7605",
+   "book": {
+    "title": "胎児のはなし",
+    "author": "最相 葉月、増崎 英明"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc7425",
+   "book": {
+    "title": "れんげ荘",
+    "author": "群 ようこ",
+    "edition": "ハルキ文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc7425",
+   "book": {
+    "title": "コーヒーと恋愛",
+    "author": "獅子 文六",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc8775",
+   "book": {
+    "title": "星の子",
+    "author": "今村 夏子",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc1983",
+   "book": {
+    "title": "さきちゃんたちの夜",
+    "author": "よしもと ばなな",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "koduka",
+   "sourceId": "hc1983",
+   "book": {
+    "title": "ガダラの豚 1",
+    "author": "中島 らも",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3968",
+   "book": {
+    "title": "金哲彦のランニング・メソッド",
+    "author": "金 哲彦"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3968",
+   "book": {
+    "title": "マラソン1年生",
+    "author": "たかぎ なおこ",
+    "edition": "メディアファクトリーのコミックエッセイ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3968",
+   "book": {
+    "title": "なんでわざわざ中年体育",
+    "author": "角田 光代"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3968",
+   "book": {
+    "title": "走ることについて語るときに僕の語ること",
+    "author": "村上 春樹",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc6277",
+   "book": {
+    "title": "長いお別れ",
+    "author": "レイモンド・チャンドラー",
+    "edition": "ハヤカワ・ミステリ文庫 清水俊二訳"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc5731",
+   "book": {
+    "title": "MASTERキートン 完全版",
+    "author": "浦沢 直樹、勝鹿 北星、長崎 尚志",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc5731",
+   "book": {
+    "title": "面白南極料理人",
+    "author": "西村 淳",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc5608",
+   "book": {
+    "title": "コウノドリ",
+    "author": "鈴ノ木 ユウ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc5608",
+   "book": {
+    "title": "トリペと 妊婦、はじめました",
+    "author": "コンドウ アキ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc5608",
+   "book": {
+    "title": "オカアチャン1年生 トリペと2",
+    "author": "コンドウ アキ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc5027",
+   "book": {
+    "title": "岳",
+    "author": "石塚 真一",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3562",
+   "book": {
+    "title": "忍びの国",
+    "author": "和田 竜",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3208",
+   "book": {
+    "title": "邪魅の雫",
+    "author": "京極 夏彦",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc3208",
+   "book": {
+    "title": "占星術殺人事件 改訂完全版",
+    "author": "島田 荘司",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc8432",
+   "book": {
+    "title": "友情 平尾誠二と山中伸弥「最後の一年」",
+    "author": "山中 伸弥"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc7628",
+   "book": {
+    "title": "貧乏の神様 芥川賞作家困窮生活記",
+    "author": "柳 美里"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc8608",
+   "book": {
+    "title": "走る奴なんて馬鹿だと思ってた",
+    "author": "松久 淳"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "hc4302",
+   "book": {
+    "title": "ガラスの仮面",
+    "author": "美内 すずえ",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "hc11514",
+   "book": {
+    "title": "国のない男",
+    "author": "カート・ヴォネガット",
+    "edition": "中公文庫 金原瑞人訳"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "hc11531",
+   "book": {
+    "title": "夜中の薔薇",
+    "author": "向田 邦子",
+    "edition": "講談社文庫"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5018",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5019",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5375",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5465",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5523",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5617",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5703",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5768",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5831",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5885",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5981",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6088",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6207",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6311",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6422",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6490",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6617",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6688",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6761",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6819",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6875",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6928",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6994",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7043",
+   "result": "rejected",
+   "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+   "person": "つぶやきシロー"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11609",
+   "result": "rejected",
+   "reason": "藤原努（元ホリプロプロデューサー）の連載。椎名林檎本人の選書ではなく、評論書についての記事",
+   "person": "椎名林檎"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2611",
+   "result": "rejected",
+   "reason": "堀江貴文の著書10冊を古本ライターが紹介する記事。自著で、本人が薦める本ではない",
+   "person": "堀江貴文"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9376",
+   "result": "rejected",
+   "reason": "フリースタイル書評バトル。書評で、誰がどの本かの確認もしていない（brief指示）",
+   "person": ""
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8025",
+   "result": "rejected",
+   "reason": "わちゅ～＠はバンドThinking Dogsのベーシストの芸名で、実名・素性が確認できないため載せない",
+   "person": "わちゅ～＠"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/10190",
+   "result": "candidate",
+   "reason": "山中志歩『百年と一日』の回。本文で薦める・好きと語る記述を確認できなかった",
+   "person": "山中志歩"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11490",
+   "result": "rejected",
+   "reason": "西川あやの #1。本は共演者から薦められた1冊で、本人が選んだ本と断定できない",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11702",
+   "result": "candidate",
+   "reason": "西川あやの #10『蹴りたい背中』。本人が好き・薦めると断定できる記述を確認できなかった",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11688",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11662",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11644",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11625",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11611",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11586",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9673",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山中志歩"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9573",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/9210",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山中志歩"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8411",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8327",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8154",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8125",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8119",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8058",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8040",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7984",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山中志歩"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7962",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7861",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7604",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7476",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7348",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7255",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7186",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7122",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7044",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7003",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6877",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6764",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "西川あやの"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6770",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6784",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6594",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6477",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6295",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6074",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6067",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5867",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5859",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5754",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5649",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5584",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5499",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5367",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5352",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5119",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/4894",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/4670",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/4144",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/3755",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/3410",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2913",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2728",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2586",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2480",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2299",
+   "result": "candidate",
+   "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/education/celebrities",
+   "result": "index",
+   "reason": "ホンシェルジュ 著名人記事一覧（472記事）"
+  }
+ ]
+}

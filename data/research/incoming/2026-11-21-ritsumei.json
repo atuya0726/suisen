@@ -1,0 +1,839 @@
+{
+  "people": [
+    {
+      "id": "fukazawa",
+      "name": "深沢伸行",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "fukuma",
+      "name": "福間良明",
+      "title": "立命館大学 産業社会学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "furukawa",
+      "name": "古川耕平",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "hagiwara",
+      "name": "萩原正樹",
+      "title": "立命館大学 文学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "higurashi",
+      "name": "日暮雅夫",
+      "title": "立命館大学 産業社会学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "horie",
+      "name": "堀江未来",
+      "title": "立命館大学 国際教育推進機構",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "hoshino",
+      "name": "星野郁",
+      "title": "立命館大学 国際関係学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_fukazawa",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 深沢伸行先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fukazawa/",
+      "publishedAt": "2018-06-01"
+    },
+    {
+      "id": "s_fukuma",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 福間良明先生（産業社会学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fukuma/",
+      "publishedAt": "2019-07-01"
+    },
+    {
+      "id": "s_furukawa",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 古川耕平先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/furukawa/"
+    },
+    {
+      "id": "s_hagiwara",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 萩原正樹先生（文学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hagiwara/"
+    },
+    {
+      "id": "s_higurashi",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 日暮雅夫先生（産業社会学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/higurashi/"
+    },
+    {
+      "id": "s_horie",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 堀江未来先生（国際教育推進機構）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/horie/"
+    },
+    {
+      "id": "s_hoshino",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 星野郁先生（国際関係学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hoshino/"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "伝説の映画美術監督たち×種田陽平",
+        "author": "種田陽平 他",
+        "publisher": "スペースシャワーネットワーク",
+        "edition": "スペースシャワーネットワーク 2014年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "デジタル小津安二郎",
+        "author": "坂村健, 蓮實重彦 編",
+        "publisher": "東京大学総合研究博物館",
+        "subtitle": "キャメラマン厚田雄春の視",
+        "edition": "東京大学総合研究博物館 1998年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "キャメラマン魂",
+        "author": "石渡均 編",
+        "publisher": "フィルムアート社",
+        "subtitle": "日本映画を築いた撮影監督たち",
+        "edition": "フィルムアート社 1996年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "映画撮影とは何か",
+        "author": "山口猛 編",
+        "publisher": "平凡社",
+        "subtitle": "キャメラマン40人の証言",
+        "edition": "平凡社 1997年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "マスターズオブライト",
+        "author": "デニス・シェファー, ラリー・サルヴァート",
+        "publisher": "フィルムアート社",
+        "subtitle": "アメリカン・シネマの撮影監督たち",
+        "edition": "フィルムアート社 1998年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "Sound Design 映画を響かせる「音」のつくり方",
+        "author": "デイヴィッド・ゾンネンシャイン",
+        "publisher": "フィルムアート社",
+        "edition": "フィルムアート社 2015年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "映画の瞬き",
+        "author": "ウォルター・マーチ",
+        "publisher": "フィルムアート社",
+        "subtitle": "映像編集という仕事",
+        "edition": "フィルムアート社 2008年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "国境を超える現代ヨーロッパ映画250",
+        "author": "野崎歓 ほか 編",
+        "publisher": "河出書房新社",
+        "subtitle": "移民・辺境・マイノリティ",
+        "edition": "河出書房新社 2015年"
+      }
+    },
+    {
+      "personId": "fukazawa",
+      "sourceId": "s_fukazawa",
+      "book": {
+        "title": "照明技師熊谷秀夫 降る影 待つ光",
+        "author": "熊谷秀夫, 長谷川隆",
+        "publisher": "キネマ旬報社",
+        "edition": "キネマ旬報社 2004年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "現代政治の思想と行動 新装版",
+        "author": "丸山眞男",
+        "publisher": "未来社",
+        "edition": "未来社 2006年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "「キング」の時代",
+        "author": "佐藤卓己",
+        "publisher": "岩波書店",
+        "subtitle": "国民大衆雑誌の公共性",
+        "edition": "岩波書店 2002年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "教養主義の没落",
+        "author": "竹内洋",
+        "publisher": "中公新書",
+        "subtitle": "変わりゆくエリート学生文化",
+        "edition": "中公新書 2003年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "戦争体験",
+        "author": "安田武",
+        "publisher": "未来社",
+        "subtitle": "1970年への遺書",
+        "edition": "未来社 1963年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "砕かれた神",
+        "author": "渡辺清",
+        "publisher": "岩波現代文庫",
+        "subtitle": "ある復員兵の手記",
+        "edition": "岩波現代文庫 2004年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "まなざしの地獄",
+        "author": "見田宗介",
+        "publisher": "河出書房新社",
+        "subtitle": "尽きなく生きることの社会学",
+        "edition": "河出書房新社 2008年"
+      }
+    },
+    {
+      "personId": "fukuma",
+      "sourceId": "s_fukuma",
+      "book": {
+        "title": "ハマータウンの野郎ども",
+        "author": "ポール・ウィリス",
+        "publisher": "ちくま学芸文庫",
+        "edition": "ちくま学芸文庫 1996年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "伊勢神宮",
+        "author": "井上章一",
+        "publisher": "講談社",
+        "subtitle": "魅惑の日本建築",
+        "edition": "講談社 2009年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "ピクトグラムのおはなし",
+        "author": "太田幸夫",
+        "publisher": "日本規格協会",
+        "edition": "日本規格協会 1995年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "考現学入門",
+        "author": "今和次郎",
+        "publisher": "筑摩書房（ちくま文庫）",
+        "edition": "筑摩書房（ちくま文庫） 1987年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "フィールドワーク",
+        "author": "佐藤郁哉",
+        "publisher": "新曜社",
+        "subtitle": "書を持って街へ出よう 増訂版",
+        "edition": "新曜社 2006年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "つくられた桂離宮神話",
+        "author": "井上章一",
+        "publisher": "講談社学術文庫",
+        "edition": "講談社学術文庫 1997年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "ビューティフルビジュアライゼーション",
+        "author": "Julie Steele, Noah Iliinsky 編",
+        "publisher": "オライリー・ジャパン",
+        "edition": "オライリー・ジャパン 2011年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "色彩論",
+        "author": "ヨハネス・イッテン",
+        "publisher": "美術出版社",
+        "edition": "美術出版社 1971年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "なぜ人はゲームにハマるのか",
+        "author": "渡辺修司, 中村彰憲",
+        "publisher": "SBクリエイティブ",
+        "subtitle": "開発現場から得た「ゲーム性」の本質",
+        "edition": "SBクリエイティブ 2014年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "京都の歴史GIS",
+        "author": "矢野桂司 ほか 編",
+        "publisher": "ナカニシヤ出版",
+        "subtitle": "バイリンガル版",
+        "edition": "ナカニシヤ出版 2011年"
+      }
+    },
+    {
+      "personId": "furukawa",
+      "sourceId": "s_furukawa",
+      "book": {
+        "title": "壊れても仏像",
+        "author": "飯泉太子宗",
+        "publisher": "白水社",
+        "subtitle": "文化財修復のはなし",
+        "edition": "白水社 2009年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "白川静著作集",
+        "author": "白川静",
+        "publisher": "平凡社",
+        "edition": "シリーズ、平凡社 1999-2000"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "日本における中国文学 上",
+        "author": "神田喜一郎",
+        "publisher": "二玄社",
+        "edition": "第1巻、二玄社 1965年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "猫談義",
+        "author": "今村与志雄",
+        "publisher": "東方書店",
+        "subtitle": "今と昔",
+        "edition": "東方書店 1986年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "王維",
+        "author": "原田憲雄",
+        "publisher": "小沢書店",
+        "edition": "小沢書店 1996年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "科挙の話",
+        "author": "村上哲見",
+        "publisher": "講談社学術文庫",
+        "subtitle": "試験制度と文人官僚",
+        "edition": "講談社学術文庫 2000年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "邪宗門 上",
+        "author": "高橋和巳",
+        "publisher": "河出文庫",
+        "edition": "河出文庫 2014年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "化粧",
+        "author": "中上健次",
+        "publisher": "講談社文芸文庫",
+        "edition": "講談社文芸文庫 1993年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "高丘親王航海記",
+        "author": "澁澤龍彦",
+        "publisher": "文春文庫",
+        "edition": "文春文庫 1990年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "雨の音",
+        "author": "子母澤寛",
+        "publisher": "中公文庫",
+        "subtitle": "子母澤寛幕末維新小説集",
+        "edition": "中公文庫 2006年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "アジア主義",
+        "author": "中島岳志",
+        "publisher": "潮出版社",
+        "subtitle": "その先の近代へ",
+        "edition": "潮出版社 2014年"
+      }
+    },
+    {
+      "personId": "hagiwara",
+      "sourceId": "s_hagiwara",
+      "book": {
+        "title": "開国・維新 1853～1871",
+        "author": "松本健一",
+        "publisher": "中公文庫",
+        "subtitle": "日本の近代1",
+        "edition": "中公文庫 2012年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "カルチュラル・スタディーズ入門",
+        "author": "グレアム・ターナー",
+        "publisher": "作品社",
+        "subtitle": "理論と英国での発展",
+        "edition": "作品社 1999年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "ルポ貧困大国アメリカ",
+        "author": "堤未果",
+        "publisher": "岩波書店",
+        "edition": "岩波新書 新赤版1112",
+        "isbn": "9784004311126"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "ルポ貧困大国アメリカ II",
+        "author": "堤未果",
+        "publisher": "岩波書店",
+        "edition": "岩波新書 新赤版1225",
+        "isbn": "9784004312253"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "承認をめぐる病",
+        "author": "斎藤環",
+        "publisher": "日本評論社",
+        "edition": "日本評論社 2013年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "啓蒙の弁証法",
+        "author": "マックス・ホルクハイマー, テオドール・W・アドルノ",
+        "publisher": "岩波書店（岩波文庫）",
+        "subtitle": "哲学的断想 増訂版",
+        "edition": "岩波書店（岩波文庫） 2007年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "概説 現代の哲学・思想",
+        "author": "小坂国継, 本郷均 編著",
+        "publisher": "ミネルヴァ書房",
+        "edition": "ミネルヴァ書房 2012年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "自然主義と宗教の間",
+        "author": "ユルゲン・ハーバーマス",
+        "publisher": "法政大学出版局",
+        "subtitle": "哲学論集",
+        "edition": "法政大学出版局 2014年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "再配分か承認か?",
+        "author": "ナンシー・フレイザー, アクセル・ホネット",
+        "publisher": "法政大学出版局",
+        "subtitle": "政治・哲学論争",
+        "edition": "法政大学出版局 2012年"
+      }
+    },
+    {
+      "personId": "higurashi",
+      "sourceId": "s_higurashi",
+      "book": {
+        "title": "正義の秤",
+        "author": "ナンシー・フレイザー",
+        "publisher": "法政大学出版局",
+        "subtitle": "グローバル化する世界で政治空間を再想像すること",
+        "edition": "法政大学出版局 2013年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "Basic concepts of intercultural communication",
+        "author": "Milton J. Bennett 編",
+        "publisher": "Intercultural Press",
+        "subtitle": "selected readings",
+        "edition": "Intercultural Press 1998年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "Survival kit for overseas living",
+        "author": "L. Robert Kohls",
+        "publisher": "Nicholas Brealey Publishing",
+        "subtitle": "for Americans planning to live and work abroad",
+        "edition": "Nicholas Brealey Publishing 2001年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "異文化理解",
+        "author": "青木保",
+        "publisher": "岩波新書",
+        "edition": "岩波新書 2001年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "日本人の表現構造",
+        "author": "D・C・バーンランド",
+        "publisher": "サイマル出版会",
+        "subtitle": "公的自己と私的自己・アメリカ人との比較",
+        "edition": "サイマル出版会 1979年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "異文化間コミュニケーション",
+        "author": "ジョン・コンドン",
+        "publisher": "サイマル出版会",
+        "subtitle": "カルチャー・ギャップの理解",
+        "edition": "サイマル出版会 1980年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "異文化とつき合うための心理学",
+        "author": "金沢吉展",
+        "publisher": "誠信書房",
+        "edition": "誠信書房 1992年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "新訳 被抑圧者の教育学",
+        "author": "パウロ・フレイレ",
+        "publisher": "亜紀書房",
+        "edition": "亜紀書房 2011年"
+      }
+    },
+    {
+      "personId": "horie",
+      "sourceId": "s_horie",
+      "book": {
+        "title": "大学生のための教室英語表現300",
+        "author": "中井俊樹 編",
+        "publisher": "アルク",
+        "edition": "アルク 2009年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "マッド・マネー",
+        "author": "スーザン・ストレンジ",
+        "publisher": "岩波書店",
+        "subtitle": "世紀末のカジノ資本主義",
+        "edition": "岩波書店 1999年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "カウフマンの証言",
+        "author": "ヘンリー・カウフマン",
+        "publisher": "東洋経済新報社",
+        "subtitle": "ウォール街",
+        "edition": "東洋経済新報社 2001年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "ブラック・スワン",
+        "author": "ナシーム・ニコラス・タレブ",
+        "publisher": "ダイヤモンド社",
+        "subtitle": "不確実性とリスクの本質",
+        "edition": "ダイヤモンド社 2009年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "狂奔する資本主義",
+        "author": "アンドルー・グリン",
+        "publisher": "ダイヤモンド社",
+        "subtitle": "格差社会から新たな福祉社会へ",
+        "edition": "ダイヤモンド社 2007年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "失墜するアメリカ経済",
+        "author": "ロバート・ポーリン",
+        "publisher": "日本経済評論社",
+        "subtitle": "ネオリベラル政策とその代替策",
+        "edition": "日本経済評論社 2008年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "大いなる不安定",
+        "author": "ヌリエル・ルービニ, スティーブン・ミーム",
+        "publisher": "ダイヤモンド社",
+        "subtitle": "金融危機は偶然ではない、必然である",
+        "edition": "ダイヤモンド社 2010年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "金融資本主義の崩壊",
+        "author": "ロベール・ボワイエ",
+        "publisher": "藤原書店",
+        "subtitle": "市場絶対主義を超えて",
+        "edition": "藤原書店 2011年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "フォールト・ラインズ",
+        "author": "ラグラム・ラジャン",
+        "publisher": "新潮社",
+        "subtitle": "「大断層」が金融危機を再び招く",
+        "edition": "新潮社 2011年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "国家対巨大銀行",
+        "author": "サイモン・ジョンソン, ジェームズ・クワック",
+        "publisher": "ダイヤモンド社",
+        "subtitle": "金融の肥大化による新たな危機",
+        "edition": "ダイヤモンド社 2011年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "資本の「謎」",
+        "author": "デヴィッド・ハーヴェイ",
+        "publisher": "作品社",
+        "subtitle": "世界金融恐慌と21世紀資本主義",
+        "edition": "作品社 2012年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "世界の99%を貧困にする経済",
+        "author": "ジョセフ・E.スティグリッツ",
+        "publisher": "徳間書店",
+        "edition": "徳間書店 2012年"
+      }
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "s_hoshino",
+      "book": {
+        "title": "ケインズかハイエクか",
+        "author": "ニコラス・ワプショット",
+        "publisher": "新潮社",
+        "subtitle": "資本主義を動かした世紀の対決",
+        "edition": "新潮社 2012年"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/",
+      "result": "index",
+      "reason": "教員お薦め本の一覧"
+    }
+  ]
+}

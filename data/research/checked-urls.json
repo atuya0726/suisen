@@ -1291,21 +1291,21 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fukazawa/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-fukazawa-17e9f0",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/fukuma/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-fukuma-a0417a",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/furukawa/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-furukawa-45b38c",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/gakusup/",
@@ -1315,9 +1315,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hagiwara/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-hagiwara-200c9b",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hanazaki/",
@@ -1327,9 +1327,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/higurashi/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-higurashi-38ed4f",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hori_l/",
@@ -1339,15 +1339,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/horie/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-horie-f7598c",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hoshino/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-hoshino-9995ea",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ichii/",
@@ -17469,31 +17469,31 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/1100",
-    "result": "candidate",
-    "reason": "ハナエ（シンガー）。未開封",
+    "result": "adopted",
+    "reason": "sources.json の hc1100",
     "person": "ハナエ",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/228",
-    "result": "candidate",
-    "reason": "ハッカドロップス（ミュージシャン）。未開封",
+    "result": "adopted",
+    "reason": "sources.json の hc228",
     "person": "ハッカドロップス",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/287",
-    "result": "candidate",
-    "reason": "今川宇宙（アーティスト）。未開封",
+    "result": "adopted",
+    "reason": "sources.json の hc287",
     "person": "今川宇宙",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/392",
-    "result": "candidate",
-    "reason": "結城洋平（役者）の連載。名前で検索される度合いが低く未開封（同連載多数）",
+    "result": "adopted",
+    "reason": "sources.json の hc392",
     "person": "結城洋平",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/537",
@@ -17504,17 +17504,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/3968",
-    "result": "candidate",
-    "reason": "山本裕子（俳優）。ランニング本4冊の記事。未開封（連載はほぼエッセイ）",
+    "result": "adopted",
+    "reason": "sources.json の hc3968",
     "person": "山本裕子",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/1983",
-    "result": "candidate",
-    "reason": "小塚舞子（タレント）の連載。エッセイ中心で未開封",
+    "result": "adopted",
+    "reason": "sources.json の hc1983",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7984",
@@ -18251,10 +18251,10 @@
   },
   {
     "url": "https://thetv.jp/news/detail/232100/",
-    "result": "candidate",
-    "reason": "木村拓哉のおススメ漫画ベスト5の記事。時間切れで未取得（漫画は巻指定の確認が必要）",
+    "result": "adopted",
+    "reason": "sources.json の thetv-kimura-manga",
     "person": "木村拓哉",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://hon-hikidashi.jp/bookstore/14465/",
@@ -19065,10 +19065,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d1331002/a/",
-    "result": "candidate",
-    "reason": "太田光×宮島未奈の対談。未読（『成瀬は天下を取りにいく』を太田が選んだ・薦めた形か不明）",
+    "result": "adopted",
+    "reason": "sources.json の ddnavi-ota-miyajima",
     "person": "太田光",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://hanako.tokyo/tags/2023%E5%B9%B4%E3%81%AE%E3%83%9E%E3%82%A4%E3%83%99%E3%82%B9%E3%83%88/",
@@ -20782,5 +20782,728 @@
     "reason": "選ばれた本が洋書（Ace Books版 DUNE）のため除外",
     "person": "武藤健一郎",
     "checkedAt": "2026-11-20"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8692",
+    "result": "adopted",
+    "reason": "sources.json の hc8692",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/10009",
+    "result": "adopted",
+    "reason": "sources.json の hc10009",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9951",
+    "result": "adopted",
+    "reason": "sources.json の hc9951",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8775",
+    "result": "adopted",
+    "reason": "sources.json の hc8775",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8454",
+    "result": "adopted",
+    "reason": "sources.json の hc8454",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7605",
+    "result": "adopted",
+    "reason": "sources.json の hc7605",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6277",
+    "result": "adopted",
+    "reason": "sources.json の hc6277",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5608",
+    "result": "adopted",
+    "reason": "sources.json の hc5608",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9416",
+    "result": "adopted",
+    "reason": "sources.json の hc9416",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8959",
+    "result": "adopted",
+    "reason": "sources.json の hc8959",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11531",
+    "result": "adopted",
+    "reason": "sources.json の hc11531",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7628",
+    "result": "adopted",
+    "reason": "sources.json の hc7628",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4302",
+    "result": "adopted",
+    "reason": "sources.json の hc4302",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8432",
+    "result": "adopted",
+    "reason": "sources.json の hc8432",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8290",
+    "result": "adopted",
+    "reason": "sources.json の hc8290",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9736",
+    "result": "adopted",
+    "reason": "sources.json の hc9736",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9020",
+    "result": "adopted",
+    "reason": "sources.json の hc9020",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8871",
+    "result": "adopted",
+    "reason": "sources.json の hc8871",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9926",
+    "result": "adopted",
+    "reason": "sources.json の hc9926",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3562",
+    "result": "adopted",
+    "reason": "sources.json の hc3562",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11514",
+    "result": "adopted",
+    "reason": "sources.json の hc11514",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9293",
+    "result": "adopted",
+    "reason": "sources.json の hc9293",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4904",
+    "result": "adopted",
+    "reason": "sources.json の hc4904",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5027",
+    "result": "adopted",
+    "reason": "sources.json の hc5027",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4590",
+    "result": "adopted",
+    "reason": "sources.json の hc4590",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7425",
+    "result": "adopted",
+    "reason": "sources.json の hc7425",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3208",
+    "result": "adopted",
+    "reason": "sources.json の hc3208",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9423",
+    "result": "adopted",
+    "reason": "sources.json の hc9423",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7763",
+    "result": "adopted",
+    "reason": "sources.json の hc7763",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7967",
+    "result": "adopted",
+    "reason": "sources.json の hc7967",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4050",
+    "result": "adopted",
+    "reason": "sources.json の hc4050",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5731",
+    "result": "adopted",
+    "reason": "sources.json の hc5731",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8580",
+    "result": "adopted",
+    "reason": "sources.json の hc8580",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5019",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5465",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5523",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5617",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5703",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5768",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5831",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5885",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5981",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6088",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6207",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6311",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6422",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6490",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6617",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6688",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6761",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6819",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6875",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6928",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6994",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
+    "person": "つぶやきシロー",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11688",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11662",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11644",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11625",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11611",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/11586",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9673",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山中志歩",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9573",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/9210",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山中志歩",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8411",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8327",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8154",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8125",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8119",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8058",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/8040",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7962",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7861",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7604",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7476",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7348",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7255",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7186",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7122",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7044",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/7003",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6877",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6764",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "西川あやの",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6770",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6784",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6594",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6477",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6295",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6074",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/6067",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5867",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5859",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5754",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5649",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5584",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5499",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5367",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5352",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/5119",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4894",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4670",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/4144",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3755",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/3410",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2913",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2728",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2586",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "結城洋平",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2480",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "小塚舞子",
+    "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://honcierge.jp/articles/shelf_story/2299",
+    "result": "candidate",
+    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "person": "山本裕子",
+    "checkedAt": "2026-11-21"
   }
 ]
