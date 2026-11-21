@@ -51727,5 +51727,683 @@
     "isbn13": "9784105063412",
     "sourceId": "s-hoshino-9995ea",
     "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784106002403",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784642074964",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784101065014",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784004140016",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784003250310",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784523261919",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784588002977",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784041501061",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784622039709",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784002602783",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784000244206",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784122034426",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784003118627",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784062012010",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784480700414",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784480360014",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784062900416",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784255860138",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784492395462",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784562030712",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784106003875",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784061340992",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784087601176",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784406059299",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784087208115",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784309024714",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784272540365",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784003420218",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784087207903",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784004302490",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784000025966",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784000220156",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784764101722",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784782802113",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784622070337",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784622036593",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784000221566",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784000921367",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1579",
+    "isbn13": "9784000013956",
+    "sourceId": "s-hori-l-7e51bc",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784000040549",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784122066854",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784140881095",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784469266382",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784888489232",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784130562027",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784863420861",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784791763078",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1580",
+    "isbn13": "9784094181012",
+    "sourceId": "s-ichii-8073b4",
+    "verified": true
+  },
+  {
+    "personId": "p1578",
+    "isbn13": "9784582760149",
+    "sourceId": "s-hanazaki-7d995e",
+    "verified": true
+  },
+  {
+    "personId": "p1581",
+    "isbn13": "9784488266035",
+    "sourceId": "sugie1",
+    "verified": true
+  },
+  {
+    "personId": "p1581",
+    "isbn13": "9784151821585",
+    "sourceId": "sugie1",
+    "verified": true
+  },
+  {
+    "personId": "p1581",
+    "isbn13": "9784094071627",
+    "sourceId": "sugie1",
+    "verified": true
+  },
+  {
+    "personId": "p1582",
+    "isbn13": "9784387902669",
+    "sourceId": "morita1",
+    "verified": true
+  },
+  {
+    "personId": "p1582",
+    "isbn13": "9784102074022",
+    "sourceId": "morita1",
+    "verified": true
+  },
+  {
+    "personId": "p1583",
+    "isbn13": "9784309201146",
+    "sourceId": "meisaku-world-1a959a",
+    "verified": true
+  },
+  {
+    "personId": "p1583",
+    "isbn13": "9784480038630",
+    "sourceId": "meisaku-world-1a959a",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784480038630",
+    "sourceId": "meisaku-world-1a959a",
+    "verified": true
+  },
+  {
+    "personId": "p1584",
+    "isbn13": "9784150117009",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1584",
+    "isbn13": "9784101145013",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1584",
+    "isbn13": "9784094064421",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1584",
+    "isbn13": "9784061316508",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1584",
+    "isbn13": "9784022642233",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1584",
+    "isbn13": "9784041074435",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1585",
+    "isbn13": "9784001150537",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1585",
+    "isbn13": "9784167192303",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1585",
+    "isbn13": "9784101216539",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1585",
+    "isbn13": "9784087714302",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1585",
+    "isbn13": "9784087718089",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1585",
+    "isbn13": "9784120056284",
+    "sourceId": "mamuro1",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784334751999",
+    "sourceId": "meisaku-world-1a959a",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088825250",
+    "sourceId": "s16104932",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088761435",
+    "sourceId": "s16104932",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784167901189",
+    "sourceId": "s16048921",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088480695",
+    "sourceId": "s15984447",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088641973",
+    "sourceId": "s15984447",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784101141152",
+    "sourceId": "s15912199",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784167838942",
+    "sourceId": "s15848004",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784091804310",
+    "sourceId": "s15776681",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784166614745",
+    "sourceId": "s15704407",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784865411812",
+    "sourceId": "s15668310",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784569760841",
+    "sourceId": "s15630843",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784197700059",
+    "sourceId": "s15630843",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784065334874",
+    "sourceId": "s15552170",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088827827",
+    "sourceId": "s15552170",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784166614387",
+    "sourceId": "s15517755",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784121027290",
+    "sourceId": "s15517755",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784838775262",
+    "sourceId": "s15466300",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784087441062",
+    "sourceId": "s15430847",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784043726073",
+    "sourceId": "s15430847",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784101209555",
+    "sourceId": "s15389421",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784334953577",
+    "sourceId": "s15358157",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784022646934",
+    "sourceId": "s15300812",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784167914431",
+    "sourceId": "s15300812",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088927671",
+    "sourceId": "s15195724",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784635825047",
+    "sourceId": "s15075201",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784054029491",
+    "sourceId": "s15044579",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784088913339",
+    "sourceId": "s14967915",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784098510917",
+    "sourceId": "s14967915",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784046059833",
+    "sourceId": "s14944220",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784140880012",
+    "sourceId": "s14895161",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784091824950",
+    "sourceId": "s14895161",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784087716924",
+    "sourceId": "s14872676",
+    "verified": true
+  },
+  {
+    "personId": "p0110",
+    "isbn13": "9784065209097",
+    "sourceId": "s14872676",
+    "verified": true
+  },
+  {
+    "personId": "p1586",
+    "isbn13": "9784910576039",
+    "sourceId": "imoto",
+    "verified": true
+  },
+  {
+    "personId": "p1586",
+    "isbn13": "9784838732944",
+    "sourceId": "imoto",
+    "verified": true
+  },
+  {
+    "personId": "p1586",
+    "isbn13": "9784087447538",
+    "sourceId": "imoto",
+    "verified": true
+  },
+  {
+    "personId": "p1587",
+    "isbn13": "9784121028303",
+    "sourceId": "mogi",
+    "verified": true
+  },
+  {
+    "personId": "p1587",
+    "isbn13": "9784480076779",
+    "sourceId": "mogi",
+    "verified": true
+  },
+  {
+    "personId": "p1587",
+    "isbn13": "9784121027986",
+    "sourceId": "mogi",
+    "verified": true
+  },
+  {
+    "personId": "p1588",
+    "isbn13": "9784756254139",
+    "sourceId": "saito",
+    "verified": true
+  },
+  {
+    "personId": "p1588",
+    "isbn13": "9784265011032",
+    "sourceId": "saito",
+    "verified": true
+  },
+  {
+    "personId": "p1588",
+    "isbn13": "9784769020080",
+    "sourceId": "saito",
+    "verified": true
+  },
+  {
+    "personId": "p1588",
+    "isbn13": "9784834025552",
+    "sourceId": "saito",
+    "verified": true
   }
 ]

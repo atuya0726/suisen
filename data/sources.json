@@ -17808,5 +17808,267 @@
     "media": "立命館大学図書館",
     "title": "教員お薦め本 星野郁先生（国際関係学部）",
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hoshino/"
+  },
+  {
+    "id": "s-hanazaki-7d995e",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 花﨑育代先生（文学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hanazaki/"
+  },
+  {
+    "id": "s-hori-l-7e51bc",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 堀雅晴先生（法学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hori_l/",
+    "publishedAt": "2017-03-01"
+  },
+  {
+    "id": "s-ichii-8073b4",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 市井吉興先生（産業社会学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ichii/"
+  },
+  {
+    "id": "mamuro1",
+    "type": "interview",
+    "media": "クロワッサン オンライン",
+    "title": "作家志望のお笑い芸人・斉藤紳士さんと元祖カリスマ書店員の間室道子さんによる「極上の読書案内」。",
+    "url": "https://croissant-online.jp/life/229830/",
+    "publishedAt": "2024-12-24"
+  },
+  {
+    "id": "meisaku-world-1a959a",
+    "type": "interview",
+    "media": "クロワッサン オンライン",
+    "title": "名作はなぜこんなに面白いのか——時を超え読み継がれる理由「世界文学」編",
+    "url": "https://croissant-online.jp/life/240351/",
+    "publishedAt": "2025-03-16"
+  },
+  {
+    "id": "sugie1",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "杉江松恋さんが薦める、北欧ミステリの３作品。",
+    "url": "https://croissant-online.jp/life/110000/",
+    "publishedAt": "2020-01-19"
+  },
+  {
+    "id": "morita1",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "自分を構成する本を並べて自己表現——森田紗都姫さんの個性あふれる本棚",
+    "url": "https://croissant-online.jp/life/240617/",
+    "publishedAt": "2025-03-29"
+  },
+  {
+    "id": "s15389421",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】梶よう子「広重ぶるう」　職人として絵に向かうひたむきさを思う",
+    "url": "https://book.asahi.com/article/15389421",
+    "publishedAt": "2024-08-30"
+  },
+  {
+    "id": "s15358157",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】曽我部恵一「いい匂いのする方へ」　家族、音楽……隠さず、飾らず、まっすぐ伝わる思い",
+    "url": "https://book.asahi.com/article/15358157",
+    "publishedAt": "2024-07-26"
+  },
+  {
+    "id": "s15912199",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原書店】水上勉「土を喰う日々－わが精進十二ヵ月－」　旬のものを食べる尊さをかみしめて",
+    "url": "https://book.asahi.com/article/15912199",
+    "publishedAt": "2025-07-25"
+  },
+  {
+    "id": "s14967915",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】クロマツテツロウ　「ドラフトキング」　心打つ野球のリアル",
+    "url": "https://book.asahi.com/article/14967915",
+    "publishedAt": "2023-08-04"
+  },
+  {
+    "id": "s15195724",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】平井大橋「ダイヤモンドの功罪」　天才の孤独と軋轢、多角的な視点で描く",
+    "url": "https://book.asahi.com/article/15195724",
+    "publishedAt": "2024-03-31"
+  },
+  {
+    "id": "s16048921",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原書店】阿部智里さん「烏に単は似合わない」　秋の夜長に楽しむ重厚な構造もったファンタジー",
+    "url": "https://book.asahi.com/article/16048921",
+    "publishedAt": "2025-09-30"
+  },
+  {
+    "id": "s15984447",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】くらもちふさこ「おばけたんご」　思春期の微妙な心のありよう、映像的に描く",
+    "url": "https://book.asahi.com/article/15984447",
+    "publishedAt": "2025-08-29"
+  },
+  {
+    "id": "s15300812",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】車谷長吉「人生の救い」　そぎ落とした価値観で相談にまっすぐ向き合う",
+    "url": "https://book.asahi.com/article/15300812",
+    "publishedAt": "2024-06-21"
+  },
+  {
+    "id": "s14872676",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原章介店長のオススメ】畠中恵「猫君」　楽しい江戸ファンタジー",
+    "url": "https://book.asahi.com/article/14872676",
+    "publishedAt": "2023-03-31"
+  },
+  {
+    "id": "s15517755",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】「磯田道史と日本史を語ろう」　歴史を俯瞰、混迷の時代を生きるヒントに",
+    "url": "https://book.asahi.com/article/15517755",
+    "publishedAt": "2024-11-29"
+  },
+  {
+    "id": "s15668310",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】岩波友紀「Blue Persimmons」　原発事故後の福島、ありのままの光景に向き合う",
+    "url": "https://book.asahi.com/article/15668310",
+    "publishedAt": "2025-03-28"
+  },
+  {
+    "id": "s14944220",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】　佐藤満春「スターにはなれませんでしたが」　「草芸人」という自意識から生まれた「本物」",
+    "url": "https://book.asahi.com/article/14944220",
+    "publishedAt": "2023-06-30"
+  },
+  {
+    "id": "s15848004",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原書店】大森洋平「考証要集　秘伝！ NHK時代考証資料」　成り立ちを知り、新鮮な驚き",
+    "url": "https://book.asahi.com/article/15848004",
+    "publishedAt": "2025-06-27"
+  },
+  {
+    "id": "s15430847",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】北大路公子「いやよいやよも旅のうち」　おかしく、愛おしい笑いにあふれた妄想",
+    "url": "https://book.asahi.com/article/15430847",
+    "publishedAt": "2024-09-27"
+  },
+  {
+    "id": "s15630843",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】竹村公太郎『日本史の謎は「地形」で解ける』　地形学生かした豊かな想像力が生む「なるほど！」",
+    "url": "https://book.asahi.com/article/15630843",
+    "publishedAt": "2025-02-28"
+  },
+  {
+    "id": "s15552170",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】泥ノ田犬彦「君と宇宙を歩くために」　共に生きる、あたたかい世界が広がっていく",
+    "url": "https://book.asahi.com/article/15552170",
+    "publishedAt": "2024-12-29"
+  },
+  {
+    "id": "s15704407",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】成田悠輔「22世紀の資本主義」　未来の社会考える刺激的な展望",
+    "url": "https://book.asahi.com/article/15704407",
+    "publishedAt": "2025-04-25"
+  },
+  {
+    "id": "s15075201",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】「玉村豊男のフランス式一汁三菜」　食を楽しむ豊かな時間の使い方",
+    "url": "https://book.asahi.com/article/15075201",
+    "publishedAt": "2023-12-08"
+  },
+  {
+    "id": "s15044579",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】畑正憲「犬はどこから…そしてここへ」　鋭い観察眼とあふれ出る動物愛",
+    "url": "https://book.asahi.com/article/15044579",
+    "publishedAt": "2023-11-03"
+  },
+  {
+    "id": "s16104932",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】松本直也「怪獣８号」　大人の思い詰まったバトル漫画の傑作",
+    "url": "https://book.asahi.com/article/16104932",
+    "publishedAt": "2025-10-28"
+  },
+  {
+    "id": "s14895161",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】　藤村和夫「蕎麦屋のしきたり」　歴史と文化、暖簾の向こうの小宇宙伝える",
+    "url": "https://book.asahi.com/article/14895161",
+    "publishedAt": "2023-04-28"
+  },
+  {
+    "id": "s15776681",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】古谷三敏・ファミリー企画、あべ善太「寄席芸人伝」　読みかえして感涙、落語を通じて人間を考えさせられる",
+    "url": "https://book.asahi.com/article/15776681",
+    "publishedAt": "2025-05-30"
+  },
+  {
+    "id": "s15466300",
+    "type": "article",
+    "media": "好書好日",
+    "title": "【谷原店長のオススメ】山本将寛「最期を選ぶ」　議論から逃げず、人生に向き合う考察を深めていくために",
+    "url": "https://book.asahi.com/article/15466300",
+    "publishedAt": "2024-10-25"
+  },
+  {
+    "id": "saito",
+    "type": "article",
+    "media": "好書好日",
+    "title": "子どもにオススメの4冊　薬膳インストラクター・齋藤紫さんが選んだ絵本",
+    "url": "https://book.asahi.com/article/17053466",
+    "publishedAt": "2026-11-19"
+  },
+  {
+    "id": "imoto",
+    "type": "article",
+    "media": "好書好日",
+    "title": "イモトアヤコさんが選んだ3冊　読書は改めて自分を知る機会",
+    "url": "https://book.asahi.com/article/17054015",
+    "publishedAt": "2026-11-19"
+  },
+  {
+    "id": "mogi",
+    "type": "article",
+    "media": "好書好日",
+    "title": "キッコーマン取締役名誉会長・茂木友三郎さん　若者たちへ　いま手にとってみてほしい３冊",
+    "url": "https://book.asahi.com/article/17054119",
+    "publishedAt": "2026-11-19"
   }
 ]

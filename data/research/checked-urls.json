@@ -1321,9 +1321,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hanazaki/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-hanazaki-7d995e",
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/higurashi/",
@@ -1333,9 +1333,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hori_l/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-hori-l-7e51bc",
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/horie/",
@@ -1351,9 +1351,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ichii/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-ichii-8073b4",
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/inoue/",
@@ -14181,17 +14181,17 @@
   },
   {
     "url": "https://croissant-online.jp/life/240617/",
-    "result": "candidate",
-    "reason": "本文確認済み。森田紗都姫はガーデンデザイナー・維苑代表。『センス・オブ・ワンダー』森田真生訳などを愛読。今回は文化人の主な推薦を優先し未取り込み",
+    "result": "adopted",
+    "reason": "sources.json の morita1",
     "person": "森田紗都姫",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://croissant-online.jp/life/110000/",
-    "result": "candidate",
-    "reason": "杉江松恋の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
+    "result": "adopted",
+    "reason": "sources.json の sugie1",
     "person": "杉江松恋",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://croissant-online.jp/life/110010/",
@@ -14229,16 +14229,16 @@
   },
   {
     "url": "https://croissant-online.jp/life/240351/",
-    "result": "candidate",
-    "reason": "世界文学編の対談を確認済み。大岡玲・三宅香帆の作品ごとの推薦の帰属と、明示された訳者を追加確認してから取り込む",
-    "checkedAt": "2026-11-17"
+    "result": "adopted",
+    "reason": "sources.json の meisaku-world-1a959a",
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://croissant-online.jp/life/229830/",
-    "result": "candidate",
-    "reason": "本人同士の対談を確認済み。斉藤紳士・間室道子が明示的に本を選んでいる。今回は未取り込み。書店員は選書家・noPageとして扱う候補",
+    "result": "adopted",
+    "reason": "sources.json の mamuro1",
     "person": "斉藤紳士・間室道子",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://croissant-online.jp/life/78818/",
@@ -21505,5 +21505,481 @@
     "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
     "person": "山本裕子",
     "checkedAt": "2026-11-21"
+  },
+  {
+    "url": "https://book.asahi.com/article/15389421",
+    "result": "adopted",
+    "reason": "sources.json の s15389421",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15358157",
+    "result": "adopted",
+    "reason": "sources.json の s15358157",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15912199",
+    "result": "adopted",
+    "reason": "sources.json の s15912199",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14967915",
+    "result": "adopted",
+    "reason": "sources.json の s14967915",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15195724",
+    "result": "adopted",
+    "reason": "sources.json の s15195724",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/16048921",
+    "result": "adopted",
+    "reason": "sources.json の s16048921",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15984447",
+    "result": "adopted",
+    "reason": "sources.json の s15984447",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15300812",
+    "result": "adopted",
+    "reason": "sources.json の s15300812",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14872676",
+    "result": "adopted",
+    "reason": "sources.json の s14872676",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15517755",
+    "result": "adopted",
+    "reason": "sources.json の s15517755",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15668310",
+    "result": "adopted",
+    "reason": "sources.json の s15668310",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14944220",
+    "result": "adopted",
+    "reason": "sources.json の s14944220",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15848004",
+    "result": "adopted",
+    "reason": "sources.json の s15848004",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15430847",
+    "result": "adopted",
+    "reason": "sources.json の s15430847",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15630843",
+    "result": "adopted",
+    "reason": "sources.json の s15630843",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15552170",
+    "result": "adopted",
+    "reason": "sources.json の s15552170",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15704407",
+    "result": "adopted",
+    "reason": "sources.json の s15704407",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15075201",
+    "result": "adopted",
+    "reason": "sources.json の s15075201",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15044579",
+    "result": "adopted",
+    "reason": "sources.json の s15044579",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/16104932",
+    "result": "adopted",
+    "reason": "sources.json の s16104932",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14895161",
+    "result": "adopted",
+    "reason": "sources.json の s14895161",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15776681",
+    "result": "adopted",
+    "reason": "sources.json の s15776681",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15466300",
+    "result": "adopted",
+    "reason": "sources.json の s15466300",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/15172423",
+    "result": "rejected",
+    "reason": "舞台『銀行強盗にあって妻が縮んでしまった事件』は谷原章介本人の出演作の原作（記事本文末に出演告知）。谷原書店 2024-02",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14487826",
+    "result": "candidate",
+    "reason": "谷原書店 2021-11 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14467685",
+    "result": "candidate",
+    "reason": "谷原書店 2021-10 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14445347",
+    "result": "candidate",
+    "reason": "谷原書店 2021-09 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14845368",
+    "result": "candidate",
+    "reason": "谷原書店 2023-02 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14802126",
+    "result": "candidate",
+    "reason": "谷原書店 2022-12 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14774389",
+    "result": "candidate",
+    "reason": "谷原書店 2022-11 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14752460",
+    "result": "candidate",
+    "reason": "谷原書店 2022-10 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14730315",
+    "result": "candidate",
+    "reason": "谷原書店 2022-09 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14701801",
+    "result": "candidate",
+    "reason": "谷原書店 2022-08 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14629668",
+    "result": "candidate",
+    "reason": "谷原書店 2022-05 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14600962",
+    "result": "candidate",
+    "reason": "谷原書店 2022-04 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14578493",
+    "result": "candidate",
+    "reason": "谷原書店 2022-03 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14424500",
+    "result": "candidate",
+    "reason": "谷原書店 2021-08 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14404982",
+    "result": "candidate",
+    "reason": "谷原書店 2021-07 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14377528",
+    "result": "candidate",
+    "reason": "谷原書店 2021-06 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14354503",
+    "result": "candidate",
+    "reason": "谷原書店 2021-05 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14333890",
+    "result": "candidate",
+    "reason": "谷原書店 2021-04 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14279085",
+    "result": "candidate",
+    "reason": "谷原書店 2021-03 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14179604",
+    "result": "candidate",
+    "reason": "谷原書店 2021-02 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14116166",
+    "result": "candidate",
+    "reason": "谷原書店 2021-01 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/14010992",
+    "result": "candidate",
+    "reason": "谷原書店 2020-12 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13937611",
+    "result": "candidate",
+    "reason": "谷原書店 2020-11 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13816973",
+    "result": "candidate",
+    "reason": "谷原書店 2020-10 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13729716",
+    "result": "candidate",
+    "reason": "谷原書店 2020-09 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13635559",
+    "result": "candidate",
+    "reason": "谷原書店 2020-08 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13553018",
+    "result": "candidate",
+    "reason": "谷原書店 2020-07 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13459131",
+    "result": "candidate",
+    "reason": "谷原書店 2020-06 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13312817",
+    "result": "candidate",
+    "reason": "谷原書店 2020-04 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13233518",
+    "result": "candidate",
+    "reason": "谷原書店 2020-03 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13124597",
+    "result": "candidate",
+    "reason": "谷原書店 2020-02 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/13049373",
+    "result": "candidate",
+    "reason": "谷原書店 2020-01 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12984661",
+    "result": "candidate",
+    "reason": "谷原書店 2019-12 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12889235",
+    "result": "candidate",
+    "reason": "谷原書店 2019-11 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12813797",
+    "result": "candidate",
+    "reason": "谷原書店 2019-10 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12737489",
+    "result": "candidate",
+    "reason": "谷原書店 2019-09 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12642584",
+    "result": "candidate",
+    "reason": "谷原書店 2019-08 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12566573",
+    "result": "candidate",
+    "reason": "谷原書店 2019-07 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12469219",
+    "result": "candidate",
+    "reason": "谷原書店 2019-06 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12319610",
+    "result": "candidate",
+    "reason": "谷原書店 2019-04 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/12222009",
+    "result": "candidate",
+    "reason": "谷原書店 2019-03 未読",
+    "person": "谷原章介",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://jp.toto.com/publishing/detail/A0009_02.html",
+    "result": "candidate",
+    "reason": "Gemini の手がかり（TOTO通信「安藤忠雄、本を語る。」、宮本武蔵・古寺巡礼・風土）。URL と本文は未確認",
+    "person": "安藤忠雄",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://ameblo.jp/ryohei-suzuki-2010/entry-10831627916.html",
+    "result": "candidate",
+    "reason": "Gemini の手がかり（本人ブログ 2011「質問返し！読書と旅行と健康法」、阪急電車・風に立つライオン）。URL と本文は未確認",
+    "person": "鈴木亮平",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://ameblo.jp/ryohei-suzuki-2010/entry-10825310705.html",
+    "result": "candidate",
+    "reason": "Gemini の手がかり（本人ブログ 2011「質問返し！熱き想い」）。URL と本文は未確認",
+    "person": "鈴木亮平",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/17053466",
+    "result": "adopted",
+    "reason": "sources.json の saito",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/17054015",
+    "result": "adopted",
+    "reason": "sources.json の imoto",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/17054119",
+    "result": "adopted",
+    "reason": "sources.json の mogi",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/series/11039549",
+    "result": "index",
+    "reason": "好書好日「あなたに贈る本」連載（朝日新聞×文化通信社、毎月第3木曜、著名人が3冊選ぶ）。一覧は3本のみで全部採用。次回は12月第3木曜ごろ",
+    "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://thetv.jp/news/detail/87739/",
+    "result": "rejected",
+    "reason": "ページが存在しない（タイトル『このページは存在しません』）。探し回らず終了",
+    "checkedAt": "2026-11-22"
   }
 ]

@@ -1,0 +1,8 @@
+{
+  "people": [], "sources": [], "recommendations": [],
+  "checkedUrls": [
+    {"url": "https://jp.toto.com/publishing/detail/A0009_02.html", "result": "candidate", "reason": "Gemini の手がかり（TOTO通信「安藤忠雄、本を語る。」、宮本武蔵・古寺巡礼・風土）。URL と本文は未確認", "person": "安藤忠雄"},
+    {"url": "https://ameblo.jp/ryohei-suzuki-2010/entry-10831627916.html", "result": "candidate", "reason": "Gemini の手がかり（本人ブログ 2011「質問返し！読書と旅行と健康法」、阪急電車・風に立つライオン）。URL と本文は未確認", "person": "鈴木亮平"},
+    {"url": "https://ameblo.jp/ryohei-suzuki-2010/entry-10825310705.html", "result": "candidate", "reason": "Gemini の手がかり（本人ブログ 2011「質問返し！熱き想い」）。URL と本文は未確認", "person": "鈴木亮平"}
+  ]
+}

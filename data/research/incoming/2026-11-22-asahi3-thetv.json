@@ -1,0 +1,166 @@
+{
+ "people": [
+  {
+   "id": "imoto",
+   "name": "イモトアヤコ",
+   "title": "タレント",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "mogi",
+   "name": "茂木友三郎",
+   "title": "キッコーマン取締役名誉会長",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "キッコーマン"
+  },
+  {
+   "id": "saito",
+   "name": "齋藤紫",
+   "title": "薬膳インストラクター",
+   "tags": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "imoto",
+   "type": "article",
+   "media": "好書好日",
+   "title": "イモトアヤコさんが選んだ3冊　読書は改めて自分を知る機会",
+   "url": "https://book.asahi.com/article/17054015",
+   "publishedAt": "2026-11-19"
+  },
+  {
+   "id": "mogi",
+   "type": "article",
+   "media": "好書好日",
+   "title": "キッコーマン取締役名誉会長・茂木友三郎さん　若者たちへ　いま手にとってみてほしい３冊",
+   "url": "https://book.asahi.com/article/17054119",
+   "publishedAt": "2026-11-19"
+  },
+  {
+   "id": "saito",
+   "type": "article",
+   "media": "好書好日",
+   "title": "子どもにオススメの4冊　薬膳インストラクター・齋藤紫さんが選んだ絵本",
+   "url": "https://book.asahi.com/article/17053466",
+   "publishedAt": "2026-11-19"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "imoto",
+   "sourceId": "imoto",
+   "book": {
+    "title": "ありか",
+    "author": "瀬尾まいこ",
+    "publisher": "水鈴社"
+   }
+  },
+  {
+   "personId": "imoto",
+   "sourceId": "imoto",
+   "book": {
+    "title": "明けないで夜",
+    "author": "燃え殻",
+    "publisher": "マガジンハウス"
+   }
+  },
+  {
+   "personId": "imoto",
+   "sourceId": "imoto",
+   "book": {
+    "title": "ジジイの片づけ",
+    "author": "沢野ひとし",
+    "publisher": "集英社",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "mogi",
+   "sourceId": "mogi",
+   "book": {
+    "title": "地方消滅2",
+    "author": "人口戦略会議 編著",
+    "publisher": "中央公論新社",
+    "edition": "中公新書",
+    "subtitle": "加速する少子化と新たな人口ビジョン"
+   }
+  },
+  {
+   "personId": "mogi",
+   "sourceId": "mogi",
+   "book": {
+    "title": "私たちは何を捨てているのか",
+    "author": "井出留美",
+    "publisher": "筑摩書房",
+    "edition": "ちくま新書",
+    "subtitle": "食品ロス、コロナ、気候変動"
+   }
+  },
+  {
+   "personId": "mogi",
+   "sourceId": "mogi",
+   "book": {
+    "title": "日ソ戦争",
+    "author": "麻田雅文",
+    "publisher": "中央公論新社",
+    "edition": "中公新書",
+    "subtitle": "帝国日本最後の戦い"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito",
+   "book": {
+    "title": "うごきません。",
+    "author": "大塚健太",
+    "publisher": "パイ インターナショナル"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito",
+   "book": {
+    "title": "おばけのがっこうへきてください",
+    "author": "さくらともこ",
+    "publisher": "岩崎書店"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito",
+   "book": {
+    "title": "じぶんだけのいろ",
+    "author": "レオ・レオニ",
+    "publisher": "好学社"
+   }
+  },
+  {
+   "personId": "saito",
+   "sourceId": "saito",
+   "book": {
+    "title": "おやおや、おやさい",
+    "author": "石津ちひろ",
+    "publisher": "福音館書店"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://book.asahi.com/series/11039549",
+   "result": "index",
+   "reason": "好書好日「あなたに贈る本」連載（朝日新聞×文化通信社、毎月第3木曜、著名人が3冊選ぶ）。一覧は3本のみで全部採用。次回は12月第3木曜ごろ",
+   "person": ""
+  },
+  {
+   "url": "https://thetv.jp/news/detail/87739/",
+   "result": "rejected",
+   "reason": "ページが存在しない（タイトル『このページは存在しません』）。探し回らず終了",
+   "person": ""
+  }
+ ]
+}

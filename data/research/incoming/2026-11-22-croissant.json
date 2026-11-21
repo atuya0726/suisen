@@ -1,0 +1,297 @@
+{
+  "people": [
+    {
+      "id": "sugie",
+      "name": "杉江松恋",
+      "title": "書評家、作家",
+      "tags": [
+        "選書家"
+      ],
+      "noPage": true
+    },
+    {
+      "id": "morita",
+      "name": "森田紗都姫",
+      "title": "ガーデンデザイナー、「維苑」代表",
+      "tags": []
+    },
+    {
+      "id": "ooka",
+      "name": "大岡玲",
+      "title": "作家、東京経済大学教授",
+      "tags": [
+        "作家"
+      ],
+      "affiliation": "東京経済大学"
+    },
+    {
+      "id": "miyake",
+      "name": "三宅香帆",
+      "title": "文芸評論家、京都市立芸術大学非常勤講師",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "saito",
+      "name": "斉藤紳士",
+      "title": "芸人",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mamuro",
+      "name": "間室道子",
+      "title": "代官山 蔦屋書店 文学コンシェルジュ",
+      "tags": [
+        "選書家"
+      ],
+      "noPage": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "sugie1",
+      "type": "article",
+      "media": "クロワッサン オンライン",
+      "title": "杉江松恋さんが薦める、北欧ミステリの３作品。",
+      "url": "https://croissant-online.jp/life/110000/",
+      "publishedAt": "2020-01-19"
+    },
+    {
+      "id": "morita1",
+      "type": "article",
+      "media": "クロワッサン オンライン",
+      "title": "自分を構成する本を並べて自己表現——森田紗都姫さんの個性あふれる本棚",
+      "url": "https://croissant-online.jp/life/240617/",
+      "publishedAt": "2025-03-29"
+    },
+    {
+      "id": "meisaku_world",
+      "type": "interview",
+      "media": "クロワッサン オンライン",
+      "title": "名作はなぜこんなに面白いのか——時を超え読み継がれる理由「世界文学」編",
+      "url": "https://croissant-online.jp/life/240351/",
+      "publishedAt": "2025-03-16"
+    },
+    {
+      "id": "mamuro1",
+      "type": "interview",
+      "media": "クロワッサン オンライン",
+      "title": "作家志望のお笑い芸人・斉藤紳士さんと元祖カリスマ書店員の間室道子さんによる「極上の読書案内」。",
+      "url": "https://croissant-online.jp/life/229830/",
+      "publishedAt": "2024-12-24"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "sugie",
+      "sourceId": "sugie1",
+      "book": {
+        "title": "湿地",
+        "author": "アーナルデュル・インドリダソン",
+        "publisher": "創元推理文庫",
+        "edition": "創元推理文庫 柳沢由実子訳"
+      }
+    },
+    {
+      "personId": "sugie",
+      "sourceId": "sugie1",
+      "book": {
+        "title": "地下道の少女",
+        "author": "アンデシュ・ルースルンド&ベリエ・ヘルストレム",
+        "publisher": "ハヤカワ文庫",
+        "edition": "ハヤカワ文庫 ヘレンハルメ美穂訳"
+      }
+    },
+    {
+      "personId": "sugie",
+      "sourceId": "sugie1",
+      "book": {
+        "title": "1793",
+        "author": "ニクラス・ナット・オ・ダーグ",
+        "publisher": "小学館",
+        "edition": "ヘレンハルメ美穂訳"
+      }
+    },
+    {
+      "personId": "morita",
+      "sourceId": "morita1",
+      "book": {
+        "title": "魂のいちばんおいしいところ",
+        "author": "谷川俊太郎"
+      }
+    },
+    {
+      "personId": "morita",
+      "sourceId": "morita1",
+      "book": {
+        "title": "センス・オブ・ワンダー",
+        "author": "レイチェル・カーソン",
+        "edition": "新訳版 森田真生訳（旧訳は上遠恵子訳）"
+      }
+    },
+    {
+      "personId": "ooka",
+      "sourceId": "meisaku_world",
+      "book": {
+        "title": "風と共に去りぬ",
+        "author": "マーガレット・ミッチェル",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 荒このみ訳 全6冊"
+      }
+    },
+    {
+      "personId": "ooka",
+      "sourceId": "meisaku_world",
+      "book": {
+        "title": "高慢と偏見 上",
+        "author": "ジェイン・オースティン",
+        "publisher": "ちくま文庫",
+        "edition": "ちくま文庫 中野康司訳"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "meisaku_world",
+      "book": {
+        "title": "高慢と偏見 上",
+        "author": "ジェイン・オースティン",
+        "publisher": "ちくま文庫",
+        "edition": "ちくま文庫 中野康司訳"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "meisaku_world",
+      "book": {
+        "title": "嵐が丘 上",
+        "author": "エミリー・ブロンテ",
+        "publisher": "光文社古典新訳文庫",
+        "edition": "光文社古典新訳文庫 小野寺健訳"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "タイタンの妖女",
+        "author": "カート・ヴォネガット"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "アメリカン・スクール",
+        "author": "小島信夫",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "サラバ！ 上",
+        "author": "西加奈子",
+        "publisher": "小学館文庫",
+        "edition": "小学館文庫 上・中・下巻"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "海の向こうで戦争が始まる",
+        "author": "村上龍",
+        "publisher": "講談社文庫",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "ウホッホ探険隊",
+        "author": "干刈あがた",
+        "publisher": "P+Dブックス 小学館",
+        "edition": "P+Dブックス"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "あひる",
+        "author": "今村夏子",
+        "publisher": "角川文庫",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "mamuro",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "点子ちゃんとアントン",
+        "author": "エーリッヒ・ケストナー"
+      }
+    },
+    {
+      "personId": "mamuro",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "秘太刀馬の骨",
+        "author": "藤沢周平",
+        "publisher": "文春文庫",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "mamuro",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "ざんねんなスパイ",
+        "author": "一條次郎",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "mamuro",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "鈍色幻視行",
+        "author": "恩田陸",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "mamuro",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "掌に眠る舞台",
+        "author": "小川洋子",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "mamuro",
+      "sourceId": "mamuro1",
+      "book": {
+        "title": "黄色い家",
+        "author": "川上未映子",
+        "publisher": "中央公論新社"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://croissant-online.jp/culture/244304",
+      "result": "unreachable",
+      "reason": "404 ページが見つかりません（記事なし）",
+      "person": "山田詠美"
+    }
+  ]
+}
