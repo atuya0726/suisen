@@ -1,0 +1,972 @@
+{
+  "people": [
+    {
+      "id": "inoue",
+      "name": "井上充幸",
+      "title": "立命館大学 文学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "ka",
+      "name": "夏剛",
+      "title": "立命館大学 国際関係学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "kamon",
+      "name": "嘉門優",
+      "title": "立命館大学 法学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "kawamura",
+      "name": "川村健一郎",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "konok",
+      "name": "河野恵一",
+      "title": "立命館大学 法学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "matsuot",
+      "name": "松尾剛",
+      "title": "立命館大学 法学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_inoue",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 井上充幸先生（文学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/inoue/"
+    },
+    {
+      "id": "s_ka",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 夏剛先生（国際関係学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ka/",
+      "publishedAt": "2016-12-01"
+    },
+    {
+      "id": "s_kamon",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 嘉門優先生（法学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kamon/"
+    },
+    {
+      "id": "s_kawamura",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 川村健一郎先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kawamura/"
+    },
+    {
+      "id": "s_konok",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 河野恵一先生（法学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/konok/"
+    },
+    {
+      "id": "s_matsuot",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 松尾剛先生（法学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/matsuot/"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "明末清初",
+        "author": "福本雅一",
+        "publisher": "同朋舎出版",
+        "edition": "同朋舎出版 1984-1993年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "明清交替と江南社会",
+        "author": "岸本美緒",
+        "publisher": "東京大学出版会",
+        "subtitle": "17世紀中国の秩序問題",
+        "edition": "東京大学出版会 1999年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "「清朝考証学」とその時代",
+        "author": "木下鉄矢",
+        "publisher": "創文社",
+        "subtitle": "清代の思想",
+        "edition": "創文社 1996年 中国学芸叢書"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "中国近世の霊魂泥棒",
+        "author": "フィリップ・A・キューン",
+        "publisher": "平凡社",
+        "edition": "平凡社 1996年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "近代中国史",
+        "author": "岡本隆司",
+        "publisher": "ちくま新書",
+        "edition": "ちくま新書 2013年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "シルクロードの水と緑はどこへ消えたか?",
+        "author": "日髙敏隆, 中尾正義 編",
+        "publisher": "昭和堂",
+        "edition": "昭和堂 2006年 地球研叢書"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "地球環境学と歴史学",
+        "author": "中尾正義",
+        "publisher": "山川出版社",
+        "subtitle": "シルクロード、カラ=ホト遺跡共同調査プロジェクト体験記",
+        "edition": "山川出版社 2015年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "鬼趣談義",
+        "author": "澤田瑞穂",
+        "publisher": "中公文庫",
+        "subtitle": "中国幽鬼の世界",
+        "edition": "中公文庫 1998年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "華国風味",
+        "author": "青木正児",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1984年"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "キリン伝来考",
+        "author": "ベルトルト・ラウファー",
+        "publisher": "博品社",
+        "edition": "博品社 1992年 Documenta historiae naturalium"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "スキタイの子羊",
+        "author": "ヘンリー・リー, ベルトルト・ラウファー",
+        "publisher": "博品社",
+        "edition": "博品社 1996年 Documenta historiae naturalium"
+      }
+    },
+    {
+      "personId": "inoue",
+      "sourceId": "s_inoue",
+      "book": {
+        "title": "久生十蘭短篇選",
+        "author": "久生十蘭",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 2009年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "中国の思想",
+        "author": "竹内実",
+        "publisher": "日本放送出版協会",
+        "subtitle": "伝統と現代",
+        "edition": "日本放送出版協会 1999年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "中国人の生活風景",
+        "author": "内山完造",
+        "publisher": "東方書店",
+        "subtitle": "内山完造漫語",
+        "edition": "東方書店 1979年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "中国人と日本人",
+        "author": "邱永漢",
+        "publisher": "中央公論社",
+        "edition": "中央公論社 1996年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "紅の党",
+        "author": "朝日新聞社中国総局",
+        "publisher": "朝日新聞出版",
+        "edition": "朝日新聞出版 2013年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "『大地の子』と私",
+        "author": "山崎豊子",
+        "publisher": "文藝春秋",
+        "edition": "文藝春秋 1999年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "不実な美女か貞淑な醜女(ブス)か",
+        "author": "米原万里",
+        "publisher": "新潮社",
+        "edition": "新潮社 1998年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "辞書になった男",
+        "author": "佐々木健一",
+        "publisher": "文藝春秋",
+        "subtitle": "ケンボー先生と山田先生",
+        "edition": "文藝春秋 2014年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "風土",
+        "author": "和辻哲郎",
+        "publisher": "岩波書店",
+        "subtitle": "人間学的考察",
+        "edition": "岩波書店 2010年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "「縮み」志向の日本人",
+        "author": "李御寧",
+        "publisher": "講談社",
+        "edition": "講談社 2007年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "菊と刀",
+        "author": "ルース・ベネディクト",
+        "publisher": "講談社",
+        "subtitle": "日本文化の型",
+        "edition": "講談社 2005年"
+      }
+    },
+    {
+      "personId": "ka",
+      "sourceId": "s_ka",
+      "book": {
+        "title": "点と線",
+        "author": "松本清張",
+        "publisher": "文藝春秋",
+        "edition": "文藝春秋 2009年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "犯罪と刑罰",
+        "author": "ベッカリーア",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1959年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "罪と罰",
+        "author": "ドストエフスキー",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1999年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "疾風怒濤一法律家の生涯",
+        "author": "佐伯千仭 語り手",
+        "publisher": "成文堂",
+        "subtitle": "佐伯千仭先生に聞く",
+        "edition": "成文堂 2011年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "定刻主義者の歩み",
+        "author": "中山研一",
+        "publisher": "成文堂",
+        "edition": "成文堂 2007年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "反骨のコツ",
+        "author": "團藤重光",
+        "publisher": "朝日新書",
+        "edition": "朝日新書 2007年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "法窓夜話",
+        "author": "穂積陳重",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1980年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "チャタレイ夫人の恋人",
+        "author": "ロレンス",
+        "publisher": "新潮文庫",
+        "subtitle": "完訳",
+        "edition": "新潮文庫 1996年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "1984年",
+        "author": "ジョージ・オーウェル",
+        "publisher": "ハヤカワ文庫",
+        "edition": "ハヤカワ文庫 1972年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "獄窓記",
+        "author": "山本譲司",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫 2008年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "刑務所の風景",
+        "author": "浜井浩一 編著",
+        "publisher": "日本評論社",
+        "subtitle": "社会を見つめる刑務所モノグラフ",
+        "edition": "日本評論社 2006年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "自白の心理学",
+        "author": "浜田寿美男",
+        "publisher": "岩波新書",
+        "edition": "岩波新書 2001年"
+      }
+    },
+    {
+      "personId": "kamon",
+      "sourceId": "s_kamon",
+      "book": {
+        "title": "それでもボクはやってない",
+        "author": "周防正行",
+        "publisher": "幻冬舎",
+        "subtitle": "日本の刑事裁判、まだまだ疑問あり!",
+        "edition": "幻冬舎 2007年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "アヴァンギャルド芸術",
+        "author": "花田清輝",
+        "publisher": "講談社文芸文庫",
+        "edition": "講談社文芸文庫 1994年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "映像の発見",
+        "author": "松本俊夫",
+        "publisher": "清流出版",
+        "subtitle": "アヴァンギャルドとドキュメンタリー",
+        "edition": "清流出版 2005年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "体験的戦後映像論",
+        "author": "大島渚",
+        "publisher": "朝日新聞社",
+        "edition": "朝日新聞社 1975年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "ドキュメンタリーの海へ",
+        "author": "土本典昭, 石坂健治",
+        "publisher": "現代書館",
+        "subtitle": "記録映画作家・土本典昭との対話",
+        "edition": "現代書館 2008年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "黒沢清の映画術",
+        "author": "黒沢清",
+        "publisher": "新潮社",
+        "edition": "新潮社 2006年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "昭和の劇",
+        "author": "笠原和夫, 荒井晴彦, スガ秀実",
+        "publisher": "太田出版",
+        "subtitle": "映画脚本家笠原和夫",
+        "edition": "太田出版 2002年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "成瀬巳喜男の設計",
+        "author": "中古智, 蓮実重彦",
+        "publisher": "筑摩書房",
+        "subtitle": "美術監督は回想する",
+        "edition": "筑摩書房 1990年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "物語・日本人の占領",
+        "author": "津野海太郎",
+        "publisher": "朝日新聞社",
+        "edition": "朝日新聞社 1985年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "戦時下の日本映画",
+        "author": "古川隆久",
+        "publisher": "吉川弘文館",
+        "subtitle": "人々は国策映画を観たか",
+        "edition": "吉川弘文館 2003年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "ドキュメンタリー映画の地平",
+        "author": "佐藤真",
+        "publisher": "凱風社",
+        "subtitle": "世界を批判的に受けとめるために",
+        "edition": "凱風社 2001年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "日活アクションの華麗な世界",
+        "author": "渡辺武信",
+        "publisher": "未來社",
+        "subtitle": "1954-1971",
+        "edition": "未來社 2004年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "ホラー映画の魅力",
+        "author": "小中千昭",
+        "publisher": "岩波書店",
+        "subtitle": "ファンダメンタル・ホラー宣言",
+        "edition": "岩波書店 2003年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "芸術経営学講座",
+        "author": "松本正道 編",
+        "publisher": "東海大学出版会",
+        "subtitle": "4 映像編",
+        "edition": "東海大学出版会 1994年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "マンハッタンのKUROSAWA",
+        "author": "平野共余子",
+        "publisher": "清流出版",
+        "subtitle": "英語の字幕版はありますか?",
+        "edition": "清流出版 2006年"
+      }
+    },
+    {
+      "personId": "kawamura",
+      "sourceId": "s_kawamura",
+      "book": {
+        "title": "映画館 (ミニシアター) のつくり方",
+        "author": "奥田瑛二 ほか",
+        "publisher": "AC Books",
+        "edition": "AC Books 2010年"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "歴史学ってなんだ？",
+        "author": "小田中直樹",
+        "publisher": "PHP研究所",
+        "edition": "PHP研究所 2004年 PHP新書 286"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "徳政令",
+        "author": "笠松宏至",
+        "publisher": "岩波書店",
+        "subtitle": "中世の法と慣習",
+        "edition": "岩波書店 1983年 岩波新書 黄-218"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "喧嘩両成敗の誕生",
+        "author": "清水克行",
+        "publisher": "講談社",
+        "edition": "講談社 2006年 講談社選書メチエ 353"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "日本人と裁判",
+        "author": "川嶋四郎",
+        "publisher": "法律文化社",
+        "subtitle": "歴史の中の庶民と司法",
+        "edition": "法律文化社 2010年"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "新編江戸時代漫筆 上",
+        "author": "石井良助",
+        "publisher": "朝日新聞社",
+        "edition": "朝日新聞社 1979年 朝日選書 130-131"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "近世の非合法的訴訟",
+        "author": "大平祐一",
+        "publisher": "創文社",
+        "edition": "創文社 2011年"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "決闘裁判",
+        "author": "山内進",
+        "publisher": "講談社",
+        "subtitle": "ヨーロッパ法精神の原風景",
+        "edition": "講談社 2000年 講談社現代新書 1516"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "暴力",
+        "author": "山内進, 加藤博, 新田一郎 編",
+        "publisher": "東京大学出版会",
+        "subtitle": "比較文明史的考察",
+        "edition": "東京大学出版会 2005年"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "復讐と法律",
+        "author": "穂積陳重",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1982年 岩波文庫 青33-147-3"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "タテ社会の人間関係",
+        "author": "中根千枝",
+        "publisher": "講談社",
+        "edition": "講談社 1967年 講談社現代新書 105"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "日本人の法意識",
+        "author": "川島武宜",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1967年 岩波新書 青版 630"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "日本人論に関する12章",
+        "author": "杉本良夫, ロス・マオア 編著",
+        "publisher": "学陽書房",
+        "subtitle": "通説に異議あり",
+        "edition": "学陽書房 1982年"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "紛争の心理学",
+        "author": "A.ミンデル",
+        "publisher": "講談社",
+        "subtitle": "融合の炎のワーク",
+        "edition": "講談社 2001年 講談社現代新書 1570"
+      }
+    },
+    {
+      "personId": "konok",
+      "sourceId": "s_konok",
+      "book": {
+        "title": "大学論",
+        "author": "阿部謹也",
+        "publisher": "日本エディタースクール出版部",
+        "edition": "日本エディタースクール出版部 1999年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "マノン・レスコー",
+        "author": "アベ・プレヴォ",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 2007年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "カンディード",
+        "author": "ヴォルテール",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 2005年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "危険な関係",
+        "author": "ラクロ",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1965年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "閨房哲学",
+        "author": "マルキ・ド・サド",
+        "publisher": "河出文庫",
+        "edition": "河出文庫 1992年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "アドルフ",
+        "author": "コンスタン",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 2010年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "赤と黒",
+        "author": "スタンダール",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1958年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "シャンパヴェール悖徳物語",
+        "author": "ペトリュス・ボレル",
+        "publisher": "国書刊行会",
+        "edition": "国書刊行会 1980年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "従姉ベット",
+        "author": "バルザック",
+        "publisher": "藤原書店",
+        "subtitle": "好色一代記",
+        "edition": "藤原書店 2001年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "悪魔のような女たち",
+        "author": "バルベー・ドールヴィイ",
+        "publisher": "ちくま文庫",
+        "edition": "ちくま文庫 2005年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "金（かね）",
+        "author": "ゾラ",
+        "publisher": "藤原書店",
+        "edition": "藤原書店 2003年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "肉体の悪魔",
+        "author": "ラディゲ",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫 2004年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "テレーズ・デスケルウ",
+        "author": "モーリアック",
+        "publisher": "講談社文芸文庫",
+        "edition": "講談社文芸文庫 1997年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "夜の果てへの旅",
+        "author": "L=F・セリーヌ",
+        "publisher": "国書刊行会",
+        "edition": "国書刊行会 1985年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "工場日記",
+        "author": "ヴェイユ",
+        "publisher": "講談社学術文庫",
+        "edition": "講談社学術文庫 1986年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "奇妙な廃墟",
+        "author": "福田和也",
+        "publisher": "国書刊行会",
+        "edition": "国書刊行会 1989年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "異邦人",
+        "author": "カミュ",
+        "publisher": "新潮文庫",
+        "edition": "新潮文庫 1995年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "眼球譚",
+        "author": "バタイユ",
+        "publisher": "河出文庫",
+        "edition": "河出文庫 2003年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "ブレストの乱暴者",
+        "author": "ジャン・ジュネ",
+        "publisher": "河出文庫",
+        "edition": "河出文庫 2002年"
+      }
+    },
+    {
+      "personId": "matsuot",
+      "sourceId": "s_matsuot",
+      "book": {
+        "title": "悪童日記",
+        "author": "アゴタ・クリストフ",
+        "publisher": "ハヤカワepi文庫",
+        "edition": "ハヤカワepi文庫 2001年"
+      }
+    }
+  ],
+  "checkedUrls": []
+}

@@ -1,0 +1,660 @@
+{
+  "people": [
+    {
+      "id": "tanihara",
+      "name": "谷原章介",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s12222009",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】「言語化しづらい」ことを、じつに丁寧に描く漫画家・高野文子さんの世界",
+      "url": "https://book.asahi.com/article/12222009",
+      "publishedAt": "2019-03-22"
+    },
+    {
+      "id": "s12319610",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】体をすべて脳が制御していると思ったら大間違い　エムラン・メイヤー『腸と脳』に学ぶ",
+      "url": "https://book.asahi.com/article/12319610",
+      "publishedAt": "2019-04-26"
+    },
+    {
+      "id": "s12469219",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】嗤いながら不幸の種をまくヒロインに魅了される、中山七里『ふたたび嗤う淑女』",
+      "url": "https://book.asahi.com/article/12469219",
+      "publishedAt": "2019-06-21"
+    },
+    {
+      "id": "s12566573",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】思うがままに想像世界へ、池波正太郎『江戸前 通の歳時記』",
+      "url": "https://book.asahi.com/article/12566573",
+      "publishedAt": "2019-07-26"
+    },
+    {
+      "id": "s12642584",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】世界中のＳＦ作品に芽吹く種　『ブレードランナー証言録』",
+      "url": "https://book.asahi.com/article/12642584",
+      "publishedAt": "2019-08-23"
+    },
+    {
+      "id": "s12737489",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】言い表しがたい読後感が胸に渦巻く、桜木紫乃『ラブレス』",
+      "url": "https://book.asahi.com/article/12737489",
+      "publishedAt": "2019-09-27"
+    },
+    {
+      "id": "s12813797",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】アラスカの息づかいを感じるエッセー集　星野道夫『旅をする木』",
+      "url": "https://book.asahi.com/article/12813797",
+      "publishedAt": "2019-10-25"
+    },
+    {
+      "id": "s12889235",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】しずちゃんが描く鬼コーチと世界を目指した日々、山崎静代『このおに』",
+      "url": "https://book.asahi.com/article/12889235",
+      "publishedAt": "2019-11-22"
+    },
+    {
+      "id": "s12984661",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】東大生らによる性的暴行事件をモチーフとした小説、姫野カオルコ『彼女は頭が悪いから』",
+      "url": "https://book.asahi.com/article/12984661",
+      "publishedAt": "2019-12-27"
+    },
+    {
+      "id": "s13049373",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】石田三成を現代的な視点で新たに描き出す時代小説、今村翔吾『八本目の槍』",
+      "url": "https://book.asahi.com/article/13049373",
+      "publishedAt": "2020-01-24"
+    },
+    {
+      "id": "s13124597",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】ジャズが結んだ友情が織りなす青春マンガ　小玉ユキ『坂道のアポロン』",
+      "url": "https://book.asahi.com/article/13124597",
+      "publishedAt": "2020-02-21"
+    },
+    {
+      "id": "s13233518",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】キッチンガーデンと共に愉しく暮らす　つばた英子/つばたしゅういち『きのう、きょう、あした。』",
+      "url": "https://book.asahi.com/article/13233518",
+      "publishedAt": "2020-03-27"
+    },
+    {
+      "id": "s13312817",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】息苦しい時代を生き抜く極意がつまったエッセー集　北方謙三『生きるための辞書 十字路が見える』",
+      "url": "https://book.asahi.com/article/13312817",
+      "publishedAt": "2020-04-24"
+    },
+    {
+      "id": "s13459131",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】キキの成長していく姿にこころを解かされる　角野栄子『魔女の宅急便』",
+      "url": "https://book.asahi.com/article/13459131",
+      "publishedAt": "2020-06-26"
+    },
+    {
+      "id": "s13553018",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】家族や故郷、大切な仲間への思いがこもった自伝エッセイ　さだまさし『さだの辞書』",
+      "url": "https://book.asahi.com/article/13553018",
+      "publishedAt": "2020-07-24"
+    },
+    {
+      "id": "s13635559",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】すべての料理の基本を「図形」で論理的に解明　玉村豊男『料理の四面体』",
+      "url": "https://book.asahi.com/article/13635559",
+      "publishedAt": "2020-08-21"
+    },
+    {
+      "id": "s13729716",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】未知の暗闇世界を相棒の犬とひたすら歩く命がけの探検記　角幡唯介『極夜行』",
+      "url": "https://book.asahi.com/article/13729716",
+      "publishedAt": "2020-09-25"
+    },
+    {
+      "id": "s13816973",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】闘病中の最愛の人に紡いだ短編と結婚生活を振り返ったエッセイを収録　眉村卓『妻に捧げた1778話』",
+      "url": "https://book.asahi.com/article/13816973",
+      "publishedAt": "2020-10-23"
+    },
+    {
+      "id": "s13937611",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】人見知りの小説家と両親を亡くした姪、年の差20歳の手探り共同生活　ヤマシタトモコ『違国日記』",
+      "url": "https://book.asahi.com/article/13937611",
+      "publishedAt": "2020-11-27"
+    },
+    {
+      "id": "s14010992",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】江戸・浅草で一膳飯屋を営む女性の細腕繁盛記　山本一力『だいこん』",
+      "url": "https://book.asahi.com/article/14010992",
+      "publishedAt": "2020-12-25"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "tanihara",
+      "sourceId": "s12222009",
+      "book": {
+        "title": "ドミトリーともきんす",
+        "author": "高野文子",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12222009",
+      "book": {
+        "title": "おともだち",
+        "author": "高野文子",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12222009",
+      "book": {
+        "title": "絶対安全剃刀",
+        "author": "高野文子",
+        "subtitle": "高野文子作品集",
+        "publisher": "白泉社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12222009",
+      "book": {
+        "title": "るきさん",
+        "author": "高野文子",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12222009",
+      "book": {
+        "title": "棒がいっぽん",
+        "author": "高野文子",
+        "publisher": "マガジンハウス",
+        "edition": "Mag comics"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12319610",
+      "book": {
+        "title": "腸と脳",
+        "author": "エムラン・メイヤー",
+        "subtitle": "体内の会話はいかにあなたの気分や選択や健康を左右するか",
+        "publisher": "紀伊國屋書店"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12319610",
+      "book": {
+        "title": "世界一シンプルで科学的に証明された究極の食事",
+        "author": "津川友介",
+        "publisher": "東洋経済新報社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12469219",
+      "book": {
+        "title": "ふたたび嗤う淑女",
+        "author": "中山七里",
+        "publisher": "実業之日本社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12469219",
+      "book": {
+        "title": "嗤う淑女",
+        "author": "中山七里",
+        "publisher": "実業之日本社",
+        "edition": "実業之日本社文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12566573",
+      "book": {
+        "title": "江戸前 通の歳時記",
+        "author": "池波正太郎",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12566573",
+      "book": {
+        "title": "剣客商売",
+        "author": "池波正太郎",
+        "publisher": "新潮社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12566573",
+      "book": {
+        "title": "鬼平犯科帳",
+        "author": "池波正太郎",
+        "publisher": "文藝春秋",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12642584",
+      "book": {
+        "title": "ブレードランナー証言録",
+        "author": "ハンプトン・ファンチャー他",
+        "publisher": "集英社インターナショナル",
+        "edition": "インターナショナル新書"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12642584",
+      "book": {
+        "title": "アップルシード",
+        "author": "士郎正宗",
+        "publisher": "青心社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12642584",
+      "book": {
+        "title": "攻殻機動隊",
+        "author": "士郎正宗",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12642584",
+      "book": {
+        "title": "風の谷のナウシカ",
+        "author": "宮崎駿",
+        "publisher": "徳間書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12737489",
+      "book": {
+        "title": "ラブレス",
+        "author": "桜木紫乃",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12737489",
+      "book": {
+        "title": "ホテルローヤル",
+        "author": "桜木紫乃",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12737489",
+      "book": {
+        "title": "起終点駅",
+        "author": "桜木紫乃",
+        "subtitle": "ターミナル",
+        "publisher": "小学館",
+        "edition": "小学館文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12813797",
+      "book": {
+        "title": "旅をする木",
+        "author": "星野道夫",
+        "publisher": "文芸春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12813797",
+      "book": {
+        "title": "Alaska",
+        "author": "星野道夫",
+        "subtitle": "極北・生命の地図",
+        "publisher": "朝日新聞社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12889235",
+      "book": {
+        "title": "このおに",
+        "author": "山崎静代",
+        "publisher": "岩崎書店"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12889235",
+      "book": {
+        "title": "泣いた赤鬼",
+        "author": "浜田廣介",
+        "publisher": "偕成社",
+        "edition": "ひろすけ絵本"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s12984661",
+      "book": {
+        "title": "彼女は頭が悪いから",
+        "author": "姫野カオルコ",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13049373",
+      "book": {
+        "title": "八本目の槍",
+        "author": "今村翔吾",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13049373",
+      "book": {
+        "title": "影武者徳川家康 上",
+        "author": "隆慶一郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13124597",
+      "book": {
+        "title": "坂道のアポロン",
+        "author": "小玉ユキ",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13233518",
+      "book": {
+        "title": "きのう、きょう、あした。",
+        "author": "つばた英子/つばたしゅういち",
+        "subtitle": "「あしたも、こはるびより。」あとみよそわか。",
+        "publisher": "主婦と生活社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13233518",
+      "book": {
+        "title": "ターシャの家",
+        "author": "ターシャ・テューダー",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13233518",
+      "book": {
+        "title": "ターシャの庭づくり",
+        "author": "ターシャ・テューダー",
+        "publisher": "メディアファクトリー"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13312817",
+      "book": {
+        "title": "生きるための辞書",
+        "author": "北方謙三",
+        "subtitle": "十字路が見える",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13312817",
+      "book": {
+        "title": "試みの地平線",
+        "author": "北方謙三",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13312817",
+      "book": {
+        "title": "水滸伝",
+        "author": "北方謙三",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13459131",
+      "book": {
+        "title": "魔女の宅急便",
+        "author": "角野栄子",
+        "publisher": "福音館書店"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13459131",
+      "book": {
+        "title": "獣の奏者",
+        "author": "上橋菜穂子",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13553018",
+      "book": {
+        "title": "さだの辞書",
+        "author": "さだまさし",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13553018",
+      "book": {
+        "title": "風に立つライオン",
+        "author": "さだまさし",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13635559",
+      "book": {
+        "title": "料理の四面体",
+        "author": "玉村豊男",
+        "publisher": "中央公論新社",
+        "edition": "中公文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13635559",
+      "book": {
+        "title": "料理をおいしくする切り方のひみつ",
+        "author": "脇雅世",
+        "publisher": "NHK出版"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13635559",
+      "book": {
+        "title": "おいしい理由。",
+        "author": "谷昇",
+        "subtitle": "フレンチのきほん、完全レシピ",
+        "publisher": "世界文化社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13729716",
+      "book": {
+        "title": "極夜行",
+        "author": "角幡唯介",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13816973",
+      "book": {
+        "title": "ふたりからひとり",
+        "author": "つばた英子/つばたしゅういち",
+        "subtitle": "ときをためる暮らし それから",
+        "publisher": "自然食通信社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "違国日記",
+        "author": "ヤマシタトモコ",
+        "publisher": "祥伝社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "女の園の星",
+        "author": "和山やま",
+        "publisher": "祥伝社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "夢中さ、きみに。",
+        "author": "和山やま",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "カラオケ行こ！",
+        "author": "和山やま",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "おやすみカラスまた来てね。",
+        "author": "いくえみ綾",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "1日2回",
+        "author": "いくえみ綾",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s13937611",
+      "book": {
+        "title": "私・空・あなた・私",
+        "author": "いくえみ綾",
+        "publisher": "幻冬舎コミックス",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14010992",
+      "book": {
+        "title": "だいこん",
+        "author": "山本一力",
+        "publisher": "光文社",
+        "edition": "光文社文庫"
+      }
+    }
+  ],
+  "checkedUrls": []
+}

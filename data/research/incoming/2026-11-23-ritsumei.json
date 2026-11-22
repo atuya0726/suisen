@@ -1,0 +1,408 @@
+{
+  "people": [
+    {
+      "id": "itaki",
+      "name": "板木雅彦",
+      "title": "立命館大学 国際関係学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "iwatat",
+      "name": "岩田拓夫",
+      "title": "立命館大学 国際関係学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "kakuni",
+      "name": "加國尚志",
+      "title": "立命館大学 文学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "kitamura",
+      "name": "北村順生",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者",
+        "大学"
+      ],
+      "affiliation": "立命館大学"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_itaki",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 板木雅彦先生（国際関係学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/itaki/",
+      "publishedAt": "2017-09-01"
+    },
+    {
+      "id": "s_iwatat",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 岩田拓夫先生（国際関係学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/iwatat/"
+    },
+    {
+      "id": "s_kakuni",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 加國尚志先生（文学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kakuni/",
+      "publishedAt": "2016-12-01"
+    },
+    {
+      "id": "s_kitamura",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 北村順生先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kitamura/",
+      "publishedAt": "2017-09-01"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "itaki",
+      "sourceId": "s_itaki",
+      "book": {
+        "title": "君たちはどう生きるか",
+        "author": "吉野源三郎",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1982年"
+      }
+    },
+    {
+      "personId": "itaki",
+      "sourceId": "s_itaki",
+      "book": {
+        "title": "読書と社会科学",
+        "author": "内田義彦",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1985年"
+      }
+    },
+    {
+      "personId": "itaki",
+      "sourceId": "s_itaki",
+      "book": {
+        "title": "アイデアのつくり方",
+        "author": "ジェームス・W・ヤング",
+        "publisher": "阪急コミュニケーションズ",
+        "edition": "阪急コミュニケーションズ 1988年"
+      }
+    },
+    {
+      "personId": "itaki",
+      "sourceId": "s_itaki",
+      "book": {
+        "title": "バブルの物語",
+        "author": "ジョン・K・ガルブレイス",
+        "publisher": "ダイヤモンド社",
+        "subtitle": "暴落の前に天才がいる",
+        "edition": "ダイヤモンド社 1991年"
+      }
+    },
+    {
+      "personId": "itaki",
+      "sourceId": "s_itaki",
+      "book": {
+        "title": "ライアーズ・ポーカー",
+        "author": "マイケル・ルイス",
+        "publisher": "パンローリング",
+        "edition": "パンローリング 2006年"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "日本人のアフリカ「発見」",
+        "author": "青木澄夫",
+        "publisher": "山川出版社",
+        "edition": "山川出版社 2000年"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "想像の共同体",
+        "author": "ベネディクト・アンダーソン",
+        "publisher": "NTT出版",
+        "subtitle": "ナショナリズムの起源と流行",
+        "edition": "NTT出版 1997年 増補版 ネットワークの社会科学"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "アラーの神にもいわれはない",
+        "author": "アマドゥ・クルマ",
+        "publisher": "人文書院",
+        "subtitle": "ある西アフリカ少年兵の物語",
+        "edition": "人文書院 2003年"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "現代アフリカの紛争と国家",
+        "author": "武内進一",
+        "publisher": "明石書店",
+        "subtitle": "ポストコロニアル家産制国家とルワンダ・ジェノサイド",
+        "edition": "明石書店 2009年"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "三大陸周遊記抄",
+        "author": "イブン・バットゥータ",
+        "publisher": "中公文庫",
+        "edition": "中公文庫 2004年"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "創られた伝統",
+        "author": "E・ホブズボウム, T・レンジャー 編",
+        "publisher": "紀伊國屋書店",
+        "edition": "紀伊國屋書店 1992年 文化人類学叢書"
+      }
+    },
+    {
+      "personId": "iwatat",
+      "sourceId": "s_iwatat",
+      "book": {
+        "title": "南アフリカ",
+        "author": "峯陽一",
+        "publisher": "岩波新書",
+        "subtitle": "「虹の国」への歩み",
+        "edition": "岩波新書 1996年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "眼と精神",
+        "author": "M.メルロ=ポンティ",
+        "publisher": "みすず書房",
+        "edition": "みすず書房 1966年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "過程と実在",
+        "author": "A.N.ホワイトヘッド",
+        "publisher": "みすず書房",
+        "subtitle": "コスモロジーへの試論",
+        "edition": "みすず書房 1981-1983年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "人間的自由の本質",
+        "author": "シェリング",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1975年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "造形思考",
+        "author": "パウル・クレー",
+        "publisher": "筑摩書房",
+        "edition": "筑摩書房 2016年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "変身 ; 断食芸人",
+        "author": "カフカ",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 2004年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "失われた時を求めて",
+        "author": "マルセル・プルースト",
+        "publisher": "筑摩書房",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "孤独な散歩者の夢想",
+        "author": "ルソー",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1960年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "平和の訴え",
+        "author": "エラスムス",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1961年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "古今和歌集",
+        "author": "佐伯梅友 校注",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1981年"
+      }
+    },
+    {
+      "personId": "kakuni",
+      "sourceId": "s_kakuni",
+      "book": {
+        "title": "文語訳新約聖書",
+        "publisher": "岩波書店",
+        "subtitle": "詩篇付",
+        "edition": "岩波書店 2014年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "都市のドラマトゥルギー",
+        "author": "吉見俊哉",
+        "publisher": "弘文堂",
+        "edition": "弘文堂 1987年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "メディア論",
+        "author": "マーシャル・マクルーハン",
+        "publisher": "みすず書房",
+        "subtitle": "人間の拡張の諸相",
+        "edition": "みすず書房 1987年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "風の歌を聴け ; 1973年のピンボール",
+        "author": "村上春樹",
+        "publisher": "講談社",
+        "edition": "講談社 1990年 村上春樹全作品 1979~1989"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "プロテスタンティズムの倫理と資本主義の精神",
+        "author": "マックス・ヴェーバー",
+        "publisher": "岩波文庫",
+        "edition": "岩波文庫 1989年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "ハマータウンの野郎ども",
+        "author": "ポール・ウィリス",
+        "publisher": "ちくま学芸文庫",
+        "edition": "ちくま学芸文庫 1996年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "スローターハウス5",
+        "author": "カート・ヴォネガット・ジュニア",
+        "publisher": "ハヤカワ文庫",
+        "edition": "ハヤカワ文庫 1978年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "深夜特急1",
+        "author": "沢木耕太郎",
+        "publisher": "新潮文庫",
+        "subtitle": "香港・マカオ",
+        "edition": "新潮文庫 1994年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "消費社会の神話と構造",
+        "author": "ジャン・ボードリヤール",
+        "publisher": "紀伊国屋書店",
+        "edition": "紀伊国屋書店 1979年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "ぎりぎり合格への論文マニュアル",
+        "author": "山内志朗",
+        "publisher": "平凡社新書",
+        "edition": "平凡社新書 2001年"
+      }
+    },
+    {
+      "personId": "kitamura",
+      "sourceId": "s_kitamura",
+      "book": {
+        "title": "限界芸術論",
+        "author": "鶴見俊輔",
+        "publisher": "ちくま学芸文庫",
+        "edition": "ちくま学芸文庫 1999年"
+      }
+    }
+  ],
+  "checkedUrls": []
+}

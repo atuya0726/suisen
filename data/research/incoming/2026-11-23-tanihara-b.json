@@ -1,0 +1,469 @@
+{
+  "people": [
+    {
+      "id": "tanihara",
+      "name": "谷原章介",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s14116166",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】宇宙ごみの回収業者として働く主人公の成長譚　幸村誠『プラネテス』",
+      "url": "https://book.asahi.com/article/14116166",
+      "publishedAt": "2021-01-22"
+    },
+    {
+      "id": "s14179604",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】1日100円で何でも預かる不思議なお店が舞台の切ない物語　大山淳子『あずかりやさん』",
+      "url": "https://book.asahi.com/article/14179604",
+      "publishedAt": "2021-02-26"
+    },
+    {
+      "id": "s14279085",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原店長のオススメ】応援したくなる恋！ ギャルと地味男のラブコメ漫画　丸顔めめ『スーパーベイビー』",
+      "url": "https://book.asahi.com/article/14279085",
+      "publishedAt": "2021-03-26"
+    },
+    {
+      "id": "s14333890",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】真山仁「それでも、陽は昇る」　災害大国・日本の「復興」をどう伝えていこう",
+      "url": "https://book.asahi.com/article/14333890",
+      "publishedAt": "2021-04-23"
+    },
+    {
+      "id": "s14377528",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】新型コロナ医療、数字の裏に隠れた最前線のリアル　夏川草介「臨床の砦」",
+      "url": "https://book.asahi.com/article/14377528",
+      "publishedAt": "2021-06-25"
+    },
+    {
+      "id": "s14404982",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】早見和真「あの夏の正解」　コロナ禍で消えた夏の甲子園、目標を失った球児たちを追って",
+      "url": "https://book.asahi.com/article/14404982",
+      "publishedAt": "2021-07-30"
+    },
+    {
+      "id": "s14424500",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】三宅乱丈「pet」　記憶を操作するSF漫画、分断深まる今読んで思う「人の心とは」",
+      "url": "https://book.asahi.com/article/14424500",
+      "publishedAt": "2021-08-27"
+    },
+    {
+      "id": "s14445347",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】池波正太郎「雲霧仁左衛門」　悪に徹し、盗賊の矜持に生きる。日常を忘れタイムスリップ",
+      "url": "https://book.asahi.com/article/14445347",
+      "publishedAt": "2021-09-24"
+    },
+    {
+      "id": "s14487826",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】「嫌われた監督」ドラゴンズ異端の名将・落合博満さんに肉薄して探った真意",
+      "url": "https://book.asahi.com/article/14487826",
+      "publishedAt": "2021-11-26"
+    },
+    {
+      "id": "s14578493",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】古市憲寿「ヒノマル」　「正義」を押しつける怖さ、現在に重なる",
+      "url": "https://book.asahi.com/article/14578493",
+      "publishedAt": "2022-03-25"
+    },
+    {
+      "id": "s14600962",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】真造圭伍「ひらやすみ」　立ち止まっていても「大丈夫」と思える関係性",
+      "url": "https://book.asahi.com/article/14600962",
+      "publishedAt": "2022-04-29"
+    },
+    {
+      "id": "s14629668",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】益田ミリ「ちょっとそこまで旅してみよう」　てらいのない文章の心地良さ",
+      "url": "https://book.asahi.com/article/14629668",
+      "publishedAt": "2022-05-27"
+    },
+    {
+      "id": "s14701801",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】窪美澄「夜に星を放つ」　　「リアルな情景に自分の手をじっと見つめたくなる」",
+      "url": "https://book.asahi.com/article/14701801",
+      "publishedAt": "2022-08-26"
+    },
+    {
+      "id": "s14730315",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】稲盛和夫「生き方」　名経営者の考え方を貫く哲学を感じる",
+      "url": "https://book.asahi.com/article/14730315",
+      "publishedAt": "2022-09-30"
+    },
+    {
+      "id": "s14752460",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】高松美咲「スキップとローファー」　誰にもそっと支える人がいる",
+      "url": "https://book.asahi.com/article/14752460",
+      "publishedAt": "2022-10-28"
+    },
+    {
+      "id": "s14774389",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】りんたろー。「自分を大切にする練習」　葛藤を乗り越えたからこそ気づいた自分のメンテナンスする大切さ",
+      "url": "https://book.asahi.com/article/14774389",
+      "publishedAt": "2022-11-25"
+    },
+    {
+      "id": "s14802126",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】山﨑努「『俳優』の肩ごしに」　演技に正解はない　壁を超えていくための思考に共感",
+      "url": "https://book.asahi.com/article/14802126",
+      "publishedAt": "2022-12-30"
+    },
+    {
+      "id": "s14845368",
+      "type": "article",
+      "media": "好書好日",
+      "title": "【谷原章介店長のオススメ】宇仁田ゆみ「うさぎドロップ」　子どもたちの成長を見守るまなざしを感じる",
+      "url": "https://book.asahi.com/article/14845368",
+      "publishedAt": "2023-02-24"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "tanihara",
+      "sourceId": "s14116166",
+      "book": {
+        "title": "プラネテス",
+        "author": "幸村誠",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14116166",
+      "book": {
+        "title": "ヴィンランド・サガ",
+        "author": "幸村誠",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14179604",
+      "book": {
+        "title": "あずかりやさん",
+        "author": "大山淳子",
+        "publisher": "ポプラ社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14279085",
+      "book": {
+        "title": "スーパーベイビー",
+        "author": "丸顔めめ",
+        "publisher": "芳文社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14279085",
+      "book": {
+        "title": "アオアシ",
+        "author": "小林有吾",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14333890",
+      "book": {
+        "title": "それでも、陽は昇る",
+        "author": "真山仁",
+        "publisher": "祥伝社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14377528",
+      "book": {
+        "title": "臨床の砦",
+        "author": "夏川草介",
+        "publisher": "小学館"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14377528",
+      "book": {
+        "title": "神様のカルテ",
+        "author": "夏川草介",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14404982",
+      "book": {
+        "title": "あの夏の正解",
+        "author": "早見和真",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14424500",
+      "book": {
+        "title": "pet",
+        "author": "三宅乱丈",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14424500",
+      "book": {
+        "title": "イムリ",
+        "author": "三宅乱丈",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14445347",
+      "book": {
+        "title": "雲霧仁左衛門",
+        "author": "池波正太郎",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14487826",
+      "book": {
+        "title": "嫌われた監督",
+        "author": "鈴木忠平",
+        "subtitle": "落合博満は中日をどう変えたのか",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14578493",
+      "book": {
+        "title": "ヒノマル",
+        "author": "古市憲寿",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14600962",
+      "book": {
+        "title": "ひらやすみ",
+        "author": "真造圭伍",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14600962",
+      "book": {
+        "title": "バクちゃん",
+        "author": "増村十七",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14629668",
+      "book": {
+        "title": "ちょっとそこまで旅してみよう",
+        "author": "益田ミリ",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14629668",
+      "book": {
+        "title": "恋をしよう。夢をみよう。旅にでよう。",
+        "author": "角田光代",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14629668",
+      "book": {
+        "title": "すーちゃん",
+        "author": "益田ミリ",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14701801",
+      "book": {
+        "title": "夜に星を放つ",
+        "author": "窪美澄",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14730315",
+      "book": {
+        "title": "生き方",
+        "author": "稲盛和夫",
+        "subtitle": "人間として一番大切なこと",
+        "publisher": "サンマーク出版"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14730315",
+      "book": {
+        "title": "夢を力に",
+        "author": "本田宗一郎",
+        "publisher": "日本経済新聞"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14752460",
+      "book": {
+        "title": "スキップとローファー",
+        "author": "高松美咲",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14752460",
+      "book": {
+        "title": "ながたんと青と",
+        "author": "磯谷友紀",
+        "subtitle": "いちかの料理帖",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14774389",
+      "book": {
+        "title": "自分を大切にする練習",
+        "author": "りんたろー。",
+        "subtitle": "コンプレックスだらけだった僕が変われたすべてのこと",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14774389",
+      "book": {
+        "title": "“正しい”を疑え！",
+        "author": "真山仁",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14802126",
+      "book": {
+        "title": "「俳優」の肩ごしに",
+        "author": "山﨑努",
+        "publisher": "日本経済新聞出版"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14802126",
+      "book": {
+        "title": "俳優のノート",
+        "author": "山﨑努",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14845368",
+      "book": {
+        "title": "うさぎドロップ",
+        "author": "宇仁田ゆみ",
+        "publisher": "祥伝社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14845368",
+      "book": {
+        "title": "よっけ家族",
+        "author": "宇仁田ゆみ",
+        "publisher": "竹書房",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tanihara",
+      "sourceId": "s14845368",
+      "book": {
+        "title": "パラパラデイズ",
+        "author": "宇仁田ゆみ",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://book.asahi.com/article/14354503",
+      "result": "rejected",
+      "reason": "過去の回の5冊を再掲する回。各回の出典で掲載済みのため重ねて載せない",
+      "person": "谷原章介"
+    },
+    {
+      "url": "https://book.asahi.com/article/14467685",
+      "result": "rejected",
+      "reason": "過去の回の5冊を再掲する回。各回の出典で掲載済みのため重ねて載せない",
+      "person": "谷原章介"
+    }
+  ]
+}

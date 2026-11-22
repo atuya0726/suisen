@@ -1,24 +1,6 @@
 {
   "people": [
     {
-      "id": "shimazaki",
-      "name": "島﨑今日子",
-      "title": "ライター",
-      "tags": [
-        "選書家"
-      ],
-      "noPage": true
-    },
-    {
-      "id": "miura",
-      "name": "三浦天紗子",
-      "title": "ライター、ブックカウンセラー",
-      "tags": [
-        "選書家"
-      ],
-      "noPage": true
-    },
-    {
       "id": "ikawa",
       "name": "井川直子",
       "title": "文筆業",
@@ -30,22 +12,6 @@
   ],
   "sources": [
     {
-      "id": "shimazaki1",
-      "type": "article",
-      "media": "クロワッサン オンライン",
-      "title": "島﨑今日子さんが薦める、女の一生の２作品。",
-      "url": "https://croissant-online.jp/life/110010/",
-      "publishedAt": "2020-01-15"
-    },
-    {
-      "id": "miura1",
-      "type": "article",
-      "media": "クロワッサン オンライン",
-      "title": "三浦天紗子さんが薦める、フェミニズム文学の２作品。",
-      "url": "https://croissant-online.jp/life/110020/",
-      "publishedAt": "2020-01-23"
-    },
-    {
       "id": "ikawa1",
       "type": "article",
       "media": "クロワッサン オンライン",
@@ -55,45 +21,6 @@
     }
   ],
   "recommendations": [
-    {
-      "personId": "shimazaki",
-      "sourceId": "shimazaki1",
-      "book": {
-        "title": "狂うひと",
-        "author": "梯久美子",
-        "publisher": "新潮文庫",
-        "edition": "新潮文庫"
-      }
-    },
-    {
-      "personId": "shimazaki",
-      "sourceId": "shimazaki1",
-      "book": {
-        "title": "女優 岡田茉莉子",
-        "author": "岡田茉莉子",
-        "publisher": "文春文庫",
-        "edition": "文春文庫"
-      }
-    },
-    {
-      "personId": "miura",
-      "sourceId": "miura1",
-      "book": {
-        "title": "森があふれる",
-        "author": "彩瀬まる",
-        "publisher": "河出書房新社"
-      }
-    },
-    {
-      "personId": "miura",
-      "sourceId": "miura1",
-      "book": {
-        "title": "三つ編み",
-        "author": "レティシア・コロンバニ",
-        "publisher": "早川書房",
-        "edition": "齋藤可津子訳"
-      }
-    },
     {
       "personId": "ikawa",
       "sourceId": "ikawa1",

@@ -1,0 +1,448 @@
+{
+ "people": [
+  {
+   "id": "tomori",
+   "name": "友利新",
+   "kana": "ともりあらた",
+   "title": "医師",
+   "tags": []
+  },
+  {
+   "id": "yokokawa",
+   "name": "横川正紀",
+   "kana": "よこかわまさき",
+   "title": "ウェルカムグループ代表",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ウェルカムグループ"
+  },
+  {
+   "id": "kikugoro",
+   "name": "八代目尾上菊五郎",
+   "kana": "おのえきくごろう",
+   "title": "歌舞伎俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "kudo",
+   "name": "工藤紀子",
+   "kana": "くどうのりこ",
+   "title": "小児科医・保育士",
+   "tags": []
+  },
+  {
+   "id": "okazaki",
+   "name": "岡崎裕子",
+   "kana": "おかざきゆうこ",
+   "title": "陶芸家",
+   "tags": []
+  },
+  {
+   "id": "ishizaka",
+   "name": "石坂浩二",
+   "kana": "いしざかこうじ",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "suematsu",
+   "name": "末松弥奈子",
+   "kana": "すえまつみなこ",
+   "title": "ジャパンタイムズ会長兼社長",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ジャパンタイムズ"
+  },
+  {
+   "id": "koyama",
+   "name": "小山進",
+   "kana": "こやますすむ",
+   "title": "「パティシエ エス コヤマ」オーナーシェフ",
+   "tags": []
+  },
+  {
+   "id": "mogik",
+   "name": "茂木健一郎",
+   "kana": "もぎけんいちろう",
+   "title": "脳科学者",
+   "tags": [
+    "研究者"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "tomori",
+   "type": "article",
+   "media": "好書好日",
+   "title": "本の一節が未来照らすヒントに　医師・友利新さんが出会った3冊",
+   "url": "https://book.asahi.com/article/16954004",
+   "publishedAt": "2026-10-15"
+  },
+  {
+   "id": "yokokawa",
+   "type": "article",
+   "media": "好書好日",
+   "title": "「DEAN＆DELUCA」運営会社社長 横川正紀さん　自分と向き合った3冊",
+   "url": "https://book.asahi.com/article/16953359",
+   "publishedAt": "2026-10-15"
+  },
+  {
+   "id": "kikugoro",
+   "type": "article",
+   "media": "好書好日",
+   "title": "八代目尾上菊五郎さんが薦める4冊　親子をつなぐ本のパワー",
+   "url": "https://book.asahi.com/article/16953358",
+   "publishedAt": "2026-10-15"
+  },
+  {
+   "id": "kudo",
+   "type": "article",
+   "media": "好書好日",
+   "title": "子どもにオススメの４冊　医師・保育士の工藤紀子さん",
+   "url": "https://book.asahi.com/article/16881038",
+   "publishedAt": "2026-09-17"
+  },
+  {
+   "id": "okazaki",
+   "type": "article",
+   "media": "好書好日",
+   "title": "陶芸家・岡崎裕子さんが薦める3冊　若者たちへ　いま手にとってみてほしい本",
+   "url": "https://book.asahi.com/article/16880774",
+   "publishedAt": "2026-09-17"
+  },
+  {
+   "id": "ishizaka",
+   "type": "article",
+   "media": "好書好日",
+   "title": "俳優の石坂浩二さんが薦める3冊　若者たちへ　いま手にとってみてほしい本",
+   "url": "https://book.asahi.com/article/16878551",
+   "publishedAt": "2026-09-17"
+  },
+  {
+   "id": "suematsu",
+   "type": "article",
+   "media": "好書好日",
+   "title": "ジャパンタイムズ会長兼社長の末松弥奈子さんが薦める３冊　若者たちへ　いま手にとってみてほしい本",
+   "url": "https://book.asahi.com/article/16808464",
+   "publishedAt": "2026-08-20"
+  },
+  {
+   "id": "koyama",
+   "type": "article",
+   "media": "好書好日",
+   "title": "子どもにオススメの４冊　世界的パティシエの小山進さん",
+   "url": "https://book.asahi.com/article/16808698",
+   "publishedAt": "2026-08-20"
+  },
+  {
+   "id": "mogik",
+   "type": "article",
+   "media": "好書好日",
+   "title": "脳科学者の茂木健一郎さんが薦める３冊　若者たちへ　いま手にとってみてほしい本",
+   "url": "https://book.asahi.com/article/16808401",
+   "publishedAt": "2026-08-20"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "tomori",
+   "sourceId": "tomori",
+   "book": {
+    "title": "精神科医Tomyが教える 心の中のネガティブさんと上手につきあう方法",
+    "author": "精神科医Tomy",
+    "publisher": "アチーブメント出版"
+   }
+  },
+  {
+   "personId": "tomori",
+   "sourceId": "tomori",
+   "book": {
+    "title": "世界の一流は「休日」に何をしているのか",
+    "author": "越川慎司",
+    "publisher": "クロスメディア・パブリッシング",
+    "subtitle": "年収が上がる週末の過ごし方"
+   }
+  },
+  {
+   "personId": "tomori",
+   "sourceId": "tomori",
+   "book": {
+    "title": "あした死ぬかもよ?",
+    "author": "ひすいこたろう",
+    "publisher": "ディスカヴァー・トゥエンティワン",
+    "subtitle": "人生最後の日に笑って死ねる27の質問"
+   }
+  },
+  {
+   "personId": "yokokawa",
+   "sourceId": "yokokawa",
+   "book": {
+    "title": "生きるということ",
+    "author": "エーリッヒ・フロム",
+    "publisher": "紀伊國屋書店",
+    "edition": "新装版"
+   }
+  },
+  {
+   "personId": "yokokawa",
+   "sourceId": "yokokawa",
+   "book": {
+    "title": "いのちを呼びさますもの",
+    "author": "稲葉俊郎",
+    "publisher": "アノニマ・スタジオ",
+    "subtitle": "ひとのこころとからだ"
+   }
+  },
+  {
+   "personId": "yokokawa",
+   "sourceId": "yokokawa",
+   "book": {
+    "title": "スローフード宣言",
+    "author": "アリス・ウォータース、ボブ・キャロウ",
+    "publisher": "海士の風",
+    "subtitle": "食べることは生きること"
+   }
+  },
+  {
+   "personId": "kikugoro",
+   "sourceId": "kikugoro",
+   "book": {
+    "title": "宮沢賢治童話集",
+    "author": "宮沢賢治",
+    "publisher": "世界文化社",
+    "edition": "愛蔵版"
+   }
+  },
+  {
+   "personId": "kikugoro",
+   "sourceId": "kikugoro",
+   "book": {
+    "title": "世界でいちばん素敵な文様の教室",
+    "author": "伊藤俊治",
+    "publisher": "三才ブックス"
+   }
+  },
+  {
+   "personId": "kikugoro",
+   "sourceId": "kikugoro",
+   "book": {
+    "title": "14歳からの 文楽のすゝめ",
+    "author": "竹本織太夫",
+    "publisher": "実業之日本社"
+   }
+  },
+  {
+   "personId": "kikugoro",
+   "sourceId": "kikugoro",
+   "book": {
+    "title": "ワンダー",
+    "author": "R・J・パラシオ",
+    "publisher": "ほるぷ出版",
+    "edition": "ソフトカバー版"
+   }
+  },
+  {
+   "personId": "kudo",
+   "sourceId": "kudo",
+   "book": {
+    "title": "できるかな？人体おもしろチャレンジ",
+    "author": "坂井建雄",
+    "publisher": "えほんの杜",
+    "subtitle": "新発見！人間の脳・神経・反射のはなし"
+   }
+  },
+  {
+   "personId": "kudo",
+   "sourceId": "kudo",
+   "book": {
+    "title": "いまの きもちは どんないろ？",
+    "author": "えがしらみちこ",
+    "publisher": "KADOKAWA"
+   }
+  },
+  {
+   "personId": "kudo",
+   "sourceId": "kudo",
+   "book": {
+    "title": "むしばミュータンスのぼうけん",
+    "author": "かこさとし",
+    "publisher": "童心社",
+    "edition": "かこさとし からだの本"
+   }
+  },
+  {
+   "personId": "kudo",
+   "sourceId": "kudo",
+   "book": {
+    "title": "このあと どうしちゃおう",
+    "author": "ヨシタケシンスケ",
+    "publisher": "ブロンズ新社"
+   }
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "okazaki",
+   "book": {
+    "title": "グレープフルーツ・ジュース",
+    "author": "オノ・ヨーコ",
+    "publisher": "講談社",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "okazaki",
+   "book": {
+    "title": "本日は、お日柄もよく",
+    "author": "原田マハ",
+    "publisher": "徳間書店",
+    "edition": "徳間文庫"
+   }
+  },
+  {
+   "personId": "okazaki",
+   "sourceId": "okazaki",
+   "book": {
+    "title": "親の期待に応えなくていい",
+    "author": "鴻上尚史",
+    "publisher": "小学館",
+    "edition": "小学館YouthBooks"
+   }
+  },
+  {
+   "personId": "ishizaka",
+   "sourceId": "ishizaka",
+   "book": {
+    "title": "カフネ",
+    "author": "阿部暁子",
+    "publisher": "講談社"
+   }
+  },
+  {
+   "personId": "ishizaka",
+   "sourceId": "ishizaka",
+   "book": {
+    "title": "バリ山行",
+    "author": "松永K三蔵",
+    "publisher": "講談社"
+   }
+  },
+  {
+   "personId": "ishizaka",
+   "sourceId": "ishizaka",
+   "book": {
+    "title": "人類の祖先に会いに行く",
+    "author": "グイド・バルブイアーニ",
+    "publisher": "河出書房新社",
+    "subtitle": "15人のヒトが伝える進化の物語"
+   }
+  },
+  {
+   "personId": "suematsu",
+   "sourceId": "suematsu",
+   "book": {
+    "title": "わしの眼は十年先が見える",
+    "author": "城山三郎",
+    "publisher": "新潮社",
+    "edition": "新潮文庫",
+    "subtitle": "大原孫三郎の生涯"
+   }
+  },
+  {
+   "personId": "suematsu",
+   "sourceId": "suematsu",
+   "book": {
+    "title": "それでも、日本人は「戦争」を選んだ",
+    "author": "加藤陽子",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "suematsu",
+   "sourceId": "suematsu",
+   "book": {
+    "title": "暗闇から世界が変わる",
+    "author": "志村真介",
+    "publisher": "講談社",
+    "edition": "講談社現代新書",
+    "subtitle": "ダイアログ・イン・ザ・ダーク・ジャパンの挑戦"
+   }
+  },
+  {
+   "personId": "koyama",
+   "sourceId": "koyama",
+   "book": {
+    "title": "おふろやさん",
+    "author": "西村繁男",
+    "publisher": "福音館書店",
+    "edition": "こどものとも絵本"
+   }
+  },
+  {
+   "personId": "koyama",
+   "sourceId": "koyama",
+   "book": {
+    "title": "かさ",
+    "author": "松野正子",
+    "publisher": "福音館書店"
+   }
+  },
+  {
+   "personId": "koyama",
+   "sourceId": "koyama",
+   "book": {
+    "title": "えんにち",
+    "author": "五十嵐豊子",
+    "publisher": "福音館書店"
+   }
+  },
+  {
+   "personId": "koyama",
+   "sourceId": "koyama",
+   "book": {
+    "title": "アライバル",
+    "author": "ショーン・タン",
+    "publisher": "河出書房新社",
+    "edition": "Paperback Edition"
+   }
+  },
+  {
+   "personId": "mogik",
+   "sourceId": "mogik",
+   "book": {
+    "title": "BUTTER",
+    "author": "柚木麻子",
+    "publisher": "河出書房新社",
+    "edition": "河出文庫"
+   }
+  },
+  {
+   "personId": "mogik",
+   "sourceId": "mogik",
+   "book": {
+    "title": "アンナ・カレーニナ 上",
+    "author": "トルストイ",
+    "publisher": "新潮社",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "mogik",
+   "sourceId": "mogik",
+   "book": {
+    "title": "指先から旅をする",
+    "author": "藤田真央",
+    "publisher": "文藝春秋"
+   }
+  }
+ ],
+ "checkedUrls": []
+}

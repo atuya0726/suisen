@@ -1363,15 +1363,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/itaki/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-itaki-6511c0",
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/iwatat/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-iwatat-a852e7",
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ka/",
@@ -1381,9 +1381,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kakuni/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-kakuni-296c13",
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kamon/",
@@ -1399,9 +1399,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kitamura/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-kitamura-d66848",
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kokusai_ins/",
@@ -14195,17 +14195,17 @@
   },
   {
     "url": "https://croissant-online.jp/life/110010/",
-    "result": "candidate",
-    "reason": "島﨑今日子の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
+    "result": "adopted",
+    "reason": "sources.json の shimazaki1",
     "person": "島﨑今日子",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://croissant-online.jp/life/110020/",
-    "result": "candidate",
-    "reason": "三浦天紗子の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
+    "result": "adopted",
+    "reason": "sources.json の miura1",
     "person": "三浦天紗子",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://croissant-online.jp/life/110027/",
@@ -21653,10 +21653,10 @@
   },
   {
     "url": "https://book.asahi.com/article/14487826",
-    "result": "candidate",
-    "reason": "谷原書店 2021-11 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14487826",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14467685",
@@ -21667,94 +21667,94 @@
   },
   {
     "url": "https://book.asahi.com/article/14445347",
-    "result": "candidate",
-    "reason": "谷原書店 2021-09 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14445347",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14845368",
-    "result": "candidate",
-    "reason": "谷原書店 2023-02 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14845368",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14802126",
-    "result": "candidate",
-    "reason": "谷原書店 2022-12 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14802126",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14774389",
-    "result": "candidate",
-    "reason": "谷原書店 2022-11 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14774389",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14752460",
-    "result": "candidate",
-    "reason": "谷原書店 2022-10 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14752460",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14730315",
-    "result": "candidate",
-    "reason": "谷原書店 2022-09 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14730315",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14701801",
-    "result": "candidate",
-    "reason": "谷原書店 2022-08 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14701801",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14629668",
-    "result": "candidate",
-    "reason": "谷原書店 2022-05 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14629668",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14600962",
-    "result": "candidate",
-    "reason": "谷原書店 2022-04 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14600962",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14578493",
-    "result": "candidate",
-    "reason": "谷原書店 2022-03 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14578493",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14424500",
-    "result": "candidate",
-    "reason": "谷原書店 2021-08 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14424500",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14404982",
-    "result": "candidate",
-    "reason": "谷原書店 2021-07 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14404982",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14377528",
-    "result": "candidate",
-    "reason": "谷原書店 2021-06 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14377528",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14354503",
@@ -21765,171 +21765,171 @@
   },
   {
     "url": "https://book.asahi.com/article/14333890",
-    "result": "candidate",
-    "reason": "谷原書店 2021-04 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14333890",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14279085",
-    "result": "candidate",
-    "reason": "谷原書店 2021-03 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14279085",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14179604",
-    "result": "candidate",
-    "reason": "谷原書店 2021-02 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14179604",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14116166",
-    "result": "candidate",
-    "reason": "谷原書店 2021-01 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14116166",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14010992",
-    "result": "candidate",
-    "reason": "谷原書店 2020-12 未読",
+    "result": "adopted",
+    "reason": "sources.json の s14010992",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13937611",
-    "result": "candidate",
-    "reason": "谷原書店 2020-11 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13937611",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13816973",
-    "result": "candidate",
-    "reason": "谷原書店 2020-10 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13816973",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13729716",
-    "result": "candidate",
-    "reason": "谷原書店 2020-09 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13729716",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13635559",
-    "result": "candidate",
-    "reason": "谷原書店 2020-08 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13635559",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13553018",
-    "result": "candidate",
-    "reason": "谷原書店 2020-07 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13553018",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13459131",
-    "result": "candidate",
-    "reason": "谷原書店 2020-06 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13459131",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13312817",
-    "result": "candidate",
-    "reason": "谷原書店 2020-04 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13312817",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13233518",
-    "result": "candidate",
-    "reason": "谷原書店 2020-03 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13233518",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13124597",
-    "result": "candidate",
-    "reason": "谷原書店 2020-02 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13124597",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/13049373",
-    "result": "candidate",
-    "reason": "谷原書店 2020-01 未読",
+    "result": "adopted",
+    "reason": "sources.json の s13049373",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12984661",
-    "result": "candidate",
-    "reason": "谷原書店 2019-12 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12984661",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12889235",
-    "result": "candidate",
-    "reason": "谷原書店 2019-11 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12889235",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12813797",
-    "result": "candidate",
-    "reason": "谷原書店 2019-10 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12813797",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12737489",
-    "result": "candidate",
-    "reason": "谷原書店 2019-09 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12737489",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12642584",
-    "result": "candidate",
-    "reason": "谷原書店 2019-08 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12642584",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12566573",
-    "result": "candidate",
-    "reason": "谷原書店 2019-07 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12566573",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12469219",
-    "result": "candidate",
-    "reason": "谷原書店 2019-06 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12469219",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12319610",
-    "result": "candidate",
-    "reason": "谷原書店 2019-04 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12319610",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/12222009",
-    "result": "candidate",
-    "reason": "谷原書店 2019-03 未読",
+    "result": "adopted",
+    "reason": "sources.json の s12222009",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://jp.toto.com/publishing/detail/A0009_02.html",
@@ -21981,5 +21981,59 @@
     "result": "rejected",
     "reason": "ページが存在しない（タイトル『このページは存在しません』）。探し回らず終了",
     "checkedAt": "2026-11-22"
+  },
+  {
+    "url": "https://book.asahi.com/article/16880774",
+    "result": "adopted",
+    "reason": "sources.json の okazaki",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16953359",
+    "result": "adopted",
+    "reason": "sources.json の yokokawa",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16808464",
+    "result": "adopted",
+    "reason": "sources.json の suematsu",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16953358",
+    "result": "adopted",
+    "reason": "sources.json の kikugoro",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16954004",
+    "result": "adopted",
+    "reason": "sources.json の tomori",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16808698",
+    "result": "adopted",
+    "reason": "sources.json の koyama",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16808401",
+    "result": "adopted",
+    "reason": "sources.json の mogik",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16881038",
+    "result": "adopted",
+    "reason": "sources.json の kudo",
+    "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://book.asahi.com/article/16878551",
+    "result": "adopted",
+    "reason": "sources.json の ishizaka",
+    "checkedAt": "2026-11-23"
   }
 ]
