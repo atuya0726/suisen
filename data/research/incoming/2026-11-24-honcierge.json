@@ -1,0 +1,708 @@
+{
+ "people": [
+  {
+   "id": "nishikawa",
+   "name": "西川あやの",
+   "title": "文化放送アナウンサー",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yuki",
+   "name": "結城洋平",
+   "title": "役者",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yamamoto",
+   "name": "山本裕子",
+   "title": "俳優（劇団・青年団所属）",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s11490",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#1】文化放送アナウンサー西川あやのの読書コラム",
+   "url": "https://honcierge.jp/articles/shelf_story/11490",
+   "publishedAt": "2022-07-10"
+  },
+  {
+   "id": "s11611",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#5】文化放送アナウンサー西川あやのの読書コラム／唯ぼんやりとした不安を熱燗で流す年末",
+   "url": "https://honcierge.jp/articles/shelf_story/11611",
+   "publishedAt": "2022-12-10"
+  },
+  {
+   "id": "s11625",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#6】文化放送アナウンサー西川あやのの読書コラム／そして、今日も課題に取り組んでいる",
+   "url": "https://honcierge.jp/articles/shelf_story/11625",
+   "publishedAt": "2023-01-17"
+  },
+  {
+   "id": "s11644",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#7】文化放送アナウンサー西川あやのの読書コラム／今世が無理なら、来世で「おじさん」になりたい",
+   "url": "https://honcierge.jp/articles/shelf_story/11644",
+   "publishedAt": "2023-02-10"
+  },
+  {
+   "id": "s11662",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#8】文化放送アナウンサー西川あやのの読書コラム／落語とジャンプから学んだことで日常を生きる①",
+   "url": "https://honcierge.jp/articles/shelf_story/11662",
+   "publishedAt": "2023-03-10"
+  },
+  {
+   "id": "s11688",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "【#9】文化放送アナウンサー西川あやのの読書コラム／落語とジャンプから学んだことで日常を生きる②",
+   "url": "https://honcierge.jp/articles/shelf_story/11688",
+   "publishedAt": "2023-04-26"
+  },
+  {
+   "id": "s6764",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「もやもやしたら、自分の中の耽美と向き合う」",
+   "url": "https://honcierge.jp/articles/shelf_story/6764",
+   "publishedAt": "2018-10-01"
+  },
+  {
+   "id": "s8154",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "幸福とは呼べない幸せに、胸がギュッとなる【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/8154",
+   "publishedAt": "2019-09-05"
+  },
+  {
+   "id": "s7962",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "みんな答えを知っていた【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/7962",
+   "publishedAt": "2019-07-02"
+  },
+  {
+   "id": "s5584",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "家族のカタチ、夫婦のかたち【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/5584",
+   "publishedAt": "2018-02-20"
+  },
+  {
+   "id": "s5367",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "電子書籍童貞からの卒業【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/5367",
+   "publishedAt": "2018-01-14"
+  },
+  {
+   "id": "s5119",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "若林正恭さんの本2冊と戯曲【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/5119",
+   "publishedAt": "2017-12-08"
+  },
+  {
+   "id": "s3410",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "戦国時代のプー太郎【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/3410",
+   "publishedAt": "2017-07-03"
+  },
+  {
+   "id": "s2586",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "満たされる知識欲とドキドキ【結城洋平】",
+   "url": "https://honcierge.jp/articles/shelf_story/2586",
+   "publishedAt": "2017-05-02"
+  },
+  {
+   "id": "s8327",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "小銭をかぞえる（ついでにマイルもポイントも）【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8327",
+   "publishedAt": "2019-09-30"
+  },
+  {
+   "id": "s8119",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "セミ、カブトムシ等。結婚。子ども。岡村ちゃん。【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8119",
+   "publishedAt": "2019-08-25"
+  },
+  {
+   "id": "s7476",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「じょゆう」とは女の業の塊、であろうか【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7476",
+   "publishedAt": "2019-03-01"
+  },
+  {
+   "id": "s7348",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "鯉と、日本酒と、家庭内ひとり吞み、とかもう【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7348",
+   "publishedAt": "2019-01-31"
+  },
+  {
+   "id": "s7186",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "むし、を冷蔵庫にいれて年を越す、のか【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7186",
+   "publishedAt": "2018-12-29"
+  },
+  {
+   "id": "s7044",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "妖怪はかせを育成したい（育てゲー）【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7044",
+   "publishedAt": "2018-11-30"
+  },
+  {
+   "id": "s6784",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "エロ胸キュンをお探しの女子に、葉月つや子をおすすめしたい【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6784",
+   "publishedAt": "2018-09-26"
+  },
+  {
+   "id": "s5867",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "時間のスキマ、お埋めします。ドーン!!!【山本裕子(やまゆう)】",
+   "url": "https://honcierge.jp/articles/shelf_story/5867",
+   "publishedAt": "2018-04-30"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "nishikawa",
+   "sourceId": "s11490",
+   "book": {
+    "title": "猛スピードで母は",
+    "subtitle": "",
+    "author": "長嶋 有",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "s11611",
+   "book": {
+    "title": "戯作三昧・一塊の土",
+    "subtitle": "",
+    "author": "芥川 龍之介",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "s11625",
+   "book": {
+    "title": "人間にとって成熟とは何か",
+    "subtitle": "",
+    "author": "曽野 綾子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "幻冬舎新書"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "s11644",
+   "book": {
+    "title": "三流シェフ",
+    "subtitle": "",
+    "author": "三國 清三",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "s11662",
+   "book": {
+    "title": "あかね噺",
+    "subtitle": "",
+    "author": "馬上 鷹将、末永 裕樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "s11688",
+   "book": {
+    "title": "あかね噺",
+    "subtitle": "",
+    "author": "馬上 鷹将、末永 裕樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "nishikawa",
+   "sourceId": "s6764",
+   "book": {
+    "title": "春琴抄・盲目物語",
+    "subtitle": "",
+    "author": "谷崎 潤一郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": "岩波文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s8154",
+   "book": {
+    "title": "死にたい夜にかぎって",
+    "subtitle": "",
+    "author": "爪 切男",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s7962",
+   "book": {
+    "title": "ナナメの夕暮れ",
+    "subtitle": "",
+    "author": "若林 正恭",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s5584",
+   "book": {
+    "title": "本日は、お日柄もよく",
+    "subtitle": "",
+    "author": "原田マハ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "徳間文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s5584",
+   "book": {
+    "title": "夫のちんぽが入らない",
+    "subtitle": "",
+    "author": "こだま",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s5367",
+   "book": {
+    "title": "アイネクライネナハトムジーク",
+    "subtitle": "",
+    "author": "伊坂 幸太郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": "幻冬舎文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s5119",
+   "book": {
+    "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+    "subtitle": "",
+    "author": "若林 正恭",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s5119",
+   "book": {
+    "title": "社会人大学人見知り学部 卒業見込",
+    "subtitle": "",
+    "author": "若林 正恭",
+    "publisher": "",
+    "isbn": "",
+    "edition": "完全版 角川文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s3410",
+   "book": {
+    "title": "とっぴんぱらりの風太郎 上",
+    "subtitle": "",
+    "author": "万城目 学",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s3410",
+   "book": {
+    "title": "果心居士の幻術",
+    "subtitle": "",
+    "author": "司馬 遼太郎",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s2586",
+   "book": {
+    "title": "たとえる技術",
+    "subtitle": "",
+    "author": "せきしろ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s2586",
+   "book": {
+    "title": "大人のための読書の全技術",
+    "subtitle": "",
+    "author": "齋藤 孝",
+    "publisher": "",
+    "isbn": "",
+    "edition": "中経の文庫"
+   }
+  },
+  {
+   "personId": "yuki",
+   "sourceId": "s2586",
+   "book": {
+    "title": "覗くモーテル 観察日誌",
+    "subtitle": "",
+    "author": "ゲイ タリーズ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s8327",
+   "book": {
+    "title": "小銭をかぞえる",
+    "subtitle": "",
+    "author": "西村 賢太",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s8327",
+   "book": {
+    "title": "お金のこと何もわからないままフリーランスになっちゃいましたが税金で損しない方法を教えてください!",
+    "subtitle": "",
+    "author": "大河内 薫、若林 杏樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "SANCTUARY BOOKS"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s8119",
+   "book": {
+    "title": "オンナの奥義",
+    "subtitle": "無敵のオバサンになるための33の扉",
+    "author": "大石 静、阿川 佐和子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s8119",
+   "book": {
+    "title": "岡村靖幸 結婚への道",
+    "subtitle": "",
+    "author": "岡村 靖幸",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s8119",
+   "book": {
+    "title": "岡村靖幸 結婚への道 迷宮編",
+    "subtitle": "",
+    "author": "岡村靖幸",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7476",
+   "book": {
+    "title": "女優にあるまじき高峰秀子",
+    "subtitle": "",
+    "author": "斎藤 明美",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7348",
+   "book": {
+    "title": "夏子の酒",
+    "subtitle": "",
+    "author": "尾瀬 あきら",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7348",
+   "book": {
+    "title": "日本酒を味わう",
+    "subtitle": "田崎真也の仕事",
+    "author": "田崎 真也",
+    "publisher": "",
+    "isbn": "",
+    "edition": "朝日選書"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7186",
+   "book": {
+    "title": "むしくいノート",
+    "subtitle": "びっくり!たのしい!おいしい!昆虫食のせかい",
+    "author": "ムシモアゼルギリコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7186",
+   "book": {
+    "title": "ざざ虫",
+    "subtitle": "伊那谷の虫を食べる文化",
+    "author": "松沢 陽士",
+    "publisher": "",
+    "isbn": "",
+    "edition": "ふしぎびっくり写真えほん"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7044",
+   "book": {
+    "title": "とうふこぞう",
+    "subtitle": "",
+    "author": "京極 夏彦",
+    "publisher": "",
+    "isbn": "",
+    "edition": "京極夏彦の妖怪えほん4"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7044",
+   "book": {
+    "title": "画図百鬼夜行",
+    "subtitle": "",
+    "author": "鳥山 石燕、稲田 篤信、田中 直日",
+    "publisher": "",
+    "isbn": "",
+    "edition": "国書刊行会 1992"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s7044",
+   "book": {
+    "title": "妖怪画談",
+    "subtitle": "",
+    "author": "水木 しげる",
+    "publisher": "",
+    "isbn": "",
+    "edition": "カラー版 岩波新書"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s6784",
+   "book": {
+    "title": "シンデレラ",
+    "subtitle": "被虐の花嫁",
+    "author": "葉月 つや子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "まんがグリム童話"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s6784",
+   "book": {
+    "title": "秘密の花園",
+    "subtitle": "禁断の契約",
+    "author": "葉月 つや子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "まんがグリム童話"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s6784",
+   "book": {
+    "title": "好色一代男異聞 鷲羽屋みだれ帖",
+    "subtitle": "",
+    "author": "葉月 つや子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s5867",
+   "book": {
+    "title": "姑獲鳥の夏",
+    "subtitle": "",
+    "author": "京極 夏彦",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s5867",
+   "book": {
+    "title": "村上さんのところ",
+    "subtitle": "",
+    "author": "村上 春樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s5867",
+   "book": {
+    "title": "まさかジープで来るとは",
+    "subtitle": "",
+    "author": "せきしろ、又吉 直樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "幻冬舎文庫"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/6067",
+   "result": "candidate",
+   "reason": "上限のため未取り込み（本人が選んだ本を紹介する回。山本裕子は20件上限に達した）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/5352",
+   "result": "candidate",
+   "reason": "上限のため未取り込み（本人が選んだ本を紹介する回。山本裕子は20件上限に達した）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/4670",
+   "result": "candidate",
+   "reason": "上限のため未取り込み（本人が選んだ本を紹介する回。山本裕子は20件上限に達した）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2728",
+   "result": "candidate",
+   "reason": "上限のため未取り込み（本人が選んだ本を紹介する回。山本裕子は20件上限に達した）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/2299",
+   "result": "candidate",
+   "reason": "上限のため未取り込み（本人が選んだ本を紹介する回。山本裕子は20件上限に達した）",
+   "person": "山本裕子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/8058",
+   "result": "candidate",
+   "reason": "紹介は松尾スズキ連載のシリーズ4冊で、3冊がムック（TOKYO NEWS MOOK）。単行本は『さよならお婆ちゃん』のみで、薦めていると言い切れるか判断保留",
+   "person": "結城洋平"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/11586",
+   "result": "rejected",
+   "reason": "林真理子『アッコちゃんの時代』を取り上げる回だが、薦める・好きだとはっきり書いておらず不採用",
+   "person": "西川あやの"
+  }
+ ]
+}

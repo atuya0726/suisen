@@ -1,0 +1,43 @@
+{
+ "people": [],
+ "sources": [],
+ "recommendations": [],
+ "checkedUrls": [
+  {
+   "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5088",
+   "result": "candidate",
+   "reason": "推薦者 畠山 美緒（事務局・職員）『青い春を数えて』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+   "person": "畠山美緒"
+  },
+  {
+   "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5089",
+   "result": "candidate",
+   "reason": "推薦者 畠山 美緒（事務局・職員）『その日、朱音は空を飛んだ』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+   "person": "畠山美緒"
+  },
+  {
+   "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5090",
+   "result": "candidate",
+   "reason": "推薦者 畠山 美緒（事務局・職員）『神さまを待っている』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+   "person": "畠山美緒"
+  },
+  {
+   "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5091",
+   "result": "candidate",
+   "reason": "推薦者 畠山 美緒（事務局・職員）『本と鍵の季節』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+   "person": "畠山美緒"
+  },
+  {
+   "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5092",
+   "result": "candidate",
+   "reason": "推薦者 畠山 美緒（事務局・職員）『石黒くんに春は来ない』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+   "person": "畠山美緒"
+  },
+  {
+   "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5077",
+   "result": "rejected",
+   "reason": "推薦者 小林 和也。書籍ではなくDVD『四季・ユートピアノ』のため除外",
+   "person": "小林和也"
+  }
+ ]
+}

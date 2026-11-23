@@ -1357,9 +1357,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/inoue/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-inoue-f42aad-b-b",
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/itaki/",
@@ -1375,9 +1375,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ka/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-ka-acee74",
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kakuni/",
@@ -1387,15 +1387,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kamon/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-kamon-f23355",
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kawamura/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-kawamura-7dd0cf",
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kitamura/",
@@ -1411,15 +1411,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/konok/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-konok-56cd9f",
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/matsuot/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-matsuot-6f0d1e",
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/misu/",
@@ -14209,10 +14209,10 @@
   },
   {
     "url": "https://croissant-online.jp/life/110027/",
-    "result": "candidate",
-    "reason": "井川直子の選書企画を本文で確認済み。明示的に薦めた本がある。今回は未取り込み（次回は出典指定の文庫・訳者を照合）",
+    "result": "adopted",
+    "reason": "sources.json の ikawa1",
     "person": "井川直子",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://croissant-online.jp/life/110033/",
@@ -17525,10 +17525,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11490",
-    "result": "candidate",
-    "reason": "西川あやの（文化放送アナウンサー）の読書コラム。名前で検索される度合いが低く未開封（11702 と同連載）",
+    "result": "adopted",
+    "reason": "sources.json の s11490",
     "person": "西川あやの",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11751",
@@ -21130,38 +21130,38 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11688",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s11688",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11662",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s11662",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11644",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s11644",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11625",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s11625",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11611",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s11611",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11586",
@@ -21200,17 +21200,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8327",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s8327",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8154",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s8154",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8125",
@@ -21221,10 +21221,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8119",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s8119",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8058",
@@ -21242,10 +21242,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7962",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7962",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7861",
@@ -21263,17 +21263,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7476",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7476",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7348",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7348",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7255",
@@ -21284,10 +21284,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7186",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7186",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7122",
@@ -21298,10 +21298,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7044",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7044",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7003",
@@ -21319,10 +21319,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6764",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6764",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6770",
@@ -21333,10 +21333,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6784",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6784",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6594",
@@ -21375,10 +21375,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5867",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5867",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5859",
@@ -21403,10 +21403,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5584",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5584",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5499",
@@ -21417,10 +21417,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5367",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5367",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5352",
@@ -21431,10 +21431,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5119",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5119",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/4894",
@@ -21466,10 +21466,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/3410",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s3410",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2913",
@@ -21487,10 +21487,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2586",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s2586",
     "person": "結城洋平",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2480",
@@ -22035,5 +22035,47 @@
     "result": "adopted",
     "reason": "sources.json の ishizaka",
     "checkedAt": "2026-11-23"
+  },
+  {
+    "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5088",
+    "result": "candidate",
+    "reason": "推薦者 畠山 美緒（事務局・職員）『青い春を数えて』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+    "person": "畠山美緒",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5089",
+    "result": "candidate",
+    "reason": "推薦者 畠山 美緒（事務局・職員）『その日、朱音は空を飛んだ』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+    "person": "畠山美緒",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5090",
+    "result": "candidate",
+    "reason": "推薦者 畠山 美緒（事務局・職員）『神さまを待っている』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+    "person": "畠山美緒",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5091",
+    "result": "candidate",
+    "reason": "推薦者 畠山 美緒（事務局・職員）『本と鍵の季節』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+    "person": "畠山美緒",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5092",
+    "result": "candidate",
+    "reason": "推薦者 畠山 美緒（事務局・職員）『石黒くんに春は来ない』。教員ではなく事務職員のため tags/affiliation の扱いを人が判断。台帳に無かった2022年登録分",
+    "person": "畠山美緒",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "url": "https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=5077",
+    "result": "rejected",
+    "reason": "推薦者 小林 和也。書籍ではなくDVD『四季・ユートピアノ』のため除外",
+    "person": "小林和也",
+    "checkedAt": "2026-11-24"
   }
 ]

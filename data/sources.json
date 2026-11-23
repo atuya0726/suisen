@@ -18493,5 +18493,232 @@
     "title": "教員お薦め本 加國尚志先生（文学部）",
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kakuni/",
     "publishedAt": "2016-12-01"
+  },
+  {
+    "id": "s-matsuot-6f0d1e",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 松尾剛先生（法学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/matsuot/"
+  },
+  {
+    "id": "s-ka-acee74",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 夏剛先生（国際関係学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/ka/",
+    "publishedAt": "2016-12-01"
+  },
+  {
+    "id": "s-kamon-f23355",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 嘉門優先生（法学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kamon/"
+  },
+  {
+    "id": "s-inoue-f42aad-b-b",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 井上充幸先生（文学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/inoue/"
+  },
+  {
+    "id": "s-kawamura-7dd0cf",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 川村健一郎先生（映像学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kawamura/"
+  },
+  {
+    "id": "s-konok-56cd9f",
+    "type": "article",
+    "media": "立命館大学図書館",
+    "title": "教員お薦め本 河野恵一先生（法学部）",
+    "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/konok/"
+  },
+  {
+    "id": "ikawa1",
+    "type": "article",
+    "media": "クロワッサン オンライン",
+    "title": "井川直子さんが薦める、食エッセイ&インタビューの２作品。",
+    "url": "https://croissant-online.jp/life/110027/",
+    "publishedAt": "2020-01-12"
+  },
+  {
+    "id": "s11611",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【#5】文化放送アナウンサー西川あやのの読書コラム／唯ぼんやりとした不安を熱燗で流す年末",
+    "url": "https://honcierge.jp/articles/shelf_story/11611",
+    "publishedAt": "2022-12-10"
+  },
+  {
+    "id": "s7186",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "むし、を冷蔵庫にいれて年を越す、のか【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/7186",
+    "publishedAt": "2018-12-29"
+  },
+  {
+    "id": "s3410",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "戦国時代のプー太郎【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/3410",
+    "publishedAt": "2017-07-03"
+  },
+  {
+    "id": "s7348",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "鯉と、日本酒と、家庭内ひとり吞み、とかもう【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/7348",
+    "publishedAt": "2019-01-31"
+  },
+  {
+    "id": "s11644",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【#7】文化放送アナウンサー西川あやのの読書コラム／今世が無理なら、来世で「おじさん」になりたい",
+    "url": "https://honcierge.jp/articles/shelf_story/11644",
+    "publishedAt": "2023-02-10"
+  },
+  {
+    "id": "s8154",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "幸福とは呼べない幸せに、胸がギュッとなる【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/8154",
+    "publishedAt": "2019-09-05"
+  },
+  {
+    "id": "s11625",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【#6】文化放送アナウンサー西川あやのの読書コラム／そして、今日も課題に取り組んでいる",
+    "url": "https://honcierge.jp/articles/shelf_story/11625",
+    "publishedAt": "2023-01-17"
+  },
+  {
+    "id": "s5867",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "時間のスキマ、お埋めします。ドーン!!!【山本裕子(やまゆう)】",
+    "url": "https://honcierge.jp/articles/shelf_story/5867",
+    "publishedAt": "2018-04-30"
+  },
+  {
+    "id": "s5367",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "電子書籍童貞からの卒業【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/5367",
+    "publishedAt": "2018-01-14"
+  },
+  {
+    "id": "s6764",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "「もやもやしたら、自分の中の耽美と向き合う」",
+    "url": "https://honcierge.jp/articles/shelf_story/6764",
+    "publishedAt": "2018-10-01"
+  },
+  {
+    "id": "s8327",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "小銭をかぞえる（ついでにマイルもポイントも）【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/8327",
+    "publishedAt": "2019-09-30"
+  },
+  {
+    "id": "s2586",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "満たされる知識欲とドキドキ【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/2586",
+    "publishedAt": "2017-05-02"
+  },
+  {
+    "id": "s7044",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "妖怪はかせを育成したい（育てゲー）【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/7044",
+    "publishedAt": "2018-11-30"
+  },
+  {
+    "id": "s11688",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【#9】文化放送アナウンサー西川あやのの読書コラム／落語とジャンプから学んだことで日常を生きる②",
+    "url": "https://honcierge.jp/articles/shelf_story/11688",
+    "publishedAt": "2023-04-26"
+  },
+  {
+    "id": "s6784",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "エロ胸キュンをお探しの女子に、葉月つや子をおすすめしたい【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/6784",
+    "publishedAt": "2018-09-26"
+  },
+  {
+    "id": "s5584",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "家族のカタチ、夫婦のかたち【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/5584",
+    "publishedAt": "2018-02-20"
+  },
+  {
+    "id": "s7962",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "みんな答えを知っていた【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/7962",
+    "publishedAt": "2019-07-02"
+  },
+  {
+    "id": "s8119",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "セミ、カブトムシ等。結婚。子ども。岡村ちゃん。【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/8119",
+    "publishedAt": "2019-08-25"
+  },
+  {
+    "id": "s7476",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "「じょゆう」とは女の業の塊、であろうか【山本裕子】",
+    "url": "https://honcierge.jp/articles/shelf_story/7476",
+    "publishedAt": "2019-03-01"
+  },
+  {
+    "id": "s11490",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【#1】文化放送アナウンサー西川あやのの読書コラム",
+    "url": "https://honcierge.jp/articles/shelf_story/11490",
+    "publishedAt": "2022-07-10"
+  },
+  {
+    "id": "s5119",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "若林正恭さんの本2冊と戯曲【結城洋平】",
+    "url": "https://honcierge.jp/articles/shelf_story/5119",
+    "publishedAt": "2017-12-08"
+  },
+  {
+    "id": "s11662",
+    "type": "article",
+    "media": "ホンシェルジュ",
+    "title": "【#8】文化放送アナウンサー西川あやのの読書コラム／落語とジャンプから学んだことで日常を生きる①",
+    "url": "https://honcierge.jp/articles/shelf_story/11662",
+    "publishedAt": "2023-03-10"
   }
 ]
