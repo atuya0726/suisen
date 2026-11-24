@@ -1459,9 +1459,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakamura/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-nakamura-907a94",
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakaya/",
@@ -1513,9 +1513,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/saito/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-saito-d1552c",
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/sakurai/",
@@ -1531,9 +1531,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/song/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-song-d43436",
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/suechika/",
@@ -1603,9 +1603,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/yamada/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-yamada-27fe5c",
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/yamamoto/",
@@ -2311,9 +2311,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/ph/taniura/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の s-taniura-5019d5",
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/ps/sakurai/",
@@ -10554,10 +10554,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hattori-michitaka",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」の1冊は本人が章を執筆した編著のため不採用",
     "person": "hattori-michitaka",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hayashidera-shoshun",
@@ -10582,17 +10582,17 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-kazushi",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-hirasawa-kazushi",
     "person": "hirasawa-kazushi",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hirasawa-yu",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-hirasawa-yu",
     "person": "hirasawa-yu",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hisai-atsuyo",
@@ -10610,10 +10610,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/isahaya-yoichi",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-isahaya-yoichi",
     "person": "isahaya-yoichi",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/iwashita-akihiro",
@@ -21179,10 +21179,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/9573",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s9573",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/9210",
@@ -21193,10 +21193,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8411",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s8411",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8327",
@@ -21214,10 +21214,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8125",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s8125",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8119",
@@ -21235,10 +21235,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8040",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s8040",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7962",
@@ -21249,10 +21249,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7861",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7861",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7604",
@@ -21277,10 +21277,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7255",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7255",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7186",
@@ -21291,10 +21291,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7122",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7122",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7044",
@@ -21305,17 +21305,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7003",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s7003",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6877",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6877",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6764",
@@ -21326,10 +21326,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6770",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6770",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6784",
@@ -21340,10 +21340,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6594",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6594",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6477",
@@ -21368,10 +21368,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6067",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6067",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5867",
@@ -21424,10 +21424,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5352",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5352",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5119",
@@ -21445,10 +21445,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/4670",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s4670",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/4144",
@@ -21480,10 +21480,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2728",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s2728",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2586",
@@ -21501,10 +21501,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2299",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s2299",
     "person": "山本裕子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://book.asahi.com/article/15389421",

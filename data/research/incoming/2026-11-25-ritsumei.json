@@ -1,0 +1,716 @@
+{
+  "people": [
+    {
+      "id": "nakamura",
+      "name": "中村彰憲",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "saito",
+      "name": "斎藤進也",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "song",
+      "name": "宋基燦",
+      "title": "立命館大学 映像学部",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "taniura",
+      "name": "谷浦秀夫",
+      "title": "立命館大学 薬学部",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立命館大学"
+    },
+    {
+      "id": "yamada",
+      "name": "山田希",
+      "title": "立命館大学 法学部",
+      "tags": [
+        "研究者"
+      ],
+      "affiliation": "立命館大学"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s_nakamura",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 中村彰憲先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakamura/"
+    },
+    {
+      "id": "s_saito",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 斎藤進也先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/saito/",
+      "publishedAt": "2017-03-01"
+    },
+    {
+      "id": "s_song",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 宋基燦先生（映像学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/song/",
+      "publishedAt": "2016-06-07"
+    },
+    {
+      "id": "s_taniura",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 谷浦秀夫先生（薬学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/ph/taniura/",
+      "publishedAt": "2022-11-01"
+    },
+    {
+      "id": "s_yamada",
+      "type": "article",
+      "media": "立命館大学図書館",
+      "title": "教員お薦め本 山田希先生（法学部）",
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/yamada/"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "消費社会の神話と構造",
+        "author": "ジャン・ボードリヤール",
+        "publisher": "紀伊国屋書店",
+        "edition": "普及版 紀伊国屋書店 1995年"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "物語消費論改",
+        "author": "大塚英志",
+        "publisher": "KADOKAWA",
+        "edition": "KADOKAWA 2012年 アスキー新書 228"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "動物化するポストモダン",
+        "author": "東浩紀",
+        "publisher": "講談社",
+        "edition": "講談社 2001年 講談社現代新書 1575",
+        "subtitle": "オタクから見た日本社会"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "ゲームニクスとは何か",
+        "author": "サイトウアキヒロ",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎 2007年 幻冬舎新書 046",
+        "subtitle": "日本発、世界基準のものづくり法則"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "マンガの描き方",
+        "author": "手塚治虫",
+        "publisher": "光文社",
+        "edition": "光文社 1996年 光文社文庫",
+        "subtitle": "似顔絵から長編まで"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "知識創造企業",
+        "author": "野中郁次郎, 竹内弘高",
+        "publisher": "東洋経済新報社",
+        "edition": "東洋経済新報社 1996年"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "ストーリーとしての競争戦略",
+        "author": "楠木建",
+        "publisher": "東洋経済新報社",
+        "edition": "東洋経済新報社 2010年",
+        "subtitle": "優れた戦略の条件"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "イノベーションのジレンマ",
+        "author": "クレイトン・クリステンセン",
+        "publisher": "翔泳社",
+        "edition": "増補改訂版 翔泳社 2001年",
+        "subtitle": "技術革新が巨大企業を滅ぼすとき"
+      }
+    },
+    {
+      "personId": "nakamura",
+      "sourceId": "s_nakamura",
+      "book": {
+        "title": "フラット化する世界 上",
+        "author": "トーマス・フリードマン",
+        "publisher": "日本経済新聞出版社",
+        "edition": "増補改訂版 日本経済新聞出版社 2008年",
+        "subtitle": "経済の大転換と人間の未来"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "コンヴィヴィアリティのための道具",
+        "author": "イヴァン・イリイチ",
+        "publisher": "日本エディタースクール出版部",
+        "edition": "日本エディタースクール出版部 1989年"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "スペクタクルの社会",
+        "author": "ギー・ドゥボール",
+        "publisher": "平凡社",
+        "edition": "平凡社 1993年",
+        "subtitle": "情報資本主義批判"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "図の体系",
+        "author": "出原栄一, 吉田武夫, 渥美浩章",
+        "publisher": "日科技連",
+        "edition": "日科技連 1986年",
+        "subtitle": "図的思考とその表現"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "ヒップホップの詩人たち",
+        "author": "都築響一",
+        "publisher": "新潮社",
+        "edition": "新潮社 2013年"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "ボディ&ソウル",
+        "author": "ロイック・ヴァカン",
+        "publisher": "新曜社",
+        "edition": "新曜社 2013年",
+        "subtitle": "ある社会学者のボクシング・エスノグラフィー"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "Nature of code",
+        "author": "ダニエル・シフマン",
+        "publisher": "ボーンデジタル",
+        "edition": "ボーンデジタル 2014年",
+        "subtitle": "processingではじめる自然現象のシミュレーション"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "虚数の情緒",
+        "author": "吉田武",
+        "publisher": "東海大学出版会",
+        "edition": "東海大学出版会 2000年",
+        "subtitle": "中学生からの全方位独学法"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "ゼロから作るDeep Learning",
+        "author": "斎藤康毅",
+        "publisher": "オライリー・ジャパン",
+        "edition": "オライリー・ジャパン 2016年",
+        "subtitle": "Pythonで学ぶディープラーニングの理論と実装"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "チューリングを読む",
+        "author": "チャールズ・ペゾルド",
+        "publisher": "日経BP社",
+        "edition": "日経BP社 2012年",
+        "subtitle": "コンピュータサイエンスの金字塔を楽しもう"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "現代ゲーム全史",
+        "author": "中川大地",
+        "publisher": "早川書房",
+        "edition": "早川書房 2016年",
+        "subtitle": "文明の遊戯史観から"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "ブッダのことば",
+        "author": "中村元(訳)",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1991年",
+        "subtitle": "スッタニパータ"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "吉本隆明が語る親鸞",
+        "author": "吉本隆明",
+        "publisher": "東京糸井重里事務所",
+        "edition": "東京糸井重里事務所 2012年"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "フランク・ザッパ自伝",
+        "author": "フランク・ザッパ, ピーター・オチオグロッソ",
+        "publisher": "河出書房新社",
+        "edition": "河出書房新社 2004年"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "s_saito",
+      "book": {
+        "title": "贈与の謎",
+        "author": "モーリス・ゴドリエ",
+        "publisher": "法政大学出版局",
+        "edition": "法政大学出版局 2000年"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "日常人類学宣言!",
+        "author": "松田素二",
+        "publisher": "世界思想社",
+        "edition": "世界思想社 2009年",
+        "subtitle": "生活世界の深層へ/から"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "私の西洋美術巡礼",
+        "author": "徐京植",
+        "publisher": "みすず書房",
+        "edition": "みすず書房 1991年"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "ディアスポラ紀行",
+        "author": "徐京植",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 2005年",
+        "subtitle": "追放された者のまなざし"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "在日朝鮮人ってどんなひと?",
+        "author": "徐京植",
+        "publisher": "平凡社",
+        "edition": "平凡社 2012年"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "獄中19年",
+        "author": "徐勝",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 1994年",
+        "subtitle": "韓国政治犯のたたかい"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "徐勝の東アジア平和紀行",
+        "author": "徐勝",
+        "publisher": "かもがわ出版",
+        "edition": "かもがわ出版 2011年",
+        "subtitle": "韓国、台湾、沖縄をめぐって"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "ヒロシマを持ちかえった人々",
+        "author": "市場淳子",
+        "publisher": "凱風社",
+        "edition": "凱風社 2005年",
+        "subtitle": "「韓国の広島」はなぜ生まれたのか"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "天皇の逝く国で",
+        "author": "ノーマ・フィールド",
+        "publisher": "みすず書房",
+        "edition": "みすず書房 2011年"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "「日本人」の境界",
+        "author": "小熊英二",
+        "publisher": "新曜社",
+        "edition": "新曜社 1998年",
+        "subtitle": "沖縄・アイヌ・台湾・朝鮮 植民地支配から復帰運動まで"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "日本人「慰安婦」",
+        "author": "「戦争と女性への暴力」リサーチ・アクションセンター編",
+        "publisher": "現代書館",
+        "edition": "現代書館 2015年",
+        "subtitle": "愛国心と人身売買と"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "日本/権力構造の謎",
+        "author": "カレル・ヴァン・ウォルフレン",
+        "publisher": "早川書房",
+        "edition": "早川書房 1994年"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "エンデの遺言",
+        "author": "河邑厚徳, グループ現代",
+        "publisher": "講談社",
+        "edition": "講談社 2011年",
+        "subtitle": "根源からお金を問うこと"
+      }
+    },
+    {
+      "personId": "song",
+      "sourceId": "s_song",
+      "book": {
+        "title": "制御と社会",
+        "author": "北野圭介",
+        "publisher": "人文書院",
+        "edition": "人文書院 2014年",
+        "subtitle": "欲望と権力のテクノロジー"
+      }
+    },
+    {
+      "personId": "taniura",
+      "sourceId": "s_taniura",
+      "book": {
+        "title": "脳は世界をどう見ているのか",
+        "author": "ジェフ・ホーキンス",
+        "publisher": "早川書房",
+        "edition": "早川書房 2022年",
+        "subtitle": "知能の謎を解く「1000の脳」理論"
+      }
+    },
+    {
+      "personId": "taniura",
+      "sourceId": "s_taniura",
+      "book": {
+        "title": "睡眠の科学",
+        "author": "櫻井武",
+        "publisher": "講談社",
+        "edition": "講談社 2017年",
+        "subtitle": "なぜ眠るのかなぜ目覚めるのか"
+      }
+    },
+    {
+      "personId": "taniura",
+      "sourceId": "s_taniura",
+      "book": {
+        "title": "量子力学で生命の謎を解く",
+        "author": "ジム・アル=カリーリ, ジョンジョー・マクファデン",
+        "publisher": "SBクリエイティブ",
+        "edition": "SBクリエイティブ 2015年"
+      }
+    },
+    {
+      "personId": "taniura",
+      "sourceId": "s_taniura",
+      "book": {
+        "title": "創薬科学入門",
+        "author": "佐藤健太郎",
+        "publisher": "オーム社",
+        "edition": "オーム社 2018年",
+        "subtitle": "薬はどのようにつくられる?"
+      }
+    },
+    {
+      "personId": "taniura",
+      "sourceId": "s_taniura",
+      "book": {
+        "title": "11/22/63",
+        "author": "スティーヴン・キング",
+        "publisher": "文藝春秋",
+        "edition": "文藝春秋 2013年"
+      }
+    },
+    {
+      "personId": "taniura",
+      "sourceId": "s_taniura",
+      "book": {
+        "title": "自閉症の僕が跳びはねる理由",
+        "author": "東田直樹",
+        "publisher": "KADOKAWA",
+        "edition": "KADOKAWA 2016年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "裁判百年史ものがたり",
+        "author": "夏樹静子",
+        "publisher": "文藝春秋",
+        "edition": "文藝春秋 2010年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "検察の正義",
+        "author": "郷原信郎",
+        "publisher": "ちくま新書",
+        "edition": "ちくま新書 2009年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "司法官僚",
+        "author": "新藤宗幸",
+        "publisher": "岩波書店",
+        "edition": "岩波新書 2009年",
+        "subtitle": "裁判所の権力者たち"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "私たちが死刑評決しました。",
+        "author": "フランク・スワートロー, リンドン・スタンブラー他",
+        "publisher": "ランダムハウス講談社",
+        "edition": "ランダムハウス講談社 2009年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "死刑でいいです",
+        "author": "池谷孝司編著",
+        "publisher": "共同通信社",
+        "edition": "共同通信社 2009年",
+        "subtitle": "孤立が生んだ二つの殺人"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "「改憲」の系譜",
+        "author": "共同通信社憲法取材班",
+        "publisher": "新潮社",
+        "edition": "新潮社 2007年",
+        "subtitle": "9条と日米同盟の現場"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "日米密約 裁かれない米兵犯罪",
+        "author": "布施祐仁",
+        "publisher": "岩波書店",
+        "edition": "岩波書店 2010年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "ルポ 戦場出稼ぎ労働者",
+        "author": "安田純平",
+        "publisher": "集英社",
+        "edition": "集英社新書 2010年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "競争と公平感",
+        "author": "大竹文雄",
+        "publisher": "中央公論新社",
+        "edition": "中公新書 2010年",
+        "subtitle": "市場経済の本当のメリット"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "新自由主義",
+        "author": "デヴィッド・ハーヴェイ",
+        "publisher": "作品社",
+        "edition": "作品社 2007年",
+        "subtitle": "その歴史的展開と現在"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "エネルギー問題!",
+        "author": "松井賢一",
+        "publisher": "NTT出版",
+        "edition": "NTT出版 2010年"
+      }
+    },
+    {
+      "personId": "yamada",
+      "sourceId": "s_yamada",
+      "book": {
+        "title": "民主主義がアフリカ経済を殺す",
+        "author": "ポール・コリアー",
+        "publisher": "日経BP社",
+        "edition": "日経BP社 2010年",
+        "subtitle": "最底辺の10億人の国で起きている真実"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakamura/",
+      "result": "candidate",
+      "reason": "取り込み",
+      "person": "中村彰憲"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/saito/",
+      "result": "candidate",
+      "reason": "取り込み",
+      "person": "斎藤進也"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/song/",
+      "result": "candidate",
+      "reason": "取り込み",
+      "person": "宋基燦"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/ph/taniura/",
+      "result": "candidate",
+      "reason": "取り込み",
+      "person": "谷浦秀夫"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/yamada/",
+      "result": "candidate",
+      "reason": "取り込み",
+      "person": "山田希"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/gakusup/",
+      "result": "candidate",
+      "reason": "カウンセラー複数名による紹介で教員個人ではない"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/misu/",
+      "result": "candidate",
+      "reason": "取得して分量を確認したが今回は選ばなかった"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/mdl/hayashi/",
+      "result": "candidate",
+      "reason": "取得して分量を確認したが今回は選ばなかった（短い）"
+    },
+    {
+      "url": "https://www.ritsumei.ac.jp/lib/d05/010/oic/ikeda/",
+      "result": "candidate",
+      "reason": "書名のみの英国文学案内で版・出版社の記載がなく特定しにくいため今回は見送り"
+    }
+  ]
+}

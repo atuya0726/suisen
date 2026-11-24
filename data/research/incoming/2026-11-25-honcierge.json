@@ -1,0 +1,580 @@
+{
+ "people": [
+  {
+   "id": "kozuka",
+   "name": "小塚舞子",
+   "title": "タレント・俳優",
+   "tags": [
+    "芸能"
+   ]
+  },
+  {
+   "id": "yamamoto",
+   "name": "山本裕子",
+   "title": "俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s9573",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "人見知りブランドに甘えて【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/9573",
+   "publishedAt": "2020-08-31"
+  },
+  {
+   "id": "s8411",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "なうの裏側に潜むもの【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8411",
+   "publishedAt": "2019-10-31"
+  },
+  {
+   "id": "s8125",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "肉事情、深刻化【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8125",
+   "publishedAt": "2019-08-31"
+  },
+  {
+   "id": "s8040",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "将来の将来【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/8040",
+   "publishedAt": "2019-07-31"
+  },
+  {
+   "id": "s7861",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "物忘れを忘れないために【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7861",
+   "publishedAt": "2019-05-31"
+  },
+  {
+   "id": "s7255",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "父はいつもの調子で「おおきに」と言った【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7255",
+   "publishedAt": "2019-01-31"
+  },
+  {
+   "id": "s7122",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "大人になるまで父の風変りなところに気がついていなかった【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7122",
+   "publishedAt": "2018-12-29"
+  },
+  {
+   "id": "s7003",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "恥ずかしながら、見ず知らずの人にすら嫌われたくないのだ【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/7003",
+   "publishedAt": "2018-11-29"
+  },
+  {
+   "id": "s6877",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "そしてだらだらと重い一日が始まる【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6877",
+   "publishedAt": "2018-10-31"
+  },
+  {
+   "id": "s6770",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "大人の一歩は歩幅がでかいが数が少ない。【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6770",
+   "publishedAt": "2018-09-29"
+  },
+  {
+   "id": "s6594",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "パンツ一丁で。いや、いっそ全裸で。【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6594",
+   "publishedAt": "2018-08-31"
+  },
+  {
+   "id": "s6067",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "四十路女子、って何だよ【山本裕子（やまゆう）】",
+   "url": "https://honcierge.jp/articles/shelf_story/6067",
+   "publishedAt": "2018-05-28"
+  },
+  {
+   "id": "s5352",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "おいちゃんたちの青春旅行記は、ずいぶん楽しい。読んでる分には【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5352",
+   "publishedAt": "2018-01-09"
+  },
+  {
+   "id": "s4670",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "ぼくのかんがえたさいきょうの『ガラスの仮面』演目ランキング【後編】",
+   "url": "https://honcierge.jp/articles/shelf_story/4670",
+   "publishedAt": "2017-10-15"
+  },
+  {
+   "id": "s2728",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "田舎暮らしでハッピー＆ロハスなリアル横溝正史プレイのすすめ【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/2728",
+   "publishedAt": "2017-05-11"
+  },
+  {
+   "id": "s2299",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "正直、メシなんて作りたくねえんだ【山本裕子】",
+   "url": "https://honcierge.jp/articles/shelf_story/2299",
+   "publishedAt": "2017-04-16"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kozuka",
+   "sourceId": "s9573",
+   "book": {
+    "title": "たましいの場所",
+    "subtitle": "",
+    "author": "早川 義夫",
+    "publisher": "",
+    "isbn": "",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s9573",
+   "book": {
+    "title": "対岸の彼女",
+    "subtitle": "",
+    "author": "角田 光代",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s8411",
+   "book": {
+    "title": "産まなくても、産めなくても",
+    "subtitle": "",
+    "author": "甘糟 りり子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s8411",
+   "book": {
+    "title": "朝が来るまでそばにいる",
+    "subtitle": "",
+    "author": "彩瀬 まる",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s8125",
+   "book": {
+    "title": "汝の名",
+    "subtitle": "",
+    "author": "明野 照葉",
+    "publisher": "",
+    "isbn": "",
+    "edition": "中公文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s8125",
+   "book": {
+    "title": "脂肪と言う名の服を着て",
+    "subtitle": "",
+    "author": "安野 モヨコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "完全版"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s8040",
+   "book": {
+    "title": "きいろいゾウ",
+    "subtitle": "",
+    "author": "西 加奈子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "小学館文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s8040",
+   "book": {
+    "title": "淀川八景",
+    "subtitle": "",
+    "author": "藤野 恵美",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7861",
+   "book": {
+    "title": "へいわとせんそう",
+    "subtitle": "",
+    "author": "たにかわ しゅんたろう",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7861",
+   "book": {
+    "title": "異類婚姻譚",
+    "subtitle": "",
+    "author": "本谷 有希子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7255",
+   "book": {
+    "title": "猫にかまけて",
+    "subtitle": "",
+    "author": "町田 康",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7255",
+   "book": {
+    "title": "流星ワゴン",
+    "subtitle": "",
+    "author": "重松 清",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7122",
+   "book": {
+    "title": "お父さんのバックドロップ",
+    "subtitle": "",
+    "author": "中島 らも",
+    "publisher": "",
+    "isbn": "",
+    "edition": "集英社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7122",
+   "book": {
+    "title": "消滅世界",
+    "subtitle": "",
+    "author": "村田沙耶香",
+    "publisher": "",
+    "isbn": "",
+    "edition": "河出文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7003",
+   "book": {
+    "title": "舞台",
+    "subtitle": "",
+    "author": "西 加奈子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s7003",
+   "book": {
+    "title": "ハッピー・マニア",
+    "subtitle": "",
+    "author": "安野 モヨコ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6877",
+   "book": {
+    "title": "1Q84 BOOK1",
+    "subtitle": "",
+    "author": "村上 春樹",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫 前編"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6877",
+   "book": {
+    "title": "フランス人は10着しか服を持たない",
+    "subtitle": "",
+    "author": "ジェニファー・L・スコット",
+    "publisher": "",
+    "isbn": "",
+    "edition": "だいわ文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6770",
+   "book": {
+    "title": "可愛い世の中",
+    "subtitle": "",
+    "author": "山崎 ナオコーラ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6770",
+   "book": {
+    "title": "よるのふくらみ",
+    "subtitle": "",
+    "author": "窪 美澄",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6594",
+   "book": {
+    "title": "ソラニン",
+    "subtitle": "",
+    "author": "浅野 いにお",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6594",
+   "book": {
+    "title": "とにかくうちに帰ります",
+    "subtitle": "",
+    "author": "津村 記久子",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s6067",
+   "book": {
+    "title": "40代・大人女子のためのお年頃読本 プラチナ編",
+    "subtitle": "",
+    "author": "横森 理香",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s6067",
+   "book": {
+    "title": "貴様いつまで女子でいるつもりだ問題",
+    "subtitle": "",
+    "author": "ジェーン・スー",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s6067",
+   "book": {
+    "title": "女・三界画報 四十路の悩み",
+    "subtitle": "",
+    "author": "大田垣 晴子",
+    "publisher": "",
+    "isbn": "",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s5352",
+   "book": {
+    "title": "青春を山に賭けて",
+    "subtitle": "",
+    "author": "植村 直己",
+    "publisher": "",
+    "isbn": "",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s5352",
+   "book": {
+    "title": "ボクの音楽武者修行",
+    "subtitle": "",
+    "author": "小澤 征爾",
+    "publisher": "",
+    "isbn": "",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s5352",
+   "book": {
+    "title": "十六歳のオリザの冒険をしるす本",
+    "subtitle": "",
+    "author": "平田 オリザ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s4670",
+   "book": {
+    "title": "ガラスの仮面",
+    "subtitle": "",
+    "author": "美内 すずえ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s2728",
+   "book": {
+    "title": "悪魔の手毬唄",
+    "subtitle": "",
+    "author": "横溝 正史",
+    "publisher": "",
+    "isbn": "",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s2728",
+   "book": {
+    "title": "山魔の如き嗤うもの",
+    "subtitle": "",
+    "author": "三津田 信三",
+    "publisher": "",
+    "isbn": "",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s2299",
+   "book": {
+    "title": "きのう何食べた?",
+    "subtitle": "",
+    "author": "よしなが ふみ",
+    "publisher": "",
+    "isbn": "",
+    "edition": "シリーズ"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s2299",
+   "book": {
+    "title": "ホクトのきのこレシピ",
+    "subtitle": "",
+    "author": "",
+    "publisher": "",
+    "isbn": "",
+    "edition": "おいしく、きれいに、健康に"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s2299",
+   "book": {
+    "title": "食堂かたつむり",
+    "subtitle": "",
+    "author": "小川 糸",
+    "publisher": "",
+    "isbn": "",
+    "edition": "ポプラ文庫"
+   }
+  },
+  {
+   "personId": "yamamoto",
+   "sourceId": "s2299",
+   "book": {
+    "title": "わしらは怪しい探険隊",
+    "subtitle": "",
+    "author": "椎名 誠",
+    "publisher": "",
+    "isbn": "",
+    "edition": "角川文庫"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/7604",
+   "result": "rejected",
+   "reason": "本の紹介なし（出産体験談のみ）",
+   "person": "小塚舞子"
+  }
+ ]
+}

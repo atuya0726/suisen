@@ -1,0 +1,67 @@
+{
+  "people": [],
+  "sources": [],
+  "recommendations": [],
+  "checkedUrls": [
+    {
+      "url": "https://ddnavi.com/news/896845/a/",
+      "result": "rejected",
+      "reason": "同じ放送回（アメトーーク！2021-12-02）を d895139 の記事で取り込み済み。新明解国語辞典は先の記事で採っておらず、推薦か判断がつかないため見送り",
+      "person": "カズレーザー"
+    },
+    {
+      "url": "https://realsound.jp/book/2021/09/post-858448_2.html",
+      "result": "rejected",
+      "reason": "2ページ目は今後の執筆予定のみで本の言及なし。1ページ目は台帳に採用済み",
+      "person": "上白石萌音"
+    },
+    {
+      "url": "https://realsound.jp/book/2021/03/post-717588.html",
+      "result": "rejected",
+      "reason": "自著『歴史のじかん』の取材回（全2ページ）。本人が薦める本の言及なし",
+      "person": "山崎怜奈"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/77315/",
+      "result": "rejected",
+      "reason": "BL作品のドラマCD特集。挙がる本は自身が演じた作品の原作（宣伝）で、本人が薦める本ではない。『銀河鉄道の夜』は言及のみ",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://hon-hikidashi.jp/book-person/61586/",
+      "result": "rejected",
+      "reason": "自著『改訂版 お金の大学』の宣伝インタビュー。他の本の具体的な推薦なし",
+      "person": "両＠リベ大学長"
+    },
+    {
+      "url": "https://ddnavi.com/article/d1209647/a/",
+      "result": "rejected",
+      "reason": "筒井康隆自著の書評。影響を受けた本はハイデガー『存在と時間』（翻訳書）のみで対象外",
+      "person": "筒井康隆"
+    },
+    {
+      "url": "https://ddnavi.com/person_tag/%E4%BA%8C%E9%9A%8E%E5%A0%82%E3%81%B5%E3%81%BF/past/",
+      "result": "index",
+      "reason": "タグ一覧。「あの人と本の話」(d1004558、2022-07)は sources.json に採用済み（src-ddnavi-nikaido-2022）のため再取得せず",
+      "person": "二階堂ふみ"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/12/post-2246524.html",
+      "result": "rejected",
+      "reason": "出版社（担当編集）が用意した『杉森くんを殺すには』を読んで語る企画。本人が愛読・推薦する本とは言えず見送り",
+      "person": "環ROY"
+    },
+    {
+      "url": "https://bunshun.jp/articles/-/85",
+      "result": "rejected",
+      "reason": "星野源ではなく作家・星野智幸の自著『呪文』インタビュー。人違い",
+      "person": "星野智幸"
+    },
+    {
+      "url": "https://ginzamag.com/interview/genhoshino",
+      "result": "rejected",
+      "reason": "映画『引っ越し大名！』にちなむリーダー論。本を薦める記述なし",
+      "person": "星野源"
+    }
+  ]
+}
