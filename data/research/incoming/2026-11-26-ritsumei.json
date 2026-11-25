@@ -1,0 +1,1166 @@
+{
+ "people": [
+  {
+   "id": "misu",
+   "name": "三須祐介",
+   "title": "立命館大学 文学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "mochizuki",
+   "name": "望月茂徳",
+   "title": "立命館大学 映像学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "morihisa",
+   "name": "森久智江",
+   "title": "立命館大学 法学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "murakami",
+   "name": "村上剛",
+   "title": "立命館大学 法学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "nagashima",
+   "name": "永島昂",
+   "title": "立命館大学 産業社会学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "nakagawa",
+   "name": "中川優子",
+   "title": "立命館大学 文学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "nakaya",
+   "name": "中谷崇",
+   "title": "立命館大学 法学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  },
+  {
+   "id": "namita",
+   "name": "浪田陽子",
+   "title": "立命館大学 産業社会学部",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "立命館大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-misu",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 三須祐介先生（文学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/misu/",
+   "publishedAt": "2021-03-01"
+  },
+  {
+   "id": "src-mochizuki",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 望月茂徳先生（映像学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/mochizuki/",
+   "publishedAt": "2020-03-02"
+  },
+  {
+   "id": "src-morihisa",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 森久智江先生（法学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/morihisa/"
+  },
+  {
+   "id": "src-murakami",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 村上剛先生（法学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/murakami/",
+   "publishedAt": "2016-09-01"
+  },
+  {
+   "id": "src-nagashima",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 永島昂先生（産業社会学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nagashima/",
+   "publishedAt": "2016-09-01"
+  },
+  {
+   "id": "src-nakagawa",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 中川優子先生（文学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakagawa/"
+  },
+  {
+   "id": "src-nakaya",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 中谷崇先生（法学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakaya/"
+  },
+  {
+   "id": "src-namita",
+   "type": "article",
+   "media": "立命館大学図書館",
+   "title": "教員お薦め本 浪田陽子先生（産業社会学部）",
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/namita/",
+   "publishedAt": "2018-06-01"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "植民地を読む",
+    "author": "星名宏修",
+    "publisher": "法政大学出版局",
+    "isbn": "",
+    "edition": "2016年",
+    "subtitle": "「贋」日本人たちの肖像"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "外地巡礼",
+    "author": "西成彦",
+    "publisher": "みすず書房",
+    "isbn": "",
+    "edition": "2018年",
+    "subtitle": "「越境的」日本語文学論"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "中国が愛を知ったころ",
+    "author": "張愛玲著 ; 濱田麻矢訳",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "2017年",
+    "subtitle": "張愛玲短篇選"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "上海モダニズム",
+    "author": "鈴木将久",
+    "publisher": "中国文庫",
+    "isbn": "",
+    "edition": "2012年"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "博覧会の政治学",
+    "author": "吉見俊哉",
+    "publisher": "講談社",
+    "isbn": "",
+    "edition": "2010年",
+    "subtitle": "まなざしの近代"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "男旦（おんながた）とモダンガール",
+    "author": "田村容子",
+    "publisher": "中国文庫",
+    "isbn": "",
+    "edition": "2019年",
+    "subtitle": "二〇世紀中国における京劇の近代化"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "男色の景色",
+    "author": "丹尾安典",
+    "publisher": "新潮社",
+    "isbn": "",
+    "edition": "2008年"
+   }
+  },
+  {
+   "personId": "misu",
+   "sourceId": "src-misu",
+   "book": {
+    "title": "（見えない）欲望に向けて",
+    "author": "村山敏勝",
+    "publisher": "人文書院",
+    "isbn": "",
+    "edition": "2005年",
+    "subtitle": "クィア批評との対話"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "メディア・アート創世記",
+    "author": "坂根厳夫",
+    "publisher": "工作舎",
+    "isbn": "",
+    "edition": "2010年",
+    "subtitle": "科学と芸術の出会い"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "アートとコンピュータ",
+    "author": "藤幡正樹",
+    "publisher": "慶應義塾大学出版会",
+    "isbn": "",
+    "edition": "1999年",
+    "subtitle": "新しい美術の射程"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "Generative Design with p5.js",
+    "author": "Benedikt Groß ほか編著 ; 美山千香士, 杉本達應訳",
+    "publisher": "ビー・エヌ・エヌ新社",
+    "isbn": "",
+    "edition": "2018年",
+    "subtitle": "ウェブでのクリエイティブ・コーディング"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "ビューティフルビジュアライゼーション",
+    "author": "Julie Steele, Noah Iliinsky編 ; 牧野聡訳著 ; 増井俊之監訳",
+    "publisher": "オライリー・ジャパン／オーム社",
+    "isbn": "",
+    "edition": "2011年"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "ファンタジア",
+    "author": "ブルーノ・ムナーリ著 ; 萱野有美訳",
+    "publisher": "みすず書房",
+    "isbn": "",
+    "edition": "2006年"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "シンプリシティの法則",
+    "author": "ジョン・マエダ著 ; 鬼澤忍訳",
+    "publisher": "東洋経済新報社",
+    "isbn": "",
+    "edition": "2008年"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "文体練習",
+    "author": "レーモン・クノー著 ; 朝比奈弘治訳",
+    "publisher": "朝日出版社",
+    "isbn": "",
+    "edition": "1996年"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "らくだこぶ書房21世紀古書目録",
+    "author": "クラフト・エヴィング商會著 ; 坂本真典写真",
+    "publisher": "筑摩書房",
+    "isbn": "",
+    "edition": "2012年"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "「インクルーシブデザイン」という発想",
+    "author": "ジュリア・カセム著 ; ホートン秋穂訳 ; 平井康之監修",
+    "publisher": "フィルムアート社",
+    "isbn": "",
+    "edition": "2014年",
+    "subtitle": "排除しないプロセスのデザイン"
+   }
+  },
+  {
+   "personId": "mochizuki",
+   "sourceId": "src-mochizuki",
+   "book": {
+    "title": "目の見えない人は世界をどう見ているのか",
+    "author": "伊藤亜紗",
+    "publisher": "光文社",
+    "isbn": "",
+    "edition": "2015年"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "癒しと和解への旅",
+    "author": "坂上香",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "1999年",
+    "subtitle": "犯罪被害者と死刑囚の家族たち"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "人間の条件",
+    "author": "立岩真也",
+    "publisher": "イースト・プレス",
+    "isbn": "",
+    "edition": "2011年 よりみちパン!セ P008",
+    "subtitle": "そんなものない"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "まなざしの地獄",
+    "author": "見田宗介",
+    "publisher": "河出書房新社",
+    "isbn": "",
+    "edition": "2008年",
+    "subtitle": "尽きなく生きることの社会学"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "監獄の誕生",
+    "author": "ミシェル・フーコー著 ; 田村俶訳",
+    "publisher": "新潮社",
+    "isbn": "",
+    "edition": "1977年",
+    "subtitle": "監視と処罰"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "完訳アウトサイダーズ",
+    "author": "ハワード S. ベッカー著 ; 村上直之訳",
+    "publisher": "現代人文社",
+    "isbn": "",
+    "edition": "2011年",
+    "subtitle": "ラベリング理論再考"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "性犯罪からの離脱",
+    "author": "D. リチャード・ローズ, トニー・ウォード著",
+    "publisher": "日本評論社",
+    "isbn": "",
+    "edition": "2014年",
+    "subtitle": "「良き人生モデル」がひらく可能性"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "生きのびるための犯罪（みち）",
+    "author": "上岡陽江, ダルク女性ハウス著",
+    "publisher": "イースト・プレス",
+    "isbn": "",
+    "edition": "2012年 よりみちパン!セ P052"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "弟を殺した彼と、僕。",
+    "author": "原田正治著 ; 前川ヨウ構成",
+    "publisher": "ポプラ社",
+    "isbn": "",
+    "edition": "2004年"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "つながりの作法",
+    "author": "綾屋紗月, 熊谷晋一郎著",
+    "publisher": "日本放送出版協会",
+    "isbn": "",
+    "edition": "2010年 生活人新書 335",
+    "subtitle": "同じでもなく違うでもなく"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "治りませんように",
+    "author": "斉藤道雄",
+    "publisher": "みすず書房",
+    "isbn": "",
+    "edition": "2010年",
+    "subtitle": "べてるの家のいま"
+   }
+  },
+  {
+   "personId": "morihisa",
+   "sourceId": "src-morihisa",
+   "book": {
+    "title": "告白",
+    "author": "町田康",
+    "publisher": "中央公論新社",
+    "isbn": "",
+    "edition": "2008年 中公文庫 ま35-2"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "ファスト&スロー",
+    "author": "ダニエル・カーネマン著 ; 村井章子訳",
+    "publisher": "早川書房",
+    "isbn": "",
+    "edition": "2012年",
+    "subtitle": "あなたの意思はどのように決まるか?"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "運は数学にまかせなさい",
+    "author": "ジェフリー・S.ローゼンタール著 ; 柴田裕之訳",
+    "publisher": "早川書房",
+    "isbn": "",
+    "edition": "2010年",
+    "subtitle": "確率・統計に学ぶ処世術"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "先生はえらい",
+    "author": "内田樹",
+    "publisher": "筑摩書房",
+    "isbn": "",
+    "edition": "2005年"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "恋ごころの科学",
+    "author": "松井豊",
+    "publisher": "サイエンス社",
+    "isbn": "",
+    "edition": "1993年"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "夫婦ゲンカで男はなぜ黙るのか",
+    "author": "タラ・パーカー=ポープ著 ; 古草秀子訳",
+    "publisher": "NHK出版",
+    "isbn": "",
+    "edition": "2011年"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "政治哲学",
+    "author": "デイヴィッド・ミラー著 ; 山岡龍一, 森達也訳",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "2005年"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "民主主義の条件",
+    "author": "砂原庸介",
+    "publisher": "東洋経済新報社",
+    "isbn": "",
+    "edition": "2015年"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "民主党政権失敗の検証",
+    "author": "日本再建イニシアティブ",
+    "publisher": "中央公論新社",
+    "isbn": "",
+    "edition": "2013年",
+    "subtitle": "日本政治は何を活かすか"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "現代日本人の意識構造",
+    "author": "NHK放送文化研究所編",
+    "publisher": "NHK出版",
+    "isbn": "",
+    "edition": "2015年"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "「多様な意見」はなぜ正しいのか",
+    "author": "スコット・ペイジ著 ; 水谷淳訳",
+    "publisher": "日経BP社",
+    "isbn": "",
+    "edition": "2009年",
+    "subtitle": "衆愚が集合知に変わるとき"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "ヤバい経済学",
+    "author": "スティーヴン・D・レヴィット, スティーヴン・J・ダブナー著 ; 望月衛訳",
+    "publisher": "東洋経済新報社",
+    "isbn": "",
+    "edition": "2007年",
+    "subtitle": "悪ガキ教授が世の裏側を探検する"
+   }
+  },
+  {
+   "personId": "murakami",
+   "sourceId": "src-murakami",
+   "book": {
+    "title": "創造の方法学",
+    "author": "高根正昭",
+    "publisher": "講談社",
+    "isbn": "",
+    "edition": "1979年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "資本論",
+    "author": "カール・マルクス著 ; 資本論翻訳委員会訳",
+    "publisher": "新日本出版社",
+    "isbn": "",
+    "edition": "1982-1989年 第1巻第1〜4分冊"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "図説経済の論点",
+    "author": "柴田努, 新井大輔, 森原康仁編",
+    "publisher": "旬報社",
+    "isbn": "",
+    "edition": "2015年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "君たちはどう生きるか",
+    "author": "吉野源三郎",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "1982年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "読書術",
+    "author": "加藤周一",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "2000年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "就活前に読む",
+    "author": "宮里邦雄, 川人博, 井上幸夫",
+    "publisher": "旬報社",
+    "isbn": "",
+    "edition": "2011年",
+    "subtitle": "会社の現実とワークルール"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "レンアイ、基本のキ",
+    "author": "打越さく良",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "2015年",
+    "subtitle": "好きになったらなんでもOK?"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "日本という国",
+    "author": "小熊英二",
+    "publisher": "イースト・プレス",
+    "isbn": "",
+    "edition": "2011年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "いじめ・レイシズムを乗り越える「道徳」教育",
+    "author": "渡辺雅之",
+    "publisher": "高文研",
+    "isbn": "",
+    "edition": "2014年",
+    "subtitle": "暗闇（ダークサイド）から希望のベクトルへ"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "アダルト・チルドレンと家族",
+    "author": "斎藤学",
+    "publisher": "学陽書房",
+    "isbn": "",
+    "edition": "1996年",
+    "subtitle": "心のなかの子どもを癒す"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "粋な旋盤工",
+    "author": "小関智弘",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "2000年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "名作うしろ読みプレミアム",
+    "author": "斎藤美奈子",
+    "publisher": "中央公論新社",
+    "isbn": "",
+    "edition": "2016年"
+   }
+  },
+  {
+   "personId": "nagashima",
+   "sourceId": "src-nagashima",
+   "book": {
+    "title": "自動車絶望工場",
+    "author": "鎌田慧",
+    "publisher": "講談社",
+    "isbn": "",
+    "edition": "1983年",
+    "subtitle": "ある季節工の日記"
+   }
+  },
+  {
+   "personId": "nakagawa",
+   "sourceId": "src-nakagawa",
+   "book": {
+    "title": "ハックルベリー・フィンの冒険",
+    "author": "マーク・トウェイン作",
+    "publisher": "岩波文庫",
+    "isbn": "",
+    "edition": "1977年 他"
+   }
+  },
+  {
+   "personId": "nakagawa",
+   "sourceId": "src-nakagawa",
+   "book": {
+    "title": "デイジー・ミラー",
+    "author": "ヘンリー・ジェイムズ",
+    "publisher": "新潮文庫",
+    "isbn": "",
+    "edition": "1993年 他"
+   }
+  },
+  {
+   "personId": "nakagawa",
+   "sourceId": "src-nakagawa",
+   "book": {
+    "title": "ある婦人の肖像",
+    "author": "ヘンリー・ジェイムズ作",
+    "publisher": "岩波文庫",
+    "isbn": "",
+    "edition": "1996年 他"
+   }
+  },
+  {
+   "personId": "nakagawa",
+   "sourceId": "src-nakagawa",
+   "book": {
+    "title": "青い眼がほしい",
+    "author": "トニ・モリスン",
+    "publisher": "早川書房",
+    "isbn": "",
+    "edition": "1994年 他"
+   }
+  },
+  {
+   "personId": "nakagawa",
+   "sourceId": "src-nakagawa",
+   "book": {
+    "title": "大使たち",
+    "author": "ヘンリー・ジェイムズ作",
+    "publisher": "岩波文庫",
+    "isbn": "",
+    "edition": "2007年"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "数学物語",
+    "author": "矢野健太郎",
+    "publisher": "角川学芸出版",
+    "isbn": "",
+    "edition": "2008年 改版 角川ソフィア文庫 371"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "勝ち続ける意志力",
+    "author": "梅原大吾",
+    "publisher": "小学館",
+    "isbn": "",
+    "edition": "2012年 小学館101新書 132",
+    "subtitle": "世界一プロ・ゲーマーの「仕事術」"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "ことばの哲学",
+    "author": "池内紀",
+    "publisher": "青土社",
+    "isbn": "",
+    "edition": "2010年",
+    "subtitle": "関口存男のこと"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "アリストテレスはじめての形而上学",
+    "author": "富松保文",
+    "publisher": "NHK出版",
+    "isbn": "",
+    "edition": "2012年 NHKブックス 1192"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "ラテン語のはなし",
+    "author": "逸身喜一郎",
+    "publisher": "大修館書店",
+    "isbn": "",
+    "edition": "2000年",
+    "subtitle": "通読できるラテン語文法"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "ローマ法とヨーロッパ",
+    "author": "ピーター・スタイン著 ; 関良徳, 藤本幸二訳",
+    "publisher": "ミネルヴァ書房",
+    "isbn": "",
+    "edition": "2003年 Minerva21世紀ライブラリー 76"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "教会法とは何だろうか",
+    "author": "ホセ・ヨンパルト",
+    "publisher": "成文堂",
+    "isbn": "",
+    "edition": "1997年 成文堂選書 26"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "リーガル・マキシム",
+    "author": "吉原達也, 西山敏夫, 松嶋隆弘編著",
+    "publisher": "三修社",
+    "isbn": "",
+    "edition": "2013年",
+    "subtitle": "現代に生きる法の名言・格言"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "法と日本語",
+    "author": "林大, 碧海純一編",
+    "publisher": "有斐閣",
+    "isbn": "",
+    "edition": "1981年 有斐閣新書 A-76"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "翻訳語成立事情",
+    "author": "柳父章",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "1982年 岩波新書 黄版189"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "象は鼻が長い",
+    "author": "三上章",
+    "publisher": "くろしお出版",
+    "isbn": "",
+    "edition": "2002年 改訂増補版 三上章著作集"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "政治的に正しいおとぎ話",
+    "author": "ジェームズ・フィン・ガーナー著 ; デーブ・スペクター, 田口佐紀子訳",
+    "publisher": "ディーエイチシー",
+    "isbn": "",
+    "edition": "1995年"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "訴えてやる!",
+    "author": "トーマス・ベルクマン著 ; 中野京子訳",
+    "publisher": "未來社",
+    "isbn": "",
+    "edition": "1993年",
+    "subtitle": "ドイツ隣人間訴訟戦争"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "三酔人経綸問答",
+    "author": "中江兆民著 ; 桑原武夫, 島田虔次訳・校注",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "1965年- 岩波文庫"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "銀河英雄伝説",
+    "author": "田中芳樹",
+    "publisher": "東京創元社",
+    "isbn": "",
+    "edition": "シリーズ 2007-2008年 創元SF文庫"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "民法はおもしろい",
+    "author": "池田真朗",
+    "publisher": "講談社",
+    "isbn": "",
+    "edition": "2012年 講談社現代新書 2186"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "民法の聴きどころ",
+    "author": "米倉明",
+    "publisher": "成文堂",
+    "isbn": "",
+    "edition": "2003年"
+   }
+  },
+  {
+   "personId": "nakaya",
+   "sourceId": "src-nakaya",
+   "book": {
+    "title": "私法の道しるべ",
+    "author": "我妻榮著 ; 遠藤浩, 川井健補訂",
+    "publisher": "勁草書房",
+    "isbn": "",
+    "edition": "2013年 第二版 民法案内 1"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "メディア・リテラシー",
+    "author": "カナダ・オンタリオ州教育省編 ; FCT訳",
+    "publisher": "リベルタ出版",
+    "isbn": "",
+    "edition": "1992年",
+    "subtitle": "マスメディアを読み解く"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "マクルーハンの光景メディア論がみえる",
+    "author": "宮澤淳一",
+    "publisher": "みすず書房",
+    "isbn": "",
+    "edition": "2008年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "さよなら、消費社会",
+    "author": "カレ・ラースン",
+    "publisher": "大月書店",
+    "isbn": "",
+    "edition": "2006年",
+    "subtitle": "カルチャー・ジャマーの挑戦"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "実践カルチュラル・スタディーズ",
+    "author": "ポール・ドゥ・ゲイ ほか著 ; 暮沢剛巳訳",
+    "publisher": "大修館書店",
+    "isbn": "",
+    "edition": "2000年",
+    "subtitle": "ソニー・ウォークマンの戦略"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "池上彰・森達也のこれだけは知っておきたいマスコミの大問題",
+    "author": "池上彰, 森達也",
+    "publisher": "現代書館",
+    "isbn": "",
+    "edition": "2015年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "はじめて出会うカナダ",
+    "author": "日本カナダ学会編",
+    "publisher": "有斐閣",
+    "isbn": "",
+    "edition": "2009年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "現代カナダを知るための57章",
+    "author": "飯野正子, 竹中豊編著",
+    "publisher": "明石書店",
+    "isbn": "",
+    "edition": "2010年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "カナダを旅する37章",
+    "author": "飯野正子, 竹中豊編著",
+    "publisher": "明石書店",
+    "isbn": "",
+    "edition": "2012年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "失われた祖国",
+    "author": "ジョイ・コガワ著 ; 長岡沙里訳",
+    "publisher": "中央公論社",
+    "isbn": "",
+    "edition": "1998年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "ボクの音楽武者修行",
+    "author": "小沢征爾",
+    "publisher": "新潮社",
+    "isbn": "",
+    "edition": "1999年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "絶対音感",
+    "author": "最相葉月",
+    "publisher": "小学館",
+    "isbn": "",
+    "edition": "1998年"
+   }
+  },
+  {
+   "personId": "namita",
+   "sourceId": "src-namita",
+   "book": {
+    "title": "言語はどのように学ばれるか",
+    "author": "パッツィ・M.ライトバウン, ニーナ・スパダ著 ; 白井恭弘, 岡田雅子訳",
+    "publisher": "岩波書店",
+    "isbn": "",
+    "edition": "2014年",
+    "subtitle": "外国語学習・教育に生かす第二言語習得論"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/gakusup/",
+   "result": "rejected",
+   "reason": "名義が学生サポートルーム（部署）で個人ではなく、個々の本に推薦者の実名もない",
+   "person": ""
+  },
+  {
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kokusai_ins/",
+   "result": "rejected",
+   "reason": "名義が国際インスティテュート（部署）で個人ではない。英語学習用の洋書中心",
+   "person": ""
+  },
+  {
+   "url": "https://www.ritsumei.ac.jp/lib/d05/010/",
+   "result": "index",
+   "reason": "教員お薦め本の一覧ページ",
+   "person": ""
+  }
+ ]
+}

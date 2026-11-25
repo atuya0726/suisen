@@ -1,0 +1,22 @@
+{
+ "people": [],
+ "sources": [],
+ "recommendations": [],
+ "checkedUrls": [
+  {
+   "url": "https://designer.crowdworks.co.jp/entry/designbooks",
+   "result": "unreachable",
+   "reason": "DNS解決できず取得不可（curl終了コード6、ドメイン未稼働の可能性）"
+  },
+  {
+   "url": "https://techblog.enechain.com/entry/designers-books",
+   "result": "rejected",
+   "reason": "推薦者が姓のみ（近藤）・ハンドル名・肩書きのみ（ET、冒険家なデザイナー等）でフルネームがなく、誰が挙げたか特定できない"
+  },
+  {
+   "url": "https://designer-draft.jp/articles/125",
+   "result": "unreachable",
+   "reason": "デザイナードラフトは2023-05-31にサービス終了。全URLが終了案内PDFを返す"
+  }
+ ]
+}

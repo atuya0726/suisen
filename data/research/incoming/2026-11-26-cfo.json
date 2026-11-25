@@ -1,0 +1,605 @@
+{
+ "people": [
+  {
+   "id": "cfo1",
+   "name": "原田健",
+   "title": "BASE 取締役CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "BASE"
+  },
+  {
+   "id": "cfo2",
+   "name": "永山雅之",
+   "title": "アクセルスペース CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "アクセルスペース"
+  },
+  {
+   "id": "cfo3",
+   "name": "白石由己",
+   "title": "アルクテラス 取締役副社長（COO兼CFO）",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "アルクテラス"
+  },
+  {
+   "id": "cfo4",
+   "name": "藤田良和",
+   "title": "ギフティ CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ギフティ"
+  },
+  {
+   "id": "cfo5",
+   "name": "谷口尚人",
+   "title": "バルクオム CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "バルクオム"
+  },
+  {
+   "id": "cfo6",
+   "name": "河原亮",
+   "title": "メドレー CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "メドレー"
+  },
+  {
+   "id": "cfo7",
+   "name": "森田修平",
+   "title": "ユニファ 経営企画室室長",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ユニファ"
+  },
+  {
+   "id": "cfo8",
+   "name": "齋藤信平",
+   "title": "Inagora 執行役員/Vice President CFO/経営管理担当",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Inagora"
+  },
+  {
+   "id": "cfo9",
+   "name": "金子正一",
+   "title": "JX通信社 CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "JX通信社"
+  },
+  {
+   "id": "cfo10",
+   "name": "山本浩史",
+   "title": "Repro CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Repro"
+  },
+  {
+   "id": "cfo11",
+   "name": "中山亮",
+   "title": "Showcase Gig CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Showcase Gig"
+  },
+  {
+   "id": "cfo12",
+   "name": "富取祐香",
+   "title": "Xenoma CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Xenoma"
+  },
+  {
+   "id": "cfo13",
+   "name": "久納裕治",
+   "title": "キュア・アップ CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "キュア・アップ"
+  },
+  {
+   "id": "cfo14",
+   "name": "中西勇介",
+   "title": "サイカ CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "サイカ"
+  },
+  {
+   "id": "cfo15",
+   "name": "東後澄人",
+   "title": "freee CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "freee"
+  },
+  {
+   "id": "cfo16",
+   "name": "吉田祐輔",
+   "title": "ウォンテッドリー CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ウォンテッドリー"
+  },
+  {
+   "id": "cfo17",
+   "name": "原田隼",
+   "title": "ホワイトプラス CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ホワイトプラス"
+  },
+  {
+   "id": "cfo18",
+   "name": "鈴木塁",
+   "title": "マネーツリー 取締役最高財務責任者",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "マネーツリー"
+  },
+  {
+   "id": "cfo19",
+   "name": "水口啓",
+   "title": "Kyulux CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Kyulux"
+  },
+  {
+   "id": "cfo20",
+   "name": "鈴木智章",
+   "title": "Loco Partners CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Loco Partners"
+  },
+  {
+   "id": "cfo21",
+   "name": "森茂樹",
+   "title": "THECOO 取締役CFO兼コーポレート本部長",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "THECOO"
+  },
+  {
+   "id": "cfo22",
+   "name": "藤田圭介",
+   "title": "お金のデザイン 執行役員 CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "お金のデザイン"
+  },
+  {
+   "id": "cfo23",
+   "name": "日下部祐介",
+   "title": "スマートエデュケーション CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "スマートエデュケーション"
+  },
+  {
+   "id": "cfo24",
+   "name": "小山達郎",
+   "title": "ポケットコンシェルジュ CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "ポケットコンシェルジュ"
+  },
+  {
+   "id": "cfo25",
+   "name": "大川敬三",
+   "title": "AnyMind Group CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "AnyMind Group"
+  },
+  {
+   "id": "cfo26",
+   "name": "伊藤祐一郎",
+   "title": "Finatextホールディングス 取締役CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Finatextホールディングス"
+  },
+  {
+   "id": "cfo27",
+   "name": "川崎隆史",
+   "title": "Fringe81 CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Fringe81"
+  },
+  {
+   "id": "cfo28",
+   "name": "白髪亮太",
+   "title": "Tryfunds CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "Tryfunds"
+  },
+  {
+   "id": "cfo29",
+   "name": "歌代啓太",
+   "title": "アイデンティティー 取締役CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "アイデンティティー"
+  },
+  {
+   "id": "cfo30",
+   "name": "三嶋憲一郎",
+   "title": "FABRIC TOKYO CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "FABRIC TOKYO"
+  },
+  {
+   "id": "cfo31",
+   "name": "竹本祐也",
+   "title": "WACUL CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "WACUL"
+  },
+  {
+   "id": "cfo32",
+   "name": "堀田和彦",
+   "title": "コネクテックジャパン CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "コネクテックジャパン"
+  },
+  {
+   "id": "cfo33",
+   "name": "植西祐介",
+   "title": "プレースホルダ CFO",
+   "tags": [
+    "経営者"
+   ],
+   "affiliation": "プレースホルダ"
+  }
+ ],
+ "sources": [
+  {
+   "id": "keiei-cfo36",
+   "type": "article",
+   "media": "経営ハッカー",
+   "title": "次世代を担うベンチャーCFO36人に聞いた 「あなたの“座右の書”は何ですか？」",
+   "url": "https://keiei.freee.co.jp/articles/i0100073/",
+   "publishedAt": "2019-03-23"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "cfo1",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "コーポレートファイナンスの原理",
+    "author": "Stephen A.Ross , Randolph W.Westerfie"
+   }
+  },
+  {
+   "personId": "cfo2",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "投資される経営 売買される経営",
+    "author": "中神康議"
+   }
+  },
+  {
+   "personId": "cfo3",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "ベンチャー経営を支える法務ハンドブック",
+    "author": "橘 大地 , 中野 友貴",
+    "subtitle": "スタートアップを成長させる法と契約",
+    "edition": "改訂版"
+   }
+  },
+  {
+   "personId": "cfo4",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "企業価値評価",
+    "author": "マッキンゼー・アンド・カンパニー , ティム・コラー , マーク・フーカート",
+    "subtitle": "バリュエーションの理論と実践"
+   }
+  },
+  {
+   "personId": "cfo5",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "ドキュメントコミュニケーションの全体観 上",
+    "author": "中川邦夫",
+    "edition": "上・下巻"
+   }
+  },
+  {
+   "personId": "cfo6",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "MBAバリュエーション",
+    "author": "森生明"
+   }
+  },
+  {
+   "personId": "cfo7",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "起業のファイナンス",
+    "author": "磯崎哲也"
+   }
+  },
+  {
+   "personId": "cfo8",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "フェルマーの最終定理",
+    "author": "サイモン シン"
+   }
+  },
+  {
+   "personId": "cfo9",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "武田勝頼",
+    "author": "新田次郎"
+   }
+  },
+  {
+   "personId": "cfo10",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "デジタルCFO",
+    "author": "EYアドバイザリーアンドコンサルティング"
+   }
+  },
+  {
+   "personId": "cfo11",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "事業再生要諦",
+    "author": "越純一郎",
+    "subtitle": "志と経営力‐日本再生の十年に向けて"
+   }
+  },
+  {
+   "personId": "cfo12",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "覚悟の磨き方",
+    "author": "池田貴将",
+    "subtitle": "超訳 吉田松陰"
+   }
+  },
+  {
+   "personId": "cfo13",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "「日本の経営」を創る",
+    "author": "三枝匡 , 伊丹敬之"
+   }
+  },
+  {
+   "personId": "cfo14",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "捕手的人間の時代",
+    "author": "森祇晶",
+    "subtitle": "「勝利の方程式」などないと心得よ!"
+   }
+  },
+  {
+   "personId": "cfo15",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "企業参謀",
+    "author": "大前研一",
+    "subtitle": "戦略的思考とはなにか"
+   }
+  },
+  {
+   "personId": "cfo16",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "世界はシステムで動く",
+    "author": "ドネラ・Ｈ・メドウズ",
+    "subtitle": "いま起きていることの本質をつかむ考え方"
+   }
+  },
+  {
+   "personId": "cfo17",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "イシューからはじめよ",
+    "author": "安宅和人",
+    "subtitle": "知的生産の「シンプルな本質」"
+   }
+  },
+  {
+   "personId": "cfo18",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "マッキンゼー式 世界最強の問題解決テクニック",
+    "author": "イーサン・M・ラジエル"
+   }
+  },
+  {
+   "personId": "cfo19",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "「起業」成功戦略30章",
+    "author": "ゴートン・B. ベイティ",
+    "subtitle": "21世紀を拓く企業家精神"
+   }
+  },
+  {
+   "personId": "cfo20",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "マッキンゼー 経営の本質",
+    "author": "マービン・バウワー",
+    "subtitle": "意思と仕組み"
+   }
+  },
+  {
+   "personId": "cfo21",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "ストーリーとしての競争戦略",
+    "author": "楠木建",
+    "subtitle": "優れた戦略の条件"
+   }
+  },
+  {
+   "personId": "cfo22",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "海の都の物語",
+    "author": "塩野七生",
+    "subtitle": "ヴェネツィア共和国の一千年"
+   }
+  },
+  {
+   "personId": "cfo23",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "リー・クアンユー、世界を語る",
+    "author": "グラハム・アリソン , ロバート・D・ブラックウィル , アリ・ウィン"
+   }
+  },
+  {
+   "personId": "cfo24",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "メイク・マネー!",
+    "author": "末永徹",
+    "subtitle": "私は米国投資銀行のトレーダーだった"
+   }
+  },
+  {
+   "personId": "cfo25",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "HARD THINGS",
+    "author": "ベン ホロウィッツ",
+    "subtitle": "答えがない難問と困難にきみはどう立ち向かうか"
+   }
+  },
+  {
+   "personId": "cfo26",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "なぜ弱さを見せあえる組織が強いのか",
+    "author": "ロバート キーガン , リサ ラスコウ レイヒー",
+    "subtitle": "すべての人が自己変革に取り組む「発達指向型組織」をつくる"
+   }
+  },
+  {
+   "personId": "cfo27",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "善と悪の経済学",
+    "author": "トーマス・セドラチェク"
+   }
+  },
+  {
+   "personId": "cfo28",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "ビジョナリー・カンパニー 2",
+    "author": "ジム・コリンズ",
+    "subtitle": "飛躍の法則"
+   }
+  },
+  {
+   "personId": "cfo29",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "人を動かす",
+    "author": "D・カーネギー"
+   }
+  },
+  {
+   "personId": "cfo30",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "生き方",
+    "author": "稲盛和夫",
+    "subtitle": "人間として一番大切なこと"
+   }
+  },
+  {
+   "personId": "cfo31",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "自分の中に毒を持て",
+    "author": "岡本太郎",
+    "subtitle": "あなたは“常識人間\"を捨てられるか"
+   }
+  },
+  {
+   "personId": "cfo32",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "商いの道",
+    "author": "伊藤雅俊",
+    "subtitle": "経営の原点を考える"
+   }
+  },
+  {
+   "personId": "cfo33",
+   "sourceId": "keiei-cfo36",
+   "book": {
+    "title": "イノベーションのジレンマ",
+    "author": "クレイトン・クリステンセン"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://keiei.freee.co.jp/articles/i0100073/",
+   "result": "index",
+   "reason": "採用元。外した本: 会社四季報(雑誌・モビルス加藤建嗣)、洋書2冊(よりそう山田一慶、スターフェスティバル中西勝也)"
+  }
+ ]
+}

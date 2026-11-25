@@ -1,0 +1,333 @@
+{
+ "people": [
+  {
+   "id": "kozuka",
+   "name": "小塚舞子",
+   "title": "タレント・俳優",
+   "tags": [
+    "芸能"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "s6477",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "また次の夏休みに同じあやまちを繰り返して。【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6477",
+   "publishedAt": "2018-07-28"
+  },
+  {
+   "id": "s6295",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "私は人付き合いをスマートにこなせない。【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6295",
+   "publishedAt": "2018-06-30"
+  },
+  {
+   "id": "s6074",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "世の中にはさまざまな「面倒くさい」が集まっている【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/6074",
+   "publishedAt": "2018-05-30"
+  },
+  {
+   "id": "s5859",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "リスナーと言葉を交わすことのできるラジオが好きだ【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5859",
+   "publishedAt": "2018-04-30"
+  },
+  {
+   "id": "s5754",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「小塚さんて休日何してるんですか？」「座ってます」「えっ？」【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5754",
+   "publishedAt": "2018-03-31"
+  },
+  {
+   "id": "s5649",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "歩みを止めない時間は、悩んで成長するための時間なのだ！【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5649",
+   "publishedAt": "2018-02-28"
+  },
+  {
+   "id": "s5499",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "とにかく犬を愛している、なのでしばらくご清聴ください【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/5499",
+   "publishedAt": "2018-01-31"
+  },
+  {
+   "id": "s4894",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「油断」は人生を豊かにするといっても過言ではないのだ【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/4894",
+   "publishedAt": "2017-10-31"
+  },
+  {
+   "id": "s4144",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "どんなことにも怯えない特権が与えられる瞬間【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/4144",
+   "publishedAt": "2017-08-31"
+  },
+  {
+   "id": "s3755",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「分からないことが、分かる」。母と娘をつなぐ作文の哲学【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/3755",
+   "publishedAt": "2017-07-31"
+  },
+  {
+   "id": "s2913",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "「音楽が好き」を考え抜いたら、自意識にぶつかった【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/2913",
+   "publishedAt": "2017-05-31"
+  },
+  {
+   "id": "s2480",
+   "type": "article",
+   "media": "ホンシェルジュ",
+   "title": "追想、セーラームーン的表紙の本【小塚舞子】",
+   "url": "https://honcierge.jp/articles/shelf_story/2480",
+   "publishedAt": "2017-04-28"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kozuka",
+   "sourceId": "s6477",
+   "book": {
+    "title": "円卓",
+    "author": "西 加奈子",
+    "edition": "文春文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6477",
+   "book": {
+    "title": "逃亡くそたわけ",
+    "author": "絲山秋子",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6295",
+   "book": {
+    "title": "きりこについて",
+    "author": "西 加奈子",
+    "edition": "角川文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6295",
+   "book": {
+    "title": "モテキ 1",
+    "author": "久保 ミツロウ",
+    "edition": "新装版 KCデラックス イブニング"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6074",
+   "book": {
+    "title": "今夜、すべてのバーで",
+    "author": "中島 らも",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s6074",
+   "book": {
+    "title": "きみの友だち",
+    "author": "重松 清",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5859",
+   "book": {
+    "title": "想像ラジオ",
+    "author": "いとう せいこう",
+    "edition": "河出文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5859",
+   "book": {
+    "title": "電気グルーヴの続・メロン牧場―花嫁は死神 上",
+    "author": "電気グルーヴ",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5754",
+   "book": {
+    "title": "マチネの終わりに",
+    "author": "平野 啓一郎",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5754",
+   "book": {
+    "title": "青い車",
+    "author": "よしもと よしとも",
+    "edition": "CUE COMICS"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5649",
+   "book": {
+    "title": "通天閣",
+    "author": "西 加奈子",
+    "edition": "ちくま文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5649",
+   "book": {
+    "title": "サーモン・キャッチャー the Novel",
+    "author": "道尾 秀介",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5499",
+   "book": {
+    "title": "星守る犬",
+    "author": "村上 たかし",
+    "edition": ""
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s5499",
+   "book": {
+    "title": "近所の犬",
+    "author": "姫野 カオルコ",
+    "edition": "幻冬舎文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s4894",
+   "book": {
+    "title": "旅猫リポート",
+    "author": "有川 浩",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s4894",
+   "book": {
+    "title": "噂の女",
+    "author": "奥田 英朗",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s4144",
+   "book": {
+    "title": "僕にはわからない",
+    "author": "中島 らも",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s3755",
+   "book": {
+    "title": "漁港の肉子ちゃん",
+    "author": "西 加奈子",
+    "edition": "幻冬舎文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s2913",
+   "book": {
+    "title": "さらば雑司ヶ谷",
+    "author": "樋口 毅宏",
+    "edition": "新潮文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s2913",
+   "book": {
+    "title": "ロカ",
+    "author": "中島 らも",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s2480",
+   "book": {
+    "title": "ことり",
+    "author": "小川洋子",
+    "edition": "朝日文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s2480",
+   "book": {
+    "title": "風の歌を聴け",
+    "author": "村上 春樹",
+    "edition": "講談社文庫"
+   }
+  },
+  {
+   "personId": "kozuka",
+   "sourceId": "s2480",
+   "book": {
+    "title": "うつくしい人",
+    "author": "西 加奈子",
+    "edition": "幻冬舎文庫"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/4144",
+   "result": "candidate",
+   "reason": "『イビサ』（村上龍）は「一番怖かった本」で肯定か否定か断定できず除外",
+   "person": "小塚舞子"
+  },
+  {
+   "url": "https://honcierge.jp/articles/shelf_story/3755",
+   "result": "candidate",
+   "reason": "『言葉はひろがる』（鶴見俊輔）は小学生以来読んでおらず紹介をためらう書きぶりのため除外",
+   "person": "小塚舞子"
+  }
+ ]
+}

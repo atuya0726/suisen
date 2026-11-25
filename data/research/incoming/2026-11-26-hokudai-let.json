@@ -1,0 +1,83 @@
+{
+ "people": [
+  {
+   "id": "kato-hirofumi",
+   "name": "加藤博文",
+   "title": "北海道大学 大学院文学研究院 教授（アイヌ・先住民学研究室）",
+   "tags": [
+    "研究者"
+   ],
+   "affiliation": "北海道大学"
+  }
+ ],
+ "sources": [
+  {
+   "id": "src-kato-hirofumi",
+   "type": "article",
+   "media": "北海道大学 大学院文学研究院",
+   "title": "教員紹介 加藤博文",
+   "url": "https://www.let.hokudai.ac.jp/staff/kato-hirofumi"
+  }
+ ],
+ "recommendations": [
+  {
+   "personId": "kato-hirofumi",
+   "sourceId": "src-kato-hirofumi",
+   "book": {
+    "title": "空間の経験",
+    "author": "イーフー・トゥアン",
+    "publisher": "筑摩書房",
+    "edition": "ちくま学芸文庫"
+   }
+  }
+ ],
+ "checkedUrls": [
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/cho-yenling",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/eda-masaki",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hayashidera-shoshun",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/higuchi-mari",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/hisai-atsuyo",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/imamura-nobutaka",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kaneko-sae",
+   "result": "rejected",
+   "reason": "「おすすめの本」欄なし"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/iwashita-akihiro",
+   "result": "rejected",
+   "reason": "「おすすめの本」は自著（北方領土問題）だけ",
+   "person": "岩下明裕"
+  },
+  {
+   "url": "https://www.let.hokudai.ac.jp/staff/kato-sachi",
+   "result": "rejected",
+   "reason": "「おすすめの本」は電子書籍のみの本（波多野完治『文章心理学入門』）",
+   "person": "加藤祥"
+  }
+ ]
+}

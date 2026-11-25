@@ -1423,39 +1423,39 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/misu/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-misu",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/mochizuki/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-mochizuki",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/morihisa/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-morihisa",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/murakami/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-murakami",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nagashima/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-nagashima",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakagawa/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-nakagawa",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakamura/",
@@ -1465,15 +1465,15 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nakaya/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-nakaya",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/namita/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "adopted",
+    "reason": "sources.json の src-namita",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/nezu/",
@@ -10631,10 +10631,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/kato-hirofumi",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "adopted",
+    "reason": "sources.json の src-kato-hirofumi",
     "person": "kato-hirofumi",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/kato-sachi",
@@ -14030,9 +14030,9 @@
   },
   {
     "url": "https://keiei.freee.co.jp/articles/i0100073/",
-    "result": "candidate",
-    "reason": "経営ハッカー「ベンチャーCFO36人に聞いた座右の書」（2019、無料・全文）。CFOが1冊ずつ。名前で検索される人は少ないので後回し",
-    "checkedAt": "2026-11-17"
+    "result": "adopted",
+    "reason": "sources.json の keiei-cfo36",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://news.livedoor.com/article/detail/12506680/",
@@ -21347,24 +21347,24 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6477",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6477",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6295",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6295",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6074",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s6074",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/6067",
@@ -21382,24 +21382,24 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5859",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5859",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5754",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5754",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5649",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5649",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5584",
@@ -21410,10 +21410,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5499",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s5499",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5367",
@@ -21438,10 +21438,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/4894",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s4894",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/4670",
@@ -21452,17 +21452,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/4144",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s4144",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/3755",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s3755",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/3410",
@@ -21473,10 +21473,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2913",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s2913",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2728",
@@ -21494,10 +21494,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2480",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "adopted",
+    "reason": "sources.json の s2480",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2299",
