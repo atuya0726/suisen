@@ -1,0 +1,10 @@
+{"people":[],"sources":[],"recommendations":[],"checkedUrls":[
+{"url":"https://kangaeruhito.jp/news/7390","result":"index","reason":"考える人（新潮社）「たいせつな本 ―とっておきの10冊―」。2019-06 開始、第23回（2026-06）まで。作家・研究者などが主題を決めて10冊を挙げる（リレー書評）。無料。robots.txt は問題なし。一覧の URL は不明（/series/taisetsunahon は 404）で、サイト内検索 ?s=たいせつな本 から各回（/article/数字）に行ける。未読。自著が混ざる回がある"},
+{"url":"https://kangaeruhito.jp/article/698364","result":"candidate","reason":"たいせつな本（16）高野秀行の10冊。未読","person":"高野秀行"},
+{"url":"https://kangaeruhito.jp/article/756411","result":"candidate","reason":"たいせつな本（18）小山田浩子の10冊。未読","person":"小山田浩子"},
+{"url":"https://kangaeruhito.jp/article/211731","result":"candidate","reason":"たいせつな本（13）清涼院流水の10冊。未読","person":"清涼院流水"},
+{"url":"https://kangaeruhito.jp/article/16692","result":"candidate","reason":"たいせつな本（12）竹内薫の10冊。未読","person":"竹内薫"},
+{"url":"https://www.j-wave.co.jp/original/bookbar/","result":"candidate","reason":"Gemini の手がかり（J-WAVE「BOOK BAR」アーカイブ。杏・大倉眞一郎とゲストが本を紹介）。URL と書名が文字で載るかは未確認"},
+{"url":"https://designer.crowdworks.co.jp/entry/designbooks","result":"unreachable","reason":"ホスト名が引けない（2026-11-26）"},
+{"url":"https://designer-draft.jp/articles/125","result":"unreachable","reason":"サービス終了（2023-05-31）。どの URL も終了案内を返す"}
+]}

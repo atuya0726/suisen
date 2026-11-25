@@ -1309,9 +1309,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/gakusup/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "rejected",
+    "reason": "名義が学生サポートルーム（部署）で個人ではなく、個々の本に推薦者の実名もない",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/hagiwara/",
@@ -1405,9 +1405,9 @@
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/kokusai_ins/",
-    "result": "candidate",
-    "reason": "未収集の一覧掲載ページ（未取得）",
-    "checkedAt": "2026-11-15"
+    "result": "rejected",
+    "reason": "名義が国際インスティテュート（部署）で個人ではない。英語学習用の洋書中心",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.ritsumei.ac.jp/lib/d05/010/kic/konok/",
@@ -6540,17 +6540,17 @@
   },
   {
     "url": "https://hon-hikidashi.jp/book-person/77315/",
-    "result": "candidate",
-    "reason": "斉藤壮馬（声優）インタビュー。書影カードなし、未精読",
+    "result": "rejected",
+    "reason": "B+LIBRARYの宣伝インタビュー。挙がる本は出演作が中心で、薦めと断定できない",
     "person": "斉藤壮馬",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://hon-hikidashi.jp/book-person/61586/",
-    "result": "candidate",
-    "reason": "両＠リベ大学長インタビュー。未精読",
+    "result": "rejected",
+    "reason": "自著『改訂版 お金の大学』の宣伝インタビュー。他の本の具体的な推薦なし",
     "person": "両＠リベ大学長",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://libguides.lib.keio.ac.jp/hys_recommend_books/2015#s-lg-box-21047994",
@@ -7894,10 +7894,10 @@
   },
   {
     "url": "https://realsound.jp/book/2025/12/post-2246524.html",
-    "result": "candidate",
-    "reason": "環ROYがYA小説『杉森くんを殺すには』を語る回。本人の薦める本か未確認。未読",
+    "result": "rejected",
+    "reason": "出版社（担当編集）が用意した『杉森くんを殺すには』を読んで語る企画。本人が愛読・推薦する本とは言えず見送り",
     "person": "環ROY",
-    "checkedAt": "2026-11-15"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://realsound.jp/book/2025/03/post-1955342.html",
@@ -10519,10 +10519,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/cho-yenling",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "cho-yenling",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/coker-caitlin-christine",
@@ -10533,10 +10533,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/eda-masaki",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "eda-masaki",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/fujita-takeshi",
@@ -10561,17 +10561,17 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hayashidera-shoshun",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "hayashidera-shoshun",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/higuchi-mari",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "higuchi-mari",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hiramatsu-makoto",
@@ -10596,17 +10596,17 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/hisai-atsuyo",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "hisai-atsuyo",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/imamura-nobutaka",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "imamura-nobutaka",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/isahaya-yoichi",
@@ -10617,17 +10617,17 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/iwashita-akihiro",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
-    "person": "iwashita-akihiro",
-    "checkedAt": "2026-11-16"
+    "result": "rejected",
+    "reason": "「おすすめの本」は自著（北方領土問題）だけ",
+    "person": "岩下明裕",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/kaneko-sae",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
+    "result": "rejected",
+    "reason": "「おすすめの本」欄なし",
     "person": "kaneko-sae",
-    "checkedAt": "2026-11-16"
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/kato-hirofumi",
@@ -10638,10 +10638,10 @@
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/kato-sachi",
-    "result": "candidate",
-    "reason": "「おすすめの本」欄あり。今回は上限（10人）のため未取得（冒頭のみ確認）",
-    "person": "kato-sachi",
-    "checkedAt": "2026-11-16"
+    "result": "rejected",
+    "reason": "「おすすめの本」は電子書籍のみの本（波多野完治『文章心理学入門』）",
+    "person": "加藤祥",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.let.hokudai.ac.jp/staff/kato-shigehiro",
@@ -12836,15 +12836,15 @@
   },
   {
     "url": "https://designer.crowdworks.co.jp/entry/designbooks",
-    "result": "candidate",
-    "reason": "複数デザイナーに聞いた影響を受けた本。今回読めず",
-    "checkedAt": "2026-11-16"
+    "result": "unreachable",
+    "reason": "DNS解決できず取得不可（curl終了コード6、ドメイン未稼働の可能性）",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://techblog.enechain.com/entry/designers-books",
-    "result": "candidate",
-    "reason": "enechainデザイナーの本棚。今回読めず",
-    "checkedAt": "2026-11-16"
+    "result": "rejected",
+    "reason": "推薦者が姓のみ（近藤）・ハンドル名・肩書きのみ（ET、冒険家なデザイナー等）でフルネームがなく、誰が挙げたか特定できない",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://magazine.redesigner.jp/post/ReDesigner-OnlineTalk-vol1",
@@ -12854,9 +12854,9 @@
   },
   {
     "url": "https://designer-draft.jp/articles/125",
-    "result": "candidate",
-    "reason": "ドラフト指名されたデザイナーが選ぶ影響を受けた本8選。今回読めず",
-    "checkedAt": "2026-11-16"
+    "result": "unreachable",
+    "reason": "デザイナードラフトは2023-05-31にサービス終了。全URLが終了案内PDFを返す",
+    "checkedAt": "2026-11-26"
   },
   {
     "url": "https://www.webdoku.jp/rensai/sakka/michi159_aono/",
@@ -13863,9 +13863,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8025",
-    "result": "candidate",
-    "reason": "わちゅ～＠の連載コラム。本人が本を選んでいるらしいが今回は未開封（連載の1記事）",
-    "checkedAt": "2026-11-17"
+    "result": "rejected",
+    "reason": "わちゅ～＠はバンドThinking Dogsのベーシストの芸名で、実名・素性が確認できないため載せない",
+    "checkedAt": "2026-11-21",
+    "person": "わちゅ～＠"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/8178",
@@ -15646,10 +15647,10 @@
   },
   {
     "url": "https://ddnavi.com/news/896845/a/",
-    "result": "candidate",
-    "reason": "2021年回のカズレーザー記事。未取得（一覧は採用済み）",
+    "result": "rejected",
+    "reason": "同じ放送回（アメトーーク！2021-12-02）を d895139 の記事で取り込み済み。新明解国語辞典は先の記事で採っておらず、推薦か判断がつかないため見送り",
     "person": "カズレーザー",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://realsound.jp/book/2023/04/post-1310451.html",
@@ -15957,31 +15958,31 @@
   },
   {
     "url": "https://realsound.jp/book/2021/09/post-858448_2.html",
-    "result": "candidate",
-    "reason": "上白石萌音の読書インタビュー（2021）。時間切れで未読",
+    "result": "rejected",
+    "reason": "2ページ目に本人が挙げる書名なし（和菓子の事典等の一般的言及のみ）",
     "person": "上白石萌音",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://realsound.jp/book/2021/03/post-717588.html",
-    "result": "candidate",
-    "reason": "山崎怜奈インタビュー（歴史）。未読",
+    "result": "rejected",
+    "reason": "自著『歴史のじかん』の宣伝インタビュー。他の本を薦める発言なし（群書類従は人物の説明のみ）",
     "person": "山崎怜奈",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.jprime.jp/articles/-/38341",
-    "result": "candidate",
-    "reason": "上白石萌音『あさイチ』（2024-09-10放送）の報道記事。未読",
+    "result": "rejected",
+    "reason": "あさイチ放送の読書特集の報道だが、本文に具体的な書名なし",
     "person": "上白石萌音",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://bunshun.jp/articles/photo/76497",
-    "result": "candidate",
-    "reason": "上白石萌音関連の文春記事。未読",
+    "result": "rejected",
+    "reason": "写真ページのみで本の言及なし",
     "person": "上白石萌音",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://dime.jp/genre/1894807/",
@@ -16087,10 +16088,10 @@
   },
   {
     "url": "https://ddnavi.com/article/d1209647/a/",
-    "result": "candidate",
-    "reason": "筒井康隆の記事。未読",
+    "result": "rejected",
+    "reason": "筒井康隆自著の書評。影響を受けた本はハイデガー『存在と時間』（翻訳書）のみで対象外",
     "person": "筒井康隆",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://realsound.jp/book/2024/08/post-1760910_2.html",
@@ -16192,10 +16193,10 @@
   },
   {
     "url": "https://bunshun.jp/articles/-/85",
-    "result": "candidate",
-    "reason": "星野源のインタビュー。安部公房『壁』、ガルシア=マルケス等に言及。未確認",
+    "result": "rejected",
+    "reason": "別人（作家の星野智幸）のインタビューで、星野源の記事ではない",
     "person": "星野源",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://ginzamag.com/culture/24books-6",
@@ -16205,10 +16206,10 @@
   },
   {
     "url": "https://ginzamag.com/interview/genhoshino",
-    "result": "candidate",
-    "reason": "星野源のインタビュー。本の言及があるか未確認",
+    "result": "unreachable",
+    "reason": "API の本文が空（旧記事）で、HTML にも本文なし。取得できず本文未確認",
     "person": "星野源",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://www.cinematoday.jp/interview/A0006949",
@@ -16226,10 +16227,10 @@
   },
   {
     "url": "https://press.moviewalker.jp/news/article/58499/",
-    "result": "candidate",
-    "reason": "杉咲花に聞く15の質問（影響を受けたものの質問）。未確認",
+    "result": "rejected",
+    "reason": "2015年の映画の質問インタビューで本の言及なし",
     "person": "杉咲花",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://books.bunshun.jp/articles/-/2137",
@@ -16305,10 +16306,10 @@
   },
   {
     "url": "https://bunshun.jp/articles/-/64784",
-    "result": "candidate",
-    "reason": "藤井聡太が最近読み始めたものの記事。本文未確認",
+    "result": "unreachable",
+    "reason": "404（URL違いの可能性）",
     "person": "藤井聡太",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://bunshun.jp/articles/-/79373",
@@ -16326,10 +16327,10 @@
   },
   {
     "url": "https://realsound.jp/book/2025/05/post-2025050.html",
-    "result": "candidate",
-    "reason": "宮崎駿・鈴木敏夫に影響を与える作家・石坂洋次郎。鈴木敏夫の選書の可能性、本文未確認",
+    "result": "rejected",
+    "reason": "NHK『心おどる あの人の本棚』第5回の言及はあるが放送日が特定できず、記事は石坂洋次郎の論評が中心",
     "person": "鈴木敏夫",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://bunshun.jp/bungeishunju/articles/h10806",
@@ -16361,17 +16362,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/2611",
-    "result": "candidate",
-    "reason": "堀江貴文の記事（検索結果に出たが未確認）",
+    "result": "rejected",
+    "reason": "堀江貴文の著書10冊を古本ライターが紹介する記事。自著で、本人が薦める本ではない",
     "person": "堀江貴文",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://dime.jp/genre/1036028/",
-    "result": "candidate",
-    "reason": "堀江貴文の読書に関する記事（服役中の読書）。本文未確認",
+    "result": "rejected",
+    "reason": "PR記事（2020-12-11, 広告表示）で出典にしない",
     "person": "堀江貴文",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://books.bunshun.jp/articles/-/3676",
@@ -16401,31 +16402,31 @@
   },
   {
     "url": "https://tezukaosamu.net/jp/mushi/201407/column.html",
-    "result": "candidate",
-    "reason": "201410から前回コラムとして参照。今回開けなかった",
+    "result": "rejected",
+    "reason": "モブシーンの解説。愛読書の記述なし",
     "person": "手塚治虫",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://tezukaosamu.net/jp/mushi/entry/14171.html",
-    "result": "candidate",
-    "reason": "16401の関連記事（手塚マンガのルーツを調査せよ！の前回までの可能性）。今回開けなかった",
+    "result": "rejected",
+    "reason": "ファン大会の報告。愛読書の記述なし",
     "person": "手塚治虫",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://tezukaosamu.net/jp/mushi/entry/14205.html",
-    "result": "candidate",
-    "reason": "16401の関連記事。今回開けなかった",
+    "result": "rejected",
+    "reason": "ファン大会の報告。愛読書の記述なし",
     "person": "手塚治虫",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://tezukaosamu.net/jp/mushi/entry/16380.html",
-    "result": "candidate",
-    "reason": "16401の関連記事（ルーツ調査の第2回の可能性）。今回開けなかった",
+    "result": "rejected",
+    "reason": "影響を受けた漫画は妹の談話と編集部の推測。本人の文章は作者名（田河水泡）への傾倒のみで、特定の本を挙げていない",
     "person": "手塚治虫",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honto.jp/article/honnofes.html",
@@ -16526,10 +16527,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11609",
-    "result": "candidate",
-    "reason": "椎名林檎の検索で出たが未開封（本人の選書か不明）",
+    "result": "rejected",
+    "reason": "藤原努（元ホリプロプロデューサー）の連載。椎名林檎本人の選書ではなく、評論書についての記事",
     "person": "椎名林檎",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://i-voce.jp/feed/669359/",
@@ -16945,10 +16946,10 @@
   },
   {
     "url": "https://www.jprime.jp/articles/-/13460",
-    "result": "candidate",
-    "reason": "若林正恭の読書関連記事。検索結果の要約のみで開いていない",
+    "result": "rejected",
+    "reason": "自著『ナナメの夕暮れ』のインタビュー（3ページ）。他の本を愛読・推薦する発言なし",
     "person": "若林正恭",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://realsound.jp/book/2026/08/post-2497022",
@@ -17420,17 +17421,17 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5018",
-    "result": "candidate",
-    "reason": "つぶやきシロー「つぶやき読書」第2回。本の選び方（本人選か依頼か）が未確認。同連載は第2〜26回（5019,5375,5465,5523,5617,5703,5768,5831,5885,5981,6088,6207,6311,6422,6490,6617,6688,6761,6819,6875,6928,6994）",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
     "person": "つぶやきシロー",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/5375",
-    "result": "candidate",
-    "reason": "つぶやきシロー「つぶやき読書」第4回。5018と同じ理由で未確認",
+    "result": "rejected",
+    "reason": "つぶやきシロー「つぶやき読書」。編集部が半強制的に渡した本の感想で、本人が選んだ本ではない（第2回・第4回の本文で確認）",
     "person": "つぶやきシロー",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/9695",
@@ -17553,9 +17554,9 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/9376",
-    "result": "candidate",
-    "reason": "「フリースタイル書評バトル-芸人編-」第2回（9473,9780,9962 も）。複数芸人が書評で競う企画で、誰がどの本かの確認が未了",
-    "checkedAt": "2026-11-18"
+    "result": "rejected",
+    "reason": "フリースタイル書評バトル。書評で、誰がどの本かの確認もしていない（brief指示）",
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11645",
@@ -17651,10 +17652,10 @@
   },
   {
     "url": "https://ddnavi.com/article/1455182/a/",
-    "result": "candidate",
-    "reason": "「救いがないのに心に残る小説7選」。編集部の選書記事で、佐々木希の発言が一部ある。誰がどの本を挙げたか未確認。本文は開いていない",
+    "result": "rejected",
+    "reason": "編集部の7選記事。佐々木希は『告白』を「気になる1冊」と挙げるのみで、薦めた・好きと断定できない",
     "person": "佐々木希",
-    "checkedAt": "2026-11-18"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://ddnavi.com/article/1443715/a/",
@@ -18088,10 +18089,10 @@
   },
   {
     "url": "https://www.oricon.co.jp/news/2465191/",
-    "result": "candidate",
-    "reason": "URL特定のみ。本文未確認（キャプテン翼の発言記事。見出しのみ確認）",
+    "result": "rejected",
+    "reason": "キャプテン翼のパートナーシップ発表会の記事で宣伝対象の本",
     "person": "中田英寿",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://classy-online.jp/lifestyle/357538/",
@@ -18139,17 +18140,17 @@
   },
   {
     "url": "https://shonenjump.com/p/sp/1706/samura_fujimoto",
-    "result": "candidate",
-    "reason": "時間切れで未取得（対談記事は shonenjump.com 掲載とのこと）。本人が沙村作品を好きと語る箇所の本文確認が必要",
+    "result": "unreachable",
+    "reason": "404（www付き・末尾スラッシュ付きも404）",
     "person": "藤本タツキ",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://www.ghibli.jp/info/007358",
-    "result": "candidate",
-    "reason": "時間切れで未取得。『本へのとびら』は書籍で、Webの本文での確認が必要",
+    "result": "unreachable",
+    "reason": "404",
     "person": "宮崎駿",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-21"
   },
   {
     "url": "https://hon-hikidashi.jp/honyoubi/158478",
@@ -18237,10 +18238,10 @@
   },
   {
     "url": "https://croissant-online.jp/culture/244304",
-    "result": "candidate",
-    "reason": "robots.txt が404でサイト構造不明、記事を特定できず未取得",
+    "result": "unreachable",
+    "reason": "404 ページが見つかりません（記事なし）",
     "person": "山田詠美",
-    "checkedAt": "2026-11-19"
+    "checkedAt": "2026-11-22"
   },
   {
     "url": "https://natalie.mu/music/news/16453",
@@ -21165,10 +21166,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/11586",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "rejected",
+    "reason": "林真理子『アッコちゃんの時代』を取り上げる回だが、薦める・好きだとはっきり書いておらず不採用",
     "person": "西川あやの",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/9673",
@@ -21256,10 +21257,10 @@
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7604",
-    "result": "candidate",
-    "reason": "本文の読み込みが未完了、または薦める記述が断定できず採用しなかった（回数が多く優先度順に処理）",
+    "result": "rejected",
+    "reason": "本の紹介なし（出産体験談のみ）",
     "person": "小塚舞子",
-    "checkedAt": "2026-11-21"
+    "checkedAt": "2026-11-25"
   },
   {
     "url": "https://honcierge.jp/articles/shelf_story/7476",
@@ -21660,10 +21661,10 @@
   },
   {
     "url": "https://book.asahi.com/article/14467685",
-    "result": "candidate",
-    "reason": "谷原書店 2021-10 未読",
+    "result": "rejected",
+    "reason": "過去の回の5冊を再掲する回。各回の出典で掲載済みのため重ねて載せない",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14445347",
@@ -21758,10 +21759,10 @@
   },
   {
     "url": "https://book.asahi.com/article/14354503",
-    "result": "candidate",
-    "reason": "谷原書店 2021-05 未読",
+    "result": "rejected",
+    "reason": "過去の回の5冊を再掲する回。各回の出典で掲載済みのため重ねて載せない",
     "person": "谷原章介",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-23"
   },
   {
     "url": "https://book.asahi.com/article/14333890",
@@ -21933,24 +21934,24 @@
   },
   {
     "url": "https://jp.toto.com/publishing/detail/A0009_02.html",
-    "result": "candidate",
-    "reason": "Gemini の手がかり（TOTO通信「安藤忠雄、本を語る。」、宮本武蔵・古寺巡礼・風土）。URL と本文は未確認",
+    "result": "unreachable",
+    "reason": "404。A0009.htm は別の本（トイレは笑う）で安藤忠雄の記事ではない。出版ページ一覧にも該当なし",
     "person": "安藤忠雄",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://ameblo.jp/ryohei-suzuki-2010/entry-10831627916.html",
-    "result": "candidate",
-    "reason": "Gemini の手がかり（本人ブログ 2011「質問返し！読書と旅行と健康法」、阪急電車・風に立つライオン）。URL と本文は未確認",
+    "result": "unreachable",
+    "reason": "404（ページ削除または URL 違い）",
     "person": "鈴木亮平",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://ameblo.jp/ryohei-suzuki-2010/entry-10825310705.html",
-    "result": "candidate",
-    "reason": "Gemini の手がかり（本人ブログ 2011「質問返し！熱き想い」）。URL と本文は未確認",
+    "result": "unreachable",
+    "reason": "404（ページ削除または URL 違い）",
     "person": "鈴木亮平",
-    "checkedAt": "2026-11-22"
+    "checkedAt": "2026-11-24"
   },
   {
     "url": "https://book.asahi.com/article/17053466",
@@ -22077,5 +22078,45 @@
     "reason": "推薦者 小林 和也。書籍ではなくDVD『四季・ユートピアノ』のため除外",
     "person": "小林和也",
     "checkedAt": "2026-11-24"
+  },
+  {
+    "url": "https://kangaeruhito.jp/news/7390",
+    "result": "index",
+    "reason": "考える人（新潮社）「たいせつな本 ―とっておきの10冊―」。2019-06 開始、第23回（2026-06）まで。作家・研究者などが主題を決めて10冊を挙げる（リレー書評）。無料。robots.txt は問題なし。一覧の URL は不明（/series/taisetsunahon は 404）で、サイト内検索 ?s=たいせつな本 から各回（/article/数字）に行ける。未読。自著が混ざる回がある",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/698364",
+    "result": "candidate",
+    "reason": "たいせつな本（16）高野秀行の10冊。未読",
+    "person": "高野秀行",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/756411",
+    "result": "candidate",
+    "reason": "たいせつな本（18）小山田浩子の10冊。未読",
+    "person": "小山田浩子",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/211731",
+    "result": "candidate",
+    "reason": "たいせつな本（13）清涼院流水の10冊。未読",
+    "person": "清涼院流水",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/16692",
+    "result": "candidate",
+    "reason": "たいせつな本（12）竹内薫の10冊。未読",
+    "person": "竹内薫",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bookbar/",
+    "result": "candidate",
+    "reason": "Gemini の手がかり（J-WAVE「BOOK BAR」アーカイブ。杏・大倉眞一郎とゲストが本を紹介）。URL と書名が文字で載るかは未確認",
+    "checkedAt": "2026-11-26"
   }
 ]
