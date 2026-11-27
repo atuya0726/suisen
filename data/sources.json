@@ -19552,5 +19552,115 @@
     "title": "RADWIMPS 野田洋次郎が見てきたポップカルチャーの原風景",
     "url": "https://rollingstonejapan.com/articles/detail/30708/6/1/1",
     "publishedAt": "2019-04-30"
+  },
+  {
+    "id": "kangaeruhito-oyamada-hiroshima",
+    "type": "article",
+    "media": "考える人",
+    "title": "広島に気づく10冊",
+    "url": "https://kangaeruhito.jp/article/756411",
+    "publishedAt": "2023-05-29"
+  },
+  {
+    "id": "kobecco-araki-tezuka-2025",
+    "type": "article",
+    "media": "神戸っ子",
+    "title": "WEB版 エンタメ情報｜宝塚市立手塚治虫記念館30周年記念トークショー 漫画家 荒木飛呂彦さん、語る！",
+    "url": "https://kobecco.hpg.co.jp/98944/",
+    "publishedAt": "2025-04-11"
+  },
+  {
+    "id": "ugaki-youtube-mystery-2026",
+    "type": "video",
+    "media": "宇垣美里のYouTubeチャンネル",
+    "title": "読書の秋 おすすめミステリー3選",
+    "url": "https://www.youtube.com/watch?v=LHRhJds35qc",
+    "publishedAt": "2026-09-11"
+  },
+  {
+    "id": "mext-kimino-issatsu",
+    "type": "article",
+    "media": "文部科学省",
+    "title": "子供の読書キャンペーン～きみの一冊をさがそう～",
+    "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_00480.html"
+  },
+  {
+    "id": "goethe",
+    "type": "interview",
+    "media": "GOETHE",
+    "title": "フリーアナウンサー宇垣美里の“男を上げる”オススメの漫画3選",
+    "url": "https://goetheweb.jp/person/article/20201129-recommended_comics_misato_ugaki",
+    "publishedAt": "2020-11-29"
+  },
+  {
+    "id": "cinra-musicians-bookstore-aimyon",
+    "type": "article",
+    "media": "CINRA",
+    "title": "ぼくりりやCHAI、BOMIらの人生を変えた本、合計100冊を一挙紹介",
+    "url": "https://www.cinra.net/article/report-201709-Kyash?page=2",
+    "publishedAt": "2017-09-25"
+  },
+  {
+    "id": "nikkei-asai-university",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "自分が「何者」か分からなかった朝井リョウが、進学先を決めた一冊",
+    "url": "https://bookplus.nikkei.com/atcl/column/082000561/122500004/",
+    "publishedAt": "2026-01-05"
+  },
+  {
+    "id": "kangaeruhito-takano-language",
+    "type": "article",
+    "media": "考える人",
+    "title": "言語の面白さを教えてくれる10冊",
+    "url": "https://kangaeruhito.jp/article/698364",
+    "publishedAt": "2022-09-27"
+  },
+  {
+    "id": "oggi",
+    "type": "interview",
+    "media": "Oggi.jp",
+    "title": "働く私たちの「読書欲」を刺激！ 宇垣美里さん×森本萌乃さんの読書対談♡",
+    "url": "https://oggi.jp/7534729",
+    "publishedAt": "2025-07-16"
+  },
+  {
+    "id": "crea24",
+    "type": "interview",
+    "media": "CREA WEB",
+    "title": "フリーアナウンサー・宇垣美里さんの「いま人に薦めたい愛読マンガ」7冊",
+    "url": "https://crea.bunshun.jp/articles/-/50276",
+    "publishedAt": "2024-09-13"
+  },
+  {
+    "id": "inazuma-flash-kazama-33",
+    "type": "podcast",
+    "media": "林士平のイナズマフラッシュ（Apple Podcasts）",
+    "title": "第33回 『シティーハンター』『H2』『ジョジョの奇妙な冒険』様々な目線で語る漫画の世界で最強のキャラクターは？【ゲスト⑦風間俊介】",
+    "url": "https://podcasts.apple.com/jp/podcast/id1788131395?i=1000695351577",
+    "publishedAt": "2025-02-24"
+  },
+  {
+    "id": "nikkei-asai-jobhunting",
+    "type": "interview",
+    "media": "日経BOOKプラス",
+    "title": "朝井リョウ　就活で心を守る一冊「社会に出る心配はそんなにしなくていい」",
+    "url": "https://bookplus.nikkei.com/atcl/column/082000561/122500005/",
+    "publishedAt": "2026-01-09"
+  },
+  {
+    "id": "crea26",
+    "type": "interview",
+    "media": "CREA WEB",
+    "title": "「この努力を私は愛と呼ぶ」宇垣美里さんが選ぶ、シスターフッドと尊さに満ちた愛読マンガ5選",
+    "url": "https://crea.bunshun.jp/articles/-/59859",
+    "publishedAt": "2026-09-07"
+  },
+  {
+    "id": "mext-motto-hirogaru-honnomori",
+    "type": "article",
+    "media": "文部科学省",
+    "title": "子供の読書キャンペーン～もっとひろがれ！本の森～",
+    "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2021.html"
   }
 ]

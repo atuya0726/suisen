@@ -22087,17 +22087,17 @@
   },
   {
     "url": "https://kangaeruhito.jp/article/698364",
-    "result": "candidate",
-    "reason": "たいせつな本（16）高野秀行の10冊。未読",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-takano-language",
     "person": "高野秀行",
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   {
     "url": "https://kangaeruhito.jp/article/756411",
-    "result": "candidate",
-    "reason": "たいせつな本（18）小山田浩子の10冊。未読",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-oyamada-hiroshima",
     "person": "小山田浩子",
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   {
     "url": "https://kangaeruhito.jp/article/211731",
@@ -22514,6 +22514,119 @@
     "result": "rejected",
     "reason": "robots.txt",
     "person": "齋藤飛鳥",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kobecco.hpg.co.jp/98944/",
+    "result": "adopted",
+    "reason": "sources.json の kobecco-araki-tezuka-2025",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LHRhJds35qc",
+    "result": "adopted",
+    "reason": "sources.json の ugaki-youtube-mystery-2026",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_00480.html",
+    "result": "adopted",
+    "reason": "sources.json の mext-kimino-issatsu",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://goetheweb.jp/person/article/20201129-recommended_comics_misato_ugaki",
+    "result": "adopted",
+    "reason": "sources.json の goethe",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.cinra.net/article/report-201709-Kyash?page=2",
+    "result": "adopted",
+    "reason": "sources.json の cinra-musicians-bookstore-aimyon",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082000561/122500004/",
+    "result": "adopted",
+    "reason": "sources.json の nikkei-asai-university",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://oggi.jp/7534729",
+    "result": "adopted",
+    "reason": "sources.json の oggi",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://crea.bunshun.jp/articles/-/50276",
+    "result": "adopted",
+    "reason": "sources.json の crea24",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://podcasts.apple.com/jp/podcast/id1788131395?i=1000695351577",
+    "result": "adopted",
+    "reason": "sources.json の inazuma-flash-kazama-33",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082000561/122500005/",
+    "result": "adopted",
+    "reason": "sources.json の nikkei-asai-jobhunting",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://crea.bunshun.jp/articles/-/59859",
+    "result": "adopted",
+    "reason": "sources.json の crea26",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2021.html",
+    "result": "adopted",
+    "reason": "sources.json の mext-motto-hirogaru-honnomori",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://tezukaosamu.net/jp/mushi/entry/34567.html",
+    "result": "rejected",
+    "reason": "同じトークイベントの別出典を採用済み",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://i-voce.jp/feed/4072604/",
+    "result": "rejected",
+    "reason": "robots.txt（ClaudeBot・anthropic-ai を拒否）",
+    "person": "北川景子",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://withonline.jp/lifestyle/6028",
+    "result": "rejected",
+    "reason": "robots.txt（ClaudeBot・anthropic-ai を拒否）",
+    "person": "北川景子",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://utaten.com/specialArticle/index/1376",
+    "result": "candidate",
+    "reason": "あいみょんが岡本太郎『今日の芸術』を曲作りの着想源として語る本人取材。同じ作品はCINRAの本人選書で採用。",
+    "person": "あいみょん",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.cinra.net/article/report-201709-Kyash",
+    "result": "index",
+    "reason": "CINRA主催イベント「MUSICIAN’S BOOKSTORE」の記事。本人コメントを載せた2ページ目をあいみょんの出典に採用。",
+    "person": "あいみょん",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.oricon.co.jp/news/2481346/full/",
+    "result": "index",
+    "reason": "宇垣美里の公式YouTubeの推薦動画「読書の秋 おすすめミステリー3選」の配信を報じる記事。本人動画を出典に採用。",
+    "person": "宇垣美里",
     "checkedAt": "2026-11-27"
   }
 ]

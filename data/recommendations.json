@@ -57087,5 +57087,790 @@
     "isbn13": "9784309039626",
     "sourceId": "tbs-gosatsuten-2026",
     "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784130841016",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784560088982",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784469213607",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784260009539",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784469012798",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784622076537",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784622089643",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p1036",
+    "isbn13": "9784422390055",
+    "sourceId": "kangaeruhito-takano-language",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784591028759",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784834008777",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784061975590",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784065246344",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784835454917",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784783737834",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784779124747",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784845851812",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "note": "前後編のうち前編を掲載。",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784904816431",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p0949",
+    "isbn13": "9784860114640",
+    "sourceId": "kangaeruhito-oyamada-hiroshima",
+    "verified": true
+  },
+  {
+    "personId": "p1686",
+    "isbn13": "9784061087392",
+    "sourceId": "kobecco-araki-tezuka-2025",
+    "verified": true
+  },
+  {
+    "personId": "p1686",
+    "isbn13": "9784253031608",
+    "sourceId": "kobecco-araki-tezuka-2025",
+    "verified": true
+  },
+  {
+    "personId": "p1686",
+    "isbn13": "9784063737820",
+    "sourceId": "kobecco-araki-tezuka-2025",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784000926645",
+    "sourceId": "genron-cafe-books-2020",
+    "note": "夢解釈を収録する第4巻・第5巻のうち第4巻を掲載。",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784833221702",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784000004497",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784101294728",
+    "sourceId": "nikkei-asai-university",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784043943685",
+    "sourceId": "nikkei-asai-university",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784344409224",
+    "sourceId": "nikkei-asai-university",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784344419797",
+    "sourceId": "nikkei-asai-university",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784344408326",
+    "sourceId": "nikkei-asai-university",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784093888967",
+    "sourceId": "nikkei-asai-jobhunting",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784101167589",
+    "sourceId": "nikkei-asai-jobhunting",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784043791033",
+    "sourceId": "nikkei-asai-jobhunting",
+    "verified": true
+  },
+  {
+    "personId": "p1134",
+    "isbn13": "9784801924109",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1134",
+    "isbn13": "9784336036124",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1134",
+    "isbn13": "9784909646279",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1134",
+    "isbn13": "9784309468143",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1134",
+    "isbn13": "9784150124151",
+    "sourceId": "tbs-gosatsuten-2026",
+    "note": "収録作「ソフトウェア・オブジェクトのライフサイクル」を選書",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784806715245",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784140817339",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784763140647",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784910790077",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0466",
+    "isbn13": "9784326154616",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1687",
+    "isbn13": "9784003234914",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1687",
+    "isbn13": "9784947719058",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1687",
+    "isbn13": "9784480075512",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1687",
+    "isbn13": "9784750352817",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1687",
+    "isbn13": "9784772421256",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1688",
+    "isbn13": "9784120056284",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1688",
+    "isbn13": "9784101050454",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1688",
+    "isbn13": "9784101492223",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1688",
+    "isbn13": "9784101311814",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1689",
+    "isbn13": "9784309010496",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1689",
+    "isbn13": "9784122049697",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1689",
+    "isbn13": "9784001140088",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1689",
+    "isbn13": "9784863855113",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1689",
+    "isbn13": "9784087474206",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1690",
+    "isbn13": "9784865284959",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1690",
+    "isbn13": "9784898151778",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1690",
+    "isbn13": "9784480431530",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1690",
+    "isbn13": "9784098511396",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1691",
+    "isbn13": "9784907239053",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1691",
+    "isbn13": "9784911226063",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1691",
+    "isbn13": "9784622096979",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1691",
+    "isbn13": "9784479394631",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1691",
+    "isbn13": "9784065425237",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0095",
+    "isbn13": "9784560090893",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0095",
+    "isbn13": "9784775530269",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0095",
+    "isbn13": "9784102002032",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0095",
+    "isbn13": "9784309419930",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0095",
+    "isbn13": "9784102157251",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784622039709",
+    "sourceId": "oggi",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784484211039",
+    "sourceId": "oggi",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784140057292",
+    "sourceId": "oggi",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784309039169",
+    "sourceId": "oggi",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784065105863",
+    "sourceId": "goethe",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784091913944",
+    "sourceId": "goethe",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784396767174",
+    "sourceId": "goethe",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784065334874",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784821157204",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784088448398",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784098501694",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784396750497",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784063885170",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784163918228",
+    "sourceId": "crea24",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784088932477",
+    "sourceId": "crea26",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784047383838",
+    "sourceId": "crea26",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784065433607",
+    "sourceId": "crea26",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784253298810",
+    "sourceId": "crea26",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784065433683",
+    "sourceId": "crea26",
+    "verified": true
+  },
+  {
+    "personId": "p1692",
+    "isbn13": "9784049111835",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1693",
+    "isbn13": "9784576151144",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1694",
+    "isbn13": "9784591169032",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1695",
+    "isbn13": "9784480738110",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1696",
+    "isbn13": "9784041003183",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1697",
+    "isbn13": "9784087520446",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1698",
+    "isbn13": "9784062577168",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1699",
+    "isbn13": "9784001140347",
+    "sourceId": "mext-kimini-okuritai",
+    "note": "『ナルニア国ものがたり』第1巻",
+    "verified": true
+  },
+  {
+    "personId": "p1700",
+    "isbn13": "9784396613228",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1701",
+    "isbn13": "9784594030193",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1702",
+    "isbn13": "9784101098012",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1703",
+    "isbn13": "9784163907956",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1704",
+    "isbn13": "9784101018201",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1705",
+    "isbn13": "9784866512419",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1706",
+    "isbn13": "9784569534077",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1707",
+    "isbn13": "9784903690537",
+    "sourceId": "mext-anatato-yomitai",
+    "verified": true
+  },
+  {
+    "personId": "p1708",
+    "isbn13": "9784591163504",
+    "sourceId": "mext-motto-hirogaru-honnomori",
+    "verified": true
+  },
+  {
+    "personId": "p1709",
+    "isbn13": "9784102122044",
+    "sourceId": "mext-motto-hirogaru-honnomori",
+    "verified": true
+  },
+  {
+    "personId": "p1437",
+    "isbn13": "9784826910002",
+    "sourceId": "mext-motto-hirogaru-honnomori",
+    "verified": true
+  },
+  {
+    "personId": "p1710",
+    "isbn13": "9784061475113",
+    "sourceId": "mext-motto-hirogaru-honnomori",
+    "verified": true
+  },
+  {
+    "personId": "p1711",
+    "isbn13": "9784774147840",
+    "sourceId": "mext-motto-hirogaru-honnomori",
+    "verified": true
+  },
+  {
+    "personId": "p1693",
+    "isbn13": "9784893094315",
+    "sourceId": "mext-kimino-issatsu",
+    "verified": true
+  },
+  {
+    "personId": "p1693",
+    "isbn13": "9784893094476",
+    "sourceId": "mext-kimino-issatsu",
+    "verified": true
+  },
+  {
+    "personId": "p1693",
+    "isbn13": "9784893094520",
+    "sourceId": "mext-kimino-issatsu",
+    "verified": true
+  },
+  {
+    "personId": "p1712",
+    "isbn13": "9784334039899",
+    "sourceId": "mext-kimino-issatsu",
+    "verified": true
+  },
+  {
+    "personId": "p1713",
+    "isbn13": "9784335357923",
+    "sourceId": "mext-kimino-issatsu",
+    "verified": true
+  },
+  {
+    "personId": "p1714",
+    "isbn13": "9784022630032",
+    "sourceId": "mext-kimino-issatsu",
+    "note": "上巻を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784065403150",
+    "sourceId": "ugaki-youtube-mystery-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784302123230",
+    "sourceId": "ugaki-youtube-mystery-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784087700084",
+    "sourceId": "ugaki-youtube-mystery-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784167839017",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784309408149",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784575513448",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784198933678",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784334727895",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784344418509",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784043718061",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784167732011",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784838727148",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p1715",
+    "isbn13": "9784800200761",
+    "sourceId": "cinra-musicians-bookstore-aimyon",
+    "verified": true
+  },
+  {
+    "personId": "p0327",
+    "isbn13": "9784122043442",
+    "sourceId": "inazuma-flash-kazama-33",
+    "verified": true
   }
 ]

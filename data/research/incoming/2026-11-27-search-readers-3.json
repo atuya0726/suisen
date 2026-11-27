@@ -1,0 +1,1807 @@
+{
+  "people": [
+    {
+      "id": "p1036",
+      "name": "高野秀行",
+      "kana": "たかのひでゆき",
+      "title": "ノンフィクション作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "p0949",
+      "name": "小山田浩子",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hirohiko-araki",
+      "name": "荒木飛呂彦",
+      "kana": "あらきひろひこ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "p1678",
+      "name": "東浩紀",
+      "kana": "あずまひろき",
+      "title": "批評家・作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "p0096",
+      "name": "朝井リョウ",
+      "kana": "あさいりょう",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "kana-ikezawa",
+      "name": "池澤春菜",
+      "kana": "いけざわ はるな",
+      "title": "声優・作家",
+      "tags": [
+        "芸能",
+        "作家"
+      ]
+    },
+    {
+      "id": "seiko-ito",
+      "name": "いとうせいこう",
+      "kana": "いとう せいこう",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "chiki-ogiue",
+      "name": "荻上チキ",
+      "kana": "おぎうえ ちき",
+      "title": "評論家・ラジオパーソナリティ",
+      "tags": []
+    },
+    {
+      "id": "seigikan-kotake",
+      "name": "こたけ正義感",
+      "kana": "こたけ せいぎかん",
+      "title": "お笑い芸人・弁護士",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "gunpee",
+      "name": "ぐんぴぃ",
+      "kana": "ぐんぴぃ",
+      "title": "お笑い芸人（春とヒコーキ）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "taro-yabe",
+      "name": "矢部太郎",
+      "kana": "やべ たろう",
+      "title": "お笑い芸人・漫画家",
+      "tags": [
+        "芸能",
+        "作家"
+      ]
+    },
+    {
+      "id": "utamaru",
+      "name": "宇多丸",
+      "kana": "うたまる",
+      "title": "ラッパー・ラジオパーソナリティ",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "asako-yuzuki",
+      "name": "柚木麻子",
+      "kana": "ゆずき あさこ",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "ugaki",
+      "name": "宇垣美里",
+      "kana": "うがきみさと",
+      "title": "フリーアナウンサー・俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mext3-kunieda",
+      "name": "国枝慎吾",
+      "kana": "くにえだしんご",
+      "title": "元車いすテニス選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-kosaka",
+      "name": "古坂大魔王",
+      "kana": "こさかだいまおう",
+      "title": "芸人・プロデューサー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mext3-otsuka",
+      "name": "大塚達宣",
+      "kana": "おおつかたつのり",
+      "title": "バレーボール選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-nomura",
+      "name": "野村萬斎",
+      "kana": "のむらまんさい",
+      "title": "狂言師",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mext3-honma",
+      "name": "本間希樹",
+      "kana": "ほんままれき",
+      "title": "天文学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "mext3-miyata",
+      "name": "宮田愛萌",
+      "kana": "みやたまなも",
+      "title": "作家・短歌研究員",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "mext3-yobinori",
+      "name": "ヨビノリたくみ",
+      "kana": "よびのりたくみ",
+      "title": "教育系YouTuber",
+      "tags": []
+    },
+    {
+      "id": "mext3-amimoto",
+      "name": "網本麻里",
+      "kana": "あみもとまり",
+      "title": "車いすバスケットボール選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-ike",
+      "name": "池透暢",
+      "kana": "いけゆきのぶ",
+      "title": "車いすラグビー選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-kinjo",
+      "name": "金城梨紗子",
+      "kana": "きんじょうりさこ",
+      "title": "レスリング選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-suzuki-takayuki",
+      "name": "鈴木孝幸",
+      "kana": "すずきたかゆき",
+      "title": "パラ水泳選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-seki",
+      "name": "関菜々巳",
+      "kana": "せきななみ",
+      "title": "バレーボール選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-masuko",
+      "name": "益子直美",
+      "kana": "ますこなおみ",
+      "title": "元バレーボール選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-miyake",
+      "name": "三宅宏実",
+      "kana": "みやけひろみ",
+      "title": "ウエイトリフティング選手・指導者",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-watabe",
+      "name": "渡部暁斗",
+      "kana": "わたべあきと",
+      "title": "ノルディック複合選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-lilico",
+      "name": "LiLiCo",
+      "kana": "りりこ",
+      "title": "タレント・映画コメンテーター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mext3-sakanakun",
+      "name": "さかなクン",
+      "title": "東京海洋大学名誉博士",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "mext3-murai",
+      "name": "村井美樹",
+      "title": "俳優・タレント",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mext3-matsuoka",
+      "name": "松岡正剛",
+      "title": "編集工学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "mext3-murofushi",
+      "name": "室伏広治",
+      "title": "元陸上競技選手・スポーツ庁長官",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "mext3-yoshino",
+      "name": "吉野彰",
+      "title": "化学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "mext3-kajita",
+      "name": "梶田隆章",
+      "title": "物理学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "mext3-sato",
+      "name": "佐藤弘道",
+      "title": "タレント・医学博士",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "mext3-yamazaki",
+      "name": "山崎直子",
+      "title": "宇宙飛行士",
+      "tags": []
+    },
+    {
+      "id": "aimyon",
+      "name": "あいみょん",
+      "kana": "あいみょん",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kazama",
+      "name": "風間俊介",
+      "kana": "かざましゅんすけ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "kangaeruhito-takano-language",
+      "type": "article",
+      "media": "考える人",
+      "title": "言語の面白さを教えてくれる10冊",
+      "url": "https://kangaeruhito.jp/article/698364",
+      "publishedAt": "2022-09-27"
+    },
+    {
+      "id": "kangaeruhito-oyamada-hiroshima",
+      "type": "article",
+      "media": "考える人",
+      "title": "広島に気づく10冊",
+      "url": "https://kangaeruhito.jp/article/756411",
+      "publishedAt": "2023-05-29"
+    },
+    {
+      "id": "kobecco-araki-tezuka-2025",
+      "type": "article",
+      "media": "神戸っ子",
+      "title": "WEB版 エンタメ情報｜宝塚市立手塚治虫記念館30周年記念トークショー 漫画家 荒木飛呂彦さん、語る！",
+      "url": "https://kobecco.hpg.co.jp/98944/",
+      "publishedAt": "2025-04-11"
+    },
+    {
+      "id": "genron-cafe-books-2020",
+      "type": "article",
+      "media": "ゲンロンカフェ",
+      "title": "ゲンロンカフェ選書リスト",
+      "url": "https://webgenron.com/articles/cafebookselection",
+      "publishedAt": "2020-11-13"
+    },
+    {
+      "id": "nikkei-asai-university",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "自分が「何者」か分からなかった朝井リョウが、進学先を決めた一冊",
+      "url": "https://bookplus.nikkei.com/atcl/column/082000561/122500004/",
+      "publishedAt": "2026-01-05"
+    },
+    {
+      "id": "nikkei-asai-jobhunting",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "朝井リョウ　就活で心を守る一冊「社会に出る心配はそんなにしなくていい」",
+      "url": "https://bookplus.nikkei.com/atcl/column/082000561/122500005/",
+      "publishedAt": "2026-01-09"
+    },
+    {
+      "id": "tbs-gosatsuten-2026",
+      "type": "article",
+      "media": "TBSラジオ（radiko news）",
+      "title": "全105冊。本を愛する21人がテーマを決めて五冊を選ぶ。『五冊展』選書リスト",
+      "url": "https://news.radiko.jp/article/station/TBS/132247/",
+      "publishedAt": "2026-02-16"
+    },
+    {
+      "id": "oggi",
+      "type": "interview",
+      "media": "Oggi.jp",
+      "title": "働く私たちの「読書欲」を刺激！ 宇垣美里さん×森本萌乃さんの読書対談♡",
+      "url": "https://oggi.jp/7534729",
+      "publishedAt": "2025-07-16"
+    },
+    {
+      "id": "goethe",
+      "type": "interview",
+      "media": "GOETHE",
+      "title": "フリーアナウンサー宇垣美里の“男を上げる”オススメの漫画3選",
+      "url": "https://goetheweb.jp/person/article/20201129-recommended_comics_misato_ugaki",
+      "publishedAt": "2020-11-29"
+    },
+    {
+      "id": "crea24",
+      "type": "interview",
+      "media": "CREA WEB",
+      "title": "フリーアナウンサー・宇垣美里さんの「いま人に薦めたい愛読マンガ」7冊",
+      "url": "https://crea.bunshun.jp/articles/-/50276",
+      "publishedAt": "2024-09-13"
+    },
+    {
+      "id": "crea26",
+      "type": "interview",
+      "media": "CREA WEB",
+      "title": "「この努力を私は愛と呼ぶ」宇垣美里さんが選ぶ、シスターフッドと尊さに満ちた愛読マンガ5選",
+      "url": "https://crea.bunshun.jp/articles/-/59859",
+      "publishedAt": "2026-09-07"
+    },
+    {
+      "id": "mext-kimini-okuritai",
+      "type": "article",
+      "media": "文部科学省",
+      "title": "子供の読書キャンペーン～きみに贈りたい１冊～",
+      "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2023.html"
+    },
+    {
+      "id": "mext-anatato-yomitai",
+      "type": "article",
+      "media": "文部科学省",
+      "title": "子供の読書キャンペーン ＃あなたと読みたい1冊",
+      "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/",
+      "publishedAt": "2025-04-18"
+    },
+    {
+      "id": "mext-motto-hirogaru-honnomori",
+      "type": "article",
+      "media": "文部科学省",
+      "title": "子供の読書キャンペーン～もっとひろがれ！本の森～",
+      "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2021.html"
+    },
+    {
+      "id": "mext-kimino-issatsu",
+      "type": "article",
+      "media": "文部科学省",
+      "title": "子供の読書キャンペーン～きみの一冊をさがそう～",
+      "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/mext_00480.html"
+    },
+    {
+      "id": "ugaki-youtube-mystery-2026",
+      "type": "video",
+      "media": "宇垣美里のYouTubeチャンネル",
+      "title": "読書の秋 おすすめミステリー3選",
+      "url": "https://www.youtube.com/watch?v=LHRhJds35qc",
+      "publishedAt": "2026-09-11"
+    },
+    {
+      "id": "cinra-musicians-bookstore-aimyon",
+      "type": "article",
+      "media": "CINRA",
+      "title": "ぼくりりやCHAI、BOMIらの人生を変えた本、合計100冊を一挙紹介",
+      "url": "https://www.cinra.net/article/report-201709-Kyash?page=2",
+      "publishedAt": "2017-09-25"
+    },
+    {
+      "id": "inazuma-flash-kazama-33",
+      "type": "podcast",
+      "media": "林士平のイナズマフラッシュ（Apple Podcasts）",
+      "title": "第33回 『シティーハンター』『H2』『ジョジョの奇妙な冒険』様々な目線で語る漫画の世界で最強のキャラクターは？【ゲスト⑦風間俊介】",
+      "url": "https://podcasts.apple.com/jp/podcast/id1788131395?i=1000695351577",
+      "publishedAt": "2025-02-24"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "言語学バーリ・トゥード",
+        "author": "川添愛",
+        "publisher": "東京大学出版会",
+        "subtitle": "Round 1 AIは「絶対に押すなよ」を理解できるか"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "日本語とにらめっこ",
+        "author": "モハメド・オマル・アブディン、河路由佳",
+        "publisher": "白水社"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "ことばの地理学",
+        "author": "大西拓一郎",
+        "publisher": "大修館書店"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "コーダの世界",
+        "author": "澁谷智子",
+        "publisher": "医学書院"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "事典 世界のことば141",
+        "author": "梶茂樹、中島由美、林徹",
+        "publisher": "大修館書店"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "ピダハン",
+        "author": "ダニエル・L・エヴェレット、屋代通子",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "数の発明",
+        "author": "ケイレブ・エヴェレット、屋代通子",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "p1036",
+      "sourceId": "kangaeruhito-takano-language",
+      "book": {
+        "title": "フィールド言語学者、巣ごもる。",
+        "author": "吉岡乾",
+        "publisher": "創元社"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "うわさのズッコケ株式会社",
+        "author": "那須正幹、前川かずお",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "へくそ花も花盛り",
+        "author": "大道あや",
+        "publisher": "福音館書店"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "管絃祭",
+        "author": "竹西寛子",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "暁の宇品",
+        "author": "堀川惠子",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "ピカドン",
+        "author": "福島菊次郎",
+        "publisher": "復刊ドットコム",
+        "subtitle": "ある原爆被災者の記録"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "燃える庭、こわばる川",
+        "author": "望月遊馬",
+        "publisher": "思潮社"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "夢の器",
+        "author": "原民喜、天瀬裕康",
+        "publisher": "彩流社",
+        "subtitle": "原民喜 初期幻想傑作集"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "平太郎に怖いものはない 前編",
+        "author": "スケラッコ",
+        "publisher": "リイド社"
+      },
+      "note": "前後編のうち前編を掲載。"
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "本屋で待つ",
+        "author": "佐藤友則、島田潤一郎",
+        "publisher": "夏葉社"
+      }
+    },
+    {
+      "personId": "p0949",
+      "sourceId": "kangaeruhito-oyamada-hiroshima",
+      "book": {
+        "title": "頁をめくる音で息をする",
+        "author": "藤井基二",
+        "publisher": "本の雑誌社"
+      }
+    },
+    {
+      "personId": "hirohiko-araki",
+      "sourceId": "kobecco-araki-tezuka-2025",
+      "book": {
+        "title": "W3（ワンダースリー）",
+        "author": "手塚治虫",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "hirohiko-araki",
+      "sourceId": "kobecco-araki-tezuka-2025",
+      "book": {
+        "title": "ブラック・ジャック",
+        "author": "手塚治虫",
+        "publisher": "秋田書店",
+        "edition": "第1巻"
+      }
+    },
+    {
+      "personId": "hirohiko-araki",
+      "sourceId": "kobecco-araki-tezuka-2025",
+      "book": {
+        "title": "バンパイヤ",
+        "author": "手塚治虫",
+        "publisher": "講談社",
+        "edition": "手塚治虫文庫全集・シリーズ"
+      }
+    },
+    {
+      "personId": "p1678",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "フロイト全集 4 夢解釈 I",
+        "author": "ジークムント・フロイト、新宮一成",
+        "publisher": "岩波書店"
+      },
+      "note": "夢解釈を収録する第4巻・第5巻のうち第4巻を掲載。"
+    },
+    {
+      "personId": "p1678",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "アナーキー・国家・ユートピア",
+        "author": "ロバート・ノージック、嶋津格",
+        "publisher": "木鐸社"
+      }
+    },
+    {
+      "personId": "p1678",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "偶然性・アイロニー・連帯",
+        "author": "リチャード・ローティ、齋藤純一、山岡龍一、大川正彦",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-university",
+      "book": {
+        "title": "雪沼とその周辺",
+        "author": "堀江敏幸",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-university",
+      "book": {
+        "title": "神田川デイズ",
+        "author": "豊島ミホ",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-university",
+      "book": {
+        "title": "檸檬のころ",
+        "author": "豊島ミホ",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-university",
+      "book": {
+        "title": "リテイク・シックスティーン",
+        "author": "豊島ミホ",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-university",
+      "book": {
+        "title": "底辺女子高生",
+        "author": "豊島ミホ",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-jobhunting",
+      "book": {
+        "title": "逃亡の書",
+        "author": "前川仁之",
+        "publisher": "小学館"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-jobhunting",
+      "book": {
+        "title": "風が強く吹いている",
+        "author": "三浦しをん",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "p0096",
+      "sourceId": "nikkei-asai-jobhunting",
+      "book": {
+        "title": "DIVE!! 上",
+        "author": "森絵都",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "kana-ikezawa",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "シオンズ・フィクション",
+        "author": "シェルドン・テイテルバウム、エマヌエル・ロテム",
+        "publisher": "竹書房",
+        "subtitle": "イスラエルSF傑作選"
+      }
+    },
+    {
+      "personId": "kana-ikezawa",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "精霊たちの家",
+        "author": "イサベル・アジェンデ",
+        "publisher": "国書刊行会",
+        "edition": "木村榮一訳"
+      }
+    },
+    {
+      "personId": "kana-ikezawa",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "フライデー・ブラック",
+        "author": "ナナ・クワメ・アジェイ＝ブレニヤー",
+        "publisher": "駒草出版",
+        "edition": "押野素子訳"
+      }
+    },
+    {
+      "personId": "kana-ikezawa",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "問題だらけの女性たち",
+        "author": "ジャッキー・フレミング",
+        "publisher": "河出書房新社",
+        "edition": "松田青子訳"
+      }
+    },
+    {
+      "personId": "kana-ikezawa",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "息吹",
+        "author": "テッド・チャン",
+        "publisher": "早川書房",
+        "edition": "大森望訳"
+      },
+      "note": "収録作「ソフトウェア・オブジェクトのライフサイクル」を選書"
+    },
+    {
+      "personId": "seiko-ito",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "土と内臓",
+        "author": "デイビッド・モントゴメリー、アン・ビクレー",
+        "publisher": "築地書館",
+        "edition": "片岡夏実訳"
+      }
+    },
+    {
+      "personId": "seiko-ito",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "植物は〈未来〉を知っている",
+        "author": "ステファノ・マンクーゾ、アレッサンドラ・ヴィオ",
+        "publisher": "NHK出版",
+        "edition": "久保耕司訳"
+      }
+    },
+    {
+      "personId": "seiko-ito",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "プランツケア",
+        "author": "川原伸晃",
+        "publisher": "サンマーク出版"
+      }
+    },
+    {
+      "personId": "seiko-ito",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "植物考",
+        "author": "藤原辰史",
+        "publisher": "生きのびるブックス"
+      }
+    },
+    {
+      "personId": "seiko-ito",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "植物の生の哲学",
+        "author": "エマヌエーレ・コッチャ",
+        "publisher": "勁草書房",
+        "edition": "嶋崎正樹訳"
+      }
+    },
+    {
+      "personId": "chiki-ogiue",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "隠喩としての病い・エイズとその隠喩",
+        "author": "スーザン・ソンタグ",
+        "publisher": "岩波書店",
+        "edition": "富山太佳夫訳"
+      }
+    },
+    {
+      "personId": "chiki-ogiue",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ブエノス・ディアス、ニッポン",
+        "author": "ななころびやおき",
+        "publisher": "ラティーナ",
+        "subtitle": "外国人が生きる「もうひとつのニッポン」"
+      }
+    },
+    {
+      "personId": "chiki-ogiue",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ACEサバイバー",
+        "author": "三谷はるよ",
+        "publisher": "筑摩書房",
+        "subtitle": "子ども期の逆境に苦しむ人々"
+      }
+    },
+    {
+      "personId": "chiki-ogiue",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "男子という闇",
+        "author": "エマ・ブラウン",
+        "publisher": "明石書店",
+        "subtitle": "少年をいかに性暴力から守るか",
+        "edition": "山岡希美訳"
+      }
+    },
+    {
+      "personId": "chiki-ogiue",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "トラウマからの回復と社会の修復",
+        "author": "野坂祐子",
+        "publisher": "金剛出版"
+      }
+    },
+    {
+      "personId": "seigikan-kotake",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "黄色い家",
+        "author": "川上未映子",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "seigikan-kotake",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "金閣寺",
+        "author": "三島由紀夫",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "seigikan-kotake",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "殺人犯はそこにいる",
+        "author": "清水潔",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "seigikan-kotake",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "でっちあげ",
+        "author": "福田ますみ",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "gunpee",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "母の発達",
+        "author": "笙野頼子",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "gunpee",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "告白",
+        "author": "町田康",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "gunpee",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "クマのプーさん",
+        "author": "A・A・ミルン",
+        "publisher": "岩波書店",
+        "edition": "石井桃子訳"
+      }
+    },
+    {
+      "personId": "gunpee",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "感電しかけた話",
+        "author": "伊舎堂仁",
+        "publisher": "書肆侃侃房"
+      }
+    },
+    {
+      "personId": "gunpee",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "さるのこしかけ",
+        "author": "さくらももこ",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "taro-yabe",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "時間旅行者の日記",
+        "author": "藤岡みなみ",
+        "publisher": "左右社"
+      }
+    },
+    {
+      "personId": "taro-yabe",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "板尾日記",
+        "author": "板尾創路",
+        "publisher": "リトル・モア"
+      }
+    },
+    {
+      "personId": "taro-yabe",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "私の絵日記",
+        "author": "藤原マキ",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "taro-yabe",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "断腸亭にちじょう",
+        "author": "ガンプ",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "utamaru",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "九月、東京の路上で",
+        "author": "加藤直樹",
+        "publisher": "ころから",
+        "subtitle": "1923年関東大震災ジェノサイドの残響"
+      }
+    },
+    {
+      "personId": "utamaru",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "中学生から知りたいパレスチナのこと",
+        "author": "岡真理、小山哲、藤原辰史",
+        "publisher": "ミシマ社"
+      }
+    },
+    {
+      "personId": "utamaru",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "核燃料サイクルという迷宮",
+        "author": "山本義隆",
+        "publisher": "みすず書房",
+        "subtitle": "核ナショナリズムがもたらしたもの"
+      }
+    },
+    {
+      "personId": "utamaru",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ブラッド・コバルト",
+        "author": "シッダルタ・カラ",
+        "publisher": "大和書房",
+        "subtitle": "コンゴ人の血がスマートフォンに変わるまで",
+        "edition": "夏目大訳"
+      }
+    },
+    {
+      "personId": "utamaru",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "仮放免の子どもたち",
+        "author": "池尾伸一",
+        "publisher": "講談社",
+        "subtitle": "「日本人ファースト」の標的"
+      }
+    },
+    {
+      "personId": "asako-yuzuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "大仏ホテルの幽霊",
+        "author": "カン・ファギル",
+        "publisher": "白水社",
+        "edition": "小山内園子訳"
+      }
+    },
+    {
+      "personId": "asako-yuzuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "イエルバブエナ",
+        "author": "ニナ・ラクール",
+        "publisher": "オークラ出版",
+        "edition": "吉田育未訳"
+      }
+    },
+    {
+      "personId": "asako-yuzuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "レベッカ 上",
+        "author": "ダフネ・デュ・モーリア",
+        "publisher": "新潮社",
+        "edition": "茅野美ど里訳"
+      }
+    },
+    {
+      "personId": "asako-yuzuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "紅雀",
+        "author": "吉屋信子",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "asako-yuzuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "贖罪",
+        "author": "イアン・マキューアン",
+        "publisher": "新潮社",
+        "edition": "小山太一訳"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "oggi",
+      "book": {
+        "title": "夜と霧",
+        "author": "ヴィクトール・E・フランクル",
+        "publisher": "みすず書房",
+        "isbn": "9784622039709",
+        "edition": "新版"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "oggi",
+      "book": {
+        "title": "女ふたり、暮らしています。",
+        "author": "キム・ハナ、ファン・ソヌ",
+        "publisher": "CCCメディアハウス",
+        "isbn": "9784484211039"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "oggi",
+      "book": {
+        "title": "とりあえずお湯わかせ",
+        "author": "柚木麻子",
+        "publisher": "NHK出版",
+        "isbn": "9784140057292"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "oggi",
+      "book": {
+        "title": "ナチュラルボーンチキン",
+        "author": "金原ひとみ",
+        "publisher": "河出書房新社",
+        "isbn": "9784309039169"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "goethe",
+      "book": {
+        "title": "ブルーピリオド",
+        "author": "山口つばさ",
+        "publisher": "講談社",
+        "isbn": "9784065105863",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "goethe",
+      "book": {
+        "title": "恋愛的瞬間",
+        "author": "吉野朔実",
+        "publisher": "小学館",
+        "isbn": "9784091913944",
+        "edition": "シリーズ・小学館文庫"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "goethe",
+      "book": {
+        "title": "違国日記",
+        "author": "ヤマシタトモコ",
+        "publisher": "祥伝社",
+        "isbn": "9784396767174",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "君と宇宙を歩くために",
+        "author": "泥ノ田犬彦",
+        "publisher": "講談社",
+        "isbn": "9784065334874",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "じゃあ、あんたが作ってみろよ",
+        "author": "谷口菜津子",
+        "publisher": "ぶんか社",
+        "isbn": "9784821157204",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "環と周",
+        "author": "よしながふみ",
+        "publisher": "集英社",
+        "isbn": "9784088448398"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "龍と苺",
+        "author": "柳本光晴",
+        "publisher": "小学館",
+        "isbn": "9784098501694",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "君がまた描きだす線",
+        "author": "加藤羽入",
+        "publisher": "祥伝社",
+        "isbn": "9784396750497",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "オリオリスープ",
+        "author": "綿貫芳子",
+        "publisher": "講談社",
+        "isbn": "9784063885170",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea24",
+      "book": {
+        "title": "老犬とつづ井",
+        "author": "つづ井",
+        "publisher": "文藝春秋",
+        "isbn": "9784163918228"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea26",
+      "book": {
+        "title": "バカ女26時",
+        "author": "遠野めざ、彩乃浦助",
+        "publisher": "集英社",
+        "isbn": "9784088932477",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea26",
+      "book": {
+        "title": "かみちゃんがいればマル",
+        "author": "古田青葉",
+        "publisher": "KADOKAWA",
+        "isbn": "9784047383838",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea26",
+      "book": {
+        "title": "ドラゴンの胃でおやすみ",
+        "author": "大橋ユウ、西村隆",
+        "publisher": "講談社",
+        "isbn": "9784065433607",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea26",
+      "book": {
+        "title": "ウシミツガオ",
+        "author": "板垣巴留",
+        "publisher": "秋田書店",
+        "isbn": "9784253298810",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "crea26",
+      "book": {
+        "title": "ローワライ",
+        "author": "雪野朝哉",
+        "publisher": "講談社",
+        "isbn": "9784065433683",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "mext3-kunieda",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "ギネス世界記録2024",
+        "author": "クレイグ・グレンディ、大木哲",
+        "publisher": "角川アスキー総合研究所"
+      }
+    },
+    {
+      "personId": "mext3-kosaka",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "14歳からの哲学入門",
+        "author": "飲茶",
+        "publisher": "二見書房"
+      }
+    },
+    {
+      "personId": "mext3-otsuka",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "ほたるいしマジカルランド",
+        "author": "寺地はるな",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "mext3-nomura",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "中島敦全集 1 小説",
+        "author": "中島敦",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "mext3-honma",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "天地明察 上",
+        "author": "冲方丁",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "mext3-miyata",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "たけくらべ",
+        "author": "樋口一葉",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "mext3-yobinori",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "「余剰次元」と逆二乗則の破れ",
+        "author": "村田次郎",
+        "publisher": "講談社",
+        "edition": "ブルーバックス"
+      }
+    },
+    {
+      "personId": "mext3-amimoto",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "ライオンと魔女",
+        "author": "C. S. ルイス、瀬田貞二",
+        "publisher": "岩波書店",
+        "edition": "岩波少年文庫 新版"
+      },
+      "note": "『ナルニア国ものがたり』第1巻"
+    },
+    {
+      "personId": "mext3-ike",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "「最高の自分」を引き出すセルフトーク・テクニック",
+        "author": "田中ウルヴェ京",
+        "publisher": "祥伝社"
+      }
+    },
+    {
+      "personId": "mext3-kinjo",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "チーズはどこへ消えた?",
+        "author": "スペンサー・ジョンソン、門田美鈴",
+        "publisher": "扶桑社"
+      }
+    },
+    {
+      "personId": "mext3-suzuki-takayuki",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "ボッコちゃん",
+        "author": "星新一",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "mext3-seki",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "そして、バトンは渡された",
+        "author": "瀬尾まいこ",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "mext3-masuko",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "君を見上げて",
+        "author": "山田太一",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "mext3-miyake",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "夢をかなえるゾウ1",
+        "author": "水野敬也",
+        "publisher": "文響社"
+      }
+    },
+    {
+      "personId": "mext3-watabe",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "道をひらく",
+        "author": "松下幸之助",
+        "publisher": "PHP研究所"
+      }
+    },
+    {
+      "personId": "mext3-lilico",
+      "sourceId": "mext-anatato-yomitai",
+      "book": {
+        "title": "妖怪バリャーをやっつけろ！",
+        "author": "三島亜紀子、三島エツコ",
+        "publisher": "生活書院"
+      }
+    },
+    {
+      "personId": "mext3-sakanakun",
+      "sourceId": "mext-motto-hirogaru-honnomori",
+      "book": {
+        "title": "タコとイカはどうちがう？",
+        "author": "池田菜津美、峯水亮",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "mext3-murai",
+      "sourceId": "mext-motto-hirogaru-honnomori",
+      "book": {
+        "title": "星の王子さま",
+        "author": "サン＝テグジュペリ、河野万里子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "mext3-matsuoka",
+      "sourceId": "mext-motto-hirogaru-honnomori",
+      "book": {
+        "title": "不思議の国のトムキンス",
+        "author": "ジョージ・ガモフ、伏見康治",
+        "publisher": "白揚社",
+        "edition": "復刻版"
+      }
+    },
+    {
+      "personId": "mext3-murofushi",
+      "sourceId": "mext-motto-hirogaru-honnomori",
+      "book": {
+        "title": "ベートーベン 運命の大音楽家",
+        "author": "高木卓",
+        "publisher": "講談社",
+        "edition": "火の鳥伝記文庫"
+      }
+    },
+    {
+      "personId": "mext3-yoshino",
+      "sourceId": "mext-motto-hirogaru-honnomori",
+      "book": {
+        "title": "大気の進化46億年 O2とCO2",
+        "author": "田近英一",
+        "publisher": "技術評論社"
+      }
+    },
+    {
+      "personId": "mext3-kosaka",
+      "sourceId": "mext-kimino-issatsu",
+      "book": {
+        "title": "だるまさんが",
+        "author": "かがくいひろし",
+        "publisher": "ブロンズ新社"
+      }
+    },
+    {
+      "personId": "mext3-kosaka",
+      "sourceId": "mext-kimino-issatsu",
+      "book": {
+        "title": "だるまさんの",
+        "author": "かがくいひろし",
+        "publisher": "ブロンズ新社"
+      }
+    },
+    {
+      "personId": "mext3-kosaka",
+      "sourceId": "mext-kimino-issatsu",
+      "book": {
+        "title": "だるまさんと",
+        "author": "かがくいひろし",
+        "publisher": "ブロンズ新社"
+      }
+    },
+    {
+      "personId": "mext3-kajita",
+      "sourceId": "mext-kimino-issatsu",
+      "book": {
+        "title": "バッタを倒しにアフリカへ",
+        "author": "前野ウルド浩太郎",
+        "publisher": "光文社"
+      }
+    },
+    {
+      "personId": "mext3-sato",
+      "sourceId": "mext-kimino-issatsu",
+      "book": {
+        "title": "こども六法",
+        "author": "山崎聡一郎",
+        "publisher": "弘文堂"
+      }
+    },
+    {
+      "personId": "mext3-yamazaki",
+      "sourceId": "mext-kimino-issatsu",
+      "book": {
+        "title": "COSMOS 上",
+        "author": "カール・セーガン、木村繁",
+        "publisher": "朝日新聞出版",
+        "edition": "朝日選書"
+      },
+      "note": "上巻を掲載"
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "ugaki-youtube-mystery-2026",
+      "book": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "publisher": "講談社",
+        "isbn": "9784065403150"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "ugaki-youtube-mystery-2026",
+      "book": {
+        "title": "幕が上がれば誰かが誰かに殺される",
+        "author": "ベンジャミン・スティーヴンソン",
+        "publisher": "ハーパーコリンズ・ジャパン",
+        "isbn": "9784302123230"
+      }
+    },
+    {
+      "personId": "ugaki",
+      "sourceId": "ugaki-youtube-mystery-2026",
+      "book": {
+        "title": "ライアーハウスの殺人",
+        "author": "織守きょうや",
+        "publisher": "集英社",
+        "isbn": "9784087700084"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "悪の教典 上",
+        "author": "貴志祐介",
+        "publisher": "文藝春秋",
+        "isbn": "9784167839017",
+        "edition": "文春文庫 上巻"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "人のセックスを笑うな",
+        "author": "山崎ナオコーラ",
+        "publisher": "河出書房新社",
+        "isbn": "9784309408149",
+        "edition": "河出文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "告白（湊かなえ）",
+        "author": "湊かなえ",
+        "publisher": "双葉社",
+        "isbn": "9784575513448",
+        "edition": "双葉文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "殺人鬼フジコの衝動",
+        "author": "真梨幸子",
+        "publisher": "徳間書店",
+        "isbn": "9784198933678",
+        "edition": "徳間文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "今日の芸術",
+        "author": "岡本太郎",
+        "publisher": "光文社",
+        "isbn": "9784334727895",
+        "edition": "光文社知恵の森文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "モンスター",
+        "author": "百田尚樹",
+        "publisher": "幻冬舎",
+        "isbn": "9784344418509",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "さまよう刃",
+        "author": "東野圭吾",
+        "publisher": "KADOKAWA",
+        "isbn": "9784043718061",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "イニシエーション・ラブ",
+        "author": "乾くるみ",
+        "publisher": "文藝春秋",
+        "isbn": "9784167732011",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "億男",
+        "author": "川村元気",
+        "publisher": "マガジンハウス",
+        "isbn": "9784838727148",
+        "edition": "2014年単行本"
+      }
+    },
+    {
+      "personId": "aimyon",
+      "sourceId": "cinra-musicians-bookstore-aimyon",
+      "book": {
+        "title": "公開処刑人 森のくまさん",
+        "author": "堀内公太郎",
+        "publisher": "宝島社",
+        "isbn": "9784800200761",
+        "edition": "宝島社文庫"
+      }
+    },
+    {
+      "personId": "kazama",
+      "sourceId": "inazuma-flash-kazama-33",
+      "book": {
+        "title": "プチ哲学",
+        "author": "佐藤雅彦",
+        "publisher": "中央公論新社",
+        "isbn": "9784122043442",
+        "edition": "中公文庫"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://tezukaosamu.net/jp/mushi/entry/34567.html",
+      "result": "rejected",
+      "reason": "同じトークイベントの別出典を採用済み"
+    },
+    {
+      "url": "https://i-voce.jp/feed/4072604/",
+      "result": "rejected",
+      "reason": "robots.txt（ClaudeBot・anthropic-ai を拒否）",
+      "person": "北川景子"
+    },
+    {
+      "url": "https://withonline.jp/lifestyle/6028",
+      "result": "rejected",
+      "reason": "robots.txt（ClaudeBot・anthropic-ai を拒否）",
+      "person": "北川景子"
+    },
+    {
+      "url": "https://utaten.com/specialArticle/index/1376",
+      "result": "candidate",
+      "reason": "あいみょんが岡本太郎『今日の芸術』を曲作りの着想源として語る本人取材。同じ作品はCINRAの本人選書で採用。",
+      "person": "あいみょん"
+    },
+    {
+      "url": "https://www.cinra.net/article/report-201709-Kyash",
+      "result": "index",
+      "reason": "CINRA主催イベント「MUSICIAN’S BOOKSTORE」の記事。本人コメントを載せた2ページ目をあいみょんの出典に採用。",
+      "person": "あいみょん"
+    },
+    {
+      "url": "https://www.oricon.co.jp/news/2481346/full/",
+      "result": "index",
+      "reason": "宇垣美里の公式YouTubeの推薦動画「読書の秋 おすすめミステリー3選」の配信を報じる記事。本人動画を出典に採用。",
+      "person": "宇垣美里"
+    }
+  ]
+}
