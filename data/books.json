@@ -90305,5 +90305,553 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/16332279/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1218/9784101021218_1_4.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784022519269",
+    "title": "ラウリ・クースクを探して",
+    "authors": [
+      "宮内悠介"
+    ],
+    "publisher": "朝日新聞出版",
+    "publishedAt": "2023-08-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17574913/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9269/9784022519269_1_6.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065325315",
+    "title": "遠野物語　全訳注",
+    "authors": [
+      "柳田 國男",
+      "新谷 尚紀"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2023-08-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17554294/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5315/9784065325315_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784334100513",
+    "title": "本の背骨が最後に残る",
+    "authors": [
+      "斜線堂有紀"
+    ],
+    "publisher": "光文社",
+    "publishedAt": "2023-09-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17630354/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0513/9784334100513_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062120661",
+    "title": "妖怪アパートの幽雅な日常",
+    "authors": [
+      "香月日輪"
+    ],
+    "publisher": "講談社"
+  },
+  {
+    "isbn13": "9784575715156",
+    "title": "うちに食べにきませんか",
+    "authors": [
+      "中村安希"
+    ],
+    "publisher": "双葉社",
+    "publishedAt": "2025-10-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18324999/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5156/9784575715156_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784103259275",
+    "title": "君の不在の夜を歩く",
+    "authors": [
+      "窪 美澄"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2026-03-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18520536/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9275/9784103259275_1_20.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784199504914",
+    "title": "推しが武道館いってくれたら死ぬ",
+    "authors": [
+      "平尾アウリ"
+    ],
+    "publisher": "徳間書店",
+    "publishedAt": "2016-02-13",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13593250/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4914/9784199504914.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088454214",
+    "title": "町田くんの世界",
+    "authors": [
+      "安藤ゆき"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2015-07-24",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13265553/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4214/9784088454214.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088807317",
+    "title": "ファイアパンチ",
+    "authors": [
+      "藤本タツキ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2016-07-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14249293/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7317/9784088807317.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784832242364",
+    "title": "がっこうぐらし！",
+    "authors": [
+      "海法紀光",
+      "千葉サドル"
+    ],
+    "publisher": "芳文社",
+    "publishedAt": "2012-12-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12086488/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2364/9784832242364.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101001562",
+    "title": "東京奇譚集",
+    "authors": [
+      "村上 春樹"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2007-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/5166391/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1562/9784101001562.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784336060044",
+    "title": "昭和戦前期怪異妖怪記事資料集成　上",
+    "authors": [
+      "湯本豪一"
+    ],
+    "publisher": "国書刊行会",
+    "publishedAt": "2016-07-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14307623/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0044/9784336060044.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478321003",
+    "title": "ルネッサンス",
+    "authors": [
+      "カルロス・ゴーン",
+      "中川治子"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2001-10-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1386949/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4783/47832100.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784478023211",
+    "title": "反脆弱性［上］",
+    "authors": [
+      "ナシーム・ニコラス・タレブ",
+      "望月 衛",
+      "千葉 敏生"
+    ],
+    "publisher": "ダイヤモンド社",
+    "publishedAt": "2017-06-23",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14939725/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3211/9784478023211.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784150505240",
+    "title": "進化は万能である",
+    "authors": [
+      "マット・リドレー",
+      "大田 直子",
+      "鍛原 多惠子",
+      "柴田 裕之",
+      "吉田 三知世"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2018-06-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15446591/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5240/9784150505240.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784582766769",
+    "title": "怠惰への讃歌",
+    "authors": [
+      "バートランド・ラッセル",
+      "堀秀彦"
+    ],
+    "publisher": "平凡社",
+    "publishedAt": "2009-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6147930/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6769/9784582766769.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065215845",
+    "title": "はじめてのスピノザ　自由へのエチカ",
+    "authors": [
+      "國分 功一郎"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2020-11-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16503409/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5845/9784065215845.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784061494015",
+    "title": "これがニーチェだ",
+    "authors": [
+      "永井 均"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1998-05-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/974459/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4015/9784061494015_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784004120704",
+    "title": "天才",
+    "authors": [
+      "宮城音弥"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "1967-02-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/62742/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0704/9784004120704_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784106037641",
+    "title": "反知性主義",
+    "authors": [
+      "森本 あんり"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2015-02-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13102050/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7641/9784106037641.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062201773",
+    "title": "イノベーターズ1　天才、ハッカー、ギークがおりなすデジタル革命史",
+    "authors": [
+      "ウォルター・アイザックソン",
+      "井口 耕二"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2019-10-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16054124/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1773/9784062201773.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784334033897",
+    "title": "リーダーシップの旅",
+    "authors": [
+      "野田 智義",
+      "金井 壽宏"
+    ],
+    "publisher": "光文社",
+    "publishedAt": "2007-02-16",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/4297016/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3897/9784334033897_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784532075149",
+    "title": "知識創造の経営",
+    "authors": [
+      "野中郁次郎"
+    ],
+    "publisher": "日経BPM（日本経済新聞出版本部）",
+    "publishedAt": "1990-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/445653/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5149/9784532075149.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784253038096",
+    "title": "七色いんこ",
+    "authors": [
+      "手塚 治虫"
+    ],
+    "publisher": "秋田書店",
+    "publishedAt": "1981-08-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/896124/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8096/9784253038096.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784061831728",
+    "title": "六枚の切符",
+    "authors": [
+      "眉村卓"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1984-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/132697/"
+  },
+  {
+    "isbn13": "9784334749705",
+    "title": "スナーク狩り",
+    "authors": [
+      "宮部 みゆき"
+    ],
+    "publisher": "光文社",
+    "publishedAt": "2011-07-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11231358/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9705/9784334749705_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784093867887",
+    "title": "きずもの",
+    "authors": [
+      "西 加奈子"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2026-09-30",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/18694974/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7887/9784093867887_1_72.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062747035",
+    "title": "そして五人がいなくなる",
+    "authors": [
+      "はやみねかおる",
+      "村田四郎"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2004-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1651849/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0627/06274703.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101240527",
+    "title": "月の影 影の海（上） 十二国記",
+    "authors": [
+      "小野 不由美"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2012-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11726161/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0527/9784101240527_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784041026250",
+    "title": "蚊がいる",
+    "authors": [
+      "穂村 弘"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2017-02-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14640904/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6250/9784041026250.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784041026403",
+    "title": "小説　天気の子",
+    "authors": [
+      "新海 誠"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2019-07-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15887387/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6403/9784041026403_1_28.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784863852228",
+    "title": "きみを嫌いな奴はクズだよ",
+    "authors": [
+      "木下 龍也"
+    ],
+    "publisher": "書肆侃侃房",
+    "publishedAt": "2016-04-29",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14151555/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2228/9784863852228.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784336045010",
+    "title": "ソラリス",
+    "authors": [
+      "スタニスワフ・レム",
+      "沼野充義"
+    ],
+    "publisher": "国書刊行会",
+    "publishedAt": "2004-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1713660/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3360/33604501.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784758442046",
+    "title": "深呼吸の必要",
+    "authors": [
+      "長田弘"
+    ],
+    "publisher": "角川春樹事務所",
+    "publishedAt": "2018-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15626643/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2046/9784758442046.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784265054527",
+    "title": "お洋服リフォーム支店",
+    "authors": [
+      "あんびるやすこ"
+    ],
+    "publisher": "岩崎書店",
+    "publishedAt": "2003-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1620649/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4527/9784265054527.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101349169",
+    "title": "エイジ",
+    "authors": [
+      "重松 清"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2004-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1685474/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9169/9784101349169.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087453133",
+    "title": "オーダーメイド殺人クラブ",
+    "authors": [
+      "辻村 深月"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2015-05-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13231445/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3133/9784087453133_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101206912",
+    "title": "イノセント・デイズ",
+    "authors": [
+      "早見 和真"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2017-03-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14665872/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6912/9784101206912.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784796620888",
+    "title": "ハチミツとクローバー",
+    "authors": [
+      "羽海野チカ"
+    ],
+    "publisher": "宝島社",
+    "publishedAt": "2001-01-29",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1312186/"
+  },
+  {
+    "isbn13": "9784566014251",
+    "title": "マチルダは小さな大天才",
+    "authors": [
+      "ロアルド・ダール",
+      "クエンティン・ブレーク"
+    ],
+    "publisher": "評論社",
+    "publishedAt": "2005-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3651713/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5660/56601425.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784834086225",
+    "title": "街どろぼう",
+    "authors": [
+      "junaida"
+    ],
+    "publisher": "株式会社 福音館書店",
+    "publishedAt": "2021-07-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16789860/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6225/9784834086225_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784591149874",
+    "title": "おとな小学生",
+    "authors": [
+      "益田 ミリ"
+    ],
+    "publisher": "ポプラ社",
+    "publishedAt": "2016-03-31",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13835661/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9874/9784591149874_1_6.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784093861472",
+    "title": "さくら",
+    "authors": [
+      "西 加奈子"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2005-02-23",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1766629/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0938/09386147.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088916507",
+    "title": "【推しの子】",
+    "authors": [
+      "赤坂 アカ × 横槍 メンゴ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2020-07-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16373626/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6507/9784088916507_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784480086198",
+    "title": "色彩論",
+    "authors": [
+      "ゲーテ",
+      "木村 直司"
+    ],
+    "publisher": "筑摩書房",
+    "publishedAt": "2001-03-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1322376/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6198/9784480086198.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

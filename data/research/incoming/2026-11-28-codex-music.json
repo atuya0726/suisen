@@ -1,0 +1,353 @@
+{
+  "people": [
+    {
+      "id": "neru",
+      "name": "長濱ねる",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ado",
+      "name": "Ado",
+      "title": "歌い手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "utada",
+      "name": "宇多田ヒカル",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "bis-2021-03-03-neru",
+      "type": "interview",
+      "media": "bis",
+      "title": "長濱ねる、おすすめの愛読書を紹介。「読書は生きるヒントになる」",
+      "url": "https://bisweb.jp/interview/108960",
+      "publishedAt": "2021-03-03"
+    },
+    {
+      "id": "bis-2021-02-27-neru",
+      "type": "interview",
+      "media": "bis",
+      "title": "長濱ねる、本で愛を語る。“図書館の本を全部読み尽くしてしまった”伝説の真相",
+      "url": "https://bisweb.jp/interview/108717",
+      "publishedAt": "2021-02-27"
+    },
+    {
+      "id": "php-2018-10-11-neru-silence",
+      "type": "interview",
+      "media": "Web Voice",
+      "title": "【長濱ねる】遠藤周作『沈黙』の思い出",
+      "url": "https://voice.php.co.jp/detail/5627",
+      "publishedAt": "2018-10-11"
+    },
+    {
+      "id": "php-2018-10-11-neru-reading",
+      "type": "interview",
+      "media": "Web Voice",
+      "title": "長濱ねる「本と向き合うことで\"素の自分\"を取り戻せます」",
+      "url": "https://voice.php.co.jp/detail/5630",
+      "publishedAt": "2018-10-11"
+    },
+    {
+      "id": "reader-store-neru",
+      "type": "interview",
+      "media": "ソニー Reader Store",
+      "title": "【Reader Store10周年特別企画】現在「ダ・ヴィンチ」でのエッセイ連載やTV番組「セブンルール」などで活躍中の長濱ねるさんがスペシャルゲストで登場！",
+      "url": "https://ebookstore.sony.jp/features/d3zlxikk14/"
+    },
+    {
+      "id": "tbs-2020-09-09-neru",
+      "type": "article",
+      "media": "TBSラジオ（radiko news）",
+      "title": "「実はふざけるの大好きなんですよ」エッセイから垣間見る、長濱ねるの素顔",
+      "url": "https://news.radiko.jp/article/station/TBS/45866/",
+      "publishedAt": "2020-09-09"
+    },
+    {
+      "id": "rbb-2021-07-24-neru",
+      "type": "article",
+      "media": "RBB TODAY",
+      "title": "長濱ねる、心を潤してくれた3冊紹介！「児童書コーナーにいる」意外なオフも告白",
+      "url": "https://www.rbbtoday.com/article/2021/07/24/190627.html",
+      "publishedAt": "2021-07-24"
+    },
+    {
+      "id": "jwave-2025-06-23-neru",
+      "type": "article",
+      "media": "J-WAVE NEWS",
+      "title": "長濱ねる「自分が信じるものを、誰かに決めさせてはいけない」 人生を救ってくれた小説家との出来事",
+      "url": "https://news.j-wave.co.jp/2025/06/content-4280.html",
+      "publishedAt": "2025-06-23"
+    },
+    {
+      "id": "1242-2018-06-15-neru",
+      "type": "article",
+      "media": "ニッポン放送 NEWS ONLINE",
+      "title": "欅坂46・長濱ねる、オードリー若林のエッセイを愛読",
+      "url": "https://news.1242.com/article/146801",
+      "publishedAt": "2018-06-15"
+    },
+    {
+      "id": "tfm-2021-02-15-ado",
+      "type": "article",
+      "media": "TOKYO FM SCHOOL OF LOCK!",
+      "title": "Ado先生が初来校!!! 様々な質問に答えてもらった！",
+      "url": "https://www.tfm.co.jp/lock/staff/index.php@itemid=16259.html",
+      "publishedAt": "2021-02-15"
+    },
+    {
+      "id": "ntv-2021-06-11-ado",
+      "type": "article",
+      "media": "日本テレビ",
+      "title": "放送内容｜バズリズム02",
+      "url": "https://www.ntv.co.jp/buzzrhythm/oa/20210611.html",
+      "publishedAt": "2021-06-11"
+    },
+    {
+      "id": "hikki-2006-08-14",
+      "type": "article",
+      "media": "宇多田ヒカル公式サイト MESSAGE from Hikki",
+      "title": "私の依存症２",
+      "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/from-hikki/index_63.html",
+      "publishedAt": "2006-08-14"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "neru",
+      "sourceId": "bis-2021-03-03-neru",
+      "book": {
+        "title": "そして、バトンは渡された",
+        "author": "瀬尾まいこ",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "bis-2021-03-03-neru",
+      "book": {
+        "title": "おめかしの引力",
+        "author": "川上未映子",
+        "publisher": "朝日新聞出版"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "bis-2021-03-03-neru",
+      "book": {
+        "title": "深呼吸の必要",
+        "author": "長田弘",
+        "publisher": "角川春樹事務所"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "bis-2021-03-03-neru",
+      "book": {
+        "title": "火花",
+        "author": "又吉直樹",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "bis-2021-02-27-neru",
+      "book": {
+        "title": "お洋服リフォーム支店",
+        "author": "あんびるやすこ",
+        "publisher": "岩崎書店",
+        "edition": "なんでも魔女商会 第1巻"
+      },
+      "note": "「なんでも魔女商会」シリーズの第1巻"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "php-2018-10-11-neru-silence",
+      "book": {
+        "title": "沈黙",
+        "author": "遠藤周作",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "php-2018-10-11-neru-reading",
+      "book": {
+        "title": "おまじない",
+        "author": "西加奈子",
+        "publisher": "筑摩書房"
+      },
+      "note": "掲載書誌は2021年の文庫版"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "php-2018-10-11-neru-reading",
+      "book": {
+        "title": "エイジ",
+        "author": "重松清",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "php-2018-10-11-neru-reading",
+      "book": {
+        "title": "オーダーメイド殺人クラブ",
+        "author": "辻村深月",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "reader-store-neru",
+      "book": {
+        "title": "イノセント・デイズ",
+        "author": "早見和真",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "reader-store-neru",
+      "book": {
+        "title": "3月のライオン",
+        "author": "羽海野チカ",
+        "publisher": "白泉社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "reader-store-neru",
+      "book": {
+        "title": "ハチミツとクローバー",
+        "author": "羽海野チカ",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "neru",
+      "sourceId": "tbs-2020-09-09-neru",
+      "book": {
+        "title": "マチルダは小さな大天才",
+        "author": "ロアルド・ダール",
+        "publisher": "評論社"
+      },
+      "note": "TBSラジオ『ACTION』2020年9月8日放送"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "rbb-2021-07-24-neru",
+      "book": {
+        "title": "街どろぼう",
+        "author": "junaida",
+        "publisher": "福音館書店"
+      },
+      "note": "J-WAVE『MOISTURIZE YOUR LIFE』2021/7/23放送"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "rbb-2021-07-24-neru",
+      "book": {
+        "title": "るきさん",
+        "author": "高野文子",
+        "publisher": "筑摩書房"
+      },
+      "note": "J-WAVE『MOISTURIZE YOUR LIFE』2021/7/23放送"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "rbb-2021-07-24-neru",
+      "book": {
+        "title": "おとな小学生",
+        "author": "益田ミリ",
+        "publisher": "ポプラ社"
+      },
+      "note": "J-WAVE『MOISTURIZE YOUR LIFE』2021/7/23放送"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "jwave-2025-06-23-neru",
+      "book": {
+        "title": "さくら",
+        "author": "西加奈子"
+      },
+      "note": "J-WAVE『STEP ONE』2025年6月9日放送"
+    },
+    {
+      "personId": "neru",
+      "sourceId": "1242-2018-06-15-neru",
+      "book": {
+        "title": "社会人大学人見知り学部 卒業見込",
+        "author": "若林正恭"
+      },
+      "note": "『欅坂46 こちら有楽町星空放送局』2018年6月8日放送"
+    },
+    {
+      "personId": "ado",
+      "sourceId": "tfm-2021-02-15-ado",
+      "book": {
+        "title": "【推しの子】",
+        "author": "赤坂アカ、横槍メンゴ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      },
+      "note": "『SCHOOL OF LOCK!』2021年2月15日放送"
+    },
+    {
+      "personId": "ado",
+      "sourceId": "ntv-2021-06-11-ado",
+      "book": {
+        "title": "ガラスの仮面",
+        "author": "美内すずえ",
+        "publisher": "白泉社",
+        "edition": "シリーズ"
+      },
+      "note": "『バズリズム02』2021年6月11日放送"
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-2006-08-14",
+      "book": {
+        "title": "色彩論",
+        "author": "ゲーテ",
+        "edition": "ちくま学芸文庫・木村直司訳",
+        "publisher": "筑摩書房"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://fushiginokuninotoshoshitsu.com/gen-hoshino-book-fair/",
+      "result": "rejected",
+      "reason": "選書フェアの第三者まとめ。開催元の公開書目を確認できず",
+      "person": "星野源"
+    },
+    {
+      "url": "https://www.fujingaho.jp/culture/column-essay/a40267616/ryuichi-sakamoto-bookshelves-08-lee-ufan/",
+      "result": "rejected",
+      "reason": "全文は会員限定",
+      "person": "坂本龍一"
+    },
+    {
+      "url": "https://www.fujingaho.jp/culture/column-essay/a42666357/ryuichi-sakamoto-bookshelves-13-nikolai-nevsky/",
+      "result": "rejected",
+      "reason": "全文は有料会員限定",
+      "person": "坂本龍一"
+    }
+  ]
+}

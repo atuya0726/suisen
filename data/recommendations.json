@@ -62423,5 +62423,522 @@
     "sourceId": "shincho-2020-06-15-shiina",
     "note": "文庫の帯に推薦コメント",
     "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784494006069",
+    "sourceId": "hhd-20240206-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784065325315",
+    "sourceId": "hhd-20240206-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784091841612",
+    "sourceId": "hhd-20240206-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784022519269",
+    "sourceId": "hhd-20240206-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784334100513",
+    "sourceId": "hhd-20240206-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784062852555",
+    "sourceId": "gakken-20240801-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784062120661",
+    "sourceId": "gakken-20240801-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784575715156",
+    "sourceId": "nonno-20251109-saito-soma",
+    "note": "『もてなしとごちそう』の文庫版",
+    "verified": true
+  },
+  {
+    "personId": "p1863",
+    "isbn13": "9784103259275",
+    "sourceId": "billboard-with-books-saito-soma",
+    "verified": true
+  },
+  {
+    "personId": "p1346",
+    "isbn13": "9784560070512",
+    "sourceId": "radiko-20210202-matsuoka",
+    "verified": true
+  },
+  {
+    "personId": "p1346",
+    "isbn13": "9784088728407",
+    "sourceId": "jwave-20160524-matsuoka",
+    "note": "J-WAVE「AVALON」2016年5月23日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1346",
+    "isbn13": "9784199504914",
+    "sourceId": "jwave-20160524-matsuoka",
+    "note": "J-WAVE「AVALON」2016年5月23日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1346",
+    "isbn13": "9784088454214",
+    "sourceId": "jwave-20160524-matsuoka",
+    "note": "J-WAVE「AVALON」2016年5月23日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1346",
+    "isbn13": "9784088807317",
+    "sourceId": "jwave-20160524-matsuoka",
+    "note": "AVALON（2016年5月23日放送）。書誌は放送後の単行本",
+    "verified": true
+  },
+  {
+    "personId": "p1346",
+    "isbn13": "9784832242364",
+    "sourceId": "jwave-20160524-matsuoka",
+    "note": "J-WAVE「AVALON」2016年5月23日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1371",
+    "isbn13": "9784101001562",
+    "sourceId": "smartflash-20220121-tamashiro",
+    "verified": true
+  },
+  {
+    "personId": "p1785",
+    "isbn13": "9784336060044",
+    "sourceId": "thetv-20260410-takahashi",
+    "note": "NHK「土曜スタジオパーク」2021年12月25日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1864",
+    "isbn13": "9784167105679",
+    "sourceId": "softbank-2011-son-live",
+    "context": "人生を変えた一冊",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784822241568",
+    "sourceId": "honto-yamaguchi-decisions",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784532310233",
+    "sourceId": "honto-yamaguchi-decisions",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784478321003",
+    "sourceId": "honto-yamaguchi-decisions",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784820116547",
+    "sourceId": "honto-yamaguchi-decisions",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784822255343",
+    "sourceId": "honto-yamaguchi-decisions",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784478023211",
+    "sourceId": "honto-yamaguchi-newtype",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784150505240",
+    "sourceId": "honto-yamaguchi-newtype",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784582766769",
+    "sourceId": "honto-yamaguchi-newtype",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784061498624",
+    "sourceId": "honto-yamaguchi-classics",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784065215845",
+    "sourceId": "honto-yamaguchi-classics",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784061155053",
+    "sourceId": "honto-yamaguchi-classics",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784062884495",
+    "sourceId": "honto-yamaguchi-classics",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784061494015",
+    "sourceId": "honto-yamaguchi-classics",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784004120704",
+    "sourceId": "dokushosociety-yamaguchi-2020",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784106037641",
+    "sourceId": "dokushosociety-yamaguchi-2020",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784062201773",
+    "sourceId": "dokushosociety-yamaguchi-2020",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784334033897",
+    "sourceId": "dokushosociety-yamaguchi-2020",
+    "verified": true
+  },
+  {
+    "personId": "p0116",
+    "isbn13": "9784532075149",
+    "sourceId": "dokushosociety-yamaguchi-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1004",
+    "isbn13": "9784253038096",
+    "sourceId": "bunshun-isaka-2005",
+    "verified": true
+  },
+  {
+    "personId": "p1004",
+    "isbn13": "9784088736211",
+    "sourceId": "bunshun-isaka-2005",
+    "verified": true
+  },
+  {
+    "personId": "p1004",
+    "isbn13": "9784061831728",
+    "sourceId": "chikuma-isaka-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1004",
+    "isbn13": "9784101369143",
+    "sourceId": "chikuma-isaka-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1004",
+    "isbn13": "9784103750062",
+    "sourceId": "chikuma-isaka-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1004",
+    "isbn13": "9784334749705",
+    "sourceId": "chikuma-isaka-2021",
+    "verified": true
+  },
+  {
+    "personId": "p0669",
+    "isbn13": "9784001140347",
+    "sourceId": "booklog-tsujimura-2018",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784834000825",
+    "sourceId": "oricon-2026-10-book-meets-next",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784093867887",
+    "sourceId": "oricon-2026-10-book-meets-next",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784062747035",
+    "sourceId": "oricon-2026-10-book-meets-next",
+    "note": "シリーズとして紹介",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784062852555",
+    "sourceId": "oricon-2026-10-book-meets-next",
+    "note": "シリーズとして紹介",
+    "verified": true
+  },
+  {
+    "personId": "p0547",
+    "isbn13": "9784101240527",
+    "sourceId": "oricon-2026-10-book-meets-next",
+    "note": "「十二国記」本編の第1作",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784480437372",
+    "sourceId": "esse-2019-12-matayoshi-select",
+    "note": "掲載書誌は2021年の文庫版",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784041026250",
+    "sourceId": "esse-2019-12-matayoshi-select",
+    "verified": true
+  },
+  {
+    "personId": "p1865",
+    "isbn13": "9784334738426",
+    "sourceId": "esse-2019-12-matayoshi-select",
+    "verified": true
+  },
+  {
+    "personId": "p1866",
+    "isbn13": "9784041026403",
+    "sourceId": "esse-2019-12-matayoshi-select",
+    "verified": true
+  },
+  {
+    "personId": "p1297",
+    "isbn13": "9784163219509",
+    "sourceId": "bookstand-2012-08-mitsuura",
+    "verified": true
+  },
+  {
+    "personId": "p1297",
+    "isbn13": "9784122077676",
+    "sourceId": "bookstand-2012-08-mitsuura",
+    "note": "掲載書誌は2026年の文庫版",
+    "verified": true
+  },
+  {
+    "personId": "p1300",
+    "isbn13": "9784167907822",
+    "sourceId": "asahi-2022-12-kano",
+    "verified": true
+  },
+  {
+    "personId": "p1300",
+    "isbn13": "9784101006512",
+    "sourceId": "asahi-2022-12-kano",
+    "verified": true
+  },
+  {
+    "personId": "p1300",
+    "isbn13": "9784167105679",
+    "sourceId": "kodomoe-2023-05-kano",
+    "verified": true
+  },
+  {
+    "personId": "p1299",
+    "isbn13": "9784863852228",
+    "sourceId": "cinra-2021-05-kazlaser",
+    "verified": true
+  },
+  {
+    "personId": "p1299",
+    "isbn13": "9784336045010",
+    "sourceId": "cinra-2021-05-kazlaser",
+    "verified": true
+  },
+  {
+    "personId": "p1299",
+    "isbn13": "9784167911300",
+    "sourceId": "rbb-2016-11-kazlaser",
+    "note": "お願い！ランキング（2016年11月2日）。書誌は2018年文庫版",
+    "verified": true
+  },
+  {
+    "personId": "p1299",
+    "isbn13": "9784101098012",
+    "sourceId": "hoshishinichi-official-2020-shuichi",
+    "note": "シューイチ（2020年5月24日放送）",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784167915544",
+    "sourceId": "bis-2021-03-03-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784022513441",
+    "sourceId": "bis-2021-03-03-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784758442046",
+    "sourceId": "bis-2021-03-03-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784167907822",
+    "sourceId": "bis-2021-03-03-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784265054527",
+    "sourceId": "bis-2021-02-27-neru",
+    "note": "「なんでも魔女商会」シリーズの第1巻",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784101123158",
+    "sourceId": "php-2018-10-11-neru-silence",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784480437372",
+    "sourceId": "php-2018-10-11-neru-reading",
+    "note": "掲載書誌は2021年の文庫版",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784101349169",
+    "sourceId": "php-2018-10-11-neru-reading",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784087453133",
+    "sourceId": "php-2018-10-11-neru-reading",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784101206912",
+    "sourceId": "reader-store-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784592145110",
+    "sourceId": "reader-store-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784796620888",
+    "sourceId": "reader-store-neru",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784566014251",
+    "sourceId": "tbs-2020-09-09-neru",
+    "note": "TBSラジオ『ACTION』2020年9月8日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784834086225",
+    "sourceId": "rbb-2021-07-24-neru",
+    "note": "J-WAVE『MOISTURIZE YOUR LIFE』2021/7/23放送",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784480888082",
+    "sourceId": "rbb-2021-07-24-neru",
+    "note": "J-WAVE『MOISTURIZE YOUR LIFE』2021/7/23放送",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784591149874",
+    "sourceId": "rbb-2021-07-24-neru",
+    "note": "J-WAVE『MOISTURIZE YOUR LIFE』2021/7/23放送",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784093861472",
+    "sourceId": "jwave-2025-06-23-neru",
+    "note": "J-WAVE『STEP ONE』2025年6月9日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784041026144",
+    "sourceId": "1242-2018-06-15-neru",
+    "note": "『欅坂46 こちら有楽町星空放送局』2018年6月8日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1766",
+    "isbn13": "9784088916507",
+    "sourceId": "tfm-2021-02-15-ado",
+    "note": "『SCHOOL OF LOCK!』2021年2月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1766",
+    "isbn13": "9784592110910",
+    "sourceId": "ntv-2021-06-11-ado",
+    "note": "『バズリズム02』2021年6月11日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784480086198",
+    "sourceId": "hikki-2006-08-14",
+    "verified": true
   }
 ]

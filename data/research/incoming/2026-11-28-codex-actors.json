@@ -1,0 +1,313 @@
+{
+  "people": [
+    {
+      "id": "saito-soma",
+      "name": "斉藤壮馬",
+      "title": "声優・アーティスト",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "さいとう そうま"
+    },
+    {
+      "id": "p1346",
+      "name": "松岡茉優",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1371",
+      "name": "玉城ティナ",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1785",
+      "name": "高橋一生",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "hhd-20240206-saito-soma",
+      "type": "interview",
+      "media": "ほんのひきだし",
+      "title": "「ボイスフレンド」斉藤壮馬さんインタビュー：「必要としている本には自然とめぐりあえるもの」",
+      "url": "https://hon-hikidashi.jp/book-person/30467/",
+      "publishedAt": "2024-02-06"
+    },
+    {
+      "id": "gakken-20240801-saito-soma",
+      "type": "interview",
+      "media": "学研キッズネット",
+      "title": "心に寄り添ってくれる物語に触れてほしい。斉藤壮馬さんのおすすめの本【読書推せん文リレー第５回】",
+      "url": "https://kids.gakken.co.jp/feature/reading/okiniiribook_relay_5/",
+      "publishedAt": "2024-08-01"
+    },
+    {
+      "id": "nonno-20251109-saito-soma",
+      "type": "interview",
+      "media": "non-no web",
+      "title": "20代女性におすすめの世界を旅したくなる本、映画／斉藤壮馬さん、ひとりっPさんら7人の著名人が推薦！",
+      "url": "https://nonno.hpplus.jp/entertainment/e-topic/296274/",
+      "publishedAt": "2025-11-09"
+    },
+    {
+      "id": "billboard-with-books-saito-soma",
+      "type": "interview",
+      "media": "Billboard JAPAN",
+      "title": "＜インタビュー＞斉藤壮馬のエッセイ集『続・健康で文化的な最低限度の生活』から見つける生活のヒント／生きた「語り」が持つ重要性とは【WITH BOOKS】",
+      "url": "https://www.billboard-japan.com/special/detail/5238"
+    },
+    {
+      "id": "radiko-20210202-matsuoka",
+      "type": "article",
+      "media": "radiko news（TBSラジオ）",
+      "title": "松岡茉優「その時にしか読めない本がある気がします」",
+      "url": "https://news.radiko.jp/article/station/TBS/51401/",
+      "publishedAt": "2021-02-02"
+    },
+    {
+      "id": "jwave-20160524-matsuoka",
+      "type": "article",
+      "media": "J-WAVE NEWS",
+      "title": "松岡茉優 カカシ先生が死んでショックで学校休む",
+      "url": "https://news.j-wave.co.jp/2016/05/post-1636.html",
+      "publishedAt": "2016-05-24"
+    },
+    {
+      "id": "smartflash-20220121-tamashiro",
+      "type": "interview",
+      "media": "Smart FLASH",
+      "title": "玉城ティナ、大切にしているのは「インプットの時間」好きな映画や小説はずっとリピート",
+      "url": "https://smart-flash.jp/entertainment/entertainment-news/169964/",
+      "publishedAt": "2022-01-21"
+    },
+    {
+      "id": "thetv-20260410-takahashi",
+      "type": "article",
+      "media": "WEBザテレビジョン",
+      "title": "高橋一生、憧れの湯本豪一氏との初対面でド緊張「これまでの人生で5本の指に入るぐらい」",
+      "url": "https://thetv.jp/news/detail/1340080/",
+      "publishedAt": "2026-04-10"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "saito-soma",
+      "sourceId": "hhd-20240206-saito-soma",
+      "book": {
+        "title": "おしいれのぼうけん",
+        "author": "古田足日／田畑精一",
+        "publisher": "童心社",
+        "isbn": "9784494006069"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "hhd-20240206-saito-soma",
+      "book": {
+        "title": "遠野物語",
+        "author": "柳田國男／新谷尚紀",
+        "publisher": "講談社",
+        "edition": "講談社学術文庫 全訳注",
+        "isbn": "9784065325315"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "hhd-20240206-saito-soma",
+      "book": {
+        "title": "MASTERキートン",
+        "author": "浦沢直樹／勝鹿北星／長崎尚志",
+        "publisher": "小学館",
+        "edition": "完全版 シリーズ",
+        "isbn": "9784091841612"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "hhd-20240206-saito-soma",
+      "book": {
+        "title": "ラウリ・クースクを探して",
+        "author": "宮内悠介",
+        "publisher": "朝日新聞出版",
+        "isbn": "9784022519269"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "hhd-20240206-saito-soma",
+      "book": {
+        "title": "本の背骨が最後に残る",
+        "author": "斜線堂有紀",
+        "publisher": "光文社",
+        "isbn": "9784334100513"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "gakken-20240801-saito-soma",
+      "book": {
+        "title": "クレヨン王国の十二か月",
+        "author": "福永令三",
+        "publisher": "講談社",
+        "edition": "青い鳥文庫"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "gakken-20240801-saito-soma",
+      "book": {
+        "title": "妖怪アパートの幽雅な日常",
+        "author": "香月日輪",
+        "publisher": "講談社",
+        "edition": "シリーズ（小説）"
+      }
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "nonno-20251109-saito-soma",
+      "book": {
+        "title": "うちに食べにきませんか",
+        "author": "中村安希",
+        "publisher": "双葉社",
+        "edition": "双葉文庫"
+      },
+      "note": "『もてなしとごちそう』の文庫版"
+    },
+    {
+      "personId": "saito-soma",
+      "sourceId": "billboard-with-books-saito-soma",
+      "book": {
+        "title": "君の不在の夜を歩く",
+        "author": "窪美澄",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "p1346",
+      "sourceId": "radiko-20210202-matsuoka",
+      "book": {
+        "title": "ライ麦畑でつかまえて",
+        "author": "J．D．サリンジャー",
+        "publisher": "白水社"
+      }
+    },
+    {
+      "personId": "p1346",
+      "sourceId": "jwave-20160524-matsuoka",
+      "book": {
+        "title": "NARUTO-ナルトー",
+        "author": "岸本斉史",
+        "publisher": "集英社",
+        "edition": "漫画シリーズ"
+      },
+      "note": "J-WAVE「AVALON」2016年5月23日放送"
+    },
+    {
+      "personId": "p1346",
+      "sourceId": "jwave-20160524-matsuoka",
+      "book": {
+        "title": "推しが武道館いってくれたら死ぬ",
+        "author": "平尾アウリ",
+        "publisher": "徳間書店",
+        "edition": "漫画シリーズ"
+      },
+      "note": "J-WAVE「AVALON」2016年5月23日放送"
+    },
+    {
+      "personId": "p1346",
+      "sourceId": "jwave-20160524-matsuoka",
+      "book": {
+        "title": "町田くんの世界",
+        "author": "安藤ゆき",
+        "publisher": "集英社",
+        "edition": "漫画シリーズ"
+      },
+      "note": "J-WAVE「AVALON」2016年5月23日放送"
+    },
+    {
+      "personId": "p1346",
+      "sourceId": "jwave-20160524-matsuoka",
+      "book": {
+        "title": "ファイアパンチ",
+        "author": "藤本タツキ",
+        "publisher": "集英社",
+        "edition": "漫画シリーズ"
+      },
+      "note": "AVALON（2016年5月23日放送）。書誌は放送後の単行本"
+    },
+    {
+      "personId": "p1346",
+      "sourceId": "jwave-20160524-matsuoka",
+      "book": {
+        "title": "がっこうぐらし！",
+        "author": "海法紀光／千葉サドル",
+        "publisher": "芳文社",
+        "edition": "漫画シリーズ"
+      },
+      "note": "J-WAVE「AVALON」2016年5月23日放送"
+    },
+    {
+      "personId": "p1371",
+      "sourceId": "smartflash-20220121-tamashiro",
+      "book": {
+        "title": "東京奇譚集",
+        "author": "村上春樹",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "p1785",
+      "sourceId": "thetv-20260410-takahashi",
+      "book": {
+        "title": "昭和戦前期怪異妖怪記事資料集成 上",
+        "author": "湯本豪一",
+        "publisher": "国書刊行会",
+        "edition": "上巻"
+      },
+      "note": "NHK「土曜スタジオパーク」2021年12月25日放送"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://news.livedoor.com/article/detail/9390536/",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/19017229/",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/17211623/",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "斉藤壮馬"
+    },
+    {
+      "url": "https://www.oricon.co.jp/news/2482309/full/",
+      "result": "rejected",
+      "reason": "本文に出演作原作以外の書名がない",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://www.mensnonno.jp/lifestyle/culture/427540/",
+      "result": "rejected",
+      "reason": "本人の出演作の原作紹介",
+      "person": "杉咲花"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "people": [
+    {
+      "id": "p0547",
+      "name": "宇垣美里",
+      "title": "フリーアナウンサー",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "うがきみさと"
+    },
+    {
+      "id": "p0666",
+      "name": "又吉直樹",
+      "title": "作家・お笑い芸人",
+      "tags": [
+        "作家",
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1297",
+      "name": "光浦靖子",
+      "title": "お笑い芸人（オアシズ）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1299",
+      "name": "カズレーザー",
+      "title": "お笑い芸人（メイプル超合金）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1300",
+      "name": "加納愛子",
+      "title": "お笑い芸人（Aマッソ）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "yamamoto-yuri",
+      "name": "山本ゆり",
+      "title": "料理コラムニスト",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "tabusa-eiko",
+      "name": "田房永子",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "oricon-2026-10-book-meets-next",
+      "type": "article",
+      "media": "ORICON NEWS",
+      "title": "書店を楽しむ祭典『BOOK MEETS NEXT 2026』が今年も開催！ 「本との出会い」語る又吉直樹や宇垣美里ら登壇イベントも実施",
+      "url": "https://www.oricon.co.jp/special/76615/",
+      "publishedAt": "2026-10-23"
+    },
+    {
+      "id": "esse-2019-12-matayoshi-select",
+      "type": "interview",
+      "media": "ESSEonline",
+      "title": "又吉直樹さんセレクト。年末年始に女性に勧めたい本",
+      "url": "https://esse-online.jp/articles/-/13645",
+      "publishedAt": "2019-12-28"
+    },
+    {
+      "id": "bookstand-2012-08-mitsuura",
+      "type": "interview",
+      "media": "BOOKSTAND",
+      "title": "アノヒトの読書遍歴 光浦靖子さん（前編）",
+      "url": "https://bookstand.webdoku.jp/news/2012/08/20/130000.html",
+      "publishedAt": "2012-08-20"
+    },
+    {
+      "id": "asahi-2022-12-kano",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "Aマッソ・加納愛子さん「これはちゃうか」インタビュー　初の小説集、エッセイより自分さらけ出した",
+      "url": "https://book.asahi.com/article/14779872",
+      "publishedAt": "2022-12-03"
+    },
+    {
+      "id": "kodomoe-2023-05-kano",
+      "type": "interview",
+      "media": "kodomoe",
+      "title": "お笑い芸人・Aマッソ加納愛子さんロングインタビュー。人生の指針は「アホでおもろいやつが強い」【前編】",
+      "url": "https://kodomoe.net/serial/interview/63621/",
+      "publishedAt": "2023-05-08"
+    },
+    {
+      "id": "cinra-2021-05-kazlaser",
+      "type": "article",
+      "media": "CINRA",
+      "title": "カズレーザーの読書トークなど ヱビスがビールと過ごす時間を提案",
+      "url": "https://www.cinra.net/article/report-202105-yebisu_ymmts",
+      "publishedAt": "2021-05-14"
+    },
+    {
+      "id": "rbb-2016-11-kazlaser",
+      "type": "article",
+      "media": "RBB TODAY",
+      "title": "カズレーザーの真面目な書評が面白い！「やばいな」とカンニング竹山が絶賛",
+      "url": "https://www.rbbtoday.com/article/2016/11/03/146643.html",
+      "publishedAt": "2016-11-03"
+    },
+    {
+      "id": "hoshishinichi-official-2020-shuichi",
+      "type": "article",
+      "media": "星新一公式サイト",
+      "title": "過去のニュース 2020年5月22日",
+      "url": "https://www.hoshishinichi.net/backnumber/2020.html",
+      "publishedAt": "2020-05-22"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "p0666",
+      "sourceId": "oricon-2026-10-book-meets-next",
+      "book": {
+        "title": "ぐりとぐら",
+        "author": "中川李枝子"
+      }
+    },
+    {
+      "personId": "p0666",
+      "sourceId": "oricon-2026-10-book-meets-next",
+      "book": {
+        "title": "きずもの",
+        "author": "西加奈子",
+        "publisher": "小学館"
+      }
+    },
+    {
+      "personId": "p0547",
+      "sourceId": "oricon-2026-10-book-meets-next",
+      "book": {
+        "title": "そして五人がいなくなる",
+        "author": "はやみねかおる",
+        "publisher": "講談社"
+      },
+      "note": "シリーズとして紹介"
+    },
+    {
+      "personId": "p0547",
+      "sourceId": "oricon-2026-10-book-meets-next",
+      "book": {
+        "title": "クレヨン王国の十二か月",
+        "author": "福永令三",
+        "publisher": "講談社"
+      },
+      "note": "シリーズとして紹介"
+    },
+    {
+      "personId": "p0547",
+      "sourceId": "oricon-2026-10-book-meets-next",
+      "book": {
+        "title": "月の影 影の海 上",
+        "author": "小野不由美",
+        "publisher": "新潮社"
+      },
+      "note": "「十二国記」本編の第1作"
+    },
+    {
+      "personId": "p0666",
+      "sourceId": "esse-2019-12-matayoshi-select",
+      "book": {
+        "title": "おまじない",
+        "author": "西加奈子",
+        "publisher": "筑摩書房"
+      },
+      "note": "掲載書誌は2021年の文庫版"
+    },
+    {
+      "personId": "p0666",
+      "sourceId": "esse-2019-12-matayoshi-select",
+      "book": {
+        "title": "蚊がいる",
+        "author": "穂村弘",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "yamamoto-yuri",
+      "sourceId": "esse-2019-12-matayoshi-select",
+      "book": {
+        "title": "神様からひと言",
+        "author": "荻原浩",
+        "publisher": "光文社",
+        "edition": "光文社文庫"
+      }
+    },
+    {
+      "personId": "tabusa-eiko",
+      "sourceId": "esse-2019-12-matayoshi-select",
+      "book": {
+        "title": "小説 天気の子",
+        "author": "新海誠",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "p1297",
+      "sourceId": "bookstand-2012-08-mitsuura",
+      "book": {
+        "title": "グロテスク",
+        "author": "桐野夏生"
+      }
+    },
+    {
+      "personId": "p1297",
+      "sourceId": "bookstand-2012-08-mitsuura",
+      "book": {
+        "title": "八日目の蝉",
+        "author": "角田光代"
+      },
+      "note": "掲載書誌は2026年の文庫版"
+    },
+    {
+      "personId": "p1300",
+      "sourceId": "asahi-2022-12-kano",
+      "book": {
+        "title": "火花",
+        "author": "又吉直樹"
+      }
+    },
+    {
+      "personId": "p1300",
+      "sourceId": "asahi-2022-12-kano",
+      "book": {
+        "title": "劇場",
+        "author": "又吉直樹"
+      }
+    },
+    {
+      "personId": "p1300",
+      "sourceId": "kodomoe-2023-05-kano",
+      "book": {
+        "title": "竜馬がゆく",
+        "author": "司馬遼太郎",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "p1299",
+      "sourceId": "cinra-2021-05-kazlaser",
+      "book": {
+        "title": "きみを嫌いな奴はクズだよ",
+        "author": "木下龍也"
+      }
+    },
+    {
+      "personId": "p1299",
+      "sourceId": "cinra-2021-05-kazlaser",
+      "book": {
+        "title": "ソラリス",
+        "author": "スタニスワフ・レム",
+        "publisher": "国書刊行会"
+      }
+    },
+    {
+      "personId": "p1299",
+      "sourceId": "rbb-2016-11-kazlaser",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香"
+      },
+      "note": "お願い！ランキング（2016年11月2日）。書誌は2018年文庫版"
+    },
+    {
+      "personId": "p1299",
+      "sourceId": "hoshishinichi-official-2020-shuichi",
+      "book": {
+        "title": "ボッコちゃん",
+        "author": "星新一",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      },
+      "note": "シューイチ（2020年5月24日放送）"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://esse-online.jp/articles/-/4085",
+      "result": "rejected",
+      "reason": "本人インタビューには自著以外の書名なし。推薦書は別記事で確認",
+      "person": "又吉直樹"
+    },
+    {
+      "url": "https://bookstand.webdoku.jp/news/2012/08/21/130000.html",
+      "result": "rejected",
+      "reason": "本人の読書遍歴だが推薦に該当する書名なし",
+      "person": "光浦靖子"
+    }
+  ]
+}

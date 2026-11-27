@@ -24567,5 +24567,312 @@
     "reason": "『職業としての小説家』は序文のみの読書、他は洋書や雑誌への言及",
     "person": "宇多田ヒカル",
     "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://thetv.jp/news/detail/1340080/",
+    "result": "adopted",
+    "reason": "sources.json の thetv-20260410-takahashi",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.billboard-japan.com/special/detail/5238",
+    "result": "adopted",
+    "reason": "sources.json の billboard-with-books-saito-soma",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://kids.gakken.co.jp/feature/reading/okiniiribook_relay_5/",
+    "result": "adopted",
+    "reason": "sources.json の gakken-20240801-saito-soma",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.radiko.jp/article/station/TBS/51401/",
+    "result": "adopted",
+    "reason": "sources.json の radiko-20210202-matsuoka",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://hon-hikidashi.jp/book-person/30467/",
+    "result": "adopted",
+    "reason": "sources.json の hhd-20240206-saito-soma",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://smart-flash.jp/entertainment/entertainment-news/169964/",
+    "result": "adopted",
+    "reason": "sources.json の smartflash-20220121-tamashiro",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.j-wave.co.jp/2016/05/post-1636.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-20160524-matsuoka",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://nonno.hpplus.jp/entertainment/e-topic/296274/",
+    "result": "adopted",
+    "reason": "sources.json の nonno-20251109-saito-soma",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.livedoor.com/article/detail/9390536/",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "斉藤壮馬",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.livedoor.com/article/detail/19017229/",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "斉藤壮馬",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.livedoor.com/article/detail/17211623/",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "斉藤壮馬",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.oricon.co.jp/news/2482309/full/",
+    "result": "rejected",
+    "reason": "本文に出演作原作以外の書名がない",
+    "person": "庄司浩平",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.mensnonno.jp/lifestyle/culture/427540/",
+    "result": "rejected",
+    "reason": "本人の出演作の原作紹介",
+    "person": "杉咲花",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00016141.html",
+    "result": "adopted",
+    "reason": "sources.json の honto-yamaguchi-classics",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://booklog.jp/hon/interview/tsujimura-20181129",
+    "result": "adopted",
+    "reason": "sources.json の booklog-tsujimura-2018",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00016150.html",
+    "result": "adopted",
+    "reason": "sources.json の honto-yamaguchi-decisions",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://morimotoanri.com/wp-content/uploads/2021/08/YamaguchiAntiIntel.pdf",
+    "result": "adopted",
+    "reason": "sources.json の dokushosociety-yamaguchi-2020",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.webchikuma.com/n/n5bcc28411ca8",
+    "result": "adopted",
+    "reason": "sources.json の chikuma-isaka-2021",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://books.bunshun.jp/articles/-/2569",
+    "result": "adopted",
+    "reason": "sources.json の bunshun-isaka-2005",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://honto.jp/booktree/detail_00016149.html",
+    "result": "adopted",
+    "reason": "sources.json の honto-yamaguchi-newtype",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://group.softbank/philosophy/message/2011/20110520_01",
+    "result": "adopted",
+    "reason": "sources.json の softbank-2011-son-live",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://honto.jp/booktree_10702653.html",
+    "result": "index",
+    "reason": "山口周によるブックツリー3件の一覧",
+    "person": "山口周",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://nhkbook-hiraku.com/n/n9e661c3da478",
+    "result": "rejected",
+    "reason": "『物語日本史』第2巻はISBNのない旧版",
+    "person": "町田康",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.kawade.co.jp/np/isbn/9784309977416/",
+    "result": "candidate",
+    "reason": "公式の目次に読書リストあり。選書者と収録書名は紙面の確認が必要",
+    "person": "伊坂幸太郎",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://book.asahi.com/article/14779872",
+    "result": "adopted",
+    "reason": "sources.json の asahi-2022-12-kano",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.hoshishinichi.net/backnumber/2020.html",
+    "result": "adopted",
+    "reason": "sources.json の hoshishinichi-official-2020-shuichi",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://kodomoe.net/serial/interview/63621/",
+    "result": "adopted",
+    "reason": "sources.json の kodomoe-2023-05-kano",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.oricon.co.jp/special/76615/",
+    "result": "adopted",
+    "reason": "sources.json の oricon-2026-10-book-meets-next",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://bookstand.webdoku.jp/news/2012/08/20/130000.html",
+    "result": "adopted",
+    "reason": "sources.json の bookstand-2012-08-mitsuura",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.cinra.net/article/report-202105-yebisu_ymmts",
+    "result": "adopted",
+    "reason": "sources.json の cinra-2021-05-kazlaser",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.rbbtoday.com/article/2016/11/03/146643.html",
+    "result": "adopted",
+    "reason": "sources.json の rbb-2016-11-kazlaser",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://esse-online.jp/articles/-/13645",
+    "result": "adopted",
+    "reason": "sources.json の esse-2019-12-matayoshi-select",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://esse-online.jp/articles/-/4085",
+    "result": "rejected",
+    "reason": "本人インタビューには自著以外の書名なし。推薦書は別記事で確認",
+    "person": "又吉直樹",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://bookstand.webdoku.jp/news/2012/08/21/130000.html",
+    "result": "rejected",
+    "reason": "本人の読書遍歴だが推薦に該当する書名なし",
+    "person": "光浦靖子",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.ntv.co.jp/buzzrhythm/oa/20210611.html",
+    "result": "adopted",
+    "reason": "sources.json の ntv-2021-06-11-ado",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.tfm.co.jp/lock/staff/index.php@itemid=16259.html",
+    "result": "adopted",
+    "reason": "sources.json の tfm-2021-02-15-ado",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/from-hikki/index_63.html",
+    "result": "adopted",
+    "reason": "sources.json の hikki-2006-08-14",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://voice.php.co.jp/detail/5627",
+    "result": "adopted",
+    "reason": "sources.json の php-2018-10-11-neru-silence",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://ebookstore.sony.jp/features/d3zlxikk14/",
+    "result": "adopted",
+    "reason": "sources.json の reader-store-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://voice.php.co.jp/detail/5630",
+    "result": "adopted",
+    "reason": "sources.json の php-2018-10-11-neru-reading",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.rbbtoday.com/article/2021/07/24/190627.html",
+    "result": "adopted",
+    "reason": "sources.json の rbb-2021-07-24-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://bisweb.jp/interview/108960",
+    "result": "adopted",
+    "reason": "sources.json の bis-2021-03-03-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.j-wave.co.jp/2025/06/content-4280.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-2025-06-23-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.radiko.jp/article/station/TBS/45866/",
+    "result": "adopted",
+    "reason": "sources.json の tbs-2020-09-09-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://news.1242.com/article/146801",
+    "result": "adopted",
+    "reason": "sources.json の 1242-2018-06-15-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://bisweb.jp/interview/108717",
+    "result": "adopted",
+    "reason": "sources.json の bis-2021-02-27-neru",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://fushiginokuninotoshoshitsu.com/gen-hoshino-book-fair/",
+    "result": "rejected",
+    "reason": "選書フェアの第三者まとめ。開催元の公開書目を確認できず",
+    "person": "星野源",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.fujingaho.jp/culture/column-essay/a40267616/ryuichi-sakamoto-bookshelves-08-lee-ufan/",
+    "result": "rejected",
+    "reason": "全文は会員限定",
+    "person": "坂本龍一",
+    "checkedAt": "2026-11-28"
+  },
+  {
+    "url": "https://www.fujingaho.jp/culture/column-essay/a42666357/ryuichi-sakamoto-bookshelves-13-nikolai-nevsky/",
+    "result": "rejected",
+    "reason": "全文は有料会員限定",
+    "person": "坂本龍一",
+    "checkedAt": "2026-11-28"
   }
 ]

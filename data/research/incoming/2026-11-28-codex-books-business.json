@@ -1,0 +1,360 @@
+{
+  "people": [
+    {
+      "id": "son",
+      "name": "孫正義",
+      "kana": "そん まさよし",
+      "title": "ソフトバンクグループ創業者",
+      "tags": [
+        "経営者"
+      ],
+      "affiliation": "ソフトバンクグループ"
+    },
+    {
+      "id": "yamaguchi",
+      "name": "山口周",
+      "title": "独立研究者・著作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "isaka",
+      "name": "伊坂幸太郎",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "tsujimura",
+      "name": "辻村深月",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "softbank-2011-son-live",
+      "type": "article",
+      "media": "ソフトバンクグループ",
+      "title": "2012年度新卒向けイベント「ソフトバンク新卒LIVE2012 ～孫 正義から未来を担う皆さんへのメッセージ～」",
+      "url": "https://group.softbank/philosophy/message/2011/20110520_01",
+      "publishedAt": "2011-05-20"
+    },
+    {
+      "id": "honto-yamaguchi-decisions",
+      "type": "article",
+      "media": "hontoブックツリー",
+      "title": "「名経営者」のすごい意思決定を追体験する本",
+      "url": "https://honto.jp/booktree/detail_00016150.html",
+      "publishedAt": "2022-07-14"
+    },
+    {
+      "id": "honto-yamaguchi-newtype",
+      "type": "article",
+      "media": "hontoブックツリー",
+      "title": "「ニュータイプ」になるために",
+      "url": "https://honto.jp/booktree/detail_00016149.html",
+      "publishedAt": "2022-07-14"
+    },
+    {
+      "id": "honto-yamaguchi-classics",
+      "type": "article",
+      "media": "hontoブックツリー",
+      "title": "山口周の推薦する名著5冊",
+      "url": "https://honto.jp/booktree/detail_00016141.html",
+      "publishedAt": "2022-07-12"
+    },
+    {
+      "id": "dokushosociety-yamaguchi-2020",
+      "type": "interview",
+      "media": "読書時間",
+      "title": "役に立たない読書が武器になる",
+      "url": "https://morimotoanri.com/wp-content/uploads/2021/08/YamaguchiAntiIntel.pdf"
+    },
+    {
+      "id": "bunshun-isaka-2005",
+      "type": "interview",
+      "media": "本の話",
+      "title": "〈Q&Aに基づくインタビュー〉日々のこと、創作のこと",
+      "url": "https://books.bunshun.jp/articles/-/2569",
+      "publishedAt": "2005-06-20"
+    },
+    {
+      "id": "chikuma-isaka-2021",
+      "type": "interview",
+      "media": "webちくま",
+      "title": "全部「五万点」な傑作選 ー 伊坂幸太郎編『小説の惑星　ノーザンブルーベリー篇／オーシャンラズベリー篇』刊行記念インタビュー",
+      "url": "https://www.webchikuma.com/n/n5bcc28411ca8",
+      "publishedAt": "2021-12-21"
+    },
+    {
+      "id": "booklog-tsujimura-2018",
+      "type": "interview",
+      "media": "ブクログ通信",
+      "title": "学校に行かない中学生たちを描くために―辻村深月さんブクログ大賞受賞記念インタビュー前編",
+      "url": "https://booklog.jp/hon/interview/tsujimura-20181129",
+      "publishedAt": "2018-11-29"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "son",
+      "sourceId": "softbank-2011-son-live",
+      "book": {
+        "title": "竜馬がゆく",
+        "author": "司馬遼太郎",
+        "publisher": "文藝春秋",
+        "edition": "シリーズ"
+      },
+      "context": "人生を変えた一冊"
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-decisions",
+      "book": {
+        "title": "小倉昌男 経営学",
+        "author": "小倉昌男"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-decisions",
+      "book": {
+        "title": "巨象も踊る",
+        "author": "ルイス・ガースナー"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-decisions",
+      "book": {
+        "title": "ルネッサンス",
+        "author": "カルロス・ゴーン",
+        "subtitle": "再生への挑戦"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-decisions",
+      "book": {
+        "title": "石橋を叩けば渡れない。",
+        "author": "西堀栄三郎",
+        "subtitle": "西堀流創造的生き方",
+        "edition": "新版"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-decisions",
+      "book": {
+        "title": "パラノイアだけが生き残る",
+        "author": "アンドリュー・S・グローブ",
+        "edition": "佐々木かをり訳"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-newtype",
+      "book": {
+        "title": "反脆弱性 上",
+        "author": "ナシーム・ニコラス・タレブ"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-newtype",
+      "book": {
+        "title": "進化は万能である",
+        "author": "マット・リドレー"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-newtype",
+      "book": {
+        "title": "怠惰への讃歌",
+        "author": "バートランド・ラッセル",
+        "edition": "堀秀彦・柿村峻訳"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-classics",
+      "book": {
+        "title": "「普通がいい」という病",
+        "author": "泉谷閑示"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-classics",
+      "book": {
+        "title": "はじめてのスピノザ",
+        "author": "國分功一郎",
+        "subtitle": "自由へのエチカ"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-classics",
+      "book": {
+        "title": "タテ社会の人間関係",
+        "author": "中根千枝",
+        "subtitle": "単一社会の理論"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-classics",
+      "book": {
+        "title": "社会学史",
+        "author": "大澤真幸"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "honto-yamaguchi-classics",
+      "book": {
+        "title": "これがニーチェだ",
+        "author": "永井均"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "dokushosociety-yamaguchi-2020",
+      "book": {
+        "title": "天才",
+        "author": "宮城音弥",
+        "publisher": "岩波書店",
+        "edition": "岩波新書"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "dokushosociety-yamaguchi-2020",
+      "book": {
+        "title": "反知性主義",
+        "author": "森本あんり",
+        "publisher": "新潮社",
+        "edition": "新潮選書"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "dokushosociety-yamaguchi-2020",
+      "book": {
+        "title": "イノベーターズ 1",
+        "author": "ウォルター・アイザックソン",
+        "publisher": "講談社",
+        "edition": "第1巻"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "dokushosociety-yamaguchi-2020",
+      "book": {
+        "title": "リーダーシップの旅",
+        "author": "野田智義、金井壽宏",
+        "publisher": "光文社",
+        "edition": "光文社新書"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "dokushosociety-yamaguchi-2020",
+      "book": {
+        "title": "知識創造の経営",
+        "author": "野中郁次郎",
+        "publisher": "日本経済新聞社"
+      }
+    },
+    {
+      "personId": "isaka",
+      "sourceId": "bunshun-isaka-2005",
+      "book": {
+        "title": "七色いんこ",
+        "author": "手塚治虫",
+        "publisher": "秋田書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "isaka",
+      "sourceId": "bunshun-isaka-2005",
+      "book": {
+        "title": "DEATH NOTE",
+        "author": "大場つぐみ、小畑健",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "isaka",
+      "sourceId": "chikuma-isaka-2021",
+      "book": {
+        "title": "六枚の切符",
+        "author": "眉村卓",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "isaka",
+      "sourceId": "chikuma-isaka-2021",
+      "book": {
+        "title": "龍は眠る",
+        "author": "宮部みゆき"
+      }
+    },
+    {
+      "personId": "isaka",
+      "sourceId": "chikuma-isaka-2021",
+      "book": {
+        "title": "レベル7",
+        "author": "宮部みゆき"
+      }
+    },
+    {
+      "personId": "isaka",
+      "sourceId": "chikuma-isaka-2021",
+      "book": {
+        "title": "スナーク狩り",
+        "author": "宮部みゆき"
+      }
+    },
+    {
+      "personId": "tsujimura",
+      "sourceId": "booklog-tsujimura-2018",
+      "book": {
+        "title": "ライオンと魔女",
+        "author": "C・S・ルイス",
+        "publisher": "岩波書店",
+        "edition": "岩波少年文庫・瀬田貞二訳"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://honto.jp/booktree_10702653.html",
+      "result": "index",
+      "reason": "山口周によるブックツリー3件の一覧",
+      "person": "山口周"
+    },
+    {
+      "url": "https://nhkbook-hiraku.com/n/n9e661c3da478",
+      "result": "rejected",
+      "reason": "『物語日本史』第2巻はISBNのない旧版",
+      "person": "町田康"
+    },
+    {
+      "url": "https://www.kawade.co.jp/np/isbn/9784309977416/",
+      "result": "candidate",
+      "reason": "公式の目次に読書リストあり。選書者と収録書名は紙面の確認が必要",
+      "person": "伊坂幸太郎"
+    }
+  ]
+}
