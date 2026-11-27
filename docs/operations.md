@@ -4,7 +4,7 @@
 
 ## 現状
 
-- 2026-11-15 に https://suisen.page/ を公開。Cloudflare Workers の静的配信。デプロイは `pnpm build` のあと `pnpm deploy`。
+- 2026-11-15 に https://suisen.page/ を公開。Cloudflare Workers の静的配信。`main` に push すると Workers Builds が本番にデプロイする。
 - 公開時点のデータ: 推薦者 499、本 1,852冊、推薦 1,943件。
 - 検索エンジンに載せているのは、人物ページ、2人以上が薦めた本のページ、ランキング、トップ、運営方針。推薦者が1人の本ページは noindex（`src/lib/indexing.json`）。
 - アクセス解析（Cloudflare Web Analytics）は有効。計測用のスクリプトは Cloudflare が配信時に差し込む（ソースコードには入れていない）。2026-11-15 に最初の PV を確認。

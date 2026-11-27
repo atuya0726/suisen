@@ -5,8 +5,8 @@
 
 ## 必要なもの
 
-- Node.js 22.12 以上
-- pnpm
+- Node.js 22.13 以上
+- pnpm 11.11.0（`package.json` で指定）
 
 ## セットアップ
 
@@ -90,9 +90,11 @@ pnpm exec wrangler deploy
 
 ### Git 連携（Workers Builds）でデプロイする
 
-1. Cloudflare ダッシュボードの Workers & Pages → Create → Import a repository でリポジトリを接続する
-2. Build command: `pnpm build` / Deploy command: `npx wrangler deploy`
-3. Settings → Build → Variables and secrets に `SITE_URL`・`AMAZON_ASSOCIATE_TAG`・`RAKUTEN_AFFILIATE_ID`・`CONTACT_EMAIL`・`OPERATOR_NAME` を設定する（ビルド時に読まれる）
+`atuya0726/suisen` の `main` に push すると、Workers Builds が `suisen` を本番にデプロイする。プレビュービルドは無効。
+
+設定とビルド履歴は Cloudflare ダッシュボードの Workers & Pages → suisen → Settings → Builds で確認できる。ビルドコマンドは `pnpm build`、デプロイコマンドは `pnpm exec wrangler deploy`。
+
+ビルド変数は `SITE_URL=https://suisen.page` と、必要に応じて `AMAZON_ASSOCIATE_TAG`・`RAKUTEN_AFFILIATE_ID`・`CONTACT_EMAIL`・`OPERATOR_NAME` を設定する。
 
 ### ファイル数の上限
 
