@@ -56199,5 +56199,203 @@
     "sourceId": "fujingaho-sakamoto-ongaku",
     "note": "収録作「舞姫」を紹介",
     "verified": true
+  },
+  {
+    "personId": "p1665",
+    "isbn13": "9784309032078",
+    "sourceId": "billboard-yonezu-2025",
+    "verified": true
+  },
+  {
+    "personId": "p1665",
+    "isbn13": "9784494006182",
+    "sourceId": "cut-yonezu-2016",
+    "note": "シリーズの第1作を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p1665",
+    "isbn13": "9784088728407",
+    "sourceId": "cut-yonezu-2016",
+    "verified": true
+  },
+  {
+    "personId": "p1665",
+    "isbn13": "9784820519942",
+    "sourceId": "cut-yonezu-2016",
+    "verified": true
+  },
+  {
+    "personId": "p1666",
+    "isbn13": "9784315518115",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p1666",
+    "isbn13": "9784167515027",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p1666",
+    "isbn13": "9784039651006",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p1666",
+    "isbn13": "9784167515027",
+    "sourceId": "otocoto-aoi-2016",
+    "verified": true
+  },
+  {
+    "personId": "p1666",
+    "isbn13": "9784894232617",
+    "sourceId": "seidoku-aoi-ishida",
+    "verified": true
+  },
+  {
+    "personId": "p1666",
+    "isbn13": "9784323012315",
+    "sourceId": "seidoku-aoi-ishida",
+    "verified": true
+  },
+  {
+    "personId": "p1667",
+    "isbn13": "9784091923417",
+    "sourceId": "qjweb-ametalk-gag-manga-2023",
+    "note": "アメトーーク！ 2023年5月4日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1667",
+    "isbn13": "9784063234329",
+    "sourceId": "qjweb-ametalk-gag-manga-2023",
+    "note": "アメトーーク！ 2023年5月4日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1667",
+    "isbn13": "9784065204658",
+    "sourceId": "realsound-ametalk-manga-2021",
+    "note": "アメトーーク！ 2021年9月16日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784103526810",
+    "sourceId": "asahi-shoji-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784167911300",
+    "sourceId": "asahi-shoji-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784101215228",
+    "sourceId": "fineboys-shoji-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784296121045",
+    "sourceId": "fineboys-shoji-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784101313351",
+    "sourceId": "fineboys-shoji-2026",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784591004654",
+    "sourceId": "arweb-shoji-2025",
+    "verified": true
+  },
+  {
+    "personId": "p1122",
+    "isbn13": "9784101388656",
+    "sourceId": "arweb-shoji-2025",
+    "verified": true
+  },
+  {
+    "personId": "p1120",
+    "isbn13": "9784101050478",
+    "sourceId": "nikkei-nakajima-20260917",
+    "verified": true
+  },
+  {
+    "personId": "p1667",
+    "isbn13": "9784098510917",
+    "sourceId": "realsound-ametalk-bekaku-2025",
+    "note": "アメトーーク！ 2025年2月27日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1566",
+    "isbn13": "9784150117009",
+    "sourceId": "hobonichi-ota-2003",
+    "note": "掲載書誌は2009年刊の同じ浅倉久志訳",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784122049697",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784167350062",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784101006178",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784041847169",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784087467987",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784163106601",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784344417168",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784102015063",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
+  },
+  {
+    "personId": "p0666",
+    "isbn13": "9784904816011",
+    "sourceId": "teikyo-aoi-matayoshi-2012",
+    "verified": true
   }
 ]

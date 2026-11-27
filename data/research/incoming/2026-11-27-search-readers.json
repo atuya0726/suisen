@@ -1,0 +1,483 @@
+{
+  "people": [
+    {
+      "id": "yonezu",
+      "name": "米津玄師",
+      "kana": "よねづ けんし",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "aoi",
+      "name": "蒼井優",
+      "kana": "あおい ゆう",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "bakarhythm",
+      "name": "バカリズム",
+      "title": "お笑い芸人",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "shoji",
+      "name": "庄司浩平",
+      "title": "俳優・モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "nakajima",
+      "name": "中島佑気ジョセフ",
+      "title": "陸上選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "matayoshi",
+      "name": "又吉直樹",
+      "title": "作家・お笑い芸人",
+      "tags": [
+        "作家",
+        "芸能"
+      ]
+    },
+    {
+      "id": "ota",
+      "name": "太田光",
+      "title": "お笑い芸人",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "billboard-yonezu-2025",
+      "type": "interview",
+      "media": "Billboard JAPAN",
+      "title": "＜インタビュー＞米津玄師　初のワールドツアーと『Plazma / BOW AND ARROW』――物語、そして自身のキャリアを貫く“運命の糸”の確かな手触り",
+      "url": "https://www.billboard-japan.com/special/detail/4870",
+      "publishedAt": "2025-06-24"
+    },
+    {
+      "id": "cut-yonezu-2016",
+      "type": "article",
+      "media": "CUT 編集部日記",
+      "title": "特集『米津玄師はどこから来たのか？』の「どこから」について",
+      "url": "https://rockinon.com/blog/cut/147181",
+      "publishedAt": "2016-08-14"
+    },
+    {
+      "id": "teikyo-aoi-matayoshi-2012",
+      "type": "article",
+      "media": "帝京大学メディアライブラリーセンター",
+      "title": "蒼井さん、又吉さんとのMONDO一挙公開！",
+      "url": "https://appsv.main.teikyo-u.ac.jp/tosho/tos-kyodoku001-2012.html",
+      "publishedAt": "2012-11-16"
+    },
+    {
+      "id": "otocoto-aoi-2016",
+      "type": "interview",
+      "media": "otocoto",
+      "title": "“春子の傷と、私の傷がリンクする瞬間がたくさんあったんです” 映画『アズミ・ハルコは行方不明』蒼井優インタビュー",
+      "url": "https://otocoto.jp/interview/yu-aoi/",
+      "publishedAt": "2016-12-01"
+    },
+    {
+      "id": "seidoku-aoi-ishida",
+      "type": "interview",
+      "media": "青春と読書",
+      "title": "蒼井優・石田衣良対談",
+      "url": "https://seidoku.shueisha.co.jp/ishida2.html"
+    },
+    {
+      "id": "qjweb-ametalk-gag-manga-2023",
+      "type": "article",
+      "media": "QJWeb クイック・ジャパン ウェブ",
+      "title": "「ギャグ漫画サミット」芸人全員が挙げた“好きなマンガ”とは？（アメトーーク！）",
+      "url": "https://qjweb.jp/regular/85183/",
+      "publishedAt": "2023-05-05"
+    },
+    {
+      "id": "realsound-ametalk-manga-2021",
+      "type": "article",
+      "media": "リアルサウンド ブック",
+      "title": "『アメトーーク!』マンガ大好き芸人が大反響　ケンコバ、麒麟川島、バカリズムらのお気に入り作品まとめ",
+      "url": "https://realsound.jp/book/2021/09/post-861503.html",
+      "publishedAt": "2021-09-18"
+    },
+    {
+      "id": "asahi-shoji-2026",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "俳優・庄司浩平さんの大切な本　自分なりの答え もがいて探して",
+      "url": "https://book.asahi.com/article/16614400",
+      "publishedAt": "2026-06-03"
+    },
+    {
+      "id": "fineboys-shoji-2026",
+      "type": "interview",
+      "media": "FINEBOYS Online",
+      "title": "ブックカフェで庄司浩平くんと。スウィートシーズン〜秘密の待ち合わせ〜",
+      "url": "https://fineboys-online.jp/interview/detail.php?id=6417",
+      "publishedAt": "2026-10-07"
+    },
+    {
+      "id": "arweb-shoji-2025",
+      "type": "interview",
+      "media": "arweb",
+      "title": "庄司浩平、子供の頃からの意外な趣味って？「今でも借りる派」ロンT姿がカッコよすぎ♡",
+      "url": "https://ar-mag.jp/articles/-/19378?display=full",
+      "publishedAt": "2025-12-31"
+    },
+    {
+      "id": "nikkei-nakajima-20260917",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "中島佑気ジョセフ　文学作品のように40数秒のレースを描き、感情を管理する",
+      "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800002/",
+      "publishedAt": "2026-09-17"
+    },
+    {
+      "id": "realsound-ametalk-bekaku-2025",
+      "type": "article",
+      "media": "リアルサウンド ブック",
+      "title": "高校球児=坊主はもう古い？　バカリズムも絶賛『ベー革』は令和の球児＆指導者の“新たなバイブル”に",
+      "url": "https://realsound.jp/book/2025/07/post-2095284.html",
+      "publishedAt": "2025-07-20"
+    },
+    {
+      "id": "hobonichi-ota-2003",
+      "type": "interview",
+      "media": "ほぼ日刊イトイ新聞",
+      "title": "爆笑問題・太田光の家族をつくったゲーム。第7回 現実のなかで、つくること",
+      "url": "https://www.1101.com/MOTHER_bakusho/07.html",
+      "publishedAt": "2003-06-24"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "yonezu",
+      "sourceId": "billboard-yonezu-2025",
+      "book": {
+        "title": "いなくなくならなくならないで",
+        "author": "向坂くじら",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "yonezu",
+      "sourceId": "cut-yonezu-2016",
+      "book": {
+        "title": "14ひきのシリーズ",
+        "author": "いわむらかずお",
+        "publisher": "童心社",
+        "edition": "シリーズ"
+      },
+      "note": "シリーズの第1作を掲載"
+    },
+    {
+      "personId": "yonezu",
+      "sourceId": "cut-yonezu-2016",
+      "book": {
+        "title": "NARUTO―ナルト―",
+        "author": "岸本斉史",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yonezu",
+      "sourceId": "cut-yonezu-2016",
+      "book": {
+        "title": "春と修羅",
+        "author": "宮沢賢治",
+        "publisher": "日本図書センター"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "よくわかる天の川銀河系",
+        "author": "水谷仁",
+        "publisher": "ニュートンプレス"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "旅をする木",
+        "author": "星野道夫",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "赤い蝋燭と人魚",
+        "author": "小川未明、酒井駒子",
+        "publisher": "偕成社"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "otocoto-aoi-2016",
+      "book": {
+        "title": "旅をする木",
+        "author": "星野道夫",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "seidoku-aoi-ishida",
+      "book": {
+        "title": "ぼくおかあさんのこと…",
+        "author": "酒井駒子",
+        "publisher": "文溪堂"
+      }
+    },
+    {
+      "personId": "aoi",
+      "sourceId": "seidoku-aoi-ishida",
+      "book": {
+        "title": "火の雨がふる",
+        "author": "有原誠治、今泉俊昭",
+        "publisher": "金の星社"
+      }
+    },
+    {
+      "personId": "bakarhythm",
+      "sourceId": "qjweb-ametalk-gag-manga-2023",
+      "book": {
+        "title": "伝染るんです。",
+        "author": "吉田戦車",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク！ 2023年5月4日放送"
+    },
+    {
+      "personId": "bakarhythm",
+      "sourceId": "qjweb-ametalk-gag-manga-2023",
+      "book": {
+        "title": "行け！稲中卓球部",
+        "author": "古谷実",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク！ 2023年5月4日放送"
+    },
+    {
+      "personId": "bakarhythm",
+      "sourceId": "realsound-ametalk-manga-2021",
+      "book": {
+        "title": "ケンシロウによろしく",
+        "author": "ジャスミン・ギュ",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク！ 2021年9月16日放送"
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "asahi-shoji-2026",
+      "book": {
+        "title": "ぼくはイエローでホワイトで、ちょっとブルー",
+        "author": "ブレイディみかこ",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "asahi-shoji-2026",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "fineboys-shoji-2026",
+      "book": {
+        "title": "まぶた",
+        "author": "小川洋子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "fineboys-shoji-2026",
+      "book": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "朝井リョウ",
+        "publisher": "日経BP"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "fineboys-shoji-2026",
+      "book": {
+        "title": "アンソーシャル ディスタンス",
+        "author": "金原ひとみ",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "arweb-shoji-2025",
+      "book": {
+        "title": "ねずみくんのチョッキ",
+        "author": "なかえよしを、上野紀子",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "shoji",
+      "sourceId": "arweb-shoji-2025",
+      "book": {
+        "title": "春のこわいもの",
+        "author": "川上未映子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "nakajima",
+      "sourceId": "nikkei-nakajima-20260917",
+      "book": {
+        "title": "宴のあと",
+        "author": "三島由紀夫",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "bakarhythm",
+      "sourceId": "realsound-ametalk-bekaku-2025",
+      "book": {
+        "title": "ベー革",
+        "author": "クロマツテツロウ",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      },
+      "note": "アメトーーク！ 2025年2月27日放送"
+    },
+    {
+      "personId": "ota",
+      "sourceId": "hobonichi-ota-2003",
+      "book": {
+        "title": "タイタンの妖女",
+        "author": "カート・ヴォネガット・ジュニア、浅倉久志",
+        "publisher": "早川書房"
+      },
+      "note": "掲載書誌は2009年刊の同じ浅倉久志訳"
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "告白",
+        "author": "町田康",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "桜桃とキリスト",
+        "author": "長部日出雄",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "ろまん燈籠",
+        "author": "太宰治",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "ロッキン・ホース・バレリーナ",
+        "author": "大槻ケンヂ",
+        "publisher": "角川書店"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "何もかも憂鬱な夜に",
+        "author": "中村文則",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "香水",
+        "author": "パトリック・ジュースキント、池内紀",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "悲望",
+        "author": "小谷野敦",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "ゲーテ格言集",
+        "author": "ゲーテ、高橋健二",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "matayoshi",
+      "sourceId": "teikyo-aoi-matayoshi-2012",
+      "book": {
+        "title": "昔日の客",
+        "author": "関口良雄",
+        "publisher": "夏葉社"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://manba.co.jp/manba_magazines/3919",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "バカリズム"
+    }
+  ]
+}

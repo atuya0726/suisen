@@ -13960,10 +13960,10 @@
   },
   {
     "url": "https://bookplus.nikkei.com/atcl/column/082800769/082800002/",
-    "result": "candidate",
-    "reason": "第2回（2026-09-17）。競技への影響が中心で、本は未抽出",
+    "result": "adopted",
+    "reason": "sources.json の nikkei-nakajima-20260917",
     "person": "中島佑気ジョセフ",
-    "checkedAt": "2026-11-17"
+    "checkedAt": "2026-11-27"
   },
   {
     "url": "https://bookplus.nikkei.com/atcl/column/120900616/",
@@ -16813,10 +16813,10 @@
   },
   {
     "url": "https://realsound.jp/book/2021/09/post-861503.html",
-    "result": "rejected",
-    "reason": "アメトーーク『マンガ大好き芸人II』のまとめ。記事に放送日の記載がなく、番組放送日を特定できない（記事公開2021-09-18）。ケンドーコバヤシは『僕とロボコ』",
-    "person": "ケンドーコバヤシ",
-    "checkedAt": "2026-11-18"
+    "result": "adopted",
+    "reason": "sources.json の realsound-ametalk-manga-2021。放送日はテレビ朝日公式で確認（2021-09-16）",
+    "person": "バカリズム",
+    "checkedAt": "2026-11-27"
   },
   {
     "url": "https://realsound.jp/book/2024/09/post-1789606.html",
@@ -22196,5 +22196,78 @@
     "result": "adopted",
     "reason": "sources.json の sfmagazine-utada-ogawa",
     "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://fineboys-online.jp/interview/detail.php?id=6417",
+    "result": "adopted",
+    "reason": "sources.json の fineboys-shoji-2026",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://otocoto.jp/interview/yu-aoi/",
+    "result": "adopted",
+    "reason": "sources.json の otocoto-aoi-2016",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://ar-mag.jp/articles/-/19378?display=full",
+    "result": "adopted",
+    "reason": "sources.json の arweb-shoji-2025",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://rockinon.com/blog/cut/147181",
+    "result": "adopted",
+    "reason": "sources.json の cut-yonezu-2016",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.1101.com/MOTHER_bakusho/07.html",
+    "result": "adopted",
+    "reason": "sources.json の hobonichi-ota-2003",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://book.asahi.com/article/16614400",
+    "result": "adopted",
+    "reason": "sources.json の asahi-shoji-2026",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://qjweb.jp/regular/85183/",
+    "result": "adopted",
+    "reason": "sources.json の qjweb-ametalk-gag-manga-2023",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/07/post-2095284.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-ametalk-bekaku-2025",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://appsv.main.teikyo-u.ac.jp/tosho/tos-kyodoku001-2012.html",
+    "result": "adopted",
+    "reason": "sources.json の teikyo-aoi-matayoshi-2012",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.billboard-japan.com/special/detail/4870",
+    "result": "adopted",
+    "reason": "sources.json の billboard-yonezu-2025",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://seidoku.shueisha.co.jp/ishida2.html",
+    "result": "adopted",
+    "reason": "sources.json の seidoku-aoi-ishida",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://manba.co.jp/manba_magazines/3919",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "バカリズム",
+    "checkedAt": "2026-11-27"
   }
 ]
