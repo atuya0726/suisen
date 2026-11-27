@@ -22269,5 +22269,251 @@
     "reason": "robots.txt",
     "person": "バカリズム",
     "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://post.tv-asahi.co.jp/post-370561/",
+    "result": "adopted",
+    "reason": "sources.json の tv-asahi-kazlaser-20241201",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.fighters.co.jp/news/detail/202300433049.html",
+    "result": "adopted",
+    "reason": "sources.json の fighters-recommend-2023",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.fighters.co.jp/cmn/images/news/2019/07/suisenntosyo2.pdf",
+    "result": "adopted",
+    "reason": "sources.json の fighters-recommend-2019",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://bookplus.nikkei.com/atcl/column/082000759/100200003/",
+    "result": "adopted",
+    "reason": "sources.json の nikkei-miyake-partnership",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha.online/articles/-/194196?disp=paging&page=1",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-fujii-20240210",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://tabizine.jp/2018/11/05/214954/",
+    "result": "adopted",
+    "reason": "sources.json の tabizine-ikeda-20181105",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://cancam.jp/archives/63827",
+    "result": "adopted",
+    "reason": "sources.json の cancam-ikeda-20140424",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://ananweb.jp/categories/lifestyle/20098",
+    "result": "adopted",
+    "reason": "sources.json の anan-hikorohee-20221028",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://advanced-time.shogakukan.co.jp/20466",
+    "result": "adopted",
+    "reason": "sources.json の advancedtime-hirano-kanehara-1",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.booklista.co.jp/corp/newsrelease/1490/",
+    "result": "adopted",
+    "reason": "sources.json の booklista-saito-20160126",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tfm.co.jp/shovels/fmrohee/report/130699",
+    "result": "adopted",
+    "reason": "sources.json の tfm-hikorohee-20240126",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://brutus.jp/post-303112/",
+    "result": "adopted",
+    "reason": "sources.json の brutus-hikorohee-20240605",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://asm.asahi.com/article/11183855",
+    "result": "adopted",
+    "reason": "sources.json の aera-style-hasebe-20171003",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://real-sports.jp/page/articles/591422627499738153/",
+    "result": "adopted",
+    "reason": "sources.json の real-sports-ohtani-20211119",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/",
+    "result": "adopted",
+    "reason": "sources.json の mext-anatato-yomitai",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.aozora.gr.jp/cards/000879/files/4872_21839.html",
+    "result": "adopted",
+    "reason": "sources.json の aozora-akutagawa-aidoku",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.daily.co.jp/mlb/2024/06/24/0017805873.shtml?ph=2",
+    "result": "adopted",
+    "reason": "sources.json の daily-ohtani-20240624",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.wani.co.jp/act/interview/interview.php?id=5",
+    "result": "adopted",
+    "reason": "sources.json の plusact-hashimoto-5",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.crank-in.net/interview/38713/2",
+    "result": "adopted",
+    "reason": "sources.json の crankin-ikeda-20150903",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://news.j-wave.co.jp/2021/05/post-7900.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-kamishiraishi-20210518",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tfm.co.jp/lock/sakana/index.php@itemid=2137.html",
+    "result": "adopted",
+    "reason": "sources.json の tfm-yamaguchi-furutachi-2014",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2023.html",
+    "result": "adopted",
+    "reason": "sources.json の mext-kimini-okuritai",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://honsuki.jp/pickup/35249/index.html",
+    "result": "adopted",
+    "reason": "sources.json の honsuki-kanehara-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://press.moviewalker.jp/news/article/1056948/p3/",
+    "result": "adopted",
+    "reason": "sources.json の moviewalker-hashimoto-20211104",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://news.radiko.jp/article/station/TBS/132247/",
+    "result": "adopted",
+    "reason": "sources.json の tbs-gosatsuten-2026",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tfm.co.jp/shovels/fmrohee/report/130715",
+    "result": "adopted",
+    "reason": "sources.json の tfm-hikorohee-20231006",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.ishiba.com/profile-2/ishiba/",
+    "result": "adopted",
+    "reason": "sources.json の ishiba-official-profile",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://advanced-time.shogakukan.co.jp/20861",
+    "result": "adopted",
+    "reason": "sources.json の advancedtime-hirano-kanehara-2",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://webgenron.com/articles/cafebookselection",
+    "result": "adopted",
+    "reason": "sources.json の genron-cafe-books-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tfm.co.jp/lock/sakana/index.php@itemid=17757.html",
+    "result": "adopted",
+    "reason": "sources.json の tfm-yamaguchi-books-2021",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://line-manga.blog.jp/archives/77536753.html",
+    "result": "adopted",
+    "reason": "sources.json の linemanga-yoshizawa-20180926",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://nonno.hpplus.jp/entertainment/interview/201021/",
+    "result": "adopted",
+    "reason": "sources.json の nonno-saito-20241215",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://emmary.jp/entertainment/20170427-2/",
+    "result": "adopted",
+    "reason": "sources.json の emmary-yoshizawa-20170427",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://rollingstonejapan.com/articles/detail/30708/6/1/1",
+    "result": "adopted",
+    "reason": "sources.json の rolling-stone-noda-2019",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://mantan-web.jp/article/20120901dog00m200024000c.html",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "山口一郎",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://newsdig.tbs.co.jp/articles/-/1250709",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "大谷翔平",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.nikkansports.com/m/baseball/mlb/news/amp/201911150000643.html",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "大谷翔平",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://news.yahoo.co.jp/feature/1523/",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "大谷翔平",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.booklista.co.jp/feature/honyomi-otome/vol1",
+    "result": "unreachable",
+    "reason": "本編が404。公開中の抜粋で紹介が確認できる1冊を採用",
+    "person": "齋藤飛鳥",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://friday.kodansha.co.jp/article/145268",
+    "result": "rejected",
+    "reason": "robots.txt",
+    "person": "齋藤飛鳥",
+    "checkedAt": "2026-11-27"
   }
 ]

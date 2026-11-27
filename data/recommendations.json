@@ -56397,5 +56397,695 @@
     "isbn13": "9784904816011",
     "sourceId": "teikyo-aoi-matayoshi-2012",
     "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784872573251",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784872574258",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784872576559",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784042750017",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784087461534",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784030148307",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "note": "ますむらひろし作画の漫画版",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784061984097",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784093874496",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784087462685",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784101111056",
+    "sourceId": "tfm-yamaguchi-books-2021",
+    "verified": true
+  },
+  {
+    "personId": "p1668",
+    "isbn13": "9784101121246",
+    "sourceId": "tfm-yamaguchi-furutachi-2014",
+    "verified": true
+  },
+  {
+    "personId": "p1669",
+    "isbn13": "9784022140234",
+    "sourceId": "rolling-stone-noda-2019",
+    "verified": true
+  },
+  {
+    "personId": "p1669",
+    "isbn13": "9784061037113",
+    "sourceId": "rolling-stone-noda-2019",
+    "verified": true
+  },
+  {
+    "personId": "p1310",
+    "isbn13": "9784812419113",
+    "sourceId": "ishiba-official-profile",
+    "verified": true
+  },
+  {
+    "personId": "p1310",
+    "isbn13": "9784253108492",
+    "sourceId": "ishiba-official-profile",
+    "verified": true
+  },
+  {
+    "personId": "p1310",
+    "isbn13": "9784063280012",
+    "sourceId": "ishiba-official-profile",
+    "verified": true
+  },
+  {
+    "personId": "p1310",
+    "isbn13": "9784061026926",
+    "sourceId": "ishiba-official-profile",
+    "verified": true
+  },
+  {
+    "personId": "p1310",
+    "isbn13": "9784091823618",
+    "sourceId": "ishiba-official-profile",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784041039892",
+    "sourceId": "nikkei-miyake-partnership",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784103544913",
+    "sourceId": "nikkei-miyake-partnership",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784004321071",
+    "sourceId": "nikkei-miyake-partnership",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784041160329",
+    "sourceId": "nikkei-miyake-partnership",
+    "verified": true
+  },
+  {
+    "personId": "p1670",
+    "isbn13": "9784001145472",
+    "sourceId": "aozora-akutagawa-aidoku",
+    "note": "掲載書誌は別の版",
+    "verified": true
+  },
+  {
+    "personId": "p1670",
+    "isbn13": "9784003201619",
+    "sourceId": "aozora-akutagawa-aidoku",
+    "note": "掲載書誌は岩波文庫の完訳第1冊",
+    "verified": true
+  },
+  {
+    "personId": "p1670",
+    "isbn13": "9784003101520",
+    "sourceId": "aozora-akutagawa-aidoku",
+    "note": "掲載書誌は別の版",
+    "verified": true
+  },
+  {
+    "personId": "p1670",
+    "isbn13": "9784041001011",
+    "sourceId": "aozora-akutagawa-aidoku",
+    "note": "掲載書誌は別の版",
+    "verified": true
+  },
+  {
+    "personId": "p1670",
+    "isbn13": "9784480032416",
+    "sourceId": "aozora-akutagawa-aidoku",
+    "note": "掲載書誌は『風流線』を収録した『泉鏡花集成』11",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784062135627",
+    "sourceId": "mext-kimini-okuritai",
+    "note": "3部作の第1部を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p1306",
+    "isbn13": "9784811805719",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p0562",
+    "isbn13": "9784167111205",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1671",
+    "isbn13": "9784314011778",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1672",
+    "isbn13": "9784062765565",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1673",
+    "isbn13": "9784522436219",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1351",
+    "isbn13": "9784255011677",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p0681",
+    "isbn13": "9784103515722",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1674",
+    "isbn13": "9784104013036",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p0522",
+    "isbn13": "9784087735246",
+    "sourceId": "mext-kimini-okuritai",
+    "verified": true
+  },
+  {
+    "personId": "p1675",
+    "isbn13": "9784101250267",
+    "sourceId": "mext-anatato-yomitai",
+    "verified": true
+  },
+  {
+    "personId": "p1676",
+    "isbn13": "9784591164457",
+    "sourceId": "mext-anatato-yomitai",
+    "verified": true
+  },
+  {
+    "personId": "p0334",
+    "isbn13": "9784309408415",
+    "sourceId": "mext-anatato-yomitai",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784022648037",
+    "sourceId": "mext-anatato-yomitai",
+    "verified": true
+  },
+  {
+    "personId": "p1677",
+    "isbn13": "9784101167589",
+    "sourceId": "mext-anatato-yomitai",
+    "verified": true
+  },
+  {
+    "personId": "p0477",
+    "isbn13": "9784309462271",
+    "sourceId": "advancedtime-hirano-kanehara-1",
+    "verified": true
+  },
+  {
+    "personId": "p0477",
+    "isbn13": "9784102010105",
+    "sourceId": "advancedtime-hirano-kanehara-1",
+    "verified": true
+  },
+  {
+    "personId": "p0532",
+    "isbn13": "9784796700740",
+    "sourceId": "advancedtime-hirano-kanehara-1",
+    "verified": true
+  },
+  {
+    "personId": "p0532",
+    "isbn13": "9784003261422",
+    "sourceId": "advancedtime-hirano-kanehara-1",
+    "verified": true
+  },
+  {
+    "personId": "p0477",
+    "isbn13": "9784151201035",
+    "sourceId": "advancedtime-hirano-kanehara-2",
+    "verified": true
+  },
+  {
+    "personId": "p0532",
+    "isbn13": "9784865780970",
+    "sourceId": "advancedtime-hirano-kanehara-2",
+    "note": "全3巻のうち第1巻を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p0477",
+    "isbn13": "9784152098887",
+    "sourceId": "honsuki-kanehara-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784334752569",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784334751678",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784334751067",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784105067045",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1678",
+    "isbn13": "9784150119591",
+    "sourceId": "genron-cafe-books-2020",
+    "verified": true
+  },
+  {
+    "personId": "p1679",
+    "isbn13": "9784163906652",
+    "sourceId": "aera-style-hasebe-20171003",
+    "verified": true
+  },
+  {
+    "personId": "p1680",
+    "isbn13": "9784088716114",
+    "sourceId": "real-sports-ohtani-20211119",
+    "verified": true
+  },
+  {
+    "personId": "p1680",
+    "isbn13": "9784763195432",
+    "sourceId": "daily-ohtani-20240624",
+    "note": "2017年の本人直筆アンケートで推薦",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784101334059",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784003103739",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784102072066",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784003315712",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784167127121",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784003119518",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784101266237",
+    "sourceId": "brutus-hikorohee-20240605",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784801306349",
+    "sourceId": "tfm-hikorohee-20240126",
+    "note": "トーキョー・エフエムロヒー 2024年1月26日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784041073254",
+    "sourceId": "anan-hikorohee-20221028",
+    "verified": true
+  },
+  {
+    "personId": "p1274",
+    "isbn13": "9784771028821",
+    "sourceId": "fighters-recommend-2019",
+    "verified": true
+  },
+  {
+    "personId": "p1684",
+    "isbn13": "9784583103693",
+    "sourceId": "fighters-recommend-2019",
+    "verified": true
+  },
+  {
+    "personId": "p1681",
+    "isbn13": "9784265840281",
+    "sourceId": "fighters-recommend-2023",
+    "verified": true
+  },
+  {
+    "personId": "p1682",
+    "isbn13": "9784752010135",
+    "sourceId": "fighters-recommend-2023",
+    "verified": true
+  },
+  {
+    "personId": "p1683",
+    "isbn13": "9784752009405",
+    "sourceId": "fighters-recommend-2023",
+    "verified": true
+  },
+  {
+    "personId": "p1299",
+    "isbn13": "9784309004969",
+    "sourceId": "tv-asahi-kazlaser-20241201",
+    "note": "証言者バラエティ アンタウォッチマン！ 2024年11月26日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1321",
+    "isbn13": "9784062175647",
+    "sourceId": "shueisha-fujii-20240210",
+    "note": "小学4年時の文集に記した面白かった本の第1位",
+    "verified": true
+  },
+  {
+    "personId": "p1321",
+    "isbn13": "9784101235059",
+    "sourceId": "shueisha-fujii-20240210",
+    "note": "小学4年時の文集に記した面白かった本の第2位",
+    "verified": true
+  },
+  {
+    "personId": "p1321",
+    "isbn13": "9784087485929",
+    "sourceId": "shueisha-fujii-20240210",
+    "note": "小学4年時の文集に記した面白かった本の第3位",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784098614127",
+    "sourceId": "tfm-hikorohee-20231006",
+    "note": "トーキョー・エフエムロヒー 2023年10月6日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1357",
+    "isbn13": "9784167832018",
+    "sourceId": "nonno-saito-20241215",
+    "verified": true
+  },
+  {
+    "personId": "p1357",
+    "isbn13": "9784101121154",
+    "sourceId": "nonno-saito-20241215",
+    "verified": true
+  },
+  {
+    "personId": "p1357",
+    "isbn13": "9784408552613",
+    "sourceId": "booklista-saito-20160126",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784003260531",
+    "sourceId": "crankin-ikeda-20150903",
+    "note": "短編『外套』の収録書を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784003107010",
+    "sourceId": "crankin-ikeda-20150903",
+    "note": "短編『芋粥』の収録書を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784003253519",
+    "sourceId": "crankin-ikeda-20150903",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784151200021",
+    "sourceId": "crankin-ikeda-20150903",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784151310805",
+    "sourceId": "crankin-ikeda-20150903",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784003253519",
+    "sourceId": "cancam-ikeda-20140424",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784101250236",
+    "sourceId": "cancam-ikeda-20140424",
+    "verified": true
+  },
+  {
+    "personId": "p1685",
+    "isbn13": "9784102114018",
+    "sourceId": "tabizine-ikeda-20181105",
+    "verified": true
+  },
+  {
+    "personId": "p1307",
+    "isbn13": "9784063826630",
+    "sourceId": "emmary-yoshizawa-20170427",
+    "verified": true
+  },
+  {
+    "personId": "p1307",
+    "isbn13": "9784812483800",
+    "sourceId": "linemanga-yoshizawa-20180926",
+    "verified": true
+  },
+  {
+    "personId": "p1314",
+    "isbn13": "9784043792061",
+    "sourceId": "plusact-hashimoto-5",
+    "verified": true
+  },
+  {
+    "personId": "p1314",
+    "isbn13": "9784091380135",
+    "sourceId": "moviewalker-hashimoto-20211104",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784480437372",
+    "sourceId": "jwave-kamishiraishi-20210518",
+    "note": "J-WAVE『GYAO!#LOVEFAV』2021年5月15日放送",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784867320259",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784752002901",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784163917672",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784863367401",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784781618494",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784309039466",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784087718362",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784120058028",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784163915623",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0096",
+    "isbn13": "9784062930888",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0524",
+    "isbn13": "9784309406183",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0524",
+    "isbn13": "9784043777037",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0524",
+    "isbn13": "9784102147023",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0524",
+    "isbn13": "9784560071229",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0524",
+    "isbn13": "9784003280119",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0277",
+    "isbn13": "9784344042933",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0277",
+    "isbn13": "9784334106287",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0277",
+    "isbn13": "9784106111075",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0277",
+    "isbn13": "9784103562313",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
+  },
+  {
+    "personId": "p0277",
+    "isbn13": "9784309039626",
+    "sourceId": "tbs-gosatsuten-2026",
+    "verified": true
   }
 ]

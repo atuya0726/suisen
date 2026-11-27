@@ -1,0 +1,1744 @@
+{
+  "people": [
+    {
+      "id": "yamaguchi",
+      "name": "山口一郎",
+      "kana": "やまぐち いちろう",
+      "title": "サカナクション ボーカル・ギター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "noda",
+      "name": "野田洋次郎",
+      "title": "RADWIMPS ボーカル・ギター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ishiba",
+      "name": "石破茂",
+      "title": "政治家",
+      "tags": []
+    },
+    {
+      "id": "miyake",
+      "name": "三宅香帆",
+      "title": "文芸評論家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "akutagawa",
+      "name": "芥川龍之介",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "あくたがわりゅうのすけ"
+    },
+    {
+      "id": "asai",
+      "name": "朝井リョウ",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "あさいりょう"
+    },
+    {
+      "id": "sakai",
+      "name": "堺雅人",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "さかいまさと"
+    },
+    {
+      "id": "mone",
+      "name": "上白石萌音",
+      "title": "俳優・歌手",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "かみしらいしもね"
+    },
+    {
+      "id": "wentz",
+      "name": "ウエンツ瑛士",
+      "title": "俳優・タレント",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "うえんつえいじ"
+    },
+    {
+      "id": "miura",
+      "name": "水卜麻美",
+      "title": "日本テレビアナウンサー",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "みうらあさみ"
+    },
+    {
+      "id": "takagi",
+      "name": "髙木美帆",
+      "title": "スピードスケート選手",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "kana": "たかぎみほ"
+    },
+    {
+      "id": "yamanaka",
+      "name": "山中伸弥",
+      "title": "京都大学iPS細胞研究所 名誉所長・教授",
+      "tags": [
+        "研究者"
+      ],
+      "kana": "やまなかしんや"
+    },
+    {
+      "id": "machida",
+      "name": "町田そのこ",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "まちだそのこ"
+    },
+    {
+      "id": "shiomi",
+      "name": "汐見夏衛",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "しおみなつえ"
+    },
+    {
+      "id": "nakae",
+      "name": "中江有里",
+      "title": "俳優・作家・歌手",
+      "tags": [
+        "芸能",
+        "作家"
+      ],
+      "kana": "なかえゆり"
+    },
+    {
+      "id": "abe",
+      "name": "阿部亮平",
+      "title": "歌手（Snow Man）",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "あべりょうへい"
+    },
+    {
+      "id": "nagahama",
+      "name": "長濱ねる",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "ながはまねる"
+    },
+    {
+      "id": "miyajima",
+      "name": "宮島未奈",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "みやじまみな"
+    },
+    {
+      "id": "nishida",
+      "name": "ニシダ",
+      "title": "芸人",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kengo",
+      "name": "けんご",
+      "title": "小説紹介動画クリエイター"
+    },
+    {
+      "id": "kanehara",
+      "name": "金原ひとみ",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hirano",
+      "name": "平野啓一郎",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "azuma",
+      "name": "東浩紀",
+      "kana": "あずまひろき",
+      "title": "批評家・作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hasebe",
+      "name": "長谷部誠",
+      "title": "サッカー選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "ohtani",
+      "name": "大谷翔平",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "hikorohee",
+      "name": "ヒコロヒー",
+      "title": "お笑い芸人",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "saito",
+      "name": "斎藤佑樹",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "kiyomiya",
+      "name": "清宮幸太郎",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "tanaka-m",
+      "name": "田中正義",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fushimi",
+      "name": "伏見寅威",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "yoshida-k",
+      "name": "吉田輝星",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "kazu",
+      "name": "カズレーザー",
+      "title": "お笑い芸人",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "fujii-s",
+      "name": "藤井聡太",
+      "title": "将棋棋士",
+      "tags": []
+    },
+    {
+      "id": "saito-asuka",
+      "name": "齋藤飛鳥",
+      "kana": "さいとう あすか",
+      "title": "俳優・モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ikeda-elaiza",
+      "name": "池田エライザ",
+      "title": "俳優・モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "yoshizawa-ryo",
+      "name": "吉沢亮",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "hashimoto-ai",
+      "name": "橋本愛",
+      "kana": "はしもと あい",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kamishiraishi-moka",
+      "name": "上白石萌歌",
+      "title": "俳優・アーティスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ogawa-satoshi",
+      "name": "小川哲",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "jane-su",
+      "name": "ジェーン・スー",
+      "title": "コラムニスト・ラジオパーソナリティ",
+      "tags": [
+        "作家",
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "tfm-yamaguchi-books-2021",
+      "type": "article",
+      "media": "TOKYO FM「サカナLOCKS!」",
+      "title": "読書の秋！サカナクション・山口一郎、おすすめの本10冊！",
+      "url": "https://www.tfm.co.jp/lock/sakana/index.php@itemid=17757.html",
+      "publishedAt": "2021-10-29"
+    },
+    {
+      "id": "tfm-yamaguchi-furutachi-2014",
+      "type": "interview",
+      "media": "TOKYO FM「サカナLOCKS!」",
+      "title": "対談:古舘佑太郎(The SALOVERS) - 後半",
+      "url": "https://www.tfm.co.jp/lock/sakana/index.php@itemid=2137.html",
+      "publishedAt": "2014-02-27"
+    },
+    {
+      "id": "rolling-stone-noda-2019",
+      "type": "interview",
+      "media": "Rolling Stone Japan",
+      "title": "RADWIMPS 野田洋次郎が見てきたポップカルチャーの原風景",
+      "url": "https://rollingstonejapan.com/articles/detail/30708/6/1/1",
+      "publishedAt": "2019-04-30"
+    },
+    {
+      "id": "ishiba-official-profile",
+      "type": "article",
+      "media": "石破しげるオフィシャルサイト",
+      "title": "石破茂とは",
+      "url": "https://www.ishiba.com/profile-2/ishiba/"
+    },
+    {
+      "id": "nikkei-miyake-partnership",
+      "type": "interview",
+      "media": "日経BOOKプラス",
+      "title": "傷つけ合う夫婦はなぜ生まれる？　三宅香帆がパートナーシップを考えた本",
+      "url": "https://bookplus.nikkei.com/atcl/column/082000759/100200003/",
+      "publishedAt": "2026-10-21"
+    },
+    {
+      "id": "aozora-akutagawa-aidoku",
+      "type": "article",
+      "media": "青空文庫",
+      "title": "愛読書の印象",
+      "url": "https://www.aozora.gr.jp/cards/000879/files/4872_21839.html",
+      "publishedAt": "1920-08-01"
+    },
+    {
+      "id": "mext-kimini-okuritai",
+      "type": "article",
+      "media": "文部科学省",
+      "title": "子供の読書キャンペーン～きみに贈りたい１冊～",
+      "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2023.html"
+    },
+    {
+      "id": "mext-anatato-yomitai",
+      "type": "article",
+      "media": "文部科学省",
+      "title": "子供の読書キャンペーン ＃あなたと読みたい1冊",
+      "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/",
+      "publishedAt": "2025-04-18"
+    },
+    {
+      "id": "advancedtime-hirano-kanehara-1",
+      "type": "interview",
+      "media": "AdvancedTime",
+      "title": "平野啓一郎と金原ひとみが影響を受けた3冊を語る！お互いに被った小説家は誰？（前編）",
+      "url": "https://advanced-time.shogakukan.co.jp/20466",
+      "publishedAt": "2023-12-20"
+    },
+    {
+      "id": "advancedtime-hirano-kanehara-2",
+      "type": "interview",
+      "media": "AdvancedTime",
+      "title": "平野啓一郎と金原ひとみが読書談義。裏切られたときに衝撃！気持ち悪い男？“カッコいい”って何だ？（後編）",
+      "url": "https://advanced-time.shogakukan.co.jp/20861",
+      "publishedAt": "2024-01-11"
+    },
+    {
+      "id": "honsuki-kanehara-2020",
+      "type": "interview",
+      "media": "本がすき。",
+      "title": "小説みたいな深い読後感――金原ひとみさんの初エッセイ『パリの砂漠、東京の蜃気楼』",
+      "url": "https://honsuki.jp/pickup/35249/index.html",
+      "publishedAt": "2020-06-06"
+    },
+    {
+      "id": "genron-cafe-books-2020",
+      "type": "article",
+      "media": "webゲンロン",
+      "title": "ゲンロンカフェ選書リスト",
+      "url": "https://webgenron.com/articles/cafebookselection",
+      "publishedAt": "2020-11-13"
+    },
+    {
+      "id": "aera-style-hasebe-20171003",
+      "type": "interview",
+      "media": "アエラスタイルマガジン",
+      "title": "長谷部誠、プライベートを語る！？",
+      "url": "https://asm.asahi.com/article/11183855",
+      "publishedAt": "2017-10-03"
+    },
+    {
+      "id": "real-sports-ohtani-20211119",
+      "type": "interview",
+      "media": "REAL SPORTS",
+      "title": "大谷翔平が語っていた、自分のたった1つの才能。『スラムダンク』では意外なキャラに共感…その真意は？",
+      "url": "https://real-sports.jp/page/articles/591422627499738153/",
+      "publishedAt": "2021-11-19"
+    },
+    {
+      "id": "daily-ohtani-20240624",
+      "type": "article",
+      "media": "デイリースポーツ",
+      "title": "侍Ｊユニホーム姿の大谷翔平が『パワプロアプリ』に登場！　２０１７年初コラボ時の秘蔵直筆アンケートも公開",
+      "url": "https://www.daily.co.jp/mlb/2024/06/24/0017805873.shtml?ph=2",
+      "publishedAt": "2024-06-24"
+    },
+    {
+      "id": "brutus-hikorohee-20240605",
+      "type": "interview",
+      "media": "BRUTUS",
+      "title": "芸人・ヒコロヒーの本棚代わりの1箱と、何度も読み返したくなる本",
+      "url": "https://brutus.jp/post-303112/",
+      "publishedAt": "2024-06-05"
+    },
+    {
+      "id": "tfm-hikorohee-20240126",
+      "type": "article",
+      "media": "TOKYO FM",
+      "title": "トーキョー・エフエムロヒー #65【おすすめの本は…】",
+      "url": "https://www.tfm.co.jp/shovels/fmrohee/report/130699"
+    },
+    {
+      "id": "anan-hikorohee-20221028",
+      "type": "article",
+      "media": "ananweb",
+      "title": "繊細な男心やオタク女子の恋愛事情まで！ 恋のヒントを得る10冊",
+      "url": "https://ananweb.jp/categories/lifestyle/20098",
+      "publishedAt": "2022-10-28"
+    },
+    {
+      "id": "fighters-recommend-2019",
+      "type": "article",
+      "media": "北海道日本ハムファイターズ",
+      "title": "北海道日本ハムファイターズ 読書促進全道キャンペーン 選手推薦図書リスト",
+      "url": "https://www.fighters.co.jp/cmn/images/news/2019/07/suisenntosyo2.pdf"
+    },
+    {
+      "id": "fighters-recommend-2023",
+      "type": "article",
+      "media": "北海道日本ハムファイターズ",
+      "title": "スポーツスクラム北海道×北海道教育委員会 「子どもの読書活動応援動画」に伏見選手、清宮選手、田中正投手が出演",
+      "url": "https://www.fighters.co.jp/news/detail/202300433049.html",
+      "publishedAt": "2023-10-06"
+    },
+    {
+      "id": "tv-asahi-kazlaser-20241201",
+      "type": "article",
+      "media": "テレ朝POST",
+      "title": "カズレーザー、挫折を味わった知られざる過去「将来小説家になりたいと思ったんですけど…」",
+      "url": "https://post.tv-asahi.co.jp/post-370561/",
+      "publishedAt": "2024-12-01"
+    },
+    {
+      "id": "shueisha-fujii-20240210",
+      "type": "article",
+      "media": "集英社オンライン",
+      "title": "小学4年生の藤井聡太がおもしろかった本ベスト3とは…岡崎将棋まつりプロになる前の伝説の藤井―佐々木戦",
+      "url": "https://shueisha.online/articles/-/194196?disp=paging&page=1",
+      "publishedAt": "2024-02-10"
+    },
+    {
+      "id": "tfm-hikorohee-20231006",
+      "type": "article",
+      "media": "TOKYO FM",
+      "title": "トーキョー・エフエムロヒー #49【”読書”と”肘鉄砲”と”種子島”の秋！】",
+      "url": "https://www.tfm.co.jp/shovels/fmrohee/report/130715",
+      "publishedAt": "2023-10-06"
+    },
+    {
+      "id": "nonno-saito-20241215",
+      "type": "interview",
+      "media": "non-no web",
+      "title": "【齋藤飛鳥】最近見ておもしろかった映画、本について教えて！",
+      "url": "https://nonno.hpplus.jp/entertainment/interview/201021/",
+      "publishedAt": "2024-12-15"
+    },
+    {
+      "id": "booklista-saito-20160126",
+      "type": "interview",
+      "media": "ブックリスタ",
+      "title": "乃木坂46・齋藤飛鳥が好きな本を語るweb特集企画『本讀乙女』本日公開！",
+      "url": "https://www.booklista.co.jp/corp/newsrelease/1490/",
+      "publishedAt": "2016-01-26"
+    },
+    {
+      "id": "crankin-ikeda-20150903",
+      "type": "interview",
+      "media": "クランクイン！",
+      "title": "池田エライザ、染谷将太を「バケモノ」と感じた瞬間とは？ 本人には言えない感謝も",
+      "url": "https://www.crank-in.net/interview/38713/2",
+      "publishedAt": "2015-09-03"
+    },
+    {
+      "id": "cancam-ikeda-20140424",
+      "type": "interview",
+      "media": "CanCam.jp",
+      "title": "CanCamモデル池田エライザ、実は週に3～4冊本を読む読書家だった！",
+      "url": "https://cancam.jp/archives/63827",
+      "publishedAt": "2014-04-24"
+    },
+    {
+      "id": "tabizine-ikeda-20181105",
+      "type": "interview",
+      "media": "TABIZINE",
+      "title": "【インタビュー】ドラマ版『ルームロンダリング』／女優 池田エライザ〜幽霊と話せる御子ちゃんがついに旅に出る・・・！？〜",
+      "url": "https://tabizine.jp/2018/11/05/214954/",
+      "publishedAt": "2018-11-05"
+    },
+    {
+      "id": "emmary-yoshizawa-20170427",
+      "type": "interview",
+      "media": "EMMARY",
+      "title": "映画『ラストコップ THE MOVIE』にご出演、“歩くイケメン彫刻”とも呼ばれる【吉沢亮さん】にインタビュー！",
+      "url": "https://emmary.jp/entertainment/20170427-2/",
+      "publishedAt": "2017-04-27"
+    },
+    {
+      "id": "linemanga-yoshizawa-20180926",
+      "type": "interview",
+      "media": "LINEマンガ公式ブログ",
+      "title": "吉沢亮に“ギャップ萌え”必至！映画『あのコの、トリコ。』インタビュー＆原作マンガ無料公開！",
+      "url": "https://line-manga.blog.jp/archives/77536753.html",
+      "publishedAt": "2018-09-26"
+    },
+    {
+      "id": "plusact-hashimoto-5",
+      "type": "interview",
+      "media": "プラス アクト",
+      "title": "橋本 愛｜INTERVIEW",
+      "url": "https://www.wani.co.jp/act/interview/interview.php?id=5"
+    },
+    {
+      "id": "moviewalker-hashimoto-20211104",
+      "type": "interview",
+      "media": "MOVIE WALKER PRESS",
+      "title": "橋本愛が女優としての転機、おすすめレストランまで“34の質問”に回答！第34回東京国際映画祭フェスティバル・アンバサダーとしての想い明かす",
+      "url": "https://press.moviewalker.jp/news/article/1056948/p3/",
+      "publishedAt": "2021-11-04"
+    },
+    {
+      "id": "jwave-kamishiraishi-20210518",
+      "type": "article",
+      "media": "J-WAVE NEWS",
+      "title": "長濱ねるが、作家・西 加奈子に言われた「心に響いた言葉」は？ 上白石萌歌が聞く",
+      "url": "https://news.j-wave.co.jp/2021/05/post-7900.html",
+      "publishedAt": "2021-05-18"
+    },
+    {
+      "id": "tbs-gosatsuten-2026",
+      "type": "article",
+      "media": "TBSラジオ（radiko news）",
+      "title": "全105冊。本を愛する21人がテーマを決めて五冊を選ぶ。『五冊展』選書リスト",
+      "url": "https://news.radiko.jp/article/station/TBS/132247/",
+      "publishedAt": "2026-02-16"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "強く生きる言葉",
+        "author": "岡本太郎",
+        "publisher": "イースト・プレス"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "壁を破る言葉",
+        "author": "岡本太郎",
+        "publisher": "イースト・プレス"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "愛する言葉",
+        "author": "岡本太郎、岡本敏子",
+        "publisher": "イースト・プレス"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "アルケミスト 夢を旅した少年",
+        "author": "パウロ・コエーリョ",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "石川くん",
+        "author": "枡野浩一",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "銀河鉄道の夜",
+        "author": "ますむらひろし、宮沢賢治",
+        "publisher": "偕成社",
+        "edition": "漫画版"
+      },
+      "note": "ますむらひろし作画の漫画版"
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "石原吉郎詩文集",
+        "author": "石原吉郎",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "ラインマーカーズ",
+        "author": "穂村弘",
+        "publisher": "小学館"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "二十億光年の孤独",
+        "author": "谷川俊太郎",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-books-2021",
+      "book": {
+        "title": "けっぱり先生",
+        "author": "山口瞳",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "yamaguchi",
+      "sourceId": "tfm-yamaguchi-furutachi-2014",
+      "book": {
+        "title": "カンガルー・ノート",
+        "author": "安部公房",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rolling-stone-noda-2019",
+      "book": {
+        "title": "火の鳥 未来編",
+        "author": "手塚治虫",
+        "publisher": "朝日新聞出版"
+      }
+    },
+    {
+      "personId": "noda",
+      "sourceId": "rolling-stone-noda-2019",
+      "book": {
+        "title": "AKIRA",
+        "author": "大友克洋",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ishiba",
+      "sourceId": "ishiba-official-profile",
+      "book": {
+        "title": "おそ松くん",
+        "author": "赤塚不二夫",
+        "publisher": "竹書房",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ishiba",
+      "sourceId": "ishiba-official-profile",
+      "book": {
+        "title": "サブマリン707",
+        "author": "小沢さとる",
+        "publisher": "秋田書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ishiba",
+      "sourceId": "ishiba-official-profile",
+      "book": {
+        "title": "加治隆介の議",
+        "author": "弘兼憲史",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ishiba",
+      "sourceId": "ishiba-official-profile",
+      "book": {
+        "title": "沈黙の艦隊",
+        "author": "かわぐちかいじ",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ishiba",
+      "sourceId": "ishiba-official-profile",
+      "book": {
+        "title": "サンクチュアリ",
+        "author": "史村翔、池上遼一",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "nikkei-miyake-partnership",
+      "book": {
+        "title": "なぎさ",
+        "author": "山本文緒",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "nikkei-miyake-partnership",
+      "book": {
+        "title": "なんでも見つかる夜に、こころだけが見つからない",
+        "author": "東畑開人",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "nikkei-miyake-partnership",
+      "book": {
+        "title": "宗教のアメリカ",
+        "author": "藤本龍児",
+        "publisher": "岩波書店",
+        "edition": "岩波新書"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "nikkei-miyake-partnership",
+      "book": {
+        "title": "見えるか保己一",
+        "author": "蝉谷めぐ実",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "akutagawa",
+      "sourceId": "aozora-akutagawa-aidoku",
+      "book": {
+        "title": "西遊記 上",
+        "author": "呉承恩",
+        "publisher": "岩波書店",
+        "edition": "岩波少年文庫"
+      },
+      "note": "掲載書誌は別の版"
+    },
+    {
+      "personId": "akutagawa",
+      "sourceId": "aozora-akutagawa-aidoku",
+      "book": {
+        "title": "水滸伝",
+        "author": "吉川幸次郎、清水茂",
+        "publisher": "岩波書店",
+        "edition": "完訳第1冊"
+      },
+      "note": "掲載書誌は岩波文庫の完訳第1冊"
+    },
+    {
+      "personId": "akutagawa",
+      "sourceId": "aozora-akutagawa-aidoku",
+      "book": {
+        "title": "自然と人生",
+        "author": "徳冨蘆花",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      },
+      "note": "掲載書誌は別の版"
+    },
+    {
+      "personId": "akutagawa",
+      "sourceId": "aozora-akutagawa-aidoku",
+      "book": {
+        "title": "吾輩は猫である",
+        "author": "夏目漱石",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      },
+      "note": "掲載書誌は別の版"
+    },
+    {
+      "personId": "akutagawa",
+      "sourceId": "aozora-akutagawa-aidoku",
+      "book": {
+        "title": "風流線",
+        "author": "泉鏡花",
+        "publisher": "筑摩書房",
+        "edition": "泉鏡花集成11所収"
+      },
+      "note": "掲載書誌は『風流線』を収録した『泉鏡花集成』11"
+    },
+    {
+      "personId": "asai",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "一瞬の風になれ",
+        "author": "佐藤多佳子",
+        "publisher": "講談社",
+        "edition": "第1部"
+      },
+      "note": "3部作の第1部を掲載"
+    },
+    {
+      "personId": "sakai",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "漢字なりたちブック 1年生",
+        "author": "伊東信夫、金子都美絵",
+        "publisher": "太郎次郎社エディタス",
+        "edition": "改訂版"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "本の運命",
+        "author": "井上ひさし",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "wentz",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "愛するということ",
+        "author": "エーリッヒ・フロム、鈴木晶",
+        "publisher": "紀伊國屋書店"
+      }
+    },
+    {
+      "personId": "miura",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "スロウハイツの神様 上",
+        "author": "辻村深月",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "takagi",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "筋肉のしくみ・はたらき ゆるっと事典",
+        "author": "坂井建雄",
+        "publisher": "永岡書店"
+      }
+    },
+    {
+      "personId": "yamanaka",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "銀河の片隅で科学夜話",
+        "author": "全卓樹",
+        "publisher": "朝日出版社"
+      }
+    },
+    {
+      "personId": "machida",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "小公女たちのしあわせレシピ",
+        "author": "谷瑞恵",
+        "publisher": "新潮社",
+        "edition": "単行本"
+      }
+    },
+    {
+      "personId": "shiomi",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "博士の愛した数式",
+        "author": "小川洋子",
+        "publisher": "新潮社",
+        "edition": "単行本"
+      }
+    },
+    {
+      "personId": "nakae",
+      "sourceId": "mext-kimini-okuritai",
+      "book": {
+        "title": "ようこそ、ヒュナム洞書店へ",
+        "author": "ファン・ボルム、牧野美加",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "abe",
+      "sourceId": "mext-anatato-yomitai",
+      "book": {
+        "title": "ゴールデンスランバー",
+        "author": "伊坂幸太郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "nagahama",
+      "sourceId": "mext-anatato-yomitai",
+      "book": {
+        "title": "ｉ",
+        "author": "西加奈子",
+        "publisher": "ポプラ社",
+        "edition": "ポプラ文庫"
+      }
+    },
+    {
+      "personId": "miyajima",
+      "sourceId": "mext-anatato-yomitai",
+      "book": {
+        "title": "蹴りたい背中",
+        "author": "綿矢りさ",
+        "publisher": "河出書房新社",
+        "edition": "河出文庫"
+      }
+    },
+    {
+      "personId": "nishida",
+      "sourceId": "mext-anatato-yomitai",
+      "book": {
+        "title": "ことり",
+        "author": "小川洋子",
+        "publisher": "朝日新聞出版",
+        "edition": "朝日文庫"
+      }
+    },
+    {
+      "personId": "kengo",
+      "sourceId": "mext-anatato-yomitai",
+      "book": {
+        "title": "風が強く吹いている",
+        "author": "三浦しをん",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "kanehara",
+      "sourceId": "advancedtime-hirano-kanehara-1",
+      "book": {
+        "title": "眼球譚",
+        "author": "ジョルジュ・バタイユ、生田耕作",
+        "publisher": "河出書房新社",
+        "edition": "河出文庫・生田耕作訳"
+      }
+    },
+    {
+      "personId": "kanehara",
+      "sourceId": "advancedtime-hirano-kanehara-1",
+      "book": {
+        "title": "カラマーゾフの兄弟 上",
+        "author": "ドストエフスキー、原卓也",
+        "publisher": "新潮社",
+        "edition": "新潮文庫・原卓也訳"
+      }
+    },
+    {
+      "personId": "hirano",
+      "sourceId": "advancedtime-hirano-kanehara-1",
+      "book": {
+        "title": "鍛冶師と錬金術師",
+        "author": "ミルチャ・エリアーデ、大室幹雄",
+        "publisher": "せりか書房",
+        "edition": "エリアーデ著作集第5巻"
+      }
+    },
+    {
+      "personId": "hirano",
+      "sourceId": "advancedtime-hirano-kanehara-1",
+      "book": {
+        "title": "悪霊 上",
+        "author": "ドストエフスキー、米川正夫",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・米川正夫訳"
+      }
+    },
+    {
+      "personId": "kanehara",
+      "sourceId": "advancedtime-hirano-kanehara-2",
+      "book": {
+        "title": "無垢の博物館 上",
+        "author": "オルハン・パムク、宮下遼",
+        "publisher": "早川書房",
+        "edition": "ハヤカワepi文庫・宮下遼訳"
+      }
+    },
+    {
+      "personId": "hirano",
+      "sourceId": "advancedtime-hirano-kanehara-2",
+      "book": {
+        "title": "男らしさの歴史 1",
+        "author": "アラン・コルバン、ジョルジュ・ヴィガレロ",
+        "publisher": "藤原書店",
+        "edition": "第1巻"
+      },
+      "note": "全3巻のうち第1巻を掲載"
+    },
+    {
+      "personId": "kanehara",
+      "sourceId": "honsuki-kanehara-2020",
+      "book": {
+        "title": "赤い髪の女",
+        "author": "オルハン・パムク、宮下遼",
+        "publisher": "早川書房",
+        "edition": "単行本・宮下遼訳"
+      }
+    },
+    {
+      "personId": "azuma",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "ソクラテスの弁明",
+        "author": "プラトン、納富信留",
+        "publisher": "光文社",
+        "edition": "光文社古典新訳文庫"
+      }
+    },
+    {
+      "personId": "azuma",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "社会契約論／ジュネーヴ草稿",
+        "author": "ジャン＝ジャック・ルソー、中山元",
+        "publisher": "光文社",
+        "edition": "光文社古典新訳文庫"
+      }
+    },
+    {
+      "personId": "azuma",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "カラマーゾフの兄弟 1",
+        "author": "ドストエフスキー、亀山郁夫",
+        "publisher": "光文社",
+        "edition": "全5巻の第1巻・光文社古典新訳文庫"
+      }
+    },
+    {
+      "personId": "azuma",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "性の歴史1 知への意志",
+        "author": "ミシェル・フーコー、渡辺守章",
+        "publisher": "新潮社",
+        "edition": "第1巻"
+      }
+    },
+    {
+      "personId": "azuma",
+      "sourceId": "genron-cafe-books-2020",
+      "book": {
+        "title": "ヴァリス",
+        "author": "フィリップ・K・ディック、山形浩生",
+        "publisher": "早川書房",
+        "edition": "ハヤカワ文庫SF・新訳版"
+      }
+    },
+    {
+      "personId": "hasebe",
+      "sourceId": "aera-style-hasebe-20171003",
+      "book": {
+        "title": "生涯投資家",
+        "author": "村上世彰",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "ohtani",
+      "sourceId": "real-sports-ohtani-20211119",
+      "book": {
+        "title": "SLAM DUNK",
+        "author": "井上雄彦",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ohtani",
+      "sourceId": "daily-ohtani-20240624",
+      "book": {
+        "title": "生き方",
+        "author": "稲盛和夫",
+        "publisher": "サンマーク出版"
+      },
+      "note": "2017年の本人直筆アンケートで推薦"
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "トットの欠落帖",
+        "author": "黒柳徹子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "寺田寅彦随筆集 第3巻",
+        "author": "寺田寅彦、小宮豊隆",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫 第3巻"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "魔が差したパン",
+        "author": "O・ヘンリー、小川高義",
+        "publisher": "新潮社",
+        "edition": "新潮文庫 O・ヘンリー傑作選III"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "新版 きけ わだつみのこえ",
+        "author": "日本戦没学生記念会",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫 第1集 新版"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "ロマネ・コンティ・一九三五年",
+        "author": "開高健",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "茨木のり子詩集",
+        "author": "茨木のり子、谷川俊太郎",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "brutus-hikorohee-20240605",
+      "book": {
+        "title": "ひとり暮らし",
+        "author": "谷川俊太郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "tfm-hikorohee-20240126",
+      "book": {
+        "title": "文豪たちが書いた「酒」の名作短編集",
+        "author": "彩図社文芸部",
+        "publisher": "彩図社"
+      },
+      "note": "トーキョー・エフエムロヒー 2024年1月26日放送"
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "anan-hikorohee-20221028",
+      "book": {
+        "title": "恋愛とは何か",
+        "author": "遠藤周作",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "saito",
+      "sourceId": "fighters-recommend-2019",
+      "book": {
+        "title": "メジャーリーグの現場に学ぶビジネス戦略",
+        "author": "川上祐司",
+        "publisher": "晃洋書房"
+      }
+    },
+    {
+      "personId": "yoshida-k",
+      "sourceId": "fighters-recommend-2019",
+      "book": {
+        "title": "頭で投げる。",
+        "author": "石川雅規",
+        "publisher": "ベースボール・マガジン社"
+      }
+    },
+    {
+      "personId": "kiyomiya",
+      "sourceId": "fighters-recommend-2023",
+      "book": {
+        "title": "クマが出た！助けてベアドッグ",
+        "author": "太田京子",
+        "publisher": "岩崎書店"
+      }
+    },
+    {
+      "personId": "tanaka-m",
+      "sourceId": "fighters-recommend-2023",
+      "book": {
+        "title": "バスが来ましたよ",
+        "author": "由美村嬉々、松本春野",
+        "publisher": "アリス館"
+      }
+    },
+    {
+      "personId": "fushimi",
+      "sourceId": "fighters-recommend-2023",
+      "book": {
+        "title": "きょうぼくはなまえをもらった",
+        "author": "かさいまり、星野イクミ",
+        "publisher": "アリス館"
+      }
+    },
+    {
+      "personId": "kazu",
+      "sourceId": "tv-asahi-kazlaser-20241201",
+      "book": {
+        "title": "驚愕の曠野",
+        "author": "筒井康隆",
+        "publisher": "河出書房新社"
+      },
+      "note": "証言者バラエティ アンタウォッチマン！ 2024年11月26日放送"
+    },
+    {
+      "personId": "fujii-s",
+      "sourceId": "shueisha-fujii-20240210",
+      "book": {
+        "title": "海賊とよばれた男 上",
+        "author": "百田尚樹",
+        "publisher": "講談社",
+        "edition": "単行本 上"
+      },
+      "note": "小学4年時の文集に記した面白かった本の第1位"
+    },
+    {
+      "personId": "fujii-s",
+      "sourceId": "shueisha-fujii-20240210",
+      "book": {
+        "title": "深夜特急",
+        "author": "沢木耕太郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫 第1巻"
+      },
+      "note": "小学4年時の文集に記した面白かった本の第2位"
+    },
+    {
+      "personId": "fujii-s",
+      "sourceId": "shueisha-fujii-20240210",
+      "book": {
+        "title": "アド・バード",
+        "author": "椎名誠",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      },
+      "note": "小学4年時の文集に記した面白かった本の第3位"
+    },
+    {
+      "personId": "hikorohee",
+      "sourceId": "tfm-hikorohee-20231006",
+      "book": {
+        "title": "67歳の新人 ハン角斉短編集",
+        "author": "ハン角斉",
+        "publisher": "小学館"
+      },
+      "note": "トーキョー・エフエムロヒー 2023年10月6日放送"
+    },
+    {
+      "personId": "saito-asuka",
+      "sourceId": "nonno-saito-20241215",
+      "book": {
+        "title": "終点のあの子",
+        "author": "柚木麻子",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "saito-asuka",
+      "sourceId": "nonno-saito-20241215",
+      "book": {
+        "title": "砂の女",
+        "author": "安部公房",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "saito-asuka",
+      "sourceId": "booklista-saito-20160126",
+      "book": {
+        "title": "微笑む人",
+        "author": "貫井徳郎",
+        "publisher": "実業之日本社",
+        "edition": "実業之日本社文庫"
+      }
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "crankin-ikeda-20150903",
+      "book": {
+        "title": "外套",
+        "author": "ニコライ・ゴーゴリ",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      },
+      "note": "短編『外套』の収録書を掲載"
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "crankin-ikeda-20150903",
+      "book": {
+        "title": "芋粥",
+        "author": "芥川龍之介",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      },
+      "note": "短編『芋粥』の収録書を掲載"
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "crankin-ikeda-20150903",
+      "book": {
+        "title": "愛の妖精",
+        "author": "ジョルジュ・サンド、宮崎嶺雄",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "crankin-ikeda-20150903",
+      "book": {
+        "title": "悪童日記",
+        "author": "アゴタ・クリストフ、堀茂樹",
+        "publisher": "早川書房",
+        "edition": "ハヤカワepi文庫"
+      }
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "crankin-ikeda-20150903",
+      "book": {
+        "title": "そして誰もいなくなった",
+        "author": "アガサ・クリスティー、青木久惠",
+        "publisher": "早川書房",
+        "edition": "クリスティー文庫"
+      }
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "cancam-ikeda-20140424",
+      "book": {
+        "title": "愛の妖精",
+        "author": "ジョルジュ・サンド、宮崎嶺雄",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "cancam-ikeda-20140424",
+      "book": {
+        "title": "重力ピエロ",
+        "author": "伊坂幸太郎",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "ikeda-elaiza",
+      "sourceId": "tabizine-ikeda-20181105",
+      "book": {
+        "title": "異邦人",
+        "author": "アルベール・カミュ",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "yoshizawa-ryo",
+      "sourceId": "emmary-yoshizawa-20170427",
+      "book": {
+        "title": "僕たちがやりました",
+        "author": "金城宗幸、荒木光",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yoshizawa-ryo",
+      "sourceId": "linemanga-yoshizawa-20180926",
+      "book": {
+        "title": "メイドインアビス",
+        "author": "つくしあきひと",
+        "publisher": "竹書房",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "hashimoto-ai",
+      "sourceId": "plusact-hashimoto-5",
+      "book": {
+        "title": "スイッチを押すとき",
+        "author": "山田悠介",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "hashimoto-ai",
+      "sourceId": "moviewalker-hashimoto-20211104",
+      "book": {
+        "title": "7SEEDS",
+        "author": "田村由美",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "kamishiraishi-moka",
+      "sourceId": "jwave-kamishiraishi-20210518",
+      "book": {
+        "title": "おまじない",
+        "author": "西加奈子",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫、長濱ねるとの対談収録"
+      },
+      "note": "J-WAVE『GYAO!#LOVEFAV』2021年5月15日放送"
+    },
+    {
+      "personId": "kamishiraishi-moka",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "気がする朝",
+        "author": "伊藤紺",
+        "publisher": "ナナロク社"
+      }
+    },
+    {
+      "personId": "kamishiraishi-moka",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ゆう／夕",
+        "author": "谷川俊太郎",
+        "publisher": "アリス館"
+      }
+    },
+    {
+      "personId": "kamishiraishi-moka",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "きれぎれのダイアリー",
+        "author": "柴田聡子",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "kamishiraishi-moka",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "杉咲花ファースト写真集 ユートピア",
+        "author": "熊谷直子",
+        "publisher": "東京ニュース通信社"
+      }
+    },
+    {
+      "personId": "kamishiraishi-moka",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ベルリンうわの空",
+        "author": "香山哲",
+        "publisher": "イースト・プレス"
+      }
+    },
+    {
+      "personId": "asai",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "熊はどこにいるの",
+        "author": "木村紅美",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "asai",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "いい子のあくび",
+        "author": "高瀬隼子",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "asai",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "めでたし、めでたし",
+        "author": "大森兄弟",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "asai",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "N/A",
+        "author": "年森瑛",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "asai",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "外天楼",
+        "author": "石黒正数",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "ogawa-satoshi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "マリ＆フィフィの虐殺ソングブック",
+        "author": "中原昌也",
+        "publisher": "河出書房新社",
+        "edition": "河出文庫"
+      }
+    },
+    {
+      "personId": "ogawa-satoshi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "パンク侍、斬られて候",
+        "author": "町田康",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "ogawa-satoshi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "アメリカの鱒釣り",
+        "author": "リチャード・ブローティガン、藤本和子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "ogawa-satoshi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "中二階",
+        "author": "ニコルソン・ベイカー、岸本佐知子",
+        "publisher": "白水社",
+        "edition": "白水Uブックス"
+      }
+    },
+    {
+      "personId": "ogawa-satoshi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "やし酒飲み",
+        "author": "エイモス・チュツオーラ、土屋哲",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "jane-su",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "パーティーが終わって、中年が始まる",
+        "author": "pha",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "jane-su",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "わたしの言ってること、わかりますか。",
+        "author": "伊藤亜和",
+        "publisher": "光文社"
+      }
+    },
+    {
+      "personId": "jane-su",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "あなたはなぜ雑談が苦手なのか",
+        "author": "桜林直子",
+        "publisher": "新潮社",
+        "edition": "新潮新書"
+      }
+    },
+    {
+      "personId": "jane-su",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "救われてんじゃねえよ",
+        "author": "上村裕香",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "jane-su",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "三頭の蝶の道",
+        "author": "山田詠美",
+        "publisher": "河出書房新社"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://mantan-web.jp/article/20120901dog00m200024000c.html",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "山口一郎"
+    },
+    {
+      "url": "https://newsdig.tbs.co.jp/articles/-/1250709",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "大谷翔平"
+    },
+    {
+      "url": "https://www.nikkansports.com/m/baseball/mlb/news/amp/201911150000643.html",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "大谷翔平"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/feature/1523/",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "大谷翔平"
+    },
+    {
+      "url": "https://www.booklista.co.jp/feature/honyomi-otome/vol1",
+      "result": "unreachable",
+      "reason": "本編が404。公開中の抜粋で紹介が確認できる1冊を採用",
+      "person": "齋藤飛鳥"
+    },
+    {
+      "url": "https://friday.kodansha.co.jp/article/145268",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "齋藤飛鳥"
+    }
+  ]
+}
