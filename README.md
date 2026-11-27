@@ -98,4 +98,4 @@ pnpm exec wrangler deploy
 
 ### ファイル数の上限
 
-Static Assets のファイル数上限は Free 20,000 / Paid 100,000。`pnpm build` の最後に `dist` のファイル数が表示され、18,000 を超えると警告が出る。
+本番は Workers Paid を使い、Static Assets の上限は Worker のバージョンごとに 100,000 ファイル。`pnpm build` の最後に `dist` のファイル数が表示され、90,000 を超えると警告が出る。

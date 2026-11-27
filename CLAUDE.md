@@ -30,7 +30,7 @@ UI を作るときは必ずリポジトリ直下の `DESIGN.md` に従うこと�
 | DB | なし。データはリポジトリ内の JSON |
 | パッケージ管理 | pnpm |
 
-- Workers Static Assets のファイル数上限は Free 20,000 / Paid 100,000。ビルド後に `dist` のファイル数を表示するスクリプトを `pnpm build` の最後に入れ、18,000 を超えたら警告を出す
+- 本番の Workers Paid の Static Assets は、Worker のバージョンごとに 100,000 ファイルが上限。`pnpm build` の最後に `dist` のファイル数を表示し、90,000 を超えたら警告を出す
 - 環境変数（`.env`、Cloudflare 側にも設定）:
   - `SITE_URL`（例 `https://suisen.page`、ドメイン未確定なので必ず変数で扱う）
   - `AMAZON_ASSOCIATE_TAG`

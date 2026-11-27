@@ -1,0 +1,1529 @@
+{
+  "people": [
+    {
+      "id": "precious-11008",
+      "name": "斎藤環",
+      "title": "精神科医・評論家",
+      "tags": [
+        "作家",
+        "研究者"
+      ]
+    },
+    {
+      "id": "precious-329466",
+      "name": "風間賢二",
+      "title": "幻想文学研究家・翻訳家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "precious-6310",
+      "name": "町屋良平",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "precious-7375",
+      "name": "鴻巣友季子",
+      "title": "翻訳家、文芸評論家",
+      "tags": []
+    },
+    {
+      "id": "precious-756354",
+      "name": "岡本隆司",
+      "title": "歴史学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "precious-761544",
+      "name": "師田史子",
+      "title": "文化人類学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "precious-763503",
+      "name": "中溝康隆",
+      "title": "ライター",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "precious-8008",
+      "name": "與那覇潤",
+      "title": "評論家・元歴史学者",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "samura",
+      "name": "沙村広明",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "さむらひろあき"
+    },
+    {
+      "id": "fujimoto",
+      "name": "藤本タツキ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "ふじもとたつき"
+    },
+    {
+      "id": "oda",
+      "name": "尾田栄一郎",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "おだえいいちろう"
+    },
+    {
+      "id": "kishimoto",
+      "name": "岸本斉史",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "きしもとまさし"
+    },
+    {
+      "id": "expo-recommend-003",
+      "name": "新庄耕",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "expo-recommend-006",
+      "name": "小川哲",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "expo-recommend-016",
+      "name": "Mika Pikazo",
+      "title": "イラストレーター・アートディレクター",
+      "tags": []
+    },
+    {
+      "id": "expo-recommend-018",
+      "name": "えなこ",
+      "title": "コスプレイヤー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-memory-039",
+      "name": "大暮維人",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "おおぐれいと"
+    },
+    {
+      "id": "expo-memory-026",
+      "name": "奥浩哉",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "おくひろや"
+    }
+  ],
+  "sources": [
+    {
+      "id": "kangaeruhito-precious-11008",
+      "type": "article",
+      "media": "考える人",
+      "title": "「対話」によって人間関係と自分自身を変えるための10冊",
+      "url": "https://kangaeruhito.jp/article/11008",
+      "publishedAt": "2019-11-12"
+    },
+    {
+      "id": "kangaeruhito-precious-329466",
+      "type": "article",
+      "media": "考える人",
+      "title": "「怪異猟奇文化」を身近に愉しむための10冊",
+      "url": "https://kangaeruhito.jp/article/329466",
+      "publishedAt": "2022-03-24"
+    },
+    {
+      "id": "kangaeruhito-precious-6310",
+      "type": "article",
+      "media": "考える人",
+      "title": "はじめて文章を読むときのように読みたい10冊",
+      "url": "https://kangaeruhito.jp/article/6310",
+      "publishedAt": "2019-06-04"
+    },
+    {
+      "id": "kangaeruhito-precious-7375",
+      "type": "article",
+      "media": "考える人",
+      "title": "ワインをゆるゆる飲みながら読みたい10冊",
+      "url": "https://kangaeruhito.jp/article/7375",
+      "publishedAt": "2019-07-16"
+    },
+    {
+      "id": "kangaeruhito-precious-756354",
+      "type": "article",
+      "media": "考える人",
+      "title": "通史の味わい方を教えてくれる10冊",
+      "url": "https://kangaeruhito.jp/article/756354",
+      "publishedAt": "2023-05-19"
+    },
+    {
+      "id": "kangaeruhito-precious-761544",
+      "type": "article",
+      "media": "考える人",
+      "title": "「賭ける」ことの意味を考える10冊",
+      "url": "https://kangaeruhito.jp/article/761544",
+      "publishedAt": "2025-06-13"
+    },
+    {
+      "id": "kangaeruhito-precious-763503",
+      "type": "article",
+      "media": "考える人",
+      "title": "【追悼】「村上龍の黄金時代」を知るための10冊",
+      "url": "https://kangaeruhito.jp/article/763503",
+      "publishedAt": "2026-10-28"
+    },
+    {
+      "id": "kangaeruhito-precious-8008",
+      "type": "article",
+      "media": "考える人",
+      "title": "重い病気のあとで新しい人生をはじめるのに役立った10冊",
+      "url": "https://kangaeruhito.jp/article/8008",
+      "publishedAt": "2019-08-06"
+    },
+    {
+      "id": "jump-samura-fujimoto-interview",
+      "type": "interview",
+      "media": "少年ジャンプ＋",
+      "title": "藤本タツキ×沙村広明 奇跡の対談",
+      "url": "https://www.shonenjump.com/p/sp/1706/fp_interview/index2.html"
+    },
+    {
+      "id": "shueisha-toriyama-tribute-2024",
+      "type": "article",
+      "media": "集英社 ジャンプSQ.",
+      "title": "訃報",
+      "url": "https://jumpsq-sp.shueisha.co.jp/contents/oshirase/index240308.html",
+      "publishedAt": "2024-03-08"
+    },
+    {
+      "id": "shueisha-mangaexpo-003",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜新庄耕",
+      "url": "https://shueisha-mangaexpo.jp/recommend/003.html",
+      "publishedAt": "2026-01-27"
+    },
+    {
+      "id": "shueisha-mangaexpo-006",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜小川哲",
+      "url": "https://shueisha-mangaexpo.jp/recommend/006.html",
+      "publishedAt": "2026-02-20"
+    },
+    {
+      "id": "shueisha-mangaexpo-016",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜Mika Pikazo",
+      "url": "https://shueisha-mangaexpo.jp/recommend/016.html",
+      "publishedAt": "2026-07-13"
+    },
+    {
+      "id": "shueisha-mangaexpo-018",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜えなこ",
+      "url": "https://shueisha-mangaexpo.jp/recommend/018.html",
+      "publishedAt": "2026-08-14"
+    },
+    {
+      "id": "shueisha-mangaexpo-memory-039",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "マンガ家が選ぶ思い出の一話｜大暮維人",
+      "url": "https://shueisha-mangaexpo.jp/memory/039.html",
+      "publishedAt": "2026-11-20"
+    },
+    {
+      "id": "shueisha-mangaexpo-memory-026",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "マンガ家が選ぶ思い出の一話｜奥浩哉",
+      "url": "https://shueisha-mangaexpo.jp/memory/026.html",
+      "publishedAt": "2026-08-03"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "オープンダイアローグ",
+        "author": "ヤーコ・セイックラ、トム・エーリク・アーンキル、高木俊介、岡田愛",
+        "publisher": "日本評論社"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "リフレクティング・プロセス",
+        "author": "トム・アンデルセン、鈴木浩二",
+        "publisher": "金剛出版"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "リフレクティング",
+        "author": "矢原隆行",
+        "publisher": "ナカニシヤ出版"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "ドストエフスキーの詩学",
+        "author": "ミハイル・バフチン、望月哲男、鈴木淳一",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "精神の生態学",
+        "author": "グレゴリー・ベイトソン、佐藤良明",
+        "publisher": "新思索社"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "精神医学は対人関係論である",
+        "author": "ハリー・スタック・サリヴァン、中井久夫",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "治療文化論",
+        "author": "中井久夫",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "技を育む",
+        "author": "神田橋條治",
+        "publisher": "中山書店"
+      }
+    },
+    {
+      "personId": "precious-11008",
+      "sourceId": "kangaeruhito-precious-11008",
+      "book": {
+        "title": "中動態の世界",
+        "author": "國分功一郎",
+        "publisher": "医学書院"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "グラン＝ギニョル 恐怖の劇場",
+        "author": "フランソワ・リヴィエール、ガブリエル・ヴィトコップ",
+        "publisher": "未来社"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "パルプマガジン",
+        "author": "荒俣宏",
+        "publisher": "平凡社"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "新聞錦絵の世界",
+        "author": "高橋克彦",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "セクシュアリティの近代",
+        "author": "川村邦光",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "〈変態〉二十面相",
+        "author": "竹内瑞穂、メタモ研究会",
+        "publisher": "六花出版"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "ニッポン エロ・グロ・ナンセンス",
+        "author": "毛利眞人",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "「奇譚クラブ」の絵師たち",
+        "author": "濡木痴夢男",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "怪樹の腕",
+        "author": "会津信吾、藤元直樹",
+        "publisher": "東京創元社"
+      }
+    },
+    {
+      "personId": "precious-329466",
+      "sourceId": "kangaeruhito-precious-329466",
+      "book": {
+        "title": "妖異百物語 第一夜",
+        "author": "鮎川哲也、芦辺拓",
+        "publisher": "出版芸術社",
+        "edition": "第一夜"
+      },
+      "note": "第一夜・第二夜のうち第一夜を掲載。"
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "落下する夕方",
+        "author": "江國香織",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "源氏物語 上",
+        "author": "紫式部、角田光代",
+        "publisher": "河出書房新社",
+        "edition": "日本文学全集04 上巻"
+      }
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "タイタンの妖女",
+        "author": "カート・ヴォネガット・ジュニア、浅倉久志",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "親衛隊士の日",
+        "author": "ウラジーミル・ソローキン、松下隆志",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "a note of faith",
+        "author": "中尾太一",
+        "publisher": "思潮社"
+      }
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "四十日と四十夜のメルヘン",
+        "author": "青木淳悟",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "precious-6310",
+      "sourceId": "kangaeruhito-precious-6310",
+      "book": {
+        "title": "ピアニストが見たピアニスト",
+        "author": "青柳いづみこ",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "あなたに似た人 I",
+        "author": "ロアルド・ダール、田口俊樹",
+        "publisher": "早川書房",
+        "edition": "新訳版"
+      },
+      "note": "短編「味」を収録。"
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "タイガーズ・ワイフ",
+        "author": "テア・オブレヒト、藤井光",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "回想のブライズヘッド 上",
+        "author": "イーヴリン・ウォー、小野寺健",
+        "publisher": "岩波書店",
+        "edition": "上巻"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "ウィルバーフォース氏のヴィンテージ・ワイン",
+        "author": "ポール・トーディ、小竹由美子",
+        "publisher": "白水社"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "ミッテランの帽子",
+        "author": "アントワーヌ・ローラン、吉田洋之",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "みんなバーに帰る",
+        "author": "パトリック・デウィット、茂木健",
+        "publisher": "東京創元社"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "火山の下",
+        "author": "マルカム・ラウリー、斎藤兆史、渡辺暁、山崎暁子",
+        "publisher": "白水社"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "ウスケボーイズ",
+        "author": "河合香織",
+        "publisher": "小学館"
+      }
+    },
+    {
+      "personId": "precious-7375",
+      "sourceId": "kangaeruhito-precious-7375",
+      "book": {
+        "title": "ロマネ・コンティ・一九三五年",
+        "author": "開高健",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      },
+      "note": "同題の短編を収録。"
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "東風西雅抄",
+        "author": "宮崎市定、礪波護",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "東山時代に於ける一縉紳の生活",
+        "author": "原勝郎",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "二千五百年史 上",
+        "author": "竹越与三郎、中村哲",
+        "publisher": "講談社",
+        "edition": "講談社学術文庫 新装版"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "この国のかたち",
+        "author": "司馬遼太郎",
+        "publisher": "文藝春秋",
+        "edition": "シリーズ"
+      },
+      "note": "全6巻のうち文春文庫の第1巻を掲載。"
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "砂糖の世界史",
+        "author": "川北稔",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "物語 イタリアの歴史",
+        "author": "藤沢道郎",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "中央アジアの歴史",
+        "author": "間野英二",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "東洋における素朴主義の民族と文明主義の社会",
+        "author": "宮崎市定",
+        "publisher": "平凡社"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "遊牧民から見た世界史",
+        "author": "杉山正明",
+        "publisher": "日本経済新聞出版社",
+        "edition": "増補版"
+      }
+    },
+    {
+      "personId": "precious-756354",
+      "sourceId": "kangaeruhito-precious-756354",
+      "book": {
+        "title": "文明の生態史観ほか",
+        "author": "梅棹忠夫",
+        "publisher": "中央公論新社",
+        "edition": "中公クラシックス"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "賭博黙示録カイジ",
+        "author": "福本伸行",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "賭博者",
+        "author": "フョードル・ドストエフスキー",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "熔ける",
+        "author": "井川意高",
+        "publisher": "双葉社"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "デザインされたギャンブル依存症",
+        "author": "ナターシャ・ダウ・シュール",
+        "publisher": "青土社"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "賭博・暴力・社交",
+        "author": "池上俊一",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "深夜特急 1 香港・マカオ",
+        "author": "沢木耕太郎",
+        "publisher": "新潮社",
+        "edition": "第1巻"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "世の中は偶然に満ちている",
+        "author": "赤瀬川原平",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "偶然世界",
+        "author": "フィリップ・K・ディック",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "賭博／偶然の哲学",
+        "author": "檜垣立哉",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "precious-761544",
+      "sourceId": "kangaeruhito-precious-761544",
+      "book": {
+        "title": "バタイユ入門",
+        "author": "酒井健",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "限りなく透明に近いブルー",
+        "author": "村上龍",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "コインロッカー・ベイビーズ",
+        "author": "村上龍",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "69 sixty nine",
+        "author": "村上龍",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "五分後の世界",
+        "author": "村上龍",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "半島を出よ 上",
+        "author": "村上龍",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫 上巻"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "走れ！タカハシ",
+        "author": "村上龍",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "テニスボーイの憂鬱",
+        "author": "村上龍",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "村上龍映画小説集",
+        "author": "村上龍",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "イン ザ・ミソスープ",
+        "author": "村上龍",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "precious-763503",
+      "sourceId": "kangaeruhito-precious-763503",
+      "book": {
+        "title": "すべての男は消耗品である。 最終巻",
+        "author": "村上龍",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫 最終巻"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "無縁・公界・楽",
+        "author": "網野善彦",
+        "publisher": "平凡社",
+        "edition": "増補版"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "居るのはつらいよ",
+        "author": "東畑開人",
+        "publisher": "医学書院"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "ACONY",
+        "author": "冬目景",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "月に吠えらんねえ",
+        "author": "清家雪子",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "瑠璃宮夢幻古物店 6",
+        "author": "逢坂八代",
+        "publisher": "双葉社",
+        "edition": "第6巻"
+      },
+      "note": "第38話を収録した第6巻を掲載。"
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "私の履歴書 人生越境ゲーム",
+        "author": "青木昌彦",
+        "publisher": "日本経済新聞出版社"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "人生について",
+        "author": "西尾幹二",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "躁うつ病を生きる",
+        "author": "ケイ・ジャミソン、田中啓子",
+        "publisher": "新曜社"
+      }
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "残像",
+        "author": "ジョン・ヴァーリイ、冬川亘",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "samura",
+      "sourceId": "jump-samura-fujimoto-interview",
+      "book": {
+        "title": "AKIRA",
+        "author": "大友克洋",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "samura",
+      "sourceId": "jump-samura-fujimoto-interview",
+      "book": {
+        "title": "2001夜物語",
+        "author": "星野之宣",
+        "publisher": "双葉社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fujimoto",
+      "sourceId": "jump-samura-fujimoto-interview",
+      "book": {
+        "title": "波よ聞いてくれ",
+        "author": "沙村広明",
+        "publisher": "講談社",
+        "edition": "第1巻"
+      }
+    },
+    {
+      "personId": "oda",
+      "sourceId": "shueisha-toriyama-tribute-2024",
+      "book": {
+        "title": "DRAGON BALL",
+        "author": "鳥山明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "kishimoto",
+      "sourceId": "shueisha-toriyama-tribute-2024",
+      "book": {
+        "title": "DRAGON BALL",
+        "author": "鳥山明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "kishimoto",
+      "sourceId": "shueisha-toriyama-tribute-2024",
+      "book": {
+        "title": "Dr.スランプ",
+        "author": "鳥山明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-003",
+      "sourceId": "shueisha-mangaexpo-003",
+      "book": {
+        "title": "DRAGON BALL",
+        "author": "鳥山明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-003",
+      "sourceId": "shueisha-mangaexpo-003",
+      "book": {
+        "title": "キャプテン翼",
+        "author": "高橋陽一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-003",
+      "sourceId": "shueisha-mangaexpo-003",
+      "book": {
+        "title": "こちら葛飾区亀有公園前派出所",
+        "author": "秋本治",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-003",
+      "sourceId": "shueisha-mangaexpo-003",
+      "book": {
+        "title": "電影少女",
+        "author": "桂正和",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-003",
+      "sourceId": "shueisha-mangaexpo-003",
+      "book": {
+        "title": "ろくでなしBLUES",
+        "author": "森田まさのり",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-003",
+      "sourceId": "shueisha-mangaexpo-003",
+      "book": {
+        "title": "アウターゾーン",
+        "author": "光原伸",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-006",
+      "sourceId": "shueisha-mangaexpo-006",
+      "book": {
+        "title": "セクシーコマンドー外伝 すごいよ!!マサルさん",
+        "author": "うすた京介",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-006",
+      "sourceId": "shueisha-mangaexpo-006",
+      "book": {
+        "title": "キャプテン",
+        "author": "ちばあきお",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-006",
+      "sourceId": "shueisha-mangaexpo-006",
+      "book": {
+        "title": "キングダム",
+        "author": "原泰久",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-006",
+      "sourceId": "shueisha-mangaexpo-006",
+      "book": {
+        "title": "ガス灯野良犬探偵団",
+        "author": "松原利光、青崎有吾",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-006",
+      "sourceId": "shueisha-mangaexpo-006",
+      "book": {
+        "title": "九龍ジェネリックロマンス",
+        "author": "眉月じゅん",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-016",
+      "sourceId": "shueisha-mangaexpo-016",
+      "book": {
+        "title": "遊☆戯☆王",
+        "author": "高橋和希",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-016",
+      "sourceId": "shueisha-mangaexpo-016",
+      "book": {
+        "title": "NARUTO―ナルト―",
+        "author": "岸本斉史",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-016",
+      "sourceId": "shueisha-mangaexpo-016",
+      "book": {
+        "title": "さよなら絵梨",
+        "author": "藤本タツキ",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "expo-recommend-016",
+      "sourceId": "shueisha-mangaexpo-016",
+      "book": {
+        "title": "呪術廻戦",
+        "author": "芥見下々",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-016",
+      "sourceId": "shueisha-mangaexpo-016",
+      "book": {
+        "title": "電影少女",
+        "author": "桂正和",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-016",
+      "sourceId": "shueisha-mangaexpo-016",
+      "book": {
+        "title": "ダイヤモンドの功罪",
+        "author": "平井大橋",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-018",
+      "sourceId": "shueisha-mangaexpo-018",
+      "book": {
+        "title": "赤ずきんチャチャ",
+        "author": "彩花みん",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-018",
+      "sourceId": "shueisha-mangaexpo-018",
+      "book": {
+        "title": "D.Gray-man",
+        "author": "星野桂",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-018",
+      "sourceId": "shueisha-mangaexpo-018",
+      "book": {
+        "title": "魔人探偵脳噛ネウロ",
+        "author": "松井優征",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-018",
+      "sourceId": "shueisha-mangaexpo-018",
+      "book": {
+        "title": "Dr.STONE",
+        "author": "稲垣理一郎、Boichi",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-recommend-018",
+      "sourceId": "shueisha-mangaexpo-018",
+      "book": {
+        "title": "食戟のソーマ",
+        "author": "附田祐斗、佐伯俊、森崎友紀",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-memory-039",
+      "sourceId": "shueisha-mangaexpo-memory-039",
+      "book": {
+        "title": "リングにかけろ",
+        "author": "車田正美",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-memory-039",
+      "sourceId": "shueisha-mangaexpo-memory-039",
+      "book": {
+        "title": "ジョジョの奇妙な冒険",
+        "author": "荒木飛呂彦",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-memory-039",
+      "sourceId": "shueisha-mangaexpo-memory-039",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-memory-026",
+      "sourceId": "shueisha-mangaexpo-memory-026",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "第1巻"
+      },
+      "note": "第1巻収録の第1話「心の叫びの巻」"
+    },
+    {
+      "personId": "precious-8008",
+      "sourceId": "kangaeruhito-precious-8008",
+      "book": {
+        "title": "永遠なる序章",
+        "author": "椎名麟三",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/",
+      "result": "index",
+      "reason": "マンガ家本人による寄稿一覧。自作の思い出が中心。"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/001.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "秋本治"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/002.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "森本梢子"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/003.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "原泰久"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/004.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "和月伸宏"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/005.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "槇村さとる"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/006.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "弓月光"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/007.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "咲坂伊緒"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/008.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "椎名軽穂"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/009.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "荒木飛呂彦"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/010.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "猿渡哲也"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/011.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "増田こうすけ"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/012.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "種村有菜"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/013.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "小花美穂"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/014.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "栗原正尚"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/015.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "河原和音"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/016.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "ゆでたまご"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/017.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "迫稔雄"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/018.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "森下suu"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/019.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "高橋陽一"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/020.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "水沢めぐみ"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/021.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "いくえみ綾"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/022.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "東村アキコ"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/023.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "甲斐谷忍"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/024.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "くらもちふさこ"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/025.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "中原アヤ"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/027.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "吉住渉"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/028.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "矢沢あい"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/029.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "うすた京介"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/030.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "一条ゆかり"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/031.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "徳弘正也"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/032.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "里中実華"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/033.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "車田正美"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/035.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "八木教広"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/036.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "池野恋"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/037.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "鈴木央"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/038.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "神尾葉子"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/memory/040.html",
+      "result": "rejected",
+      "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+      "person": "やまもり三香"
+    }
+  ]
+}

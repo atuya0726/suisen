@@ -22845,5 +22845,816 @@
     "result": "index",
     "reason": "各界の著名人の選書と本人コメント。",
     "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/016.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-016",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/11008",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-11008",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/039.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-memory-039",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/003.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-003",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/756354",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-756354",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.shonenjump.com/p/sp/1706/fp_interview/index2.html",
+    "result": "adopted",
+    "reason": "sources.json の jump-samura-fujimoto-interview",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/018.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-018",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/761544",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-761544",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/329466",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-329466",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/6310",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-6310",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/8008",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-8008",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://jumpsq-sp.shueisha.co.jp/contents/oshirase/index240308.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-toriyama-tribute-2024",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/763503",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-763503",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/006.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-006",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/026.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-memory-026",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/7375",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-7375",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/",
+    "result": "index",
+    "reason": "マンガ家本人による寄稿一覧。自作の思い出が中心。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/001.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "秋本治",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/002.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "森本梢子",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/003.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "原泰久",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/004.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "和月伸宏",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/005.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "槇村さとる",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/006.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "弓月光",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/007.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "咲坂伊緒",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/008.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "椎名軽穂",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/009.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "荒木飛呂彦",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/010.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "猿渡哲也",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/011.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "増田こうすけ",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/012.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "種村有菜",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/013.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "小花美穂",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/014.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "栗原正尚",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/015.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "河原和音",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/016.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "ゆでたまご",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/017.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "迫稔雄",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/018.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "森下suu",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/019.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "高橋陽一",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/020.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "水沢めぐみ",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/021.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "いくえみ綾",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/022.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "東村アキコ",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/023.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "甲斐谷忍",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/024.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "くらもちふさこ",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/025.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "中原アヤ",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/027.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "吉住渉",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/028.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "矢沢あい",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/029.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "うすた京介",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/030.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "一条ゆかり",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/031.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "徳弘正也",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/032.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "里中実華",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/033.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "車田正美",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/035.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "八木教広",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/036.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "池野恋",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/037.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "鈴木央",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/038.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "神尾葉子",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/memory/040.html",
+    "result": "rejected",
+    "reason": "自作についての寄稿。他の書籍を推薦した記述なし。",
+    "person": "やまもり三香",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20191103-tabebooks-23",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-23",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20181004-tabebooks-10",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-10",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180624-tabebooks-7",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-7",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/column/detail/202004230003-spnavi",
+    "result": "adopted",
+    "reason": "sources.json の sportsnavi-nanami-reading-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20211019-tabebooks-45",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-45",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190306-tabebooks-15",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-15",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190530-tabebooks-18",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-18",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210720-tabebooks-42",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-42",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180126-tabebooks-2",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-2",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190331-tabebooks-16",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-16",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20220315-tabebooks-50",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-50",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://jisin.jp/entertainment/entertainment-news/1615132/",
+    "result": "adopted",
+    "reason": "sources.json の jisin-takahashi-20180325",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20201218-tabebooks-35",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-35",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/column/detail/202005090001-spnavi?p=2",
+    "result": "adopted",
+    "reason": "sources.json の sportsnavi-iwamasa-reading-2020-2",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/official/detail/202005130026-spnaviow",
+    "result": "adopted",
+    "reason": "sources.json の marines-player-reading-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190630-tabebooks-19",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-19",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20211120-tabebooks-46",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-46",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://ameblo.jp/suzuki-ryohei/entry-11893563859.html",
+    "result": "adopted",
+    "reason": "sources.json の ameblo-suzuki-20140713",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190826-tabebooks-21",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-21",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.shinchosha.co.jp/book/350083/",
+    "result": "adopted",
+    "reason": "sources.json の shinchosha-kami-no-akute-habu",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://slownews.com/n/nbca8f4ba9431",
+    "result": "adopted",
+    "reason": "sources.json の slownews-nakamura-satoshi-2021",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20181030-tabebooks-11",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-11",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20191204-tabebooks-24",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-24",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190730-tabebooks-20",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-20",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190131-tabebooks-14",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-14",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200716-tabebooks-30",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-30",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20220113-tabebooks-47",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-47",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210518-tabebooks-40",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-40",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200107-tabebooks-25",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-25",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/column/detail/202004220004-spnavi",
+    "result": "adopted",
+    "reason": "sources.json の sportsnavi-nakazawa-reading-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180331-tabebooks-4",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-4",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://real-sports.jp/page/articles/629542701007635393/",
+    "result": "adopted",
+    "reason": "sources.json の realsports-iwao-reading-2022",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20181127-tabebooks-12",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-12",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200812-tabebooks-31",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-31",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200915-tabebooks-32",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-32",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200130-tabebooks-26",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-26",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.cinemacafe.net/article/2021/01/25/71040_2.html",
+    "result": "adopted",
+    "reason": "sources.json の cinemacafe-arimura-20210125",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20201005-tabebooks-33",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-33",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180530-tabebooks-6",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-6",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180801-tabebooks-8",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-8",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200414-tabebooks-28",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-28",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20220219-tabebooks-49",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-49",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20210316-tabebooks-38",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-38",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://otocoto.jp/interview/romance-gekijo/3/",
+    "result": "adopted",
+    "reason": "sources.json の otocoto-ayase-sakaguchi-20180130",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20171223-tabebooks",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-1",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210615-tabebooks-41",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-41",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shosetsu-maru.com/sb_special/non",
+    "result": "adopted",
+    "reason": "sources.json の shosetsumaru-non-20210327",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200303-tabebooks-27",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-27",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20220118-tabebooks-48",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-48",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/column/detail/202005010013-spnavi",
+    "result": "adopted",
+    "reason": "sources.json の sportsnavi-suzuki-reading-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20201115-tabebooks-34",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-34",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20210112-tabebooks-36",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-36",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210220-tabebooks-37",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-37",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210420-tabebooks-39",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-39",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20200520-tabebooks-29",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-29",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.jfa.jp/national_team/news/00024859/",
+    "result": "adopted",
+    "reason": "sources.json の jfa-maeda-favorite-book-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190102-tabebooks-13",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-13",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210817-tabebooks-43",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-43",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180228-tabebooks-3",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-3",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.rbbtoday.com/article/2018/07/14/162038.html",
+    "result": "adopted",
+    "reason": "sources.json の rbbtoday-tsuchiya-20180714",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/column/detail/202005090001-spnavi",
+    "result": "adopted",
+    "reason": "sources.json の sportsnavi-iwamasa-reading-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180430-tabebooks-5",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-5",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/living/hobby/20210914-tabebooks-44",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-44",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20180902-tabebooks-9",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-9",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.news-postseven.com/archives/20191116_1485462.html/2",
+    "result": "adopted",
+    "reason": "sources.json の postseven-miura-musashi-2019",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/timeless/person/article/20190501-tabebooks-17",
+    "result": "adopted",
+    "reason": "sources.json の ginger-tabebooks-17",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://gingerweb.jp/tag/book-concierge",
+    "result": "index",
+    "reason": "多部未華子本人の推薦連載を掲載。目次の全5ページに49記事。vol.22は目次に掲載なし",
+    "person": "多部未華子",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tv-tokyo.co.jp/kaisha/pdf/130228_1.pdf",
+    "result": "rejected",
+    "reason": "robots.txt（anthropic-ai を拒否）",
+    "person": "満島ひかり",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.fujingaho.jp/culture/celebrity/a41182053/kuroyanagi-tetsuko-220917/",
+    "result": "rejected",
+    "reason": "robots.txt（anthropic-ai を拒否）",
+    "person": "黒柳徹子",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.elle.com/jp/culture/movie-tv/a74281126/masami-nagasawa-shizuka-ishibashi-202611/",
+    "result": "rejected",
+    "reason": "robots.txt（anthropic-ai を拒否）",
+    "person": "長澤まさみ",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/archive.html",
+    "result": "index",
+    "reason": "J-WAVE公式番組のアーカイブ。BOOK SHARINGコーナーの各放送回に著名人本人の選書を掲載",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230819.html",
+    "result": "candidate",
+    "reason": "本人紹介の『氷の海のガレオン』は小説丸のインタビューを採用したため重複見送り",
+    "person": "のん",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sports.yahoo.co.jp/contents/7334",
+    "result": "index",
+    "reason": "連載を確認し、本人が本を挙げて評価する個別記事を採用",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://hochi.news/articles/20250202-OHT1T51210.html",
+    "result": "rejected",
+    "reason": "robots.txt で AI クローラーが拒否されている",
+    "person": "羽生結弦",
+    "checkedAt": "2026-11-27"
   }
 ]

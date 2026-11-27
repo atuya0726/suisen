@@ -86813,5 +86813,1458 @@
     "rakutenUrl": "https://books.rakuten.co.jp/rb/6026768/",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0885/08856880.jpg?_ex=400x400",
     "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784535984219",
+    "title": "オープンダイアローグ",
+    "authors": [
+      "ヤーコ・セイックラ",
+      "トム・エーリク・アーンキル",
+      "高木俊介",
+      "岡田愛"
+    ],
+    "publisher": "日本評論社",
+    "publishedAt": "2016-03"
+  },
+  {
+    "isbn13": "9784772414562",
+    "title": "リフレクティング・プロセス新装版",
+    "authors": [
+      "トム・アンデルセン",
+      "鈴木浩二"
+    ],
+    "publisher": "金剛出版",
+    "publishedAt": "2015-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13455213/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4562/9784772414562.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784779510991",
+    "title": "リフレクティング",
+    "authors": [
+      "矢原 隆行"
+    ],
+    "publisher": "ナカニシヤ出版",
+    "publishedAt": "2016-09-15",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14393499/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0991/9784779510991.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784480081902",
+    "title": "ドストエフスキーの詩学",
+    "authors": [
+      "ミハイル・バフチン",
+      "望月 哲男",
+      "鈴木 淳一"
+    ],
+    "publisher": "筑摩書房",
+    "publishedAt": "1995-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/713016/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1902/9784480081902.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784783511755",
+    "title": "精神の生態学",
+    "authors": [
+      "グレゴリー・ベイトソン",
+      "佐藤良明"
+    ],
+    "publisher": "新思索社",
+    "publishedAt": "2000-02"
+  },
+  {
+    "isbn13": "9784622040828",
+    "title": "精神医学は対人関係論である",
+    "authors": [
+      "ハリー・スタック・サリヴァン",
+      "中井久夫"
+    ],
+    "publisher": "みすず書房",
+    "publishedAt": "1990-04"
+  },
+  {
+    "isbn13": "9784006000523",
+    "title": "治療文化論",
+    "authors": [
+      "中井 久夫",
+      "江口 重幸"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "2001-05-16",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1342127/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0060/00600052.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784521733739",
+    "title": "技を育む",
+    "authors": [
+      "神田橋條治"
+    ],
+    "publisher": "中山書店",
+    "publishedAt": "2011-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11189718/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3739/9784521733739.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784624700652",
+    "title": "グラン＝ギニョル",
+    "authors": [
+      "フランソア・リヴィエール",
+      "ガブリエル・ヴィットコップ"
+    ],
+    "publisher": "未来社",
+    "publishedAt": "1989-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/384198/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0652/9784624700652.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784582253047",
+    "title": "パルプマガジン",
+    "authors": [
+      "荒俣宏"
+    ],
+    "publisher": "平凡社"
+  },
+  {
+    "isbn13": "9784041704028",
+    "title": "新聞錦絵の世界",
+    "authors": [
+      "高橋克彦"
+    ],
+    "publisher": "KADOKAWA"
+  },
+  {
+    "isbn13": "9784062580861",
+    "title": "セクシュアリティの近代",
+    "authors": [
+      "川村邦光"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1996-09"
+  },
+  {
+    "isbn13": "9784866170206",
+    "title": "〈変態〉二十面相",
+    "authors": [
+      "竹内瑞穂",
+      "メタモ研究会"
+    ],
+    "publisher": "六花出版",
+    "publishedAt": "2016-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14507146/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0206/9784866170206.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062586405",
+    "title": "ニッポン エロ・グロ・ナンセンス",
+    "authors": [
+      "毛利眞人"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2016-10"
+  },
+  {
+    "isbn13": "9784309474595",
+    "title": "「奇譚クラブ」の絵師たち",
+    "authors": [
+      "濡木痴夢男"
+    ],
+    "publisher": "河出書房新社"
+  },
+  {
+    "isbn13": "9784488013066",
+    "title": "怪樹の腕",
+    "authors": [
+      "会津信吾",
+      "藤元直樹"
+    ],
+    "publisher": "東京創元社",
+    "publishedAt": "2013-02"
+  },
+  {
+    "isbn13": "9784882931331",
+    "title": "妖異百物語 第一夜",
+    "authors": [
+      "鮎川哲也",
+      "芦辺拓"
+    ],
+    "publisher": "出版芸術社"
+  },
+  {
+    "isbn13": "9784043480012",
+    "title": "落下する夕方",
+    "authors": [
+      "江國 香織"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "1999-07-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1071774/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0012/9784043480012_1_23.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309728742",
+    "title": "源氏物語 上",
+    "authors": [
+      "角田 光代"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2017-09-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12953516/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8742/9784309728742_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309206332",
+    "title": "親衛隊士の日",
+    "authors": [
+      "ウラジーミル・ソローキン",
+      "松下隆志"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2013-09"
+  },
+  {
+    "isbn13": "9784783734116",
+    "title": "a note of faith",
+    "authors": [
+      "中尾太一"
+    ],
+    "publisher": "思潮社",
+    "publishedAt": "2014-07"
+  },
+  {
+    "isbn13": "9784122052697",
+    "title": "ピアニストが見たピアニスト",
+    "authors": [
+      "青柳いづみこ"
+    ],
+    "publisher": "中央公論新社",
+    "publishedAt": "2010-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6275366/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2697/9784122052697.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784150712594",
+    "title": "あなたに似た人〔新訳版〕",
+    "authors": [
+      "ロアルド・ダール",
+      "田口 俊樹"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "2013-05-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12283455/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2594/9784150712594.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784003227725",
+    "title": "回想のブライズヘッド 上",
+    "authors": [
+      "イーヴリン・ウォー",
+      "小野寺健"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "2009-01"
+  },
+  {
+    "isbn13": "9784560090114",
+    "title": "ウィルバーフォース氏のヴィンテージ・ワイン",
+    "authors": [
+      "ポール・トーディ",
+      "小竹由美子"
+    ],
+    "publisher": "白水社",
+    "publishedAt": "2010-08"
+  },
+  {
+    "isbn13": "9784105901554",
+    "title": "ミッテランの帽子",
+    "authors": [
+      "アントワーヌ・ローラン",
+      "吉田 洋之"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2018-12-26",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15708765/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1554/9784105901554_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784488010416",
+    "title": "みんなバーに帰る",
+    "authors": [
+      "パトリック・デウィット",
+      "茂木健"
+    ],
+    "publisher": "東京創元社",
+    "publishedAt": "2015-01"
+  },
+  {
+    "isbn13": "9784560099018",
+    "title": "火山の下",
+    "authors": [
+      "マルカム・ラウリー",
+      "斎藤兆史",
+      "渡辺暁",
+      "山崎暁子"
+    ],
+    "publisher": "白水社",
+    "publishedAt": "2010-04"
+  },
+  {
+    "isbn13": "9784094065701",
+    "title": "ウスケボーイズ",
+    "authors": [
+      "河合香織"
+    ],
+    "publisher": "小学館",
+    "publishedAt": "2018-10"
+  },
+  {
+    "isbn13": "9784006030353",
+    "title": "東風西雅抄",
+    "authors": [
+      "宮崎市定",
+      "礪波護"
+    ],
+    "publisher": "岩波書店",
+    "publishedAt": "2001-05"
+  },
+  {
+    "isbn13": "9784061582507",
+    "title": "東山時代に於ける一縉紳の生活",
+    "authors": [
+      "原勝郎"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1978-04"
+  },
+  {
+    "isbn13": "9784061589117",
+    "title": "二千五百年史 上",
+    "authors": [
+      "竹越与三郎",
+      "中村哲"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1990-01"
+  },
+  {
+    "isbn13": "9784167105600",
+    "title": "この国のかたち 一",
+    "authors": [
+      "司馬 遼太郎"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "1993-09-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/612830/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5600/9784167105600_1_6.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784121010452",
+    "title": "物語イタリアの歴史",
+    "authors": [
+      "藤沢道郎"
+    ],
+    "publisher": "中央公論新社",
+    "publishedAt": "1991-10-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/495748/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0452/9784121010452.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784061158580",
+    "title": "中央アジアの歴史",
+    "authors": [
+      "間野英二"
+    ],
+    "publisher": "講談社"
+  },
+  {
+    "isbn13": "9784582805086",
+    "title": "東洋における素朴主義の民族と文明主義の社会",
+    "authors": [
+      "宮崎市定"
+    ],
+    "publisher": "平凡社",
+    "publishedAt": "1989-09"
+  },
+  {
+    "isbn13": "9784532195991",
+    "title": "遊牧民から見た世界史",
+    "authors": [
+      "杉山 正明"
+    ],
+    "publisher": "日本経済新聞出版社",
+    "publishedAt": "2011-07-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11248337/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5991/9784532195991.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784121600417",
+    "title": "文明の生態史観ほか",
+    "authors": [
+      "梅棹忠夫"
+    ],
+    "publisher": "中央公論新社",
+    "publishedAt": "2002-11"
+  },
+  {
+    "isbn13": "9784063366082",
+    "title": "賭博黙示録カイジ",
+    "authors": [
+      "福本伸行"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1996-09"
+  },
+  {
+    "isbn13": "9784575306026",
+    "title": "熔ける",
+    "authors": [
+      "井川意高"
+    ],
+    "publisher": "双葉社",
+    "publishedAt": "2013-11"
+  },
+  {
+    "isbn13": "9784791770588",
+    "title": "デザインされたギャンブル依存症",
+    "authors": [
+      "ナターシャ・ダウ・シュール"
+    ],
+    "publisher": "青土社",
+    "publishedAt": "2018-07"
+  },
+  {
+    "isbn13": "9784062580045",
+    "title": "賭博・暴力・社交 遊びからみる中世ヨーロッパ",
+    "authors": [
+      "池上俊一"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1994-02"
+  },
+  {
+    "isbn13": "9784480804600",
+    "title": "世の中は偶然に満ちている",
+    "authors": [
+      "赤瀬川 原平",
+      "赤瀬川 尚子"
+    ],
+    "publisher": "筑摩書房",
+    "publishedAt": "2015-10-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13409644/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4600/9784480804600.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784150102418",
+    "title": "偶然世界",
+    "authors": [
+      "フィリップ・キンドレッド・ディック",
+      "小尾芙佐"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "1977-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/24112/"
+  },
+  {
+    "isbn13": "9784309244556",
+    "title": "賭博／偶然の哲学",
+    "authors": [
+      "檜垣立哉"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2008-10"
+  },
+  {
+    "isbn13": "9784480056818",
+    "title": "バタイユ入門",
+    "authors": [
+      "酒井 健"
+    ],
+    "publisher": "筑摩書房",
+    "publishedAt": "1996-09-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/830362/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6818/9784480056818.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087450811",
+    "title": "69 sixty nine",
+    "authors": [
+      "村上 龍"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2013-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12345780/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0811/9784087450811_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784877284442",
+    "title": "五分後の世界",
+    "authors": [
+      "村上 龍"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "1997-01-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/872242/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4442/9784877284442.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087492651",
+    "title": "テニスボーイの憂鬱",
+    "authors": [
+      "村上龍"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1987-10"
+  },
+  {
+    "isbn13": "9784062637633",
+    "title": "村上龍映画小説集",
+    "authors": [
+      "村上龍"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1998-04"
+  },
+  {
+    "isbn13": "9784877286330",
+    "title": "イン・ザ・ミソスープ",
+    "authors": [
+      "村上 龍"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "1998-07-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/993188/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8772/87728633.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344429765",
+    "title": "すべての男は消耗品である。　最終巻",
+    "authors": [
+      "村上 龍"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2020-04-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16264559/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9765/9784344429765.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784582761504",
+    "title": "増補　無縁・公界・楽（150）",
+    "authors": [
+      "網野 善彦"
+    ],
+    "publisher": "平凡社",
+    "publishedAt": "1996-06-03",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/809820/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1504/9784582761504_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784260038850",
+    "title": "居るのはつらいよ",
+    "authors": [
+      "東畑開人"
+    ],
+    "publisher": "医学書院",
+    "publishedAt": "2019-02"
+  },
+  {
+    "isbn13": "9784063145564",
+    "title": "ACONY",
+    "authors": [
+      "冬目景"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2009-03"
+  },
+  {
+    "isbn13": "9784063879704",
+    "title": "月に吠えらんねえ",
+    "authors": [
+      "清家雪子"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2014-04"
+  },
+  {
+    "isbn13": "9784575850192",
+    "title": "瑠璃宮夢幻古物店 6",
+    "authors": [
+      "逢坂八代"
+    ],
+    "publisher": "双葉社",
+    "publishedAt": "2017-08"
+  },
+  {
+    "isbn13": "9784532353025",
+    "title": "私の履歴書 人生越境ゲーム",
+    "authors": [
+      "青木昌彦"
+    ],
+    "publisher": "日本経済新聞出版社",
+    "publishedAt": "2008-04"
+  },
+  {
+    "isbn13": "9784101261522",
+    "title": "人生について",
+    "authors": [
+      "西尾幹二"
+    ],
+    "publisher": "新潮社"
+  },
+  {
+    "isbn13": "9784788506541",
+    "title": "躁うつ病を生きる",
+    "authors": [
+      "ケイ・ジャミソン",
+      "田中啓子"
+    ],
+    "publisher": "新曜社",
+    "publishedAt": "1998-12"
+  },
+  {
+    "isbn13": "9784150103798",
+    "title": "残像",
+    "authors": [
+      "ジョン・ヴァーリイ",
+      "冬川亘"
+    ],
+    "publisher": "早川書房",
+    "publishedAt": "1995-09"
+  },
+  {
+    "isbn13": "9784575930740",
+    "title": "2001夜物語",
+    "authors": [
+      "星野之宣"
+    ],
+    "publisher": "双葉社",
+    "publishedAt": "1985-08"
+  },
+  {
+    "isbn13": "9784088718019",
+    "title": "電影少女",
+    "authors": [
+      "桂正和"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1990-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1071059/"
+  },
+  {
+    "isbn13": "9784088714011",
+    "title": "ろくでなしBLUES",
+    "authors": [
+      "森田まさのり"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1989-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1071465/"
+  },
+  {
+    "isbn13": "9784088713953",
+    "title": "アウターゾーン",
+    "authors": [
+      "光原伸"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1991-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/841211/"
+  },
+  {
+    "isbn13": "9784088930374",
+    "title": "ガス灯野良犬探偵団",
+    "authors": [
+      "松原利光",
+      "青崎有吾"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2023-12-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17678038/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0374/9784088930374_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088914886",
+    "title": "九龍ジェネリックロマンス",
+    "authors": [
+      "眉月じゅん"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2020-02-19",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16193626/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4886/9784088914886_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088723112",
+    "title": "遊☆戯☆王",
+    "authors": [
+      "高橋和希"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1997-03-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1137926/"
+  },
+  {
+    "isbn13": "9784088831671",
+    "title": "さよなら絵梨",
+    "authors": [
+      "藤本タツキ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2022-07-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/17165188/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1671/9784088831671_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088536507",
+    "title": "赤ずきんチャチャ",
+    "authors": [
+      "彩花みん"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1993-02-15"
+  },
+  {
+    "isbn13": "9784088811840",
+    "title": "Dr.STONE",
+    "authors": [
+      "稲垣理一郎",
+      "Boichi"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2017-07-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14979890/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1840/9784088811840.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784088707211",
+    "title": "食戟のソーマ",
+    "authors": [
+      "附田祐斗",
+      "佐伯俊",
+      "森崎友紀"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2013-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12235296/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7211/9784088707211.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784086174015",
+    "title": "リングにかけろ",
+    "authors": [
+      "車田正美"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "1998-07"
+  },
+  {
+    "isbn13": "9784101051024",
+    "title": "永遠なる序章",
+    "authors": [
+      "椎名麟三"
+    ],
+    "publisher": "新潮社"
+  },
+  {
+    "isbn13": "9784907583590",
+    "title": "エロイーズ",
+    "authors": [
+      "ペネロープ・バジュー",
+      "ブレ",
+      "関澄 かおる"
+    ],
+    "publisher": "DU BOOKS",
+    "publishedAt": "2015-08-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13314383/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3590/9784907583590.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784837972921",
+    "title": "一週間で女を磨く本",
+    "authors": [
+      "浅野 裕子"
+    ],
+    "publisher": "三笠書房",
+    "publishedAt": "2002-12-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1515991/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8379/83797292.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784061787698",
+    "title": "あずきちゃん",
+    "authors": [
+      "木村千歌",
+      "秋元康"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "1994-01-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1305146/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7698/9784061787698.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344031791",
+    "title": "美しいものを見に行くツアーひとり参加",
+    "authors": [
+      "益田ミリ"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2017-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15112616/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1791/9784344031791.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784763136435",
+    "title": "半径66センチのしあわせ",
+    "authors": [
+      "堀川波"
+    ],
+    "publisher": "サンマーク出版",
+    "publishedAt": "2017-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15138779/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6435/9784763136435.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344418172",
+    "title": "恋のかけら",
+    "authors": [
+      "唯川恵",
+      "山崎ナオコーラ",
+      "朝倉かすみ",
+      "山崎マキコ",
+      "南綾子",
+      "小手鞠るい",
+      "豊島ミホ",
+      "井上荒野"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2012-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11553770/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8172/9784344418172.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784479783930",
+    "title": "大人女子のための睡眠パーフェクトブック",
+    "authors": [
+      "友野なお"
+    ],
+    "publisher": "大和書房",
+    "publishedAt": "2017-07",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14992872/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3930/9784479783930.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784766002089",
+    "title": "フジコ・ヘミング14歳の夏休み絵日記",
+    "authors": [
+      "フジコ・ヘミング"
+    ],
+    "publisher": "暮しの手帖社",
+    "publishedAt": "2018-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15520635/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2089/9784766002089.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784167906191",
+    "title": "世界を変えた10人の女性 お茶の水女子大学特別講義",
+    "authors": [
+      "池上 彰"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "2016-05-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13860935/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6191/9784167906191.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344030251",
+    "title": "絶対正義",
+    "authors": [
+      "秋吉理香子"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2016-11-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14512614/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0251/9784344030251.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344021013",
+    "title": "部屋とこころのシンプルな掃除",
+    "authors": [
+      "ドミニック・ローホー",
+      "原秋子"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2011-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11460537/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1013/9784344021013.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344419094",
+    "title": "もしもし下北沢",
+    "authors": [
+      "よしもとばなな"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2012-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11794826/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9094/9784344419094.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784809412677",
+    "title": "日本の大和言葉を美しく話す",
+    "authors": [
+      "高橋こうじ"
+    ],
+    "publisher": "東邦出版",
+    "publishedAt": "2014-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13027479/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2677/9784809412677.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784041011829",
+    "title": "本日は大安なり",
+    "authors": [
+      "辻村 深月"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2014-01-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12623003/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1829/9784041011829_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062209519",
+    "title": "独り舞",
+    "authors": [
+      "李 琴峰"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2018-03-29",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15334137/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9519/9784062209519.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784620108216",
+    "title": "東京會舘とわたし（上）",
+    "authors": [
+      "辻村深月"
+    ],
+    "publisher": "毎日新聞出版",
+    "publishedAt": "2016-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14360912/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8216/9784620108216.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784167110062",
+    "title": "秘密",
+    "authors": [
+      "東野 圭吾"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "2001-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1339839/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0062/9784167110062_1_20.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784140817735",
+    "title": "ビッグ・クエスチョン",
+    "authors": [
+      "スティーヴン・ホーキング",
+      "青木薫"
+    ],
+    "publisher": "NHK出版",
+    "publishedAt": "2019-03-14",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15845536/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7735/9784140817735.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087458756",
+    "title": "あのこは貴族",
+    "authors": [
+      "山内 マリコ"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2019-05-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15884394/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8756/9784087458756.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784801400023",
+    "title": "女子の人間関係",
+    "authors": [
+      "水島 広子"
+    ],
+    "publisher": "サンクチュアリ出版",
+    "publishedAt": "2014-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12686627/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0023/9784801400023.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784408553825",
+    "title": "砂漠",
+    "authors": [
+      "伊坂 幸太郎"
+    ],
+    "publisher": "実業之日本社",
+    "publishedAt": "2017-10-04",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15120936/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3825/9784408553825_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087477443",
+    "title": "肩ごしの恋人",
+    "authors": [
+      "唯川 恵"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2004-10",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1721765/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7443/9784087477443_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062935050",
+    "title": "皿の中に、イタリア",
+    "authors": [
+      "内田 洋子"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2016-10-14",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14445217/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5050/9784062935050_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784905073352",
+    "title": "＋1cm（プラスイッセンチ）",
+    "authors": [
+      "キム・ウンジュ",
+      "ヤン・ヒョンジョン",
+      "簗田順子"
+    ],
+    "publisher": "文響社",
+    "publishedAt": "2016-07-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14342106/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3352/9784905073352_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344036239",
+    "title": "明け方の若者たち",
+    "authors": [
+      "カツセ マサヒコ"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2020-06-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16332656/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6239/9784344036239.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784758440349",
+    "title": "びんぼう草",
+    "authors": [
+      "群ようこ"
+    ],
+    "publisher": "角川春樹事務所",
+    "publishedAt": "2016-09",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/14453858/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0349/9784758440349.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784065170946",
+    "title": "medium　霊媒探偵城塚翡翠",
+    "authors": [
+      "相沢 沙呼"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2019-09-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16008171/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0946/9784065170946_1_10.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784344035089",
+    "title": "また明日",
+    "authors": [
+      "群ようこ"
+    ],
+    "publisher": "幻冬舎",
+    "publishedAt": "2019-09-19"
+  },
+  {
+    "isbn13": "9784591142721",
+    "title": "百貨の魔法",
+    "authors": [
+      "村山 早紀"
+    ],
+    "publisher": "ポプラ社",
+    "publishedAt": "2017-10-06",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15122315/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2721/9784591142721.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101190419",
+    "title": "向田邦子の恋文",
+    "authors": [
+      "向田和子"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2005-07-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/3610679/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10119041.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784087464290",
+    "title": "弁護側の証人",
+    "authors": [
+      "小泉 喜美子"
+    ],
+    "publisher": "集英社",
+    "publishedAt": "2009-04-25",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/6040969/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4290/9784087464290_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784579402472",
+    "title": "ふたりはともだち",
+    "authors": [
+      "アーノルド・ローベル",
+      "三木卓"
+    ],
+    "publisher": "文化出版局",
+    "publishedAt": "1972-11-10"
+  },
+  {
+    "isbn13": "9784103080121",
+    "title": "自転しながら公転する",
+    "authors": [
+      "山本 文緒"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2020-09-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16319909/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0121/9784103080121.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784777827510",
+    "title": "家にいるのに家に帰りたい",
+    "authors": [
+      "クォン・ラビン",
+      "桑畑優香",
+      "チョンオ"
+    ],
+    "publisher": "辰巳出版",
+    "publishedAt": "2021-03-22",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16636895/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7510/9784777827510_1_4.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784306092013",
+    "title": "ティファニーのテーブルマナー",
+    "authors": [
+      "ウォールター・ホーヴィング",
+      "ジョー・ユーラ"
+    ],
+    "publisher": "鹿島出版会",
+    "publishedAt": "1969-12",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/61870/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2013/9784306092013.gif?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784101373270",
+    "title": "月の砂漠をさばさばと",
+    "authors": [
+      "北村薫",
+      "おーなり由子"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2002-06-28",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1458684/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1013/10137327.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784309029160",
+    "title": "推し、燃ゆ",
+    "authors": [
+      "宇佐見 りん"
+    ],
+    "publisher": "河出書房新社",
+    "publishedAt": "2020-09-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16417323/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9160/9784309029160_1_2.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784103003373",
+    "title": "雷神",
+    "authors": [
+      "道尾秀介"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2021-05-26"
+  },
+  {
+    "isbn13": "9784041008461",
+    "title": "雪国",
+    "authors": [
+      "川端 康成"
+    ],
+    "publisher": "KADOKAWA",
+    "publishedAt": "2013-06-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12260476/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8461/9784041008461_1_30.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784167912338",
+    "title": "ラヴレターズ",
+    "authors": [
+      "川上 未映子",
+      "村田 沙耶香"
+    ],
+    "publisher": "文藝春秋",
+    "publishedAt": "2019-02-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15738384/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2338/9784167912338.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784479791164",
+    "title": "20代で始める「夢設計図」",
+    "authors": [
+      "熊谷正寿"
+    ],
+    "publisher": "大和書房",
+    "publishedAt": "2005-05"
+  },
+  {
+    "isbn13": "9784834004458",
+    "title": "地球 その中をさぐろう",
+    "authors": [
+      "加古里子"
+    ],
+    "publisher": "福音館書店",
+    "publishedAt": "1975-01"
+  },
+  {
+    "isbn13": "9784253054348",
+    "title": "浦安鉄筋家族",
+    "authors": [
+      "浜岡賢次"
+    ],
+    "publisher": "秋田書店",
+    "publishedAt": "1993-06"
+  },
+  {
+    "isbn13": "9784834004366",
+    "title": "さむがりやのサンタ",
+    "authors": [
+      "レイモンド・ブリッグズ",
+      "すがはらひろくに"
+    ],
+    "publisher": "福音館書店",
+    "publishedAt": "1974-10-25"
+  },
+  {
+    "isbn13": "9784591113837",
+    "title": "氷の海のガレオン／オルタ",
+    "authors": [
+      "木地雅映子"
+    ],
+    "publisher": "ポプラ社",
+    "publishedAt": "2010-02"
+  },
+  {
+    "isbn13": "9784063848984",
+    "title": "DAYS",
+    "authors": [
+      "安田 剛士"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2013-07-17",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12346024/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8984/9784063848984_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784569704159",
+    "title": "松明は自分の手で",
+    "authors": [
+      "藤沢武夫"
+    ],
+    "publisher": "PHP研究所",
+    "publishedAt": "2009-02"
+  },
+  {
+    "isbn13": "9784576190822",
+    "title": "プレミアリーグ サッカー戦術進化論",
+    "authors": [
+      "マイケル・コックス",
+      "田邊雅之"
+    ],
+    "publisher": "二見書房",
+    "publishedAt": "2019-06"
+  },
+  {
+    "isbn13": "9784054066137",
+    "title": "宇宙兄弟 「完璧なリーダー」は、もういらない。",
+    "authors": [
+      "長尾彰"
+    ],
+    "publisher": "学研プラス",
+    "publishedAt": "2018-04"
+  },
+  {
+    "isbn13": "9784532317676",
+    "title": "WHYから始めよ！",
+    "authors": [
+      "サイモン・シネック",
+      "栗木さつき"
+    ],
+    "publisher": "日経BPM（日本経済新聞出版本部）",
+    "publishedAt": "2012-01",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11466366/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7676/9784532317676.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784828421636",
+    "title": "ムダとり時間術",
+    "authors": [
+      "井上裕之"
+    ],
+    "publisher": "ビジネス社",
+    "publishedAt": "2020-02",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16191273/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1636/9784828421636.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784863940406",
+    "title": "7つの習慣最優先事項",
+    "authors": [
+      "スティーヴン・R．コヴィー",
+      "A．ロジャー・メリル"
+    ],
+    "publisher": "FCE（キングベアー出版）",
+    "publishedAt": "2015-08",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/13378708/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0406/9784863940406.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784763136879",
+    "title": "スタンフォード式疲れない体",
+    "authors": [
+      "山田知生"
+    ],
+    "publisher": "サンマーク出版",
+    "publishedAt": "2018-05",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/15459064/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6879/9784763136879.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784816353260",
+    "title": "プロが教える　筋肉のしくみ・はたらきパーフェクト事典",
+    "authors": [
+      "石井 直方",
+      "荒川 裕志"
+    ],
+    "publisher": "ナツメ社",
+    "publishedAt": "2012-11",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/12056183/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3260/9784816353260_1_3.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062814614",
+    "title": "トレーニングをする前に読む本──最新スポーツ生理学と効率的カラダづくり",
+    "authors": [
+      "石井 直方"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2012-02-21",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/11574049/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4614/9784062814614.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784103500834",
+    "title": "神の悪手",
+    "authors": [
+      "芦沢 央"
+    ],
+    "publisher": "新潮社",
+    "publishedAt": "2021-05-20",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/16711201/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0834/9784103500834_1_5.jpg?_ex=400x400",
+    "coverSource": "rakuten"
+  },
+  {
+    "isbn13": "9784062100083",
+    "title": "聖の青春",
+    "authors": [
+      "大崎 善生"
+    ],
+    "publisher": "講談社",
+    "publishedAt": "2000-02-18",
+    "rakutenUrl": "https://books.rakuten.co.jp/rb/1132871/",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0621/06210008.jpg?_ex=400x400",
+    "coverSource": "rakuten"
   }
 ]

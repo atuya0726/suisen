@@ -1,0 +1,1527 @@
+{
+  "people": [
+    {
+      "id": "tabe-mikako",
+      "name": "多部未華子",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "arimura-kasumi",
+      "name": "有村架純",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "suzuki-ryohei",
+      "name": "鈴木亮平",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "takahashi-issei",
+      "name": "高橋一生",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "ayase-haruka",
+      "name": "綾瀬はるか",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "sakaguchi-kentaro",
+      "name": "坂口健太郎",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "non",
+      "name": "のん",
+      "title": "俳優・創作あーちすと",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tsuchiya-tao",
+      "name": "土屋太鳳",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "nakazawa-yuji",
+      "name": "中澤佑二",
+      "kana": "なかざわゆうじ",
+      "title": "元サッカー日本代表",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "nanami-hiroshi",
+      "name": "名波浩",
+      "kana": "ななみひろし",
+      "title": "元サッカー日本代表",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "suzuki-keita",
+      "name": "鈴木啓太",
+      "kana": "すずきけいた",
+      "title": "元サッカー日本代表・実業家",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "iwamasa-daiki",
+      "name": "岩政大樹",
+      "kana": "いわまさだいき",
+      "title": "元サッカー日本代表",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "maeda-daizen",
+      "name": "前田大然",
+      "kana": "まえだだいぜん",
+      "title": "サッカー選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "iwao-ken",
+      "name": "岩尾憲",
+      "kana": "いわおけん",
+      "title": "サッカー選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "taneichi-atsuki",
+      "name": "種市篤暉",
+      "kana": "たねいちあつき",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "yasuda-hisanori",
+      "name": "安田尚憲",
+      "kana": "やすだひさのり",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "sasaki-roki",
+      "name": "佐々木朗希",
+      "kana": "ささきろうき",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "habu-yoshiharu",
+      "name": "羽生善治",
+      "kana": "はぶよしはる",
+      "title": "将棋棋士",
+      "tags": []
+    },
+    {
+      "id": "nakamura-taichi",
+      "name": "中村太地",
+      "kana": "なかむらたいち",
+      "title": "将棋棋士",
+      "tags": []
+    },
+    {
+      "id": "miura-yuichiro",
+      "name": "三浦雄一郎",
+      "kana": "みうらゆういちろう",
+      "title": "プロスキーヤー・登山家",
+      "tags": [
+        "スポーツ選手"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "ginger-tabebooks-1",
+      "type": "article",
+      "media": "GINGER",
+      "title": "“自分らしさ”の見つけ方は？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20171223-tabebooks",
+      "publishedAt": "2017-12-23"
+    },
+    {
+      "id": "ginger-tabebooks-2",
+      "type": "article",
+      "media": "GINGER",
+      "title": "1日の終わりは､前向きな気持ちで～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180126-tabebooks-2",
+      "publishedAt": "2018-01-26"
+    },
+    {
+      "id": "ginger-tabebooks-3",
+      "type": "article",
+      "media": "GINGER",
+      "title": "自分も努力しないと､と思わせてくれる男性が好き～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180228-tabebooks-3",
+      "publishedAt": "2018-02-28"
+    },
+    {
+      "id": "ginger-tabebooks-4",
+      "type": "article",
+      "media": "GINGER",
+      "title": "今の勝ち負けでなく“人生”で物事をとらえる～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180331-tabebooks-4",
+      "publishedAt": "2018-03-31"
+    },
+    {
+      "id": "ginger-tabebooks-5",
+      "type": "article",
+      "media": "GINGER",
+      "title": "ひとり旅って出会いがありそう!?～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180430-tabebooks-5",
+      "publishedAt": "2018-04-30"
+    },
+    {
+      "id": "ginger-tabebooks-6",
+      "type": "article",
+      "media": "GINGER",
+      "title": "身近なモノゴトに幸せを感じて～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180530-tabebooks-6",
+      "publishedAt": "2018-05-30"
+    },
+    {
+      "id": "ginger-tabebooks-7",
+      "type": "article",
+      "media": "GINGER",
+      "title": "恋をして､新しい感情に出合いたい～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180624-tabebooks-7",
+      "publishedAt": "2018-06-24"
+    },
+    {
+      "id": "ginger-tabebooks-8",
+      "type": "article",
+      "media": "GINGER",
+      "title": "どんな美容法にも勝ることとは？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180801-tabebooks-8",
+      "publishedAt": "2018-08-01"
+    },
+    {
+      "id": "ginger-tabebooks-9",
+      "type": "article",
+      "media": "GINGER",
+      "title": "ノスタルジックに浸りたい！～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20180902-tabebooks-9",
+      "publishedAt": "2018-09-02"
+    },
+    {
+      "id": "ginger-tabebooks-10",
+      "type": "article",
+      "media": "GINGER",
+      "title": "多方面から物事を捉える！～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20181004-tabebooks-10",
+      "publishedAt": "2018-10-04"
+    },
+    {
+      "id": "ginger-tabebooks-11",
+      "type": "article",
+      "media": "GINGER",
+      "title": "面白くてイライラ!?一日で一気読み！～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20181030-tabebooks-11",
+      "publishedAt": "2018-10-30"
+    },
+    {
+      "id": "ginger-tabebooks-12",
+      "type": "article",
+      "media": "GINGER",
+      "title": "掃除の仕方にも自分らしさが出る！～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20181127-tabebooks-12",
+      "publishedAt": "2018-11-27"
+    },
+    {
+      "id": "ginger-tabebooks-13",
+      "type": "article",
+      "media": "GINGER",
+      "title": "歩んできた道を振り返ることも大事～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190102-tabebooks-13",
+      "publishedAt": "2019-01-02"
+    },
+    {
+      "id": "ginger-tabebooks-14",
+      "type": "article",
+      "media": "GINGER",
+      "title": "言葉ひとつひとつを大切に～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190131-tabebooks-14",
+      "publishedAt": "2019-01-31"
+    },
+    {
+      "id": "ginger-tabebooks-15",
+      "type": "article",
+      "media": "GINGER",
+      "title": "比べたり焦ったりしない～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190306-tabebooks-15",
+      "publishedAt": "2019-03-06"
+    },
+    {
+      "id": "ginger-tabebooks-16",
+      "type": "article",
+      "media": "GINGER",
+      "title": "大切なことを考えるきっかけに～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190331-tabebooks-16",
+      "publishedAt": "2019-03-31"
+    },
+    {
+      "id": "ginger-tabebooks-17",
+      "type": "article",
+      "media": "GINGER",
+      "title": "慌てて読まず､じっくりと！～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190501-tabebooks-17",
+      "publishedAt": "2019-05-01"
+    },
+    {
+      "id": "ginger-tabebooks-18",
+      "type": "article",
+      "media": "GINGER",
+      "title": "何度読み返しても､絶対に夢中になれる本とは？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190530-tabebooks-18",
+      "publishedAt": "2019-05-30"
+    },
+    {
+      "id": "ginger-tabebooks-19",
+      "type": "article",
+      "media": "GINGER",
+      "title": "大きな夢を持つと､宇宙に行ける？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190630-tabebooks-19",
+      "publishedAt": "2019-06-30"
+    },
+    {
+      "id": "ginger-tabebooks-20",
+      "type": "article",
+      "media": "GINGER",
+      "title": "結婚したい！と思ったところで､何をしたらいいのか？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190730-tabebooks-20",
+      "publishedAt": "2019-07-30"
+    },
+    {
+      "id": "ginger-tabebooks-21",
+      "type": "article",
+      "media": "GINGER",
+      "title": "女として生まれた以上､永久に逃れられない!? ～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20190826-tabebooks-21",
+      "publishedAt": "2019-08-26"
+    },
+    {
+      "id": "ginger-tabebooks-23",
+      "type": "article",
+      "media": "GINGER",
+      "title": "心に留まる言葉がたくさん詰まった1冊～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20191103-tabebooks-23",
+      "publishedAt": "2019-11-03"
+    },
+    {
+      "id": "ginger-tabebooks-24",
+      "type": "article",
+      "media": "GINGER",
+      "title": "心がぎゅっとしたり､少し苦しくなる～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20191204-tabebooks-24",
+      "publishedAt": "2019-12-04"
+    },
+    {
+      "id": "ginger-tabebooks-25",
+      "type": "article",
+      "media": "GINGER",
+      "title": "愛の形は､自分が思うように作っていけばいい～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200107-tabebooks-25",
+      "publishedAt": "2020-01-07"
+    },
+    {
+      "id": "ginger-tabebooks-26",
+      "type": "article",
+      "media": "GINGER",
+      "title": "怖さと不気味さ｡え！どういうこと !? こわっ ～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200130-tabebooks-26",
+      "publishedAt": "2020-01-30"
+    },
+    {
+      "id": "ginger-tabebooks-27",
+      "type": "article",
+      "media": "GINGER",
+      "title": "おぉ･･･言葉の力ってすごいなぁ～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200303-tabebooks-27",
+      "publishedAt": "2020-03-03"
+    },
+    {
+      "id": "ginger-tabebooks-28",
+      "type": "article",
+      "media": "GINGER",
+      "title": "別れ対策｡時間が過ぎるのを待つしかない～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200414-tabebooks-28",
+      "publishedAt": "2020-04-14"
+    },
+    {
+      "id": "ginger-tabebooks-29",
+      "type": "article",
+      "media": "GINGER",
+      "title": "今を大切に､一緒にいる時間を愛情たっぷりに ～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200520-tabebooks-29",
+      "publishedAt": "2020-05-20"
+    },
+    {
+      "id": "ginger-tabebooks-30",
+      "type": "article",
+      "media": "GINGER",
+      "title": "女の色気とは？何から生まれるのか？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200716-tabebooks-30",
+      "publishedAt": "2020-07-16"
+    },
+    {
+      "id": "ginger-tabebooks-31",
+      "type": "article",
+      "media": "GINGER",
+      "title": "生涯でもう一度食べたい､衝撃的な感動～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200812-tabebooks-31",
+      "publishedAt": "2020-08-12"
+    },
+    {
+      "id": "ginger-tabebooks-32",
+      "type": "article",
+      "media": "GINGER",
+      "title": "心が弱っているときは､この本を手に取って～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20200915-tabebooks-32",
+      "publishedAt": "2020-09-15"
+    },
+    {
+      "id": "ginger-tabebooks-33",
+      "type": "article",
+      "media": "GINGER",
+      "title": "好きな人との思い出はすべてがキラキラする～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20201005-tabebooks-33",
+      "publishedAt": "2020-10-05"
+    },
+    {
+      "id": "ginger-tabebooks-34",
+      "type": "article",
+      "media": "GINGER",
+      "title": "いつもの日常のなかで､幸せを感じるには？～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20201115-tabebooks-34",
+      "publishedAt": "2020-11-15"
+    },
+    {
+      "id": "ginger-tabebooks-35",
+      "type": "article",
+      "media": "GINGER",
+      "title": "ハラハラドキドキするのが好き！～多部未華子の読書案内",
+      "url": "https://gingerweb.jp/timeless/person/article/20201218-tabebooks-35",
+      "publishedAt": "2020-12-18"
+    },
+    {
+      "id": "ginger-tabebooks-36",
+      "type": "article",
+      "media": "GINGER",
+      "title": "どんな経験もいつの日か笑い話に【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/person/article/20210112-tabebooks-36",
+      "publishedAt": "2021-01-12"
+    },
+    {
+      "id": "ginger-tabebooks-37",
+      "type": "article",
+      "media": "GINGER",
+      "title": "世界で起きている出来事を知ることは､とても大切【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210220-tabebooks-37",
+      "publishedAt": "2021-02-20"
+    },
+    {
+      "id": "ginger-tabebooks-38",
+      "type": "article",
+      "media": "GINGER",
+      "title": "ほっこりタイムが欲しい方にぴったりの小説【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/person/article/20210316-tabebooks-38",
+      "publishedAt": "2021-03-16"
+    },
+    {
+      "id": "ginger-tabebooks-39",
+      "type": "article",
+      "media": "GINGER",
+      "title": "相手を思う時間の重みに､胸がキュン！【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210420-tabebooks-39",
+      "publishedAt": "2021-04-20"
+    },
+    {
+      "id": "ginger-tabebooks-40",
+      "type": "article",
+      "media": "GINGER",
+      "title": "騙しの名作!?読後に答え合わせをしたくなる【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210518-tabebooks-40",
+      "publishedAt": "2021-05-18"
+    },
+    {
+      "id": "ginger-tabebooks-41",
+      "type": "article",
+      "media": "GINGER",
+      "title": "私の“好き”が詰まってる！ 面白くないわけがない！【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210615-tabebooks-41",
+      "publishedAt": "2021-06-15"
+    },
+    {
+      "id": "ginger-tabebooks-42",
+      "type": "article",
+      "media": "GINGER",
+      "title": "大人の友情って...？理想の関係がわかった！【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210720-tabebooks-42",
+      "publishedAt": "2021-07-20"
+    },
+    {
+      "id": "ginger-tabebooks-43",
+      "type": "article",
+      "media": "GINGER",
+      "title": "共感の嵐…！30代女性が抱えるお悩みに寄り添う【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210817-tabebooks-43",
+      "publishedAt": "2021-08-17"
+    },
+    {
+      "id": "ginger-tabebooks-44",
+      "type": "article",
+      "media": "GINGER",
+      "title": "無敵環境で生きるのだ！【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20210914-tabebooks-44",
+      "publishedAt": "2021-09-14"
+    },
+    {
+      "id": "ginger-tabebooks-45",
+      "type": "article",
+      "media": "GINGER",
+      "title": "どこに行っても恥ずかしくない大人に！【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20211019-tabebooks-45",
+      "publishedAt": "2021-10-19"
+    },
+    {
+      "id": "ginger-tabebooks-46",
+      "type": "article",
+      "media": "GINGER",
+      "title": "大人になってわかる家族の優しい愛【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20211120-tabebooks-46",
+      "publishedAt": "2021-11-20"
+    },
+    {
+      "id": "ginger-tabebooks-47",
+      "type": "article",
+      "media": "GINGER",
+      "title": "“推し”はいますか？【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20220113-tabebooks-47",
+      "publishedAt": "2022-01-13"
+    },
+    {
+      "id": "ginger-tabebooks-48",
+      "type": "article",
+      "media": "GINGER",
+      "title": "心を激しく揺さぶられる没入体験【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20220118-tabebooks-48",
+      "publishedAt": "2022-01-18"
+    },
+    {
+      "id": "ginger-tabebooks-49",
+      "type": "article",
+      "media": "GINGER",
+      "title": "今からでも読んでおきたい！日本文学の“名作”【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20220219-tabebooks-49",
+      "publishedAt": "2022-02-19"
+    },
+    {
+      "id": "ginger-tabebooks-50",
+      "type": "article",
+      "media": "GINGER",
+      "title": "想いはラヴレターにのせて【多部未華子の読書案内】",
+      "url": "https://gingerweb.jp/timeless/living/hobby/20220315-tabebooks-50",
+      "publishedAt": "2022-03-15"
+    },
+    {
+      "id": "cinemacafe-arimura-20210125",
+      "type": "interview",
+      "media": "cinemacafe.net",
+      "title": "【インタビュー】有村架純、菅田将暉との共演で芽生えた責任感「自分たちが次の時代を作っていく」",
+      "url": "https://www.cinemacafe.net/article/2021/01/25/71040_2.html",
+      "publishedAt": "2021-01-25"
+    },
+    {
+      "id": "ameblo-suzuki-20140713",
+      "type": "sns",
+      "media": "鈴木亮平 オフィシャルブログ",
+      "title": "ホットロード完成披露試写",
+      "url": "https://ameblo.jp/suzuki-ryohei/entry-11893563859.html",
+      "publishedAt": "2014-07-13"
+    },
+    {
+      "id": "jisin-takahashi-20180325",
+      "type": "article",
+      "media": "女性自身",
+      "title": "高橋一生 愛読書の“カコさん”科学絵本が話題に",
+      "url": "https://jisin.jp/entertainment/entertainment-news/1615132/",
+      "publishedAt": "2018-03-25"
+    },
+    {
+      "id": "otocoto-ayase-sakaguchi-20180130",
+      "type": "interview",
+      "media": "otocoto",
+      "title": "綾瀬はるか×坂口健太郎、初共演作で「ジーンとした」シーンとは？ 映画への想いから意外な愛読書までを明かす",
+      "url": "https://otocoto.jp/interview/romance-gekijo/3/",
+      "publishedAt": "2018-01-30"
+    },
+    {
+      "id": "shosetsumaru-non-20210327",
+      "type": "interview",
+      "media": "小説丸",
+      "title": "特別インタビュー▷のんの 「おいしい話」",
+      "url": "https://shosetsu-maru.com/sb_special/non",
+      "publishedAt": "2021-03-27"
+    },
+    {
+      "id": "rbbtoday-tsuchiya-20180714",
+      "type": "article",
+      "media": "RBB TODAY",
+      "title": "土屋太鳳、愛読書は芸術家・岡本太郎『自分の中に毒を持て』",
+      "url": "https://www.rbbtoday.com/article/2018/07/14/162038.html",
+      "publishedAt": "2018-07-14"
+    },
+    {
+      "id": "sportsnavi-nakazawa-reading-2020",
+      "type": "interview",
+      "media": "スポーツナビ",
+      "title": "中澤佑二、現役時代のバイブルは？　下手クソな主人公と自分を重ね合わせて",
+      "url": "https://sports.yahoo.co.jp/column/detail/202004220004-spnavi",
+      "publishedAt": "2020-04-23"
+    },
+    {
+      "id": "sportsnavi-nanami-reading-2020",
+      "type": "interview",
+      "media": "スポーツナビ",
+      "title": "名波浩と岬太郎「俺にピッタリでしょ」　例えるならマグロを生かす醤油やワサビ",
+      "url": "https://sports.yahoo.co.jp/column/detail/202004230003-spnavi",
+      "publishedAt": "2020-04-24"
+    },
+    {
+      "id": "sportsnavi-suzuki-reading-2020",
+      "type": "interview",
+      "media": "スポーツナビ",
+      "title": "鈴木啓太が“ボランチ”として共感!?　お気に入りの映画と本を5作紹介",
+      "url": "https://sports.yahoo.co.jp/column/detail/202005010013-spnavi",
+      "publishedAt": "2020-05-03"
+    },
+    {
+      "id": "sportsnavi-iwamasa-reading-2020",
+      "type": "interview",
+      "media": "スポーツナビ",
+      "title": "「ジブリの世界観や音楽が心に…」　岩政大樹の人生を変えた作品とは？",
+      "url": "https://sports.yahoo.co.jp/column/detail/202005090001-spnavi",
+      "publishedAt": "2020-05-12"
+    },
+    {
+      "id": "sportsnavi-iwamasa-reading-2020-2",
+      "type": "interview",
+      "media": "スポーツナビ",
+      "title": "「ジブリの世界観や音楽が心に…」　岩政大樹の人生を変えた作品とは？（2ページ目）",
+      "url": "https://sports.yahoo.co.jp/column/detail/202005090001-spnavi?p=2",
+      "publishedAt": "2020-05-12"
+    },
+    {
+      "id": "jfa-maeda-favorite-book-2020",
+      "type": "interview",
+      "media": "日本サッカー協会",
+      "title": "【私の好きな本】前田大然選手（CSマリティモ）～家族との時間が最良のリラックスタイム～",
+      "url": "https://www.jfa.jp/national_team/news/00024859/",
+      "publishedAt": "2020-05-05"
+    },
+    {
+      "id": "realsports-iwao-reading-2022",
+      "type": "interview",
+      "media": "REAL SPORTS",
+      "title": "サッカー選手には“読書”が必要？　浦和レッズ・岩尾憲が実践する「チームを一つにするメソッド」",
+      "url": "https://real-sports.jp/page/articles/629542701007635393/",
+      "publishedAt": "2022-03-07"
+    },
+    {
+      "id": "marines-player-reading-2020",
+      "type": "article",
+      "media": "千葉ロッテマリーンズ（スポーツナビ）",
+      "title": "ロッテの若手選手たちがハマる読書。種市、安田、佐々木朗希が今、読んでいる本は？",
+      "url": "https://sports.yahoo.co.jp/official/detail/202005130026-spnaviow",
+      "publishedAt": "2020-05-13"
+    },
+    {
+      "id": "shinchosha-kami-no-akute-habu",
+      "type": "article",
+      "media": "新潮社",
+      "title": "『神の悪手』芦沢央",
+      "url": "https://www.shinchosha.co.jp/book/350083/"
+    },
+    {
+      "id": "slownews-nakamura-satoshi-2021",
+      "type": "interview",
+      "media": "SlowNews",
+      "title": "棋士・中村太地が語る「AI将棋の時代だからこそ読みたい『聖の青春』の魅力」",
+      "url": "https://slownews.com/n/nbca8f4ba9431",
+      "publishedAt": "2021-12-16"
+    },
+    {
+      "id": "postseven-miura-musashi-2019",
+      "type": "interview",
+      "media": "NEWSポストセブン",
+      "title": "松井秀喜氏ら勝負師はなぜ宮本武蔵の生き様に惹かれるのか",
+      "url": "https://www.news-postseven.com/archives/20191116_1485462.html/2",
+      "publishedAt": "2019-11-16"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-1",
+      "book": {
+        "title": "エロイーズ",
+        "author": "ペネロープ・バジュー",
+        "publisher": "DU BOOKS",
+        "subtitle": "本当のワタシを探して"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-2",
+      "book": {
+        "title": "一週間で女を磨く本",
+        "author": "浅野裕子",
+        "publisher": "三笠書房",
+        "subtitle": "「うれしい変化」が起こる63のヒント"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-3",
+      "book": {
+        "title": "あずきちゃん",
+        "author": "木村千歌",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-3",
+      "book": {
+        "title": "こどものおもちゃ",
+        "author": "小花美穂",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-4",
+      "book": {
+        "title": "風が強く吹いている",
+        "author": "三浦しをん",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-5",
+      "book": {
+        "title": "美しいものを見に行くツアーひとり参加",
+        "author": "益田ミリ",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-6",
+      "book": {
+        "title": "半径66センチのしあわせ",
+        "author": "堀川波",
+        "publisher": "サンマーク出版"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-7",
+      "book": {
+        "title": "恋のかけら",
+        "author": "唯川恵",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-8",
+      "book": {
+        "title": "大人女子のための睡眠パーフェクトブック",
+        "author": "友野なお",
+        "publisher": "大和書房"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-9",
+      "book": {
+        "title": "フジコ・ヘミング 14歳の夏休み絵日記",
+        "author": "フジコ・ヘミング",
+        "publisher": "暮しの手帖社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-10",
+      "book": {
+        "title": "世界を変えた10人の女性",
+        "author": "池上彰",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-11",
+      "book": {
+        "title": "絶対正義",
+        "author": "秋吉理香子",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-12",
+      "book": {
+        "title": "部屋とこころのシンプルな掃除",
+        "author": "ドミニック・ローホー",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-13",
+      "book": {
+        "title": "もしもし下北沢",
+        "author": "よしもとばなな",
+        "publisher": "幻冬舎",
+        "edition": "幻冬舎文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-14",
+      "book": {
+        "title": "日本の大和言葉を美しく話す",
+        "author": "高橋こうじ",
+        "publisher": "東邦出版",
+        "subtitle": "こころが通じる和の表現"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-15",
+      "book": {
+        "title": "本日は大安なり",
+        "author": "辻村深月",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-16",
+      "book": {
+        "title": "独り舞",
+        "author": "李琴峰",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-17",
+      "book": {
+        "title": "東京會舘とわたし 上",
+        "author": "辻村深月",
+        "publisher": "毎日新聞出版",
+        "edition": "旧館・上巻",
+        "subtitle": "旧館"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-18",
+      "book": {
+        "title": "秘密",
+        "author": "東野圭吾",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-18",
+      "book": {
+        "title": "白夜行",
+        "author": "東野圭吾",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-19",
+      "book": {
+        "title": "ビッグ・クエスチョン",
+        "author": "スティーヴン・ホーキング",
+        "publisher": "NHK出版",
+        "subtitle": "〈人類の難問〉に答えよう"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-20",
+      "book": {
+        "title": "あのこは貴族",
+        "author": "山内マリコ",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-21",
+      "book": {
+        "title": "女子の人間関係",
+        "author": "水島広子",
+        "publisher": "サンクチュアリ出版"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-23",
+      "book": {
+        "title": "砂漠",
+        "author": "伊坂幸太郎",
+        "publisher": "実業之日本社",
+        "edition": "実業之日本社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-24",
+      "book": {
+        "title": "茨木のり子詩集",
+        "author": "茨木のり子",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-25",
+      "book": {
+        "title": "きみはポラリス",
+        "author": "三浦しをん",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-26",
+      "book": {
+        "title": "夜行",
+        "author": "森見登美彦",
+        "publisher": "小学館",
+        "edition": "小学館文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-27",
+      "book": {
+        "title": "本日は、お日柄もよく",
+        "author": "原田マハ",
+        "publisher": "徳間書店",
+        "edition": "徳間文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-28",
+      "book": {
+        "title": "太陽のパスタ、豆のスープ",
+        "author": "宮下奈都",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-29",
+      "book": {
+        "title": "つめたいよるに",
+        "author": "江國香織",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-30",
+      "book": {
+        "title": "肩ごしの恋人",
+        "author": "唯川恵",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-31",
+      "book": {
+        "title": "皿の中に、イタリア",
+        "author": "内田洋子",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-32",
+      "book": {
+        "title": "＋1cm",
+        "author": "キム・ウンジュ",
+        "publisher": "文響社",
+        "subtitle": "たった1cmの差があなたの世界をがらりと変える"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-33",
+      "book": {
+        "title": "明け方の若者たち",
+        "author": "カツセマサヒコ",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-34",
+      "book": {
+        "title": "びんぼう草",
+        "author": "群ようこ",
+        "publisher": "角川春樹事務所",
+        "edition": "ハルキ文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-35",
+      "book": {
+        "title": "medium 霊媒探偵城塚翡翠",
+        "author": "相沢沙呼",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-36",
+      "book": {
+        "title": "また明日",
+        "author": "群ようこ",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-37",
+      "book": {
+        "title": "ぼくはイエローでホワイトで、ちょっとブルー",
+        "author": "ブレイディみかこ",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-38",
+      "book": {
+        "title": "百貨の魔法",
+        "author": "村山早紀",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-39",
+      "book": {
+        "title": "向田邦子の恋文",
+        "author": "向田和子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-40",
+      "book": {
+        "title": "弁護側の証人",
+        "author": "小泉喜美子",
+        "publisher": "集英社",
+        "edition": "集英社文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-41",
+      "book": {
+        "title": "BUTTER",
+        "author": "柚木麻子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-42",
+      "book": {
+        "title": "ふたりはともだち",
+        "author": "アーノルド・ローベル",
+        "publisher": "文化出版局"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-43",
+      "book": {
+        "title": "自転しながら公転する",
+        "author": "山本文緒",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-44",
+      "book": {
+        "title": "家にいるのに家に帰りたい",
+        "author": "クォン・ラビン",
+        "publisher": "辰巳出版"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-45",
+      "book": {
+        "title": "ティファニーのテーブルマナー",
+        "author": "ウォルター・ホービング",
+        "publisher": "鹿島出版会"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-46",
+      "book": {
+        "title": "月の砂漠をさばさばと",
+        "author": "北村薫",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-47",
+      "book": {
+        "title": "推し、燃ゆ",
+        "author": "宇佐見りん",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-48",
+      "book": {
+        "title": "雷神",
+        "author": "道尾秀介",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-49",
+      "book": {
+        "title": "雪国",
+        "author": "川端康成",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-50",
+      "book": {
+        "title": "ラヴレターズ",
+        "author": "川上未映子",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "tabe-mikako",
+      "sourceId": "ginger-tabebooks-41",
+      "book": {
+        "title": "ナイルパーチの女子会",
+        "author": "柚木麻子",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "arimura-kasumi",
+      "sourceId": "cinemacafe-arimura-20210125",
+      "book": {
+        "title": "日日是好日",
+        "author": "森下典子",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "suzuki-ryohei",
+      "sourceId": "ameblo-suzuki-20140713",
+      "book": {
+        "title": "20代で始める「夢設計図」",
+        "author": "熊谷正寿",
+        "publisher": "大和書房"
+      },
+      "context": "人生を変えた一冊"
+    },
+    {
+      "personId": "takahashi-issei",
+      "sourceId": "jisin-takahashi-20180325",
+      "book": {
+        "title": "地球 その中をさぐろう",
+        "author": "加古里子",
+        "publisher": "福音館書店"
+      },
+      "note": "フジテレビ「ボクらの時代」2018年3月25日放送"
+    },
+    {
+      "personId": "ayase-haruka",
+      "sourceId": "otocoto-ayase-sakaguchi-20180130",
+      "book": {
+        "title": "ときめきトゥナイト",
+        "author": "池野恋",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ayase-haruka",
+      "sourceId": "otocoto-ayase-sakaguchi-20180130",
+      "book": {
+        "title": "浦安鉄筋家族",
+        "author": "浜岡賢次",
+        "publisher": "秋田書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "sakaguchi-kentaro",
+      "sourceId": "otocoto-ayase-sakaguchi-20180130",
+      "book": {
+        "title": "さむがりやのサンタ",
+        "author": "レイモンド・ブリッグズ、すがはらひろくに",
+        "publisher": "福音館書店"
+      }
+    },
+    {
+      "personId": "non",
+      "sourceId": "shosetsumaru-non-20210327",
+      "book": {
+        "title": "氷の海のガレオン／オルタ",
+        "author": "木地雅映子",
+        "publisher": "ポプラ社",
+        "edition": "ポプラ文庫ピュアフル"
+      }
+    },
+    {
+      "personId": "tsuchiya-tao",
+      "sourceId": "rbbtoday-tsuchiya-20180714",
+      "book": {
+        "title": "自分の中に毒を持て",
+        "author": "岡本太郎",
+        "publisher": "青春出版社",
+        "edition": "青春文庫"
+      },
+      "note": "TBS「王様のブランチ」2018年7月14日放送"
+    },
+    {
+      "personId": "nakazawa-yuji",
+      "sourceId": "sportsnavi-nakazawa-reading-2020",
+      "book": {
+        "title": "SLAM DUNK",
+        "author": "井上 雄彦",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "nakazawa-yuji",
+      "sourceId": "sportsnavi-nakazawa-reading-2020",
+      "book": {
+        "title": "DAYS",
+        "author": "安田 剛士",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "nanami-hiroshi",
+      "sourceId": "sportsnavi-nanami-reading-2020",
+      "book": {
+        "title": "キャプテン翼",
+        "author": "高橋 陽一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "nanami-hiroshi",
+      "sourceId": "sportsnavi-nanami-reading-2020",
+      "book": {
+        "title": "キャプテン",
+        "author": "ちばあきお",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "suzuki-keita",
+      "sourceId": "sportsnavi-suzuki-reading-2020",
+      "book": {
+        "title": "松明は自分の手で",
+        "author": "藤沢武夫",
+        "publisher": "PHP研究所"
+      }
+    },
+    {
+      "personId": "iwamasa-daiki",
+      "sourceId": "sportsnavi-iwamasa-reading-2020",
+      "book": {
+        "title": "オーデュボンの祈り",
+        "author": "伊坂 幸太郎",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "iwamasa-daiki",
+      "sourceId": "sportsnavi-iwamasa-reading-2020-2",
+      "book": {
+        "title": "命売ります",
+        "author": "三島 由紀夫",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "iwamasa-daiki",
+      "sourceId": "sportsnavi-iwamasa-reading-2020-2",
+      "book": {
+        "title": "世界標準の経営理論",
+        "author": "入山 章栄",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "iwamasa-daiki",
+      "sourceId": "sportsnavi-iwamasa-reading-2020-2",
+      "book": {
+        "title": "プレミアリーグ サッカー戦術進化論",
+        "author": "マイケル・コックス",
+        "publisher": "二見書房"
+      }
+    },
+    {
+      "personId": "maeda-daizen",
+      "sourceId": "jfa-maeda-favorite-book-2020",
+      "book": {
+        "title": "いないいないばあ",
+        "author": "松谷 みよ子",
+        "publisher": "童心社"
+      }
+    },
+    {
+      "personId": "iwao-ken",
+      "sourceId": "realsports-iwao-reading-2022",
+      "book": {
+        "title": "宇宙兄弟 「完璧なリーダー」は、もういらない。",
+        "author": "長尾彰",
+        "publisher": "学研プラス"
+      }
+    },
+    {
+      "personId": "iwao-ken",
+      "sourceId": "realsports-iwao-reading-2022",
+      "book": {
+        "title": "WHYから始めよ！",
+        "author": "サイモン・シネック",
+        "publisher": "日経BPM（日本経済新聞出版本部）"
+      }
+    },
+    {
+      "personId": "iwao-ken",
+      "sourceId": "realsports-iwao-reading-2022",
+      "book": {
+        "title": "多様性の科学",
+        "author": "マシュー・サイド",
+        "publisher": "ディスカヴァー・トゥエンティワン",
+        "subtitle": "画一的で凋落する組織、複数の視点で問題を解決する組織"
+      }
+    },
+    {
+      "personId": "taneichi-atsuki",
+      "sourceId": "marines-player-reading-2020",
+      "book": {
+        "title": "ムダとり時間術",
+        "author": "井上裕之",
+        "publisher": "ビジネス社"
+      }
+    },
+    {
+      "personId": "taneichi-atsuki",
+      "sourceId": "marines-player-reading-2020",
+      "book": {
+        "title": "7つの習慣 最優先事項",
+        "author": "スティーヴン・R．コヴィー",
+        "publisher": "FCE（キングベアー出版）"
+      }
+    },
+    {
+      "personId": "yasuda-hisanori",
+      "sourceId": "marines-player-reading-2020",
+      "book": {
+        "title": "スタンフォード式 疲れない体",
+        "author": "山田知生",
+        "publisher": "サンマーク出版"
+      }
+    },
+    {
+      "personId": "sasaki-roki",
+      "sourceId": "marines-player-reading-2020",
+      "book": {
+        "title": "プロが教える 筋肉のしくみ・はたらきパーフェクト事典",
+        "author": "荒川裕志",
+        "publisher": "ナツメ社"
+      }
+    },
+    {
+      "personId": "sasaki-roki",
+      "sourceId": "marines-player-reading-2020",
+      "book": {
+        "title": "トレーニングをする前に読む本",
+        "author": "石井 直方",
+        "publisher": "講談社",
+        "subtitle": "最新スポーツ生理学と効率的カラダづくり"
+      }
+    },
+    {
+      "personId": "habu-yoshiharu",
+      "sourceId": "shinchosha-kami-no-akute-habu",
+      "book": {
+        "title": "神の悪手",
+        "author": "芦沢 央",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "nakamura-taichi",
+      "sourceId": "slownews-nakamura-satoshi-2021",
+      "book": {
+        "title": "聖の青春",
+        "author": "大崎善生",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "miura-yuichiro",
+      "sourceId": "postseven-miura-musashi-2019",
+      "book": {
+        "title": "宮本武蔵",
+        "author": "吉川 英治",
+        "publisher": "新潮社",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://gingerweb.jp/tag/book-concierge",
+      "result": "index",
+      "reason": "多部未華子本人の推薦連載を掲載。目次の全5ページに49記事。vol.22は目次に掲載なし",
+      "person": "多部未華子"
+    },
+    {
+      "url": "https://www.tv-tokyo.co.jp/kaisha/pdf/130228_1.pdf",
+      "result": "rejected",
+      "reason": "robots.txt（anthropic-ai を拒否）",
+      "person": "満島ひかり"
+    },
+    {
+      "url": "https://www.fujingaho.jp/culture/celebrity/a41182053/kuroyanagi-tetsuko-220917/",
+      "result": "rejected",
+      "reason": "robots.txt（anthropic-ai を拒否）",
+      "person": "黒柳徹子"
+    },
+    {
+      "url": "https://www.elle.com/jp/culture/movie-tv/a74281126/masami-nagasawa-shizuka-ishibashi-202611/",
+      "result": "rejected",
+      "reason": "robots.txt（anthropic-ai を拒否）",
+      "person": "長澤まさみ"
+    },
+    {
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/archive.html",
+      "result": "index",
+      "reason": "J-WAVE公式番組のアーカイブ。BOOK SHARINGコーナーの各放送回に著名人本人の選書を掲載"
+    },
+    {
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230819.html",
+      "result": "candidate",
+      "reason": "本人紹介の『氷の海のガレオン』は小説丸のインタビューを採用したため重複見送り",
+      "person": "のん"
+    },
+    {
+      "url": "https://sports.yahoo.co.jp/contents/7334",
+      "result": "index",
+      "reason": "連載を確認し、本人が本を挙げて評価する個別記事を採用"
+    },
+    {
+      "url": "https://hochi.news/articles/20250202-OHT1T51210.html",
+      "result": "rejected",
+      "reason": "robots.txt で AI クローラーが拒否されている",
+      "person": "羽生結弦"
+    }
+  ]
+}
