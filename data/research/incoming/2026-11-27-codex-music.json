@@ -1,0 +1,247 @@
+{
+  "people": [
+    {
+      "id": "utada",
+      "name": "宇多田ヒカル",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "aina",
+      "name": "アイナ・ジ・エンド",
+      "title": "歌手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "shiina",
+      "name": "椎名林檎",
+      "title": "音楽家",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "hikki-2000-05-06",
+      "type": "article",
+      "media": "宇多田ヒカル公式サイト MESSAGE from Hikki",
+      "title": "あっそーだ",
+      "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/from-hikki/index_101.html",
+      "publishedAt": "2000-05-06"
+    },
+    {
+      "id": "hikki-1999-03-11",
+      "type": "article",
+      "media": "宇多田ヒカル公式サイト MESSAGE from Hikki",
+      "title": "大好き",
+      "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/from-hikki/index_120.html",
+      "publishedAt": "1999-03-11"
+    },
+    {
+      "id": "hikki-2002-03-19",
+      "type": "article",
+      "media": "宇多田ヒカル公式サイト MESSAGE from Hikki",
+      "title": "☆やっぱり漫画は良い☆",
+      "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/from-hikki/index_87.html",
+      "publishedAt": "2002-03-19"
+    },
+    {
+      "id": "numero-2018-08-13-utada",
+      "type": "interview",
+      "media": "Numero TOKYO",
+      "title": "宇多田ヒカル、デビュー20周年で迎えた“二度目の初恋”",
+      "url": "https://numero.jp/interview103_1/",
+      "publishedAt": "2018-08-13"
+    },
+    {
+      "id": "rockinon-2018-07-06-utada",
+      "type": "article",
+      "media": "rockinon.com",
+      "title": "宇多田ヒカルはなぜ時代を歌わず人々の心に寄り添うのか――『SONGS スペシャル』を観て",
+      "url": "https://rockinon.com/news/detail/177815",
+      "publishedAt": "2018-07-06"
+    },
+    {
+      "id": "tfm-2021-05-17-aina",
+      "type": "article",
+      "media": "TOKYO FM SCHOOL OF LOCK! アイナLOCKS!",
+      "title": "アイナ先生が生徒ちゃんにおすすめしたい本",
+      "url": "https://www.tfm.co.jp/lock/aina/index.php@itemid=16803&catid=182.html",
+      "publishedAt": "2021-05-17"
+    },
+    {
+      "id": "tfm-2021-10-04-aina",
+      "type": "article",
+      "media": "TOKYO FM SCHOOL OF LOCK! アイナLOCKS!",
+      "title": "アイナ先生がこの秋おすすめの本を紹介！なぜかおすすめのラーメン屋も募集しちゃう？！",
+      "url": "https://www.tfm.co.jp/lock/aina/index.php@itemid=17606&catid=182.html",
+      "publishedAt": "2021-10-04"
+    },
+    {
+      "id": "tfm-2022-04-04-aina",
+      "type": "article",
+      "media": "TOKYO FM SCHOOL OF LOCK! アイナLOCKS!",
+      "title": "アイナLOCKS! 新年度授業説明会 ～今週は“お花見授業WEEK”～",
+      "url": "https://www.tfm.co.jp/lock/aina/index.php@itemid=18675&catid=182.html",
+      "publishedAt": "2022-04-04"
+    },
+    {
+      "id": "shincho-2020-06-15-shiina",
+      "type": "article",
+      "media": "新潮文庫メール",
+      "title": "椎名林檎さんも絶賛した、大重版の恋愛小説がついに文庫化！ 『1ミリの後悔もない、はずがない』",
+      "url": "https://www.shinchosha.co.jp/bunko/blog/2020/06/15_2.html",
+      "publishedAt": "2020-06-15"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "utada",
+      "sourceId": "hikki-2000-05-06",
+      "book": {
+        "title": "深い河",
+        "author": "遠藤周作"
+      },
+      "note": "掲載書誌は2021年の新装版"
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-2000-05-06",
+      "book": {
+        "title": "海と毒薬",
+        "author": "遠藤周作"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-1999-03-11",
+      "book": {
+        "title": "砂の女",
+        "author": "安部公房"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-1999-03-11",
+      "book": {
+        "title": "野火",
+        "author": "大岡昇平"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-2002-03-19",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-2002-03-19",
+      "book": {
+        "title": "サラリーマン金太郎",
+        "author": "本宮ひろ志",
+        "edition": "シリーズ",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "hikki-2002-03-19",
+      "book": {
+        "title": "はじめの一歩",
+        "author": "森川ジョージ",
+        "edition": "シリーズ",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "numero-2018-08-13-utada",
+      "book": {
+        "title": "名人は危うきに遊ぶ",
+        "author": "白洲正子",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "utada",
+      "sourceId": "rockinon-2018-07-06-utada",
+      "book": {
+        "title": "銀河鉄道の夜",
+        "author": "宮沢賢治"
+      },
+      "note": "NHK『SONGS スペシャル』2018年6月30日放送"
+    },
+    {
+      "personId": "aina",
+      "sourceId": "tfm-2021-05-17-aina",
+      "book": {
+        "title": "人間失格",
+        "author": "太宰治"
+      },
+      "note": "『アイナLOCKS!』2021年5月17日放送"
+    },
+    {
+      "personId": "aina",
+      "sourceId": "tfm-2021-05-17-aina",
+      "book": {
+        "title": "心のささえに",
+        "author": "大橋歩",
+        "publisher": "講談社"
+      },
+      "note": "『アイナLOCKS!』2021年5月17日放送"
+    },
+    {
+      "personId": "aina",
+      "sourceId": "tfm-2021-10-04-aina",
+      "book": {
+        "title": "あつかったら ぬげばいい",
+        "author": "ヨシタケシンスケ"
+      },
+      "note": "『アイナLOCKS!』2021年10月4日放送"
+    },
+    {
+      "personId": "aina",
+      "sourceId": "tfm-2022-04-04-aina",
+      "book": {
+        "title": "NARUTO",
+        "author": "岸本斉史",
+        "edition": "シリーズ"
+      },
+      "note": "『アイナLOCKS!』2022年4月4日放送"
+    },
+    {
+      "personId": "shiina",
+      "sourceId": "shincho-2020-06-15-shiina",
+      "book": {
+        "title": "1ミリの後悔もない、はずがない",
+        "author": "一木けい",
+        "edition": "新潮文庫",
+        "publisher": "新潮社"
+      },
+      "note": "文庫の帯に推薦コメント"
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.tfm.co.jp/lock/aina/index.php@itemid=17761.html",
+      "result": "rejected",
+      "reason": "今回の新規紹介はリスナーによる推薦",
+      "person": "アイナ・ジ・エンド"
+    },
+    {
+      "url": "https://toneglow.substack.com/p/tone-glow-164-hikaru-utada",
+      "result": "rejected",
+      "reason": "『職業としての小説家』は序文のみの読書、他は洋書や雑誌への言及",
+      "person": "宇多田ヒカル"
+    }
+  ]
+}

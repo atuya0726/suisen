@@ -1,0 +1,347 @@
+{
+  "people": [
+    {
+      "id": "miyake",
+      "name": "三宅香帆",
+      "title": "文芸評論家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "ochiai",
+      "name": "落合陽一",
+      "title": "メディアアーティスト",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "kuriyama",
+      "name": "栗山英樹",
+      "title": "野球指導者",
+      "tags": [
+        "スポーツ選手"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "miyake-very",
+      "type": "interview",
+      "media": "VERY",
+      "title": "【VERYの推薦図書】ベストセラー作家・三宅香帆さんの『ママが夢中になれる３冊』",
+      "url": "https://veryweb.jp/column/755258/",
+      "publishedAt": "2024-12-20"
+    },
+    {
+      "id": "miyake-kyoto-up",
+      "type": "interview",
+      "media": "京都大学新聞",
+      "title": "【卒業生インタビュー　京大出たあと、何したはるの？】Vol.4　書評家・作家　三宅香帆さん　批評を通して本の面白さを伝えたい",
+      "url": "https://www.kyoto-up.org/archives/7071",
+      "publishedAt": "2023-10-16"
+    },
+    {
+      "id": "miyake-kyujin-first",
+      "type": "article",
+      "media": "求人ボックスジャーナル",
+      "title": "三宅香帆が選ぶ、新生活にそっと寄り添う3冊",
+      "url": "https://xn--pckua2a7gp15o89zb.com/journal/life/847/",
+      "publishedAt": "2025-04-17"
+    },
+    {
+      "id": "ochiai-yaesu",
+      "type": "article",
+      "media": "八重洲ブックセンター",
+      "title": "八重洲ブックセンター創業祭2021　43人の著者による「未来へつなげたい本」",
+      "url": "https://www.yaesu-book.co.jp/four-fusion/uploads/2021/09/%E5%85%AB%E9%87%8D%E6%B4%B2%E3%83%96%E3%83%83%E3%82%AF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%89%B5%E6%A5%AD%E7%A5%AD%E3%80%8C43%E5%90%8D%E3%81%AE%E8%91%97%E8%80%85%E3%81%AB%E3%82%88%E3%82%8B%E6%9C%AA%E6%9D%A5%E3%81%B8%E3%81%A4%E3%81%AA%E3%81%92%E3%81%9F%E3%81%84%E6%9C%AC%E3%80%8D.pdf"
+    },
+    {
+      "id": "kuriyama-chichi-okada",
+      "type": "interview",
+      "media": "致知出版社",
+      "title": "栗山英樹氏が稲盛和夫に教わった人生で大切なこと",
+      "url": "https://www.chichi.co.jp/web/20230918_kuriyama_okada/",
+      "publishedAt": "2026-06-15"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-very",
+      "book": {
+        "title": "ナチュラルボーンチキン",
+        "author": "金原ひとみ",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-very",
+      "book": {
+        "title": "義父母の介護",
+        "author": "村井理子",
+        "publisher": "新潮社",
+        "edition": "新潮新書"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-very",
+      "book": {
+        "title": "アメリカ革命",
+        "author": "上村剛",
+        "publisher": "中央公論新社",
+        "subtitle": "独立戦争から憲法制定、民主主義の拡大まで",
+        "edition": "中公新書"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyoto-up",
+      "book": {
+        "title": "燃えよ剣 上",
+        "author": "司馬遼太郎",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyoto-up",
+      "book": {
+        "title": "わたしを離さないで",
+        "author": "カズオ・イシグロ",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyoto-up",
+      "book": {
+        "title": "一九八四年",
+        "author": "ジョージ・オーウェル",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyoto-up",
+      "book": {
+        "title": "アンナ・カレーニナ 上",
+        "author": "レフ・トルストイ",
+        "publisher": ""
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyujin-first",
+      "book": {
+        "title": "朝のあかり",
+        "author": "石垣りん",
+        "publisher": "中央公論新社",
+        "subtitle": "石垣りんエッセイ集",
+        "edition": "中公文庫"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyujin-first",
+      "book": {
+        "title": "野心のすすめ",
+        "author": "林真理子",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "miyake",
+      "sourceId": "miyake-kyujin-first",
+      "book": {
+        "title": "仕事の喜びと哀しみ",
+        "author": "チャン・リュジン",
+        "publisher": "クオン"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "方法序説",
+        "author": "ルネ・デカルト",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・谷川多佳子訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "物質と記憶",
+        "author": "アンリ・ベルクソン",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・熊野純彦訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "精神と物質",
+        "author": "エルヴィン・シュレーディンガー",
+        "publisher": "工作舎",
+        "subtitle": "意識と科学的世界像をめぐる考察"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "プロテスタンティズムの倫理と資本主義の精神",
+        "author": "マックス・ヴェーバー",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・大塚久雄訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "日本教の社会学",
+        "author": "小室直樹、山本七平",
+        "publisher": "ビジネス社",
+        "subtitle": "戦後日本は民主主義国家にあらず"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "テクニウム",
+        "author": "ケヴィン・ケリー",
+        "publisher": "みすず書房",
+        "subtitle": "テクノロジーはどこへ向かうのか？"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "ユートピア",
+        "author": "トマス・モア",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・平井正穂訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "メディア論",
+        "author": "マーシャル・マクルーハン",
+        "publisher": "みすず書房",
+        "subtitle": "人間の拡張の諸相",
+        "edition": "栗原裕・河本仲聖訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "生態学的視覚論",
+        "author": "J．J．ギブソン",
+        "publisher": "サイエンス社",
+        "subtitle": "ヒトの知覚世界を探る"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "リトル・ピープルの時代",
+        "author": "宇野常寛",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "統治二論",
+        "author": "ジョン・ロック",
+        "publisher": "岩波書店",
+        "edition": "完訳・加藤節訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "リヴァイアサン 1",
+        "author": "トマス・ホッブズ",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・水田洋訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "アルジャーノンに花束を",
+        "author": "ダニエル・キイス",
+        "publisher": "早川書房",
+        "edition": "小尾芙佐訳"
+      }
+    },
+    {
+      "personId": "ochiai",
+      "sourceId": "ochiai-yaesu",
+      "book": {
+        "title": "ご冗談でしょう、ファインマンさん 上",
+        "author": "リチャード・P・ファインマン",
+        "publisher": "岩波書店",
+        "edition": "大貫昌子訳"
+      }
+    },
+    {
+      "personId": "kuriyama",
+      "sourceId": "kuriyama-chichi-okada",
+      "book": {
+        "title": "成功の要諦",
+        "author": "稲盛和夫",
+        "publisher": "致知出版社"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://lee.hpplus.jp/column/3101689/",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "三宅香帆"
+    },
+    {
+      "url": "https://www.nikkansports.com/m/baseball/news/amp/202004100000508.html",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "栗山英樹"
+    },
+    {
+      "url": "https://www.nikkansports.com/m/baseball/news/amp/202004160000637.html",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "栗山英樹"
+    },
+    {
+      "url": "https://www.nikkansports.com/m/baseball/news/amp/202005010000543.html",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "栗山英樹"
+    },
+    {
+      "url": "https://www.chichi.co.jp/web/20241208_kouhukuron/",
+      "result": "rejected",
+      "reason": "推薦者がまえがきを執筆した本",
+      "person": "栗山英樹"
+    }
+  ]
+}

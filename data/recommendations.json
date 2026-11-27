@@ -62012,5 +62012,416 @@
     "isbn13": "9784047260764",
     "sourceId": "setagaya-literary-museum-mori-irie-qa",
     "verified": true
+  },
+  {
+    "personId": "p1323",
+    "isbn13": "9784575239454",
+    "sourceId": "otocoto-hamabe-kitamura-kimisui",
+    "verified": true
+  },
+  {
+    "personId": "p1354",
+    "isbn13": "9784167906702",
+    "sourceId": "otocoto-hamabe-kitamura-kimisui",
+    "verified": true
+  },
+  {
+    "personId": "p1323",
+    "isbn13": "9784915512377",
+    "sourceId": "asahi-hamabe-20191212",
+    "note": "ハリー・ポッターシリーズの第1巻",
+    "verified": true
+  },
+  {
+    "personId": "p1323",
+    "isbn13": "9784093792646",
+    "sourceId": "asahi-hamabe-20191212",
+    "note": "上下巻のうち上巻を掲載",
+    "verified": true
+  },
+  {
+    "personId": "p1323",
+    "isbn13": "9784041051986",
+    "sourceId": "asahi-hamabe-20191212",
+    "verified": true
+  },
+  {
+    "personId": "p1354",
+    "isbn13": "9784087455892",
+    "sourceId": "edge-kitamura-natsuichi-2019",
+    "verified": true
+  },
+  {
+    "personId": "p1354",
+    "isbn13": "9784087520019",
+    "sourceId": "toho-kitamura-natsuichi-2019",
+    "verified": true
+  },
+  {
+    "personId": "p1369",
+    "isbn13": "9784898154700",
+    "sourceId": "asahi-yoshioka-20180717",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784091816511",
+    "sourceId": "tfm-hirose-alice-allure-03",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784537145014",
+    "sourceId": "tfm-hirose-alice-allure-03",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784867203330",
+    "sourceId": "tfm-hirose-alice-allure-03",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784098506590",
+    "sourceId": "tfm-hirose-alice-allure-03",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784088916347",
+    "sourceId": "tfm-hirose-alice-allure-03",
+    "verified": true
+  },
+  {
+    "personId": "p0515",
+    "isbn13": "9784088704531",
+    "sourceId": "tfm-hirose-alice-allure-03",
+    "verified": true
+  },
+  {
+    "personId": "p0313",
+    "isbn13": "9784167667023",
+    "sourceId": "lawson-kamishiraishi-moka-20170410",
+    "verified": true
+  },
+  {
+    "personId": "p1307",
+    "isbn13": "9784063765786",
+    "sourceId": "linemanga-yoshizawa-tokyorevengers",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784309039169",
+    "sourceId": "miyake-very",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784106110528",
+    "sourceId": "miyake-very",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784121028174",
+    "sourceId": "miyake-very",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784101152080",
+    "sourceId": "miyake-kyoto-up",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784151200519",
+    "sourceId": "miyake-kyoto-up",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784151200533",
+    "sourceId": "miyake-kyoto-up",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784102060018",
+    "sourceId": "miyake-kyoto-up",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784122073180",
+    "sourceId": "miyake-kyujin-first",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784062882019",
+    "sourceId": "miyake-kyujin-first",
+    "verified": true
+  },
+  {
+    "personId": "p1308",
+    "isbn13": "9784910214153",
+    "sourceId": "miyake-kyujin-first",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784003361313",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784003890134",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784875023050",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784003420935",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784828419237",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784622077534",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784003220214",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784622018971",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784781903934",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784344423244",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784003400777",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784003400418",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784150413330",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1320",
+    "isbn13": "9784006030056",
+    "sourceId": "ochiai-yaesu",
+    "verified": true
+  },
+  {
+    "personId": "p1319",
+    "isbn13": "9784800910554",
+    "sourceId": "kuriyama-chichi-okada",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784101007083",
+    "sourceId": "townwork-2023-07-24-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784167911300",
+    "sourceId": "townwork-2023-07-24-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784101030012",
+    "sourceId": "townwork-2023-07-24-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784062748704",
+    "sourceId": "kakuyomu-2023-06-02-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784062749046",
+    "sourceId": "kakuyomu-2023-06-02-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784167557010",
+    "sourceId": "bookoff-2023-03-15-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784091920614",
+    "sourceId": "bookoff-2023-03-15-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784041049143",
+    "sourceId": "bookoff-2023-03-15-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p0523",
+    "isbn13": "9784101077017",
+    "sourceId": "bookoff-2023-03-15-nishida",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784043944811",
+    "sourceId": "asahi-2021-09-25-hiccorohee",
+    "verified": true
+  },
+  {
+    "personId": "p1312",
+    "isbn13": "9784048845632",
+    "sourceId": "asahi-books-2024-07-24-hiccorohee",
+    "verified": true
+  },
+  {
+    "personId": "p1137",
+    "isbn13": "9784048729284",
+    "sourceId": "hugkum-2023-11-02-fukutoku",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784065234488",
+    "sourceId": "hikki-2000-05-06",
+    "note": "掲載書誌は2021年の新装版",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784101123028",
+    "sourceId": "hikki-2000-05-06",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784101121154",
+    "sourceId": "hikki-1999-03-11",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784101065038",
+    "sourceId": "hikki-1999-03-11",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784088516615",
+    "sourceId": "hikki-2002-03-19",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784088752747",
+    "sourceId": "hikki-2002-03-19",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784063115321",
+    "sourceId": "hikki-2002-03-19",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784101379067",
+    "sourceId": "numero-2018-08-13-utada",
+    "verified": true
+  },
+  {
+    "personId": "p1662",
+    "isbn13": "9784758435482",
+    "sourceId": "rockinon-2018-07-06-utada",
+    "note": "NHK『SONGS スペシャル』2018年6月30日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1862",
+    "isbn13": "9784041099124",
+    "sourceId": "tfm-2021-05-17-aina",
+    "note": "『アイナLOCKS!』2021年5月17日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1862",
+    "isbn13": "9784062632232",
+    "sourceId": "tfm-2021-05-17-aina",
+    "note": "『アイナLOCKS!』2021年5月17日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1862",
+    "isbn13": "9784592762744",
+    "sourceId": "tfm-2021-10-04-aina",
+    "note": "『アイナLOCKS!』2021年10月4日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1862",
+    "isbn13": "9784088728407",
+    "sourceId": "tfm-2022-04-04-aina",
+    "note": "『アイナLOCKS!』2022年4月4日放送",
+    "verified": true
+  },
+  {
+    "personId": "p1854",
+    "isbn13": "9784101021218",
+    "sourceId": "shincho-2020-06-15-shiina",
+    "note": "文庫の帯に推薦コメント",
+    "verified": true
   }
 ]

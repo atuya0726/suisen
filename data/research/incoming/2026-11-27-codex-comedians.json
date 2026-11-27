@@ -1,0 +1,196 @@
+{
+  "people": [
+    {
+      "id": "p0523",
+      "name": "ニシダ",
+      "title": "お笑い芸人（ラランド）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1137",
+      "name": "福徳秀介",
+      "title": "お笑いコンビ「ジャルジャル」。小説家",
+      "tags": [
+        "芸能",
+        "作家"
+      ]
+    },
+    {
+      "id": "p1312",
+      "name": "ヒコロヒー",
+      "title": "お笑い芸人",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "townwork-2023-07-24-nishida",
+      "type": "interview",
+      "media": "タウンワークマガジン",
+      "title": "ラランド・ニシダさんが選ぶ、大学生におすすめの本。想像力を広げることができる3冊",
+      "url": "https://townwork.net/magazine/life/145774/",
+      "publishedAt": "2023-07-24"
+    },
+    {
+      "id": "kakuyomu-2023-06-02-nishida",
+      "type": "interview",
+      "media": "カクヨム",
+      "title": "「デビュー前夜」Vol.4 『不器用で』ニシダ（ラランド）インタビュー",
+      "url": "https://kakuyomu.jp/info/entry/beforedebut_interview_vol.4",
+      "publishedAt": "2023-06-02"
+    },
+    {
+      "id": "bookoff-2023-03-15-nishida",
+      "type": "interview",
+      "media": "ブックオフをたちよみ！",
+      "title": "ラランド・ニシダがブックオフの100円棚で、最高の本を漁る旅",
+      "url": "https://bookoff-tachiyomi.jp/list/5992/",
+      "publishedAt": "2023-03-15"
+    },
+    {
+      "id": "asahi-2021-09-25-hiccorohee",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "ヒコロヒーさん「きれはし」インタビュー　開高健を愛するピン芸人「うだつの上がらない生活におかしみを」",
+      "url": "https://book.asahi.com/article/14442226",
+      "publishedAt": "2021-09-25"
+    },
+    {
+      "id": "asahi-books-2024-07-24-hiccorohee",
+      "type": "interview",
+      "media": "朝日新聞出版さんぽ",
+      "title": "【俵万智×ヒコロヒー 対談】俵万智が「はっ」としたヒコロヒーの言葉　対談で意気投合した、創作で食べることに通じる感覚とは",
+      "url": "https://note.com/asahi_books/n/nb1e2aa435d91",
+      "publishedAt": "2024-07-24"
+    },
+    {
+      "id": "hugkum-2023-11-02-fukutoku",
+      "type": "interview",
+      "media": "HugKum",
+      "title": "【ジャルジャル・福徳秀介さん】帰国子女だった小学生時代、大先輩芸人の小説に衝撃を受けた思春期を経て「僕なりの面白さがあると信じて」短編集に挑戦！",
+      "url": "https://hugkum.sho.jp/545184",
+      "publishedAt": "2023-11-02"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "p0523",
+      "sourceId": "townwork-2023-07-24-nishida",
+      "book": {
+        "title": "人間の建設",
+        "author": "小林秀雄・岡潔"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "townwork-2023-07-24-nishida",
+      "book": {
+        "title": "コンビニ人間",
+        "author": "村田沙耶香"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "townwork-2023-07-24-nishida",
+      "book": {
+        "title": "和解",
+        "author": "志賀直哉"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "kakuyomu-2023-06-02-nishida",
+      "book": {
+        "title": "風の歌を聴け",
+        "author": "村上春樹"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "kakuyomu-2023-06-02-nishida",
+      "book": {
+        "title": "ダンス・ダンス・ダンス 上",
+        "author": "村上春樹"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "bookoff-2023-03-15-nishida",
+      "book": {
+        "title": "妊娠カレンダー",
+        "author": "小川洋子"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "bookoff-2023-03-15-nishida",
+      "book": {
+        "title": "ミノタウロスの皿",
+        "author": "藤子・F・不二雄",
+        "publisher": "小学館",
+        "edition": "藤子・F・不二雄［異色短編集］1"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "bookoff-2023-03-15-nishida",
+      "book": {
+        "title": "汚れつちまつた悲しみに……",
+        "author": "中原中也",
+        "publisher": "KADOKAWA",
+        "subtitle": "中原中也詩集"
+      }
+    },
+    {
+      "personId": "p0523",
+      "sourceId": "bookoff-2023-03-15-nishida",
+      "book": {
+        "title": "李陵・山月記",
+        "author": "中島敦",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "p1312",
+      "sourceId": "asahi-2021-09-25-hiccorohee",
+      "book": {
+        "title": "きりこについて",
+        "author": "西加奈子"
+      }
+    },
+    {
+      "personId": "p1312",
+      "sourceId": "asahi-books-2024-07-24-hiccorohee",
+      "book": {
+        "title": "アボカドの種",
+        "author": "俵万智"
+      }
+    },
+    {
+      "personId": "p1137",
+      "sourceId": "hugkum-2023-11-02-fukutoku",
+      "book": {
+        "title": "アキオが走る",
+        "author": "内村光良"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.tv-tokyo.co.jp/wbs/smith/annex_7.html",
+      "result": "rejected",
+      "reason": "robots.txt で anthropic-ai と GPTBot、ChatGPT-User を拒否",
+      "person": "太田光"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/ebook/articles/1506/19/news111.html",
+      "result": "unreachable",
+      "reason": "本文取得時に文字コード解釈エラー",
+      "person": "若林正恭"
+    }
+  ]
+}

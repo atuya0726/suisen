@@ -1,0 +1,309 @@
+{
+  "people": [
+    {
+      "id": "p1323",
+      "name": "浜辺美波",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1354",
+      "name": "北村匠海",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1369",
+      "name": "吉岡里帆",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p0515",
+      "name": "広瀬アリス",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p0313",
+      "name": "上白石萌歌",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "p1307",
+      "name": "吉沢亮",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "otocoto-hamabe-kitamura-kimisui",
+      "type": "interview",
+      "media": "otocoto",
+      "title": "浜辺美波×北村匠海 “僕”に似ている二人だからこそ生まれたフシギな信頼関係。",
+      "url": "https://otocoto.jp/interview/kimisui/3/",
+      "publishedAt": "2017-07-27"
+    },
+    {
+      "id": "asahi-hamabe-20191212",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "映画「屍人荘の殺人」出演の浜辺美波さんインタビュー　自由に演じられた",
+      "url": "https://book.asahi.com/article/12889078",
+      "publishedAt": "2019-12-12"
+    },
+    {
+      "id": "edge-kitamura-natsuichi-2019",
+      "type": "article",
+      "media": "Edge Line",
+      "title": "北村匠海 村上春樹氏に触発され小説書くも「捨てました」と苦笑い！浜辺美波と浴衣姿でナツイチキャンペーンキャラ就任",
+      "url": "https://www.edgeline-tokyo.com/entertainment/34463",
+      "publishedAt": "2019-07-21"
+    },
+    {
+      "id": "toho-kitamura-natsuichi-2019",
+      "type": "article",
+      "media": "東宝芸能",
+      "title": "浜辺美波　『7月21日 ナツイチの日』記念記者発表会に登壇！",
+      "url": "https://www.toho-ent.co.jp/event_reports/2662",
+      "publishedAt": "2019-07-21"
+    },
+    {
+      "id": "asahi-yoshioka-20180717",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "吉岡里帆さんインタビュー　「健康で文化的な最低限度の生活」原作読み込み演じた",
+      "url": "https://book.asahi.com/article/11679316",
+      "publishedAt": "2018-07-17"
+    },
+    {
+      "id": "tfm-hirose-alice-allure-03",
+      "type": "podcast",
+      "media": "TOKYO FM",
+      "title": "アリュール放送後記！　＃３",
+      "url": "https://www.tfm.co.jp/allure/report/33052.html",
+      "publishedAt": "2023-07-08"
+    },
+    {
+      "id": "lawson-kamishiraishi-moka-20170410",
+      "type": "interview",
+      "media": "ローチケ演劇宣言！",
+      "title": "ミュージカル『魔女の宅急便』キキ役上白石萌歌・おソノ役白羽ゆりインタビュー",
+      "url": "https://engekisengen.com/genre/engekisengenbeta/85186/",
+      "publishedAt": "2017-04-10"
+    },
+    {
+      "id": "linemanga-yoshizawa-tokyorevengers",
+      "type": "interview",
+      "media": "LINEマンガ公式ブログ",
+      "title": "吉沢亮「アクションシーンは最強になった気分でした（笑）」映画『東京リベンジャーズ』インタビュー",
+      "url": "https://line-manga.blog.jp/archives/86072403.html",
+      "publishedAt": "2021-06-30"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "p1323",
+      "sourceId": "otocoto-hamabe-kitamura-kimisui",
+      "book": {
+        "title": "また、同じ夢を見ていた",
+        "author": "住野よる",
+        "publisher": "双葉社"
+      }
+    },
+    {
+      "personId": "p1354",
+      "sourceId": "otocoto-hamabe-kitamura-kimisui",
+      "book": {
+        "title": "永い言い訳",
+        "author": "西川美和",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "p1323",
+      "sourceId": "asahi-hamabe-20191212",
+      "book": {
+        "title": "ハリー・ポッターと賢者の石",
+        "author": "J・K・ローリング",
+        "publisher": "静山社",
+        "edition": "シリーズ"
+      },
+      "note": "ハリー・ポッターシリーズの第1巻"
+    },
+    {
+      "personId": "p1323",
+      "sourceId": "asahi-hamabe-20191212",
+      "book": {
+        "title": "模倣犯 上",
+        "author": "宮部みゆき",
+        "publisher": "小学館",
+        "edition": "単行本"
+      },
+      "note": "上下巻のうち上巻を掲載"
+    },
+    {
+      "personId": "p1323",
+      "sourceId": "asahi-hamabe-20191212",
+      "book": {
+        "title": "後宮に星は宿る",
+        "author": "篠原悠希",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫",
+        "subtitle": "金椛国春秋"
+      }
+    },
+    {
+      "personId": "p1354",
+      "sourceId": "edge-kitamura-natsuichi-2019",
+      "book": {
+        "title": "短編少年",
+        "author": "集英社文庫編集部",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "p1354",
+      "sourceId": "toho-kitamura-natsuichi-2019",
+      "book": {
+        "title": "人間失格",
+        "author": "太宰治",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "p1369",
+      "sourceId": "asahi-yoshioka-20180717",
+      "book": {
+        "title": "千年後の百人一首",
+        "author": "最果タヒ／清川あさみ",
+        "publisher": "リトルモア"
+      }
+    },
+    {
+      "personId": "p0515",
+      "sourceId": "tfm-hirose-alice-allure-03",
+      "book": {
+        "title": "ツルモク独身寮",
+        "author": "窪之内英策",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "p0515",
+      "sourceId": "tfm-hirose-alice-allure-03",
+      "book": {
+        "title": "スマイリー",
+        "author": "服部未定",
+        "publisher": "日本文芸社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "p0515",
+      "sourceId": "tfm-hirose-alice-allure-03",
+      "book": {
+        "title": "ブルータル",
+        "author": "古賀慶／伊澤了",
+        "publisher": "コアミックス",
+        "edition": "シリーズ",
+        "subtitle": "殺人警察官の告白"
+      }
+    },
+    {
+      "personId": "p0515",
+      "sourceId": "tfm-hirose-alice-allure-03",
+      "book": {
+        "title": "僕が死ぬだけの百物語",
+        "author": "的野アンジ",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "p0515",
+      "sourceId": "tfm-hirose-alice-allure-03",
+      "book": {
+        "title": "adabana―徒花― 上",
+        "author": "NON",
+        "publisher": "集英社",
+        "edition": "上巻"
+      }
+    },
+    {
+      "personId": "p0515",
+      "sourceId": "tfm-hirose-alice-allure-03",
+      "book": {
+        "title": "ハイキュー!!",
+        "author": "古舘春一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "p0313",
+      "sourceId": "lawson-kamishiraishi-moka-20170410",
+      "book": {
+        "title": "デッドエンドの思い出",
+        "author": "よしもとばなな"
+      }
+    },
+    {
+      "personId": "p1307",
+      "sourceId": "linemanga-yoshizawa-tokyorevengers",
+      "book": {
+        "title": "転生したらスライムだった件",
+        "author": "川上泰樹／伏瀬",
+        "publisher": "講談社",
+        "edition": "漫画シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.fujingaho.jp/culture/book-novel-literature/a65906656/life-changing-novels-shoji-kohei-250908/",
+      "result": "rejected",
+      "reason": "有料会員限定",
+      "person": "庄司浩平"
+    },
+    {
+      "url": "https://www.booklista.co.jp/feature/honyomi-otome/vol9/",
+      "result": "unreachable",
+      "reason": "本文URLが404",
+      "person": "浜辺美波"
+    },
+    {
+      "url": "https://sp.comics.mecha.cc/mechamaga/articles/mecha10th-yoshizawa-ryo-iv",
+      "result": "unreachable",
+      "reason": "本文を取得できず",
+      "person": "吉沢亮"
+    },
+    {
+      "url": "https://book.asahi.com/article/11860216",
+      "result": "rejected",
+      "reason": "本人の出演作の原作紹介",
+      "person": "橋本愛"
+    },
+    {
+      "url": "https://www.nikkansports.com/entertainment/news/1556971.html",
+      "result": "rejected",
+      "reason": "robots.txt",
+      "person": "広瀬アリス"
+    }
+  ]
+}
