@@ -1,0 +1,1122 @@
+{
+  "people": [
+    {
+      "id": "precious-miyashita-natsu",
+      "name": "宮下奈都",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "みやしたなつ"
+    },
+    {
+      "id": "precious-suzuki-daisuke",
+      "name": "鈴木大介",
+      "title": "ノンフィクション作家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "すずきだいすけ"
+    },
+    {
+      "id": "precious-kondo-yuki",
+      "name": "近藤雄生",
+      "title": "ノンフィクションライター",
+      "tags": [
+        "作家"
+      ],
+      "kana": "こんどうゆうき"
+    },
+    {
+      "id": "precious-uno-shigeki",
+      "name": "宇野重規",
+      "title": "政治学者",
+      "tags": [
+        "研究者"
+      ],
+      "kana": "うのしげき"
+    },
+    {
+      "id": "precious-nakui-naoko",
+      "name": "名久井直子",
+      "title": "ブックデザイナー",
+      "tags": [
+        "デザイナー"
+      ],
+      "kana": "なくいなおこ"
+    },
+    {
+      "id": "precious-hayashi-seiichi",
+      "name": "林晟一",
+      "title": "評論家・高校教員",
+      "tags": [
+        "作家"
+      ],
+      "kana": "はやしせいいち"
+    },
+    {
+      "id": "precious-sakai-makoto",
+      "name": "酒井信",
+      "title": "批評家・文芸研究者",
+      "tags": [
+        "研究者"
+      ],
+      "kana": "さかいまこと",
+      "affiliation": "明治大学"
+    },
+    {
+      "id": "yoshihiro-togashi",
+      "name": "冨樫義博",
+      "kana": "とがしよしひろ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "sui-ishida",
+      "name": "石田スイ",
+      "kana": "いしだすい",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "yasuhisa-hara",
+      "name": "原泰久",
+      "kana": "はらやすひさ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "akira-toriyama",
+      "name": "鳥山明",
+      "kana": "とりやまあきら",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "hirohiko-araki",
+      "name": "荒木飛呂彦",
+      "kana": "あらきひろひこ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "shoko-nakagawa",
+      "name": "中川翔子",
+      "kana": "なかがわしょうこ",
+      "title": "歌手・タレント",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "tatsuki-fujimoto",
+      "name": "藤本タツキ",
+      "kana": "ふじもとたつき",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "kangaeruhito-precious-11089",
+      "type": "article",
+      "media": "考える人",
+      "title": "息子たちが帰省してきたときにさりげなく本棚に差しておいて、おおっ！と唸らせる10冊",
+      "url": "https://kangaeruhito.jp/article/11089",
+      "publishedAt": "2019-12-03"
+    },
+    {
+      "id": "kangaeruhito-precious-14952",
+      "type": "article",
+      "media": "考える人",
+      "title": "「脳が壊れた人」の言葉を補う10冊",
+      "url": "https://kangaeruhito.jp/article/14952",
+      "publishedAt": "2020-06-10"
+    },
+    {
+      "id": "kangaeruhito-precious-10264",
+      "type": "article",
+      "media": "考える人",
+      "title": "科学の世界に、より深く分け入りたくなる10冊",
+      "url": "https://kangaeruhito.jp/article/10264",
+      "publishedAt": "2019-10-04"
+    },
+    {
+      "id": "kangaeruhito-precious-6338",
+      "type": "article",
+      "media": "考える人",
+      "title": "人生に迷ったときに背筋を伸ばすための10冊",
+      "url": "https://kangaeruhito.jp/article/6338",
+      "publishedAt": "2019-06-18"
+    },
+    {
+      "id": "kangaeruhito-precious-7090",
+      "type": "article",
+      "media": "考える人",
+      "title": "何か挟まっていたり貼ってあったりしてうれしい10冊",
+      "url": "https://kangaeruhito.jp/article/7090",
+      "publishedAt": "2019-07-02"
+    },
+    {
+      "id": "kangaeruhito-precious-757401",
+      "type": "article",
+      "media": "考える人",
+      "title": "深みある〈強さ〉って何？ 高校生に読んでほしい10冊",
+      "url": "https://kangaeruhito.jp/article/757401",
+      "publishedAt": "2023-09-13"
+    },
+    {
+      "id": "kangaeruhito-precious-758925",
+      "type": "article",
+      "media": "考える人",
+      "title": "松本清張はよみがえる！「嫉妬」と「格差」の時代を生き抜くための10冊",
+      "url": "https://kangaeruhito.jp/article/758925",
+      "publishedAt": "2024-04-26"
+    },
+    {
+      "id": "shonen-jump-plus-togashi-ishida-talk-2",
+      "type": "interview",
+      "media": "少年ジャンプ＋",
+      "title": "冨樫義博×石田スイ 特別対談",
+      "url": "https://www.shonenjump.com/p/sp/1606/hyskoa/talk_2.html"
+    },
+    {
+      "id": "coamix-hokuto-shinso-20231023",
+      "type": "article",
+      "media": "コアミックス",
+      "title": "冨樫義博先生夢想!! 原泰久先生敬愛!! 帯コメント全文公開!! 『北斗の拳』新装版大好評発売中!!",
+      "url": "https://www.coamix.co.jp/topics/hokuto_shinso_1020",
+      "publishedAt": "2023-10-23"
+    },
+    {
+      "id": "coamix-hokuto-shinso-20230915",
+      "type": "article",
+      "media": "コアミックス",
+      "title": "【北斗の拳】豪華すぎる推薦者が話題に!! 帯コメント全文公開!! 新作アニメ化決定、新装版大好評発売中!!",
+      "url": "https://www.coamix.co.jp/topics/hokuto_shinso_0913",
+      "publishedAt": "2023-09-15"
+    },
+    {
+      "id": "yamagata-u-midorigi-67-togashi",
+      "type": "interview",
+      "media": "山形大学広報誌「みどり樹」",
+      "title": "山大聖火リレー 冨樫義博",
+      "url": "https://www.yamagata-u.ac.jp/jp/files/3614/7548/5631/seika67-01.pdf"
+    },
+    {
+      "id": "about-amazon-japan-nakagawa-manga",
+      "type": "interview",
+      "media": "About Amazon Japan",
+      "title": "マンガは私の人生の最重要事項！ 何度も救われました",
+      "url": "https://www.aboutamazon.jp/news/entertainment/manga-is-the-most-important-thing-in-my-life-ive-been-saved-many-times",
+      "publishedAt": "2020-01-23"
+    },
+    {
+      "id": "jump-samura-fujimoto-interview-2",
+      "type": "interview",
+      "media": "少年ジャンプ＋",
+      "title": "藤本タツキ×沙村広明奇跡の対談 第２回",
+      "url": "https://www.shonenjump.com/p/sp/1706/fp_interview/index2.html"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "東大で上野千鶴子にケンカを学ぶ",
+        "author": "遙洋子",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "ぼくはイエローでホワイトで、ちょっとブルー",
+        "author": "ブレイディみかこ",
+        "publisher": "新潮社",
+        "edition": "単行本"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "瓦礫の下から唄が聴こえる 山小屋便り",
+        "author": "佐々木幹郎",
+        "publisher": "みすず書房"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "101の幸福なレシピ",
+        "author": "山本麗子",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "方丈記",
+        "author": "鴨長明／浅見和彦",
+        "publisher": "筑摩書房",
+        "edition": "ちくま学芸文庫"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "逝きし世の面影",
+        "author": "渡辺京二",
+        "publisher": "平凡社",
+        "edition": "平凡社ライブラリー"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "セザンヌ 画家のメチエ",
+        "author": "前田英樹",
+        "publisher": "青土社",
+        "edition": "新装版"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "戦争が遺したもの",
+        "author": "鶴見俊輔／上野千鶴子／小熊英二",
+        "publisher": "新曜社"
+      }
+    },
+    {
+      "personId": "precious-miyashita-natsu",
+      "sourceId": "kangaeruhito-precious-11089",
+      "book": {
+        "title": "インド夜想曲",
+        "author": "アントニオ・タブッキ／須賀敦子",
+        "publisher": "白水社",
+        "edition": "白水Uブックス"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "ボクはやっと認知症のことがわかった",
+        "author": "長谷川和夫／猪熊律子",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "かんもくの声",
+        "author": "入江紗代",
+        "publisher": "学苑社"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "実録 解離性障害のちぐはぐな日々",
+        "author": "Tokin",
+        "publisher": "合同出版"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "私の脳で起こったこと",
+        "author": "樋口直美",
+        "publisher": "ブックマン社"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "わたしはなにも悪くない",
+        "author": "小林エリコ",
+        "publisher": "晶文社"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "病気、ときどき恋",
+        "author": "白夜",
+        "publisher": "デザインエッグ",
+        "edition": "ペーパーバック"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "雑談の苦手がラクになる 会話のきっかけレシピ",
+        "author": "枚岡治子",
+        "publisher": "大月書店"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "生きのびるための犯罪",
+        "author": "上岡陽江／ダルク女性ハウス",
+        "publisher": "イースト・プレス"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "発達障害当事者研究",
+        "author": "綾屋紗月／熊谷晋一郎",
+        "publisher": "医学書院"
+      }
+    },
+    {
+      "personId": "precious-suzuki-daisuke",
+      "sourceId": "kangaeruhito-precious-14952",
+      "book": {
+        "title": "ケアする人も楽になる マインドフルネス＆スキーマ療法 BOOK1",
+        "author": "伊藤絵美",
+        "publisher": "医学書院",
+        "edition": "BOOK1"
+      },
+      "note": "出典はBOOK1・2を紹介。"
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "宇宙からの帰還",
+        "author": "立花隆",
+        "publisher": "中央公論新社",
+        "edition": "中公文庫"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "天体の回転について",
+        "author": "コペルニクス／矢島祐利",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "天文対話",
+        "author": "ガリレオ・ガリレイ／青木靖三",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫・上巻"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "科学革命の構造",
+        "author": "トーマス・クーン／中山茂",
+        "publisher": "みすず書房",
+        "edition": "1971年版"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "数学する身体",
+        "author": "森田真生",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "できそこないの男たち",
+        "author": "福岡伸一",
+        "publisher": "光文社",
+        "edition": "光文社新書"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "世界最悪の旅",
+        "author": "チェリー・ガラード／加納一郎",
+        "publisher": "中央公論新社",
+        "edition": "中公文庫"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "ホーキング、宇宙を語る",
+        "author": "スティーヴン・W・ホーキング／林一",
+        "publisher": "早川書房",
+        "edition": "ハヤカワ文庫NF"
+      }
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "プラネテス",
+        "author": "幸村誠",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      },
+      "note": "出典は全4巻を紹介。"
+    },
+    {
+      "personId": "precious-kondo-yuki",
+      "sourceId": "kangaeruhito-precious-10264",
+      "book": {
+        "title": "フェルマーの最終定理",
+        "author": "サイモン・シン／青木薫",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "過去と未来の間",
+        "author": "ハンナ・アーレント／斎藤純一／引田隆也",
+        "publisher": "みすず書房",
+        "edition": "1994年版"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "オーウェル評論集",
+        "author": "ジョージ・オーウェル／小野寺健",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "日本文学史序説",
+        "author": "加藤周一",
+        "publisher": "筑摩書房",
+        "edition": "ちくま学芸文庫・上巻"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "魯迅",
+        "author": "竹内好",
+        "publisher": "講談社",
+        "edition": "講談社文芸文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "司馬遷",
+        "author": "武田泰淳",
+        "publisher": "講談社",
+        "edition": "講談社文芸文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "復興期の精神",
+        "author": "花田清輝",
+        "publisher": "講談社",
+        "edition": "講談社文芸文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "精神史的考察",
+        "author": "藤田省三",
+        "publisher": "平凡社",
+        "edition": "平凡社ライブラリー"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "方丈記私記",
+        "author": "堀田善衞",
+        "publisher": "筑摩書房",
+        "edition": "ちくま文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "忘れられた日本人",
+        "author": "宮本常一",
+        "publisher": "岩波書店",
+        "edition": "岩波文庫"
+      }
+    },
+    {
+      "personId": "precious-uno-shigeki",
+      "sourceId": "kangaeruhito-precious-6338",
+      "book": {
+        "title": "鷗外 闘う家長",
+        "author": "山崎正和",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-nakui-naoko",
+      "sourceId": "kangaeruhito-precious-7090",
+      "book": {
+        "title": "ドリームス 夢の記憶",
+        "author": "大竹伸朗",
+        "publisher": "用美社",
+        "edition": "1988年版"
+      }
+    },
+    {
+      "personId": "precious-nakui-naoko",
+      "sourceId": "kangaeruhito-precious-7090",
+      "book": {
+        "title": "明星",
+        "author": "川島小鳥",
+        "publisher": "ナナロク社",
+        "edition": "写真集"
+      }
+    },
+    {
+      "personId": "precious-nakui-naoko",
+      "sourceId": "kangaeruhito-precious-7090",
+      "book": {
+        "title": "ファンタスティック・ビーストと黒い魔法使いの誕生 魔法のアーカイブ",
+        "author": "シグニー・バーグストローム",
+        "publisher": "ハーパーコリンズ・ジャパン",
+        "edition": "日本語版"
+      }
+    },
+    {
+      "personId": "precious-nakui-naoko",
+      "sourceId": "kangaeruhito-precious-7090",
+      "book": {
+        "title": "読まされ図書室",
+        "author": "小林聡美",
+        "publisher": "宝島社",
+        "edition": "単行本"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "「人それぞれ」がさみしい",
+        "author": "石田光規",
+        "publisher": "筑摩書房",
+        "edition": "ちくまプリマー新書"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "それでも、日本人は「戦争」を選んだ",
+        "author": "加藤陽子",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "青きドナウの乱痴気",
+        "author": "良知力",
+        "publisher": "平凡社",
+        "edition": "平凡社ライブラリー"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "塩を食う女たち",
+        "author": "藤本和子",
+        "publisher": "岩波書店",
+        "edition": "岩波現代文庫"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "カミングアウト・レターズ",
+        "author": "RYOJI／砂川秀樹",
+        "publisher": "太郎次郎社エディタス"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "沈黙の勇者たち",
+        "author": "岡典子",
+        "publisher": "新潮社",
+        "edition": "新潮選書"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "凜として灯る",
+        "author": "荒井裕樹",
+        "publisher": "現代書館"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "聴こえない母に訊きにいく",
+        "author": "五十嵐大",
+        "publisher": "柏書房"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "円卓",
+        "author": "西加奈子",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "precious-hayashi-seiichi",
+      "sourceId": "kangaeruhito-precious-757401",
+      "book": {
+        "title": "GO",
+        "author": "金城一紀",
+        "publisher": "KADOKAWA",
+        "edition": "角川文庫"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "半生の記",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "西郷札",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫・傑作短編集（三）"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "或る「小倉日記」伝",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫・傑作短編集（一）"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "点と線",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "無宿人別帳",
+        "author": "松本清張",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "ゼロの焦点",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "日本の黒い霧",
+        "author": "松本清張",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫・上巻"
+      },
+      "note": "出典は上下巻を紹介。"
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "球形の荒野",
+        "author": "松本清張",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫・上巻"
+      },
+      "note": "出典は上下巻を紹介。"
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "砂の器",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫・上巻"
+      },
+      "note": "出典は上下巻を紹介。"
+    },
+    {
+      "personId": "precious-sakai-makoto",
+      "sourceId": "kangaeruhito-precious-758925",
+      "book": {
+        "title": "Dの複合",
+        "author": "松本清張",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "yoshihiro-togashi",
+      "sourceId": "shonen-jump-plus-togashi-ishida-talk-2",
+      "book": {
+        "title": "湘南爆走族",
+        "author": "吉田聡",
+        "publisher": "少年画報社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "sui-ishida",
+      "sourceId": "shonen-jump-plus-togashi-ishida-talk-2",
+      "book": {
+        "title": "HUNTER×HUNTER",
+        "author": "冨樫義博",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yoshihiro-togashi",
+      "sourceId": "shonen-jump-plus-togashi-ishida-talk-2",
+      "book": {
+        "title": "東京喰種トーキョーグール",
+        "author": "石田スイ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yoshihiro-togashi",
+      "sourceId": "coamix-hokuto-shinso-20231023",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yasuhisa-hara",
+      "sourceId": "coamix-hokuto-shinso-20231023",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "akira-toriyama",
+      "sourceId": "coamix-hokuto-shinso-20230915",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "hirohiko-araki",
+      "sourceId": "coamix-hokuto-shinso-20230915",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "yoshihiro-togashi",
+      "sourceId": "yamagata-u-midorigi-67-togashi",
+      "book": {
+        "title": "漂流教室",
+        "author": "楳図かずお",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "tatsuki-fujimoto",
+      "sourceId": "jump-samura-fujimoto-interview-2",
+      "book": {
+        "title": "この世界の片隅に",
+        "author": "こうの史代",
+        "publisher": "双葉社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "かってにシロクマ",
+        "author": "相原コージ",
+        "publisher": "双葉社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "赤んぼ少女",
+        "author": "楳図かずお",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "漂流教室",
+        "author": "楳図かずお",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "わたしは真悟",
+        "author": "楳図かずお",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "神の左手悪魔の右手",
+        "author": "楳図かずお",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "ジョジョの奇妙な冒険",
+        "author": "荒木飛呂彦",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "まんが道",
+        "author": "藤子不二雄Ⓐ",
+        "publisher": "中央公論新社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "少年時代",
+        "author": "藤子不二雄Ⓐ",
+        "publisher": "ヴィレッジブックス",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "ときめきトゥナイト",
+        "author": "池野恋",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "島耕作",
+        "author": "弘兼憲史",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "ドラゴンクエスト ダイの大冒険",
+        "author": "三条陸、稲田浩司、堀井雄二",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      },
+      "note": "取材時の作品を掲載済みの新装彩録版に紐付け"
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "ごほうびおひとり鮨",
+        "author": "早川光、王嶋環",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "山と食欲と私",
+        "author": "信濃川日出雄",
+        "publisher": "新潮社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "桐谷さん ちょっそれ食うんすか!?",
+        "author": "ぽんとごたんだ",
+        "publisher": "双葉社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "shoko-nakagawa",
+      "sourceId": "about-amazon-japan-nakagawa-manga",
+      "book": {
+        "title": "蝶よ花よ",
+        "author": "吉原由起",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://kangaeruhito.jp/articlecat/precious_books",
+      "result": "index",
+      "reason": "連載全23回を既収録出典と照合。今回7回を採録。"
+    },
+    {
+      "url": "https://kangaeruhito.jp/article/241827",
+      "result": "rejected",
+      "person": "木村元",
+      "reason": "出版社代表・書籍編集者としての選書。"
+    },
+    {
+      "url": "https://j-books.shueisha.co.jp/prize/horror/qaex01.html",
+      "result": "rejected",
+      "reason": "robots.txt で全パスを収集対象外としている。",
+      "person": "芥見下々"
+    },
+    {
+      "url": "https://www.cnn.co.jp/showbiz/35025105.html",
+      "result": "rejected",
+      "reason": "robots.txt でAI関連ユーザーエージェントを収集対象外としている。",
+      "person": "井上雄彦"
+    }
+  ]
+}

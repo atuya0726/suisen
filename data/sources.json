@@ -20579,5 +20579,793 @@
     "title": "慌てて読まず､じっくりと！～多部未華子の読書案内",
     "url": "https://gingerweb.jp/timeless/person/article/20190501-tabebooks-17",
     "publishedAt": "2019-05-01"
+  },
+  {
+    "id": "kangaeruhito-precious-6338",
+    "type": "article",
+    "media": "考える人",
+    "title": "人生に迷ったときに背筋を伸ばすための10冊",
+    "url": "https://kangaeruhito.jp/article/6338",
+    "publishedAt": "2019-06-18"
+  },
+  {
+    "id": "coamix-hokuto-shinso-20231023",
+    "type": "article",
+    "media": "コアミックス",
+    "title": "冨樫義博先生夢想!! 原泰久先生敬愛!! 帯コメント全文公開!! 『北斗の拳』新装版大好評発売中!!",
+    "url": "https://www.coamix.co.jp/topics/hokuto_shinso_1020",
+    "publishedAt": "2023-10-23"
+  },
+  {
+    "id": "kangaeruhito-precious-757401",
+    "type": "article",
+    "media": "考える人",
+    "title": "深みある〈強さ〉って何？ 高校生に読んでほしい10冊",
+    "url": "https://kangaeruhito.jp/article/757401",
+    "publishedAt": "2023-09-13"
+  },
+  {
+    "id": "kangaeruhito-precious-14952",
+    "type": "article",
+    "media": "考える人",
+    "title": "「脳が壊れた人」の言葉を補う10冊",
+    "url": "https://kangaeruhito.jp/article/14952",
+    "publishedAt": "2020-06-10"
+  },
+  {
+    "id": "kangaeruhito-precious-11089",
+    "type": "article",
+    "media": "考える人",
+    "title": "息子たちが帰省してきたときにさりげなく本棚に差しておいて、おおっ！と唸らせる10冊",
+    "url": "https://kangaeruhito.jp/article/11089",
+    "publishedAt": "2019-12-03"
+  },
+  {
+    "id": "yamagata-u-midorigi-67-togashi",
+    "type": "interview",
+    "media": "山形大学広報誌「みどり樹」",
+    "title": "山大聖火リレー 冨樫義博",
+    "url": "https://www.yamagata-u.ac.jp/jp/files/3614/7548/5631/seika67-01.pdf"
+  },
+  {
+    "id": "kangaeruhito-precious-10264",
+    "type": "article",
+    "media": "考える人",
+    "title": "科学の世界に、より深く分け入りたくなる10冊",
+    "url": "https://kangaeruhito.jp/article/10264",
+    "publishedAt": "2019-10-04"
+  },
+  {
+    "id": "kangaeruhito-precious-7090",
+    "type": "article",
+    "media": "考える人",
+    "title": "何か挟まっていたり貼ってあったりしてうれしい10冊",
+    "url": "https://kangaeruhito.jp/article/7090",
+    "publishedAt": "2019-07-02"
+  },
+  {
+    "id": "shonen-jump-plus-togashi-ishida-talk-2",
+    "type": "interview",
+    "media": "少年ジャンプ＋",
+    "title": "冨樫義博×石田スイ 特別対談",
+    "url": "https://www.shonenjump.com/p/sp/1606/hyskoa/talk_2.html"
+  },
+  {
+    "id": "coamix-hokuto-shinso-20230915",
+    "type": "article",
+    "media": "コアミックス",
+    "title": "【北斗の拳】豪華すぎる推薦者が話題に!! 帯コメント全文公開!! 新作アニメ化決定、新装版大好評発売中!!",
+    "url": "https://www.coamix.co.jp/topics/hokuto_shinso_0913",
+    "publishedAt": "2023-09-15"
+  },
+  {
+    "id": "kangaeruhito-precious-758925",
+    "type": "article",
+    "media": "考える人",
+    "title": "松本清張はよみがえる！「嫉妬」と「格差」の時代を生き抜くための10冊",
+    "url": "https://kangaeruhito.jp/article/758925",
+    "publishedAt": "2024-04-26"
+  },
+  {
+    "id": "about-amazon-japan-nakagawa-manga",
+    "type": "interview",
+    "media": "About Amazon Japan",
+    "title": "マンガは私の人生の最重要事項！ 何度も救われました",
+    "url": "https://www.aboutamazon.jp/news/entertainment/manga-is-the-most-important-thing-in-my-life-ive-been-saved-many-times",
+    "publishedAt": "2020-01-23"
+  },
+  {
+    "id": "realsound-1008297",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "月刊オカモトショウ特別編　再認識した『ONE PIECE』の偉大さ「自分の“普通さ”を知っている尾田先生はスゴすぎる」",
+    "url": "https://realsound.jp/book/2022/04/post-1008297.html",
+    "publishedAt": "2022-04-14"
+  },
+  {
+    "id": "realsound-1293676",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’Sオカモトショウが語る、2023年注目の漫画たち　「『サターンリターン』はすごいです」",
+    "url": "https://realsound.jp/book/2023/03/post-1293676.html",
+    "publishedAt": "2023-03-31"
+  },
+  {
+    "id": "realsound-2306542",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "「少年マンガを正面からやってる」　オカモトショウが話題作『違国日記』と『パラショッパーズ』の魅力を語る",
+    "url": "https://realsound.jp/book/2026/02/post-2306542.html",
+    "publishedAt": "2026-02-16"
+  },
+  {
+    "id": "realsound-2152271",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "『光が死んだ夏』に『彼岸島』　オカモトショウが今こそ読みたいホラー漫画を語り尽くす",
+    "url": "https://realsound.jp/book/2025/09/post-2152271.html",
+    "publishedAt": "2025-09-11"
+  },
+  {
+    "id": "realsound-1268047",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’Sオカモトショウが語る“いま読むべき漫画”たち　「マンガ大賞2023」ノミネート作品を徹底紹介",
+    "url": "https://realsound.jp/book/2023/02/post-1268047.html",
+    "publishedAt": "2023-02-28"
+  },
+  {
+    "id": "jwave-bibliotheca-250315",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「変化への抵抗」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250315.html",
+    "publishedAt": "2025-03-15"
+  },
+  {
+    "id": "realsound-2238575",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "「神と人間」「天才と凡人」ーーオカモトショウが『アフターゴッド』と『伍と碁』を読み解く",
+    "url": "https://realsound.jp/book/2025/12/post-2238575.html",
+    "publishedAt": "2025-12-06"
+  },
+  {
+    "id": "realsound-1029674",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’Sオカモトショウが推すSF漫画『バビロンまでは何光年？』　壮大で不条理な魅力を語る",
+    "url": "https://realsound.jp/book/2022/05/post-1029674.html",
+    "publishedAt": "2022-05-16"
+  },
+  {
+    "id": "jwave-bibliotheca-240106",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「SDGs」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240106.html",
+    "publishedAt": "2024-01-06"
+  },
+  {
+    "id": "realsound-751790",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO'S オカモトショウ新連載「月刊オカモトショウ」第1回：SF×ハードボイルドな世界観の『虎鶫』を語る",
+    "url": "https://realsound.jp/book/2021/04/post-751790.html",
+    "publishedAt": "2021-04-29"
+  },
+  {
+    "id": "realsound-1500244",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが語る、押井守×今敏による未完の名作『セラフィム』　「今の方がリアルな物語として読めると思う」",
+    "url": "https://realsound.jp/book/2023/11/post-1500244.html",
+    "publishedAt": "2023-11-27"
+  },
+  {
+    "id": "jwave-bibliotheca-260704",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『SDGs 目標16 平和と公正をすべての人に』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260704.html",
+    "publishedAt": "2026-07-04"
+  },
+  {
+    "id": "jwave-bibliotheca-220430",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜テーマは「ミラーワールド」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220430.html",
+    "publishedAt": "2022-04-30"
+  },
+  {
+    "id": "realsound-977517",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "連載「月刊オカモトショウ」　いま最注目の国取り漫画『日本三國』が気になって仕方がない",
+    "url": "https://realsound.jp/book/2022/02/post-977517.html",
+    "publishedAt": "2022-02-28"
+  },
+  {
+    "id": "jwave-bibliotheca-230401",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「キャリア」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230401.html",
+    "publishedAt": "2023-04-01"
+  },
+  {
+    "id": "jwave-bibliotheca-260523",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『リジェネラティブ』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260523.html",
+    "publishedAt": "2026-05-23"
+  },
+  {
+    "id": "realsound-2107927",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウがジョン・レノンを聞きながら読みたい漫画は？　『図書館の大魔術師』「BLUE GIANT」を語り尽くす",
+    "url": "https://realsound.jp/book/2025/08/post-2107927.html",
+    "publishedAt": "2025-08-02"
+  },
+  {
+    "id": "realsound-1941202",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウ「マンガ大賞2025」ノミネート作品を語り尽くす！　『図書館の大魔術師』『ふつうの軽音部』……本命は？",
+    "url": "https://realsound.jp/book/2025/02/post-1941202.html",
+    "publishedAt": "2025-02-28"
+  },
+  {
+    "id": "jwave-bibliotheca-220507",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「ダイバーシティ」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220507.html",
+    "publishedAt": "2022-05-07"
+  },
+  {
+    "id": "jwave-bibliotheca-221022",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「ミニマリズム」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221022.html",
+    "publishedAt": "2022-10-22"
+  },
+  {
+    "id": "jwave-bibliotheca-220402",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜初回放送のテーマは「高原社会」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220402.html",
+    "publishedAt": "2022-04-02"
+  },
+  {
+    "id": "realsound-2594874",
+    "type": "article",
+    "media": "Real Sound ブック",
+    "title": "ハリセンボン・近藤春菜におすすめの8冊は？　箕輪はるか＆スタッフ厳選のブックガイドに隠された「嬉しいサプライズ」",
+    "url": "https://realsound.jp/book/2026/11/post-2594874.html",
+    "publishedAt": "2026-11-25"
+  },
+  {
+    "id": "realsound-2543863",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが考える「家族」とは？　『キシモジン』『カミキル-KAMI KILL-』から読み解く、人間と家族のかたち",
+    "url": "https://realsound.jp/book/2026/10/post-2543863.html",
+    "publishedAt": "2026-10-07"
+  },
+  {
+    "id": "realsound-859437",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "月刊オカモトショウ特別編　いまだから読みたい、萩尾望都＆高野文子作品の色あせない魅力を語り尽くす",
+    "url": "https://realsound.jp/book/2021/10/post-859437.html",
+    "publishedAt": "2021-10-04"
+  },
+  {
+    "id": "jwave-bibliotheca-241130",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「イシュー」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/241130.html",
+    "publishedAt": "2024-11-30"
+  },
+  {
+    "id": "jwave-bibliotheca-220716",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「ギグ・エコノミー 」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220716.html",
+    "publishedAt": "2022-07-16"
+  },
+  {
+    "id": "realsound-2383482",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’S・オカモトショウ、話題作『本なら売るほど』をどう読んだ？　「マンガ大賞2026」を語る",
+    "url": "https://realsound.jp/book/2026/05/post-2383482.html",
+    "publishedAt": "2026-05-03"
+  },
+  {
+    "id": "realsound-1166938",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’Sオカモトショウが語る、藤子不二雄A作品の抗えない魅力　「今週の週刊誌に載っていても“ヤバイ”と思う」",
+    "url": "https://realsound.jp/book/2022/10/post-1166938.html",
+    "publishedAt": "2022-10-30"
+  },
+  {
+    "id": "realsound-858732",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "月刊オカモトショウ特別編　親友と語り合う、よしながふみ『愛すべき娘たち』の特別さ",
+    "url": "https://realsound.jp/book/2021/09/post-858732.html",
+    "publishedAt": "2021-09-14"
+  },
+  {
+    "id": "realsound-2444254",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "今の「週刊少年ジャンプ」は“守破離”の破？　オカモトショウが『カグラバチ』や2026年の新連載を熱く語る",
+    "url": "https://realsound.jp/book/2026/07/post-2444254.html",
+    "publishedAt": "2026-07-01"
+  },
+  {
+    "id": "realsound-1977116",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウ、宗教ビジネスを描く漫画『るなしい』に感じた人間の業 「リアルなんだけど、一線を越えた先も描いている」",
+    "url": "https://realsound.jp/book/2025/04/post-1977116.html",
+    "publishedAt": "2025-04-04"
+  },
+  {
+    "id": "realsound-1679933",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが語る、いまイチオシの青年漫画2作品！　『ハヴィラ戦記』＆『だれでも抱けるキミが好き』を読め",
+    "url": "https://realsound.jp/book/2025/02/post-1679933.html",
+    "publishedAt": "2025-02-04"
+  },
+  {
+    "id": "realsound-1610774",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが語る、『路傍のフジイ』の“浄化力“　承認欲求から解放されたフジイは現代の新たなヒーロー像？",
+    "url": "https://realsound.jp/book/2024/04/post-1610774.html",
+    "publishedAt": "2024-04-30"
+  },
+  {
+    "id": "jwave-bibliotheca-260718",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『制作』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260718.html",
+    "publishedAt": "2026-07-18"
+  },
+  {
+    "id": "realsound-2272564",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’S・オカモトショウが選ぶ「2025年ベストコミック」　『げにかすり』は「脳みそがひっくり返る」",
+    "url": "https://realsound.jp/book/2026/01/post-2272564.html",
+    "publishedAt": "2026-01-09"
+  },
+  {
+    "id": "realsound-964686",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "連載「月刊オカモトショウ」　絶対に読むべき80年代の名作SFマンガ、『ワン・ゼロ』について語りたい！",
+    "url": "https://realsound.jp/book/2022/02/post-964686.html",
+    "publishedAt": "2022-02-09"
+  },
+  {
+    "id": "jwave-bibliotheca-240601",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「チームワーク」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240601.html",
+    "publishedAt": "2024-06-01"
+  },
+  {
+    "id": "jwave-bibliotheca-221105",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「コンヴィヴィアリティ」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221105.html",
+    "publishedAt": "2022-11-05"
+  },
+  {
+    "id": "realsound-937604",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "連載「月刊オカモトショウ」年末特別版　絶対に読むべき、2021年のコミックBEST5はコレだ！",
+    "url": "https://realsound.jp/book/2021/12/post-937604.html",
+    "publishedAt": "2021-12-31"
+  },
+  {
+    "id": "jwave-bibliotheca-240427",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「自己受容」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240427.html",
+    "publishedAt": "2024-04-27"
+  },
+  {
+    "id": "realsound-1585827",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが語る、野球マンガ『ダイヤモンドの功罪』の斬新さ　生々しく描かれる”天才の苦悩”とは",
+    "url": "https://realsound.jp/book/2024/02/post-1585827.html",
+    "publishedAt": "2024-02-29"
+  },
+  {
+    "id": "realsound-827090",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’S オカモトショウ連載「月刊オカモトショウ」第4回：2021年最大の話題作・藤本タツキ『ルックバック』",
+    "url": "https://realsound.jp/book/2021/08/post-827090.html",
+    "publishedAt": "2021-08-02"
+  },
+  {
+    "id": "jwave-bibliotheca-231014",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「不確実性」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/231014.html",
+    "publishedAt": "2023-10-14"
+  },
+  {
+    "id": "jwave-bibliotheca-220625",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「キュレーション」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220625.html",
+    "publishedAt": "2022-06-25"
+  },
+  {
+    "id": "realsound-2063887",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "“殺し屋マンガ”が続々登場、今注目の作品は？　オカモトショウ推薦『アマチュアビジランテ』『INNU -イッヌ-』",
+    "url": "https://realsound.jp/book/2025/06/post-2063887.html",
+    "publishedAt": "2025-06-23"
+  },
+  {
+    "id": "realsound-2511482",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが推す“次にくるマンガ”は？　『ラットコレクティブ』『二月に殺して桜に埋める』の魅力を語る",
+    "url": "https://realsound.jp/book/2026/09/post-2511482.html",
+    "publishedAt": "2026-09-05"
+  },
+  {
+    "id": "realsound-1520758",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウ「アンデラがある限り、ジャンプは大丈夫」　『アンデッドアンラック』が受け継ぐ少年漫画の遺伝子",
+    "url": "https://realsound.jp/book/2023/12/post-1520758.html",
+    "publishedAt": "2023-12-17"
+  },
+  {
+    "id": "jwave-bibliotheca-251102",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『SDG's目標12 つくる責任 つかう責任』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251102.html",
+    "publishedAt": "2025-11-02"
+  },
+  {
+    "id": "realsound-914754",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "連載：月刊オカモトショウVol.5　『ヒロアカ』の熱さは、ヒネくれたマンガ好きの心も燃やす！",
+    "url": "https://realsound.jp/book/2021/11/post-914754.html",
+    "publishedAt": "2021-11-30"
+  },
+  {
+    "id": "realsound-2014137",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "『運命の巻戻士』は映画『TENET』級のタイムリープ作品？　オカモトショウが今注目するマンガ3選",
+    "url": "https://realsound.jp/book/2025/05/post-2014137.html",
+    "publishedAt": "2025-05-09"
+  },
+  {
+    "id": "jwave-bibliotheca-250719",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「SDGs 目標10 人や国の不平等をなくそう」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250719.html",
+    "publishedAt": "2025-07-19"
+  },
+  {
+    "id": "realsound-781131",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "OKAMOTO’S オカモトショウ連載「月刊オカモトショウ」第2回：地動説を証明する人々を描く『チ。—地球の運動について—』",
+    "url": "https://realsound.jp/book/2021/05/post-781131.html",
+    "publishedAt": "2021-05-31"
+  },
+  {
+    "id": "jwave-bibliotheca-220702",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「傾聴力」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220702.html",
+    "publishedAt": "2022-07-02"
+  },
+  {
+    "id": "jwave-bibliotheca-250201",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「ライフ・マネジメント・ステラジー」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250201.html",
+    "publishedAt": "2025-02-01"
+  },
+  {
+    "id": "realsound-2358093",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "『AKIRA』金田は『ONE PIECE』ルフィ並みの“ヒーロー”だった？　オカモトショウが名作SFを読み解く",
+    "url": "https://realsound.jp/book/2026/04/post-2358093.html",
+    "publishedAt": "2026-04-07"
+  },
+  {
+    "id": "jwave-bibliotheca-220416",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「アート思考」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220416.html",
+    "publishedAt": "2022-04-16"
+  },
+  {
+    "id": "realsound-1551485",
+    "type": "interview",
+    "media": "Real Sound ブック",
+    "title": "オカモトショウが選ぶ、いま注目のマンガとは？　天才・魚豊の新作から残酷すぎる野球漫画まで、期待作を大紹介",
+    "url": "https://realsound.jp/book/2024/01/post-1551485.html",
+    "publishedAt": "2024-01-22"
+  },
+  {
+    "id": "jwave-bibliotheca-240525",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「後悔の力」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240525.html",
+    "publishedAt": "2024-05-25"
+  },
+  {
+    "id": "jwave-bibliotheca-230304",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「フードテック」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230304.html",
+    "publishedAt": "2023-03-04"
+  },
+  {
+    "id": "jwave-bibliotheca-261114",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『内向型』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/261114.html",
+    "publishedAt": "2026-11-14"
+  },
+  {
+    "id": "coamix-hokuto-shinso-20231226",
+    "type": "article",
+    "media": "コアミックス",
+    "title": "第9巻は迫稔雄先生、第10巻はアジチカ先生が推薦!! 『北斗の拳 新装版』大好評発売中!!",
+    "url": "https://www.coamix.co.jp/topics/hokuto_sinsou_1220",
+    "publishedAt": "2023-12-26"
+  },
+  {
+    "id": "jwave-bibliotheca-221015",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「アルゴリズム・フェアネス」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221015.html",
+    "publishedAt": "2022-10-15"
+  },
+  {
+    "id": "jwave-bibliotheca-260815",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『ネガティブ・ケイパビリティ』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260815.html",
+    "publishedAt": "2026-08-15"
+  },
+  {
+    "id": "asahi-koshokojitsu-sheena-yoshitake-20210706",
+    "type": "interview",
+    "media": "好書好日",
+    "title": "絵本作家・ヨシタケシンスケさんと音楽家・椎名林檎さんが初対談　私たち、あんなに大人が嫌だったのに",
+    "url": "https://book.asahi.com/article/14385285",
+    "publishedAt": "2021-07-06"
+  },
+  {
+    "id": "jwave-bibliotheca-230325",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「コンサマトリー」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230325.html",
+    "publishedAt": "2023-03-25"
+  },
+  {
+    "id": "books-ruhe-inoue-takehiko-dokaben",
+    "type": "article",
+    "media": "ブックスルーエ",
+    "title": "井上雄彦先生 FAN SITE",
+    "url": "https://www.books-ruhe.co.jp/it/oreder/"
+  },
+  {
+    "id": "jwave-bibliotheca-230121",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「コモン」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230121.html",
+    "publishedAt": "2023-01-21"
+  },
+  {
+    "id": "jwave-bibliotheca-220723",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「ネガティブ・ケイパビリティ」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220723.html",
+    "publishedAt": "2022-07-23"
+  },
+  {
+    "id": "jwave-bibliotheca-250927",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『再公営化』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250927.html",
+    "publishedAt": "2025-09-27"
+  },
+  {
+    "id": "jwave-bibliotheca-221119",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「応援消費」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221119.html",
+    "publishedAt": "2022-11-19"
+  },
+  {
+    "id": "jwave-bibliotheca-241228",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「本屋」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/241228.html",
+    "publishedAt": "2024-12-28"
+  },
+  {
+    "id": "jwave-bibliotheca-221112",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「生命科学的思考」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221112.html",
+    "publishedAt": "2022-11-12"
+  },
+  {
+    "id": "jwave-bibliotheca-251220",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『ハクティビズム』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251220.html",
+    "publishedAt": "2025-12-20"
+  },
+  {
+    "id": "jwave-bibliotheca-220514",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「プロセスエコノミー」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220514.html",
+    "publishedAt": "2022-05-14"
+  },
+  {
+    "id": "jwave-bibliotheca-230527",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「ChatGPT」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230527.html",
+    "publishedAt": "2023-05-27"
+  },
+  {
+    "id": "jwave-bibliotheca-230114",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「フォロワーシップ」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230114.html",
+    "publishedAt": "2023-01-14"
+  },
+  {
+    "id": "jwave-bibliotheca-240309",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「トランジション」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240309.html",
+    "publishedAt": "2024-03-09"
+  },
+  {
+    "id": "jwave-bibliotheca-220709",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「集合知」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220709.html",
+    "publishedAt": "2022-07-09"
+  },
+  {
+    "id": "jwave-bibliotheca-251011",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『サステナビリティ・ビジネス』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251011.html",
+    "publishedAt": "2025-10-11"
+  },
+  {
+    "id": "jwave-bibliotheca-220813",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは今回のテーマは「サステナビリティ」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220813.html",
+    "publishedAt": "2022-08-13"
+  },
+  {
+    "id": "setagaya-literary-museum-mori-irie-qa",
+    "type": "interview",
+    "media": "世田谷文学館",
+    "title": "漫画家・森薫と入江亜季 展 Q&A",
+    "url": "https://www.setabun.or.jp/wp/wp-content/uploads/moriirieeh_QA.pdf"
+  },
+  {
+    "id": "jwave-bibliotheca-260506",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『SDGs目標15 陸の豊かさも守ろう』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260506.html",
+    "publishedAt": "2026-05-06"
+  },
+  {
+    "id": "jwave-bibliotheca-230923",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「アバター」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230923.html",
+    "publishedAt": "2023-09-23"
+  },
+  {
+    "id": "jwave-bibliotheca-230218",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「公告」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230218.html",
+    "publishedAt": "2023-02-18"
+  },
+  {
+    "id": "jwave-bibliotheca-260627",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは『居場所』",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260627.html",
+    "publishedAt": "2026-06-27"
+  },
+  {
+    "id": "coconuts-spitz-kusano-iwai-20191028",
+    "type": "article",
+    "media": "COCONUTS",
+    "title": "ハライチ・岩井のエッセイ本を、草野マサムネが突如PR！岩井さんは気づいているのか…？ #スピッツ",
+    "url": "https://coconutsjapan.com/entertainment/spitz-kusanomasamune-iwaiyuki/20897/",
+    "publishedAt": "2019-10-28"
+  },
+  {
+    "id": "jwave-bibliotheca-240330",
+    "type": "article",
+    "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+    "title": "BOOK SHARING｜今回のテーマは「アナログ」",
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240330.html",
+    "publishedAt": "2024-03-30"
   }
 ]

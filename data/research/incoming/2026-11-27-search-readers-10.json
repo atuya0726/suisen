@@ -1,0 +1,937 @@
+{
+  "people": [
+    {
+      "id": "jwave-guest-19",
+      "name": "坂本美雨",
+      "title": "ミュージシャン",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-200",
+      "name": "アオイヤマダ",
+      "title": "ダンサー・表現者",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-182",
+      "name": "江﨑文武",
+      "title": "ピアニスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-165",
+      "name": "宇川直宏",
+      "title": "現代美術家",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-209",
+      "name": "Chara",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ],
+      "sameAs": [
+        "https://charaweb.net/about/"
+      ]
+    },
+    {
+      "id": "jwave-guest-210",
+      "name": "クリス智子",
+      "title": "ラジオパーソナリティ",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-228",
+      "name": "燃え殻",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "jwave-guest-226",
+      "name": "堀込高樹",
+      "title": "KIRINJIのミュージシャン",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-223",
+      "name": "ビッケブランカ",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-0",
+      "name": "尾崎和樹",
+      "title": "Galileo Galileiのドラマー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-13",
+      "name": "ナカシマ",
+      "title": "おいしくるメロンパンのギター・ボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-47",
+      "name": "甲田まひる",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-57",
+      "name": "たかはしほのか",
+      "title": "リーガルリリーのギター・ボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-59",
+      "name": "井上剛",
+      "title": "演出家・映像ディレクター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-99",
+      "name": "嶋浩一郎",
+      "title": "編集者・クリエイティブディレクター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-138",
+      "name": "寺嶋良",
+      "title": "バスケットボール選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jwave-guest-191",
+      "name": "柳瀬博一",
+      "title": "作家・東京工業大学教授",
+      "tags": [
+        "作家",
+        "研究者"
+      ]
+    },
+    {
+      "id": "jwave-guest-196",
+      "name": "牛尾憲輔",
+      "title": "音楽家",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-201",
+      "name": "Yaffle",
+      "title": "音楽プロデューサー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-214",
+      "name": "小谷実由",
+      "title": "モデル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-20",
+      "name": "森純太",
+      "title": "JUN SKY WALKER(S)のギタリスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-141",
+      "name": "柳田周作",
+      "title": "神はサイコロを振らないのボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-28",
+      "name": "アリス＝紗良・オット",
+      "title": "ピアニスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "takehiko-inoue",
+      "name": "井上雄彦",
+      "kana": "いのうえたけひこ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "ringo-sheena",
+      "name": "椎名林檎",
+      "kana": "しいなりんご",
+      "title": "音楽家",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "masamune-kusano",
+      "name": "草野マサムネ",
+      "kana": "くさのまさむね",
+      "title": "スピッツ ボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kaoru-mori",
+      "name": "森薫",
+      "kana": "もりかおる",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "aki-irie",
+      "name": "入江亜季",
+      "kana": "いりえあき",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "osamu-akimoto",
+      "name": "秋本治",
+      "kana": "あきもとおさむ",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "masanori-morita",
+      "name": "森田まさのり",
+      "kana": "もりたまさのり",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "toshio-sako",
+      "name": "迫稔雄",
+      "kana": "さことしお",
+      "title": "漫画家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "ajichika",
+      "name": "アジチカ",
+      "kana": "あじちか",
+      "title": "漫画家ユニット",
+      "tags": [
+        "作家"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "jwave-bibliotheca-230121",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「コモン」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230121.html",
+      "publishedAt": "2023-01-21"
+    },
+    {
+      "id": "jwave-bibliotheca-230527",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「ChatGPT」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230527.html",
+      "publishedAt": "2023-05-27"
+    },
+    {
+      "id": "jwave-bibliotheca-230923",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「アバター」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230923.html",
+      "publishedAt": "2023-09-23"
+    },
+    {
+      "id": "jwave-bibliotheca-221119",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「応援消費」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221119.html",
+      "publishedAt": "2022-11-19"
+    },
+    {
+      "id": "jwave-bibliotheca-221112",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「生命科学的思考」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221112.html",
+      "publishedAt": "2022-11-12"
+    },
+    {
+      "id": "jwave-bibliotheca-220709",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「集合知」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220709.html",
+      "publishedAt": "2022-07-09"
+    },
+    {
+      "id": "jwave-bibliotheca-220723",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「ネガティブ・ケイパビリティ」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220723.html",
+      "publishedAt": "2022-07-23"
+    },
+    {
+      "id": "jwave-bibliotheca-220813",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは今回のテーマは「サステナビリティ」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220813.html",
+      "publishedAt": "2022-08-13"
+    },
+    {
+      "id": "jwave-bibliotheca-261114",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『内向型』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/261114.html",
+      "publishedAt": "2026-11-14"
+    },
+    {
+      "id": "jwave-bibliotheca-260815",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『ネガティブ・ケイパビリティ』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260815.html",
+      "publishedAt": "2026-08-15"
+    },
+    {
+      "id": "jwave-bibliotheca-251220",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『ハクティビズム』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251220.html",
+      "publishedAt": "2025-12-20"
+    },
+    {
+      "id": "jwave-bibliotheca-251011",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『サステナビリティ・ビジネス』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251011.html",
+      "publishedAt": "2025-10-11"
+    },
+    {
+      "id": "jwave-bibliotheca-250927",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『再公営化』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250927.html",
+      "publishedAt": "2025-09-27"
+    },
+    {
+      "id": "jwave-bibliotheca-241228",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「本屋」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/241228.html",
+      "publishedAt": "2024-12-28"
+    },
+    {
+      "id": "jwave-bibliotheca-240330",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「アナログ」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240330.html",
+      "publishedAt": "2024-03-30"
+    },
+    {
+      "id": "jwave-bibliotheca-230325",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「コンサマトリー」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230325.html",
+      "publishedAt": "2023-03-25"
+    },
+    {
+      "id": "jwave-bibliotheca-230218",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「公告」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230218.html",
+      "publishedAt": "2023-02-18"
+    },
+    {
+      "id": "jwave-bibliotheca-230114",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「フォロワーシップ」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230114.html",
+      "publishedAt": "2023-01-14"
+    },
+    {
+      "id": "jwave-bibliotheca-221015",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「アルゴリズム・フェアネス」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221015.html",
+      "publishedAt": "2022-10-15"
+    },
+    {
+      "id": "jwave-bibliotheca-220514",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「プロセスエコノミー」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220514.html",
+      "publishedAt": "2022-05-14"
+    },
+    {
+      "id": "jwave-bibliotheca-260627",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『居場所』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260627.html",
+      "publishedAt": "2026-06-27"
+    },
+    {
+      "id": "jwave-bibliotheca-240309",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「トランジション」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240309.html",
+      "publishedAt": "2024-03-09"
+    },
+    {
+      "id": "jwave-bibliotheca-260506",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『SDGs目標15 陸の豊かさも守ろう』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260506.html",
+      "publishedAt": "2026-05-06"
+    },
+    {
+      "id": "books-ruhe-inoue-takehiko-dokaben",
+      "type": "article",
+      "media": "ブックスルーエ",
+      "title": "井上雄彦先生 FAN SITE",
+      "url": "https://www.books-ruhe.co.jp/it/oreder/"
+    },
+    {
+      "id": "asahi-koshokojitsu-sheena-yoshitake-20210706",
+      "type": "interview",
+      "media": "好書好日",
+      "title": "絵本作家・ヨシタケシンスケさんと音楽家・椎名林檎さんが初対談　私たち、あんなに大人が嫌だったのに",
+      "url": "https://book.asahi.com/article/14385285",
+      "publishedAt": "2021-07-06"
+    },
+    {
+      "id": "coconuts-spitz-kusano-iwai-20191028",
+      "type": "article",
+      "media": "COCONUTS",
+      "title": "ハライチ・岩井のエッセイ本を、草野マサムネが突如PR！岩井さんは気づいているのか…？ #スピッツ",
+      "url": "https://coconutsjapan.com/entertainment/spitz-kusanomasamune-iwaiyuki/20897/",
+      "publishedAt": "2019-10-28"
+    },
+    {
+      "id": "setagaya-literary-museum-mori-irie-qa",
+      "type": "interview",
+      "media": "世田谷文学館",
+      "title": "漫画家・森薫と入江亜季 展 Q&A",
+      "url": "https://www.setabun.or.jp/wp/wp-content/uploads/moriirieeh_QA.pdf"
+    },
+    {
+      "id": "coamix-hokuto-shinso-20231023",
+      "type": "article",
+      "media": "コアミックス",
+      "title": "冨樫義博先生夢想!! 原泰久先生敬愛!! 帯コメント全文公開!! 『北斗の拳』新装版大好評発売中!!",
+      "url": "https://www.coamix.co.jp/topics/hokuto_shinso_1020",
+      "publishedAt": "2023-10-23"
+    },
+    {
+      "id": "coamix-hokuto-shinso-20231226",
+      "type": "article",
+      "media": "コアミックス",
+      "title": "第9巻は迫稔雄先生、第10巻はアジチカ先生が推薦!! 『北斗の拳 新装版』大好評発売中!!",
+      "url": "https://www.coamix.co.jp/topics/hokuto_sinsou_1220",
+      "publishedAt": "2023-12-26"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "jwave-guest-200",
+      "sourceId": "jwave-bibliotheca-230121",
+      "book": {
+        "title": "アメリカ紀行",
+        "author": "千葉雅也",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "jwave-guest-182",
+      "sourceId": "jwave-bibliotheca-230527",
+      "book": {
+        "title": "代表的日本人",
+        "author": "内村鑑三",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "jwave-guest-165",
+      "sourceId": "jwave-bibliotheca-230923",
+      "book": {
+        "title": "エセ著作権事件簿",
+        "author": "友利昴",
+        "publisher": "パブリブ"
+      }
+    },
+    {
+      "personId": "jwave-guest-209",
+      "sourceId": "jwave-bibliotheca-221119",
+      "book": {
+        "title": "花いけの勘どころ",
+        "author": "上野雄次",
+        "publisher": "誠文堂新光社"
+      }
+    },
+    {
+      "personId": "jwave-guest-210",
+      "sourceId": "jwave-bibliotheca-221112",
+      "book": {
+        "title": "ど忘れ書道",
+        "author": "いとうせいこう",
+        "publisher": "ミシマ社"
+      }
+    },
+    {
+      "personId": "jwave-guest-228",
+      "sourceId": "jwave-bibliotheca-220709",
+      "book": {
+        "title": "人生の謎について",
+        "author": "松尾スズキ",
+        "publisher": "マガジンハウス"
+      }
+    },
+    {
+      "personId": "jwave-guest-226",
+      "sourceId": "jwave-bibliotheca-220723",
+      "book": {
+        "title": "折りたたみ北京",
+        "author": "ケン・リュウ",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "jwave-guest-223",
+      "sourceId": "jwave-bibliotheca-220813",
+      "book": {
+        "title": "掌の小説",
+        "author": "川端康成",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "jwave-guest-0",
+      "sourceId": "jwave-bibliotheca-261114",
+      "book": {
+        "title": "クラインの壺",
+        "author": "岡嶋二人",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "jwave-guest-13",
+      "sourceId": "jwave-bibliotheca-260815",
+      "book": {
+        "title": "ボッコちゃん",
+        "author": "星新一",
+        "publisher": "新潮社"
+      },
+      "note": "収録作「おーい でてこーい」を紹介"
+    },
+    {
+      "personId": "jwave-guest-47",
+      "sourceId": "jwave-bibliotheca-251220",
+      "book": {
+        "title": "なんでも見つかる夜に、こころだけが見つからない",
+        "author": "東畑開人",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "jwave-guest-57",
+      "sourceId": "jwave-bibliotheca-251011",
+      "book": {
+        "title": "月は無慈悲な夜の女王",
+        "author": "ロバート・A・ハインライン",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "jwave-guest-59",
+      "sourceId": "jwave-bibliotheca-250927",
+      "book": {
+        "title": "旅をする木",
+        "author": "星野道夫",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "jwave-guest-59",
+      "sourceId": "jwave-bibliotheca-250927",
+      "book": {
+        "title": "長い旅の途上",
+        "author": "星野道夫",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "jwave-guest-99",
+      "sourceId": "jwave-bibliotheca-241228",
+      "book": {
+        "title": "鳥類学者無謀にも恐竜を語る",
+        "author": "川上和人",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "jwave-guest-138",
+      "sourceId": "jwave-bibliotheca-240330",
+      "book": {
+        "title": "ナナメの夕暮れ",
+        "author": "若林正恭",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "jwave-guest-191",
+      "sourceId": "jwave-bibliotheca-230325",
+      "book": {
+        "title": "生物から見た世界",
+        "author": "ユクスキュル",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "jwave-guest-196",
+      "sourceId": "jwave-bibliotheca-230218",
+      "book": {
+        "title": "現代思想入門",
+        "author": "千葉雅也",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "jwave-guest-201",
+      "sourceId": "jwave-bibliotheca-230114",
+      "book": {
+        "title": "フェルマーの最終定理",
+        "author": "サイモン・シン",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "jwave-guest-214",
+      "sourceId": "jwave-bibliotheca-221015",
+      "book": {
+        "title": "絶叫委員会",
+        "author": "穂村弘",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "jwave-guest-19",
+      "sourceId": "jwave-bibliotheca-220514",
+      "book": {
+        "title": "子どもへのまなざし",
+        "author": "佐々木正美",
+        "publisher": "株式会社 福音館書店"
+      }
+    },
+    {
+      "personId": "jwave-guest-20",
+      "sourceId": "jwave-bibliotheca-260627",
+      "book": {
+        "title": "本日は、お日柄もよく",
+        "author": "原田マハ",
+        "publisher": "徳間書店"
+      }
+    },
+    {
+      "personId": "jwave-guest-20",
+      "sourceId": "jwave-bibliotheca-260627",
+      "book": {
+        "title": "あの夏、二人のルカ",
+        "author": "誉田哲也",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "jwave-guest-141",
+      "sourceId": "jwave-bibliotheca-240309",
+      "book": {
+        "title": "人間失格",
+        "author": "太宰治",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "jwave-guest-28",
+      "sourceId": "jwave-bibliotheca-260506",
+      "book": {
+        "title": "モモ",
+        "author": "ミヒャエル・エンデ",
+        "publisher": "岩波書店"
+      },
+      "note": "大島かおり訳"
+    },
+    {
+      "personId": "takehiko-inoue",
+      "sourceId": "books-ruhe-inoue-takehiko-dokaben",
+      "book": {
+        "title": "ドカベン 第13巻",
+        "author": "水島新司",
+        "publisher": "秋田書店"
+      }
+    },
+    {
+      "personId": "ringo-sheena",
+      "sourceId": "asahi-koshokojitsu-sheena-yoshitake-20210706",
+      "book": {
+        "title": "あんなに あんなに",
+        "author": "ヨシタケシンスケ",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "masamune-kusano",
+      "sourceId": "coconuts-spitz-kusano-iwai-20191028",
+      "book": {
+        "title": "僕の人生には事件が起きない",
+        "author": "岩井勇気",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "osamu-akimoto",
+      "sourceId": "coamix-hokuto-shinso-20231023",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "masanori-morita",
+      "sourceId": "coamix-hokuto-shinso-20231023",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "toshio-sako",
+      "sourceId": "coamix-hokuto-shinso-20231226",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "ajichika",
+      "sourceId": "coamix-hokuto-shinso-20231226",
+      "book": {
+        "title": "北斗の拳",
+        "author": "原哲夫、武論尊",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "ファイブスター物語",
+        "author": "永野護",
+        "publisher": "KADOKAWA",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "虹色とうがらし",
+        "author": "あだち充",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "12色物語",
+        "author": "坂口尚",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "菜",
+        "author": "わたせせいぞう",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "ふらり。",
+        "author": "谷口ジロー",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "鉄拳チンミ",
+        "author": "前川たけし",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "瞬きのソーニャ",
+        "author": "弓月光",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "銀の三角",
+        "author": "萩尾望都",
+        "publisher": "白泉社"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "天然コケッコー",
+        "author": "くらもちふさこ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "ドロヘドロ",
+        "author": "林田球",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "辺境警備",
+        "author": "紫堂恭子",
+        "publisher": "KADOKAWA",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "お父さんは急がない",
+        "author": "倉多江美",
+        "publisher": "小学館"
+      }
+    },
+    {
+      "personId": "kaoru-mori",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "コダマの谷 王立大学騒乱劇",
+        "author": "入江亜季",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "aki-irie",
+      "sourceId": "setagaya-literary-museum-mori-irie-qa",
+      "book": {
+        "title": "乙嫁語り",
+        "author": "森薫",
+        "publisher": "エンターブレイン",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": []
+}

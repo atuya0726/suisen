@@ -1,0 +1,1764 @@
+{
+  "people": [
+    {
+      "id": "realsound-okamoto-sho",
+      "name": "オカモトショウ",
+      "title": "ロックバンドOKAMOTO’Sのボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "realsound-minowa-haruka",
+      "name": "箕輪はるか",
+      "title": "お笑いコンビ「ハリセンボン」",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-227",
+      "name": "吉岡里帆",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-190",
+      "name": "井上芳雄",
+      "title": "ミュージカル俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-229",
+      "name": "野宮真貴",
+      "title": "歌手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-194",
+      "name": "スガシカオ",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-54",
+      "name": "森山直太朗",
+      "title": "フォークシンガー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-69",
+      "name": "北山宏光",
+      "title": "歌手・俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-88",
+      "name": "渋谷すばる",
+      "title": "歌手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-94",
+      "name": "高橋優",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-162",
+      "name": "上坂すみれ",
+      "title": "声優・アーティスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-19",
+      "name": "坂本美雨",
+      "title": "ミュージシャン",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-17",
+      "name": "佐藤竹善",
+      "title": "SING LIKE TALKINGのボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-230",
+      "name": "谷中敦",
+      "title": "東京スカパラダイスオーケストラのメンバー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-240",
+      "name": "後藤正文",
+      "title": "ASIAN KUNG-FU GENERATIONのギター・ボーカル",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-237",
+      "name": "渡辺大知",
+      "title": "俳優・ミュージシャン",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-130",
+      "name": "廣瀬俊朗",
+      "title": "ラグビー元日本代表キャプテン",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jwave-guest-129",
+      "name": "大野均",
+      "title": "ラグビー元日本代表",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jwave-guest-213",
+      "name": "西岡良仁",
+      "title": "プロテニス選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jwave-guest-134",
+      "name": "草川拓弥",
+      "title": "超特急のメンバー",
+      "tags": [
+        "芸能"
+      ],
+      "sameAs": [
+        "https://bullettrain.jp/news/detail/110206"
+      ]
+    },
+    {
+      "id": "jwave-guest-242",
+      "name": "長濱ねる",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-238",
+      "name": "斎藤幸平",
+      "title": "経済思想家",
+      "tags": [
+        "研究者",
+        "作家"
+      ]
+    },
+    {
+      "id": "jwave-guest-25",
+      "name": "GAKU-MC",
+      "title": "ラッパー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-103",
+      "name": "佐藤良成",
+      "title": "ハンバート ハンバートのメンバー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-211",
+      "name": "BONNIE PINK",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "jwave-guest-150",
+      "name": "TOMOO",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "realsound-2543863",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが考える「家族」とは？　『キシモジン』『カミキル-KAMI KILL-』から読み解く、人間と家族のかたち",
+      "url": "https://realsound.jp/book/2026/10/post-2543863.html",
+      "publishedAt": "2026-10-07"
+    },
+    {
+      "id": "realsound-2511482",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが推す“次にくるマンガ”は？　『ラットコレクティブ』『二月に殺して桜に埋める』の魅力を語る",
+      "url": "https://realsound.jp/book/2026/09/post-2511482.html",
+      "publishedAt": "2026-09-05"
+    },
+    {
+      "id": "realsound-2444254",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "今の「週刊少年ジャンプ」は“守破離”の破？　オカモトショウが『カグラバチ』や2026年の新連載を熱く語る",
+      "url": "https://realsound.jp/book/2026/07/post-2444254.html",
+      "publishedAt": "2026-07-01"
+    },
+    {
+      "id": "realsound-2383482",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’S・オカモトショウ、話題作『本なら売るほど』をどう読んだ？　「マンガ大賞2026」を語る",
+      "url": "https://realsound.jp/book/2026/05/post-2383482.html",
+      "publishedAt": "2026-05-03"
+    },
+    {
+      "id": "realsound-2358093",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "『AKIRA』金田は『ONE PIECE』ルフィ並みの“ヒーロー”だった？　オカモトショウが名作SFを読み解く",
+      "url": "https://realsound.jp/book/2026/04/post-2358093.html",
+      "publishedAt": "2026-04-07"
+    },
+    {
+      "id": "realsound-2306542",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "「少年マンガを正面からやってる」　オカモトショウが話題作『違国日記』と『パラショッパーズ』の魅力を語る",
+      "url": "https://realsound.jp/book/2026/02/post-2306542.html",
+      "publishedAt": "2026-02-16"
+    },
+    {
+      "id": "realsound-2272564",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’S・オカモトショウが選ぶ「2025年ベストコミック」　『げにかすり』は「脳みそがひっくり返る」",
+      "url": "https://realsound.jp/book/2026/01/post-2272564.html",
+      "publishedAt": "2026-01-09"
+    },
+    {
+      "id": "realsound-2238575",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "「神と人間」「天才と凡人」ーーオカモトショウが『アフターゴッド』と『伍と碁』を読み解く",
+      "url": "https://realsound.jp/book/2025/12/post-2238575.html",
+      "publishedAt": "2025-12-06"
+    },
+    {
+      "id": "realsound-2594874",
+      "type": "article",
+      "media": "Real Sound ブック",
+      "title": "ハリセンボン・近藤春菜におすすめの8冊は？　箕輪はるか＆スタッフ厳選のブックガイドに隠された「嬉しいサプライズ」",
+      "url": "https://realsound.jp/book/2026/11/post-2594874.html",
+      "publishedAt": "2026-11-25"
+    },
+    {
+      "id": "realsound-2152271",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "『光が死んだ夏』に『彼岸島』　オカモトショウが今こそ読みたいホラー漫画を語り尽くす",
+      "url": "https://realsound.jp/book/2025/09/post-2152271.html",
+      "publishedAt": "2025-09-11"
+    },
+    {
+      "id": "realsound-2107927",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウがジョン・レノンを聞きながら読みたい漫画は？　『図書館の大魔術師』「BLUE GIANT」を語り尽くす",
+      "url": "https://realsound.jp/book/2025/08/post-2107927.html",
+      "publishedAt": "2025-08-02"
+    },
+    {
+      "id": "realsound-2063887",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "“殺し屋マンガ”が続々登場、今注目の作品は？　オカモトショウ推薦『アマチュアビジランテ』『INNU -イッヌ-』",
+      "url": "https://realsound.jp/book/2025/06/post-2063887.html",
+      "publishedAt": "2025-06-23"
+    },
+    {
+      "id": "realsound-2014137",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "『運命の巻戻士』は映画『TENET』級のタイムリープ作品？　オカモトショウが今注目するマンガ3選",
+      "url": "https://realsound.jp/book/2025/05/post-2014137.html",
+      "publishedAt": "2025-05-09"
+    },
+    {
+      "id": "realsound-1977116",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウ、宗教ビジネスを描く漫画『るなしい』に感じた人間の業 「リアルなんだけど、一線を越えた先も描いている」",
+      "url": "https://realsound.jp/book/2025/04/post-1977116.html",
+      "publishedAt": "2025-04-04"
+    },
+    {
+      "id": "realsound-1941202",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウ「マンガ大賞2025」ノミネート作品を語り尽くす！　『図書館の大魔術師』『ふつうの軽音部』……本命は？",
+      "url": "https://realsound.jp/book/2025/02/post-1941202.html",
+      "publishedAt": "2025-02-28"
+    },
+    {
+      "id": "realsound-1679933",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが語る、いまイチオシの青年漫画2作品！　『ハヴィラ戦記』＆『だれでも抱けるキミが好き』を読め",
+      "url": "https://realsound.jp/book/2025/02/post-1679933.html",
+      "publishedAt": "2025-02-04"
+    },
+    {
+      "id": "realsound-1610774",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが語る、『路傍のフジイ』の“浄化力“　承認欲求から解放されたフジイは現代の新たなヒーロー像？",
+      "url": "https://realsound.jp/book/2024/04/post-1610774.html",
+      "publishedAt": "2024-04-30"
+    },
+    {
+      "id": "realsound-1585827",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが語る、野球マンガ『ダイヤモンドの功罪』の斬新さ　生々しく描かれる”天才の苦悩”とは",
+      "url": "https://realsound.jp/book/2024/02/post-1585827.html",
+      "publishedAt": "2024-02-29"
+    },
+    {
+      "id": "realsound-1551485",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが選ぶ、いま注目のマンガとは？　天才・魚豊の新作から残酷すぎる野球漫画まで、期待作を大紹介",
+      "url": "https://realsound.jp/book/2024/01/post-1551485.html",
+      "publishedAt": "2024-01-22"
+    },
+    {
+      "id": "realsound-1520758",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウ「アンデラがある限り、ジャンプは大丈夫」　『アンデッドアンラック』が受け継ぐ少年漫画の遺伝子",
+      "url": "https://realsound.jp/book/2023/12/post-1520758.html",
+      "publishedAt": "2023-12-17"
+    },
+    {
+      "id": "realsound-1500244",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "オカモトショウが語る、押井守×今敏による未完の名作『セラフィム』　「今の方がリアルな物語として読めると思う」",
+      "url": "https://realsound.jp/book/2023/11/post-1500244.html",
+      "publishedAt": "2023-11-27"
+    },
+    {
+      "id": "realsound-1293676",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’Sオカモトショウが語る、2023年注目の漫画たち　「『サターンリターン』はすごいです」",
+      "url": "https://realsound.jp/book/2023/03/post-1293676.html",
+      "publishedAt": "2023-03-31"
+    },
+    {
+      "id": "realsound-1268047",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’Sオカモトショウが語る“いま読むべき漫画”たち　「マンガ大賞2023」ノミネート作品を徹底紹介",
+      "url": "https://realsound.jp/book/2023/02/post-1268047.html",
+      "publishedAt": "2023-02-28"
+    },
+    {
+      "id": "realsound-1166938",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’Sオカモトショウが語る、藤子不二雄A作品の抗えない魅力　「今週の週刊誌に載っていても“ヤバイ”と思う」",
+      "url": "https://realsound.jp/book/2022/10/post-1166938.html",
+      "publishedAt": "2022-10-30"
+    },
+    {
+      "id": "realsound-1029674",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’Sオカモトショウが推すSF漫画『バビロンまでは何光年？』　壮大で不条理な魅力を語る",
+      "url": "https://realsound.jp/book/2022/05/post-1029674.html",
+      "publishedAt": "2022-05-16"
+    },
+    {
+      "id": "realsound-1008297",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "月刊オカモトショウ特別編　再認識した『ONE PIECE』の偉大さ「自分の“普通さ”を知っている尾田先生はスゴすぎる」",
+      "url": "https://realsound.jp/book/2022/04/post-1008297.html",
+      "publishedAt": "2022-04-14"
+    },
+    {
+      "id": "realsound-977517",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "連載「月刊オカモトショウ」　いま最注目の国取り漫画『日本三國』が気になって仕方がない",
+      "url": "https://realsound.jp/book/2022/02/post-977517.html",
+      "publishedAt": "2022-02-28"
+    },
+    {
+      "id": "realsound-964686",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "連載「月刊オカモトショウ」　絶対に読むべき80年代の名作SFマンガ、『ワン・ゼロ』について語りたい！",
+      "url": "https://realsound.jp/book/2022/02/post-964686.html",
+      "publishedAt": "2022-02-09"
+    },
+    {
+      "id": "realsound-937604",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "連載「月刊オカモトショウ」年末特別版　絶対に読むべき、2021年のコミックBEST5はコレだ！",
+      "url": "https://realsound.jp/book/2021/12/post-937604.html",
+      "publishedAt": "2021-12-31"
+    },
+    {
+      "id": "realsound-914754",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "連載：月刊オカモトショウVol.5　『ヒロアカ』の熱さは、ヒネくれたマンガ好きの心も燃やす！",
+      "url": "https://realsound.jp/book/2021/11/post-914754.html",
+      "publishedAt": "2021-11-30"
+    },
+    {
+      "id": "realsound-859437",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "月刊オカモトショウ特別編　いまだから読みたい、萩尾望都＆高野文子作品の色あせない魅力を語り尽くす",
+      "url": "https://realsound.jp/book/2021/10/post-859437.html",
+      "publishedAt": "2021-10-04"
+    },
+    {
+      "id": "realsound-858732",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "月刊オカモトショウ特別編　親友と語り合う、よしながふみ『愛すべき娘たち』の特別さ",
+      "url": "https://realsound.jp/book/2021/09/post-858732.html",
+      "publishedAt": "2021-09-14"
+    },
+    {
+      "id": "realsound-827090",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’S オカモトショウ連載「月刊オカモトショウ」第4回：2021年最大の話題作・藤本タツキ『ルックバック』",
+      "url": "https://realsound.jp/book/2021/08/post-827090.html",
+      "publishedAt": "2021-08-02"
+    },
+    {
+      "id": "realsound-781131",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO’S オカモトショウ連載「月刊オカモトショウ」第2回：地動説を証明する人々を描く『チ。—地球の運動について—』",
+      "url": "https://realsound.jp/book/2021/05/post-781131.html",
+      "publishedAt": "2021-05-31"
+    },
+    {
+      "id": "realsound-751790",
+      "type": "interview",
+      "media": "Real Sound ブック",
+      "title": "OKAMOTO'S オカモトショウ新連載「月刊オカモトショウ」第1回：SF×ハードボイルドな世界観の『虎鶫』を語る",
+      "url": "https://realsound.jp/book/2021/04/post-751790.html",
+      "publishedAt": "2021-04-29"
+    },
+    {
+      "id": "jwave-bibliotheca-220716",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「ギグ・エコノミー 」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220716.html",
+      "publishedAt": "2022-07-16"
+    },
+    {
+      "id": "jwave-bibliotheca-230401",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「キャリア」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230401.html",
+      "publishedAt": "2023-04-01"
+    },
+    {
+      "id": "jwave-bibliotheca-220702",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「傾聴力」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220702.html",
+      "publishedAt": "2022-07-02"
+    },
+    {
+      "id": "jwave-bibliotheca-230304",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「フードテック」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230304.html",
+      "publishedAt": "2023-03-04"
+    },
+    {
+      "id": "jwave-bibliotheca-251102",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『SDG's目標12 つくる責任 つかう責任』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251102.html",
+      "publishedAt": "2025-11-02"
+    },
+    {
+      "id": "jwave-bibliotheca-250719",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「SDGs 目標10 人や国の不平等をなくそう」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250719.html",
+      "publishedAt": "2025-07-19"
+    },
+    {
+      "id": "jwave-bibliotheca-250315",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「変化への抵抗」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250315.html",
+      "publishedAt": "2025-03-15"
+    },
+    {
+      "id": "jwave-bibliotheca-250201",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「ライフ・マネジメント・ステラジー」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250201.html",
+      "publishedAt": "2025-02-01"
+    },
+    {
+      "id": "jwave-bibliotheca-231014",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「不確実性」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/231014.html",
+      "publishedAt": "2023-10-14"
+    },
+    {
+      "id": "jwave-bibliotheca-260704",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『SDGs 目標16 平和と公正をすべての人に』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260704.html",
+      "publishedAt": "2026-07-04"
+    },
+    {
+      "id": "jwave-bibliotheca-260718",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『制作』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260718.html",
+      "publishedAt": "2026-07-18"
+    },
+    {
+      "id": "jwave-bibliotheca-220625",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「キュレーション」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220625.html",
+      "publishedAt": "2022-06-25"
+    },
+    {
+      "id": "jwave-bibliotheca-220416",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「アート思考」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220416.html",
+      "publishedAt": "2022-04-16"
+    },
+    {
+      "id": "jwave-bibliotheca-220507",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「ダイバーシティ」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220507.html",
+      "publishedAt": "2022-05-07"
+    },
+    {
+      "id": "jwave-bibliotheca-240525",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「後悔の力」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240525.html",
+      "publishedAt": "2024-05-25"
+    },
+    {
+      "id": "jwave-bibliotheca-240601",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「チームワーク」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240601.html",
+      "publishedAt": "2024-06-01"
+    },
+    {
+      "id": "jwave-bibliotheca-221022",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「ミニマリズム」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221022.html",
+      "publishedAt": "2022-10-22"
+    },
+    {
+      "id": "jwave-bibliotheca-240427",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「自己受容」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240427.html",
+      "publishedAt": "2024-04-27"
+    },
+    {
+      "id": "jwave-bibliotheca-220402",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜初回放送のテーマは「高原社会」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220402.html",
+      "publishedAt": "2022-04-02"
+    },
+    {
+      "id": "jwave-bibliotheca-220430",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜テーマは「ミラーワールド」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220430.html",
+      "publishedAt": "2022-04-30"
+    },
+    {
+      "id": "jwave-bibliotheca-260523",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは『リジェネラティブ』",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260523.html",
+      "publishedAt": "2026-05-23"
+    },
+    {
+      "id": "jwave-bibliotheca-241130",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「イシュー」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/241130.html",
+      "publishedAt": "2024-11-30"
+    },
+    {
+      "id": "jwave-bibliotheca-221105",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「コンヴィヴィアリティ」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221105.html",
+      "publishedAt": "2022-11-05"
+    },
+    {
+      "id": "jwave-bibliotheca-240106",
+      "type": "article",
+      "media": "J-WAVE BIBLIOTHECA -THE WEEKEND LIBRARY-",
+      "title": "BOOK SHARING｜今回のテーマは「SDGs」",
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240106.html",
+      "publishedAt": "2024-01-06"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2543863",
+      "book": {
+        "title": "キシモジン",
+        "author": "朝霧 舟",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2543863",
+      "book": {
+        "title": "カミキル-KAMI KILL-",
+        "author": "此元 和津也、ヤマサキ リョウ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2511482",
+      "book": {
+        "title": "ラットコレクティブ",
+        "author": "大村 知空",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2511482",
+      "book": {
+        "title": "二月に殺して桜に埋める",
+        "author": "鳥 トマト",
+        "publisher": "白泉社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "カグラバチ",
+        "author": "外薗 健",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "SAKAMOTO DAYS",
+        "author": "鈴木 祐斗",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "鵺の陰陽師",
+        "author": "川江 康太",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "ウィッチウォッチ",
+        "author": "篠原 健太",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "エイリアンヘッドバット",
+        "author": "犬居彰",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "夏と蛍籠",
+        "author": "里庄マサヨシ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      },
+      "note": "記事公開後に刊行された紙版を掲載"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2444254",
+      "book": {
+        "title": "2年B組 勇者デストロイヤーず",
+        "author": "空知 英秋",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      },
+      "note": "記事公開後に刊行された紙版を掲載"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2383482",
+      "book": {
+        "title": "本なら売るほど",
+        "author": "児島青",
+        "publisher": "KADOKAWA",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2383482",
+      "book": {
+        "title": "邪神の弁当屋さん",
+        "author": "イシコ",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2383482",
+      "book": {
+        "title": "RIOT",
+        "author": "塚田 ゆうた",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2358093",
+      "book": {
+        "title": "AKIRA",
+        "author": "大友 克洋",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2306542",
+      "book": {
+        "title": "違国日記",
+        "author": "ヤマシタ トモコ",
+        "publisher": "祥伝社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2306542",
+      "book": {
+        "title": "パラショッパーズ",
+        "author": "福地 翼",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2272564",
+      "book": {
+        "title": "げにかすり",
+        "author": "迫 稔雄",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2272564",
+      "book": {
+        "title": "メダリスト",
+        "author": "つるまいかだ",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2272564",
+      "book": {
+        "title": "平成敗残兵すみれちゃん",
+        "author": "里見 U",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2272564",
+      "book": {
+        "title": "九条の大罪",
+        "author": "真鍋昌平",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2272564",
+      "book": {
+        "title": "嘘喰い",
+        "author": "迫稔雄",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2238575",
+      "book": {
+        "title": "アフターゴッド",
+        "author": "江野朱美",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2238575",
+      "book": {
+        "title": "伍と碁",
+        "author": "蓮尾トウト、仲里はるな",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-minowa-haruka",
+      "sourceId": "realsound-2594874",
+      "book": {
+        "title": "ポケットと人の文化史",
+        "author": "ハンナ・カールソン、岸川 由美",
+        "publisher": "原書房"
+      },
+      "note": "ハリセンボン公式YouTube 2026年11月24日公開"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2152271",
+      "book": {
+        "title": "光が死んだ夏",
+        "author": "モクモクれん",
+        "publisher": "KADOKAWA",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2152271",
+      "book": {
+        "title": "彼岸島",
+        "author": "松本光司",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2107927",
+      "book": {
+        "title": "図書館の大魔術師",
+        "author": "泉光",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2107927",
+      "book": {
+        "title": "BLUE GIANT",
+        "author": "石塚 真一",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2063887",
+      "book": {
+        "title": "アマチュアビジランテ",
+        "author": "浅村 壮平、内藤 光太郎",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2063887",
+      "book": {
+        "title": "INNU",
+        "author": "大沼 隆揮、小丸 ひかり",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2014137",
+      "book": {
+        "title": "運命の巻戻士",
+        "author": "木村 風太",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2014137",
+      "book": {
+        "title": "みちかとまり",
+        "author": "田島 列島",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-2014137",
+      "book": {
+        "title": "んば！",
+        "author": "熱焼江うお",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1977116",
+      "book": {
+        "title": "るなしい",
+        "author": "意志強 ナツ子",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1941202",
+      "book": {
+        "title": "ふつうの軽音部",
+        "author": "出内 テツオ、クワハリ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1941202",
+      "book": {
+        "title": "ありす、宇宙までも",
+        "author": "売野 機子",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1941202",
+      "book": {
+        "title": "COSMOS",
+        "author": "田村隆平",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1679933",
+      "book": {
+        "title": "ハヴィラ戦記",
+        "author": "みのすけ、町 健次郎、西村 奈美子",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1679933",
+      "book": {
+        "title": "だれでも抱けるキミが好き",
+        "author": "武田スーパー",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1610774",
+      "book": {
+        "title": "路傍のフジイ",
+        "author": "鍋 倉夫",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1585827",
+      "book": {
+        "title": "ダイヤモンドの功罪",
+        "author": "平井 大橋",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1585827",
+      "book": {
+        "title": "ドカベン",
+        "author": "水島新司",
+        "publisher": "秋田書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1585827",
+      "book": {
+        "title": "泣くようぐいす",
+        "author": "木多康昭",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1585827",
+      "book": {
+        "title": "4軍くん（仮）",
+        "author": "末広 光、森高 夕次",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1585827",
+      "book": {
+        "title": "住みにごり",
+        "author": "たか たけし",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1551485",
+      "book": {
+        "title": "ようこそ！FACT(東京S区第二支部)へ",
+        "author": "魚豊",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1551485",
+      "book": {
+        "title": "龍とカメレオン",
+        "author": "石山諒",
+        "publisher": "スクウェア・エニックス",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1551485",
+      "book": {
+        "title": "僕と君の大切な話",
+        "author": "ろびこ",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1551485",
+      "book": {
+        "title": "君のことが大大大大大好きな100人の彼女",
+        "author": "野澤ゆき子、中村力斗",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1551485",
+      "book": {
+        "title": "シキュウジ -高校球児に明日はない-",
+        "author": "大沼 隆揮、ツルシマ",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1520758",
+      "book": {
+        "title": "アンデッドアンラック",
+        "author": "戸塚 慶文",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1500244",
+      "book": {
+        "title": "セラフィム",
+        "author": "押井守、今敏",
+        "publisher": "徳間書店",
+        "edition": "2010年版",
+        "subtitle": "2億6661万3336の翼"
+      },
+      "note": "徳間書店の2010年版"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1293676",
+      "book": {
+        "title": "ブルーロック",
+        "author": "金城 宗幸、ノ村 優介",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1293676",
+      "book": {
+        "title": "サターンリターン",
+        "author": "鳥飼 茜",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1268047",
+      "book": {
+        "title": "正反対な君と僕",
+        "author": "阿賀沢 紅茶",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1268047",
+      "book": {
+        "title": "劇光仮面",
+        "author": "山口 貴由",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1268047",
+      "book": {
+        "title": "あかね噺",
+        "author": "馬上 鷹将、末永 裕樹",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1268047",
+      "book": {
+        "title": "イリオス",
+        "author": "円城寺 真己",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1166938",
+      "book": {
+        "title": "藤子不二雄Ａのブラックユーモア",
+        "author": "藤子不二雄Ａ",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      },
+      "note": "第1巻「黒イせぇるすまん」"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1166938",
+      "book": {
+        "title": "まんが道",
+        "author": "藤子不二雄Ａ",
+        "publisher": "中央公論新社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1029674",
+      "book": {
+        "title": "バビロンまでは何光年？",
+        "author": "道満晴明",
+        "publisher": "秋田書店"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-1008297",
+      "book": {
+        "title": "ONE PIECE",
+        "author": "尾田 栄一郎",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-977517",
+      "book": {
+        "title": "日本三國",
+        "author": "松木 いっか",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      },
+      "note": "記事公開後に刊行された紙版を掲載"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-964686",
+      "book": {
+        "title": "ワン・ゼロ",
+        "author": "佐藤史生",
+        "publisher": "復刊ドットコム",
+        "edition": "シリーズ（愛蔵版）"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-937604",
+      "book": {
+        "title": "シャドーハウス",
+        "author": "ソウマトウ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-937604",
+      "book": {
+        "title": "満州アヘンスクワッド",
+        "author": "鹿子、門馬 司",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-937604",
+      "book": {
+        "title": "君が獣になる前に",
+        "author": "さの 隆",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      },
+      "note": "記事公開後に刊行された紙版を掲載"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-937604",
+      "book": {
+        "title": "闇金ウシジマくん",
+        "author": "真鍋 昌平",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-914754",
+      "book": {
+        "title": "僕のヒーローアカデミア",
+        "author": "堀越 耕平",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-859437",
+      "book": {
+        "title": "11人いる！",
+        "author": "萩尾 望都",
+        "publisher": "小学館",
+        "edition": "小学館文庫"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-859437",
+      "book": {
+        "title": "ポーの一族",
+        "author": "萩尾望都",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-859437",
+      "book": {
+        "title": "黄色い本",
+        "author": "高野 文子",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-858732",
+      "book": {
+        "title": "愛すべき娘たち",
+        "author": "よしながふみ",
+        "publisher": "白泉社"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-827090",
+      "book": {
+        "title": "ルックバック",
+        "author": "藤本 タツキ",
+        "publisher": "集英社"
+      },
+      "note": "記事公開後に刊行された紙版を掲載"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-781131",
+      "book": {
+        "title": "チ。-地球の運動についてー",
+        "author": "魚豊",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-751790",
+      "book": {
+        "title": "虎鶫",
+        "author": "ippatu",
+        "publisher": "講談社",
+        "edition": "シリーズ",
+        "subtitle": "とらつぐみ -TSUGUMI PROJECT-"
+      },
+      "note": "記事公開後に刊行された紙版を掲載"
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-751790",
+      "book": {
+        "title": "銃夢",
+        "author": "木城ゆきと",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-751790",
+      "book": {
+        "title": "BLAME！",
+        "author": "弐瓶勉",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-751790",
+      "book": {
+        "title": "風の谷のナウシカ",
+        "author": "宮崎駿",
+        "publisher": "徳間書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "realsound-okamoto-sho",
+      "sourceId": "realsound-751790",
+      "book": {
+        "title": "攻殻機動隊",
+        "author": "士郎 正宗",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "jwave-guest-227",
+      "sourceId": "jwave-bibliotheca-220716",
+      "book": {
+        "title": "猫ごよみ365日",
+        "author": "中西なちお",
+        "publisher": "誠文堂新光社"
+      }
+    },
+    {
+      "personId": "jwave-guest-190",
+      "sourceId": "jwave-bibliotheca-230401",
+      "book": {
+        "title": "無人島のふたり",
+        "author": "山本文緒",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "jwave-guest-229",
+      "sourceId": "jwave-bibliotheca-220702",
+      "book": {
+        "title": "ティファニーで朝食を",
+        "author": "トルーマン・カポーティ",
+        "publisher": "新潮社"
+      },
+      "note": "村上春樹訳"
+    },
+    {
+      "personId": "jwave-guest-194",
+      "sourceId": "jwave-bibliotheca-230304",
+      "book": {
+        "title": "人生の結論",
+        "author": "小池一夫",
+        "publisher": "朝日新聞出版"
+      }
+    },
+    {
+      "personId": "jwave-guest-54",
+      "sourceId": "jwave-bibliotheca-251102",
+      "book": {
+        "title": "普請の顛末",
+        "author": "柏木博",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "jwave-guest-69",
+      "sourceId": "jwave-bibliotheca-250719",
+      "book": {
+        "title": "夜は短し歩けよ乙女",
+        "author": "森見登美彦",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "jwave-guest-88",
+      "sourceId": "jwave-bibliotheca-250315",
+      "book": {
+        "title": "とんび",
+        "author": "重松清",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "jwave-guest-94",
+      "sourceId": "jwave-bibliotheca-250201",
+      "book": {
+        "title": "自分の感受性くらい",
+        "author": "茨木のり子",
+        "publisher": "花神社"
+      }
+    },
+    {
+      "personId": "jwave-guest-162",
+      "sourceId": "jwave-bibliotheca-231014",
+      "book": {
+        "title": "トウガラシの世界史",
+        "author": "山本紀夫",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "jwave-guest-19",
+      "sourceId": "jwave-bibliotheca-260704",
+      "book": {
+        "title": "井上ひさしの 子どもにつたえる日本国憲法",
+        "author": "井上ひさし",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "jwave-guest-19",
+      "sourceId": "jwave-bibliotheca-260704",
+      "book": {
+        "title": "やさしいことばで日本国憲法",
+        "author": "池田香代子",
+        "publisher": "マガジンハウス"
+      }
+    },
+    {
+      "personId": "jwave-guest-17",
+      "sourceId": "jwave-bibliotheca-260718",
+      "book": {
+        "title": "人間というもの",
+        "author": "司馬遼太郎",
+        "publisher": "PHP研究所"
+      }
+    },
+    {
+      "personId": "jwave-guest-230",
+      "sourceId": "jwave-bibliotheca-220625",
+      "book": {
+        "title": "神話の力",
+        "author": "ジョーゼフ・キャンベル",
+        "publisher": "早川書房"
+      }
+    },
+    {
+      "personId": "jwave-guest-240",
+      "sourceId": "jwave-bibliotheca-220416",
+      "book": {
+        "title": "どつぼ超然",
+        "author": "町田康",
+        "publisher": "河出書房新社"
+      },
+      "note": "GOTCH名義で紹介"
+    },
+    {
+      "personId": "jwave-guest-237",
+      "sourceId": "jwave-bibliotheca-220507",
+      "book": {
+        "title": "ビリジアン",
+        "author": "柴崎友香",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "jwave-guest-130",
+      "sourceId": "jwave-bibliotheca-240525",
+      "book": {
+        "title": "運動脳",
+        "author": "アンデシュ・ハンセン",
+        "publisher": "サンマーク出版"
+      }
+    },
+    {
+      "personId": "jwave-guest-129",
+      "sourceId": "jwave-bibliotheca-240601",
+      "book": {
+        "title": "夢と金",
+        "author": "西野亮廣",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "jwave-guest-213",
+      "sourceId": "jwave-bibliotheca-221022",
+      "book": {
+        "title": "確率論的思考",
+        "author": "田渕直也",
+        "publisher": "日本実業出版社"
+      }
+    },
+    {
+      "personId": "jwave-guest-134",
+      "sourceId": "jwave-bibliotheca-240427",
+      "book": {
+        "title": "変な絵",
+        "author": "雨穴",
+        "publisher": "双葉社"
+      },
+      "note": "超特急のタクヤとして紹介"
+    },
+    {
+      "personId": "jwave-guest-242",
+      "sourceId": "jwave-bibliotheca-220402",
+      "book": {
+        "title": "春期限定いちごタルト事件",
+        "author": "米澤穂信",
+        "publisher": "東京創元社"
+      }
+    },
+    {
+      "personId": "jwave-guest-238",
+      "sourceId": "jwave-bibliotheca-220430",
+      "book": {
+        "title": "Humankind 希望の歴史 上",
+        "author": "ルトガー・ブレグマン",
+        "publisher": "文藝春秋"
+      },
+      "note": "上下巻のうち上巻を掲載"
+    },
+    {
+      "personId": "jwave-guest-25",
+      "sourceId": "jwave-bibliotheca-260523",
+      "book": {
+        "title": "店長がバカすぎて",
+        "author": "早見和真",
+        "publisher": "角川春樹事務所"
+      }
+    },
+    {
+      "personId": "jwave-guest-103",
+      "sourceId": "jwave-bibliotheca-241130",
+      "book": {
+        "title": "ブルースだって、ただの歌",
+        "author": "藤本和子",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "jwave-guest-211",
+      "sourceId": "jwave-bibliotheca-221105",
+      "book": {
+        "title": "ことばのしっぽ",
+        "author": "読売新聞生活部",
+        "publisher": "中央公論新社"
+      }
+    },
+    {
+      "personId": "jwave-guest-150",
+      "sourceId": "jwave-bibliotheca-240106",
+      "book": {
+        "title": "やわらかなレタス",
+        "author": "江國香織",
+        "publisher": "文藝春秋"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://realsound.jp/tag/%e6%9c%88%e5%88%8a%e3%82%aa%e3%82%ab%e3%83%a2%e3%83%88%e3%82%b7%e3%83%a7%e3%82%a6",
+      "result": "index",
+      "reason": "Real Sound ブックのオカモトショウによる漫画紹介連載。"
+    },
+    {
+      "url": "https://realsound.jp/book/2025/11/post-2216950.html",
+      "result": "rejected",
+      "reason": "対談で紹介した漫画の新刊告知を含むため保留。"
+    },
+    {
+      "url": "https://realsound.jp/book/2023/10/post-1461913.html",
+      "result": "rejected",
+      "reason": "カグラバチは本人が2026年の回で改めて推薦。"
+    },
+    {
+      "url": "https://realsound.jp/book/2023/09/post-1441955.html",
+      "result": "rejected",
+      "reason": "原作アニメのエンディング曲を担当した作品のため除外。"
+    },
+    {
+      "url": "https://www.j-wave.co.jp/original/bibliotheca/archive.html",
+      "result": "index",
+      "reason": "J-WAVE BIBLIOTHECAの公式番組アーカイブ。BOOK SHARINGでゲストが本を選ぶ。"
+    }
+  ]
+}

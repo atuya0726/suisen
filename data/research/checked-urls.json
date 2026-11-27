@@ -23656,5 +23656,650 @@
     "reason": "robots.txt で AI クローラーが拒否されている",
     "person": "羽生結弦",
     "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/6338",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-6338",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.coamix.co.jp/topics/hokuto_shinso_1020",
+    "result": "adopted",
+    "reason": "sources.json の coamix-hokuto-shinso-20231023",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/757401",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-757401",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/14952",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-14952",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/11089",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-11089",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.yamagata-u.ac.jp/jp/files/3614/7548/5631/seika67-01.pdf",
+    "result": "adopted",
+    "reason": "sources.json の yamagata-u-midorigi-67-togashi",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/10264",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-10264",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/7090",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-7090",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.shonenjump.com/p/sp/1606/hyskoa/talk_2.html",
+    "result": "adopted",
+    "reason": "sources.json の shonen-jump-plus-togashi-ishida-talk-2",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.coamix.co.jp/topics/hokuto_shinso_0913",
+    "result": "adopted",
+    "reason": "sources.json の coamix-hokuto-shinso-20230915",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/758925",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-precious-758925",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.aboutamazon.jp/news/entertainment/manga-is-the-most-important-thing-in-my-life-ive-been-saved-many-times",
+    "result": "adopted",
+    "reason": "sources.json の about-amazon-japan-nakagawa-manga",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/241827",
+    "result": "rejected",
+    "person": "木村元",
+    "reason": "出版社代表・書籍編集者としての選書。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://j-books.shueisha.co.jp/prize/horror/qaex01.html",
+    "result": "rejected",
+    "reason": "robots.txt で全パスを収集対象外としている。",
+    "person": "芥見下々",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.cnn.co.jp/showbiz/35025105.html",
+    "result": "rejected",
+    "reason": "robots.txt でAI関連ユーザーエージェントを収集対象外としている。",
+    "person": "井上雄彦",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2022/04/post-1008297.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1008297",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/03/post-1293676.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1293676",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/02/post-2306542.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2306542",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/09/post-2152271.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2152271",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/02/post-1268047.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1268047",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250315.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-250315",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/12/post-2238575.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2238575",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2022/05/post-1029674.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1029674",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240106.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-240106",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/04/post-751790.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-751790",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/11/post-1500244.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1500244",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260704.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-260704",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220430.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220430",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2022/02/post-977517.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-977517",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230401.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230401",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260523.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-260523",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/08/post-2107927.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2107927",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/02/post-1941202.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1941202",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220507.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220507",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221022.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-221022",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220402.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220402",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/11/post-2594874.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2594874",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/10/post-2543863.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2543863",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/10/post-859437.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-859437",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/241130.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-241130",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220716.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220716",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/05/post-2383482.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2383482",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2022/10/post-1166938.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1166938",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/09/post-858732.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-858732",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/07/post-2444254.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2444254",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/04/post-1977116.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1977116",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/02/post-1679933.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1679933",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/04/post-1610774.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1610774",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260718.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-260718",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/01/post-2272564.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2272564",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2022/02/post-964686.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-964686",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240601.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-240601",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221105.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-221105",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/12/post-937604.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-937604",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240427.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-240427",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/02/post-1585827.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1585827",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/08/post-827090.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-827090",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/231014.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-231014",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220625.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220625",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/06/post-2063887.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2063887",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/09/post-2511482.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2511482",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/12/post-1520758.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1520758",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251102.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-251102",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/11/post-914754.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-914754",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/05/post-2014137.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2014137",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250719.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-250719",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2021/05/post-781131.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-781131",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220702.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220702",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250201.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-250201",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2026/04/post-2358093.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-2358093",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220416.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220416",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2024/01/post-1551485.html",
+    "result": "adopted",
+    "reason": "sources.json の realsound-1551485",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240525.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-240525",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230304.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230304",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/tag/%e6%9c%88%e5%88%8a%e3%82%aa%e3%82%ab%e3%83%a2%e3%83%88%e3%82%b7%e3%83%a7%e3%82%a6",
+    "result": "index",
+    "reason": "Real Sound ブックのオカモトショウによる漫画紹介連載。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2025/11/post-2216950.html",
+    "result": "rejected",
+    "reason": "対談で紹介した漫画の新刊告知を含むため保留。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/10/post-1461913.html",
+    "result": "rejected",
+    "reason": "カグラバチは本人が2026年の回で改めて推薦。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://realsound.jp/book/2023/09/post-1441955.html",
+    "result": "rejected",
+    "reason": "原作アニメのエンディング曲を担当した作品のため除外。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/archive.html",
+    "result": "index",
+    "reason": "J-WAVE BIBLIOTHECAの公式番組アーカイブ。BOOK SHARINGでゲストが本を選ぶ。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/261114.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-261114",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.coamix.co.jp/topics/hokuto_sinsou_1220",
+    "result": "adopted",
+    "reason": "sources.json の coamix-hokuto-shinso-20231226",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221015.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-221015",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260815.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-260815",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://book.asahi.com/article/14385285",
+    "result": "adopted",
+    "reason": "sources.json の asahi-koshokojitsu-sheena-yoshitake-20210706",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230325.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230325",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.books-ruhe.co.jp/it/oreder/",
+    "result": "adopted",
+    "reason": "sources.json の books-ruhe-inoue-takehiko-dokaben",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230121.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230121",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220723.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220723",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/250927.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-250927",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221119.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-221119",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/241228.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-241228",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/221112.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-221112",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251220.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-251220",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220514.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220514",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230527.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230527",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230114.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230114",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240309.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-240309",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220709.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220709",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/251011.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-251011",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/220813.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-220813",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.setabun.or.jp/wp/wp-content/uploads/moriirieeh_QA.pdf",
+    "result": "adopted",
+    "reason": "sources.json の setagaya-literary-museum-mori-irie-qa",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260506.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-260506",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230923.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230923",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/230218.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-230218",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/260627.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-260627",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://coconutsjapan.com/entertainment/spitz-kusanomasamune-iwaiyuki/20897/",
+    "result": "adopted",
+    "reason": "sources.json の coconuts-spitz-kusano-iwai-20191028",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.j-wave.co.jp/original/bibliotheca/entry/240330.html",
+    "result": "adopted",
+    "reason": "sources.json の jwave-bibliotheca-240330",
+    "checkedAt": "2026-11-27"
   }
 ]
