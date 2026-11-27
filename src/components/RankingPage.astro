@@ -80,6 +80,9 @@ const itemListLd = {
           ))
         }
       </ul>
+      {!tagRanking && page === 1 && (
+        <p class="lead"><a href="/ranking/lifetime/">一生に一度は読むべき本ランキング</a></p>
+      )}
     </header>
 
     <div class="page-body prose">

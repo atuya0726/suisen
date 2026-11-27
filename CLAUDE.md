@@ -66,7 +66,7 @@ UI を作るときは必ずリポジトリ直下の `DESIGN.md` に従うこと�
 │  │  ├─ data.ts           # JSON 読み込み・集計（ランキング計算など）
 │  │  └─ links.ts          # アフィリエイトURL生成
 │  ├─ layouts/Base.astro
-│  ├─ components/          # BookCover, BookCard, PersonRow, Recommendation, BuyButtons, Breadcrumbs, PrNotice, Pagination
+│  ├─ components/          # BookCover, BookCard, PersonRow, Recommendation, BuyButtons, Breadcrumbs, Pagination
 │  ├─ styles/global.css    # DESIGN.md のトークンをここに定義
 │  └─ pages/               # §5
 └─ public/
@@ -222,7 +222,7 @@ ID は URL にそのまま使う。変更しない前提で付ける。
 
 ## 7. 法令・掲載ポリシー（必ず守る）
 
-- **PR表記**: 全ページの上部に「本ページはプロモーションを含みます」（景品表示法のステマ規制対応）。`/about/` にアフィリエイト参加の明記
+- **PR表記**: 全ページ共通のフッターにアフィリエイト参加と紹介料の説明を掲載する。`/about/` にも参加プログラムを明記する。
 - **出典必須**: 推薦はすべて出典（媒体・日付・URL）とセットで表示。日付が出典ページから分からない場合だけ「掲載日不明」として載せてよい。出典のない推薦は表示しない
 - **有料・会員限定の記事は出典にしない**: ログインなしで該当箇所を読める出典だけを使う（読者が確かめられず、こちらも全文を確認できないため）
 - **テレビ・ラジオ番組での紹介**: 番組の公式ページか、放送内容を伝える報道記事（番組名と放送日が特定できるもの）を出典にしてよい。「誰がどの本を紹介したか」が記事の本文に書かれていること。補足（note）に番組名と放送日を書く。第三者のまとめ記事、個人ブログ、プレスリリースの宣伝文は出典にしない

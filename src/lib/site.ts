@@ -8,8 +8,6 @@ export const CONTACT_EMAIL = process.env.CONTACT_EMAIL?.trim() || "nagasunari.it
 /** 運営者名（環境変数 OPERATOR_NAME でも上書きできる） */
 export const OPERATOR_NAME = process.env.OPERATOR_NAME?.trim() || "suisen運営";
 
-export const PR_NOTICE = "本ページはプロモーションを含みます";
-
 /** 2025-03-01 → 2025年3月1日、2025-03 → 2025年3月 */
 export function formatDate(value: string): string {
   const [y, m, d] = value.split("-").map(Number);

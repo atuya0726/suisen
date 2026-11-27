@@ -19079,5 +19079,108 @@
     "title": "次世代を担うベンチャーCFO36人に聞いた 「あなたの“座右の書”は何ですか？」",
     "url": "https://keiei.freee.co.jp/articles/i0100073/",
     "publishedAt": "2019-03-23"
+  },
+  {
+    "id": "miyazaki-hon-e-no-tobira",
+    "type": "book",
+    "media": "岩波書店",
+    "title": "本へのとびら　岩波少年文庫を語る（第1部「岩波少年文庫の五〇冊」）",
+    "url": "https://www.kinokuniya.co.jp/f/dsg-08-EK-2599208",
+    "publishedAt": "2011-10-20"
+  },
+  {
+    "id": "hayakawa-hidemys-2022",
+    "type": "article",
+    "media": "早川書房",
+    "title": "ヒデミス！2022 小島秀夫が選んだミステリー・ゴールデン・ダズン",
+    "url": "https://www.hayakawabooks.com/n/n7aac0968a4f4",
+    "publishedAt": "2022-11-24"
+  },
+  {
+    "id": "fujingaho-sakamoto-dokusho",
+    "type": "article",
+    "media": "婦人画報",
+    "title": "坂本龍一さんが教えてくれる「読書の愉しみ」",
+    "url": "https://www.fujingaho.jp/culture/column-essay/a45200645/ryuichi-sakamoto-bookshelves-20230929/",
+    "publishedAt": "2023-09-29"
+  },
+  {
+    "id": "figaro-endo-books",
+    "type": "interview",
+    "media": "フィガロジャポン",
+    "title": "遠藤さくらが選ぶ、やる気スイッチを押す一冊。",
+    "url": "https://madamefigaro.jp/culture/240202-book-sakura-endo-html/",
+    "publishedAt": "2024-02-02"
+  },
+  {
+    "id": "hayakawa-hidemys-2026",
+    "type": "article",
+    "media": "早川書房",
+    "title": "ヒデミス！2026 小島秀夫が選んだミステリー・ゴールデン・ダズン",
+    "url": "https://www.hayakawabooks.com/n/n80480b1d21da",
+    "publishedAt": "2026-11-25"
+  },
+  {
+    "id": "hayakawa-hidemys-2024",
+    "type": "article",
+    "media": "早川書房",
+    "title": "ヒデミス！2024 小島秀夫が選んだミステリー・ゴールデン・ダズン",
+    "url": "https://www.hayakawa-online.co.jp/topics/detail/156",
+    "publishedAt": "2024-12-19"
+  },
+  {
+    "id": "gq-utada-2026",
+    "type": "interview",
+    "media": "GQ JAPAN",
+    "title": "宇多田ヒカルは日常から創造する【インタビュー完全版】",
+    "url": "https://www.gqjapan.jp/article/20260605-hikaru-utada-complete-interview",
+    "publishedAt": "2026-06-05"
+  },
+  {
+    "id": "hayakawa-hidemys-2021",
+    "type": "article",
+    "media": "早川書房",
+    "title": "ヒデミス！ 小島秀夫が選んだミステリー・ゴールデン・ダズン（2021）",
+    "url": "https://www.hayakawabooks.com/n/nf7efba607daa",
+    "publishedAt": "2021-12-10"
+  },
+  {
+    "id": "sony-utada-zadankai-4",
+    "type": "interview",
+    "media": "ソニーミュージック",
+    "title": "宇多田ヒカル・小袋成彬・酒井一途 座談会 Section 4",
+    "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/zadankai/s4.html"
+  },
+  {
+    "id": "fujingaho-sakamoto-ongaku",
+    "type": "interview",
+    "media": "婦人画報",
+    "title": "坂本龍一　音楽と生きる",
+    "url": "https://www.fujingaho.jp/culture/famous-person/a39149812/ryuichi-sakamoto-live-with-music-20220324/",
+    "publishedAt": "2022-03-24"
+  },
+  {
+    "id": "nonno-endo-sakuragoyomi-books",
+    "type": "article",
+    "media": "non-no web",
+    "title": "遠藤さくらが選ぶ、お気に入りの本3冊【さくらごよみ】",
+    "url": "https://nonno.hpplus.jp/series/sakuragoyomi/167347/",
+    "publishedAt": "2024-08-26"
+  },
+  {
+    "id": "hayakawa-hidemys-2023",
+    "type": "article",
+    "media": "早川書房",
+    "title": "ヒデミス！2023 小島秀夫が選んだミステリー・ゴールデン・ダズン＋1",
+    "url": "https://www.hayakawabooks.com/n/ne4c089c59dcb",
+    "publishedAt": "2023-11-30"
+  },
+  {
+    "id": "sfmagazine-utada-ogawa",
+    "type": "interview",
+    "media": "SFマガジン（早川書房）",
+    "title": "特別対談　宇多田ヒカル×小川哲",
+    "url": "https://www.hayakawabooks.com/n/ne1e3a561f442",
+    "publishedAt": "2024-05-08"
   }
 ]

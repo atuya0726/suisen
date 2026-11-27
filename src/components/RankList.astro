@@ -1,12 +1,13 @@
 ---
 import BookCover from "./BookCover.astro";
-import type { RankedBook } from "../lib/data";
-import { authorsLabel } from "../lib/site";
+import type { RankedBook, Rec } from "../lib/data";
+import { authorsLabel, formatDate } from "../lib/site";
 
 interface Props {
   items: RankedBook[];
+  sourcesByIsbn?: Map<string, Rec[]>;
 }
-const { items } = Astro.props;
+const { items, sourcesByIsbn } = Astro.props;
 ---
 
 <ol class="rank-list">
@@ -23,6 +24,17 @@ const { items } = Astro.props;
           </h2>
           <p class="small secondary">{authorsLabel(book.authors)}</p>
           <p class="caption tertiary num">推薦 {count}人</p>
+          {sourcesByIsbn && (
+            <ul aria-label="推薦者と出典">
+              {sourcesByIsbn.get(book.isbn13)?.map(({ person, context, source }) => (
+                <li class="small rec-source">
+                  {person.name}（{context}）<br />
+                  <a href={source.url}>{source.title}</a>
+                  <span class="caption secondary"> ／ {source.media}{source.publishedAt && `・${formatDate(source.publishedAt)}`}</span>
+                </li>
+              ))}
+            </ul>
+          )}
         </div>
       </li>
     ))

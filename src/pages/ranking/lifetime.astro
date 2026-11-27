@@ -1,0 +1,39 @@
+---
+import RankList from "../../components/RankList.astro";
+import Base from "../../layouts/Base.astro";
+import { lifetimeRanking, lifetimeSourcesByIsbn } from "../../lib/data";
+import { SITE_NAME } from "../../lib/site";
+
+const heading = "一生に一度は読むべき本ランキング";
+const description = `「人生を変えた一冊」「座右の書」として2人以上が挙げた本を、推薦した人数の多い順に紹介します。全${lifetimeRanking.length}冊の推薦者と出典を掲載しています。`;
+const itemList = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: heading,
+  numberOfItems: lifetimeRanking.length,
+  itemListElement: lifetimeRanking.map(({ rank, book }) => ({
+    "@type": "ListItem",
+    position: rank,
+    name: book.title,
+    url: new URL(`/books/${book.isbn13}/`, Astro.site).href,
+  })),
+};
+---
+
+<Base
+  title={`${heading}｜${SITE_NAME}`}
+  description={description}
+  breadcrumbs={[{ name: "ランキング", href: "/ranking/" }, { name: heading }]}
+  jsonLd={[itemList]}
+>
+  <div class="container">
+    <header class="page-head prose">
+      <h1 class="h1">{heading}</h1>
+      <p class="lead">誰かの生き方を変えた本や、迷ったときに読み返す本。そんな一冊を探す手がかりに、suisenで「人生を変えた一冊」「座右の書」として記録した推薦を集めました。</p>
+      <p class="lead small secondary">このいずれかの形で2人以上が挙げた{lifetimeRanking.length}冊を、推薦者の多い順に掲載しています。同じ人は1冊につき1回と数え、人数が同じ場合は該当する出典の新しい順に並べています。</p>
+    </header>
+    <div class="page-body prose">
+      <RankList items={lifetimeRanking} sourcesByIsbn={lifetimeSourcesByIsbn} />
+    </div>
+  </div>
+</Base>

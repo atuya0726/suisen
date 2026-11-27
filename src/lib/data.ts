@@ -108,6 +108,12 @@ function rank(source: Rec[]): RankedBook[] {
 /** 総合ランキング */
 export const ranking: RankedBook[] = rank(recs);
 
+const lifetimeRecs = recs.filter((r) =>
+  r.person.kind !== "organization" && (r.context === "人生を変えた一冊" || r.context === "座右の書"),
+);
+export const lifetimeRanking = rank(lifetimeRecs);
+export const lifetimeSourcesByIsbn = groupBy(lifetimeRecs, (r) => r.isbn13);
+
 export interface TagRanking {
   tag: Tag;
   slug: string;

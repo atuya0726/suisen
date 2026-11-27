@@ -305,7 +305,7 @@ main {
   margin-top: var(--space-2);
 }
 
-/* ---------- breadcrumbs / PR ---------- */
+/* ---------- breadcrumbs ---------- */
 
 .page-top {
   padding-top: var(--space-4);
@@ -321,10 +321,6 @@ main {
   content: "/";
   margin-right: var(--space-2);
   color: var(--color-border);
-}
-
-.pr-notice {
-  margin-top: var(--space-1);
 }
 
 .page-head {

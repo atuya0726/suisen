@@ -1,7 +1,6 @@
 ---
 import "../styles/global.css";
 import Breadcrumbs from "../components/Breadcrumbs.astro";
-import PrNotice from "../components/PrNotice.astro";
 import { usesRakutenCovers } from "../lib/data";
 import { SITE_NAME, type Crumb } from "../lib/site";
 
@@ -13,11 +12,9 @@ interface Props {
   jsonLd?: object[];
   ogType?: "website" | "article" | "book";
   noindex?: boolean;
-  /** パンくず・PR表記を自前で置くページ（トップのヒーロー）用 */
-  bare?: boolean;
 }
 
-const { title, description, breadcrumbs, jsonLd = [], ogType = "website", noindex = false, bare = false } = Astro.props;
+const { title, description, breadcrumbs, jsonLd = [], ogType = "website", noindex = false } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = new URL("/og-default.png", Astro.site).href;
@@ -72,10 +69,9 @@ const allLd = [...(breadcrumbLd ? [breadcrumbLd] : []), ...jsonLd];
 
     <main>
       {
-        !bare && (
+        crumbs && (
           <div class="container page-top">
-            {crumbs && <Breadcrumbs items={crumbs} />}
-            <PrNotice />
+            <Breadcrumbs items={crumbs} />
           </div>
         )
       }
@@ -91,8 +87,8 @@ const allLd = [...(breadcrumbLd ? [breadcrumbLd] : []), ...jsonLd];
           <a href="/search/">検索</a>
           <a href="/about/">このサイトについて</a>
         </nav>
-        <p class="caption secondary">
-          Amazonのアソシエイトとして、suisen は適格販売により収入を得ています。楽天アフィリエイトにも参加しています。
+        <p class="small">
+          Amazonのアソシエイトとして、suisen は適格販売により収入を得ています。楽天ブックスの購入リンクからも、楽天アフィリエイトを通じて紹介料を受け取ることがあります。
         </p>
         {
           usesRakutenCovers && (

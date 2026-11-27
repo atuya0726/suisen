@@ -1,7 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
 import BookCard from "../components/BookCard.astro";
-import PrNotice from "../components/PrNotice.astro";
 import Recommendation from "../components/Recommendation.astro";
 import { affiliations, people, ranking, recs, tagRankings } from "../lib/data";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_TAGLINE } from "../lib/site";
@@ -17,10 +16,9 @@ const websiteLd = {
 };
 ---
 
-<Base title={`${SITE_NAME}｜${SITE_TAGLINE}`} description={SITE_DESCRIPTION} jsonLd={[websiteLd]} bare>
+<Base title={`${SITE_NAME}｜${SITE_TAGLINE}`} description={SITE_DESCRIPTION} jsonLd={[websiteLd]}>
   <div class="hero">
     <div class="container">
-      <PrNotice />
       <h1 class="display">あの人が薦めた本を、<br />出典つきで。</h1>
       <p class="lead prose">
         経営者・作家・研究者などが、記事やインタビューで紹介した本を集めました。いつ、どこで薦めたのかを、出典と一緒に確かめられます。

@@ -22118,5 +22118,83 @@
     "result": "candidate",
     "reason": "Gemini の手がかり（J-WAVE「BOOK BAR」アーカイブ。杏・大倉眞一郎とゲストが本を紹介）。URL と書名が文字で載るかは未確認",
     "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.kinokuniya.co.jp/f/dsg-08-EK-2599208",
+    "result": "adopted",
+    "reason": "sources.json の miyazaki-hon-e-no-tobira",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.hayakawabooks.com/n/n7aac0968a4f4",
+    "result": "adopted",
+    "reason": "sources.json の hayakawa-hidemys-2022",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.fujingaho.jp/culture/column-essay/a45200645/ryuichi-sakamoto-bookshelves-20230929/",
+    "result": "adopted",
+    "reason": "sources.json の fujingaho-sakamoto-dokusho",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://madamefigaro.jp/culture/240202-book-sakura-endo-html/",
+    "result": "adopted",
+    "reason": "sources.json の figaro-endo-books",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.hayakawabooks.com/n/n80480b1d21da",
+    "result": "adopted",
+    "reason": "sources.json の hayakawa-hidemys-2026",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.hayakawa-online.co.jp/topics/detail/156",
+    "result": "adopted",
+    "reason": "sources.json の hayakawa-hidemys-2024",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.gqjapan.jp/article/20260605-hikaru-utada-complete-interview",
+    "result": "adopted",
+    "reason": "sources.json の gq-utada-2026",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.hayakawabooks.com/n/nf7efba607daa",
+    "result": "adopted",
+    "reason": "sources.json の hayakawa-hidemys-2021",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.sonymusic.co.jp/Music/Info/utadahikaru/zadankai/s4.html",
+    "result": "adopted",
+    "reason": "sources.json の sony-utada-zadankai-4",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.fujingaho.jp/culture/famous-person/a39149812/ryuichi-sakamoto-live-with-music-20220324/",
+    "result": "adopted",
+    "reason": "sources.json の fujingaho-sakamoto-ongaku",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://nonno.hpplus.jp/series/sakuragoyomi/167347/",
+    "result": "adopted",
+    "reason": "sources.json の nonno-endo-sakuragoyomi-books",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.hayakawabooks.com/n/ne4c089c59dcb",
+    "result": "adopted",
+    "reason": "sources.json の hayakawa-hidemys-2023",
+    "checkedAt": "2026-11-26"
+  },
+  {
+    "url": "https://www.hayakawabooks.com/n/ne1e3a561f442",
+    "result": "adopted",
+    "reason": "sources.json の sfmagazine-utada-ogawa",
+    "checkedAt": "2026-11-26"
   }
 ]
