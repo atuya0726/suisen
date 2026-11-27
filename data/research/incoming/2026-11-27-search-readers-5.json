@@ -1,0 +1,1727 @@
+{
+  "people": [
+    {
+      "name": "BOMI",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "ぼーみ",
+      "id": "bomi"
+    },
+    {
+      "name": "ぼくのりりっくのぼうよみ",
+      "title": "音楽家（現・たなか）",
+      "tags": [
+        "芸能"
+      ],
+      "sameAs": [
+        "https://www.jvcmusic.co.jp/bokuriri/",
+        "https://nous-inc.jp/artists/tanaka/"
+      ],
+      "id": "bokuriri"
+    },
+    {
+      "name": "吉田靖直",
+      "title": "トリプルファイヤーのボーカル",
+      "tags": [
+        "芸能"
+      ],
+      "id": "yoshida"
+    },
+    {
+      "name": "原田夏樹",
+      "title": "evening cinemaのボーカル",
+      "tags": [
+        "芸能"
+      ],
+      "id": "harada"
+    },
+    {
+      "name": "松村北斗",
+      "title": "俳優・SixTONESメンバー",
+      "tags": [
+        "芸能"
+      ],
+      "kana": "まつむらほくと",
+      "id": "matsumura"
+    },
+    {
+      "name": "上白石萌音",
+      "title": "俳優・歌手",
+      "kana": "かみしらいしもね",
+      "tags": [
+        "芸能"
+      ],
+      "id": "mone"
+    },
+    {
+      "name": "星野源",
+      "title": "音楽家・俳優",
+      "tags": [
+        "芸能"
+      ],
+      "id": "hoshino"
+    },
+    {
+      "name": "荻上チキ",
+      "title": "評論家・ラジオパーソナリティ",
+      "kana": "おぎうえ ちき",
+      "tags": [],
+      "id": "ogiue"
+    },
+    {
+      "id": "expo-001",
+      "name": "久保建英",
+      "title": "プロサッカー選手／レアル・ソシエダ（スペイン）",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "expo-002",
+      "name": "HIKAKIN",
+      "title": "YouTuber／UUUM",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-004",
+      "name": "佐久間宣行",
+      "title": "テレビ東京制作局・プロデューサー",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-005",
+      "name": "ARuFa",
+      "title": "WEBライター・クリエイター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-007",
+      "name": "宝鐘マリン",
+      "title": "VTuber／ホロライブ",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-008",
+      "name": "星街すいせい",
+      "title": "VTuber／ホロライブ",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-009",
+      "name": "杏",
+      "title": "俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-010",
+      "name": "松丸亮吾",
+      "title": "謎解きクリエイター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-011",
+      "name": "鈴木愛理",
+      "title": "アーティスト・俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-012",
+      "name": "津田健次郎",
+      "title": "声優・俳優",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-013",
+      "name": "吉田恵里香",
+      "kana": "よしだえりか",
+      "title": "脚本家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "expo-014",
+      "name": "Ado",
+      "title": "歌い手",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-015",
+      "name": "木村沙織",
+      "title": "元バレーボール選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "expo-017",
+      "name": "米津玄師",
+      "kana": "よねづ けんし",
+      "title": "シンガーソングライター",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "expo-019",
+      "name": "髙木美帆",
+      "kana": "たかぎみほ",
+      "title": "スピードスケート選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "expo-020",
+      "name": "千早茜",
+      "title": "作家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "expo-021",
+      "name": "朝井リョウ",
+      "title": "小説家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "あさいりょう"
+    }
+  ],
+  "sources": [
+    {
+      "id": "cinra-musicians-bookstore-3",
+      "type": "article",
+      "media": "CINRA",
+      "title": "ぼくりりやCHAI、BOMIらの人生を変えた本、合計100冊を一挙紹介",
+      "url": "https://www.cinra.net/article/report-201709-Kyash?page=3",
+      "publishedAt": "2017-09-25"
+    },
+    {
+      "id": "cinra-musicians-bookstore-4",
+      "type": "article",
+      "media": "CINRA",
+      "title": "ぼくりりやCHAI、BOMIらの人生を変えた本、合計100冊を一挙紹介",
+      "url": "https://www.cinra.net/article/report-201709-Kyash?page=4",
+      "publishedAt": "2017-09-25"
+    },
+    {
+      "id": "ray-matsumura-books-2022",
+      "type": "interview",
+      "media": "Ray",
+      "title": "【SixTONES・松村北斗】が好きなキャラクターって？意外な習性に迫る♡",
+      "url": "https://ray-web.jp/276479",
+      "publishedAt": "2022-11-25"
+    },
+    {
+      "id": "anan-kamishiraishi-2020-books",
+      "type": "interview",
+      "media": "anan",
+      "title": "上白石萌音、妹・萌歌との“とある習慣”とは？",
+      "url": "https://ananweb.jp/categories/entertainment/16183",
+      "publishedAt": "2020-09-19"
+    },
+    {
+      "id": "mezamashi-kamishiraishi-essay-2021",
+      "type": "interview",
+      "media": "めざましmedia",
+      "title": "上白石萌音「持ちうる限りの感情を書き残せたら」初エッセイ集で“誹謗中傷”に対する思いも吐露",
+      "url": "https://mezamashi.media/articles/-/12779",
+      "publishedAt": "2021-09-04"
+    },
+    {
+      "id": "nippon-kamishiraishi-goodnight-book",
+      "type": "article",
+      "media": "ニッポン放送 NEWS ONLINE",
+      "title": "女優・上白石萌音がオススメする、最近出会った最高の1冊",
+      "url": "https://news.1242.com/article/161082",
+      "publishedAt": "2018-11-16"
+    },
+    {
+      "id": "dokusyokansoubun-kamishiraishi-2018",
+      "type": "interview",
+      "media": "毎日新聞（読書感想文全国コンクール公式サイト）",
+      "title": "「好きな作家、いつか出会える」俳優・上白石萌音さん",
+      "url": "https://www.dokusyokansoubun.jp/special_contents/mainichinewspaper_20180607.html",
+      "publishedAt": "2018-06-07"
+    },
+    {
+      "id": "tbs-session-hoshino-2022",
+      "type": "article",
+      "media": "TBSラジオ",
+      "title": "星野源さんが『荻上チキ・Session』に出演　～文庫化されたエッセイ『いのちの車窓から』や読書について語る",
+      "url": "https://www.tbsradio.jp/articles/51157/",
+      "publishedAt": "2022-02-22"
+    },
+    {
+      "id": "shueisha-mangaexpo-001",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜久保建英",
+      "url": "https://shueisha-mangaexpo.jp/recommend/001.html",
+      "publishedAt": "2026-01-09"
+    },
+    {
+      "id": "shueisha-mangaexpo-002",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜HIKAKIN",
+      "url": "https://shueisha-mangaexpo.jp/recommend/002.html",
+      "publishedAt": "2026-01-23"
+    },
+    {
+      "id": "shueisha-mangaexpo-004",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜佐久間宣行",
+      "url": "https://shueisha-mangaexpo.jp/recommend/004.html",
+      "publishedAt": "2026-02-06"
+    },
+    {
+      "id": "shueisha-mangaexpo-005",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜ARuFa",
+      "url": "https://shueisha-mangaexpo.jp/recommend/005.html",
+      "publishedAt": "2026-02-13"
+    },
+    {
+      "id": "shueisha-mangaexpo-007",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜宝鐘マリン",
+      "url": "https://shueisha-mangaexpo.jp/recommend/007.html",
+      "publishedAt": "2026-03-06"
+    },
+    {
+      "id": "shueisha-mangaexpo-008",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜星街すいせい",
+      "url": "https://shueisha-mangaexpo.jp/recommend/008.html",
+      "publishedAt": "2026-03-13"
+    },
+    {
+      "id": "shueisha-mangaexpo-009",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜杏",
+      "url": "https://shueisha-mangaexpo.jp/recommend/009.html",
+      "publishedAt": "2026-03-24"
+    },
+    {
+      "id": "shueisha-mangaexpo-010",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜松丸亮吾",
+      "url": "https://shueisha-mangaexpo.jp/recommend/010.html",
+      "publishedAt": "2026-04-10"
+    },
+    {
+      "id": "shueisha-mangaexpo-011",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜鈴木愛理",
+      "url": "https://shueisha-mangaexpo.jp/recommend/011.html",
+      "publishedAt": "2026-04-21"
+    },
+    {
+      "id": "shueisha-mangaexpo-012",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜津田健次郎",
+      "url": "https://shueisha-mangaexpo.jp/recommend/012.html",
+      "publishedAt": "2026-05-07"
+    },
+    {
+      "id": "shueisha-mangaexpo-013",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜吉田恵里香",
+      "url": "https://shueisha-mangaexpo.jp/recommend/013.html",
+      "publishedAt": "2026-05-26"
+    },
+    {
+      "id": "shueisha-mangaexpo-014",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜Ado",
+      "url": "https://shueisha-mangaexpo.jp/recommend/014.html",
+      "publishedAt": "2026-06-08"
+    },
+    {
+      "id": "shueisha-mangaexpo-015",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜木村沙織",
+      "url": "https://shueisha-mangaexpo.jp/recommend/015.html",
+      "publishedAt": "2026-06-22"
+    },
+    {
+      "id": "shueisha-mangaexpo-017",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜米津玄師",
+      "url": "https://shueisha-mangaexpo.jp/recommend/017.html",
+      "publishedAt": "2026-07-20"
+    },
+    {
+      "id": "shueisha-mangaexpo-019",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜髙木美帆",
+      "url": "https://shueisha-mangaexpo.jp/recommend/019.html",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "shueisha-mangaexpo-020",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜千早茜",
+      "url": "https://shueisha-mangaexpo.jp/recommend/020.html",
+      "publishedAt": "2026-09-15"
+    },
+    {
+      "id": "shueisha-mangaexpo-021",
+      "type": "article",
+      "media": "集英社マンガエキスポ",
+      "title": "わたしの推薦図書｜朝井リョウ",
+      "url": "https://shueisha-mangaexpo.jp/recommend/021.html",
+      "publishedAt": "2026-09-30"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "アインシュタイン150の言葉",
+        "author": "ジェリー・メイヤー"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "人間ごっこ",
+        "author": "御徒町凧"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "退屈は素敵",
+        "author": "友部正人"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "求めない",
+        "author": "加島祥造"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "錦繍",
+        "author": "宮本輝"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "イリュージョン",
+        "author": "リチャード・バック"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "死んでしまう系のぼくらに",
+        "author": "最果タヒ"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "わたくし率 イン 歯ー、または世界",
+        "author": "川上未映子"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "逢沢りく 上",
+        "author": "ほしよりこ",
+        "edition": "上巻"
+      }
+    },
+    {
+      "personId": "bomi",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "ぶらんこ乗り",
+        "author": "いしいしんじ"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "魂の駆動体",
+        "author": "神林長平"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "李陵・山月記",
+        "author": "中島敦"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "キングダム 16",
+        "author": "原泰久",
+        "edition": "第16巻"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "魔法の世紀",
+        "author": "落合陽一"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "日本の風俗嬢",
+        "author": "中村淳彦"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "アンドロイドは人間になれるか",
+        "author": "石黒浩"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "君がいない夜のごはん",
+        "author": "穂村弘"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "帝王の殻",
+        "author": "神林長平"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "断片的なものの社会学",
+        "author": "岸政彦"
+      }
+    },
+    {
+      "personId": "bokuriri",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "世界史の極意",
+        "author": "佐藤優"
+      }
+    },
+    {
+      "personId": "yoshida",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "いましろたかし傑作短編集 クール井上",
+        "author": "いましろたかし"
+      }
+    },
+    {
+      "personId": "yoshida",
+      "sourceId": "cinra-musicians-bookstore-3",
+      "book": {
+        "title": "実践 COBOLプログラミング入門",
+        "author": "結城圭介",
+        "publisher": "技術評論社"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "音を視る、時を聴く",
+        "author": "大森荘蔵、坂本龍一"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "弱いつながり",
+        "author": "東浩紀"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "いつもポケットにショパン",
+        "author": "くらもちふさこ",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "ロング・グッドバイ",
+        "author": "レイモンド・チャンドラー"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "ヘルメスの音楽",
+        "author": "浅田彰"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "それでも、日本人は「戦争」を選んだ",
+        "author": "加藤陽子"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "酒中日記",
+        "author": "吉行淳之介"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "〈子ども〉のための哲学",
+        "author": "永井均"
+      }
+    },
+    {
+      "personId": "harada",
+      "sourceId": "cinra-musicians-bookstore-4",
+      "book": {
+        "title": "無為の共同体",
+        "author": "ジャン＝リュック・ナンシー"
+      }
+    },
+    {
+      "personId": "matsumura",
+      "sourceId": "ray-matsumura-books-2022",
+      "book": {
+        "title": "往復書簡",
+        "author": "湊かなえ"
+      }
+    },
+    {
+      "personId": "matsumura",
+      "sourceId": "ray-matsumura-books-2022",
+      "book": {
+        "title": "往復書簡 初恋と不倫",
+        "author": "坂元裕二"
+      }
+    },
+    {
+      "personId": "matsumura",
+      "sourceId": "ray-matsumura-books-2022",
+      "book": {
+        "title": "またここか",
+        "author": "坂元裕二"
+      }
+    },
+    {
+      "personId": "matsumura",
+      "sourceId": "ray-matsumura-books-2022",
+      "book": {
+        "title": "木洩れ日に泳ぐ魚",
+        "author": "恩田陸"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "anan-kamishiraishi-2020-books",
+      "book": {
+        "title": "ピーターとペーターの狭間で",
+        "author": "青山南"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "anan-kamishiraishi-2020-books",
+      "book": {
+        "title": "ものするひと",
+        "author": "オカヤイヅミ",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "mezamashi-kamishiraishi-essay-2021",
+      "book": {
+        "title": "酒ともやしと横になる私",
+        "author": "スズキナオ",
+        "publisher": "シカク出版"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "nippon-kamishiraishi-goodnight-book",
+      "book": {
+        "title": "戸村飯店 青春100連発",
+        "author": "瀬尾まいこ",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      },
+      "note": "「上白石萌音 good-night letter」2018年11月9日放送"
+    },
+    {
+      "personId": "mone",
+      "sourceId": "dokusyokansoubun-kamishiraishi-2018",
+      "book": {
+        "title": "こころ",
+        "author": "夏目漱石"
+      }
+    },
+    {
+      "personId": "mone",
+      "sourceId": "dokusyokansoubun-kamishiraishi-2018",
+      "book": {
+        "title": "ライオンと魔女",
+        "author": "C・S・ルイス",
+        "publisher": "岩波書店",
+        "edition": "シリーズ"
+      },
+      "note": "「ナルニア国物語」の第1巻を掲載"
+    },
+    {
+      "personId": "mone",
+      "sourceId": "dokusyokansoubun-kamishiraishi-2018",
+      "book": {
+        "title": "ハリー・ポッターと賢者の石",
+        "author": "J・K・ローリング",
+        "publisher": "静山社",
+        "edition": "シリーズ"
+      },
+      "note": "「ハリー・ポッター」の第1巻を掲載"
+    },
+    {
+      "personId": "hoshino",
+      "sourceId": "tbs-session-hoshino-2022",
+      "book": {
+        "title": "嫌われた監督",
+        "author": "鈴木忠平",
+        "publisher": "文藝春秋"
+      },
+      "note": "「荻上チキ・Session」2022年2月18日放送"
+    },
+    {
+      "personId": "ogiue",
+      "sourceId": "tbs-session-hoshino-2022",
+      "book": {
+        "title": "ばらまき",
+        "author": "中国新聞取材班",
+        "publisher": "集英社"
+      },
+      "note": "「荻上チキ・Session」2022年2月18日放送"
+    },
+    {
+      "personId": "expo-001",
+      "sourceId": "shueisha-mangaexpo-001",
+      "book": {
+        "title": "NARUTO―ナルト―",
+        "author": "岸本斉史",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-001",
+      "sourceId": "shueisha-mangaexpo-001",
+      "book": {
+        "title": "ROOKIES",
+        "author": "森田まさのり",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-001",
+      "sourceId": "shueisha-mangaexpo-001",
+      "book": {
+        "title": "トリコ",
+        "author": "島袋光年",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-001",
+      "sourceId": "shueisha-mangaexpo-001",
+      "book": {
+        "title": "ONE PIECE",
+        "author": "尾田栄一郎",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-001",
+      "sourceId": "shueisha-mangaexpo-001",
+      "book": {
+        "title": "ジャンケットバンク",
+        "author": "田中一行",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-001",
+      "sourceId": "shueisha-mangaexpo-001",
+      "book": {
+        "title": "HUNTER×HUNTER",
+        "author": "冨樫義博",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-002",
+      "sourceId": "shueisha-mangaexpo-002",
+      "book": {
+        "title": "世紀末リーダー伝たけし！",
+        "author": "島袋光年",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-002",
+      "sourceId": "shueisha-mangaexpo-002",
+      "book": {
+        "title": "DRAGON BALL",
+        "author": "鳥山明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-002",
+      "sourceId": "shueisha-mangaexpo-002",
+      "book": {
+        "title": "こちら葛飾区亀有公園前派出所",
+        "author": "秋本治",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-002",
+      "sourceId": "shueisha-mangaexpo-002",
+      "book": {
+        "title": "マッシュル―MASHLE―",
+        "author": "甲本一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-002",
+      "sourceId": "shueisha-mangaexpo-002",
+      "book": {
+        "title": "ONE PIECE",
+        "author": "尾田栄一郎",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-002",
+      "sourceId": "shueisha-mangaexpo-002",
+      "book": {
+        "title": "鬼滅の刃",
+        "author": "吾峠呼世晴",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-004",
+      "sourceId": "shueisha-mangaexpo-004",
+      "book": {
+        "title": "こちら葛飾区亀有公園前派出所",
+        "author": "秋本治",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-004",
+      "sourceId": "shueisha-mangaexpo-004",
+      "book": {
+        "title": "有閑倶楽部",
+        "author": "一条ゆかり",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-004",
+      "sourceId": "shueisha-mangaexpo-004",
+      "book": {
+        "title": "ONE PIECE",
+        "author": "尾田栄一郎",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-004",
+      "sourceId": "shueisha-mangaexpo-004",
+      "book": {
+        "title": "ケントゥリア",
+        "author": "暗森透",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-004",
+      "sourceId": "shueisha-mangaexpo-004",
+      "book": {
+        "title": "正反対な君と僕",
+        "author": "阿賀沢紅茶",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-005",
+      "sourceId": "shueisha-mangaexpo-005",
+      "book": {
+        "title": "HUNTER×HUNTER",
+        "author": "冨樫義博",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-005",
+      "sourceId": "shueisha-mangaexpo-005",
+      "book": {
+        "title": "増田こうすけ劇場 ギャグマンガ日和",
+        "author": "増田こうすけ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-005",
+      "sourceId": "shueisha-mangaexpo-005",
+      "book": {
+        "title": "嘘喰い",
+        "author": "迫稔雄",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-005",
+      "sourceId": "shueisha-mangaexpo-005",
+      "book": {
+        "title": "ルリドラゴン",
+        "author": "眞藤雅興",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-005",
+      "sourceId": "shueisha-mangaexpo-005",
+      "book": {
+        "title": "ルックバック",
+        "author": "藤本タツキ",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "expo-005",
+      "sourceId": "shueisha-mangaexpo-005",
+      "book": {
+        "title": "ハイパーインフレーション",
+        "author": "住吉九",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-007",
+      "sourceId": "shueisha-mangaexpo-007",
+      "book": {
+        "title": "HUNTER×HUNTER",
+        "author": "冨樫義博",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-007",
+      "sourceId": "shueisha-mangaexpo-007",
+      "book": {
+        "title": "君に届け",
+        "author": "椎名軽穂",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-007",
+      "sourceId": "shueisha-mangaexpo-007",
+      "book": {
+        "title": "ラブ★コン",
+        "author": "中原アヤ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-007",
+      "sourceId": "shueisha-mangaexpo-007",
+      "book": {
+        "title": "君に届け 番外編〜運命の人〜",
+        "author": "椎名軽穂",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-007",
+      "sourceId": "shueisha-mangaexpo-007",
+      "book": {
+        "title": "俺物語!!",
+        "author": "作画：アルコ、原作：河原和音",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-007",
+      "sourceId": "shueisha-mangaexpo-007",
+      "book": {
+        "title": "みにあまる彼氏",
+        "author": "ほしの瑞希",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-008",
+      "sourceId": "shueisha-mangaexpo-008",
+      "book": {
+        "title": "Rozen Maiden",
+        "author": "PEACH-PIT",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-008",
+      "sourceId": "shueisha-mangaexpo-008",
+      "book": {
+        "title": "BLEACH",
+        "author": "久保帯人",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-008",
+      "sourceId": "shueisha-mangaexpo-008",
+      "book": {
+        "title": "青のフラッグ",
+        "author": "KAITO",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-008",
+      "sourceId": "shueisha-mangaexpo-008",
+      "book": {
+        "title": "ワールドトリガー",
+        "author": "葦原大介",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-008",
+      "sourceId": "shueisha-mangaexpo-008",
+      "book": {
+        "title": "不可抗力のI LOVE YOU",
+        "author": "ほしの瑞希",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-008",
+      "sourceId": "shueisha-mangaexpo-008",
+      "book": {
+        "title": "僕のヒーローアカデミア",
+        "author": "堀越耕平",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-009",
+      "sourceId": "shueisha-mangaexpo-009",
+      "book": {
+        "title": "WILD HALF",
+        "author": "浅美裕子",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-009",
+      "sourceId": "shueisha-mangaexpo-009",
+      "book": {
+        "title": "まっすぐにいこう。",
+        "author": "きら",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-009",
+      "sourceId": "shueisha-mangaexpo-009",
+      "book": {
+        "title": "こちら葛飾区亀有公園前派出所",
+        "author": "秋本治",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-009",
+      "sourceId": "shueisha-mangaexpo-009",
+      "book": {
+        "title": "イ・オ・ン",
+        "author": "種村有菜",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "expo-009",
+      "sourceId": "shueisha-mangaexpo-009",
+      "book": {
+        "title": "ガラスの城",
+        "author": "わたなべまさこ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-009",
+      "sourceId": "shueisha-mangaexpo-009",
+      "book": {
+        "title": "彼方のアストラ",
+        "author": "篠原健太",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-010",
+      "sourceId": "shueisha-mangaexpo-010",
+      "book": {
+        "title": "家庭教師ヒットマンREBORN!",
+        "author": "天野明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-010",
+      "sourceId": "shueisha-mangaexpo-010",
+      "book": {
+        "title": "DEATH NOTE",
+        "author": "大場つぐみ、小畑健",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-010",
+      "sourceId": "shueisha-mangaexpo-010",
+      "book": {
+        "title": "バクマン。",
+        "author": "大場つぐみ、小畑健",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-010",
+      "sourceId": "shueisha-mangaexpo-010",
+      "book": {
+        "title": "LIAR GAME",
+        "author": "甲斐谷忍",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-010",
+      "sourceId": "shueisha-mangaexpo-010",
+      "book": {
+        "title": "SPY×FAMILY",
+        "author": "遠藤達哉",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-010",
+      "sourceId": "shueisha-mangaexpo-010",
+      "book": {
+        "title": "HUNTER×HUNTER",
+        "author": "冨樫義博",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-011",
+      "sourceId": "shueisha-mangaexpo-011",
+      "book": {
+        "title": "僕のヒーローアカデミア",
+        "author": "堀越耕平",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-011",
+      "sourceId": "shueisha-mangaexpo-011",
+      "book": {
+        "title": "ストロボ・エッジ",
+        "author": "咲坂伊緒",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-011",
+      "sourceId": "shueisha-mangaexpo-011",
+      "book": {
+        "title": "隣の元カレくん",
+        "author": "ago",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-011",
+      "sourceId": "shueisha-mangaexpo-011",
+      "book": {
+        "title": "さよならミニスカート",
+        "author": "牧野あおい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-011",
+      "sourceId": "shueisha-mangaexpo-011",
+      "book": {
+        "title": "姉のともだち",
+        "author": "高瀬わか",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-012",
+      "sourceId": "shueisha-mangaexpo-012",
+      "book": {
+        "title": "Dr.スランプ",
+        "author": "鳥山明",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-012",
+      "sourceId": "shueisha-mangaexpo-012",
+      "book": {
+        "title": "SLAM DUNK",
+        "author": "井上雄彦",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-012",
+      "sourceId": "shueisha-mangaexpo-012",
+      "book": {
+        "title": "ルックバック",
+        "author": "藤本タツキ",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "expo-012",
+      "sourceId": "shueisha-mangaexpo-012",
+      "book": {
+        "title": "かくかくしかじか",
+        "author": "東村アキコ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-013",
+      "sourceId": "shueisha-mangaexpo-013",
+      "book": {
+        "title": "こどものおもちゃ",
+        "author": "小花美穂",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-013",
+      "sourceId": "shueisha-mangaexpo-013",
+      "book": {
+        "title": "ご近所物語",
+        "author": "矢沢あい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-013",
+      "sourceId": "shueisha-mangaexpo-013",
+      "book": {
+        "title": "ONE PIECE",
+        "author": "尾田栄一郎",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-013",
+      "sourceId": "shueisha-mangaexpo-013",
+      "book": {
+        "title": "天使なんかじゃない",
+        "author": "矢沢あい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-013",
+      "sourceId": "shueisha-mangaexpo-013",
+      "book": {
+        "title": "環と周",
+        "author": "よしながふみ",
+        "publisher": "集英社"
+      }
+    },
+    {
+      "personId": "expo-013",
+      "sourceId": "shueisha-mangaexpo-013",
+      "book": {
+        "title": "狂四郎2030",
+        "author": "徳弘正也",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-014",
+      "sourceId": "shueisha-mangaexpo-014",
+      "book": {
+        "title": "チェンソーマン",
+        "author": "藤本タツキ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-014",
+      "sourceId": "shueisha-mangaexpo-014",
+      "book": {
+        "title": "ふつうの軽音部",
+        "author": "クワハリ、出内テツオ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-014",
+      "sourceId": "shueisha-mangaexpo-014",
+      "book": {
+        "title": "DEATH NOTE",
+        "author": "大場つぐみ、小畑健",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-014",
+      "sourceId": "shueisha-mangaexpo-014",
+      "book": {
+        "title": "スーサイドガール",
+        "author": "中山敦支",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-015",
+      "sourceId": "shueisha-mangaexpo-015",
+      "book": {
+        "title": "ご近所物語",
+        "author": "矢沢あい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-015",
+      "sourceId": "shueisha-mangaexpo-015",
+      "book": {
+        "title": "SLAM DUNK",
+        "author": "井上雄彦",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-015",
+      "sourceId": "shueisha-mangaexpo-015",
+      "book": {
+        "title": "NANA―ナナ―",
+        "author": "矢沢あい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-015",
+      "sourceId": "shueisha-mangaexpo-015",
+      "book": {
+        "title": "天使なんかじゃない",
+        "author": "矢沢あい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-015",
+      "sourceId": "shueisha-mangaexpo-015",
+      "book": {
+        "title": "ラブ★コン",
+        "author": "中原アヤ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-015",
+      "sourceId": "shueisha-mangaexpo-015",
+      "book": {
+        "title": "ハイキュー!!",
+        "author": "古舘春一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-017",
+      "sourceId": "shueisha-mangaexpo-017",
+      "book": {
+        "title": "ヒカルの碁",
+        "author": "小畑健、ほったゆみ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-017",
+      "sourceId": "shueisha-mangaexpo-017",
+      "book": {
+        "title": "DEATH NOTE",
+        "author": "小畑健、大場つぐみ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-017",
+      "sourceId": "shueisha-mangaexpo-017",
+      "book": {
+        "title": "キングダム",
+        "author": "原泰久",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-019",
+      "sourceId": "shueisha-mangaexpo-019",
+      "book": {
+        "title": "神風怪盗ジャンヌ",
+        "author": "種村有菜",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-019",
+      "sourceId": "shueisha-mangaexpo-019",
+      "book": {
+        "title": "D.Gray-man",
+        "author": "星野桂",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-019",
+      "sourceId": "shueisha-mangaexpo-019",
+      "book": {
+        "title": "るろうに剣心―明治剣客浪漫譚―",
+        "author": "和月伸宏",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-019",
+      "sourceId": "shueisha-mangaexpo-019",
+      "book": {
+        "title": "この音とまれ！",
+        "author": "アミュー",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-019",
+      "sourceId": "shueisha-mangaexpo-019",
+      "book": {
+        "title": "ハイキュー!!",
+        "author": "古舘春一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-019",
+      "sourceId": "shueisha-mangaexpo-019",
+      "book": {
+        "title": "プライド",
+        "author": "一条ゆかり",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-020",
+      "sourceId": "shueisha-mangaexpo-020",
+      "book": {
+        "title": "セクシーコマンドー外伝 すごいよ!!マサルさん",
+        "author": "うすた京介",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-020",
+      "sourceId": "shueisha-mangaexpo-020",
+      "book": {
+        "title": "有閑倶楽部",
+        "author": "一条ゆかり",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-020",
+      "sourceId": "shueisha-mangaexpo-020",
+      "book": {
+        "title": "イノサン",
+        "author": "坂本眞一",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-020",
+      "sourceId": "shueisha-mangaexpo-020",
+      "book": {
+        "title": "ゴールデンカムイ",
+        "author": "野田サトル",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-020",
+      "sourceId": "shueisha-mangaexpo-020",
+      "book": {
+        "title": "Bread&Butter",
+        "author": "芦原妃名子",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-020",
+      "sourceId": "shueisha-mangaexpo-020",
+      "book": {
+        "title": "はだしのゲン",
+        "author": "中沢啓治",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-021",
+      "sourceId": "shueisha-mangaexpo-021",
+      "book": {
+        "title": "DEATH NOTE",
+        "author": "大場つぐみ、小畑健",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-021",
+      "sourceId": "shueisha-mangaexpo-021",
+      "book": {
+        "title": "天使なんかじゃない",
+        "author": "矢沢あい",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-021",
+      "sourceId": "shueisha-mangaexpo-021",
+      "book": {
+        "title": "潔く柔く",
+        "author": "いくえみ綾",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-021",
+      "sourceId": "shueisha-mangaexpo-021",
+      "book": {
+        "title": "ダイヤモンドの功罪",
+        "author": "平井大橋",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-021",
+      "sourceId": "shueisha-mangaexpo-021",
+      "book": {
+        "title": "世田谷イチ古い洋館の家主になる",
+        "author": "山下和美",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "expo-021",
+      "sourceId": "shueisha-mangaexpo-021",
+      "book": {
+        "title": "COJI-COJI",
+        "author": "さくらももこ",
+        "publisher": "集英社",
+        "edition": "シリーズ"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://www.tbs.co.jp/akasaka_entertainmentcity/topics/20261121_1.html",
+      "result": "index",
+      "reason": "2026年11月の第2回五冊展公式告知。選書リスト公開を確認でき次第調査。"
+    },
+    {
+      "url": "https://shueisha-mangaexpo.jp/recommend/",
+      "result": "index",
+      "reason": "各界の著名人の選書と本人コメント。"
+    }
+  ]
+}

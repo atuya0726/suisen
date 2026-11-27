@@ -19662,5 +19662,268 @@
     "media": "文部科学省",
     "title": "子供の読書キャンペーン～もっとひろがれ！本の森～",
     "url": "https://www.mext.go.jp/a_menu/ikusei/gakusyushien/campaign_2021.html"
+  },
+  {
+    "id": "sportiva-tanaka-nozomi-reading-2024",
+    "type": "interview",
+    "media": "web Sportiva",
+    "title": "本好き・田中希実に文学が与える陸上競技への影響「ラスト１周400ｍを意識していたのが最後の200ｍにこだわるようになった」",
+    "url": "https://sportiva.shueisha.co.jp/clm/othersports/rikujo/2024/01/25/400200/?page=2",
+    "publishedAt": "2024-01-25"
+  },
+  {
+    "id": "kangaeruhito-isono-ten-books",
+    "type": "article",
+    "media": "考える人（新潮社）",
+    "title": "コロナ禍を理解し、生きることの手ざわりを味わうための10冊",
+    "url": "https://kangaeruhito.jp/article/15210",
+    "publishedAt": "2020-06-24"
+  },
+  {
+    "id": "kangaeruhito-takeuchi-ten-books",
+    "type": "article",
+    "media": "考える人（新潮社）",
+    "title": "祝・ノーベル物理学賞！ 超天才ペンローズを読み解く10冊",
+    "url": "https://kangaeruhito.jp/article/16692",
+    "publishedAt": "2020-10-15"
+  },
+  {
+    "id": "kangaeruhito-seiryo-ten-books",
+    "type": "article",
+    "media": "考える人（新潮社）",
+    "title": "知識ゼロから聖書に親しむための10冊",
+    "url": "https://kangaeruhito.jp/article/211731",
+    "publishedAt": "2021-12-21"
+  },
+  {
+    "id": "jaaf-book-week-athletes-2020",
+    "type": "article",
+    "media": "日本陸上競技連盟",
+    "title": "【陸上Bookウィーク】アスリート編　～ラストページまで駆け抜けて～",
+    "url": "https://www.jaaf.or.jp/news/article/14461/",
+    "publishedAt": "2020-11-09"
+  },
+  {
+    "id": "fighters-library-sapporo-2014",
+    "type": "article",
+    "media": "札幌市中央図書館",
+    "title": "北海道日本ハムファイターズ選手のおすすめ本リスト",
+    "url": "https://www.city.sapporo.jp/documents/156685/sensyusuisenlist_1.pdf"
+  },
+  {
+    "id": "kangaeruhito-nanba-ten-books",
+    "type": "article",
+    "media": "考える人（新潮社）",
+    "title": "表紙をしげしげと眺めたくなる１０冊",
+    "url": "https://kangaeruhito.jp/article/763991",
+    "publishedAt": "2026-06-17"
+  },
+  {
+    "id": "kangaeruhito-yuki-ten-books",
+    "type": "article",
+    "media": "考える人（新潮社）",
+    "title": "気になる未解決事件の10冊",
+    "url": "https://kangaeruhito.jp/article/16143",
+    "publishedAt": "2020-09-15"
+  },
+  {
+    "id": "dokusyokansoubun-kamishiraishi-2018",
+    "type": "interview",
+    "media": "毎日新聞（読書感想文全国コンクール公式サイト）",
+    "title": "「好きな作家、いつか出会える」俳優・上白石萌音さん",
+    "url": "https://www.dokusyokansoubun.jp/special_contents/mainichinewspaper_20180607.html",
+    "publishedAt": "2018-06-07"
+  },
+  {
+    "id": "shueisha-mangaexpo-012",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜津田健次郎",
+    "url": "https://shueisha-mangaexpo.jp/recommend/012.html",
+    "publishedAt": "2026-05-07"
+  },
+  {
+    "id": "shueisha-mangaexpo-007",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜宝鐘マリン",
+    "url": "https://shueisha-mangaexpo.jp/recommend/007.html",
+    "publishedAt": "2026-03-06"
+  },
+  {
+    "id": "shueisha-mangaexpo-005",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜ARuFa",
+    "url": "https://shueisha-mangaexpo.jp/recommend/005.html",
+    "publishedAt": "2026-02-13"
+  },
+  {
+    "id": "mezamashi-kamishiraishi-essay-2021",
+    "type": "interview",
+    "media": "めざましmedia",
+    "title": "上白石萌音「持ちうる限りの感情を書き残せたら」初エッセイ集で“誹謗中傷”に対する思いも吐露",
+    "url": "https://mezamashi.media/articles/-/12779",
+    "publishedAt": "2021-09-04"
+  },
+  {
+    "id": "shueisha-mangaexpo-021",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜朝井リョウ",
+    "url": "https://shueisha-mangaexpo.jp/recommend/021.html",
+    "publishedAt": "2026-09-30"
+  },
+  {
+    "id": "shueisha-mangaexpo-011",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜鈴木愛理",
+    "url": "https://shueisha-mangaexpo.jp/recommend/011.html",
+    "publishedAt": "2026-04-21"
+  },
+  {
+    "id": "shueisha-mangaexpo-015",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜木村沙織",
+    "url": "https://shueisha-mangaexpo.jp/recommend/015.html",
+    "publishedAt": "2026-06-22"
+  },
+  {
+    "id": "shueisha-mangaexpo-008",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜星街すいせい",
+    "url": "https://shueisha-mangaexpo.jp/recommend/008.html",
+    "publishedAt": "2026-03-13"
+  },
+  {
+    "id": "anan-kamishiraishi-2020-books",
+    "type": "interview",
+    "media": "anan",
+    "title": "上白石萌音、妹・萌歌との“とある習慣”とは？",
+    "url": "https://ananweb.jp/categories/entertainment/16183",
+    "publishedAt": "2020-09-19"
+  },
+  {
+    "id": "cinra-musicians-bookstore-3",
+    "type": "article",
+    "media": "CINRA",
+    "title": "ぼくりりやCHAI、BOMIらの人生を変えた本、合計100冊を一挙紹介",
+    "url": "https://www.cinra.net/article/report-201709-Kyash?page=3",
+    "publishedAt": "2017-09-25"
+  },
+  {
+    "id": "shueisha-mangaexpo-001",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜久保建英",
+    "url": "https://shueisha-mangaexpo.jp/recommend/001.html",
+    "publishedAt": "2026-01-09"
+  },
+  {
+    "id": "shueisha-mangaexpo-004",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜佐久間宣行",
+    "url": "https://shueisha-mangaexpo.jp/recommend/004.html",
+    "publishedAt": "2026-02-06"
+  },
+  {
+    "id": "shueisha-mangaexpo-014",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜Ado",
+    "url": "https://shueisha-mangaexpo.jp/recommend/014.html",
+    "publishedAt": "2026-06-08"
+  },
+  {
+    "id": "shueisha-mangaexpo-019",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜髙木美帆",
+    "url": "https://shueisha-mangaexpo.jp/recommend/019.html",
+    "publishedAt": "2026-08-21"
+  },
+  {
+    "id": "shueisha-mangaexpo-009",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜杏",
+    "url": "https://shueisha-mangaexpo.jp/recommend/009.html",
+    "publishedAt": "2026-03-24"
+  },
+  {
+    "id": "ray-matsumura-books-2022",
+    "type": "interview",
+    "media": "Ray",
+    "title": "【SixTONES・松村北斗】が好きなキャラクターって？意外な習性に迫る♡",
+    "url": "https://ray-web.jp/276479",
+    "publishedAt": "2022-11-25"
+  },
+  {
+    "id": "shueisha-mangaexpo-020",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜千早茜",
+    "url": "https://shueisha-mangaexpo.jp/recommend/020.html",
+    "publishedAt": "2026-09-15"
+  },
+  {
+    "id": "shueisha-mangaexpo-017",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜米津玄師",
+    "url": "https://shueisha-mangaexpo.jp/recommend/017.html",
+    "publishedAt": "2026-07-20"
+  },
+  {
+    "id": "cinra-musicians-bookstore-4",
+    "type": "article",
+    "media": "CINRA",
+    "title": "ぼくりりやCHAI、BOMIらの人生を変えた本、合計100冊を一挙紹介",
+    "url": "https://www.cinra.net/article/report-201709-Kyash?page=4",
+    "publishedAt": "2017-09-25"
+  },
+  {
+    "id": "tbs-session-hoshino-2022",
+    "type": "article",
+    "media": "TBSラジオ",
+    "title": "星野源さんが『荻上チキ・Session』に出演　～文庫化されたエッセイ『いのちの車窓から』や読書について語る",
+    "url": "https://www.tbsradio.jp/articles/51157/",
+    "publishedAt": "2022-02-22"
+  },
+  {
+    "id": "shueisha-mangaexpo-013",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜吉田恵里香",
+    "url": "https://shueisha-mangaexpo.jp/recommend/013.html",
+    "publishedAt": "2026-05-26"
+  },
+  {
+    "id": "shueisha-mangaexpo-010",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜松丸亮吾",
+    "url": "https://shueisha-mangaexpo.jp/recommend/010.html",
+    "publishedAt": "2026-04-10"
+  },
+  {
+    "id": "nippon-kamishiraishi-goodnight-book",
+    "type": "article",
+    "media": "ニッポン放送 NEWS ONLINE",
+    "title": "女優・上白石萌音がオススメする、最近出会った最高の1冊",
+    "url": "https://news.1242.com/article/161082",
+    "publishedAt": "2018-11-16"
+  },
+  {
+    "id": "shueisha-mangaexpo-002",
+    "type": "article",
+    "media": "集英社マンガエキスポ",
+    "title": "わたしの推薦図書｜HIKAKIN",
+    "url": "https://shueisha-mangaexpo.jp/recommend/002.html",
+    "publishedAt": "2026-01-23"
   }
 ]

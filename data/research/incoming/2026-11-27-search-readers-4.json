@@ -1,0 +1,1611 @@
+{
+  "people": [
+    {
+      "id": "iga-daisuke",
+      "name": "伊賀大介",
+      "kana": "いが だいすけ",
+      "title": "スタイリスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "okamura-yasuyuki",
+      "name": "岡村靖幸",
+      "kana": "おかむら やすゆき",
+      "title": "アーティスト",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "kishimoto-sachiko",
+      "name": "岸本佐知子",
+      "kana": "きしもと さちこ",
+      "title": "翻訳家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "kinoshita-tatsuya",
+      "name": "木下龍也",
+      "kana": "きのした たつや",
+      "title": "歌人",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "saito-mariko",
+      "name": "斎藤真理子",
+      "kana": "さいとう まりこ",
+      "title": "翻訳家",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "shibata-motoyuki",
+      "name": "柴田元幸",
+      "kana": "しばた もとゆき",
+      "title": "翻訳家・アメリカ文学研究者",
+      "tags": [
+        "作家",
+        "研究者"
+      ]
+    },
+    {
+      "id": "sokabe-keiichi",
+      "name": "曽我部恵一",
+      "kana": "そかべ けいいち",
+      "title": "ミュージシャン（サニーデイ・サービス）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "fukada-koji",
+      "name": "深田晃司",
+      "kana": "ふかだ こうじ",
+      "title": "映画監督",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "rachel-chelmico",
+      "name": "Rachel",
+      "kana": "れいちぇる",
+      "title": "ラッパー（chelmico）",
+      "tags": [
+        "芸能"
+      ]
+    },
+    {
+      "id": "seiryo",
+      "name": "清涼院流水",
+      "title": "作家・英訳者",
+      "tags": [
+        "作家"
+      ]
+    },
+    {
+      "id": "takeuchi",
+      "name": "竹内薫",
+      "title": "サイエンス作家",
+      "tags": [
+        "作家"
+      ],
+      "kana": "たけうちかおる"
+    },
+    {
+      "id": "nanba",
+      "name": "難波優輝",
+      "title": "美学者",
+      "tags": [
+        "研究者",
+        "作家"
+      ]
+    },
+    {
+      "id": "yuki",
+      "name": "高橋ユキ",
+      "title": "ライター",
+      "tags": [
+        "作家"
+      ],
+      "kana": "たかはしゆき"
+    },
+    {
+      "id": "isono",
+      "name": "磯野真穂",
+      "title": "医療人類学者",
+      "tags": [
+        "研究者"
+      ]
+    },
+    {
+      "id": "p1319",
+      "name": "栗山英樹",
+      "title": "元北海道日本ハムファイターズ監督、WBC日本代表を優勝に導いた",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "p1680",
+      "name": "大谷翔平",
+      "title": "プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-3",
+      "name": "石井裕也",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "p1274",
+      "name": "斎藤佑樹",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-5",
+      "name": "宮西尚生",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-6",
+      "name": "木佐貫洋",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-7",
+      "name": "鍵谷陽平",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-8",
+      "name": "矢貫俊之",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-9",
+      "name": "吉川光夫",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-10",
+      "name": "武田勝",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-11",
+      "name": "上沢直之",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-12",
+      "name": "多田野数人",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-13",
+      "name": "大野奨太",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-14",
+      "name": "飯山裕志",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-15",
+      "name": "小谷野栄一",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-16",
+      "name": "中島卓也",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-17",
+      "name": "渡邉諒",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-18",
+      "name": "岡大海",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-19",
+      "name": "杉谷拳士",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-20",
+      "name": "陽岱鋼",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-21",
+      "name": "赤田将吾",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-22",
+      "name": "鵜久森淳志",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "fighters-library-sapporo-2014-23",
+      "name": "谷口雄也",
+      "title": "元プロ野球選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jaaf-book-week-athletes-2020-24",
+      "name": "館澤亨次",
+      "title": "陸上競技選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jaaf-book-week-athletes-2020-25",
+      "name": "高良彩花",
+      "title": "陸上競技選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jaaf-book-week-athletes-2020-26",
+      "name": "津田シェリアイ",
+      "title": "陸上競技選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "jaaf-book-week-athletes-2020-27",
+      "name": "兒玉芽生",
+      "title": "陸上競技選手",
+      "tags": [
+        "スポーツ選手"
+      ]
+    },
+    {
+      "id": "sportiva-tanaka-nozomi-reading-2024-28",
+      "name": "田中希実",
+      "title": "陸上競技選手",
+      "tags": [
+        "スポーツ選手"
+      ],
+      "kana": "たなかのぞみ"
+    }
+  ],
+  "sources": [
+    {
+      "id": "tbs-gosatsuten-2026",
+      "type": "article",
+      "media": "TBSラジオ（radiko news）",
+      "title": "全105冊。本を愛する21人がテーマを決めて五冊を選ぶ。『五冊展』選書リスト",
+      "url": "https://news.radiko.jp/article/station/TBS/132247/",
+      "publishedAt": "2026-02-16"
+    },
+    {
+      "id": "kangaeruhito-seiryo-ten-books",
+      "type": "article",
+      "media": "考える人（新潮社）",
+      "title": "知識ゼロから聖書に親しむための10冊",
+      "url": "https://kangaeruhito.jp/article/211731",
+      "publishedAt": "2021-12-21"
+    },
+    {
+      "id": "kangaeruhito-takeuchi-ten-books",
+      "type": "article",
+      "media": "考える人（新潮社）",
+      "title": "祝・ノーベル物理学賞！ 超天才ペンローズを読み解く10冊",
+      "url": "https://kangaeruhito.jp/article/16692",
+      "publishedAt": "2020-10-15"
+    },
+    {
+      "id": "kangaeruhito-nanba-ten-books",
+      "type": "article",
+      "media": "考える人（新潮社）",
+      "title": "表紙をしげしげと眺めたくなる１０冊",
+      "url": "https://kangaeruhito.jp/article/763991",
+      "publishedAt": "2026-06-17"
+    },
+    {
+      "id": "kangaeruhito-yuki-ten-books",
+      "type": "article",
+      "media": "考える人（新潮社）",
+      "title": "気になる未解決事件の10冊",
+      "url": "https://kangaeruhito.jp/article/16143",
+      "publishedAt": "2020-09-15"
+    },
+    {
+      "id": "kangaeruhito-isono-ten-books",
+      "type": "article",
+      "media": "考える人（新潮社）",
+      "title": "コロナ禍を理解し、生きることの手ざわりを味わうための10冊",
+      "url": "https://kangaeruhito.jp/article/15210",
+      "publishedAt": "2020-06-24"
+    },
+    {
+      "id": "fighters-library-sapporo-2014",
+      "type": "article",
+      "media": "札幌市中央図書館",
+      "title": "北海道日本ハムファイターズ選手のおすすめ本リスト",
+      "url": "https://www.city.sapporo.jp/documents/156685/sensyusuisenlist_1.pdf"
+    },
+    {
+      "id": "jaaf-book-week-athletes-2020",
+      "type": "article",
+      "media": "日本陸上競技連盟",
+      "title": "【陸上Bookウィーク】アスリート編　～ラストページまで駆け抜けて～",
+      "url": "https://www.jaaf.or.jp/news/article/14461/",
+      "publishedAt": "2020-11-09"
+    },
+    {
+      "id": "sportiva-tanaka-nozomi-reading-2024",
+      "type": "interview",
+      "media": "web Sportiva",
+      "title": "本好き・田中希実に文学が与える陸上競技への影響「ラスト１周400ｍを意識していたのが最後の200ｍにこだわるようになった」",
+      "url": "https://sportiva.shueisha.co.jp/clm/othersports/rikujo/2024/01/25/400200/?page=2",
+      "publishedAt": "2024-01-25"
+    }
+  ],
+  "recommendations": [
+    {
+      "personId": "iga-daisuke",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "既にそこにあるもの",
+        "author": "大竹伸朗",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "iga-daisuke",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "今日の芸術",
+        "author": "岡本太郎",
+        "publisher": "光文社",
+        "subtitle": "時代を創造するものは誰か"
+      }
+    },
+    {
+      "personId": "iga-daisuke",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "デュシャンは語る",
+        "author": "マルセル・デュシャン、ピエール・カバンヌ、岩佐鉄男、小林康夫",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "iga-daisuke",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ニューヨークで考え中",
+        "author": "近藤聡乃",
+        "publisher": "亜紀書房",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "iga-daisuke",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "アーティストが服を着る理由",
+        "author": "チャーリー・ポーター、清水玲奈",
+        "publisher": "フィルムアート社",
+        "subtitle": "表現と反抗のファッション"
+      }
+    },
+    {
+      "personId": "okamura-yasuyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "井上涼の美術でござる 一の巻",
+        "author": "井上涼",
+        "publisher": "毎日新聞出版"
+      }
+    },
+    {
+      "personId": "okamura-yasuyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "魔術的芸術",
+        "author": "アンドレ・ブルトン、巖谷國士、谷川渥",
+        "publisher": "河出書房新社"
+      }
+    },
+    {
+      "personId": "okamura-yasuyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "リミナルスペース",
+        "author": "ALT236、佐野ゆか",
+        "publisher": "フィルムアート社",
+        "subtitle": "新しい恐怖の美学"
+      }
+    },
+    {
+      "personId": "okamura-yasuyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "アーティストの邸宅",
+        "author": "スージー・ホッジ、井上舞",
+        "publisher": "パイ インターナショナル",
+        "subtitle": "芸術家30人のインスピレーションを生む家"
+      }
+    },
+    {
+      "personId": "kishimoto-sachiko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "帰りに牛乳買ってきて",
+        "author": "はらだ有彩",
+        "publisher": "柏書房",
+        "subtitle": "女ふたり暮らし、ただいま20年目。"
+      }
+    },
+    {
+      "personId": "kishimoto-sachiko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "をとめよ素晴らしき人生を得よ",
+        "author": "瀬戸夏子",
+        "publisher": "柏書房",
+        "subtitle": "女人短歌のレジスタンス"
+      }
+    },
+    {
+      "personId": "kishimoto-sachiko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "男の皮の物語",
+        "author": "ユベール、ザンジム、井田海帆",
+        "publisher": "サウザンブックス社"
+      }
+    },
+    {
+      "personId": "kishimoto-sachiko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "翻訳する女たち",
+        "author": "大橋由香子",
+        "publisher": "エトセトラブックス",
+        "subtitle": "中村妙子・深町眞理子・小尾芙佐・松岡享子"
+      }
+    },
+    {
+      "personId": "kishimoto-sachiko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ベル・ジャー",
+        "author": "シルヴィア・プラス、小澤身和子",
+        "publisher": "晶文社",
+        "edition": "小澤身和子訳"
+      }
+    },
+    {
+      "personId": "kinoshita-tatsuya",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "怪談百忌夜行 天棺",
+        "author": "クダマツヒロシ",
+        "publisher": "竹書房"
+      }
+    },
+    {
+      "personId": "kinoshita-tatsuya",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "妹が死んだ時の海亀",
+        "author": "朱雀門出",
+        "publisher": "竹書房"
+      }
+    },
+    {
+      "personId": "kinoshita-tatsuya",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "悪魔情報",
+        "author": "城戸",
+        "publisher": "KADOKAWA"
+      }
+    },
+    {
+      "personId": "kinoshita-tatsuya",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "6",
+        "author": "梨",
+        "publisher": "玄光社"
+      }
+    },
+    {
+      "personId": "kinoshita-tatsuya",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "口に関するアンケート",
+        "author": "背筋",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "saito-mariko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ソウル・サーチン",
+        "author": "新里堅進、藤井誠二",
+        "publisher": "リイド社",
+        "subtitle": "「沖縄」を描き続ける男・新里堅進作品選集および評伝"
+      }
+    },
+    {
+      "personId": "saito-mariko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "みえないもの",
+        "author": "イリナ・グリゴレ",
+        "publisher": "柏書房"
+      }
+    },
+    {
+      "personId": "saito-mariko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "どこかの遠い友に",
+        "author": "船城稔美、木村哲也",
+        "publisher": "柏書房",
+        "subtitle": "船城稔美詩集"
+      }
+    },
+    {
+      "personId": "saito-mariko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "をとめよ素晴らしき人生を得よ",
+        "author": "瀬戸夏子",
+        "publisher": "柏書房",
+        "subtitle": "女人短歌のレジスタンス"
+      }
+    },
+    {
+      "personId": "saito-mariko",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "これがおばけの考えです",
+        "author": "モノ・ホーミー",
+        "publisher": "タバブックス",
+        "subtitle": "貝がら千話選集"
+      }
+    },
+    {
+      "personId": "shibata-motoyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "おそ松くん ベスト・セレクション",
+        "author": "赤塚不二夫",
+        "publisher": "筑摩書房"
+      }
+    },
+    {
+      "personId": "shibata-motoyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ハーメルンの笛吹き男",
+        "author": "阿部謹也",
+        "publisher": "筑摩書房",
+        "subtitle": "伝説とその世界"
+      }
+    },
+    {
+      "personId": "shibata-motoyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "変身",
+        "author": "フランツ・カフカ、池内紀",
+        "publisher": "白水社",
+        "edition": "池内紀訳"
+      }
+    },
+    {
+      "personId": "shibata-motoyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "異人論",
+        "author": "小松和彦",
+        "publisher": "筑摩書房",
+        "subtitle": "民俗社会の心性"
+      }
+    },
+    {
+      "personId": "shibata-motoyuki",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "フランケンシュタイン",
+        "author": "メアリ・シェリー、森下弓子",
+        "publisher": "東京創元社",
+        "edition": "森下弓子訳"
+      }
+    },
+    {
+      "personId": "sokabe-keiichi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "楢山節考",
+        "author": "深沢七郎",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "sokabe-keiichi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "赤目四十八瀧心中未遂",
+        "author": "車谷長吉",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "sokabe-keiichi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "死の棘",
+        "author": "島尾敏雄",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "sokabe-keiichi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "抱擁家族",
+        "author": "小島信夫",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "sokabe-keiichi",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "蛇淫",
+        "author": "中上健次",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "fukada-koji",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ガリバー旅行記",
+        "author": "ジョナサン・スウィフト、柴田元幸",
+        "publisher": "朝日新聞出版",
+        "edition": "柴田元幸訳"
+      }
+    },
+    {
+      "personId": "fukada-koji",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "人間とは何か",
+        "author": "マーク・トウェイン、中野好夫",
+        "publisher": "岩波書店",
+        "edition": "中野好夫訳"
+      }
+    },
+    {
+      "personId": "fukada-koji",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "歴史とは何か",
+        "author": "E・H・カー、近藤和彦",
+        "publisher": "岩波書店",
+        "edition": "近藤和彦訳"
+      }
+    },
+    {
+      "personId": "fukada-koji",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "波うつ土地・芻狗",
+        "author": "富岡多恵子",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "fukada-koji",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "友よ映画よ、わがヌーヴェル・ヴァーグ誌",
+        "author": "山田宏一",
+        "publisher": "平凡社",
+        "edition": "増補"
+      }
+    },
+    {
+      "personId": "rachel-chelmico",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "一九八四年",
+        "author": "ジョージ・オーウェル、高橋和久",
+        "publisher": "早川書房",
+        "edition": "高橋和久訳"
+      }
+    },
+    {
+      "personId": "rachel-chelmico",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ここは、おしまいの地",
+        "author": "こだま",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "rachel-chelmico",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "アンメラへの長い道",
+        "author": "フランク・オコナー、矢谷雅子",
+        "publisher": "未知谷",
+        "edition": "矢谷雅子編・訳"
+      }
+    },
+    {
+      "personId": "rachel-chelmico",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "ウィステリアと三人の女たち",
+        "author": "川上未映子",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "rachel-chelmico",
+      "sourceId": "tbs-gosatsuten-2026",
+      "book": {
+        "title": "あなたを選んでくれるもの",
+        "author": "ミランダ・ジュライ、岸本佐知子",
+        "publisher": "新潮社",
+        "edition": "岸本佐知子訳"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "聖☆おにいさん",
+        "author": "中村光",
+        "publisher": "講談社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "上馬キリスト教会の世界一ゆるい聖書入門",
+        "author": "上馬キリスト教会",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "旧約聖書を知っていますか",
+        "author": "阿刀田高",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "新約聖書入門",
+        "author": "三浦綾子",
+        "publisher": "光文社",
+        "subtitle": "心の糧を求める人へ",
+        "edition": "光文社文庫"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "キリスト教は役に立つか",
+        "author": "来住英俊",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "イエスと出会う",
+        "author": "アルベール・アリ、シャルル・シンガー、原田葉子",
+        "publisher": "教文館",
+        "subtitle": "福音書を読む"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "基本がわかるビジュアル聖書ガイド",
+        "author": "ティム・ダウリー",
+        "publisher": "いのちのことば社"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "バイブルガイド",
+        "author": "マイク・ボーモント",
+        "publisher": "いのちのことば社",
+        "subtitle": "目で見てわかる聖書"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "聖書読解事典",
+        "author": "ヘンリー・ウォンズブラ、北和丈",
+        "publisher": "原書房",
+        "edition": "ヴィジュアル版"
+      }
+    },
+    {
+      "personId": "seiryo",
+      "sourceId": "kangaeruhito-seiryo-ten-books",
+      "book": {
+        "title": "新約聖書物語",
+        "author": "犬養道子",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "takeuchi",
+      "sourceId": "kangaeruhito-takeuchi-ten-books",
+      "book": {
+        "title": "皇帝の新しい心",
+        "author": "ロジャー・ペンローズ、林一",
+        "publisher": "みすず書房",
+        "subtitle": "コンピュータ・心・物理法則"
+      }
+    },
+    {
+      "personId": "takeuchi",
+      "sourceId": "kangaeruhito-takeuchi-ten-books",
+      "book": {
+        "title": "心の影 1",
+        "author": "ロジャー・ペンローズ、林一",
+        "publisher": "みすず書房",
+        "subtitle": "意識をめぐる未知の科学を探る",
+        "edition": "新装版"
+      }
+    },
+    {
+      "personId": "takeuchi",
+      "sourceId": "kangaeruhito-takeuchi-ten-books",
+      "book": {
+        "title": "心の影 2",
+        "author": "ロジャー・ペンローズ、林一",
+        "publisher": "みすず書房",
+        "subtitle": "意識をめぐる未知の科学を探る",
+        "edition": "新装版"
+      }
+    },
+    {
+      "personId": "takeuchi",
+      "sourceId": "kangaeruhito-takeuchi-ten-books",
+      "book": {
+        "title": "心は量子で語れるか",
+        "author": "ロジャー・ペンローズ、中村和幸",
+        "publisher": "講談社",
+        "subtitle": "21世紀物理の進むべき道をさぐる"
+      }
+    },
+    {
+      "personId": "takeuchi",
+      "sourceId": "kangaeruhito-takeuchi-ten-books",
+      "book": {
+        "title": "ホーキングとペンローズが語る時空の本質",
+        "author": "スティーヴン・ホーキング、ロジャー・ペンローズ、林一",
+        "publisher": "早川書房",
+        "subtitle": "ブラックホールから量子宇宙論へ"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "「細雪」の詩学",
+        "author": "平中悠一",
+        "publisher": "田畑書店",
+        "subtitle": "比較ナラティヴ理論の試み"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "えーえんとくちから",
+        "author": "笹井宏之",
+        "publisher": "パルコエンタテインメント事業部",
+        "subtitle": "笹井宏之作品集",
+        "edition": "単行本"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "あなたを選んでくれるもの",
+        "author": "ミランダ・ジュライ、岸本佐知子",
+        "publisher": "新潮社"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "亡命ロシア料理",
+        "author": "ピョートル・ワイリ、アレクサンドル・ゲニス、沼野充義、北川和美、守屋愛",
+        "publisher": "未知谷",
+        "edition": "新装版"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "足摺り水族館",
+        "author": "panpanya",
+        "publisher": "1月と7月",
+        "edition": "2013年版"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "芸術の言語",
+        "author": "ネルソン・グッドマン、戸澤義夫、松永伸司",
+        "publisher": "慶應義塾大学出版会"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "ダックスフントのワープ",
+        "author": "藤原伊織",
+        "publisher": "文藝春秋",
+        "edition": "文春文庫"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "神の子どもたちはみな踊る",
+        "author": "村上春樹",
+        "publisher": "新潮社",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "nanba",
+      "sourceId": "kangaeruhito-nanba-ten-books",
+      "book": {
+        "title": "明るい部屋",
+        "author": "ロラン・バルト、花輪光",
+        "publisher": "みすず書房",
+        "subtitle": "写真についての覚書"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "殺人鬼ゾディアック",
+        "author": "ゲーリー・L・スチュワート、スーザン・ムスタファ、高月園子",
+        "publisher": "亜紀書房"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "謀殺 下山事件",
+        "author": "矢田喜美雄",
+        "publisher": "祥伝社",
+        "subtitle": "ドキュメント「闇の昭和史」",
+        "edition": "祥伝社文庫"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "下山事件 最後の証言",
+        "author": "柴田哲孝",
+        "publisher": "祥伝社",
+        "edition": "完全版・祥伝社文庫"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "殺人犯はそこにいる",
+        "author": "清水潔",
+        "publisher": "新潮社",
+        "subtitle": "隠蔽された北関東連続幼女誘拐殺人事件",
+        "edition": "新潮文庫"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "誰が私を殺したの",
+        "author": "朝倉喬司",
+        "publisher": "恒文社21",
+        "subtitle": "三大未解決殺人事件の迷宮"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "消えた神父を追え！",
+        "author": "大橋義輝",
+        "publisher": "共栄書房",
+        "subtitle": "BOACスチュワーデス殺人事件の謎を解く"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "袴田事件",
+        "author": "山本徹美",
+        "publisher": "プレジデント社",
+        "subtitle": "冤罪・強盗殺人事件の深層"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "名張毒ブドウ酒殺人事件",
+        "author": "江川紹子",
+        "publisher": "岩波書店",
+        "subtitle": "六人目の犠牲者",
+        "edition": "岩波現代文庫"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "狭山事件",
+        "author": "伊吹隼人",
+        "publisher": "風早書林",
+        "subtitle": "46年目の現場と証言"
+      }
+    },
+    {
+      "personId": "yuki",
+      "sourceId": "kangaeruhito-yuki-ten-books",
+      "book": {
+        "title": "華城事件は終わっていない",
+        "author": "ハ・スンギュン、宮本尚寛",
+        "publisher": "辰巳出版",
+        "subtitle": "担当刑事の綴る「殺人の追憶」"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "カモと犬、生きてる",
+        "author": "水谷緑",
+        "publisher": "新紀元社"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "ことり",
+        "author": "小川洋子",
+        "publisher": "朝日新聞出版",
+        "edition": "朝日文庫"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "獣の奏者 1 闘蛇編",
+        "author": "上橋菜穂子",
+        "publisher": "講談社",
+        "edition": "講談社文庫"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "植物はなぜ動かないのか",
+        "author": "稲垣栄洋",
+        "publisher": "筑摩書房",
+        "subtitle": "弱くて強い植物のはなし"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "音楽が本になるとき",
+        "author": "木村元",
+        "publisher": "木立の文庫"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "子どもの文化人類学",
+        "author": "原ひろ子",
+        "publisher": "晶文社"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "境界の町で",
+        "author": "岡映里",
+        "publisher": "リトルモア"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "偶然を飼いならす",
+        "author": "イアン・ハッキング、石原英樹、重田園江",
+        "publisher": "木鐸社",
+        "subtitle": "統計学と第二次科学革命"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "監獄の誕生",
+        "author": "ミシェル・フーコー、田村俶",
+        "publisher": "新潮社",
+        "subtitle": "監視と処罰",
+        "edition": "新装版"
+      }
+    },
+    {
+      "personId": "isono",
+      "sourceId": "kangaeruhito-isono-ten-books",
+      "book": {
+        "title": "病魔という悪の物語",
+        "author": "金森修",
+        "publisher": "筑摩書房",
+        "subtitle": "チフスのメアリー"
+      }
+    },
+    {
+      "personId": "p1319",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "リトル・トリー",
+        "author": "フォレスト・カーター",
+        "publisher": "めるくまーる"
+      }
+    },
+    {
+      "personId": "p1319",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "真田太平記",
+        "author": "池波正太郎",
+        "publisher": "新潮社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "p1680",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "スティーブ・ジョブズ I",
+        "author": "ウォルター・アイザックソン",
+        "publisher": "講談社"
+      },
+      "note": "全2巻のうち第1巻を掲載。"
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-3",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "永遠の0",
+        "author": "百田尚樹",
+        "publisher": "太田出版"
+      }
+    },
+    {
+      "personId": "p1274",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "竜馬がゆく",
+        "author": "司馬遼太郎",
+        "publisher": "文藝春秋",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-5",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
+        "author": "岩崎夏海",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-6",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "小暮写眞館",
+        "author": "宮部みゆき",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-7",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "偏差値70の野球部",
+        "author": "松尾清貴",
+        "publisher": "小学館",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-8",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "流星の絆",
+        "author": "東野圭吾",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-9",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "竜馬がゆく",
+        "author": "司馬遼太郎",
+        "publisher": "文藝春秋",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-9",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "虚ろな十字架",
+        "author": "東野圭吾",
+        "publisher": "光文社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-10",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "村上海賊の娘 上",
+        "author": "和田竜",
+        "publisher": "新潮社",
+        "edition": "上巻"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-11",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "人生心得帖",
+        "author": "松下幸之助",
+        "publisher": "PHP研究所"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-12",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "生存者ゼロ",
+        "author": "安生正",
+        "publisher": "宝島社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-13",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "「原因」と「結果」の法則",
+        "author": "ジェームズ・アレン",
+        "publisher": "サンマーク出版"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-14",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "ルーズヴェルト・ゲーム",
+        "author": "池井戸潤",
+        "publisher": "講談社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-15",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "隻腕の剣士教壇に立つ",
+        "author": "浅野健治",
+        "publisher": "潮出版社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-16",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "ハリー・ポッターと賢者の石",
+        "author": "J.K.ローリング",
+        "publisher": "静山社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-17",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "ハリー・ポッターと賢者の石",
+        "author": "J.K.ローリング",
+        "publisher": "静山社",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-18",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "人生に悩んだら「日本史」に聞こう",
+        "author": "ひすいこたろう、白駒妃登美",
+        "publisher": "祥伝社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-19",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "鈍足バンザイ！",
+        "author": "岡崎慎司",
+        "publisher": "幻冬舎"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-20",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "采配",
+        "author": "落合博満",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-21",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "女のいない男たち",
+        "author": "村上春樹",
+        "publisher": "文藝春秋"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-22",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "ロスジェネの逆襲",
+        "author": "池井戸潤",
+        "publisher": "ダイヤモンド社"
+      }
+    },
+    {
+      "personId": "fighters-library-sapporo-2014-23",
+      "sourceId": "fighters-library-sapporo-2014",
+      "book": {
+        "title": "中高生のための「かたづけ」の本",
+        "author": "杉田明子、佐藤剛史",
+        "publisher": "岩波書店"
+      }
+    },
+    {
+      "personId": "jaaf-book-week-athletes-2020-24",
+      "sourceId": "jaaf-book-week-athletes-2020",
+      "book": {
+        "title": "スタンフォードの心理学講義",
+        "author": "ケリー・マクゴニガル",
+        "publisher": "日経BP"
+      }
+    },
+    {
+      "personId": "jaaf-book-week-athletes-2020-25",
+      "sourceId": "jaaf-book-week-athletes-2020",
+      "book": {
+        "title": "私は私のままで生きることにした",
+        "author": "キム・スヒョン",
+        "publisher": "ワニブックス"
+      }
+    },
+    {
+      "personId": "jaaf-book-week-athletes-2020-26",
+      "sourceId": "jaaf-book-week-athletes-2020",
+      "book": {
+        "title": "挨拶のバカ力！",
+        "author": "金原亭世之介",
+        "publisher": "三五館"
+      }
+    },
+    {
+      "personId": "jaaf-book-week-athletes-2020-27",
+      "sourceId": "jaaf-book-week-athletes-2020",
+      "book": {
+        "title": "ウィニング・アローン",
+        "author": "為末大",
+        "publisher": "プレジデント社"
+      }
+    },
+    {
+      "personId": "sportiva-tanaka-nozomi-reading-2024-28",
+      "sourceId": "sportiva-tanaka-nozomi-reading-2024",
+      "book": {
+        "title": "赤毛のアン",
+        "author": "L・M・モンゴメリ",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "sportiva-tanaka-nozomi-reading-2024-28",
+      "sourceId": "sportiva-tanaka-nozomi-reading-2024",
+      "book": {
+        "title": "魔女の宅急便",
+        "author": "角野栄子",
+        "publisher": "福音館書店",
+        "edition": "シリーズ"
+      }
+    },
+    {
+      "personId": "sportiva-tanaka-nozomi-reading-2024-28",
+      "sourceId": "sportiva-tanaka-nozomi-reading-2024",
+      "book": {
+        "title": "引き出しの中の家",
+        "author": "朽木祥",
+        "publisher": "ポプラ社"
+      }
+    },
+    {
+      "personId": "sportiva-tanaka-nozomi-reading-2024-28",
+      "sourceId": "sportiva-tanaka-nozomi-reading-2024",
+      "book": {
+        "title": "翼がなくても",
+        "author": "中山七里",
+        "publisher": "双葉社",
+        "edition": "双葉文庫"
+      }
+    }
+  ],
+  "checkedUrls": [
+    {
+      "url": "https://kangaeruhito.jp/articlecat/precious_books",
+      "result": "index",
+      "reason": "新潮社「たいせつな本 ―とっておきの10冊―」全記事の一覧。"
+    },
+    {
+      "url": "https://www.city.sapporo.jp/toshokan/sapporosiryo/kakokikakutenji.html",
+      "result": "index",
+      "reason": "平成26年度の北海道日本ハムファイターズ読書応援企画展の選手推薦リストを採用"
+    },
+    {
+      "url": "https://www.toto-growing.com/16pt/interview118p",
+      "result": "rejected",
+      "person": "田中希実",
+      "reason": "具体的な書名の特定に至らず"
+    }
+  ]
+}

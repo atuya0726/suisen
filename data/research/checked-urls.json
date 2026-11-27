@@ -22101,17 +22101,17 @@
   },
   {
     "url": "https://kangaeruhito.jp/article/211731",
-    "result": "candidate",
-    "reason": "たいせつな本（13）清涼院流水の10冊。未読",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-seiryo-ten-books",
     "person": "清涼院流水",
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   {
     "url": "https://kangaeruhito.jp/article/16692",
-    "result": "candidate",
-    "reason": "たいせつな本（12）竹内薫の10冊。未読",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-takeuchi-ten-books",
     "person": "竹内薫",
-    "checkedAt": "2026-11-26"
+    "checkedAt": "2026-11-27"
   },
   {
     "url": "https://www.j-wave.co.jp/original/bookbar/",
@@ -22627,6 +22627,223 @@
     "result": "index",
     "reason": "宇垣美里の公式YouTubeの推薦動画「読書の秋 おすすめミステリー3選」の配信を報じる記事。本人動画を出典に採用。",
     "person": "宇垣美里",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://sportiva.shueisha.co.jp/clm/othersports/rikujo/2024/01/25/400200/?page=2",
+    "result": "adopted",
+    "reason": "sources.json の sportiva-tanaka-nozomi-reading-2024",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/15210",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-isono-ten-books",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.jaaf.or.jp/news/article/14461/",
+    "result": "adopted",
+    "reason": "sources.json の jaaf-book-week-athletes-2020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.city.sapporo.jp/documents/156685/sensyusuisenlist_1.pdf",
+    "result": "adopted",
+    "reason": "sources.json の fighters-library-sapporo-2014",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/763991",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-nanba-ten-books",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/article/16143",
+    "result": "adopted",
+    "reason": "sources.json の kangaeruhito-yuki-ten-books",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://kangaeruhito.jp/articlecat/precious_books",
+    "result": "index",
+    "reason": "新潮社「たいせつな本 ―とっておきの10冊―」全記事の一覧。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.city.sapporo.jp/toshokan/sapporosiryo/kakokikakutenji.html",
+    "result": "index",
+    "reason": "平成26年度の北海道日本ハムファイターズ読書応援企画展の選手推薦リストを採用",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.toto-growing.com/16pt/interview118p",
+    "result": "rejected",
+    "person": "田中希実",
+    "reason": "具体的な書名の特定に至らず",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.dokusyokansoubun.jp/special_contents/mainichinewspaper_20180607.html",
+    "result": "adopted",
+    "reason": "sources.json の dokusyokansoubun-kamishiraishi-2018",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/012.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-012",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/007.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-007",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/005.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-005",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://mezamashi.media/articles/-/12779",
+    "result": "adopted",
+    "reason": "sources.json の mezamashi-kamishiraishi-essay-2021",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/021.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-021",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/011.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-011",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/015.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-015",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/008.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-008",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://ananweb.jp/categories/entertainment/16183",
+    "result": "adopted",
+    "reason": "sources.json の anan-kamishiraishi-2020-books",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.cinra.net/article/report-201709-Kyash?page=3",
+    "result": "adopted",
+    "reason": "sources.json の cinra-musicians-bookstore-3",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/001.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-001",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/004.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-004",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/014.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-014",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/019.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-019",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/009.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-009",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://ray-web.jp/276479",
+    "result": "adopted",
+    "reason": "sources.json の ray-matsumura-books-2022",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/020.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-020",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/017.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-017",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.cinra.net/article/report-201709-Kyash?page=4",
+    "result": "adopted",
+    "reason": "sources.json の cinra-musicians-bookstore-4",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tbsradio.jp/articles/51157/",
+    "result": "adopted",
+    "reason": "sources.json の tbs-session-hoshino-2022",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/013.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-013",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/010.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-010",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://news.1242.com/article/161082",
+    "result": "adopted",
+    "reason": "sources.json の nippon-kamishiraishi-goodnight-book",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/002.html",
+    "result": "adopted",
+    "reason": "sources.json の shueisha-mangaexpo-002",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://www.tbs.co.jp/akasaka_entertainmentcity/topics/20261121_1.html",
+    "result": "index",
+    "reason": "2026年11月の第2回五冊展公式告知。選書リスト公開を確認でき次第調査。",
+    "checkedAt": "2026-11-27"
+  },
+  {
+    "url": "https://shueisha-mangaexpo.jp/recommend/",
+    "result": "index",
+    "reason": "各界の著名人の選書と本人コメント。",
     "checkedAt": "2026-11-27"
   }
 ]
