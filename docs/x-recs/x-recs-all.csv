@@ -1,0 +1,527 @@
+person,personId_if_exists,handle,book_title,author_if_known,jp_title,isbn13,jp_isbn13,already_in_suisen_person,already_in_suisen_book,already_in_suisen_rec,quote,quote_len,japanese_note,context,confidence,source_type,source_url,publishedAt,note,batch,suisen_book_title,verified
+ビル・ゲイツ,,BillGates,Culpability,Bruce Holsinger,,,,no,no,no,Holsinger keeps the action moving.,34,自律走行車事故の責任を扱う小説を、重くならずに読ませると評している。,その他,high,official_list,https://www.gatesnotes.com/summer-best-2026,2026-07-17,,2026-11-27,,
+ビル・ゲイツ,,BillGates,1929: Inside the Greatest Crash in Wall Street History—And How It Shattered a Nation,Andrew Ross Sorkin,,,,no,no,no,I thought Too Big to Fail was terrific,38,前作をterrificと評したうえで、新作も同様に徹底調査されているとしている。,その他,high,official_list,https://www.gatesnotes.com/summer-best-2026,2026-07-17,2026夏リストのBest Nonfiction。新作については「just as thoroughly researched as his last one」とも書いている。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Too Big to Fail,Andrew Ross Sorkin,,,,no,no,no,I thought Too Big to Fail was terrific,38,2026夏リストで新作『1929』を紹介する際、前作をterrificと明言。,その他,high,official_list,https://www.gatesnotes.com/summer-best-2026,2026-07-17,公式リスト本文中の前作言及。独立したリスト項目ではないが、明確な称賛のため採用。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Gray Matters: A Biography of Brain Surgery,Theodore H. Schwartz,,,,no,no,no,one of the best I’ve listened to.,33,近年のオーディオブックのなかでも最良の一つと評している（Best Listen）。,その他,high,official_list,https://www.gatesnotes.com/summer-best-2026,2026-07-17,オーディオブックとしての推薦。原文は「Gray Matters is one of the best I’ve listened to recently.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Remarkably Bright Creatures,Shelby Van Pelt,,,,no,no,no,I loved this terrific novel,27,めったに小説は読まないが、この作品はloved / terrificと評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2025,2025-11-25,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Clearing the Air,Hannah Ritchie,,,,no,no,no,this is a great pick.,21,気候問題のわかりやすい解説として「great pick」と薦めている。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2025,2025-11-25,全文では「one of the clearest explanations of the climate challenge I’ve read」とも述べている。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Who Knew,Barry Diller,,,,no,no,no,still surprised and taught me a lot.,36,何十年の知人の回顧録でも、驚いて多くを学んだと書いている。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2025,2025-11-25,原文は「his memoir still surprised and taught me a lot.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,When Everyone Knows That Everyone Knows,Steven Pinker,,,,no,no,no,his latest book is a must-read,30,コミュニケーションを学びたい人への必読と評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2025,2025-11-25,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Abundance,Ezra Klein and Derek Thompson,,,,no,no,no,This book is a sharp look,25,米国が大きなものを造りにくくなった理由を鋭く見る本だと評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2025,2025-11-25,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Personal History,Katharine Graham,,,,no,no,no,This thoughtful memoir,22,思慮深い回顧録で、偉大な指導者は意外なところから現れると書いている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2025,2025-05-22,本人の『Source Code』は自著のため除外。本項は公式夏リスト2025の他者回顧録。日本語題は出版社ページ未開封のため空欄。原文は「This thoughtful memoir is a good reminder that great leaders can come from unexpected places.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Chasing Hope,Nicholas Kristof,,,,no,no,no,Nick’s book is so good,22,例外的に『Source Code』完成後に読んだが、あまりに良いので共有すると明言。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2025,2025-05-22,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Educated,Tara Westover,エデュケーション ―大学は私の人生を変えた―,,9784152099464,no,no,no,this unforgettable memoir.,26,忘れがたい回顧録と評し、親を客観視していく過程を美しく捉えていると書いている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2025,2025-05-22,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Born a Crime,Trevor Noah,トレバー・ノア 生まれたことが犯罪！？,,9784862762573,no,no,no,I said this memoir shows how,28,2017年にも取り上げ、アウトサイダーの視点を活かしていると再掲。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2025,2025-05-22,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Surrender,Bono,,,,no,no,no,It was a great model,20,自身の課題について率直に書くための良い手本になったと評している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2025,2025-05-22,原文は「It was a great model for how I could be open about my own challenges in Source Code.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Women,Kristin Hannah,,,,no,no,no,It’s a beautifully written tribute,34,ベトナム戦争の看護師を描いた小説を、美しく書かれたトリビュートと評している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2024,2024-05-21,同リストのSlow HorsesはTVシリーズのため除外。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Infectious Generosity,Chris Anderson,,,,no,no,no,Infectious Generosity is for you.,33,より公平な世界を作りたいが始め方が分からない人に、この本が向くと述べている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2024,2024-05-21,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Brave New Words,Sal Khan,,,,no,no,no,I can't recommend Brave New Words enough,40,教育の未来についてこれ以上なく薦める、と明言。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2024,2024-05-21,"Xでも 2024-05-14「If you're passionate about education, you need to read this book.」https://x.com/BillGates/status/1790451224686342500 （原文は40字超のため引用欄はGates Notesの短い句）。",2026-11-27,,
+ビル・ゲイツ,,BillGates,How to Know a Person,David Brooks,,,,no,no,no,but this one is even better.,28,前作 The Road to Character も好きだが、今作の方がさらに良いと評している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2024,2024-05-21,,2026-11-27,,
+ビル・ゲイツ,,BillGates,An Unfinished Love Story,Doris Kearns Goodwin,,,,no,no,no,I’m a huge fan of Doris’s books,31,著者の長年のファンだと述べたうえで新作自伝を紹介。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2024,2024-12-03,,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Anxious Generation,Jonathan Haidt,不安の世代――スマホ・SNSが子どもと若者の心を蝕む理由,,9784794228192,no,no,no,This book is a must-read for anyone,35,若者を育てる・働く・教える人への必読と評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2024,2024-12-03,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Engineering in Plain Sight,Grady Hillhouse,,,,no,no,no,this is the perfect book for you.,33,身の回りの謎の構造物を説明してくれる本として「perfect」と評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2024,2024-12-03,,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Coming Wave,Mustafa Suleyman,THE COMING WAVE ＡＩ、権力、人類の未来,,9784296126217,no,no,no,this is the best book to read.,30,AIの台頭を理解したいなら、これが最良の本だと述べている。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2024,2024-12-03,日経の当該ページにゲイツ賛辞の日本語訳があるが、引用欄はGates Notesの英語原文のみ。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Federer,Doris Henkel,,,,no,no,no,a special treat for the tennis fan,34,全員向きではない（高価で重い）が、フェデラー・ファンへの特別な一冊と評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-books-2024,2024-12-03,ボーナス推薦。本人も「This book isn’t for everyone」と前置き。原文は「This is a special treat for the tennis fan in your life.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Song of the Cell,Siddhartha Mukherjee,,,,no,no,no,this fantastic book.,20,細胞の理解に役立つfantasticな本と評している。,その他,high,official_list,https://www.gatesnotes.com/holiday-list-2023,2023-11-20,同リストの講義・プレイリストは本でないため除外。日本語題は出版社ページ未開封のため空欄。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Not the End of the World,Hannah Ritchie,これからの地球のつくり方 ―データで導く「７つの視点」―,,9784152104151,no,no,no,should read this book.,22,気候変動について知情に語りたい人は皆読むべき、と述べている。,その他,high,official_list,https://www.gatesnotes.com/holiday-list-2023,2023-11-20,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Invention and Innovation,Vaclav Smil,,,,no,no,no,recommend Invention and Innovation.,35,過去の技術史を知るなら強く薦めると明言（未来観では意見が違うとも書いている）。,その他,high,official_list,https://www.gatesnotes.com/holiday-list-2023,2023-11-20,原文は「I highly recommend Invention and Innovation.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,All the Light We Cannot See,Anthony Doerr,,,,no,no,no,"I had read the book, which is amazing",37,Netflixドラマに触れる文脈で、原作をamazingと明言。,その他,high,official_list,https://www.gatesnotes.com/holiday-list-2023,2023-11-20,リスト本体はドラマ紹介。原作小説を「amazing」と評しているため採用。,2026-11-27,,
+ビル・ゲイツ,,BillGates,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,トゥモロー・アンド・トゥモロー・アンド・トゥモロー,,9784152102737,no,no,no,This terrific novel tells the story,35,ポール・アレンとの関係を思い出すほど自分に重なった、terrificな小説と評している。,その他,high,official_list,https://www.gatesnotes.com/Summer-List-2023,2023-05-30,X 2023-06-09 https://x.com/BillGates/status/1667219859074334720 でも紹介。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Born in Blackness,Howard French,,,,no,no,no,left me wanting to know more.,29,よく調べられた本で、もっと知りたくなった（褒め言葉として）と述べている。,その他,high,official_list,https://www.gatesnotes.com/Summer-List-2023,2023-05-30,,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Power,Naomi Alderman,,,,no,no,no,my older daughter’s recommendation,34,娘の薦めで読んで良かった、と明言。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2022,2022-06-06,原文は「I’m glad that I followed my older daughter’s recommendation and read this novel.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,Why We’re Polarized,Ezra Klein,,,,no,no,no,is the book to pick up.,23,米政治を理解したいなら手に取るべき本、とXでも繰り返している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2022,2022-06-06,X 2022-06-27 https://x.com/BillGates/status/1541477546088202240 （全文は40字超のため、引用欄は末尾の句）。,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Lincoln Highway,Amor Towles,リンカーン・ハイウェイ,,9784152102652,no,no,no,I liked this follow-up novel even more.,39,2019年夏リストの『A Gentleman in Moscow』以上に今作を気に入ったと述べている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2022,2022-06-06,,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Ministry for the Future,Kim Stanley Robinson,未来省,,,no,no,no,because it’s terrific.,22,手に取ってよかった、terrificだと評している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2022,2022-06-06,"原文は「I’m glad I picked it up, because it’s terrific.」。",2026-11-27,,
+ビル・ゲイツ,,BillGates,How the World Really Works,Vaclav Smil,,,,no,no,no,It’s a tour de force.,21,好きな著者の傑作（tour de force）であり、一般読者向けの概説として薦めている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2022,2022-06-06,,2026-11-27,,
+ビル・ゲイツ,,BillGates,"Lights Out: Pride, Delusion, and the Fall of General Electric",Thomas Gryta and Ted Mann,,,,no,no,no,there’s a lot you can learn here.,33,リーダーなら学ぶことが多い、と述べている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2021,2021-06-14,,2026-11-27,,
+ビル・ゲイツ,,BillGates,Under a White Sky: The Nature of the Future,Elizabeth Kolbert,,,,no,no,no,it’s an enjoyable read.,23,彼女の他の本と同様、楽しめる読み物だと評している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2021,2021-06-14,,2026-11-27,,
+ビル・ゲイツ,,BillGates,A Promised Land,Barack Obama,約束の地 大統領回顧録Ⅰ,,,no,no,no,I especially loved A Promised Land.,35,大統領本はほぼ常に興味があるが、特にこの回顧録をlovedと明言。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2021,2021-06-14,,2026-11-27,,
+ビル・ゲイツ,,BillGates,The Overstory,Richard Powers,オーバーストーリー,,9784105058760,no,no,no,one of the most unusual novels I’ve read,40,近年読んだなかで最も特異な小説の一つと評している。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2021,2021-06-14,原文は「This is one of the most unusual novels I’ve read in years.」。,2026-11-27,,
+ビル・ゲイツ,,BillGates,An Elegant Defense: The Extraordinary New Science of the Immune System: A Tale in Four Lives,Matt Richtel,,,,no,no,no,a valuable read,15,免疫の本として価値があり、COVID-19理解にも役立つと述べている。,その他,high,official_list,https://www.gatesnotes.com/summer-books-2021,2021-06-14,原文は「a valuable read that will help you understand what it takes to stop COVID-19」。,2026-11-27,,
+大谷翔平,,,生き方,稲盛和夫,,9784763142894,,no,yes,no,生き方 稲森和夫,8,,その他,high,questionnaire,https://www.sanspo.com/article/20240624-A2FXVJMCJ5KUHEKE7TFINSRB5U/,2017,コナミ公式リリース（https://www.konami.com/games/corporate/ja/news/topics/20240624/）はアンケート本文を未掲載。サンスポが「おすすめの本などはありますか」への直筆回答を「生き方 稲森和夫」と活字化して公開。本人表記は「稲森」（正しくは稲盛）。suisenに同一書 9784763142894 あり（人物・推薦は未登録）。産経 https://www.sankei.com/article/20240920-IPT4Z5GH3BFW3H7SGUQKBWJSTY/ も同アンケートに言及。,2026-11-27,,
+大谷翔平,,,ダイヤのA,寺嶋裕二,,,,no,no,no,高校時代の野球へ対する熱い気持ちを思い出させてくれる漫画,28,,その他,high,media_interview_campaign,https://book.asahi.com/article/14601190,2022-04-19,講談社の自社作品を対象としたキャンペーンでの回答。好書好日が本人コメントとして引用。公式キャンペーンページの一次全文は本ランでは未取得。巻は特定されていない。suisenに該当書なし。,2026-11-27,,
+孫正義,,masason,竜馬がゆく,司馬遼太郎,,,,no,yes,no,1冊の本でありました。15歳のときに読んだ「竜馬がゆく」であります。,34,,人生を変えた一冊,high,speech_transcript,https://logmi.jp/knowledge_culture/speech/12482,2010-03-29,"同一ページで「この本を読んで衝撃を受けたんですね」とも述べている。ソフトバンクのロゴが海援隊の旗に由来するとも説明。suisenに『竜馬がゆく』あり（9784163630106, 9784167105679）。出典は巻を特定していないためISBNは空。X @masason 2011-08-20 https://x.com/masason/status/104921453794832384 は龍馬本人への憧れ（書名なし）。",2026-11-27,,
+孫正義,,masason,ユダヤの商法,藤田田,,9784584139004,,no,yes,no,藤田さんが書いた『ユダヤの商法』を通して,20,,その他,high,interview,https://president.jp/articles/-/7419?page=2,2012-10-11,全文:「私は藤田さんが書いた『ユダヤの商法』（藤田田著）を通して、マクドナルドとレイ・クロックがいかに優れているかを知ったのですから。」高校生・渡米前に読んだと明言。suisen 9784584139004。,2026-11-27,,
+孫正義,,masason,お〜い!竜馬,武田鉄矢（原作）,,,,no,no,no,もちろん3回全巻読破‼,11,,その他,high,sns,https://x.com/masason/status/9755692106,2010-02-28,相手投稿「武田鉄矢原作のおーい竜馬っていうマンガがおもしろいです。読んだことありますか？」への返信。書名は相手が示し、孫が3回全巻読破と答えた。明確な「薦める」文言ではないが、熱意ある読了の表明として採用。,2026-11-27,,
+柳井正,p1325,,プロフェッショナルマネジャー,ハロルド・ジェニーン、アルヴィン・モスコー,,9784833450027,,yes,yes,yes,全人生で一番学んだ本は何か？と問われても、この一冊に間違いありません！,35,,人生を変えた一冊,high,essay,https://president.jp/articles/-/1552,2011-01-23,既存suisen推薦（p1325 / 9784833450027 / sourceId=s-yanai-pm / context=人生を変えた一冊 / verified=true / quoteは空）。本ランで本人署名（2010年冬）の文章を開いた。同一主旨は https://president.jp/articles/-/8086 （2013-01-17）にもある。新規の本ではなく、既存1件を厚くする出典。,2026-11-27,,
+柳井正,p1325,,マクドナルド――わが豊穣の人材,ジョン・F・ラブ,,,,yes,no,no,これこそ商売の真髄だと思って、手帳に書き写したのを覚えています。,32,,その他,high,interview,https://president.jp/articles/-/7419,2012-10-11,「レイ・クロックのことを知ったのは一冊の本（『マクドナルド――わが豊穣の人材』ジョン・F・ラブ著）からです。」と書名を明示。直後に「以来、本書（原書タイトルは“GRINDING IT OUT”）を紐解き」とあり、ラブ著とクロック自伝（『成功はゴミ箱の中に』）が同一段落で混在して見える。書名として明示された『わが豊穣の人材』を本項とし、自伝は別項。同趣旨は https://president.jp/articles/-/22750 にも再掲。,2026-11-27,,
+柳井正,p1325,,ユダヤの商法,藤田田,,9784584139004,,yes,yes,no,文章に線を引いて何度も何度も読み返したのを覚えている。,27,,その他,high,interview,https://president.jp/articles/-/7419?page=2,2012-10-11,「僕もその本は読みました。」に続けて再読を明言。さらに「『ユダヤの商法』は著者に教養があって、しかもエンターテイナーでないと書けない本です。」とも述べている。suisen 9784584139004。,2026-11-27,,
+柳井正,p1325,,成功はゴミ箱の中に,レイ・A・クロック、ロバート・アンダーソン,,,,yes,no,no,これが僕の人生のバイブル,12,,その他,medium,publisher_pr,https://prtimes.jp/main/html/rd/p/000000010.000026924.html,2017-07-18,出版社が日本語版の目次を「はじめに これが僕の人生のバイブル 柳井正」と記載。本書本文・「はじめに」本文は本ランでは未開封。解説・対談の掲載は同PRおよび https://president.jp/articles/-/22750 で確認。ISBN-10 4833418452 がPRに出るが、ISBN-13は開いたページに無いため空（推測しない）。『わが豊穣の人材』との混同に注意。,2026-11-27,,
+北野武,,,宇宙になぜ我々が存在するのか,村山斉,,9784062577991,,no,yes,no,,0,,人生を変えた一冊,medium,media_campaign_report,https://book.asahi.com/article/14601190,2022-04-19,好書好日は、講談社キャンペーン第1弾で北野武が村山斉『宇宙になぜ我々が存在するのか』を挙げたと報じる。本人コメントの全文は記事に無く、公式キャンペーンページも本ランでは未取得のため引用欄は空。講談社の自社書籍が対象の企画である点に注意。suisenに同一書 9784062577991 あり（人物・推薦は未登録）。別名ビートたけしでの公式Xは未確認。自著の宣伝は除外。,2026-11-27,,
+山口一郎,p1668,SAKANAICHIRO,アルケミスト 夢を旅した少年,パウロ・コエーリョ,,,9784042750017,yes,yes,yes,パウロコエーリョ著『アルケミスト 夢を旅した少年』,25,,その他,medium,sns,https://x.com/SAKANAICHIRO/status/4042421994266624,2010-11-15,返信で書名のみ。親投稿は非公開のため質問内容は未確認。suisen既存はラジオ出典。,2026-11-28-pm,アルケミスト 夢を旅した少年,False
+キタニタツヤ,,TatsuyaKitani,これ描いて死ね,,,,,no,no,no,原作漫画が自分の人生においてとても大切な作品,22,,人生を変えた一冊,high,sns,https://x.com/TatsuyaKitani/status/2052545081396416957,2026-05-08,TVアニメ『これ描いて死ね』OP担当の発表を引用し、原作漫画への思いを述べた投稿。,2026-11-28-pm,,False
+キタニタツヤ,,TatsuyaKitani,CHANGE THE WORLD,,,,,no,no,no,凄まじい熱量をもった演劇マンガです,17,,その他,high,sns,https://x.com/TatsuyaKitani/status/1896516004504867244,2025-03-03,単行本1巻に推薦コメントを寄せ、ファンとして読んでほしいと投稿。,2026-11-28-pm,,False
+キタニタツヤ,,TatsuyaKitani,異修羅,,,,,no,no,no,原作小説読みましたがめちゃくちゃ面白いです,21,,最近読んだ,high,sns,https://x.com/TatsuyaKitani/status/1717469855992201525,2023-10-26,,2026-11-28-pm,,False
+メンタリストDaiGo,,Mentalist_DaiGo,サボタージュ・マニュアル:諜報活動が照らす組織経営の本質,,,,,no,no,no,米国戦略諜報局のスパイが内部から組織を破壊する方法をまとめた名著,32,,その他,high,sns,https://x.com/Mentalist_DaiGo/status/1726489221882659057,2023-11-20,,2026-11-28-pm,,False
+メンタリストDaiGo,,Mentalist_DaiGo,デジタルマネー戦争,,,,,no,no,no,現金コストの無駄に関しては、この本が詳しいです,23,,その他,high,sns,https://x.com/Mentalist_DaiGo/status/1544536562025000960,2022-07-06,,2026-11-28-pm,,False
+メンタリストDaiGo,,Mentalist_DaiGo,ハーバードの人生を変える授業,,,,,no,no,no,名著解説スタートします。,12,,その他,high,sns,https://x.com/Mentalist_DaiGo/status/1258248822309838849,2020-05-07,動画タイトルで具体書名を示し、名著として解説を始めると投稿。,2026-11-28-pm,,False
+メンタリストDaiGo,,Mentalist_DaiGo,サイコパス 秘められた能力,,,,,no,no,no,サイコパスについて知りたいなら、この本がいい感じですよ。笑,29,,その他,high,sns,https://x.com/Mentalist_DaiGo/status/1227833964343119874,2020-02-13,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,突囲表演,残雪,,,,yes,no,no,残雪『突囲表演』読了。,11,,最近読んだ,high,sns,https://x.com/kenichiromogi/status/2123498106943590483,2026-11-19,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,野菜たちの明治維新―開拓が育んだ北海道,横松心平,,,,yes,no,no,このあと８時から、この名著をみんなで,18,,その他,high,sns,https://x.com/kenichiromogi/status/2121001480371261595,2026-11-12,引用投稿で横松心平『野菜たちの明治維新―開拓が育んだ北海道』を名著として挙げている。,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,日本人が知らないアメリカ,"加藤喜之, 竹下隆一郎",,,,yes,no,no,今の時代の必読書ですね！！,13,,その他,high,sns,https://x.com/kenichiromogi/status/2117401977328210195,2026-11-02,投稿画像は文春新書『日本人が知らないアメリカ』（加藤喜之・竹下隆一郎）。,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,超知能AIをつくれば人類は絶滅する,"エリーザー・ユドコウスキー, ネイト・ソアレス",,,,yes,no,no,必読の本です。みなさま、ぜひ！,15,,その他,high,sns,https://x.com/kenichiromogi/status/2105521668462629324,2026-10-01,引用はエリーザー・ユドコウスキー＆ネイト・ソアレス『超知能AIをつくれば人類は絶滅する』（櫻井祐子訳）。,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,夏帆,村上春樹,,,,yes,no,no,村上春樹さん『夏帆』読了。,13,,最近読んだ,high,sns,https://x.com/kenichiromogi/status/2074751497582370978,2026-07-08,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,名指しと必然性,ソール・クリプキ,,,9784782800225,yes,yes,no,人工知能の基礎にも深く関わるクリプキの名著、,22,,その他,high,sns,https://x.com/kenichiromogi/status/2057583391399432268,2026-05-21,,2026-11-28-pm,名指しと必然性,False
+茂木健一郎,p0009,kenichiromogi,ロリータ,ウラジーミル・ナボコフ,,,9784102105023,yes,yes,no,茂木は、英語の原書を読了しており、たのしみに批評会に臨みます。,31,,最近読んだ,high,sns,https://x.com/kenichiromogi/status/2051818219829424600,2026-05-06,引用はナボコフ『ロリータ』の批評会告知。,2026-11-28-pm,ロリータ,False
+茂木健一郎,p0009,kenichiromogi,テクノロジカル・リパブリック,,,,,yes,no,no,近未来を理解する上での必読書をみんなで議論します。,25,,その他,high,sns,https://x.com/kenichiromogi/status/2047109412075303102,2026-04-23,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,テヘランでロリータを読む,アーザル・ナフィシー,,,,yes,no,no,イランを理解する上でとても大切なこの本をみんなで,24,,その他,high,sns,https://x.com/kenichiromogi/status/2039527628525515075,2026-04-02,引用はアーザル・ナフィシー『テヘランでロリータを読む』。,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,教養としての量子コンピュータ,藤井啓祐,,,,yes,no,no,戦略的ロードマップが網羅された名著です。,20,,その他,high,sns,https://x.com/kenichiromogi/status/2029741687317377134,2026-03-06,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,侍女の物語,マーガレット・アトウッド,,,9784151200113,yes,yes,no,立体的に傑作を理解できます。,14,,その他,high,sns,https://x.com/kenichiromogi/status/2024971245809443228,2026-02-20,引用はマーガレット・アトウッド『侍女の物語』批評会（98点）。,2026-11-28-pm,侍女の物語,False
+茂木健一郎,p0009,kenichiromogi,宇宙からの帰還,立花隆,,,9784122069190,yes,yes,no,合同批評会「#シラスフロントロー」,17,,その他,medium,sns,https://x.com/kenichiromogi/status/1986594820287308281,2025-11-07,自身の短い評ではなく、批評会で99点だった結果報告。suisenの同書は複数ISBNあり。,2026-11-28-pm,宇宙からの帰還,False
+茂木健一郎,p0009,kenichiromogi,誰かつくればみんな死ぬ,"エリーザー・ユドコウスキー, ネイト・ソアレス",,,,yes,no,no,すさまじい本で、ユドコフスキーとソアレスを心から尊敬する。,29,,その他,high,sns,https://x.com/kenichiromogi/status/1976428426744692800,2025-10-09,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,透析を止めた日,堀川恵子,,,,yes,no,no,稀に見る名著です。,9,,その他,high,sns,https://x.com/kenichiromogi/status/1961646524146094466,2025-08-30,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,僕には鳥の言葉がわかる,鈴木俊貴,,,9784093891844,yes,yes,no,生きものにとっての言語の普遍的本質に迫るこの本をみんなで議論します。,34,,その他,high,sns,https://x.com/kenichiromogi/status/1946142528425894230,2025-07-18,,2026-11-28-pm,僕には鳥の言葉がわかる,False
+茂木健一郎,p0009,kenichiromogi,脳、心、人工知能　増補版,甘利俊一,,,,yes,no,no,必読書です！！！,8,,その他,high,sns,https://x.com/kenichiromogi/status/1930433086283755753,2025-06-05,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,カウンターエリート,石田健,,,,yes,no,no,アメリカを中心に起こっている世界のうねりを理解する必読書をみんなで議論します。,39,,その他,high,sns,https://x.com/kenichiromogi/status/1927995987567464895,2025-05-29,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,アンナ・カレーニナ,レフ・トルストイ,,,9784102060018,yes,yes,yes,レフ・トルストイ『アンナ・カレーニナ』 １００点,24,,その他,high,sns,https://x.com/kenichiromogi/status/1923515599369691152,2025-05-16,suisen既存の推薦（別出典 mogik）あり。ISBNは上巻。,2026-11-28-pm,アンナ・カレーニナ 上,False
+茂木健一郎,p0009,kenichiromogi,ひとりになること,三浦瑠麗,,,,yes,no,no,この本の言葉たちは、海岸に打ち寄せられた貝殻のように,26,,その他,high,sns,https://x.com/kenichiromogi/status/1916496778414694428,2025-04-27,,2026-11-28-pm,,False
+茂木健一郎,p0009,kenichiromogi,意識の脳科学　「デジタル不老不死」の扉を開く,渡辺正峰,,,,yes,no,no,今注目のこの本をみんなで批評します。,18,,その他,high,sns,https://x.com/kenichiromogi/status/1886205467573297644,2025-02-03,,2026-11-28-pm,,False
+津田大介,,tsuda,はじめての老い,伊藤ガビン,,,,no,no,no,「はじめての老い」マジで全国民必読,17,,その他,high,sns,https://x.com/tsuda/status/1910248924839137324,2025-04-10,,2026-11-28-pm,,False
+津田大介,,tsuda,人生後半の戦略書,,,,,no,no,no,人から薦められて読んだ『人生後半の戦略書』という本が面白くて,30,,最近読んだ,high,sns,https://x.com/tsuda/status/1827564775783715228,2024-08-25,,2026-11-28-pm,,False
+津田大介,,tsuda,小池式コンセプト・ノート,小池百合子,,,,no,no,no,この本、それ以外のところもなかなか面白くて,21,,その他,high,sns,https://x.com/tsuda/status/1736975965031657973,2023-12-19,投稿画像は小池百合子『小池式コンセプト・ノート』（ビジネス社）。,2026-11-28-pm,,False
+けんすう,,kensuu,酒をやめられない文学研究者とタバコをやめられない精神科医が本気で語り明かした依存症の話,,,,,no,no,no,買って読んでるけど、めちゃくちゃ面白いなこの本、、、,26,,最近読んだ,high,sns,https://x.com/kensuu/status/2112159265553309736,2026-10-19,引用側が書名を明示。,2026-11-28-pm,,False
+けんすう,,kensuu,人文知は武器になる,"山口周, 深井龍之介",,,,no,no,no,こういう話題なら、この本がおすすめ！,18,,その他,high,sns,https://x.com/kensuu/status/2051110924157944046,2026-05-04,引用投稿で山口周・コテン深井『人文知は武器になる』と特定。,2026-11-28-pm,,False
+西野亮廣,,nishinoakihiro,ファンベース,佐藤尚之,,,,no,no,no,佐藤さんの本、面白いんです！,14,,その他,high,sns,https://x.com/nishinoakihiro/status/1135853009269940225,2019-06-04,引用は、西野が薦めていた佐藤尚之『ファンベース』を読んだという投稿への返信。,2026-11-28-pm,,False
+宇多田ヒカル,p1662,utadahikaru,うる星やつら,高橋留美子,,,9784091204417,yes,yes,no,漫画喫茶にでも行って『うる星やつら』一気読みしたい,25,,その他,high,sns,https://x.com/utadahikaru/status/316015027205332992,2013-03-25,suisenに同作あり。宇多田の既存推薦には未収録。,2026-11-28-pm,うる星やつら,False
+宇多田ヒカル,p1662,utadahikaru,こいつら１００％伝説,岡田あーみん,,,,yes,no,no,岡田あーみん先生の『こいつら１００％伝説』,21,,その他,high,sns,https://x.com/utadahikaru/status/237717277989023744,2012-08-21,ギャグ漫画で自分にとっての最強は何かと問われ、この作品を挙げた。,2026-11-28-pm,,False
+Tim Ferriss,,tferriss,The Monk and the Riddle,Randy Komisar,,,,no,no,no,This great book was given to me,31,卒業祝いに贈られ、「deferred-life plan」という言葉を知った本として紹介。投稿画像は Randy Komisar『The Monk and the Riddle』。,その他,high,sns,https://x.com/tferriss/status/1825943798179913873,2024-08-20,,2026-11-28-pm,,False
+Tim Ferriss,,tferriss,Deluxe: How Luxury Lost its Luster,Dana Thomas,,,,no,no,no,Great book!,11,リスナーが「最も贈った本」として挙げた『Deluxe』に「Great book!」と返した。,その他,high,sns,https://x.com/tferriss/status/1640866864564781057,2023-03-29,,2026-11-28-pm,,False
+Tim Ferriss,,tferriss,On Writing: A Memoir of the Craft,Stephen King,,,,no,no,no,Great book!,11,『On Writing』を勧められて「Great book!」と返した。,その他,high,sns,https://x.com/tferriss/status/1301620385071460354,2020-09-03,,2026-11-28-pm,,False
+Naval Ravikant,,naval,Sapiens,Yuval Noah Harari,サピエンス全史,,9784309467887,no,yes,no,"history books (Durants, Sapiens)",32,歴史書としてデュラント夫妻の本と『サピエンス全史』をいつも薦める、と投稿。,その他,high,sns,https://x.com/naval/status/1127990688468033536,2019-05-13,suisenの日本語版は上下巻あり。ISBNは『サピエンス全史 上』。,2026-11-28-pm,サピエンス全史　上,False
+Naval Ravikant,,naval,The Story of Civilization,"Will Durant, Ariel Durant",文明の物語,,,no,no,no,"history books (Durants, Sapiens)",32,歴史書としてデュラント夫妻の著作（Durants）をいつも薦める、と投稿。,その他,high,sns,https://x.com/naval/status/1127990688468033536,2019-05-13,同一投稿でSapiensと併記。「Durants」はウィル＆アリエル・デュラントのシリーズを指すと判断。,2026-11-28-pm,,False
+LiSA,,LiSA_OLiVE,らんま1/2,高橋留美子,,,9784091220318,no,yes,no,台詞を覚えるくらい読んだ漫画,14,,その他,high,sns,https://x.com/LiSA_OLiVE/status/1850189138685018506,2024-10-26,suisen既存書誌は1巻。実写・アニメ化への感想のなかで原作漫画を深爱したと明言。,2026-11-28-pm2,らんま1／2（1）,False
+LiSA,,LiSA_OLiVE,御手洗家、炎上する,藤沢もやし,,,9784063980332,no,no,no,原作漫画大好き,7,,その他,high,sns,https://x.com/LiSA_OLiVE/status/1549269563887747073,2022-07-19,Netflixドラマ化発表への返信。ISBNは1巻。,2026-11-28-pm2,,False
+Paul Graham,,paulg,Shakespeare's Professional Career,Peter Thomson,,,,no,no,no,Like most really good books,27,いま読んでいる本として挙げ、タイトル以上にエリザベス朝史が詰まっていると評した。,最近読んだ,high,sns,https://x.com/paulg/status/2103641022865510582,2026-09-26,,2026-11-28-pm2,,False
+Paul Graham,,paulg,My Family and Other Animals,Gerald Durrell,,,,no,no,no,"the easiest, most pleasing books",32,読書習慣を取り戻したい人への助言として、Wodehouseとともに最初に読む本として挙げた（Wodehouseは個別の書名がないため未収録）。,その他,high,sns,https://x.com/paulg/status/2065359918861852860,2026-06-12,,2026-11-28-pm2,,False
+Paul Graham,,paulg,The Moon Is a Harsh Mistress,Robert A. Heinlein,月は無慈悲な夜の女王,,9784150117481,no,yes,no,Reading The Moon Is a Harsh Mistress,36,大学生のときにAIをやりたくなったきっかけのひとつとして挙げた。,人生を変えた一冊,high,sns,https://x.com/paulg/status/2065070934222864658,2026-06-11,,2026-11-28-pm2,月は無慈悲な夜の女王,False
+Lex Fridman,,lexfridman,How Prime Ministers Decide,Neerja Chowdhury,,,,no,no,no,Great book on history of Indian politics,40,ランニング中に聴いている本として挙げ、インド政治史の好著と評した。,最近読んだ,high,sns,https://x.com/lexfridman/status/1889487444594377035,2025-02-12,,2026-11-28-pm2,,False
+Lex Fridman,,lexfridman,Super Sad True Love Story,Gary Shteyngart,,,,no,no,no,"Great book, great writer.",25,Whitney Cummingsから贈られた本として紹介。,その他,high,sns,https://x.com/lexfridman/status/1329501333943095297,2020-11-20,,2026-11-28-pm2,,False
+Lex Fridman,,lexfridman,Ignition: An Informal History of Liquid Rocket Propellants,John D. Clark,,,,no,no,no,one of the best books on engineering,36,"投稿では ""Ignition: History of Liquid Rocket Propellants"" と略記。John D. Clarkの同名の技術史書。",その他,high,sns,https://x.com/lexfridman/status/1236563052788580352,2020-03-08,,2026-11-28-pm2,,False
+Lex Fridman,,lexfridman,I'm Fine and Other Lies,Whitney Cummings,,,,no,no,no,that everyone should read,25,著者本人への返信で、みんなが読むべき良い本だと評した。,その他,high,sns,https://x.com/lexfridman/status/1193641441811193857,2019-11-11,,2026-11-28-pm2,,False
+Sam Altman,,sama,"Hateship, Friendship, Courtship, Loveship, Marriage",Alice Munro,,,,no,no,no,weekend book recommendation,27,週末の推薦本として挙げ、夜更かしして読み終えたと書いた。,最近読んだ,high,sns,https://x.com/sama/status/487664115238715392,2014-07-12,,2026-11-28-pm2,,False
+Sam Altman,,sama,"Guns, Sails and Empires",Carlo M. Cipolla,,,,no,no,no,it was excellent!,17,Paul Grahamが再読を勧めていたCipollaの本を読んで、優れていたと返信。,最近読んだ,high,sns,https://x.com/sama/status/568105055213088768,2015-02-19,"親投稿で書名 Guns, Sails and Empires が明示されている。",2026-11-28-pm2,,False
+YOSHIKI,,YoshikiOfficial,Trailblazer,Marc Benioff,,,,no,no,no,just released an amazing book!,30,友人Marc Benioffの新刊をamazing bookと評し、リハーサル中に読んでいた。,最近読んだ,high,sns,https://x.com/YoshikiOfficial/status/1185753575558807552,2019-10-20,,2026-11-28-pm2,,False
+有吉弘行,,ariyoshihiroiki,沢村忠に真空を飛ばせた男,細田昌志,,,9784103536710,no,no,no,面白かったです。,8,,最近読んだ,high,sns,https://x.com/ariyoshihiroiki/status/2113632541794349530,2026-10-23,正式書名は『沢村忠に真空を飛ばせた男―昭和のプロモーター・野口修 評伝―』（新潮社、2020）。ISBNは単行本。,2026-11-28-pm2,,False
+有吉弘行,,ariyoshihiroiki,かくかくしかじか,東村アキコ,,,9784087824575,no,yes,no,素晴らしいことは間違いないです。,16,,その他,high,sns,https://x.com/ariyoshihiroiki/status/1925168202642010361,2025-05-21,,2026-11-28-pm2,かくかくしかじか,False
+有吉弘行,,ariyoshihiroiki,BLUE GIANT,石塚真一,,,9784091856784,no,yes,no,どっちも最高。,7,,最近読んだ,high,sns,https://x.com/ariyoshihiroiki/status/1210159990733885440,2019-12-26,同一投稿でブルーピリオドと併せて「どっちも最高」。,2026-11-28-pm2,BLUE GIANT,False
+有吉弘行,,ariyoshihiroiki,ブルーピリオド,山口つばさ,,,9784065105863,no,yes,no,どっちも最高。,7,,最近読んだ,high,sns,https://x.com/ariyoshihiroiki/status/1210159990733885440,2019-12-26,同一投稿でBLUE GIANTと併せて「どっちも最高」。,2026-11-28-pm2,ブルーピリオド,False
+藤田晋,,susumu_fujita,ゼロ,堀江貴文,,,9784478025802,no,yes,no,求職中なら堀江さんのゼロがお勧めよ。,18,,社員に薦めたい,high,sns,https://x.com/susumu_fujita/status/411843563001901056,2013-12-14,おすすめの本を尋ねられて具体名で答えた投稿。正式書名は『ゼロ なにもない自分に小さなイチを足していく』。,2026-11-28-pm2,ゼロ,False
+岡田斗司夫,,ToshioOkada,無職転生,理不尽な孫の手,,,,no,no,no,『銀河英雄伝説』に並ぶ現代の教養小説！,19,,その他,high,sns,https://x.com/ToshioOkada/status/2083900637373485187,2026-08-02,ライトノベル『無職転生 ～異世界行ったら本気だす～』を指す。,2026-11-28-pm2,,False
+岡田斗司夫,,ToshioOkada,銀河英雄伝説,田中芳樹,,,9784488725013,no,yes,no,#みんなこの本に教わった,12,,その他,high,sns,https://x.com/ToshioOkada/status/2083900637373485187,2026-08-02,同一投稿。無職転生を銀英伝に並ぶ教養小説とし、銀英伝を「みんなこの本に教わった」と位置づけた。ISBNは1巻（黎明篇）。,2026-11-28-pm2,銀河英雄伝説,False
+岡田斗司夫,,ToshioOkada,アメリカを変えた夏 1927年,ビル・ブライソン,,,,no,no,no,この本一冊をまるまる解説します。,16,,その他,high,sns,https://x.com/ToshioOkada/status/768206228258304000,2016-08-24,"原書は Bill Bryson『One Summer: America, 1927』。2016年時点の日本語版ISBNは未確認のため空欄（2024年白水社版あり）。",2026-11-28-pm2,,False
+岡田斗司夫,,ToshioOkada,We Could Not Fail,Richard Paul / Steven Moss,,,,no,no,no,おすすめ本③『We could not fail』,25,シリーズ「おすすめ本」の3冊目として紹介。副題 The First African Americans in the Space Program。,その他,high,sns,https://x.com/ToshioOkada/status/821477264303001602,2017-01-18,,2026-11-28-pm2,,False
+岡田斗司夫,,ToshioOkada,ガールズ・オブ・アトミックシティ,デニス・キアナン,,,,no,no,no,おすすめ本②『ガールズ・オブ・アトミックシティ』,24,シリーズ「おすすめ本」の2冊目。原書は Denise Kiernan『The Girls of Atomic City』。,その他,high,sns,https://x.com/ToshioOkada/status/821114871316172800,2017-01-17,,2026-11-28-pm2,,False
+岡田斗司夫,,ToshioOkada,ロケットガール,ジョージ・D・モーガン,,,,no,no,no,おすすめ本①『ロケットガール』,15,シリーズ「おすすめ本」の1冊目。岡田の同時投稿で「アメリカ初の人工衛星打ち上げを成功させた女の子」と説明しており、野尻抱介の同名SFではなく George D. Morgan『Rocket Girl』（メアリー・シャーマン・モーガン）と特定。,その他,high,sns,https://x.com/ToshioOkada/status/820752482217431040,2017-01-16,同名の野尻抱介『ロケットガール』とは別作品。,2026-11-28-pm2,,False
+東浩紀,p1678,hazuma,ハッカー・クラックダウン,ブルース・スターリング,,,,yes,no,no,名著ノンフィクションなのです！,15,,その他,high,sns,https://x.com/hazuma/status/1922224544669945998,2025-05-13,原書は Bruce Sterling『The Hacker Crackdown』。日本語版の書名表記は版により「ハッカー・クラックダウン」「ハッカーを追え!」など。,2026-11-28-pm2,,False
+糸井重里,p0263,itoi_shigesato,「バカ」の研究,ジャン＝フランソワ・マルミオン 編,,,9784750516503,yes,no,no,これは買わなきゃと思って。,13,,最近読んだ,medium,sns,https://x.com/itoi_shigesato/status/2091817557863071892,2026-08-24,投稿では「バカの研究」。ダニエル・カーネマンらが寄稿する亜紀書房『「バカ」の研究』（ISBNは出版社・書店情報による。openBD未収録）。,2026-11-28-pm2,,False
+糸井重里,p0263,itoi_shigesato,集団浅慮,古賀史健,,,9784478123683,yes,no,no,絶望的にならないで読了できるのは、ありがたかった。,25,,最近読んだ,high,sns,https://x.com/itoi_shigesato/status/1993000156883828959,2025-11-25,,2026-11-28-pm2,,False
+糸井重里,p0263,itoi_shigesato,失敗の科学,マシュー・サイド,,,9784799320235,yes,yes,no,名著「失敗の科学」,9,,その他,high,sns,https://x.com/itoi_shigesato/status/1981738798741332273,2025-10-25,著者との対談告知のなかで「名著」と明言。,2026-11-28-pm2,失敗の科学,False
+糸井重里,p0263,itoi_shigesato,アメリカは自己啓発本でできている,尾崎俊介,,,9784582839494,yes,no,no,この本、おもしろいですよー！,14,,最近読んだ,high,sns,https://x.com/itoi_shigesato/status/1797945790398451880,2024-06-04,,2026-11-28-pm2,,False
+いとうせいこう,p0466,seikoito,アーベド・サラーマの人生のある一日,ネイサン・スロール,,,9784480837295,yes,no,no,その事実の厚い描写にきわめて深く心を動かされ,22,,最近読んだ,high,sns,https://x.com/seikoito/status/1865682915105046808,2024-12-08,刊行前のゲラで読んだ投稿。正式書名は『アーベド・サラーマの人生のある一日』（筑摩書房、2025）。,2026-11-28-pm2,,False
+いとうせいこう,p0466,seikoito,ギターというモノ/ギタリストというヒト,高田漣,,,,yes,no,no,この本に注目！,7,,その他,medium,sns,https://x.com/seikoito/status/1600820862885584896,2022-12-08,引用した著者投稿に書名『ギターというモノ/ギタリストというヒト』（高田漣、DU BOOKS）がある。,2026-11-28-pm2,,False
+いとうせいこう,p0466,seikoito,あいたくてききたくて旅にでる,小野和子,,,9784991131004,yes,yes,no,あの名著『あいたくてききたくて旅に出る』,20,,その他,high,sns,https://x.com/seikoito/status/1587788607687102464,2022-11-02,投稿では「旅に出る」。書誌の正式表記は『あいたくてききたくて旅にでる』。,2026-11-28-pm2,あいたくて ききたくて 旅にでる,False
+いとうせいこう,p0466,seikoito,ベースボール・イズ・ミュージック！,オカモト“MOBY”タクヤ,,,9784865280807,yes,no,no,類書のない面白さを持っている,14,,その他,high,sns,https://x.com/seikoito/status/1523463498118070272,2022-05-09,引用された著者投稿に書名がある。正式書名は『ベースボール・イズ・ミュージック！ 音楽からはじまるメジャーリーグ入門』。,2026-11-28-pm2,,False
+いとうせいこう,p0466,seikoito,土偶を読む,竹倉史人,,,9784794972613,yes,no,no,俺の中で『土偶を読む』,11,,最近読んだ,high,sns,https://x.com/seikoito/status/1426811710246055938,2021-08-15,同一投稿で3冊を「今年の名著」として挙げたうちの1冊。,2026-11-28-pm2,,False
+いとうせいこう,p0466,seikoito,僕たちはどう生きるか,森田真生,,,9784087717570,yes,no,no,『僕たちはどう生きるか』に次ぐ今年の名著,20,,最近読んだ,high,sns,https://x.com/seikoito/status/1426811710246055938,2021-08-15,同一投稿。正式書名は『僕たちはどう生きるか 言葉と思考のエコロジカルな転回』（2021）。,2026-11-28-pm2,,False
+いとうせいこう,p0466,seikoito,精霊に捕まって倒れる,アン・ファディマン,,,9784622090267,yes,yes,no,今年の名著は『精霊に捕まって倒れる』,18,,最近読んだ,medium,sns,https://x.com/seikoito/status/1426811710246055938,2021-08-15,同一投稿。「まだ冒頭を読んだだけ」とあるためconfidenceはmedium。,2026-11-28-pm2,精霊に捕まって倒れる,False
+いとうせいこう,p0466,seikoito,ストリートの美術,大山エンリコイサム,,,9784065195185,yes,no,no,必読。,3,,その他,high,sns,https://x.com/seikoito/status/1246365817119232000,2020-04-04,引用した著者投稿に書名『ストリートの美術 トゥオンブリからバンクシーまで』がある。,2026-11-28-pm2,,False
+はじめしゃちょー,,hajimesyacho,汝、星のごとく,凪良ゆう,,,,no,no,no,大人になって初めて小説最後まで読めた。,19,,人生を変えた一冊,high,sns,https://x.com/hajimesyacho/status/2107793169274544567,2026-10-07,,2026-11-28-pm3,,False
+はじめしゃちょー,,hajimesyacho,ダーウィン事変,うめざわしゅん,,,9784065213988,no,yes,no,面白すぎて読むのが止まらん,13,,最近読んだ,high,sns,https://x.com/hajimesyacho/status/1588891529074348036,2022-11-05,,2026-11-28-pm3,ダーウィン事変,False
+はじめしゃちょー,,hajimesyacho,ドラゴンボール,鳥山明,,,,no,no,no,人生にたくさんの影響を与えてくれました。,20,,人生を変えた一冊,high,sns,https://x.com/hajimesyacho/status/1766004614871319006,2024-03-08,,2026-11-28-pm3,,False
+はじめしゃちょー,,hajimesyacho,SWITCH,,,,,no,no,no,とっても面白い,7,,最近読んだ,high,sns,https://x.com/hajimesyacho/status/1303547289219133441,2020-09-09,バスケ漫画『SWITCH』。著者は投稿になし。,2026-11-28-pm3,,False
+はじめしゃちょー,,hajimesyacho,あひるの空,日向武史,,,,no,no,no,泣きそうになった,8,,その他,high,sns,https://x.com/hajimesyacho/status/358929908396867584,2013-07-21,,2026-11-28-pm3,,False
+兎田ぺこら,,usadapekora,ガウちゃんといっしょ,,,,,no,no,no,面白すぎてスタンプ買っちゃったぺこ,17,,最近読んだ,high,sns,https://x.com/usadapekora/status/1419792302063554561,2021-07-27,,2026-11-28-pm3,,False
+湊あくあ,,minatoaqua,五等分の花嫁,春場ねぎ,,,,no,no,no,萌えをしっかり堪能してから眠れるの最高だぁ,21,,最近読んだ,high,sns,https://x.com/minatoaqua/status/1115689437688619008,2019-04-10,,2026-11-28-pm3,,False
+三木谷浩史,,hmikitani,Steve Jobs,Walter Isaacson,スティーブ・ジョブズ,,9784062171267,no,yes,no,なかなかいいです。,9,Koboでスティーブ・ジョブズの本を読み始め、UXがいいと評した。評伝はWalter Isaacson著。,最近読んだ,medium,sns,https://x.com/hmikitani/status/137593727949615104,2011-11-19,,2026-11-28-pm3,スティーブ・ジョブズ I,False
+三木谷浩史,,hmikitani,ゴールは偶然の産物ではない,フェラン・ソリアーノ,,,,no,no,no,That's great book!!,19,引用先が「三木谷さん絶賛の」同書を読んでいると述べた投稿への返信。FCバルセロナ流マネジメントの本。,その他,high,sns,https://x.com/hmikitani/status/9140848032,2010-02-15,,2026-11-28-pm3,,False
+羽生善治,p1797,YoshiharuHabu,ブラック・スワン,ナシーム・ニコラス・タレブ,,,9784478001257,yes,yes,no,とても面白かったので,10,,その他,high,sns,https://x.com/YoshiharuHabu/status/1566665259834028032,2022-09-05,投稿表記は「ブラックスワン」。ISBNは上巻。,2026-11-28-pm3,ブラック・スワン（上）,False
+羽生善治,p1797,YoshiharuHabu,反脆弱性,ナシーム・ニコラス・タレブ,,,9784478023211,yes,yes,no,今回も楽しみです。,9,,最近読んだ,medium,sns,https://x.com/YoshiharuHabu/status/1566665259834028032,2022-09-05,読み始めのためconfidenceはmedium。ISBNは上巻。,2026-11-28-pm3,反脆弱性［上］,False
+中島聡,,snakajima,三体,劉慈欣,,,9784150124342,no,yes,no,この本の楽しみ方の一つではあると思います。,21,,最近読んだ,medium,sns,https://x.com/snakajima/status/1220844762485288963,2020-01-25,,2026-11-28-pm3,三体,False
+中島聡,,snakajima,中央銀行は持ちこたえられるか,河村小百合,,,9784087208580,no,no,no,この本を読んで、ようやく,12,,その他,high,sns,https://x.com/snakajima/status/940197623075446784,2017-12-11,リンク先ASIN 4087208583＝ISBN 9784087208580。suisen未収録。,2026-11-28-pm3,,False
+孫泰蔵,,TaizoSon,プラットフォーム戦略,平野敦士カール,,,,no,no,no,この本はほんとうにおすすめです！,16,,その他,high,sns,https://x.com/TaizoSon/status/103997301126725632,2011-08-18,,2026-11-28-pm3,,False
+孫泰蔵,,TaizoSon,蠢太郎,村上もとか,,,,no,no,no,本当に素晴らしい。,9,,最近読んだ,high,sns,https://x.com/TaizoSon/status/99782624930832384,2011-08-06,,2026-11-28-pm3,,False
+及川卓也,p0847,takoratta,時刻表復刻版,,,,,yes,no,no,めちゃくちゃ面白かった。,12,,最近読んだ,high,sns,https://x.com/takoratta/status/2081920920890069000,2026-07-28,,2026-11-28-pm3,,False
+及川卓也,p0847,takoratta,磯崎新の「都庁」,,,,,yes,no,no,話としてだけでも面白いです。,14,,その他,high,sns,https://x.com/takoratta/status/1639142753824276481,2023-03-24,,2026-11-28-pm3,,False
+及川卓也,p0847,takoratta,Team Geek,Brian W. Fitzpatrick,,,,yes,no,no,色褪せない名著がもっと読まれて欲しい,18,,その他,high,sns,https://x.com/takoratta/status/1381116658857611266,2021-04-11,,2026-11-28-pm3,,False
+及川卓也,p0847,takoratta,愛するということ,エーリッヒ・フロム,,,9784314011778,yes,yes,no,フロムの「愛するということ」は名著,17,,その他,high,sns,https://x.com/takoratta/status/1363067990913077249,2021-02-20,,2026-11-28-pm3,愛するということ,False
+及川卓也,p0847,takoratta,アメーバ経営,稲盛和夫,,,,yes,no,no,稲森さん著のこの本では,11,,その他,medium,sns,https://x.com/takoratta/status/1575355413456789504,2022-09-29,投稿表記は「稲森さん」。稲盛和夫『アメーバ経営』と判断。,2026-11-28-pm3,,False
+及川卓也,p0847,takoratta,イノベーションのジレンマ,クレイトン・クリステンセン,,,9784798100234,yes,yes,no,名著「イノベーションのジレンマ」,16,,その他,high,sns,https://x.com/takoratta/status/1498578983906324483,2022-03-01,,2026-11-28-pm3,イノベーションのジレンマ増補改訂版,False
+及川卓也,p0847,takoratta,ハッカーと画家,ポール・グレアム,,,9784274065972,yes,yes,no,名著「ハッカーと画家」,11,,その他,high,sns,https://x.com/takoratta/status/1409859035663200256,2021-06-29,,2026-11-28-pm3,ハッカーと画家 コンピュータ時代の創造者たち,False
+宝鐘マリン,p1760,houshoumarine,小市民シリーズ,米澤穂信,,,,yes,no,no,主人公の小鳩くんがかなり好きだった,17,,その他,high,sns,https://x.com/houshoumarine/status/1745742453276287018,2024-01-12,〈小市民〉シリーズのアニメ化発表への反応。学生時代に原作を読んでいたと明言。,2026-11-28-pm3,,False
+宝鐘マリン,p1760,houshoumarine,鬼滅の刃,吾峠呼世晴,,,9784088807232,yes,yes,no,鬼滅泣けた,5,,最近読んだ,high,sns,https://x.com/houshoumarine/status/1440573452528746497,2021-09-22,,2026-11-28-pm3,鬼滅の刃,False
+宝鐘マリン,p1760,houshoumarine,東京卍リベンジャーズ,和久井健,,,,yes,no,no,続き気になりすぎてキレそう！,14,,最近読んだ,high,sns,https://x.com/houshoumarine/status/1440573452528746497,2021-09-22,,2026-11-28-pm3,,False
+宝鐘マリン,p1760,houshoumarine,ザ・ファブル,南勝久,,,,yes,no,no,毎回声出して笑った,9,,最近読んだ,high,sns,https://x.com/houshoumarine/status/1440573452528746497,2021-09-22,,2026-11-28-pm3,,False
+宝鐘マリン,p1760,houshoumarine,HUNTER×HUNTER,冨樫義博,,,9784088725710,yes,yes,yes,漫画推しです！,7,,その他,high,sns,https://x.com/houshoumarine/status/1288381394175975424,2020-07-29,ハンターハンターの漫画とアニメどちらから見るかと聞かれ、テンポなら漫画と答えた。,2026-11-28-pm3,HUNTER×HUNTER,False
+小飼弾,,dankogai,たった一つの冴えたやり方,ジェイムズ・ティプトリー・Jr.,,,,no,no,no,必読,2,,その他,high,sns,https://x.com/dankogai/status/1971779227545752013,2025-09-27,,2026-11-28-pm3,,False
+小飼弾,,dankogai,ハイウェイ惑星,石原藤夫,,,,no,no,no,名著,2,,その他,high,sns,https://x.com/dankogai/status/1801403356541554815,2024-06-14,引用された投稿の石原藤夫『ハイウェイ惑星』を「名著」と評した。,2026-11-28-pm3,,False
+小飼弾,,dankogai,The Emperor's New Mind,Roger Penrose,皇帝の新しい心,,,no,no,no,すごい通り越してヤバいぞ。,13,投稿画像のaltからRoger Penrose『The Emperor's New Mind』。大学生のときに読んで驚いたと回想。,人生を変えた一冊,high,sns,https://x.com/dankogai/status/1313431538717999104,2020-10-06,,2026-11-28-pm3,,False
+小飼弾,,dankogai,ワン・モア・ヌーク,藤井太洋,,,,no,no,no,すごい。,4,,最近読んだ,high,sns,https://x.com/dankogai/status/1225236886014185473,2020-02-06,,2026-11-28-pm3,,False
+小飼弾,,dankogai,星系出雲の兵站,林譲治,,,,no,no,no,いやあ苦かった美味かった,12,,最近読んだ,high,sns,https://x.com/dankogai/status/1029976719036436480,2018-08-16,,2026-11-28-pm3,,False
+安宅和人,,kaz_ataka,昭和16年夏の敗戦,猪瀬直樹,,,9784122068926,no,yes,no,考えたことのある人は必読。,13,,その他,high,sns,https://x.com/kaz_ataka/status/1955158348221038905,2025-08-12,,2026-11-28-pm3,昭和16年夏の敗戦,False
+深津貴之,,fladdict,無能なナナ,るりあ046,,,,no,no,no,オールタイムベスト枠に入れられる一品。,19,,最近読んだ,high,sns,https://x.com/fladdict/status/2104622467713323210,2026-09-29,,2026-11-28-pm3,,False
+深津貴之,,fladdict,さよならの言い方なんて知らない,,,,,no,no,no,能力者バトル者としては最高峰の一つや。,19,,最近読んだ,high,sns,https://x.com/fladdict/status/1964675757546029168,2025-09-07,,2026-11-28-pm3,,False
+深津貴之,,fladdict,ズボラな人でもお金が増える 漫画インデックス投資一択で億り人,,,,,no,no,no,これから新NISAやる人は「全員読んどけ」,21,,その他,high,sns,https://x.com/fladdict/status/1750762673212641336,2024-01-26,,2026-11-28-pm3,,False
+深津貴之,,fladdict,鵼の碑,京極夏彦,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/fladdict/status/1703407938390589490,2023-09-17,,2026-11-28-pm3,,False
+深津貴之,,fladdict,ハンチバック,市川沙央,,,9784163917122,no,yes,no,引力が強い作品。,8,,最近読んだ,high,sns,https://x.com/fladdict/status/1697576009686802702,2023-09-01,,2026-11-28-pm3,ハンチバック,False
+さくらみこ,,sakuramiko35,私をセンターにすると誓いますか？,,,,,no,no,no,私をセンターにすると誓いますか？,16,,最近読んだ,high,sns,https://x.com/sakuramiko35/status/1713570117379129795,2023-10-15,おすすめ漫画を尋ねられて書名で答えた。,2026-11-28-pm3,,False
+戌神ころね,,inugamikorone,殺し屋1,山本英夫,,,,no,no,no,読み直す素敵な夜,8,,最近読んだ,high,sns,https://x.com/inugamikorone/status/1143833942488825856,2019-06-26,,2026-11-28-pm3,,False
+常闇トワ,,tokoyamitowa,DRAGON BALL,鳥山明,ドラゴンボール,,,no,no,no,いつ見ても本当に面白い,11,,人生を変えた一冊,high,sns,https://x.com/tokoyamitowa/status/1765994052586201499,2024-03-08,,2026-11-28-pm3,,False
+獅白ぼたん,,shishirobotan,鬼滅の刃,吾峠呼世晴,,,9784088807232,no,yes,no,オススメ漫画だと「鬼滅の刃・呪術廻戦・HUNTER×HUNTER」,33,,最近読んだ,high,sns,https://x.com/shishirobotan/status/1513215597294678017,2022-04-11,,2026-11-28-pm3,鬼滅の刃,False
+獅白ぼたん,,shishirobotan,呪術廻戦,芥見下々,,,9784088815169,no,yes,no,オススメ漫画だと「鬼滅の刃・呪術廻戦・HUNTER×HUNTER」,33,,最近読んだ,high,sns,https://x.com/shishirobotan/status/1513215597294678017,2022-04-11,,2026-11-28-pm3,呪術廻戦,False
+獅白ぼたん,,shishirobotan,HUNTER×HUNTER,冨樫義博,,,9784088725710,no,yes,no,オススメ漫画だと「鬼滅の刃・呪術廻戦・HUNTER×HUNTER」,33,,最近読んだ,high,sns,https://x.com/shishirobotan/status/1513215597294678017,2022-04-11,,2026-11-28-pm3,HUNTER×HUNTER,False
+獅白ぼたん,,shishirobotan,アウターゾーン,光原伸,,,9784088713953,no,yes,no,「アウターゾーン」超おすすめやで！,17,,その他,high,sns,https://x.com/shishirobotan/status/1513215597294678017,2022-04-11,,2026-11-28-pm3,アウターゾーン,False
+大神ミオ,,ookamimio,ダンジョン飯,九井諒子,,,9784047301535,no,yes,no,おもしろかった👀おすすめ,12,,最近読んだ,high,sns,https://x.com/ookamimio/status/1563012454535155713,2022-08-26,,2026-11-28-pm3,ダンジョン飯,False
+大神ミオ,,ookamimio,三月のライオン,羽海野チカ,,,,no,no,no,心があったかくなった、すごくよかった☺️,20,,最近読んだ,high,sns,https://x.com/ookamimio/status/1414791488655958029,2021-07-13,,2026-11-28-pm3,,False
+ロボ子さん,,robocosan,つくおき生活,,,,,no,no,no,つくおき生活　とか　めしぬま。って漫画があるんですけど,27,,その他,high,sns,https://x.com/robocosan/status/1273626338985824256,2020-06-18,読者に料理漫画として勧めた返信。,2026-11-28-pm3,,False
+ロボ子さん,,robocosan,めしぬま。,,,,,no,no,no,つくおき生活　とか　めしぬま。って漫画があるんですけど,27,,その他,high,sns,https://x.com/robocosan/status/1273626338985824256,2020-06-18,読者に料理漫画として勧めた返信。,2026-11-28-pm3,,False
+ロボ子さん,,robocosan,外科医エリーゼ,,,,,no,no,no,推せる漫画、すこ,8,,最近読んだ,high,sns,https://x.com/robocosan/status/1269214115228086272,2020-06-06,,2026-11-28-pm3,,False
+ちきりん,,InsideCHIKIRIN,知られざる皇室外交,,,,,no,no,no,日本人としての必読書,10,,その他,high,sns,https://x.com/InsideCHIKIRIN/status/2052008180868337977,2026-05-06,,2026-11-28-pm3,,False
+ちきりん,,InsideCHIKIRIN,ホントは安いエコハウス,松尾和也,,,,no,no,no,注文住宅を建てる人は必読,12,,その他,high,sns,https://x.com/InsideCHIKIRIN/status/1214439522382954500,2020-01-07,,2026-11-28-pm3,,False
+ちきりん,,InsideCHIKIRIN,走りながら考える,為末大,,,,no,no,no,おもしろかった。,8,,最近読んだ,high,sns,https://x.com/InsideCHIKIRIN/status/272918979302014976,2012-11-26,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,我と汝,マルティン・ブーバー,,,9784622078548,no,yes,no,ブーバーの名著「我と汝」を題材に考えました。,22,,その他,medium,sns,https://x.com/sasakitoshinao/status/2107592242080665678,2026-10-07,自身の原稿の題材として名著と位置づけた。,2026-11-28-pm3,我と汝／対話新装版,False
+佐々木俊尚,,sasakitoshinao,ホラー耐性ない人は読まないでください,マツダミノル,,,,no,no,no,まったく予想外の展開で、面白く読了。,18,,最近読んだ,high,sns,https://x.com/sasakitoshinao/status/1985847277445877792,2025-11-05,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,熊から王へ,中沢新一,,,,no,no,no,今こそこの名著から捉え直すべき時。,17,,その他,high,sns,https://x.com/sasakitoshinao/status/1984762631010296009,2025-11-02,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,ライト、ついてますか,,,,,no,no,no,この本は本当に素晴らしいです。,15,,その他,high,sns,https://x.com/sasakitoshinao/status/1968088011427442968,2025-09-17,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,ウォークス,,,,,no,no,no,歩くことに興味ある方は是非。,14,,その他,high,sns,https://x.com/sasakitoshinao/status/1951419171398377723,2025-08-02,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,ウルトラライトハイキング,,,,,no,no,no,歩くことに興味ある方は是非。,14,,その他,high,sns,https://x.com/sasakitoshinao/status/1951419171398377723,2025-08-02,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,山のパンセ,,,,,no,no,no,歩くことに興味ある方は是非。,14,,その他,high,sns,https://x.com/sasakitoshinao/status/1951419171398377723,2025-08-02,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,資本とイデオロギー,トマ・ピケティ,,,9784622090489,no,yes,no,やはり凄い本だった,9,,最近読んだ,high,sns,https://x.com/sasakitoshinao/status/1774214774382866789,2024-03-31,,2026-11-28-pm3,資本とイデオロギー,False
+佐々木俊尚,,sasakitoshinao,イーロン・マスク,ウォルター・アイザックソン,,,,no,no,no,わたしも非常に面白く読了。,13,,最近読んだ,high,sns,https://x.com/sasakitoshinao/status/1709705463510466746,2023-10-05,,2026-11-28-pm3,,False
+佐々木俊尚,,sasakitoshinao,反知性主義,森本あんり,,,9784106037641,no,yes,no,この名著を読んだ方がいいと思います。,18,,その他,high,sns,https://x.com/sasakitoshinao/status/1703182983341949131,2023-09-17,,2026-11-28-pm3,反知性主義,False
+佐々木俊尚,,sasakitoshinao,逝きし世の面影,渡辺京二,,,9784582765526,no,yes,no,この本は本当に感動します。,13,,その他,high,sns,https://x.com/sasakitoshinao/status/1607878745733402633,2022-12-28,,2026-11-28-pm3,逝きし世の面影（552）,False
+田端信太郎,,tabbata,世界金融秘録,神田眞人,,,,no,no,no,これは必読！！！,8,,その他,high,sns,https://x.com/tabbata/status/2043100554579325390,2026-04-12,,2026-11-28-pm3,,False
+田端信太郎,,tabbata,これからの会社員の教科書,,,,,no,no,no,新入社員は必読ですよ！,11,,社員に薦めたい,high,sns,https://x.com/tabbata/status/1907298543406375264,2025-04-02,,2026-11-28-pm3,,False
+イケダハヤト,,IHayato,7つの習慣,スティーヴン・R.コヴィー,,,9784906638017,no,yes,no,読んだことない方はぜひ。,12,,その他,high,sns,https://x.com/IHayato/status/2018512780115243087,2026-02-03,,2026-11-28-pm3,7つの習慣,False
+イケダハヤト,,IHayato,百年の孤独,ガブリエル・ガルシア＝マルケス,,,9784105090111,no,yes,no,読後感がヤバいおすすめの一冊！,15,,その他,high,sns,https://x.com/IHayato/status/2007733416578674754,2026-01-04,,2026-11-28-pm3,百年の孤独,False
+イケダハヤト,,IHayato,Steal Like an Artist,Austin Kleon,アーティストのように盗め,,,no,no,no,名著ですね！,6,引用先が、20代のイケハヤに影響を与えた『Steal Like an Artist』（STEAL LIKE AN ARTIST）を取り上げた回だと分かる投稿。「名著ですね！」と応じている。,その他,medium,sns,https://x.com/IHayato/status/1988574618886770835,2025-11-12,書名は引用先投稿の「STEAL LIKE AN ARTIST」から確認。,2026-11-28-pm3,,False
+イケダハヤト,,IHayato,万物の黎明,デヴィッド・グレーバー,,,9784334100599,no,yes,no,難解すぎる名著なので,10,,その他,medium,sns,https://x.com/IHayato/status/1979507218816106696,2025-10-18,,2026-11-28-pm3,万物の黎明,False
+河野太郎,,konotarogomame,火車,宮部みゆき,,,9784101369181,no,yes,no,何度読んでもおもしろい。,12,,その他,high,sns,https://x.com/konotarogomame/status/261091855792496640,2012-10-24,,2026-11-28-pm3,火車,False
+河野太郎,,konotarogomame,世論の曲解 なぜ自民党は大敗したのか,菅原琢,,,,no,no,no,必読だと思います。,9,,その他,high,sns,https://x.com/konotarogomame/status/8046742744,2010-01-22,,2026-11-28-pm3,,False
+ヨビノリたくみ,p1698,Yobinori,許されようとは思いません,芦沢央,,,,yes,no,no,どれも鳥肌もの。,8,,最近読んだ,high,sns,https://x.com/Yobinori/status/1211537342827155459,2019-12-30,前日の投稿で芦沢央『許されようとは思いません』を出張のお供とした後の読了投稿。,2026-11-28-pm3,,False
+ヨビノリたくみ,p1698,Yobinori,名前探しの放課後,辻村深月,,,9784062767446,yes,yes,no,こんなオチがあるとは思わなかった…すごすぎ,21,,最近読んだ,high,sns,https://x.com/Yobinori/status/1178231887547879424,2019-09-29,,2026-11-28-pm3,名前探しの放課後（上）,False
+ヨビノリたくみ,p1698,Yobinori,しょぼい起業で生きていく,えらいてんちょう,,,9784781617336,yes,yes,no,ポジティブな気持ちにさせてくれる一冊。,19,,最近読んだ,high,sns,https://x.com/Yobinori/status/1107683510259580930,2019-03-19,,2026-11-28-pm3,しょぼい起業で生きていく,False
+ヨビノリたくみ,p1698,Yobinori,学びを結果に変えるアウトプット大全,樺沢紫苑,,,9784801400559,yes,yes,no,この時代にぴったりだと思った一冊。,17,,最近読んだ,high,sns,https://x.com/Yobinori/status/1106614711766777856,2019-03-16,,2026-11-28-pm3,学びを結果に変えるアウトプット大全,False
+白上フブキ,,shirakamifubuki,遊戯王,高橋和希,,,,no,no,no,セトとキサラのてぇてぇをもっと拝みたかった,21,,最近読んだ,high,sns,https://x.com/shirakamifubuki/status/2056542326647058650,2026-05-19,,2026-11-28-pm3,,False
+白上フブキ,,shirakamifubuki,近畿地方のある場所について,,,,,no,no,no,本当にオススメのホラー小説です,15,,その他,high,sns,https://x.com/shirakamifubuki/status/1705279760065233373,2023-09-23,,2026-11-28-pm3,,False
+キズナアイ,,aichan_nel,ちおちゃんの通学路,川島ヨウヘイ,,,,no,no,no,最近の好きな漫画は ちおちゃんの通学路♥,20,,最近読んだ,high,sns,https://x.com/aichan_nel/status/825368139793723392,2017-01-29,,2026-11-28-pm3,,False
+叶,,Kanae_2434,黄泉のツガイ,荒川弘,,,,no,no,no,神漫画です。,6,,最近読んだ,high,sns,https://x.com/Kanae_2434/status/1751386907773411405,2024-01-28,,2026-11-28-pm3,,False
+樋口楓,,HiguchiKaede,はやて×ブレード,林家志弦,,,,no,no,no,こんなに鳥肌の立つ漫画は無いです！,17,,最近読んだ,high,sns,https://x.com/HiguchiKaede/status/976025305063202817,2018-03-20,,2026-11-28-pm3,,False
+伊藤穰一,,Joi,NeuroTribes,Steve Silberman,ニューロトライブ,,,no,no,no,a major inspiration,19,故スティーヴ・シルバーマンの『NeuroTribes』が大きな着想源だったと追悼の投稿で述べている。,その他,high,sns,https://x.com/Joi/status/1829277852405215737,2024-08-30,,2026-11-28-pm3,,False
+伊藤穰一,,Joi,Critical Mass,Daniel Suarez,,,,no,no,no,one of my favorite authors,26,ダニエル・スアレスを好きな作家の一人とし、続編『Critical Mass』を高く評価している。,最近読んだ,high,sns,https://x.com/Joi/status/1619078463645970432,2023-01-28,,2026-11-28-pm3,,False
+伊藤穰一,,Joi,The Startup of You,Reid Hoffman,スタートアップのように自分を導け,,,no,no,no,One of my favorite books about careers,38,キャリアについて多くの人に勧める愛読書だと、リード・ホフマンの新版告知を引用して述べている。,その他,high,sns,https://x.com/Joi/status/1521596858132738048,2022-05-04,書名は引用されたリード・ホフマンの投稿『The Startup of You』から確認。,2026-11-28-pm3,,False
+伊藤穰一,,Joi,"Debt: The First 5,000 Years",David Graeber,負債論,,,no,no,no,One of my favorite books.,25,デヴィッド・グレーバー『Debt: the first 5000 years』（負債論）を好きな本の一つだと返信している。,その他,high,sns,https://x.com/Joi/status/1103654898997121025,2019-03-07,,2026-11-28-pm3,,False
+伊藤穰一,,Joi,WTF,Tim O'Reilly,,,,no,no,no,So good.,8,ティム・オライリー『WTF』を読み終え、特に経済の議論が良かったと評している。,最近読んだ,high,sns,https://x.com/Joi/status/930676662991237121,2017-11-15,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,How to Avoid a Climate Disaster,Bill Gates,地球の未来を守るために,,,no,no,no,は必読かも,5,,その他,medium,sns,https://x.com/shuzonarita/status/1364218235038564361,2021-02-23,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,投資家で一番大切な20の教え,ハワード・マークス,,,,no,no,no,はホント名著,6,,その他,high,sns,https://x.com/shuzonarita/status/1132657567954481152,2019-05-26,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,人工知能プログラミングのための数学がわかる本,石川聡彦,,,,no,no,no,おすすめ,4,,その他,high,sns,https://x.com/shuzonarita/status/1029516829314637825,2018-08-15,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,人工知能は人間を超えるか,松尾豊,,,9784040800202,no,yes,no,は必読で,4,,その他,high,sns,https://x.com/shuzonarita/status/1029516829314637825,2018-08-15,投稿表記は「人工知能は人間は超えるか」。,2026-11-28-pm3,人工知能は人間を超えるか ディープラーニングの先にあるもの,False
+成田修造,,shuzonarita,ティール組織,フレデリック・ラルー,,,,no,no,no,本当に名著で,6,,最近読んだ,high,sns,https://x.com/shuzonarita/status/990361408457007104,2018-04-29,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,一勝九敗,柳井正,,,,no,no,no,本当に名著だ。,7,,その他,high,sns,https://x.com/shuzonarita/status/181137428420104192,2012-03-18,投稿表記は「１勝９敗」。,2026-11-28-pm3,,False
+成田修造,,shuzonarita,成功の法則92カ条,三木谷浩史,,,,no,no,no,ホントに名著だ。,8,,その他,high,sns,https://x.com/shuzonarita/status/180345303646478336,2012-03-16,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,半導体立国再び,藤村修三,,,,no,no,no,辺りは必読かと。,8,,その他,medium,sns,https://x.com/shuzonarita/status/81177033538932737,2011-06-16,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,ダントツ経営,坂根正弘,,,,no,no,no,辺りは必読かと。,8,,その他,medium,sns,https://x.com/shuzonarita/status/81177033538932737,2011-06-16,,2026-11-28-pm3,,False
+成田修造,,shuzonarita,日本の電機産業再編へのシナリオ,佐藤文昭,,,,no,no,no,辺りは必読かと。,8,,その他,medium,sns,https://x.com/shuzonarita/status/81177033538932737,2011-06-16,,2026-11-28-pm3,,False
+玉木雄一郎,,tamakiyuichiro,恐るべきさぬきうどん,,,,,no,no,no,も必読です。,6,,その他,high,sns,https://x.com/tamakiyuichiro/status/1174166139586236417,2019-09-18,,2026-11-28-pm3,,False
+堀義人,,YoshitoHori,失敗の本質,戸部良一,,,9784122018334,no,yes,no,愛読書の一つだ。,8,,座右の書,high,sns,https://x.com/YoshitoHori/status/1883602664300347893,2025-01-27,,2026-11-28-pm3,失敗の本質,False
+堀義人,,YoshitoHori,水戸維新 近代日本はかくして創られた,マイケル・ソントン,,,,no,no,no,は必読ですね。,7,,社員に薦めたい,high,sns,https://x.com/YoshitoHori/status/1360918816532783106,2021-02-14,別投稿ではグロービス全社員の必読書とも述べている。,2026-11-28-pm3,,False
+山本太郎,,yamamototaro0,黒い匣,ヤニス・バルファキス,,,,no,no,no,面白すぎる！,6,,最近読んだ,high,sns,https://x.com/yamamototaro0/status/1179581948785639424,2019-10-03,投稿の著者表記は「ヤニル ヴァルファキス」。,2026-11-28-pm3,,False
+山本太郎,,yamamototaro0,日本はなぜ、「基地」と「原発」を止められないのか,矢部宏治,,,,no,no,no,☆この本が凄い☆必読☆,11,,その他,high,sns,https://x.com/yamamototaro0/status/522028281114021888,2014-10-14,,2026-11-28-pm3,,False
+山本太郎,,yamamototaro0,政府は必ず嘘をつく,堤未果,,,,no,no,no,是非読んで下さい。,9,,その他,high,sns,https://x.com/yamamototaro0/status/290396470190936064,2013-01-13,投稿の著者表記は「堤未香」。,2026-11-28-pm3,,False
+山本太郎,,yamamototaro0,神との対話,ニール・ドナルド・ウォルシュ,,,,no,no,no,神との対話、ニール・ドナルド・ウオルッシュ,21,,人生を変えた一冊,high,sns,https://x.com/yamamototaro0/status/37163784334344192,2011-02-14,人生に影響を与えたおすすめの本を尋ねられて書名で答えた。投稿表記は「ウオルッシュ」。,2026-11-28-pm3,,False
+宇野常寛,,wakusei2nd,ハロー、ユーラシア,福嶋亮大,,,,no,no,no,名著『ハロー、ユーラシア』,13,,その他,medium,sns,https://x.com/wakusei2nd/status/1732359324947873960,2023-12-06,自身の講座告知を含むためconfidenceはmedium。,2026-11-28-pm3,,False
+宇野常寛,,wakusei2nd,責任の生成,國分功一郎,,,,no,no,no,みんな読んで欲しい……。,12,,その他,high,sns,https://x.com/wakusei2nd/status/1723844413997105472,2023-11-13,,2026-11-28-pm3,,False
+宇野常寛,,wakusei2nd,エネルギーをめぐる旅,古舘恒介,,,,no,no,no,やっぱり名著だ……,9,,その他,high,sns,https://x.com/wakusei2nd/status/1721644148095324304,2023-11-07,,2026-11-28-pm3,,False
+宇野常寛,,wakusei2nd,中動態の世界,國分功一郎,,,9784260031578,no,yes,no,この名著をちょっと変わった視点から読み解いていきたい,26,,その他,medium,sns,https://x.com/wakusei2nd/status/1660783899361042432,2023-05-23,自身のゼミ告知を含むためconfidenceはmedium。,2026-11-28-pm3,中動態の世界,False
+吉村洋文,,hiroyoshimura,昭和16年夏の敗戦,猪瀬直樹,,,9784122068926,no,yes,no,名著だと思います。,9,,その他,high,sns,https://x.com/hiroyoshimura/status/1956324576834854961,2025-08-15,,2026-11-28-pm3,昭和16年夏の敗戦,False
+吉村洋文,,hiroyoshimura,夏の騎士,百田尚樹,,,9784101201948,no,yes,no,誘ってくれる青春本だ。,11,,最近読んだ,high,sns,https://x.com/hiroyoshimura/status/1153300386104528898,2019-07-22,,2026-11-28-pm3,夏の騎士,False
+吉村洋文,,hiroyoshimura,政権奪取論,橋下徹,,,,no,no,no,橋下さんの本、読了。,10,,最近読んだ,medium,sns,https://x.com/hiroyoshimura/status/1040906833135788032,2018-09-15,書名は引用された朝日新書の告知から確認。,2026-11-28-pm3,,False
+おときた駿,,otokita,知能爆発,有路翔太,,,,no,no,no,「知能爆発」は必読。,10,,その他,high,sns,https://x.com/otokita/status/2119060975710335236,2026-11-07,Amazon表記の正式書名は『知能爆発 AIの次に来るAGIとは何か、そして人類に何が起きるのか』。,2026-11-28-pm3,,False
+おときた駿,,otokita,7つの激変,川邊健太郎,,,,no,no,no,まさにインターネット史そのもの。,16,,最近読んだ,medium,sns,https://x.com/otokita/status/2071244757683274193,2026-06-28,,2026-11-28-pm3,,False
+おときた駿,,otokita,日本医療再生計画,堀江貴文,,,,no,no,no,同意できることばかり。,11,,最近読んだ,high,sns,https://x.com/otokita/status/2040694063238987833,2026-04-05,,2026-11-28-pm3,,False
+おときた駿,,otokita,生殖記,朝井リョウ,,,,no,no,no,これまたトンデモない傑作だ…！,15,,最近読んだ,high,sns,https://x.com/otokita/status/1993233563618247147,2025-11-25,,2026-11-28-pm3,,False
+おときた駿,,otokita,サーキット・スイッチャー,安野貴博,,,,no,no,no,サーキット・スイッチャー」読了。,16,,最近読んだ,medium,sns,https://x.com/otokita/status/1982362577473839552,2025-10-26,,2026-11-28-pm3,,False
+おときた駿,,otokita,三体,劉慈欣,,,9784150124342,no,yes,no,最高でした。,6,,最近読んだ,high,sns,https://x.com/otokita/status/1973387280308900223,2025-10-01,,2026-11-28-pm3,三体,False
+おときた駿,,otokita,昭和16年夏の敗戦,猪瀬直樹,,,9784122068926,no,yes,no,名著中の名著,6,,その他,high,sns,https://x.com/otokita/status/1956192254202134832,2025-08-15,,2026-11-28-pm3,昭和16年夏の敗戦,False
+おときた駿,,otokita,科学的根拠で子育て,中室牧子,,,,no,no,no,すべての子育て現役世代に読んでほしい。,19,,最近読んだ,high,sns,https://x.com/otokita/status/1872942844102754637,2024-12-28,,2026-11-28-pm3,,False
+おときた駿,,otokita,稼ぎたいならキャバクラへ行け,林尚弘,,,,no,no,no,鋭く刺さるビジネス本です,12,,最近読んだ,high,sns,https://x.com/otokita/status/1852883342783660482,2024-11-03,,2026-11-28-pm3,,False
+安野貴博,,takahiroanno,地図と拳,小川哲,,,9784087718010,no,yes,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/takahiroanno/status/1548595264071651332,2022-07-17,,2026-11-28-pm3,地図と拳,False
+千葉雅也,,masayachiba,世界は時間でできている,平井靖史,,,,no,no,no,大変エキサイティングな,11,,最近読んだ,high,sns,https://x.com/masayachiba/status/1640541255032782848,2023-03-28,,2026-11-28-pm3,,False
+千葉雅也,,masayachiba,君は君の人生の主役になれ,鳥羽和久,,,9784480684387,no,no,no,新時代の「道徳の教科書」です。,15,,その他,high,sns,https://x.com/masayachiba/status/1578946231883403264,2022-10-09,,2026-11-28-pm3,,False
+千葉雅也,,masayachiba,雌伏三十年,マキタスポーツ,,,,no,no,no,生きる欲望の物語。,9,,最近読んだ,high,sns,https://x.com/masayachiba/status/1509847507605819396,2022-04-01,,2026-11-28-pm3,,False
+千葉雅也,,masayachiba,武器としての「資本論」,白井聡,,,,no,no,no,全人類必読。,6,,その他,high,sns,https://x.com/masayachiba/status/1269944765291696129,2020-06-08,,2026-11-28-pm3,,False
+千葉雅也,,masayachiba,ヤンキーと地元,打越正行,,,9784480439840,no,yes,no,大変に豊かな研究だった。,12,,最近読んだ,high,sns,https://x.com/masayachiba/status/1162209867433558016,2019-08-16,,2026-11-28-pm3,ヤンキーと地元,False
+楠木建,,kenkusunoki,小倉昌男,沼上幹,,,,no,no,no,経営者必読の名著,8,,社員に薦めたい,high,sns,https://x.com/kenkusunoki/status/1959865083431104585,2025-08-25,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,ザ・会社改造,三枝匡,,,,no,no,no,経営者必読の名著,8,,社員に薦めたい,high,sns,https://x.com/kenkusunoki/status/1957311685334818826,2025-08-18,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,プロフェッショナルマネジャー,ハロルド・ジェニーン,,,9784833450027,no,yes,no,経営者必読の名著,8,,社員に薦めたい,high,sns,https://x.com/kenkusunoki/status/1955427434301624536,2025-08-13,,2026-11-28-pm3,プロフェッショナルマネジャー 58四半期連続増益の男,False
+楠木建,,kenkusunoki,競争の戦略,マイケル・E・ポーター,,,,no,no,no,経営者必読の名著,8,,社員に薦めたい,high,sns,https://x.com/kenkusunoki/status/1952544841512185964,2025-08-05,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,ショージ君の「さあ！なにを食おうかな」,東海林さだお,,,,no,no,no,何度読んでも面白い。,10,,その他,high,sns,https://x.com/kenkusunoki/status/1167760765614379008,2019-08-31,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,高峰秀子の捨てられない荷物,斎藤明美,,,,no,no,no,感動の傑作。,6,,最近読んだ,high,sns,https://x.com/kenkusunoki/status/1137200390745645056,2019-06-08,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,自民党戦国史,伊藤昌哉,,,,no,no,no,若い頃繰り返し読んだ名著,12,,その他,high,sns,https://x.com/kenkusunoki/status/1123507855066157056,2019-05-01,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,倒壊する巨塔,ローレンス・ライト,,,,no,no,no,期待通りの名著。,8,,最近読んだ,high,sns,https://x.com/kenkusunoki/status/1123022879426109441,2019-04-30,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,スパークする思考,内田和成,,,,no,no,no,を合わせて読むとさらにイイ。,14,,その他,high,sns,https://x.com/kenkusunoki/status/1095928765840949248,2019-02-14,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,ムッシュになった男,川上貴光,,,,no,no,no,何度読んでも最高にイイ。,12,,その他,high,sns,https://x.com/kenkusunoki/status/1094085963309961216,2019-02-09,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,思考のレッスン,丸谷才一,,,,no,no,no,考えて書く人にとって必読の書。,15,,その他,high,sns,https://x.com/kenkusunoki/status/1092613971935285250,2019-02-05,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,新・冒険論,角幡唯介,,,,no,no,no,頗る名著。,5,,最近読んだ,high,sns,https://x.com/kenkusunoki/status/1035791076831854592,2018-09-01,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,なぜ君は絶望と闘えたのか,門田隆将,,,,no,no,no,涙なしには読めない。,10,,最近読んだ,high,sns,https://x.com/kenkusunoki/status/1025539323154726912,2018-08-04,,2026-11-28-pm3,,False
+楠木建,,kenkusunoki,指導者とは,リチャード・ニクソン,,,,no,no,no,これは絶対の名著,8,,その他,high,sns,https://x.com/kenkusunoki/status/1018701585004691456,2018-07-16,,2026-11-28-pm3,,False
+内田樹,,levinassien,超知能AI をつくれば人類は滅亡する,ユドコウスキー,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/levinassien/status/2113532069028753809,2026-10-23,本文の著者表記はユドコウスキー&ソアレス。ツール出力では&amp;とエスケープされている。,2026-11-28-pm3,,False
+内田樹,,levinassien,分断８０年,徐台教,,,,no,no,no,厚みと深みのある韓国論でした。,15,,最近読んだ,high,sns,https://x.com/levinassien/status/1986396803449954540,2025-11-06,,2026-11-28-pm3,,False
+内田樹,,levinassien,ノスタルジア ある危険な感情の歴史,アグネス・アーノルド＝フォスター,,,,no,no,no,とても面白い本でした。,11,,最近読んだ,high,sns,https://x.com/levinassien/status/1963884950689657026,2025-09-05,,2026-11-28-pm3,,False
+内田樹,,levinassien,証言集 関東大震災の直後 朝鮮人と日本人,西崎雅夫,,,,no,no,no,これは必読の証言集です。,12,,その他,high,sns,https://x.com/levinassien/status/1962739538998239624,2025-09-02,書名は引用された投稿「証言集　関東大震災の直後　朝鮮人と日本人」（西崎雅夫編・ちくま文庫）から確認。,2026-11-28-pm3,,False
+内田樹,,levinassien,目に見えない白鳥さんとアートを見にいく,川内有緒,,,,no,no,no,面白かった！,6,,最近読んだ,high,sns,https://x.com/levinassien/status/1906174084817256820,2025-03-30,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,人びとの社会戦争,益田肇,,,,no,no,no,素晴らしい名著です。,10,,最近読んだ,high,sns,https://x.com/mizuhofukushima/status/1989545248973078647,2025-11-15,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,冤罪ーなぜ人は間違えるのかー,西愛礼,,,,no,no,no,とても面白い興味深い本でした。,15,,最近読んだ,high,sns,https://x.com/mizuhofukushima/status/1880613514798313485,2025-01-18,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,ナチスの「手口」と緊急事態条項,石田勇治,,,,no,no,no,は名著。,4,,その他,high,sns,https://x.com/mizuhofukushima/status/1757538462599979283,2024-02-14,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,死刑について,平野啓一郎,,,,no,no,no,ぜひ読んで下さい。,9,,最近読んだ,high,sns,https://x.com/mizuhofukushima/status/1604314425842106368,2022-12-18,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,法然の哀しみ,梅原猛,,,,no,no,no,は名著。,4,,その他,high,sns,https://x.com/mizuhofukushima/status/130932318142599168,2011-10-31,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,沈む日本を愛せますか？,内田樹,,,,no,no,no,面白い指摘がたくさんありました。,16,,最近読んだ,medium,sns,https://x.com/mizuhofukushima/status/33097926431477760,2011-02-03,,2026-11-28-pm3,,False
+福島みずほ,,mizuhofukushima,パンとペン 社会主義者・堺利彦と「売文社」の闘い,黒岩比佐子,,,,no,no,no,は、名著である。,8,,その他,high,sns,https://x.com/mizuhofukushima/status/28486891280007168,2011-01-22,,2026-11-28-pm3,,False
+周央サンゴ,,Suo_Sango,フランバーズ屋敷の人びと,キャサリン・M．ペイトン,,,9784001145977,no,yes,no,好きなのを並べてみたよ,11,,その他,high,sns,https://x.com/Suo_Sango/status/2029750908184318089,2026-03-06,おすすめの本を尋ねられて挙げた。人形の家の著者表記は投稿では「ルーマー・ゴッテン」。,2026-11-28-pm3,フランバーズ屋敷の人びと,False
+周央サンゴ,,Suo_Sango,昼と夜のあいだ,,,,,no,no,no,好きなのを並べてみたよ,11,,その他,high,sns,https://x.com/Suo_Sango/status/2029750908184318089,2026-03-06,おすすめの本を尋ねられて挙げた。人形の家の著者表記は投稿では「ルーマー・ゴッテン」。,2026-11-28-pm3,,False
+周央サンゴ,,Suo_Sango,まぼろしの小さい犬,,,,,no,no,no,好きなのを並べてみたよ,11,,その他,high,sns,https://x.com/Suo_Sango/status/2029750908184318089,2026-03-06,おすすめの本を尋ねられて挙げた。人形の家の著者表記は投稿では「ルーマー・ゴッテン」。,2026-11-28-pm3,,False
+周央サンゴ,,Suo_Sango,人形の家,ルーマー・ゴッデン,,,,no,no,no,好きなのを並べてみたよ,11,,その他,high,sns,https://x.com/Suo_Sango/status/2029750908184318089,2026-03-06,おすすめの本を尋ねられて挙げた。人形の家の著者表記は投稿では「ルーマー・ゴッテン」。,2026-11-28-pm3,,False
+伊沢拓司,,tax_i_,夢を叶えるための勉強法,光ちゃん,,,,no,no,no,ぜひご一読を。,7,,最近読んだ,high,sns,https://x.com/tax_i_/status/1376815307440812042,2021-03-30,投稿の著者表記は「光ちゃん」。,2026-11-28-pm3,,False
+伊沢拓司,,tax_i_,クイズ化するテレビ,,,,,no,no,no,が面白かったです。,9,,最近読んだ,high,sns,https://x.com/tax_i_/status/932683279886532608,2017-11-21,,2026-11-28-pm3,,False
+伊沢拓司,,tax_i_,世界史の見取り図,荒巻,,,,no,no,no,は論述向けの名著です。,11,,その他,high,sns,https://x.com/tax_i_/status/929483598171848704,2017-11-12,,2026-11-28-pm3,,False
+伊沢拓司,,tax_i_,絶叫委員会,,,,9784480430663,no,yes,no,勉強になるなとおもったのは,13,,最近読んだ,medium,sns,https://x.com/tax_i_/status/927822432131411970,2017-11-07,,2026-11-28-pm3,絶叫委員会,False
+伊沢拓司,,tax_i_,論文の教室,戸田山和久,,,9784140019542,no,yes,no,高校生にも必読の一冊です。,13,,その他,high,sns,https://x.com/tax_i_/status/892234821421850624,2017-08-01,,2026-11-28-pm3,論文の教室,False
+入山章栄,,AkieIriyama,幻惑の死と使途,森博嗣,,,,no,no,no,面白い。,4,,最近読んだ,medium,sns,https://x.com/AkieIriyama/status/264206737215729665,2012-11-02,,2026-11-28-pm3,,False
+入山章栄,,AkieIriyama,黒猫館の殺人,綾辻行人,,,,no,no,no,でも面白かった。,8,,最近読んだ,high,sns,https://x.com/AkieIriyama/status/243295805111418880,2012-09-05,,2026-11-28-pm3,,False
+入山章栄,,AkieIriyama,HUNTER×HUNTER,冨樫義博,,,9784088725710,no,yes,no,今の愛読書がハンターハンターだ,15,,座右の書,high,sns,https://x.com/AkieIriyama/status/189540185904648192,2012-04-10,,2026-11-28-pm3,HUNTER×HUNTER,False
+入山章栄,,AkieIriyama,はいからさんが通る,大和和紀,,,9784061096769,no,yes,no,すげー面白かった。,9,,最近読んだ,high,sns,https://x.com/AkieIriyama/status/129108869594087424,2011-10-26,,2026-11-28-pm3,はいからさんが通る,False
+入山章栄,,AkieIriyama,秘密,東野圭吾,,,9784167110062,no,yes,no,面白さのあまりについ,10,,その他,high,sns,https://x.com/AkieIriyama/status/91053729041756160,2011-07-13,,2026-11-28-pm3,秘密,False
+斎藤幸平,p1401,koheisaito0131,統一後のドイツ Ungleich vereint,シュテフェン・マウ,,,,yes,no,no,必読です！！,6,,その他,high,sns,https://x.com/koheisaito0131/status/2098969575228571732,2026-09-13,,2026-11-28-pm3,,False
+斎藤幸平,p1401,koheisaito0131,自然、文化、そして不平等,トマ・ピケティ,,,,yes,no,no,必読。,3,,その他,high,sns,https://x.com/koheisaito0131/status/1678631374247346177,2023-07-11,書名は引用された文藝春秋の告知『自然、文化、そして不平等』から確認。,2026-11-28-pm3,,False
+斎藤幸平,p1401,koheisaito0131,Less is More,ジェイソン・ヒッケル,,,,yes,no,no,必読です。,5,ジェイソン・ヒッケル『Less is More』の邦訳が出たと紹介し、必読だと述べている。,その他,high,sns,https://x.com/koheisaito0131/status/1654658195053506561,2023-05-06,,2026-11-28-pm3,,False
+古市憲寿,p1432,poe1985,日本神話はいかに描かれてきたか,及川智早,,,,yes,no,no,今日読むのにおすすめの本。,13,,その他,high,sns,https://x.com/poe1985/status/1094817227805618176,2019-02-11,,2026-11-28-pm3,,False
+古市憲寿,p1432,poe1985,ぼくのにゃんた,鈴木康広,,,,yes,no,no,鈴木康広さんの名著！,10,,その他,high,sns,https://x.com/poe1985/status/800710354837729281,2016-11-21,,2026-11-28-pm3,,False
+古市憲寿,p1432,poe1985,読書は格闘技,瀧本哲史,,,,yes,no,no,コンセプトが秀逸。,9,,その他,high,sns,https://x.com/poe1985/status/724154867527213056,2016-04-24,,2026-11-28-pm3,,False
+古市憲寿,p1432,poe1985,僕たちがやりました,,,,9784063826630,yes,yes,no,落ち込んでいる人必読のマンガです。,17,,その他,high,sns,https://x.com/poe1985/status/709407023499087872,2016-03-15,,2026-11-28-pm3,僕たちがやりました,False
+古市憲寿,p1432,poe1985,HOTEL,Boichi,,,,yes,no,no,は名著！,4,,その他,high,sns,https://x.com/poe1985/status/336713552020791296,2013-05-21,,2026-11-28-pm3,,False
+古市憲寿,p1432,poe1985,偏差値40から良い会社に入る方法,田中,,,,yes,no,no,は実践的な名著だと思います,13,,その他,high,sns,https://x.com/poe1985/status/247719883138269184,2012-09-18,,2026-11-28-pm3,,False
+小池百合子,,ecoyuri,失敗の本質,戸部良一,,,9784122018334,no,yes,no,名著『失敗の本質』から学ぶこと,15,,その他,high,sns,https://x.com/ecoyuri/status/71791810866987008,2011-05-21,,2026-11-28-pm3,失敗の本質,False
+こうちゃん,,Miracle_Fusion,空想科学読本,柳田理科雄,,,,no,no,no,まさしく愛読書です〜,10,,座右の書,high,sns,https://x.com/Miracle_Fusion/status/948905974579970050,2018-01-04,書名は返信先の「空想科学読本大好きです！」から確認。,2026-11-28-pm3,,False
+門田隆将,,KadotaRyusho,新半導体戦争,平井宏治,,,,no,no,no,政治家だけでなく国民必読,12,,その他,high,sns,https://x.com/KadotaRyusho/status/1771724168326778893,2024-03-24,,2026-11-28-pm3,,False
+門田隆将,,KadotaRyusho,中国共産党  暗黒の百年史,石平,,,,no,no,no,“属国化”日本では国民必読。,14,,その他,high,sns,https://x.com/KadotaRyusho/status/1408236070647386113,2021-06-25,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,想像の共同体,ベネディクト・アンダーソン,,,,yes,no,no,ネーションステートを理解するための必読書です。,23,,その他,high,sns,https://x.com/p_hal/status/1290040688990547968,2020-08-03,書名は引用ツイートのハッシュタグ「想像の共同体」から確認。,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,教育格差,松岡亮二,,,,yes,no,no,教育関係者「必読」！,10,,その他,high,sns,https://x.com/p_hal/status/1170150491432505344,2019-09-07,書名は引用された『教育格差』（ちくま新書）の告知から確認。,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,社会心理学講義,小坂井敏晶,,,9784480015761,yes,yes,yes,平成の時代を代表する名著の1冊だと思います。,22,,その他,high,sns,https://x.com/p_hal/status/1081742716864651264,2019-01-06,,2026-11-28-pm3,社会心理学講義,False
+出口治明,p1281,p_hal,さらば、GG資本主義,藤野英人,,,,yes,no,no,爽やかな読了感。オススメです。,15,,最近読んだ,high,sns,https://x.com/p_hal/status/1008509473969729536,2018-06-18,同一投稿の自著『戦前の大金持ち』は除外し、藤野英人の著書のみ採録。,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,人類と気候の10万年史,,,,,yes,no,no,ブルーバックスの名著「人類と気候の10万年史」を。,25,,その他,high,sns,https://x.com/p_hal/status/957084442073350145,2018-01-27,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,教養としての社会保障,香取照幸,,,,yes,no,no,この分野では類を見ない名著だと思います。,20,,その他,high,sns,https://x.com/p_hal/status/900366428058009602,2017-08-23,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,答えのない世界を生きる,小坂井敏晶,,,9784396616175,yes,yes,no,おすすめです。,7,,最近読んだ,high,sns,https://x.com/p_hal/status/887332538846334976,2017-07-19,,2026-11-28-pm3,答えのない世界を生きる,False
+出口治明,p1281,p_hal,チボー家の人々,ロジェ・マルタン・デュ・ガール,,,9784560070383,yes,yes,no,高校時代、一番の愛読書でした。,15,,座右の書,high,sns,https://x.com/p_hal/status/764008611232174080,2016-08-12,,2026-11-28-pm3,チボー家の人々,False
+出口治明,p1281,p_hal,アメリカ大都市の死と生,ジェーン・ジェイコブズ,,,,yes,no,no,読んだ時の衝撃は今でも鮮やかに記憶に残っている。,24,,その他,high,sns,https://x.com/p_hal/status/737104015683526656,2016-05-30,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,石の物語　中国の石伝説と「紅楼夢」「水滸伝」「西遊記」を読む,ジン・ワン,,,,yes,no,no,紅迷の人の必読書かと。,11,,その他,high,sns,https://x.com/p_hal/status/577259407832006656,2015-03-16,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,生物学的文明論,本川達雄,,,,yes,no,no,本当の良書だと思います。,12,,その他,high,sns,https://x.com/p_hal/status/443665281282371584,2014-03-12,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,チェーザレ・ボルジア あるいは優雅なる冷酷,塩野七生,,,,yes,no,no,塩野さんの最高傑作かと。,12,,その他,high,sns,https://x.com/p_hal/status/366454486354505728,2013-08-11,,2026-11-28-pm3,,False
+出口治明,p1281,p_hal,連続講義・デフレと経済政策,池尾和人,,,,yes,no,no,僕も、とても勉強になりました。,15,,最近読んだ,medium,sns,https://x.com/p_hal/status/358947725003337728,2013-07-21,,2026-11-28-pm3,,False
+加賀美ハヤト,,H_KAGAMI2434,編集王,土田世紀,,,,no,no,no,面白かった......！！,13,,最近読んだ,high,sns,https://x.com/H_KAGAMI2434/status/1425396835904933889,2021-08-11,,2026-11-28-pm3,,False
+勝間和代,p0098,kazuyo_k,7つの習慣,スティーヴン・R．コヴィー,,,9784906638017,yes,yes,no,名著「７つの習慣」のエッセンスを解説します。,22,,その他,medium,sns,https://x.com/kazuyo_k/status/1235870029461127168,2020-03-06,,2026-11-28-pm3,7つの習慣,False
+勝間和代,p0098,kazuyo_k,麻雀麒麟児の一打,,,,,yes,no,no,麻雀麒麟児の一打も、ネマタ本２も愛読書なので,22,,座右の書,high,sns,https://x.com/kazuyo_k/status/566902425110740992,2015-02-15,,2026-11-28-pm3,,False
+勝間和代,p0098,kazuyo_k,僕の死に方,金子哲雄,,,,yes,no,no,私も今日、涙を流しました。,13,,最近読んだ,high,sns,https://x.com/kazuyo_k/status/279153155005087745,2012-12-13,,2026-11-28-pm3,,False
+家入一真,,hbkr,メンタルクリニックの社会学,,,,,no,no,no,精神医療を取り巻く社会の変化がわかってよかった。,24,,最近読んだ,high,sns,https://x.com/hbkr/status/1812875713038709044,2024-07-16,,2026-11-28-pm3,,False
+家入一真,,hbkr,子どもたちに民主主義を教えよう,工藤勇一,,,,no,no,no,名著なのでぜひ,7,,その他,high,sns,https://x.com/hbkr/status/1736633634810200536,2023-12-18,,2026-11-28-pm3,,False
+家入一真,,hbkr,東大教授が語り合う10の未来予測,,,,,no,no,no,対話形式で読みやすいのでぜひ,14,,最近読んだ,high,sns,https://x.com/hbkr/status/1736205087998177629,2023-12-17,,2026-11-28-pm3,,False
+家入一真,,hbkr,居るのはつらいよ,東畑開人,,,9784260038850,no,yes,no,の名著、居るつらがマンガに！,14,,その他,high,sns,https://x.com/hbkr/status/1660640739934576642,2023-05-22,,2026-11-28-pm3,居るのはつらいよ,False
+家入一真,,hbkr,宣告,加賀乙彦,,,9784101067148,no,yes,no,僕らと彼らを分け隔てる壁は無いと感じる,19,,最近読んだ,medium,sns,https://x.com/hbkr/status/1516112825974136833,2022-04-19,,2026-11-28-pm3,宣告 上,False
+家入一真,,hbkr,同志少女よ、敵を撃て,逢坂冬馬,,,9784152100641,no,yes,no,と併せて読みたい作品。,11,,最近読んだ,high,sns,https://x.com/hbkr/status/1513566626138161152,2022-04-12,,2026-11-28-pm3,同志少女よ、敵を撃て,False
+家入一真,,hbkr,戦争は女の顔をしていない,スヴェトラーナ・アレクシエーヴィチ,,,9784006032951,no,yes,no,と併せて読みたい作品。,11,,その他,medium,sns,https://x.com/hbkr/status/1513566626138161152,2022-04-12,,2026-11-28-pm3,戦争は女の顔をしていない,False
+家入一真,,hbkr,カトリックとプロテスタント―どのように違うか,,,,,no,no,no,良い本でした,6,,最近読んだ,high,sns,https://x.com/hbkr/status/1467003634118705155,2021-12-04,,2026-11-28-pm3,,False
+家入一真,,hbkr,家族と国家は共謀する,信田さよ子,,,,no,no,no,現在の状況や歴史的背景も学べました,17,,最近読んだ,medium,sns,https://x.com/hbkr/status/1383334170097684486,2021-04-17,,2026-11-28-pm3,,False
+家入一真,,hbkr,さよなら朝日,石川智也,,,,no,no,no,力作でした,5,,最近読んだ,high,sns,https://x.com/hbkr/status/1381752209528905732,2021-04-13,,2026-11-28-pm3,,False
+家入一真,,hbkr,まちづくり幻想,木下斉,,,,no,no,no,地域やコミュニティに関わる人全てにおすすめ,21,,最近読んだ,high,sns,https://x.com/hbkr/status/1375735338023276546,2021-03-27,,2026-11-28-pm3,,False
+家入一真,,hbkr,Au オードリー・タン 天才IT相7つの顔,,,,,no,no,no,学ぶことがたくさんあります。おすすめ,18,,最近読んだ,high,sns,https://x.com/hbkr/status/1357834213832073218,2021-02-06,,2026-11-28-pm3,,False
+家入一真,,hbkr,マネーマスターズ列伝―大投資家たちはこうして生まれた,,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/hbkr/status/1356426948885446656,2021-02-02,,2026-11-28-pm3,,False
+家入一真,,hbkr,ゲンロン戦記,東浩紀,,,,no,no,no,苦悩と葛藤を垣間見ることが出来て良かった,20,,最近読んだ,medium,sns,https://x.com/hbkr/status/1354924662547832834,2021-01-29,,2026-11-28-pm3,,False
+前田裕二,,UGMD,ストーリーとしての競争戦略,楠木建,,,9784492532706,no,yes,no,新卒証券会社時代からの愛読書の前田としては,21,,座右の書,high,sns,https://x.com/UGMD/status/972453988682510341,2018-03-10,,2026-11-28-pm3,ストーリーとしての競争戦略,False
+前田裕二,,UGMD,40歳が社長になる日,,,,,no,no,no,経営者必読です。,8,,その他,high,sns,https://x.com/UGMD/status/886380303769493504,2017-07-16,書名は引用された『40歳が社長になる日』の告知から確認。,2026-11-28-pm3,,False
+前田裕二,,UGMD,孫子の兵法,,,,,no,no,no,仰る通り愛読書ですー！,11,,座右の書,high,sns,https://x.com/UGMD/status/791599347624357889,2016-10-27,書名は引用元の「孫子の兵法」から確認。,2026-11-28-pm3,,False
+箕輪厚介,,minowanowa,バリ山行,松永Ｋ三蔵,,,9784065369609,no,yes,no,素晴らしい作品。,8,,最近読んだ,high,sns,https://x.com/minowanowa/status/2034163307901554878,2026-03-18,,2026-11-28-pm3,バリ山行,False
+箕輪厚介,,minowanowa,文学は何の役に立つのか？,平野啓一郎,,,,no,no,no,読み始めたけど死ぬほど面白い。,15,,最近読んだ,high,sns,https://x.com/minowanowa/status/1954374526256705950,2025-08-10,,2026-11-28-pm3,,False
+箕輪厚介,,minowanowa,格闘技が紅白に勝った日　２００３年大晦日興行戦争の記録,細田昌志,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/minowanowa/status/1896274135015473194,2025-03-03,,2026-11-28-pm3,,False
+箕輪厚介,,minowanowa,あたらしい生き方,ひろゆき,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/minowanowa/status/1807624397437710663,2024-07-01,,2026-11-28-pm3,,False
+箕輪厚介,,minowanowa,書くことの不純,角幡唯介,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/minowanowa/status/1792707936651038924,2024-05-21,,2026-11-28-pm3,,False
+箕輪厚介,,minowanowa,ジェームズ・クリアー式 複利で伸びる1つの習慣,ジェームズ・クリアー,,,,no,no,no,読み始めたけどタメになる。,13,,最近読んだ,medium,sns,https://x.com/minowanowa/status/1749270512646361526,2024-01-22,,2026-11-28-pm3,,False
+松井一郎,,gogoichiro,カエルの楽園,百田尚樹,,,,no,no,no,もずやんにも読んでもらい感想を聞きたいものです。,24,,最近読んだ,medium,sns,https://x.com/gogoichiro/status/704681195594870784,2016-03-01,,2026-11-28-pm3,,False
+有吉弘行,,ariyoshihiroiki,沢村忠に真空を飛ばせた男,,,,,no,no,no,面白かったです。,8,,最近読んだ,high,sns,https://x.com/ariyoshihiroiki/status/2113632541794349530,2026-10-23,,2026-11-28-pm3,,False
+有吉弘行,,ariyoshihiroiki,ブルージャイアント,石塚真一,,,,no,no,no,どっちも最高。,7,,最近読んだ,high,sns,https://x.com/ariyoshihiroiki/status/1210159990733885440,2019-12-26,,2026-11-28-pm3,,False
+有吉弘行,,ariyoshihiroiki,ブルーピリオド,山口つばさ,,,9784065105863,no,yes,no,どっちも最高。,7,,最近読んだ,high,sns,https://x.com/ariyoshihiroiki/status/1210159990733885440,2019-12-26,,2026-11-28-pm3,ブルーピリオド,False
+有吉弘行,,ariyoshihiroiki,天才 勝新太郎,,,,,no,no,no,『天才 勝新太郎』です,11,,その他,high,sns,https://x.com/ariyoshihiroiki/status/20114631274,2010-11-04,,2026-11-28-pm3,,False
+新海誠,,shinkaimakoto,恐怖コレクター,,,,,no,no,no,シリーズは娘の愛読書なんです。,15,,その他,medium,sns,https://x.com/shinkaimakoto/status/866656361941159936,2017-05-22,,2026-11-28-pm3,,False
+中室牧子,,makiko_nakamuro,決め方の経済学,坂井豊貴,,,,no,no,no,名著「決め方の経済学」から,13,,その他,high,sns,https://x.com/makiko_nakamuro/status/1444177922902790145,2021-10-02,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,女の本屋の物語,中西豊子,,,,no,no,no,中西豊子さんの名著『女の本屋の物語』,18,,その他,high,sns,https://x.com/ueno_wan/status/2102012550607143263,2026-09-21,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,新・日本の階級社会,橋本健二,,,,no,no,no,必読書。,4,,その他,high,sns,https://x.com/ueno_wan/status/1969561900011962427,2025-09-21,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,あなたはどこで死にたいですか？,小島美里,,,,no,no,no,介護現場からの声を伝えるこんな本が欲しかった。,23,,最近読んだ,high,sns,https://x.com/ueno_wan/status/1548640173537525761,2022-07-17,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,ぜんぶ運命だったんかい,笛美,,,9784750517049,no,yes,no,おもしろくて1晩で読了。,12,,最近読んだ,high,sns,https://x.com/ueno_wan/status/1421374941987950594,2021-07-31,,2026-11-28-pm3,ぜんぶ運命だったんかい,False
+上野千鶴子,,ueno_wan,「僕ら」の「女の子写真」からわたしたちのガーリーフォトへ,長島有里枝,,,,no,no,no,次回上野ゼミの必読文献。,12,,社員に薦めたい,medium,sns,https://x.com/ueno_wan/status/1321368518848172032,2020-10-28,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,部長、その恋愛はセクハラです！,牟田和恵,,,,no,no,no,おびただしい事例にもとづいた名著です。,19,,その他,high,sns,https://x.com/ueno_wan/status/941446901399826432,2017-12-15,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,職務格差,大槻奈巳,,,,no,no,no,全職場の人事担当者必読！の声が。,16,,その他,medium,sns,https://x.com/ueno_wan/status/724228460479021056,2016-04-24,,2026-11-28-pm3,,False
+上野千鶴子,,ueno_wan,女子をこじらせて,雨宮まみ,,,9784780801729,no,yes,no,超おもしろい！,7,,最近読んだ,high,sns,https://x.com/ueno_wan/status/367596525020401664,2013-08-14,,2026-11-28-pm3,女子をこじらせて,False
+高橋源一郎,,takagengen,なぜヒトだけが老いるのか,小林武彦,,,9784065326404,no,yes,no,ぼくの必読書の一つです。,12,,その他,high,sns,https://x.com/takagengen/status/2026922516162425315,2026-02-26,,2026-11-28-pm3,なぜヒトだけが老いるのか,False
+高橋源一郎,,takagengen,逝きし世の面影,渡辺京二,,,9784582765526,no,yes,no,永遠の名著『逝きし世の面影』を読みます。,20,,その他,high,sns,https://x.com/takagengen/status/1983797192734515628,2025-10-30,,2026-11-28-pm3,逝きし世の面影（552）,False
+高橋源一郎,,takagengen,こんな夜更けにバナナかよ,渡辺一史,,,,no,no,no,超特急名著。,6,,その他,high,sns,https://x.com/takagengen/status/1948290737952665927,2025-07-24,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,絶対音感,最相葉月,,,9784093792172,no,yes,no,音楽と創造の根源に挑んだ伝説の名著。,18,,その他,high,sns,https://x.com/takagengen/status/1930537006909812872,2025-06-05,,2026-11-28-pm3,絶対音感,False
+高橋源一郎,,takagengen,ありがとうもごめんなさいもいらない森の民と暮らして人類学者が考えたこと,奥野克己,,,,no,no,no,奥野克己さんの名著,9,,その他,high,sns,https://x.com/takagengen/status/1803695266945761325,2024-06-20,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,生きることのはじまり,金滿里,,,,no,no,no,伝説の名著遂に復刻です。,12,,その他,high,sns,https://x.com/takagengen/status/1801173383314645075,2024-06-13,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,新編　われわれはなぜ映画館にいるのか,小林信彦,,,,no,no,no,映画が文化の中心であった時代を代表する名著,21,,その他,high,sns,https://x.com/takagengen/status/1780875145856651419,2024-04-18,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,子どものための哲学対話,永井均,,,,no,no,no,永井均さんの名著,8,,その他,high,sns,https://x.com/takagengen/status/1752955867866259739,2024-02-01,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,教育再定義への試み,鶴見俊輔,,,,no,no,no,永遠に忘れてはならない名著だと思っています。,22,,その他,high,sns,https://x.com/takagengen/status/1727589962206597211,2023-11-23,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,文にあたる,牟田都子,,,,no,no,no,「校正」の秘密に迫った名著『文にあたる』,20,,その他,high,sns,https://x.com/takagengen/status/1666771071725621249,2023-06-08,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,ジャンパーを着て四十年,今和次郎,,,,no,no,no,伝説の名著『ジャンパーを着て四十年』,18,,その他,high,sns,https://x.com/takagengen/status/1588066196460474368,2022-11-03,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,一下級将校の見た帝国陸軍,山本七平,,,9784167306052,no,yes,no,いま読んでも卓見にびっくり。,14,,その他,high,sns,https://x.com/takagengen/status/1565260152717996032,2022-09-01,,2026-11-28-pm3,一下級将校の見た帝国陸軍,False
+高橋源一郎,,takagengen,うしろめたさの人類学,松村圭一郎,,,,no,no,no,松村圭一郎さんの名著,10,,その他,high,sns,https://x.com/takagengen/status/1552563003513802753,2022-07-28,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,砂の女,安部公房,,,9784101121154,no,yes,no,世界文学の傑作『砂の女』を読みます。,18,,その他,high,sns,https://x.com/takagengen/status/1532278414043799552,2022-06-02,,2026-11-28-pm3,砂の女,False
+高橋源一郎,,takagengen,戦争プロパガンダ10の法則,,,,,no,no,no,を探求した名著『戦争プロパガンダ10の法則』,22,,その他,high,sns,https://x.com/takagengen/status/1512005503391453192,2022-04-07,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,人間晩年図鑑　1995-99年,関川夏央,,,,no,no,no,その中に凝縮されたドラマが圧巻の名著。,19,,その他,high,sns,https://x.com/takagengen/status/1473920686196506625,2021-12-23,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,声をなくして,永沢光雄,,,,no,no,no,ぼくの愛読書の一つです。,12,,座右の書,high,sns,https://x.com/takagengen/status/1342227190872592386,2020-12-25,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,「他者」の起源,トニ・モリスン,,,,no,no,no,避けて通れない名著だと思います。,16,,その他,high,sns,https://x.com/takagengen/status/1283736468347731971,2020-07-16,,2026-11-28-pm3,,False
+高橋源一郎,,takagengen,夢を食いつづけた男,植木等,,,,no,no,no,父親について記した名著,11,,その他,high,sns,https://x.com/takagengen/status/1278777266680422400,2020-07-03,,2026-11-28-pm3,,False
+澤円,p0842,madoka510,クラクションを鳴らせ！,,,,,yes,no,no,これは必読の書です。,10,,その他,high,sns,https://x.com/madoka510/status/1927507305244905843,2025-05-28,書名は引用ツイートの『クラクションを鳴らせ！』から確認。,2026-11-28-pm3,,False
+澤円,p0842,madoka510,学びの引き出し術,,,,,yes,no,no,これは素晴らしい！分かりやすい！,16,,最近読んだ,high,sns,https://x.com/madoka510/status/1705864672619168186,2023-09-24,,2026-11-28-pm3,,False
+澤円,p0842,madoka510,マネジメント,ピーター・ドラッカー,,,9784478410233,yes,yes,yes,ほんとこれ名著。,8,,その他,high,sns,https://x.com/madoka510/status/1425993454450970628,2021-08-13,,2026-11-28-pm3,マネジメント,False
+澤円,p0842,madoka510,共感SNS,ゆうこす,,,,yes,no,no,サラリーマンは必ず読んだ方がいい。,17,,最近読んだ,high,sns,https://x.com/madoka510/status/1163008099835211776,2019-08-18,,2026-11-28-pm3,,False
+澤円,p0842,madoka510,自分を好きになりたい。 自己肯定感を上げるためにやってみたこと,,,,,yes,no,no,聖書レベルですよ。,9,,その他,high,sns,https://x.com/madoka510/status/1092794792923275265,2019-02-05,書名は引用ツイートから確認。,2026-11-28-pm3,,False
+澤円,p0842,madoka510,やめてみた。,,,,,yes,no,no,心が解放されます！,9,,その他,high,sns,https://x.com/madoka510/status/1092794608273313799,2019-02-05,書名は引用ツイートの『やめてみた。』から確認。,2026-11-28-pm3,,False
+伊集院光,,HikaruIjuin,とんかつ屋のたまちゃん,安藤玉恵,,,,no,no,no,ほんとにいい本だった。,11,,最近読んだ,high,sns,https://x.com/HikaruIjuin/status/1944317698902728887,2025-07-13,,2026-11-28-pm3,,False
+伊集院光,,HikaruIjuin,野球の子,,,,,no,no,no,まだ途中だけど本当にいいよ。,14,,最近読んだ,high,sns,https://x.com/HikaruIjuin/status/1691269663756607488,2023-08-15,,2026-11-28-pm3,,False
+三浦瑠麗,p1285,lullymiura,賭博者,ドストエフスキー,,,,yes,no,no,おすすめの本です。,9,,その他,high,sns,https://x.com/lullymiura/status/1781074180106281461,2024-04-19,書名は返信先のドストエフスキー『賭博者』から確認。,2026-11-28-pm3,,False
+三浦瑠麗,p1285,lullymiura,検証 日本の「失われた20年」日本はなぜ停滞から抜け出せなかったのか,船橋洋一,,,,yes,no,no,ほんとに必読。,7,,その他,high,sns,https://x.com/lullymiura/status/613572674376241152,2015-06-24,,2026-11-28-pm3,,False
+田村淳,,atsushiTSK,鬼滅の刃,吾峠呼世晴,,,9784088807232,no,yes,no,面白かった！,6,,最近読んだ,high,sns,https://x.com/atsushiTSK/status/1207851975074664448,2019-12-20,,2026-11-28-pm3,鬼滅の刃,False
+田村淳,,atsushiTSK,下町ロケット,池井戸潤,,,,no,no,no,今はこの本をオススメしています,15,,その他,high,sns,https://x.com/atsushiTSK/status/134664108430729217,2011-11-11,,2026-11-28-pm3,,False
+田村淳,,atsushiTSK,昭和16年夏の敗戦,猪瀬直樹,,,9784122068926,no,yes,no,昭和１６年夏の敗戦だった♪,13,,最近読んだ,high,sns,https://x.com/atsushiTSK/status/20526475769,2010-11-04,,2026-11-28-pm3,昭和16年夏の敗戦,False
+中島岳志,p1415,nakajima1975,出口なお,安丸良夫,,,,yes,no,no,安丸良夫『出口なお』という名著を,16,,その他,high,sns,https://x.com/nakajima1975/status/2120163616930594966,2026-11-10,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,従属の代償　日米軍事一体化の真実,布施祐仁,,,,yes,no,no,必読の書だと思います。,11,,その他,high,sns,https://x.com/nakajima1975/status/1844992088443846794,2024-10-12,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,コロナ禍と出会い直す,磯野真穂,,,,yes,no,no,この本は名著です。,9,,その他,high,sns,https://x.com/nakajima1975/status/1805959883348738230,2024-06-26,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,生命の谺　川端康成と「特攻」,多胡吉郎,,,,yes,no,no,名著ですので、おすすめです！,14,,その他,high,sns,https://x.com/nakajima1975/status/1623104867710668800,2023-02-08,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,シンクロと自由,村瀨孝生,,,,yes,no,no,最高の一冊でした。,9,,最近読んだ,high,sns,https://x.com/nakajima1975/status/1568389567220416512,2022-09-10,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,ぼけと利他,村瀨孝生,,,,yes,no,no,度肝を抜く名著になると思います。,16,,その他,medium,sns,https://x.com/nakajima1975/status/1557379202944737281,2022-08-10,書名は引用ツイートの『ぼけと利他』から確認。,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,ボランティアは親鸞の教えに反するのか,木越康,,,,yes,no,no,『ボランティア・・・』は名著で,15,,その他,high,sns,https://x.com/nakajima1975/status/1471255921250947076,2021-12-16,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,あいだ,木村敏,,,,yes,no,no,名著です。,5,,その他,high,sns,https://x.com/nakajima1975/status/1423798704071315461,2021-08-07,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,植物忌,星野智幸,,,,yes,no,no,とも響きあう名著です。,11,,その他,high,sns,https://x.com/nakajima1975/status/1404394122220236803,2021-06-14,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,他者と死者,内田樹,,,,yes,no,no,内田さんの名著『他者と死者』,14,,その他,high,sns,https://x.com/nakajima1975/status/1342066537054707713,2020-12-24,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,安倍・菅政権ＶＳ検察庁　暗闘のクロニクル,村山治,,,,yes,no,no,いま必読の一冊です。,10,,その他,high,sns,https://x.com/nakajima1975/status/1335012949052690432,2020-12-05,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,歴史の散歩道,後藤仁郎,,,,yes,no,no,私の小学校高学年の愛読書は,13,,座右の書,high,sns,https://x.com/nakajima1975/status/1317467943278501890,2020-10-17,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,無敗の男 中村喜四郎 全告白,,,,,yes,no,no,「今月の必読書」,8,,その他,high,sns,https://x.com/nakajima1975/status/1238732757863301121,2020-03-14,,2026-11-28-pm3,,False
+中島岳志,p1415,nakajima1975,この国の不寛容の果てに　相模原事件と私たちの時代,,,,,yes,no,no,「今月の必読書」,8,,その他,high,sns,https://x.com/nakajima1975/status/1192432207530352642,2019-11-07,,2026-11-28-pm3,,False
+橘玲,,ak_tch,特捜取調室：『国家の罠』20年目の再対決,,,,,no,no,no,面白かった。,6,,最近読んだ,high,sns,https://x.com/ak_tch/status/2054764313437786309,2026-05-14,,2026-11-28-pm3,,False
+橘玲,,ak_tch,ナルコトピア,,,,,no,no,no,面白いノンフィクションを探している方にお勧めです。,25,,最近読んだ,high,sns,https://x.com/ak_tch/status/2045125617511985496,2026-04-17,,2026-11-28-pm3,,False
+橘玲,,ak_tch,こころは遺伝する　DNAはいかに〈わたし〉を形づくるか,ロバート・プロミン,,,,no,no,no,行動遺伝学の世界的権威による名著,16,,その他,high,sns,https://x.com/ak_tch/status/2037099950979551284,2026-03-26,,2026-11-28-pm3,,False
+橘玲,,ak_tch,サム・アルトマン　「生成AI」で世界を手にした起業家の野望,,,,,no,no,no,よくわかって面白かった。,12,,最近読んだ,high,sns,https://x.com/ak_tch/status/1995063613493760489,2025-11-30,,2026-11-28-pm3,,False
+橘玲,,ak_tch,考察する若者たち,三宅香帆,,,,no,no,no,それでも面白かった。,10,,最近読んだ,high,sns,https://x.com/ak_tch/status/1994263927513850175,2025-11-28,,2026-11-28-pm3,,False
+橘玲,,ak_tch,たとえば「自由」はリバティか　西洋の基礎概念とその翻訳語をめぐる6つの講義,,,,,no,no,no,とても面白かった。,9,,最近読んだ,high,sns,https://x.com/ak_tch/status/1992863759313047781,2025-11-24,,2026-11-28-pm3,,False
+橘玲,,ak_tch,歌舞伎町に沼る若者たち　搾取と依存の構造,佐々木チワワ,,,,no,no,no,知らない世界の話で面白かった。,15,,最近読んだ,high,sns,https://x.com/ak_tch/status/1895432584894759101,2025-02-28,,2026-11-28-pm3,,False
+橘玲,,ak_tch,世界から青い鳥が消えた日,,,,,no,no,no,文句なく面白い。,8,,最近読んだ,high,sns,https://x.com/ak_tch/status/1872511701830230048,2024-12-27,,2026-11-28-pm3,,False
+橘玲,,ak_tch,イーサリアム創世記,,,,,no,no,no,ものすごく面白いでしょう。,13,,最近読んだ,high,sns,https://x.com/ak_tch/status/1871105183255790055,2024-12-23,,2026-11-28-pm3,,False
+橘玲,,ak_tch,「“右翼”雑誌」の舞台裏,,,,,no,no,no,読んでみたら面白かった。,12,,最近読んだ,high,sns,https://x.com/ak_tch/status/1865279690321334636,2024-12-07,,2026-11-28-pm3,,False
+橘玲,,ak_tch,遺伝と平等：人生の成り行きは変えられる,,,,,no,no,no,人間と社会を語るうえでの必読書です。,18,,その他,high,sns,https://x.com/ak_tch/status/1724959232729186741,2023-11-16,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,ミュージアムを深める100のことば,大澤夏美,,,,no,no,no,今年の夏のおすすめ図書はこちら！！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/2084627869033205830,2026-08-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,家族八景,筒井康隆,,,9784101171012,no,yes,no,今年の夏のおすすめ図書はこちら！！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/2084627869033205830,2026-08-04,,2026-11-28-pm3,家族八景,False
+儒烏風亭らでん,,juufuuteiraden,ゴッホのあしあと,原田マハ,,,,no,no,no,今年の夏のおすすめ図書はこちら！！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/2084627869033205830,2026-08-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,彼女がエスパーだったころ,宮内悠介,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1977396356080927072,2025-10-13,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,ブロードキャスト,湊かなえ,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1977396356080927072,2025-10-13,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,カラー新書　入門　日本美術史,山本陽子,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1977396356080927072,2025-10-13,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,増補　股間若衆　――男性像における曖昧模っ糊りの研究,木下直之,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1977396356080927072,2025-10-13,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,ゴッホ　麦畑の秘密,吉屋敬,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1963112816988270831,2025-09-03,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,ドキュメント,湊かなえ,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1963112816988270831,2025-09-03,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,学芸員が教える 日本美術が楽しくなる話,ちいさな美術館の学芸員,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1963112816988270831,2025-09-03,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,にぎやかな未来,筒井康隆,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1941842603990986896,2025-07-06,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,ノックバック,糸魚川鋼二,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1941842603990986896,2025-07-06,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,国宝 (上) 青春篇,吉田修一,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1941842603990986896,2025-07-06,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,国宝 (下) 花道篇,吉田修一,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1941842603990986896,2025-07-06,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,敵,筒井康隆,,,,no,no,no,毎月3冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1920794697011728851,2025-05-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,もののけの日本史-死霊、幽霊、妖怪の1000年,小山聡子,,,,no,no,no,毎月3冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1920794697011728851,2025-05-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,羊と鋼の森,宮下奈都,,,9784167910105,no,yes,no,毎月3冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1920794697011728851,2025-05-09,,2026-11-28-pm3,羊と鋼の森,False
+儒烏風亭らでん,,juufuuteiraden,記号論への招待,池上嘉彦,,,,no,no,no,新年度を記念して大入門スペシャルです👀✨,20,,その他,high,sns,https://x.com/juufuuteiraden/status/1909644241166381330,2025-04-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,西洋美術史入門　実践編,池上英洋,,,,no,no,no,新年度を記念して大入門スペシャルです👀✨,20,,その他,high,sns,https://x.com/juufuuteiraden/status/1909644241166381330,2025-04-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,民俗学入門,菊地暁,,,,no,no,no,新年度を記念して大入門スペシャルです👀✨,20,,その他,high,sns,https://x.com/juufuuteiraden/status/1909644241166381330,2025-04-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,"風神雷神 Juppiter,Aeolus（下）",原田マハ,,,,no,no,no,毎月3冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1896865735940682031,2025-03-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,パプリカ,筒井康隆,,,9784122028326,no,yes,no,毎月3冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1896865735940682031,2025-03-04,,2026-11-28-pm3,パプリカ,False
+儒烏風亭らでん,,juufuuteiraden,パリでメシを食う。,川内有緒,,,,no,no,no,毎月3冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1896865735940682031,2025-03-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,透明な夜の香り,千早茜,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1868297494784094682,2024-12-15,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,扉の向う側,ヤマザキマリ,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1868297494784094682,2024-12-15,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,メタバース進化論―仮想現実の荒野に芽吹く「解放」と「創造」の新世界,バーチャル美少女ねむ,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1868297494784094682,2024-12-15,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,学芸員しか知らない 美術館が楽しくなる話,ちいさな美術館の学芸員,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1853006410302488888,2024-11-03,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,埴輪　古代の証言者たち,若狭徹,,,,no,no,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1853006410302488888,2024-11-03,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,箱男,安部公房,,,9784101121161,no,yes,no,毎月3冊推薦図書を紹介しています！,17,,その他,high,sns,https://x.com/juufuuteiraden/status/1853006410302488888,2024-11-03,,2026-11-28-pm3,箱男,False
+儒烏風亭らでん,,juufuuteiraden,VTuber学,岡本健、山野弘樹、吉川慧ほか,,,,no,no,no,毎月3冊推薦図書を紹介し、みんなで感想を共有する企画です。,29,,その他,high,sns,https://x.com/juufuuteiraden/status/1832438740272496890,2024-09-08,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,日本の動物絵画史,金子信久,,,,no,no,no,毎月3冊推薦図書を紹介し、みんなで感想を共有する企画です。,29,,その他,high,sns,https://x.com/juufuuteiraden/status/1832438740272496890,2024-09-08,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,夜行,森見登美彦,,,9784094067033,no,yes,no,毎月3冊推薦図書を紹介し、みんなで感想を共有する企画です。,29,,その他,high,sns,https://x.com/juufuuteiraden/status/1832438740272496890,2024-09-08,,2026-11-28-pm3,夜行,False
+儒烏風亭らでん,,juufuuteiraden,キャラがリアルになるとき　2次元、2.5次元、そのさきのキャラクター論,岩下朋世,,,,no,no,no,毎月三冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1821914224425365554,2024-08-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,落語速記はいかに文学を変えたか,櫻庭由紀子,,,,no,no,no,毎月三冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1821914224425365554,2024-08-09,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,1984,ジョージ・オーウェル,一九八四年（新訳版）,,9784151200533,no,yes,no,毎月三冊推薦図書を紹介、みんなで感想を共有しよう！,25,,その他,high,sns,https://x.com/juufuuteiraden/status/1821914224425365554,2024-08-09,,2026-11-28-pm3,一九八四年（新訳版）,False
+儒烏風亭らでん,,juufuuteiraden,コンビニ人間,村田沙耶香,,,9784167911300,no,yes,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1809539289342177479,2024-07-06,,2026-11-28-pm3,コンビニ人間,False
+儒烏風亭らでん,,juufuuteiraden,大相撲殺人事件,小森健太郎,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1809539289342177479,2024-07-06,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,生き延びるために芸術は必要か,森村泰昌,,,,no,no,no,推薦図書はこちらでん！,11,,その他,high,sns,https://x.com/juufuuteiraden/status/1809539289342177479,2024-07-06,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,母性,湊かなえ,,,,no,no,no,毎月三冊推薦図書を紹介し、みんなで感想を共有しよう！,26,,その他,high,sns,https://x.com/juufuuteiraden/status/1802264750870413736,2024-06-16,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,美少女美術史,池上英洋,,,,no,no,no,毎月三冊推薦図書を紹介し、みんなで感想を共有しよう！,26,,その他,high,sns,https://x.com/juufuuteiraden/status/1802264750870413736,2024-06-16,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,新写真論　スマホと顔,大山顕,,,,no,no,no,毎月三冊推薦図書を紹介し、みんなで感想を共有しよう！,26,,その他,high,sns,https://x.com/juufuuteiraden/status/1802264750870413736,2024-06-16,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,カーテンコール,筒井康隆,,,,no,no,no,毎月3冊推薦図書を紹介します！,15,,その他,high,sns,https://x.com/juufuuteiraden/status/1789275536277270933,2024-05-11,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,四畳半神話大系,森見登美彦,,,9784043878017,no,yes,no,毎月3冊推薦図書を紹介します！,15,,その他,high,sns,https://x.com/juufuuteiraden/status/1789275536277270933,2024-05-11,,2026-11-28-pm3,四畳半神話大系,False
+儒烏風亭らでん,,juufuuteiraden,モネのあしあと,原田マハ,,,,no,no,no,毎月3冊推薦図書を紹介します！,15,,その他,high,sns,https://x.com/juufuuteiraden/status/1789275536277270933,2024-05-11,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,VTuberの哲学,山野弘樹,,,,no,no,no,毎月3冊推薦図書を紹介し、みんなで感想を共有する企画です。,29,,その他,high,sns,https://x.com/juufuuteiraden/status/1775847185168617945,2024-04-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,しゃべれどもしゃべれども,佐藤多佳子,,,,no,no,no,毎月3冊推薦図書を紹介し、みんなで感想を共有する企画です。,29,,その他,high,sns,https://x.com/juufuuteiraden/status/1775847185168617945,2024-04-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,透き漆 一人静,佐藤幸,,,,no,no,no,毎月3冊推薦図書を紹介し、みんなで感想を共有する企画です。,29,,その他,high,sns,https://x.com/juufuuteiraden/status/1775847185168617945,2024-04-04,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,星影のステラ,林真理子,,,,no,no,no,今月は「読みやすさ」重視で選びました✨📚✨,21,,その他,high,sns,https://x.com/juufuuteiraden/status/1763549695681708119,2024-03-01,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,今日も寄席に行きたくなって,南沢奈央・黒田硫黄,,,,no,no,no,今月は「読みやすさ」重視で選びました✨📚✨,21,,その他,high,sns,https://x.com/juufuuteiraden/status/1763549695681708119,2024-03-01,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,はじめから国宝、なんてないのだ。感性をひらいて日本美術を鑑賞する,小林泰三,,,,no,no,no,今月は「読みやすさ」重視で選びました✨📚✨,21,,その他,high,sns,https://x.com/juufuuteiraden/status/1763549695681708119,2024-03-01,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,たゆたえども沈まず,原田マハ,,,,no,no,no,1月推薦図書📚,7,,その他,high,sns,https://x.com/juufuuteiraden/status/1743871524879368287,2024-01-07,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,写真のなかの「わたし」ポートレイトの歴史を読む,鳥原学,,,,no,no,no,1月推薦図書📚,7,,その他,high,sns,https://x.com/juufuuteiraden/status/1743871524879368287,2024-01-07,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,確かなリスの不確かさ 動物哲学物語,ドリアン助川,,,,no,no,no,1月推薦図書📚,7,,その他,high,sns,https://x.com/juufuuteiraden/status/1743871524879368287,2024-01-07,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,夜は短し歩けよ乙女,森見登美彦,,,9784043878024,no,yes,no,12月の推薦図書はこちら！,13,,その他,high,sns,https://x.com/juufuuteiraden/status/1729887263109333133,2023-11-30,,2026-11-28-pm3,夜は短し歩けよ乙女,False
+儒烏風亭らでん,,juufuuteiraden,推し、燃ゆ,宇佐見りん,,,9784309419787,no,yes,no,12月の推薦図書はこちら！,13,,その他,high,sns,https://x.com/juufuuteiraden/status/1729887263109333133,2023-11-30,,2026-11-28-pm3,推し、燃ゆ,False
+儒烏風亭らでん,,juufuuteiraden,自画像のゆくえ,,,,,no,no,no,12月の推薦図書はこちら！,13,,その他,high,sns,https://x.com/juufuuteiraden/status/1729887263109333133,2023-11-30,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,はじめての,,,,,no,no,no,今月の推薦図書はこちら！,12,,その他,high,sns,https://x.com/juufuuteiraden/status/1719659403807527241,2023-11-01,,2026-11-28-pm3,,False
+儒烏風亭らでん,,juufuuteiraden,目の見えない白鳥さんとアートを見に行く,,目の見えない白鳥さんとアートを見にいく,,9784797673999,no,yes,no,今月の推薦図書はこちら！,12,,その他,high,sns,https://x.com/juufuuteiraden/status/1719659403807527241,2023-11-01,,2026-11-28-pm3,目の見えない白鳥さんとアートを見にいく,False
+儒烏風亭らでん,,juufuuteiraden,土偶を読むを読む,,,,,no,no,no,今月の推薦図書はこちら！,12,,その他,high,sns,https://x.com/juufuuteiraden/status/1719659403807527241,2023-11-01,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,義理と人情の経済学,山村英司,,,,no,no,no,とにかく大学生必読とおもう,13,,その他,high,sns,https://x.com/iida_yasuyuki/status/1981682655965163616,2025-10-24,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,２０３０―２０４０年日本の土地と住宅,野澤千絵,,,,no,no,no,これは必読．,6,,その他,high,sns,https://x.com/iida_yasuyuki/status/1871454664732168697,2024-12-24,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,サンプルサイズの決め方,,,,,no,no,no,名著だとおもう,7,,その他,high,sns,https://x.com/iida_yasuyuki/status/1787317394203091376,2024-05-06,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,構造と力,浅田彰,,,9784326151288,no,yes,no,論理が「入ってくる」感覚があって好きだった記憶が,24,,その他,medium,sns,https://x.com/iida_yasuyuki/status/1737965244847427833,2023-12-22,,2026-11-28-pm3,構造と力,False
+飯田泰之,,iida_yasuyuki,長篠,,,,,no,no,no,新書も『長篠』に『冷戦』とか必読だし,18,,その他,high,sns,https://x.com/iida_yasuyuki/status/1737965244847427833,2023-12-22,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,冷戦,,,,,no,no,no,新書も『長篠』に『冷戦』とか必読だし,18,,その他,high,sns,https://x.com/iida_yasuyuki/status/1737965244847427833,2023-12-22,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,蹴れ、彦五郎,今村翔吾,,,,no,no,no,ファン必読の初期短編集．,12,,その他,high,sns,https://x.com/iida_yasuyuki/status/1560579181855256576,2022-08-19,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,イクサガミ　天,今村翔吾,,,,no,no,no,絶対に面白いとわかっているシリーズなだけに,21,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/1494299307545362437,2022-02-17,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,塞王の楯,今村翔吾,,,9784087717310,no,yes,no,全今村翔吾作品が詰まった作品,14,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/1454642780844617731,2021-10-31,,2026-11-28-pm3,塞王の楯,False
+飯田泰之,,iida_yasuyuki,ヘリコプターマネー,,,,,no,no,no,これは必読だわ。。。,10,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/803820489152098304,2016-11-30,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,ネット炎上の研究,,,,9784326504220,no,yes,no,ネットで議論をしようという人は必読の書．,20,,その他,high,sns,https://x.com/iida_yasuyuki/status/726374940883062784,2016-04-30,,2026-11-28-pm3,ネット炎上の研究,False
+飯田泰之,,iida_yasuyuki,仕事と家族 - 日本はなぜ働きづらく、産みにくいのか,筒井淳也,,,,no,no,no,超良書．,4,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/603126428419248128,2015-05-26,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,「できる人」という幻想,,,,,no,no,no,呼んでいて納得感があります．,14,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/463490579930681344,2014-05-06,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,貧乏人の経済学,,,,9784622076513,no,yes,no,すごく感覚があう！,9,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/200242234900226048,2012-05-10,,2026-11-28-pm3,貧乏人の経済学,False
+飯田泰之,,iida_yasuyuki,一般意志2.0,,,,,no,no,no,僕にも最後まで読める良書．,13,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/143971009777774592,2011-12-06,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,量子力学の哲学,森田邦久,,,9784062881227,no,yes,no,スタンスが論理的でストンと理解できた！,19,,最近読んだ,medium,sns,https://x.com/iida_yasuyuki/status/147953420899323905,2011-12-17,,2026-11-28-pm3,量子力学の哲学ーー非実在性・非局所性・粒子と波の二重性,False
+飯田泰之,,iida_yasuyuki,龍樹,並川孝儀,,,,no,no,no,同シリーズの『龍樹』も面白かったので,18,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/3386139092193280,2010-11-13,,2026-11-28-pm3,,False
+飯田泰之,,iida_yasuyuki,「ゼロリスク社会」の罠,佐藤健太郎,,,,no,no,no,超良書だと思う．,8,,最近読んだ,high,sns,https://x.com/iida_yasuyuki/status/250641369079640065,2012-09-26,,2026-11-28-pm3,,False
+竹中平蔵,,HeizoTakenaka,官僚が使う「悪徳商法」の説得術,原英史・真柄昭宏,,,,no,no,no,民間人には必読だ。,9,,その他,high,sns,https://x.com/HeizoTakenaka/status/325758128853491712,2013-04-21,,2026-11-28-pm3,,False
+須藤元気,p1406,genki_sudo,財政破綻論の誤り,朴勝俊,,,,yes,no,no,反緊縮派は必読です。,10,,最近読んだ,high,sns,https://x.com/genki_sudo/status/1282598296049967109,2020-07-13,,2026-11-28-pm3,,False
+石丸伸二,p1327,shinji_ishimaru,おいしい地方議員,伊藤大輔,,,,yes,no,no,示唆に富む一冊でした。,11,,最近読んだ,high,sns,https://x.com/shinji_ishimaru/status/1505893853974654976,2022-03-21,,2026-11-28-pm3,,False
+村上隆,,takashipom,もしも利休があなたを招いたら,千宗屋,,,,no,no,no,かなりの名著っす。,9,,その他,high,sns,https://x.com/takashipom/status/68787757459308544,2011-05-13,,2026-11-28-pm3,,False
+イーロン・マスク,,elonmusk,The Parasitic Mind,Gad Saad,,,,no,no,no,Great book,10,著者サード本人の同書紹介投稿を引用して称賛。,その他,high,sns,https://x.com/elonmusk/status/1744601668996448412,2024-01-09,,2026-11-28,,False
+イーロン・マスク,,elonmusk,Suicidal Empathy,Gad Saad,,,,no,no,no,Everyone should read Gad’s books,32,サードの新刊『Suicidal Empathy』告知を引用し「皆読むべき」。,その他,high,sns,https://x.com/elonmusk/status/1961906163806589274,2025-08-30,,2026-11-28,,False
+イーロン・マスク,,elonmusk,The Culture series,Iain M. Banks,カルチャー・シリーズ,,,no,no,no,best envisioning of AI I’ve ever read,37,Banksの「Culture」シリーズをAI像として最高と評価（シリーズ）。,その他,high,sns,https://x.com/elonmusk/status/1865934495880294792,2024-12-09,,2026-11-28,,False
+イーロン・マスク,,elonmusk,The Player of Games,Iain M. Banks,ゲーム・プレイヤー,,,no,no,no,Player of Games is a great book,31,『ゲーム・プレイヤー』を素晴らしい本と評価。,その他,high,sns,https://x.com/elonmusk/status/1854075922183278763,2024-11-06,,2026-11-28,,False
+イーロン・マスク,,elonmusk,Foundation,Isaac Asimov,ファウンデーション,,9784150105556,no,yes,no,Read Asimov’s Foundation books,30,アシモフのファウンデーション・シリーズを読めと推薦。,その他,high,sns,https://x.com/elonmusk/status/1842202657160646841,2024-10-04,,2026-11-28,ファウンデーション,False
+イーロン・マスク,,elonmusk,The Moon Is a Harsh Mistress,Robert A. Heinlein,月は無慈悲な夜の女王,,9784150117481,no,yes,no,Moon is a Harsh Mistress,24,おすすめSFリストへの追加提案として挙げた。,その他,high,sns,https://x.com/elonmusk/status/1783773035646128238,2024-04-26,,2026-11-28,月は無慈悲な夜の女王,False
+イーロン・マスク,,elonmusk,Stranger in a Strange Land,Robert A. Heinlein,異星の客,,,no,no,no,first 2/3 of Stranger in a Strange Land,39,同じ提案リストで「前半2/3」を推薦。,その他,medium,sns,https://x.com/elonmusk/status/1783773035646128238,2024-04-26,,2026-11-28,,False
+イーロン・マスク,,elonmusk,The Age of Napoleon,"Will Durant, Ariel Durant",,,,no,no,no,Highly recommend “The Age of Napoleon”,38,映画ナポレオンの話題に返信し強く推薦。,その他,high,sns,https://x.com/elonmusk/status/1750167416632721456,2024-01-24,,2026-11-28,,False
+イーロン・マスク,,elonmusk,1493,Charles C. Mann,1493——世界を変えた大陸間の「交換」,,,no,no,no,Worth reading the book 1493,27,「読む価値あり」と推薦。邦題は要確認。,その他,high,sns,https://x.com/elonmusk/status/1911532025233723740,2025-04-13,,2026-11-28,,False
+イーロン・マスク,,elonmusk,Neuromancer,William Gibson,ニューロマンサー,,,no,no,no,The novel is amazing.,21,AppleTVのドラマ化告知への返信で原作小説を絶賛。,その他,high,sns,https://x.com/elonmusk/status/2081176203050848413,2026-07-26,,2026-11-28,,False
+イーロン・マスク,,elonmusk,Red Rising,Pierce Brown,レッド・ライジング,,,no,no,no,Great book and series.,22,Red Risingを挙げた投稿への返信。,その他,medium,sns,https://x.com/elonmusk/status/1873164495331442991,2024-12-29,,2026-11-28,,False
+イーロン・マスク,,elonmusk,Parallel Lives (Plutarch's Lives),Plutarch,プルターク英雄伝,,,no,no,no,Great book,10,Joe LonsdaleのPlutarch's Lives序文の投稿への返信。,その他,medium,sns,https://x.com/elonmusk/status/1858025784616653079,2024-11-17,,2026-11-28,,False
+イーロン・マスク,,elonmusk,The Lord of the Rings,J. R. R. Tolkien,指輪物語,,9784566020566,no,yes,no,And read the books,18,LotR映画を薦める投稿を引用し「原作も読め」。,その他,medium,sns,https://x.com/elonmusk/status/1949597682311500065,2025-07-27,,2026-11-28,指輪物語,False
+イーロン・マスク,,elonmusk,Lies My Liberal Teacher Told Me,Wilfred Reilly,,,,no,no,no,Worth reading Lies My Liberal Teacher,37,書名を明記して「読む価値あり」。,その他,high,sns,https://x.com/elonmusk/status/1843221235339280517,2024-10-07,,2026-11-28,,False
+イーロン・マスク,,elonmusk,Stalin: The Court of the Red Tsar,Simon Sebag Montefiore,スターリン 赤い皇帝と廷臣たち,,9784560080450,no,yes,no,It’s scarier than a @StephenKing novel!,39,「読んだ？」と勧める文脈。,その他,medium,sns,https://x.com/elonmusk/status/1796716396891488404,2024-06-01,,2026-11-28,スターリン（上）,False
+イーロン・マスク,,elonmusk,The Technological Republic,"Alexander C. Karp, Nicholas W. Zamiska",,,,no,no,no,Interesting book,16,NYTベストセラー入りの投稿を引用。軽い評価。,その他,low,sns,https://x.com/elonmusk/status/1895625463164440856,2025-03-01,,2026-11-28,,False
+米津玄師,p1665,hachi_08,スノードーム,アレックス・シアラー,スノードーム,,,yes,no,no,アレックス・シアラーの「スノードーム」オススメです。,26,「お勧めの本は？」という質問への回答。,その他,high,sns,https://x.com/hachi_08/status/439493106007019520,2014-02-28,,2026-11-28,,False
+米津玄師,p1665,hachi_08,よつばと!,あずまきよひこ,よつばと!,,,yes,no,no,色々ありますが強いて挙げるなら「よつばと」です。,24,「好きな漫画は？」への回答。,その他,high,sns,https://x.com/hachi_08/status/439481396151611392,2014-02-28,,2026-11-28,,False
+米津玄師,p1665,hachi_08,3月のライオン,羽海野チカ,3月のライオン,,9784592145110,yes,yes,no,真摯で美しい漫画だと思います。,15,投稿内に書名はなく「零くん」等から3月のライオンと判断。,その他,medium,sns,https://x.com/hachi_08/status/817660616718487552,2017-01-07,,2026-11-28,3月のライオン,False
+米津玄師,p1665,hachi_08,ヒカルの碁,"ほったゆみ, 小畑健",ヒカルの碁,,9784088727172,yes,yes,yes,何度読んでも面白い。,10,再読して評価。,その他,high,sns,https://x.com/hachi_08/status/709036670033616900,2016-03-13,,2026-11-28,ヒカルの碁,False
+米津玄師,p1665,hachi_08,NARUTO -ナルト-,岸本斉史,NARUTO -ナルト-,,9784088728407,yes,yes,yes,NARUTOには多大な影響を受けました,19,連載終了時の投稿。,人生を変えた一冊,high,sns,https://x.com/hachi_08/status/532792451262459905,2014-11-13,,2026-11-28,NARUTO-ナルトー,False
+米津玄師,p1665,hachi_08,ジョジョの奇妙な冒険,荒木飛呂彦,ジョジョの奇妙な冒険,,,yes,series,no,ジョジョを最近読み始めた。面白い。,17,,最近読んだ,high,sns,https://x.com/hachi_08/status/439479091813552128,2014-02-28,suisenに同シリーズ複数ISBNあり（巻・版は特定せず）,2026-11-28,,False
+米津玄師,p1665,hachi_08,メダリスト,つるまいかだ,メダリスト,,9784065207833,yes,yes,no,とにかく原作の漫画が面白いのでおすすめです。,22,自身が主題歌を担当したアニメ告知内（タイアップ）。,その他,medium,sns,https://x.com/hachi_08/status/1864960468378620164,2024-12-06,,2026-11-28,メダリスト,False
+本田圭佑,,kskgroup2017,負債論 貨幣と暴力の5000年,デヴィッド・グレーバー,負債論,,9784753103348,no,yes,no,最近読んだお気に入りの本。シェアしたいと思ったくらいなので是非。,32,書名は添付写真の表紙から判断。,最近読んだ,high,sns,https://x.com/kskgroup2017/status/991495245933182976,2018-05-02,,2026-11-28,負債論,False
+本田圭佑,,kskgroup2017,FACTFULNESS,ハンス・ロスリング,FACTFULNESS,,9784822289607,no,yes,no,先日読んだファクトフルネスという本に影響を受けて,24,,最近読んだ,high,sns,https://x.com/kskgroup2017/status/1097004903304552448,2019-02-17,,2026-11-28,FACTFULNESS（ファクトフルネス）,False
+本田圭佑,,kskgroup2017,グラップラー刃牙,板垣恵介,グラップラー刃牙,,,no,no,no,イメトレで影響を受けたのは漫画のグラップラー刃牙です,26,子供の頃に影響を受けた漫画として。,その他,high,sns,https://x.com/kskgroup2017/status/1282279005782237185,2020-07-12,,2026-11-28,,False
+本田圭佑,,kskgroup2017,はだしのゲン,中沢啓治,はだしのゲン,,9784086126212,no,yes,no,漫画やゲームから教育を始めるべきだと思ってます。「はだしのゲン」とか。,35,戦争教育の教材として推す。,その他,medium,sns,https://x.com/kskgroup2017/status/1275394136447778823,2020-06-23,,2026-11-28,はだしのゲン,False
+高市早苗,,takaichi_sanae,医療と介護の法律入門,児玉安司,医療と介護の法律入門,,,no,no,no,新たな政治課題に気付かせて頂きました,18,出張中の機内で読んだ2冊のうち特に挙げた本。,最近読んだ,high,sns,https://x.com/takaichi_sanae/status/1695704365007605916,2023-08-27,,2026-11-28,,False
+高市早苗,,takaichi_sanae,汚れた英雄,大藪春彦,汚れた英雄,,,no,no,no,懐かしい小説『汚れた英雄』の再録記事が掲載されています！,28,雑誌の再録記事紹介。思い出として言及（推薦は弱め）。,その他,low,sns,https://x.com/takaichi_sanae/status/1525485617978544129,2022-05-14,,2026-11-28,,False
